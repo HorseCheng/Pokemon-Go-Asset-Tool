@@ -8,3 +8,5 @@ Sublime Text Editor: https://www.sublimetext.com/
 Useful Reference:
 Dump IL2CPP Unity3D Files: https://youtu.be/BN5UCGP_5os
 How to APK mine Pokémon GO: https://pokemongohub.net/how-to-apk-mine-pokemon-go/
+
+My Pokemon Go Data Spreadsheet: https://docs.google.com/spreadsheets/d/1BG352_bIzhn6QIAsJVpRGi7gH-VqarwHN9rySJV1fA8/edit?usp=sharing
