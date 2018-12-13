@@ -9,6 +9,7 @@ A place to share my APK mining and parser tool.
 *  [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases)  
 *  [pogo-game-master-decoder](https://github.com/apavlinovic/pogo-game-master-decoder)  
 *  [AssetStudio (UnityStudio)](https://github.com/Perfare/AssetStudio/releases/tag/v0.12.0)  
+*  [HxD](https://mh-nexus.de/en/hxd/)
 *  [Sublime Text Editor](https://www.sublimetext.com/)  
   
 ## Useful Reference  
