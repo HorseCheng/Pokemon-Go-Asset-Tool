@@ -2,6 +2,10 @@ Shader "Hidden/LuminanceBakeShader" {
 Properties {
 _MainTex ("Texture", 2D) = "white" { }
 _RampTex ("Ramp", 2D) = "white" { }
+_MaskTex ("Mask", 2D) = "black" { }
+_TintColorOne ("Red Channel Tint", Color) = (0.5,0.5,0.5,0.5)
+_TintColorTwo ("Green Channel Tint", Color) = (0.5,0.5,0.5,0.5)
+_TintColorThree ("Blue Channel Tint", Color) = (0.5,0.5,0.5,0.5)
 }
 SubShader {
  LOD 100
@@ -9,7 +13,7 @@ SubShader {
  Pass {
   LOD 100
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
-  GpuProgramID 29400
+  GpuProgramID 43463
 Program "vp" {
 SubProgram "gles3 hw_tier00 " {
 "#ifdef VERTEX
@@ -42,17 +46,35 @@ void main()
 #version 300 es
 
 precision highp int;
+uniform 	mediump vec4 _TintColorOne;
+uniform 	mediump vec4 _TintColorTwo;
+uniform 	mediump vec4 _TintColorThree;
 uniform lowp sampler2D _MainTex;
 uniform lowp sampler2D _RampTex;
+uniform lowp sampler2D _MaskTex;
 in highp vec2 vs_TEXCOORD0;
 layout(location = 0) out mediump vec4 SV_Target0;
 vec4 u_xlat0;
+lowp vec3 u_xlat10_0;
+mediump vec3 u_xlat16_1;
+lowp vec3 u_xlat10_2;
+mediump vec3 u_xlat16_3;
 void main()
 {
     u_xlat0.y = 0.5;
     u_xlat0.xw = texture(_MainTex, vs_TEXCOORD0.xy).xw;
-    u_xlat0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
-    SV_Target0 = u_xlat0;
+    SV_Target0.w = u_xlat0.w;
+    u_xlat10_0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_0.xyz * _TintColorOne.xyz;
+    u_xlat16_1.xyz = u_xlat16_1.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat10_0.xyz);
+    u_xlat10_2.xyz = texture(_MaskTex, vs_TEXCOORD0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_2.xxx * u_xlat16_1.xyz + u_xlat10_0.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorTwo.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    u_xlat16_1.xyz = u_xlat10_2.yyy * u_xlat16_3.xyz + u_xlat16_1.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorThree.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    SV_Target0.xyz = u_xlat10_2.zzz * u_xlat16_3.xyz + u_xlat16_1.xyz;
     return;
 }
 
@@ -90,17 +112,35 @@ void main()
 #version 300 es
 
 precision highp int;
+uniform 	mediump vec4 _TintColorOne;
+uniform 	mediump vec4 _TintColorTwo;
+uniform 	mediump vec4 _TintColorThree;
 uniform lowp sampler2D _MainTex;
 uniform lowp sampler2D _RampTex;
+uniform lowp sampler2D _MaskTex;
 in highp vec2 vs_TEXCOORD0;
 layout(location = 0) out mediump vec4 SV_Target0;
 vec4 u_xlat0;
+lowp vec3 u_xlat10_0;
+mediump vec3 u_xlat16_1;
+lowp vec3 u_xlat10_2;
+mediump vec3 u_xlat16_3;
 void main()
 {
     u_xlat0.y = 0.5;
     u_xlat0.xw = texture(_MainTex, vs_TEXCOORD0.xy).xw;
-    u_xlat0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
-    SV_Target0 = u_xlat0;
+    SV_Target0.w = u_xlat0.w;
+    u_xlat10_0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_0.xyz * _TintColorOne.xyz;
+    u_xlat16_1.xyz = u_xlat16_1.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat10_0.xyz);
+    u_xlat10_2.xyz = texture(_MaskTex, vs_TEXCOORD0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_2.xxx * u_xlat16_1.xyz + u_xlat10_0.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorTwo.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    u_xlat16_1.xyz = u_xlat10_2.yyy * u_xlat16_3.xyz + u_xlat16_1.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorThree.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    SV_Target0.xyz = u_xlat10_2.zzz * u_xlat16_3.xyz + u_xlat16_1.xyz;
     return;
 }
 
@@ -138,17 +178,35 @@ void main()
 #version 300 es
 
 precision highp int;
+uniform 	mediump vec4 _TintColorOne;
+uniform 	mediump vec4 _TintColorTwo;
+uniform 	mediump vec4 _TintColorThree;
 uniform lowp sampler2D _MainTex;
 uniform lowp sampler2D _RampTex;
+uniform lowp sampler2D _MaskTex;
 in highp vec2 vs_TEXCOORD0;
 layout(location = 0) out mediump vec4 SV_Target0;
 vec4 u_xlat0;
+lowp vec3 u_xlat10_0;
+mediump vec3 u_xlat16_1;
+lowp vec3 u_xlat10_2;
+mediump vec3 u_xlat16_3;
 void main()
 {
     u_xlat0.y = 0.5;
     u_xlat0.xw = texture(_MainTex, vs_TEXCOORD0.xy).xw;
-    u_xlat0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
-    SV_Target0 = u_xlat0;
+    SV_Target0.w = u_xlat0.w;
+    u_xlat10_0.xyz = texture(_RampTex, u_xlat0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_0.xyz * _TintColorOne.xyz;
+    u_xlat16_1.xyz = u_xlat16_1.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat10_0.xyz);
+    u_xlat10_2.xyz = texture(_MaskTex, vs_TEXCOORD0.xy).xyz;
+    u_xlat16_1.xyz = u_xlat10_2.xxx * u_xlat16_1.xyz + u_xlat10_0.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorTwo.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    u_xlat16_1.xyz = u_xlat10_2.yyy * u_xlat16_3.xyz + u_xlat16_1.xyz;
+    u_xlat16_3.xyz = u_xlat16_1.xyz * _TintColorThree.xyz;
+    u_xlat16_3.xyz = u_xlat16_3.xyz * vec3(2.0, 2.0, 2.0) + (-u_xlat16_1.xyz);
+    SV_Target0.xyz = u_xlat10_2.zzz * u_xlat16_3.xyz + u_xlat16_1.xyz;
     return;
 }
 

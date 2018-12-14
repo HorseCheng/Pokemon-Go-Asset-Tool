@@ -12,7 +12,7 @@ SubShader {
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   ZWrite Off
   Cull Off
-  GpuProgramID 40836
+  GpuProgramID 2785
 Program "vp" {
 SubProgram "gles hw_tier00 " {
 "#version 100
@@ -33,16 +33,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 
@@ -88,16 +91,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 
@@ -143,16 +149,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 
@@ -199,16 +208,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 
@@ -255,16 +267,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 
@@ -311,16 +326,19 @@ varying highp vec2 xlv_TEXCOORD0;
 varying highp vec2 xlv_TEXCOORD1;
 void main ()
 {
-  highp vec4 tmpvar_1;
-  tmpvar_1.w = 1.0;
-  tmpvar_1.xyz = _glesVertex.xyz;
-  highp vec2 tmpvar_2;
-  tmpvar_2.x = (_Time.x * _WarpSpeedX);
-  tmpvar_2.y = (_Time.x * _WarpSpeedY);
-  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_1));
-  xlv_COLOR = _glesColor;
+  lowp vec4 tmpvar_1;
+  highp vec4 tmpvar_2;
+  tmpvar_2.w = 1.0;
+  tmpvar_2.xyz = _glesVertex.xyz;
+  tmpvar_1.xyz = (_glesColor.xyz * (1.0 + _glesMultiTexCoord0.z));
+  tmpvar_1.w = (_glesColor.w * (1.0 + _glesMultiTexCoord0.w));
+  highp vec2 tmpvar_3;
+  tmpvar_3.x = (_Time.x * _WarpSpeedX);
+  tmpvar_3.y = (_Time.x * _WarpSpeedY);
+  gl_Position = (unity_MatrixVP * (unity_ObjectToWorld * tmpvar_2));
+  xlv_COLOR = tmpvar_1;
   xlv_TEXCOORD0 = ((_glesMultiTexCoord0.xy * _MainTex_ST.xy) + _MainTex_ST.zw);
-  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_2);
+  xlv_TEXCOORD1 = (((_glesMultiTexCoord0.xy * _WarpTex_ST.xy) + _WarpTex_ST.zw) + tmpvar_3);
 }
 
 

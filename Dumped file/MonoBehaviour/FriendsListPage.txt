@@ -1,8 +1,8 @@
 PPtr<GameObject> m_GameObject
 	int m_FileID = 0
-	int64 m_PathID = 5904
+	int64 m_PathID = 6218
 UInt8 m_Enabled = 1
 PPtr<MonoScript> m_Script
 	int m_FileID = 1
-	int64 m_PathID = 1480
+	int64 m_PathID = 1534
 string m_Name = ""

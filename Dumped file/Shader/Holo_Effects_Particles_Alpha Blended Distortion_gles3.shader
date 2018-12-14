@@ -12,7 +12,7 @@ SubShader {
   Tags { "IGNOREPROJECTOR" = "true" "QUEUE" = "Transparent" "RenderType" = "Transparent" }
   ZWrite Off
   Cull Off
-  GpuProgramID 40836
+  GpuProgramID 2785
 Program "vp" {
 SubProgram "gles3 hw_tier00 " {
 "#ifdef VERTEX
@@ -27,7 +27,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -43,7 +43,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
@@ -92,7 +94,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -108,7 +110,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
@@ -157,7 +161,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -173,7 +177,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
@@ -223,7 +229,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -239,7 +245,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
@@ -289,7 +297,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -305,7 +313,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
@@ -355,7 +365,7 @@ uniform 	vec4 _MainTex_ST;
 uniform 	vec4 _WarpTex_ST;
 in highp vec4 in_POSITION0;
 in mediump vec4 in_COLOR0;
-in highp vec2 in_TEXCOORD0;
+in highp vec4 in_TEXCOORD0;
 out mediump vec4 vs_COLOR0;
 out highp vec2 vs_TEXCOORD0;
 out highp vec2 vs_TEXCOORD1;
@@ -371,7 +381,9 @@ void main()
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;
     u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;
     gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;
-    vs_COLOR0 = in_COLOR0;
+    u_xlat0 = vec4(in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.z + float(1.0), in_TEXCOORD0.w + float(1.0));
+    u_xlat0 = u_xlat0 * in_COLOR0;
+    vs_COLOR0 = u_xlat0;
     u_xlat0.xy = in_TEXCOORD0.xy * _WarpTex_ST.xy + _WarpTex_ST.zw;
     vs_TEXCOORD1.xy = _Time.xx * vec2(_WarpSpeedX, _WarpSpeedY) + u_xlat0.xy;
     vs_TEXCOORD0.xy = in_TEXCOORD0.xy * _MainTex_ST.xy + _MainTex_ST.zw;
