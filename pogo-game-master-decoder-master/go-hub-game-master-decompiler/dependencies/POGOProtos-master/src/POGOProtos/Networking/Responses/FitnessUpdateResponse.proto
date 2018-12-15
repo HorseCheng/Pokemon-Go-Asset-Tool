@@ -1,0 +1,12 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+message FitnessUpdateResponse {
+	enum Status {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_UNKNOWN = 2;
+	}
+
+	Status status = 1;
+}

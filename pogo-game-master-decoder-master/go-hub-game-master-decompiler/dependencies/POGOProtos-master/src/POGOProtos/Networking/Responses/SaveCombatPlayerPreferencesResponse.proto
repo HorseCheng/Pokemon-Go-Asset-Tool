@@ -1,0 +1,12 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+message SaveCombatPlayerPreferencesResponse {
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_UNKNOWN = 2;
+	}
+
+	Result result = 1;
+}
