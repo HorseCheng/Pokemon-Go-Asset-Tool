@@ -1,11 +1,15 @@
 import re
-ff=open("1208emerged.txt","r",encoding="UTF-8")
-b=ff.readlines()
-fff=open("1208merged.txt","r",encoding="UTF-8")
-c=fff.readlines()
 
-f=open("20181212.txt",'r',encoding="UTF-8")
-a=f.readlines()
+date="20181215"
+version="0.131.1"
+
+emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
+eng=emerged.readlines()
+merged=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")
+chi=merged.readlines()
+masterfile=open("Game_Master/"+date+".txt",'r',encoding="UTF-8")
+master=masterfile.readlines()
+
 Key =''' "pokemon_type_bug"
 			string Translation = "蟲"
 			string Key = "pokemon_type_dark"
@@ -42,86 +46,125 @@ Key =''' "pokemon_type_bug"
 			string Translation = "鋼"
 			string Key = "pokemon_type_water"
 			string Translation = "水"'''
-Key=Key.split("\n")   
-quick =[[],[],[]]
-charge=[[],[],[]]
-stringquick = ["" for x in range(4)]
-stringcharge = ["" for x in range(4)]
-index=0
-alola=[19,20,26,27,28,37,38,50,51,52,53,74,75,76,88,89,103,105]
-for i in range(17000,45000):
-    temp=re.search("template_id: \"V[0-9]+_MOVE_",a[i])
+Key=Key.split("\n")
+   
+quick =[[],[],[]] #0:Index #1:Eng Name #2:Chi Name
+charge=[[],[],[]] #0:Index #1:Eng Name #2:Chi Name
+stringquick = ["" for x in range(4)] #1:Type #2:Power #3:Duration #4:Energy Delta
+stringcharge = ["" for x in range(4)] #1:Type #2:Power #3:Duration #4:Energy Delta
+stringquickpvp = ["" for x in range(3)] #1:Power #2:Energy Delta #3:Duration_turn 
+stringchargepvp = ["" for x in range(3)] #1:Power #2:Energy Delta
+
+index=0 #Move index
+noww=0  #have searched to which line
+
+def move_info(index,qorc,position,battletype):
+    temp=re.search("[0-9\-\.]+",master[position]).group()# find the coefficient
+    if battletype=='gym':
+        if(qorc==1):stringquick[index]+=(temp+'\n')
+        else:stringcharge[index]+=(temp+'\n')
+    else:
+        if(qorc==1):stringquickpvp[index]+=(temp+'\n')
+        else:stringchargepvp[index]+=(temp+'\n')
+        
+for i in range(0,len(master)): #Find the Move info for Gym, Raid
+    if("camera_aerialace" in master[i]):break 
+    temp=re.search("template_id: \"V[0-9]+_MOVE_",master[i])
     if(temp):
-
-        if("_FAST" in a[i]):qorc=1;
+        if("_FAST" in master[i]):qorc=1; #qorc: quick attack or charge attack
         else:qorc=0
-        index=re.search("[0-9]+",a[i]).group()
-        if qorc==1:
+        index=re.search("[0-9]+",master[i]).group()
+        if qorc==1: #quick attack
             quick[0].append(index)
-            for e in range(5000,6600):
-                if(index in b[e]):
-                    position=b[e+1].find("\"")
+            for e in range(noww,len(eng)):
+                if("move_reroll_confirm_desc" in eng[e]):break
+                if("move_name_" in eng[e] and index in eng[e]):
+                    position=eng[e+1].find("\"")  #find the position of "MOVE NAME"
                     temp=""
-                    for x in range(position+1,len(b[e+1])-2):
-                        temp+=b[e+1][x]
+                    for x in range(position+1,len(eng[e+1])-2):
+                        temp+=eng[e+1][x]
                     quick[1].append(temp)
-                if(index in c[e]):
-                        quick[2].append(re.search("[\u4e00-\u9fa5]+",c[e+1]).group())
-
-        else:
+                    noww=e
+                if("move_name_" in chi[e] and index in chi[e]):
+                        quick[2].append(re.search("[\u4e00-\u9fa5]+",chi[e+1]).group())#Search for chinese word
+                        break
+        else: #charge attack
             charge[0].append(index)
-            for e in range(5000,6600):
-                    if(re.search(index,b[e])):
-                        position=b[e+1].find("\"")
-                        temp=""
-                        for x in range(position+1,len(b[e+1])-2):
-                            temp+=b[e+1][x]
-                        charge[1].append(temp)
-                    if(re.search(index,c[e])):
-                        charge[2].append(re.search("[\u4e00-\u9fa5]+",c[e+1]).group())
-        checkmatrix=[0 for c in range(0,4)]
-        for y in range(i,len(a)):
-                if("pokemon_type:" in a[y]):
-                    i=y;checkmatrix[0]=1
-                    position=a[i].find(":")
+            for e in range(noww,len(eng)):
+                if("move_reroll_confirm_desc" in eng[e]):break
+                if("move_name_" in eng[e] and index in eng[e]):
+                    position=eng[e+1].find("\"")
                     temp=""
-                    for tt in range(position+2,len(a[i])-1):
-                         temp+=(str(a[i][tt].lower()))
+                    for x in range(position+1,len(eng[e+1])-2):
+                        temp+=eng[e+1][x]
+                    noww=e
+                    charge[1].append(temp)
+                if("move_name_" in chi[e] and index in chi[e]):
+                    charge[2].append(re.search("[\u4e00-\u9fa5]+",chi[e+1]).group())
+                    break
+                
+        #Search Detailed move information in Game Master       
+        checkmatrix=[0 for c in range(0,4)] #check whether the move information is not showed in Game Master
+        for y in range(i,len(master)):
+                if("pokemon_type:" in master[y]):
+                    checkmatrix[0]=1 #not empty
+                    position=master[y].find(":")
+                    temp=""
+                    for tt in range(position+2,len(master[y])-1):
+                         temp+=(str(master[y][tt].lower()))
                     for z in range(0,len(Key)):
-                        if (temp in Key[z]):
+                        if (temp in Key[z]): #find chinese word
                             if(qorc==1):stringquick[0]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n';
                             else:stringcharge[0]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n'
                     continue
-                if("power:" in a[y]):
-                    i=y;checkmatrix[1]=1
-                    position=a[i].find(":")
-                    temp=""
-                    for ind in range(position+1,len(a[i])):
-                        if(qorc==1):stringquick[1]+=a[i][ind]
-                        else:stringcharge[1]+=a[i][ind]
+                if("power:" in master[y]):
+                    checkmatrix[1]=1 #not empty
+                    move_info(1,qorc,y,'gym')
                     continue
-                if("duration_ms" in a[y]):
-                    i=y;checkmatrix[2]=1
-                    position=a[i].find(": ")
-                    for ind in range(position+1,len(a[i])):
-                        if(qorc==1):stringquick[2]+=a[i][ind]
-                        else:stringcharge[2]+=a[i][ind]
+                if("duration_ms" in master[y]):
+                    checkmatrix[2]=1 #not empty
+                    move_info(2,qorc,y,'gym')
                     continue
-                if("energy_delta:" in a[y]):
-                    i=y;checkmatrix[3]=1;
-                    position=a[i].find(": ")
-                    for ind in range(position+1,len(a[i])):
-                        if(qorc==1):stringquick[3]+=a[i][ind]
-                        else:stringcharge[3]+=a[i][ind]
+                if("energy_delta:" in master[y]):
+                    checkmatrix[3]=1 #not empty
+                    move_info(3,qorc,y,'gym')
                     continue
-                if("}" in a[y]):
-                    i=y
+                if("}" in master[y]):
                     for t in range(0,len(checkmatrix)):
-                        if (checkmatrix[t]==0):
-                            if(qorc==1):stringquick[t]+='\n'
-                            else:stringcharge[t]+='\n'
-                    break
-
+                        if (checkmatrix[t]==0):#info not in Game Master
+                            if(qorc==1):stringquick[t]+=' \n'
+                            else:stringcharge[t]+=' \n'
+                    i=y;break
+                
+for i in range(0,len(master)): #Find the Move info for PVP
+    if("ENCOUNTER_SETTINGS" in master[i]):break
+    temp=re.search("template_id: \"COMBAT_V[0-9]+_MOVE_",master[i])
+    if(temp):
+        if("_FAST" in master[i]):qorc=1; #qorc: quick attack or charge attack
+        else:qorc=0
+        index=re.search("[0-9]+",master[i]).group()
+        checkmatrix=[0 for c in range(0,3)] #check whether the move information is not showed in Game Master
+        for y in range(i,len(master)):
+                if("power:" in master[y]):
+                    checkmatrix[0]=1 #not empty
+                    move_info(0,qorc,y,'combat')
+                    continue
+                if("duration_turns:" in master[y]):
+                    checkmatrix[2]=1 #not empty
+                    move_info(2,qorc,y,'combat')
+                    continue
+                if("energy_delta:" in master[y]):
+                    checkmatrix[1]=1 #not empty
+                    move_info(1,qorc,y,'combat')
+                    continue
+                if("}" in master[y]):
+                    for t in range(0,len(checkmatrix)):
+                        if (checkmatrix[t]==0):#info not in Game Master
+                            if(qorc==1):stringquickpvp[t]+=' \n'
+                            else:stringchargepvp[t]+=' \n'
+                    i=y;break
+                
+#output data              
 with open('move/quick.txt', 'w') as f:
     for i in range(0,len(quick[1])):
         f.write("%s\n" % (quick[1][i]))
@@ -139,18 +182,30 @@ with open('move/chargech.txt', 'w') as f:
         f.write("%s %s\n" % (charge[0][i],charge[2][i]))
     f.close()
 
-    
-aa=open("move/quick/pokemon_type.txt","w",encoding="UTF-8")
-bb=open("move/quick/power.txt","w",encoding="UTF-8")
-cc=open("move/quick/duraion.txt","w",encoding="UTF-8")
-dd=open("move/quick/energy_delta.txt","w",encoding="UTF-8")
+aa=open("move/quick/pokemon_type_"+date+".txt","w",encoding="UTF-8")
+bb=open("move/quick/power_"+date+".txt","w",encoding="UTF-8")
+cc=open("move/quick/duration_"+date+".txt","w",encoding="UTF-8")
+dd=open("move/quick/energy_delta_"+date+".txt","w",encoding="UTF-8")
 aa.write(stringquick[0]);bb.write(stringquick[1]);cc.write(stringquick[2]);dd.write(stringquick[3]);
 aa.close();bb.close();cc.close();dd.close()
 
-    
-aa=open("move/charge/pokemon_type.txt","w",encoding="UTF-8")
-bb=open("move/charge/power.txt","w",encoding="UTF-8")
-cc=open("move/charge/duraion.txt","w",encoding="UTF-8")
-dd=open("move/charge/energy_delta.txt","w",encoding="UTF-8")
+aa=open("move/charge/pokemon_type_"+date+".txt","w",encoding="UTF-8")
+bb=open("move/charge/power_"+date+".txt","w",encoding="UTF-8")
+cc=open("move/charge/duration_"+date+".txt","w",encoding="UTF-8")
+dd=open("move/charge/energy_delta_"+date+".txt","w",encoding="UTF-8")
 aa.write(stringcharge[0]);bb.write(stringcharge[1]);cc.write(stringcharge[2]);dd.write(stringcharge[3]);
 aa.close();bb.close();cc.close();dd.close()
+
+
+aa=open("move/quick/pvppower_"+date+".txt","w",encoding="UTF-8")
+bb=open("move/quick/pvpenergy_delta_"+date+".txt","w",encoding="UTF-8")
+
+aa.write(stringquickpvp[0]);bb.write(stringquickpvp[1])
+aa.close();bb.close();
+
+aa=open("move/charge/pvppower_"+date+".txt","w",encoding="UTF-8")
+bb=open("move/charge/pvpenergy_delta_"+date+".txt","w",encoding="UTF-8")
+aa.write(stringchargepvp[0]);bb.write(stringchargepvp[1]);
+aa.close();bb.close()
+
+s=open("move/quick/pvpduration_"+date+".txt","w",encoding="UTF-8");s.write(stringquickpvp[2]);s.close;
