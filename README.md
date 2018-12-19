@@ -1,10 +1,10 @@
-# Pokemon-Go-Asset
-A place to share my APK mining and parser tool.  
+﻿# Pokemon-Go-Asset
+A place to share my Pokemon Go Game Master parser tool.  
+For My APK mining assets dumped place: [Pokemon Go APK Asset GitHub](https://github.com/HorseCheng/Pokemon-Go-APK-Asset.git)  
 ## My Works  
 *  [Pokemon Go Data Spreadsheet](https://docs.google.com/spreadsheets/d/1BG352_bIzhn6QIAsJVpRGi7gH-VqarwHN9rySJV1fA8/edit?usp=sharing)  
-    *  [(Make a copy)](https://docs.google.com/spreadsheets/d/1BG352_bIzhn6QIAsJVpRGi7gH-VqarwHN9rySJV1fA8/copy)  
-  
-*  [All articles in Pogo forum](https://forum.gamer.com.tw/search.php?bsn=29659&forumSearchQuery=HorseCheng#gsc.tab=0&gsc.q=HorseCheng&gsc.sort=date)  
+    *  [(Create a copy)](https://docs.google.com/spreadsheets/d/1BG352_bIzhn6QIAsJVpRGi7gH-VqarwHN9rySJV1fA8/copy)  
+*  [All articles in Taiwan's Pogo forum](https://forum.gamer.com.tw/search.php?bsn=29659&forumSearchQuery=HorseCheng#gsc.tab=0&gsc.q=HorseCheng&gsc.sort=date)  
 ## Useful Tool  
 *  [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases)  
 *  [pogo-game-master-decoder](https://github.com/apavlinovic/pogo-game-master-decoder)  

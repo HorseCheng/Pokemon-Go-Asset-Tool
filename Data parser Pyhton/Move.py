@@ -163,7 +163,13 @@ for i in range(0,len(master)): #Find the Move info for PVP
                             if(qorc==1):stringquickpvp[t]+=' \n'
                             else:stringchargepvp[t]+=' \n'
                     i=y;break
-                
+i=0
+while i<len(stringquickpvp[2]):
+    if(stringquickpvp[2][i]==" "):stringquickpvp[2]=stringquickpvp[2][:i] + '1' + stringquickpvp[2][i+1:]
+    else:stringquickpvp[2]=stringquickpvp[2][:i] + str(int(stringquickpvp[2][i])+1) + stringquickpvp[2][i+1:]
+    i+=2
+    
+print(stringquickpvp[2])     
 #output data              
 with open('move/quick.txt', 'w') as f:
     for i in range(0,len(quick[1])):

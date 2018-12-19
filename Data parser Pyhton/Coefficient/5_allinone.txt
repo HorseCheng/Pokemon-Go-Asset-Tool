@@ -1,0 +1,43 @@
+max_egg_player_level: 20
+max_encounter_player_level: 30
+max_quest_encounter_player_level: 15
+
+WEATHER_BONUS_SETTINGS: 
+guaranteed_individual_values: 4
+stardust_bonus_multiplier: 1.25
+attack_bonus_multiplier: 1.2
+raid_encounter_cp_base_level_bonus: 5
+raid_encounter_guaranteed_individual_values: 10
+
+COMBAT_SETTINGS: 
+round_duration_seconds: 240
+turn_duration_seconds: 0.5
+minigame_duration_seconds: 4
+same_type_attack_bonus_multiplier: 1.2
+fast_attack_bonus_multiplier: 1.3
+charge_attack_bonus_multiplier: 1.3
+defense_bonus_multiplier: 1
+minigame_bonus_base_multiplier: 0.0001
+minigame_bonus_variable_multiplier: 1
+max_energy: 100
+defender_minigame_multiplier: 1
+change_pokemon_duration_seconds: 12
+minigame_submit_score_duration_seconds: 10
+quick_swap_cooldown_duration_seconds: 60
+
+BATTLE_SETTINGS: 
+retarget_seconds: 0.5
+enemy_attack_interval: 1.5
+attack_server_interval: 5
+round_duration_seconds: 99
+bonus_time_per_ally_seconds: 10
+maximum_attackers_per_battle: 20
+same_type_attack_bonus_multiplier: 1.2
+maximum_energy: 100
+energy_delta_per_health_lost: 0.5
+dodge_duration_ms: 500
+minimum_player_level: 5
+swap_duration_ms: 1000
+dodge_damage_reduction_percent: 0.75
+minimum_raid_player_level: 5
+
