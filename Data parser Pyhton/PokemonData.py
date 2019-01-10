@@ -9,6 +9,13 @@ merged=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")
 chi=merged.readlines()
 masterfile=open("Game_Master/"+date+".txt",'r',encoding="UTF-8")
 master=masterfile.readlines()
+weatherformfile=open("Coefficient/6_weather.txt",'r',encoding="UTF-8")
+weatherform=weatherformfile.readlines()
+
+for x in range(len(chi)): #find chinese name for type name
+    if("pokemon_type_" in chi[x]):Key=x;break;
+
+alola=[19,20,26,27,28,37,38,50,51,52,53,74,75,76,88,89,103,105]
 
 Key =''' "pokemon_type_bug"
 			string Translation = "蟲"
@@ -48,24 +55,13 @@ Key =''' "pokemon_type_bug"
 			string Translation = "水"'''
 Key=Key.split("\n")
 
-alola=[19,20,26,27,28,37,38,50,51,52,53,74,75,76,88,89,103,105]
-
-'''
-f=open("20181215.txt",'r',encoding="UTF-8")
-a=f.readlines()
-ff=open("1208emerged.txt","r",encoding="UTF-8") #10000-14000
-b=ff.readlines()
-fff=open("1208merged.txt","r",encoding="UTF-8") #11000-14000,7000-9000,9000-11000
-c=fff.readlines()
-'''
 i=0
 string = ["" for x in range(13)]
-typee=["",""]
+typee=["","","",""]
 intro=["","","",""]#eng name, chi name, chi type, chi intro,
 check=1;checknum=0
 gender=[0,0,0]
 pokecheck=[[0 for c in range(0,1000)],[0 for c in range(0,1000)]] #checkbit, cnt
-
 
 def set(index,inn):
     checkmatrix[inn]=1
@@ -81,7 +77,7 @@ for i in range(0,len(master)):
         num=int(num.group())
 
         checkmatrix=[0 for c in range(0,13)]
-        typecheck=[0,0]
+        typecheck=[0,0,0,0]
         
         if (num in alola) or (num in [386,479,493]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
@@ -93,14 +89,18 @@ for i in range(0,len(master)):
         justone=1 #evolution might have several types, each has "candy_cost"
         for y in range(i,len(master)):
             if("type: POKEMON_TYPE_" in master[y]):
-                i=y;typecheck[0]=1
+                i=y;typecheck[0]=typecheck[2]=1
                 position=master[i].find(":")
                 temp=""
                 for tt in range(position+2,len(master[i])-1):
                      temp+=(str(master[i][tt].lower()))
                 for z in range(0,len(Key)):
                     if (temp in Key[z]):
-                        typee[0]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n'
+                        type1=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()
+                        typee[0]+=type1+'\n'
+                        for w in range(len(weatherform)):
+                            if(type1 in weatherform[w]):
+                                typee[2]+=re.search("[\u4e00-\u9fa5]+|$",weatherform[w]).group()+'\n'
                 continue
             if("type_2: POKEMON_TYPE_" in master[y]):
                 i=y;typecheck[1]=1
@@ -110,7 +110,13 @@ for i in range(0,len(master)):
                      temp+=(str(master[i][tt].lower()))
                 for z in range(0,len(Key)):
                     if (temp in Key[z]):
-                        typee[1]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n'
+                        type2=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()
+                        typee[1]+=type2+'\n'
+                        for w in range(len(weatherform)):
+                            if(type2 in weatherform[w]):
+                                temp=re.search("[\u4e00-\u9fa5]+|$",weatherform[w]).group() 
+                                if(temp not in typee[2][-5:-1]):
+                                    typee[3]+=temp+'\n';typecheck[3]=1
                 continue
             if("disk_radius_m: " in master[y]):
                 i=y;set(i,12)
@@ -161,8 +167,8 @@ for i in range(0,len(master)):
                 i=y
                 for t in range(0,len(checkmatrix)):
                     if (checkmatrix[t]==0):string[t]+='\n'
-                if(typecheck[0]==0):typee[0]+='\n'
-                if(typecheck[1]==0):typee[1]+='\n'
+                for t in range(0,len(typecheck)):
+                    if (typecheck[t]==0):typee[t]+='\n'
                 break      
 
 startt=0
@@ -240,9 +246,7 @@ for i in range(0,len(master)):
         elif (float(gender[0]) and float(gender[1])): genderstr +=str(gender[0])+'\n'
         elif(float(gender[0])==0): genderstr+='全女性\n' #All femal
         elif(float(gender[1])==0): genderstr+='全男性\n' #All Male
-dd='mul/'
-aa=open(dd+"/test.txt","w",encoding="UTF-8")
-aa.write(string[10]);aa.close()
+
 
 dd='mul/' 
 cnt=0;
@@ -268,16 +272,18 @@ while(True):
 cc=open(dd+'/4_allinone.txt',"w",encoding="UTF-8")
 cc.write(newstring);cc.close()
 
-output=[dd+'2_pokeeng.txt',dd+'1_pokechi.txt',dd+'17_poketype.txt',dd+'18_pokeintro.txt']
+output=[dd+'2_pokeeng.txt',dd+'1_pokechi.txt',dd+'19_poketype.txt',dd+'20_pokeintro.txt']
 for i in range(0,len(intro)):
         xx=open(output[i],"w",encoding="UTF-8")
         xx.write(intro[i])
         xx.close()
-aa=open(dd+"/15_typeone.txt","w",encoding="UTF-8")
+aa=open(dd+"15_typeone.txt","w",encoding="UTF-8")
 bb=open(dd+"16_tyoetwo.txt","w",encoding="UTF-8")
 cc=open(dd+"10_gender.txt","w",encoding="UTF-8")
-aa.write(typee[0]);aa.close()
-bb.write(typee[1]);bb.close()
+de=open(dd+"17_weathereone.txt","w",encoding="UTF-8")
+ef=open(dd+"18_weathertwo.txt","w",encoding="UTF-8")
+aa.write(typee[0]);aa.close();  bb.write(typee[1]);bb.close()
+de.write(typee[2]);de.close() ; ef.write(typee[3]);ef.close()
 cc.write(genderstr);cc.close()
 
 

@@ -1,3 +1,0 @@
-cd C:\Users\ihors\Desktop\Pokemon\pogo-game-master-decoder-master\pogo-game-master-decoder-master\go-hub-game-master-decompiler
-
-gamemaster-decompile.bat 

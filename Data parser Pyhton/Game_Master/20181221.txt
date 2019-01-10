@@ -679,7 +679,7 @@ item_templates {
     group_name: "group_gloves"
     sort_order: 42
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.f_gloves_delibird_0"
+    iap_sku: "pgorelease.avatar.f_gloves_delibird_0"
     icon_name: "f_gloves_delibird_0_bundle_icon"
   }
 }
@@ -1150,7 +1150,7 @@ item_templates {
     group_name: "group_hat"
     sort_order: 70
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.f_hat_delibird_0"
+    iap_sku: "pgorelease.avatar.f_hat_delibird_0"
     icon_name: "f_hat_delibird_0_bundle_icon"
   }
 }
@@ -3195,7 +3195,7 @@ item_templates {
     group_name: "group_shoes"
     sort_order: 198
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.f_shoes_delibird_0"
+    iap_sku: "pgorelease.avatar.f_shoes_delibird_0"
     icon_name: "f_shoes_delibird_0_bundle_icon"
   }
 }
@@ -4037,7 +4037,7 @@ item_templates {
     group_name: "group_gloves"
     sort_order: 1028
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.m_gloves_delibird_0"
+    iap_sku: "pgorelease.avatar.m_gloves_delibird_0"
     icon_name: "m_gloves_delibird_0_bundle_icon"
   }
 }
@@ -4465,7 +4465,7 @@ item_templates {
     group_name: "group_hat"
     sort_order: 1056
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.m_hat_delibird_0"
+    iap_sku: "pgorelease.avatar.m_hat_delibird_0"
     icon_name: "m_hat_delibird_0_bundle_icon"
   }
 }
@@ -5284,7 +5284,7 @@ item_templates {
     group_name: "group_shirt"
     sort_order: 1110
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.m_shirt_delibird_0"
+    iap_sku: "pgorelease.avatar.m_shirt_delibird_0"
     icon_name: "m_shirt_delibird_0_bundle_icon"
   }
 }
@@ -6100,7 +6100,7 @@ item_templates {
     group_name: "group_shoes"
     sort_order: 1171
     unlock_type: IAP_CLOTHING
-    iap_sku: "devholoholo.avatar.m_shoes_delibird_0"
+    iap_sku: "pgorelease.avatar.m_shoes_delibird_0"
     icon_name: "m_shoes_delibird_0_bundle_icon"
   }
 }
@@ -7182,59 +7182,6 @@ item_templates {
     pokemon_count: 3
     banned_pokemon: DITTO
     banned_pokemon: SHEDINJA
-    banned_pokemon: DARKRAI
-    banned_pokemon: CHINGLING
-    banned_pokemon: BRONZOR
-    banned_pokemon: BRONZONG
-    banned_pokemon: MUNCHLAX
-    banned_pokemon: SKORUPI
-    banned_pokemon: DRAPION
-    banned_pokemon: CROAGUNK
-    banned_pokemon: TOXICROAK
-    banned_pokemon: FINNEON
-    banned_pokemon: LUMINEON
-    banned_pokemon: MANTYKE
-    banned_pokemon: SNOVER
-    banned_pokemon: ABOMASNOW
-    banned_pokemon: UXIE
-    banned_pokemon: MESPRIT
-    banned_pokemon: AZELF
-    banned_pokemon: CRANIDOS
-    banned_pokemon: RAMPARDOS
-    banned_pokemon: SHIELDON
-    banned_pokemon: BASTIODON
-    banned_pokemon: COMBEE
-    banned_pokemon: VESPIQUEN
-    banned_pokemon: AMBIPOM
-    banned_pokemon: GLAMEOW
-    banned_pokemon: PURUGLY
-    banned_pokemon: BONSLY
-    banned_pokemon: MIME_JR
-    banned_pokemon: HAPPINY
-    banned_pokemon: LICKILICKY
-    banned_pokemon: TANGROWTH
-    banned_pokemon: YANMEGA
-    banned_pokemon: MAMOSWINE
-    banned_pokemon: GALLADE
-    banned_pokemon: FROSLASS
-    banned_pokemon: BURMY
-    banned_pokemon: WORMADAM
-    banned_pokemon: MOTHIM
-    banned_pokemon: CHERUBI
-    banned_pokemon: CHERRIM
-    banned_pokemon: SHELLOS
-    banned_pokemon: GASTRODON
-    banned_pokemon: HIPPOPOTAS
-    banned_pokemon: HIPPOWDON
-    banned_pokemon: MAGNEZONE
-    banned_pokemon: LEAFEON
-    banned_pokemon: GLACEON
-    banned_pokemon: PROBOPASS
-    banned_pokemon: ROTOM
-    banned_pokemon: PHIONE
-    banned_pokemon: MANAPHY
-    banned_pokemon: SHAYMIN
-    banned_pokemon: ARCEUS
     badge_type: BADGE_GREAT_LEAGUE
   }
 }
@@ -7261,59 +7208,6 @@ item_templates {
     pokemon_count: 3
     banned_pokemon: DITTO
     banned_pokemon: SHEDINJA
-    banned_pokemon: DARKRAI
-    banned_pokemon: CHINGLING
-    banned_pokemon: BRONZOR
-    banned_pokemon: BRONZONG
-    banned_pokemon: MUNCHLAX
-    banned_pokemon: SKORUPI
-    banned_pokemon: DRAPION
-    banned_pokemon: CROAGUNK
-    banned_pokemon: TOXICROAK
-    banned_pokemon: FINNEON
-    banned_pokemon: LUMINEON
-    banned_pokemon: MANTYKE
-    banned_pokemon: SNOVER
-    banned_pokemon: ABOMASNOW
-    banned_pokemon: UXIE
-    banned_pokemon: MESPRIT
-    banned_pokemon: AZELF
-    banned_pokemon: CRANIDOS
-    banned_pokemon: RAMPARDOS
-    banned_pokemon: SHIELDON
-    banned_pokemon: BASTIODON
-    banned_pokemon: COMBEE
-    banned_pokemon: VESPIQUEN
-    banned_pokemon: AMBIPOM
-    banned_pokemon: GLAMEOW
-    banned_pokemon: PURUGLY
-    banned_pokemon: BONSLY
-    banned_pokemon: MIME_JR
-    banned_pokemon: HAPPINY
-    banned_pokemon: LICKILICKY
-    banned_pokemon: TANGROWTH
-    banned_pokemon: YANMEGA
-    banned_pokemon: MAMOSWINE
-    banned_pokemon: GALLADE
-    banned_pokemon: FROSLASS
-    banned_pokemon: BURMY
-    banned_pokemon: WORMADAM
-    banned_pokemon: MOTHIM
-    banned_pokemon: CHERUBI
-    banned_pokemon: CHERRIM
-    banned_pokemon: SHELLOS
-    banned_pokemon: GASTRODON
-    banned_pokemon: HIPPOPOTAS
-    banned_pokemon: HIPPOWDON
-    banned_pokemon: MAGNEZONE
-    banned_pokemon: LEAFEON
-    banned_pokemon: GLACEON
-    banned_pokemon: PROBOPASS
-    banned_pokemon: ROTOM
-    banned_pokemon: PHIONE
-    banned_pokemon: MANAPHY
-    banned_pokemon: SHAYMIN
-    banned_pokemon: ARCEUS
     badge_type: BADGE_MASTER_LEAGUE
   }
 }
@@ -7340,59 +7234,6 @@ item_templates {
     pokemon_count: 3
     banned_pokemon: DITTO
     banned_pokemon: SHEDINJA
-    banned_pokemon: DARKRAI
-    banned_pokemon: CHINGLING
-    banned_pokemon: BRONZOR
-    banned_pokemon: BRONZONG
-    banned_pokemon: MUNCHLAX
-    banned_pokemon: SKORUPI
-    banned_pokemon: DRAPION
-    banned_pokemon: CROAGUNK
-    banned_pokemon: TOXICROAK
-    banned_pokemon: FINNEON
-    banned_pokemon: LUMINEON
-    banned_pokemon: MANTYKE
-    banned_pokemon: SNOVER
-    banned_pokemon: ABOMASNOW
-    banned_pokemon: UXIE
-    banned_pokemon: MESPRIT
-    banned_pokemon: AZELF
-    banned_pokemon: CRANIDOS
-    banned_pokemon: RAMPARDOS
-    banned_pokemon: SHIELDON
-    banned_pokemon: BASTIODON
-    banned_pokemon: COMBEE
-    banned_pokemon: VESPIQUEN
-    banned_pokemon: AMBIPOM
-    banned_pokemon: GLAMEOW
-    banned_pokemon: PURUGLY
-    banned_pokemon: BONSLY
-    banned_pokemon: MIME_JR
-    banned_pokemon: HAPPINY
-    banned_pokemon: LICKILICKY
-    banned_pokemon: TANGROWTH
-    banned_pokemon: YANMEGA
-    banned_pokemon: MAMOSWINE
-    banned_pokemon: GALLADE
-    banned_pokemon: FROSLASS
-    banned_pokemon: BURMY
-    banned_pokemon: WORMADAM
-    banned_pokemon: MOTHIM
-    banned_pokemon: CHERUBI
-    banned_pokemon: CHERRIM
-    banned_pokemon: SHELLOS
-    banned_pokemon: GASTRODON
-    banned_pokemon: HIPPOPOTAS
-    banned_pokemon: HIPPOWDON
-    banned_pokemon: MAGNEZONE
-    banned_pokemon: LEAFEON
-    banned_pokemon: GLACEON
-    banned_pokemon: PROBOPASS
-    banned_pokemon: ROTOM
-    banned_pokemon: PHIONE
-    banned_pokemon: MANAPHY
-    banned_pokemon: SHAYMIN
-    banned_pokemon: ARCEUS
     badge_type: BADGE_ULTRA_LEAGUE
   }
 }
@@ -13049,7 +12890,7 @@ item_templates {
     category: IAP_CATEGORY_AVATAR
     sort_order: 2
     banner_enabled: true
-    image_url: "https://storage.googleapis.com/pgorelease-marketing-images/misty_brock_avatarstoreimage%20.jpg"
+    image_url: "https://storage.googleapis.com/pgorelease-marketing-images/Holidays2018_avatar_storebanner.jpg"
     description: "avatar_shop_description"
   }
 }
@@ -82882,4 +82723,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1546454734910
+timestamp_ms: 1546530247187
