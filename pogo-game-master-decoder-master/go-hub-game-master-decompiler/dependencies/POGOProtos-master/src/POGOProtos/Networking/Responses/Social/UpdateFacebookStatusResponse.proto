@@ -2,6 +2,8 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses.Social;
 
 message UpdateFacebookStatusResponse {
+	Result result = 1;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -10,6 +12,4 @@ message UpdateFacebookStatusResponse {
 		ERROR_FACEBOOK_API = 4;
 		ERROR_ALREADY_EXISTS = 5;
 	}
-
-	Result result = 1;
 }

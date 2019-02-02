@@ -4,13 +4,13 @@ package POGOProtos.Data.Sfida;
 import "POGOProtos/Data/Sfida/SfidaMetrics.proto";
 
 message SfidaMetricsUpdate {
+	UpdateType update_type = 1;
+	int64 timestamp_ms = 2;
+	.POGOProtos.Data.Sfida.SfidaMetrics metrics = 3;
+
 	enum UpdateType {
 		UNSET = 0;
 		INITIALIZATION = 1;
 		ACCUMULATION = 2;
 	}
-
-	UpdateType update_type = 1;
-	int64 timestamp_ms = 2;
-	.POGOProtos.Data.Sfida.SfidaMetrics metrics = 3;
 }

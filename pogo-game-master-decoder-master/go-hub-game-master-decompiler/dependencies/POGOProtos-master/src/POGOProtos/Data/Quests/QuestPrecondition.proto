@@ -4,6 +4,15 @@ package POGOProtos.Data.Quests;
 import "POGOProtos/Enums/BadgeType.proto";
 
 message QuestPrecondition {
+	QuestPreconditionType type = 1;
+
+	oneof Condition {
+		string quest_template_id = 2;
+		Level level = 3;
+		Medal medal = 4;
+		Quests quests = 5;
+	}
+
 	enum Operator {
 		UNSET = 0;
 		EQUALS = 1;
@@ -33,14 +42,5 @@ message QuestPrecondition {
 		.POGOProtos.Enums.BadgeType type = 1;
 		QuestPrecondition.Operator operator = 2;
 		int32 badge_rank = 3;
-	}
-
-	QuestPreconditionType type = 1;
-
-	oneof Condition {
-		string quest_template_id = 2;
-		Level level = 3;
-		Medal medal = 4;
-		Quests quests = 5;
 	}
 }

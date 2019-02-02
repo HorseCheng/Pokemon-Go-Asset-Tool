@@ -11,10 +11,7 @@ This repository contains the [ProtoBuf](https://github.com/google/protobuf) `.pr
 ### Implemented messages types
  - [``Global``](https://github.com/Furtif/POGOProtos/blob/master/src/POGOProtos/Networking/Requests/RequestType.proto)
  - [``Social``](https://github.com/Furtif/POGOProtos/blob/master/src/POGOProtos/Enums/SocialAction.proto)
- - [``Quests``](https://github.com/Furtif/POGOProtos/blob/master/src/POGOProtos/Enums/QuestType.proto) 
- ### Others
- - [``Client Telemetry``](https://github.com/Furtif/POGOProtos/blob/master/src/POGOProtos/Enums/TelemetryIds.proto#L37)
- - [``Platform``](https://github.com/Furtif/POGOProtos/tree/master/src/POGOProtos/Enums/PlatformClientAction.proto)
+ - [``Platform``](https://github.com/Furtif/POGOProtos/blob/master/src/POGOProtos/Networking/Platform/PlatformRequestType.proto) 
    
 ### Versioning
 
@@ -22,7 +19,7 @@ We are following [semantic versioning](http://semver.org/) for POGOProtos.  Ever
 
 | Version      | API           | Notes           | Extra                     |
 |--------------|---------------|-----------------|---------------------------|
-| 2.38.0       | 0.131.1       | Compatible      |  Protocol Buffers v3.6.1  |
+| 2.39.0       | 0.133.0       | Compatible      |  Protocol Buffers v3.6.1  |
 
 ### Usage
 
@@ -99,7 +96,7 @@ If you don't want to compile POGOProtos but instead use it directly, check out t
 | Language              | Source                                                         | Status |
 |-----------------------|----------------------------------------------------------------|--------|
 | NodeJS                | https://github.com/pogosandbox/pogobuf                         |  OK    |
-| NodeJS (pure JS)      | https://github.com/pogosandbox/node-pogo-protos                |  OK    |
+| NodeJS (pure JS)      | https://github.com/pogosandbox/pogo-protos                     |  OK    |
 | .NET (nuget pack)     | https://www.nuget.org/packages/POGOProtos.Core                 |  OK    |
 | Swift                 | https://github.com/123FLO321/POGOProtos-Swift                  |  OK    |
 | PHP                   | https://github.com/jaspervdm/pogoprotos-php                    |![alt text][1.1]OUTED|

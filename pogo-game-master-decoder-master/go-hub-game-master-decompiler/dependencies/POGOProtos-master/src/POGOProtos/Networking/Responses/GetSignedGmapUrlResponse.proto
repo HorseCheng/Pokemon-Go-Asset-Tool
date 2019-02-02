@@ -2,6 +2,9 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses;
 
 message GetSignedGmapUrlResponse {
+	Result result = 1;
+	string signed_url = 2;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -10,7 +13,4 @@ message GetSignedGmapUrlResponse {
 		ERROR_MISSING_INPUT = 4;
 		ERROR_UNKNOWN = 5;
 	}
-
-	Result result = 1;
-	string signed_url = 2;
 }

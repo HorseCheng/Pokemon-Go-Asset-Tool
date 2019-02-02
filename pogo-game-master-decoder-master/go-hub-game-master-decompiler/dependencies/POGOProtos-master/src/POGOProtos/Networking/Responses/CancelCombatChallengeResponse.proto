@@ -2,6 +2,8 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses;
 
 message CancelCombatChallengeResponse {
+	Result result = 1;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -12,6 +14,4 @@ message CancelCombatChallengeResponse {
 		ERROR_ALREADY_TIMEDOUT = 6;
 		ERROR_ACCESS_DENIED = 7;
 	}
-
-	Result result = 1;
 }

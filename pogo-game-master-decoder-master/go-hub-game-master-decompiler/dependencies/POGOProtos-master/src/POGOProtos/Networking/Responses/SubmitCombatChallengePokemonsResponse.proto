@@ -4,6 +4,9 @@ package POGOProtos.Networking.Responses;
 import "POGOProtos/Data/Combat/CombatChallenge.proto";
 
 message SubmitCombatChallengePokemonsResponse {
+	Result result = 1;
+	.POGOProtos.Data.Combat.CombatChallenge challenge = 2;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -16,7 +19,4 @@ message SubmitCombatChallengePokemonsResponse {
 		ERROR_ACCESS_DENIED = 8;
 		ERROR_ALREADY_DECLINED = 9;
 	}
-
-	Result result = 1;
-	.POGOProtos.Data.Combat.CombatChallenge challenge = 2;
 }

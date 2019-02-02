@@ -3,6 +3,7 @@ package POGOProtos.Networking.Requests.Messages;
 
 import "POGOProtos/Data/Player/PlayerReputation.proto";
 import "POGOProtos/Enums/IdentityProvider.proto";
+import "POGOProtos/Enums/NotificationState.proto";
 
 message RegisterPushNotificationMessage {
 	ApnToken apn_token = 1;
@@ -22,19 +23,14 @@ message RegisterPushNotificationMessage {
 message UpdateNotificationStatusMessage {
 	repeated string notification_ids = 1;
 	repeated int64 create_timestamp_ms = 2;
-	NotificationState state = 3;
-
-	enum NotificationState {
-		UNSET_STATE = 0;
-		VIEWED = 1;
-	}
+	.POGOProtos.Enums.NotificationState state = 3;
 }
 
 message OptOutPushNotificationCategoryMessage {
 	repeated string categories = 1;
 }
 
-message RedeemPasscodeRequest {
+message RedeemPasscodeMessage {
 	string passcode = 1;
 }
 
@@ -53,6 +49,12 @@ message AddNewPoiMessage {
 }
 
 message ProxySocialActionMessage {
+	uint32 action = 1;
+	string host = 2;
+	bytes payload = 3;
+}
+
+message ProxySocialSideChannelActionMessage {
 	uint32 action = 1;
 	string host = 2;
 	bytes payload = 3;
@@ -95,7 +97,10 @@ message PingMessage {
 	string return_value = 4;
 }
 
-message ReplaceLoginActionProto {
+message ReplaceLoginActionMessage {
 	.POGOProtos.Enums.IdentityProvider existing_identity_provider = 1;
 	AddLoginActionMessage new_login = 2;
+}
+
+message ListLoginActionMessage {
 }

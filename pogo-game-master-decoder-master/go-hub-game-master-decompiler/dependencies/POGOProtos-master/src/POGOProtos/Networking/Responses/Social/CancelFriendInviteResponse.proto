@@ -2,6 +2,8 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses.Social;
 
 message CancelFriendInviteResponse {
+	Result result = 1;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -9,6 +11,4 @@ message CancelFriendInviteResponse {
 		ERROR_INVITE_DOES_NOT_EXIST = 3;
 		ERROR_ALREADY_CANCELLED = 4;
 	}
-
-	Result result = 1;
 }

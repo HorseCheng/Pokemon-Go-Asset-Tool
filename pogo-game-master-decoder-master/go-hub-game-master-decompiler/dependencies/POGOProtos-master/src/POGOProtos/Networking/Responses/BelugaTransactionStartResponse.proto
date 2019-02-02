@@ -4,6 +4,10 @@ package POGOProtos.Networking.Responses;
 import "POGOProtos/Data/Beluga/BelugaBleTransferPrep.proto";
 
 message BelugaTransactionStartResponse {
+	Status status = 1;
+	.POGOProtos.Data.Beluga.BelugaBleTransferPrep beluga_transfer_prep = 2;
+	bytes server_signature = 3;
+
 	enum Status {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -17,8 +21,4 @@ message BelugaTransactionStartResponse {
 		ERROR_TOO_MANY_POKEMON = 9;
 		ERROR_NO_POKEMON_SPECIFIED = 10;
 	}
-
-	Status status = 1;
-	.POGOProtos.Data.Beluga.BelugaBleTransferPrep beluga_transfer_prep = 2;
-	bytes server_signature = 3;
 }

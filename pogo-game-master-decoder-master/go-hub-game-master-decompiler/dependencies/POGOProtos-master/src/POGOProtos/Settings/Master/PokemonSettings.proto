@@ -14,11 +14,6 @@ import "POGOProtos/Settings/Master/Pokemon/EncounterAttributes.proto";
 import "POGOProtos/Settings/Master/Pokemon/EvolutionBranch.proto";
 
 message PokemonSettings {
-	message PokemonThirdMoveAttributes {
-		int32 stardust_to_unlock = 1;
-		int32 candy_to_unlock = 2;
-	}
-
 	.POGOProtos.Enums.PokemonId pokemon_id = 1;
 	float model_scale = 3;
 	.POGOProtos.Enums.PokemonType type = 4;
@@ -62,4 +57,9 @@ message PokemonSettings {
 	repeated float combat_opponent_focus_camera_angle = 42;
 	repeated float combat_player_focus_camera_angle = 43;
 	repeated float combat_player_pokemon_position_offset = 44;
+
+	message PokemonThirdMoveAttributes {
+		int32 stardust_to_unlock = 1;
+		int32 candy_to_unlock = 2;
+	}
 }

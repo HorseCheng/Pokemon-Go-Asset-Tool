@@ -2,6 +2,12 @@ syntax = "proto3";
 package POGOProtos.Data.Fitness;
 
 message FitnessSample {
+	FitnessSampleType sample_type = 1;
+	int64 sample_start_timestamp_ms = 2;
+	int64 sample_end_timestamp_ms = 3;
+	double value = 4;
+	FitnessSourceType source_type = 5;
+
 	enum FitnessSampleType {
 		SAMPLE_UNSET = 0;
 		STEPS = 1;
@@ -16,11 +22,7 @@ message FitnessSample {
 		SOURCE_UNSET = 0;
 		HEALTHKIT = 1;
 		GOOGLE_FIT = 2;
+		APPLE_WATCH = 3;
+		GPS = 4;
 	}
-
-	FitnessSampleType sample_type = 1;
-	int64 sample_start_timestamp_ms = 2;
-	int64 sample_end_timestamp_ms = 3;
-	double value = 4;
-	FitnessSourceType source_type = 5;
 }

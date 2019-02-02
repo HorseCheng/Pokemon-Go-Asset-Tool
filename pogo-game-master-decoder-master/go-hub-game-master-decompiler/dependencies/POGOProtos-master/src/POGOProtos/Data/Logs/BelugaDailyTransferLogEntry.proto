@@ -4,12 +4,12 @@ package POGOProtos.Data.Logs;
 import "POGOProtos/Inventory/Loot.proto";
 
 message BelugaDailyTransferLogEntry {
+	Result result = 1;
+	bool includes_weekly_bonus = 2;
+	.POGOProtos.Inventory.Loot items_awarded = 3;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
 	}
-
-	Result result = 1;
-	bool includes_weekly_bonus = 2;
-	.POGOProtos.Inventory.Loot items_awarded = 3;
 }

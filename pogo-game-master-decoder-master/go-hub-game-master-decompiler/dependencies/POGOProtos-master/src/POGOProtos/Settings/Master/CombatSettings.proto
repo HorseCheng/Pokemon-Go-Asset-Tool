@@ -2,18 +2,6 @@ syntax = "proto3";
 package POGOProtos.Settings.Master;
 
 message CombatSettings {
-	message CombatOffensiveInputChallengeSettings {
-		float score_per_tap = 1;
-		float score_decay_per_second = 2;
-		float max_score = 3;
-		float high_score_additional_decay_per_second = 4;
-		float max_time_additional_decay_per_second = 5;
-	}
-
-	message CombatDefensiveInputChallengeSettings {
-		float full_rotations_for_max_score = 1;
-	}
-
 	float round_duration_seconds = 1;
 	float turn_duration_seconds = 2;
 	float minigame_duration_seconds = 3;
@@ -31,4 +19,16 @@ message CombatSettings {
 	float quick_swap_cooldown_duration_seconds = 15;
 	CombatOffensiveInputChallengeSettings offensive_input_challenge_settings = 16;
 	CombatDefensiveInputChallengeSettings defensive_input_challenge_settings = 17;
+
+	message CombatOffensiveInputChallengeSettings {
+		float score_per_tap = 1;
+		float score_decay_per_second = 2;
+		float max_score = 3;
+		float high_score_additional_decay_per_second = 4;
+		float max_time_additional_decay_per_second = 5;
+	}
+
+	message CombatDefensiveInputChallengeSettings {
+		float full_rotations_for_max_score = 1;
+	}
 }

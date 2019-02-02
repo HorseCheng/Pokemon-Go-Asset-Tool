@@ -4,6 +4,9 @@ package POGOProtos.Networking.Responses;
 import "POGOProtos/Data/Combat/Combat.proto";
 
 message UpdateCombatResponse {
+	Result result = 1;
+	.POGOProtos.Data.Combat.Combat combat = 2;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -22,7 +25,4 @@ message UpdateCombatResponse {
 		ERROR_INVALID_QUICK_SWAP_POKEMON = 14;
 		ERROR_QUICK_SWAP_NOT_AVAILABLE = 15;
 	}
-
-	Result result = 1;
-	.POGOProtos.Data.Combat.Combat combat = 2;
 }

@@ -2,6 +2,16 @@ syntax = "proto3";
 package POGOProtos.Data.Combat;
 
 message CombatAction {
+	ActionType type = 1;
+	int32 action_start_turn = 3;
+	int32 duration_turns = 5;
+	int32 attacker_index = 6;
+	int32 target_index = 7;
+	fixed64 active_pokemon_id = 8;
+	fixed64 target_pokemon_id = 14;
+	float minigame_score = 15;
+	int32 move = 16;
+
 	enum ActionType {
 		UNSET = 0;
 		ATTACK = 1;
@@ -14,14 +24,4 @@ message CombatAction {
 		CHANGE_POKEMON = 8;
 		QUICK_SWAP_POKEMON = 9;
 	}
-
-	ActionType type = 1;
-	int32 action_start_turn = 3;
-	int32 duration_turns = 5;
-	int32 attacker_index = 6;
-	int32 target_index = 7;
-	fixed64 active_pokemon_id = 8;
-	fixed64 target_pokemon_id = 14;
-	float minigame_score = 15;
-	int32 move = 16;
 }

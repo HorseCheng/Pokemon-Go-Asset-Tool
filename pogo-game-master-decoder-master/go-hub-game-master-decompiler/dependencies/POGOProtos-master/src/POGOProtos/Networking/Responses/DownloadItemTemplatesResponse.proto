@@ -1,7 +1,7 @@
 syntax = "proto3";
 package POGOProtos.Networking.Responses;
 
-import "POGOProtos/Settings/Master/AvatarCustomizationSettings.proto";
+import "POGOProtos/Data/Avatar/AvatarCustomization.proto";
 import "POGOProtos/Settings/Master/BadgeSettings.proto";
 import "POGOProtos/Settings/Master/CameraSettings.proto";
 import "POGOProtos/Settings/Master/EncounterSettings.proto";
@@ -37,16 +37,15 @@ import "POGOProtos/Settings/Master/CombatNpcTrainer.proto";
 import "POGOProtos/Settings/Master/CombatNpcPersonality.proto";
 import "POGOProtos/Settings/Master/OnboardingV2Settings.proto";
 import "POGOProtos/Settings/Master/CombatLeagueSettings.proto";
-import "POGOProtos/Settings/Master/BelugaPokemonWhitelist.proto";
 import "POGOProtos/Settings/Master/CombatLeague.proto";
+import "POGOProtos/Settings/Master/BelugaPokemonWhitelist.proto";
+import "POGOProtos/Settings/Master/PartyRecommendationSettings.proto";
 
 message DownloadItemTemplatesResponse {
-	enum Result {
-		UNSET = 0;
-		SUCCESS = 1;
-		PAGE = 2;
-		RETRY = 3;
-	}
+	Result result = 1;
+	repeated ItemTemplate item_templates = 2;
+	uint64 timestamp_ms = 3;
+	int32 page_offset = 4;
 
 	message ItemTemplate {
 		string template_id = 1;
@@ -66,7 +65,7 @@ message DownloadItemTemplatesResponse {
 		.POGOProtos.Settings.Master.PokemonUpgradeSettings pokemon_upgrades = 18;
 		.POGOProtos.Settings.Master.EquippedBadgeSettings equipped_badges = 19;
 		.POGOProtos.Settings.Master.QuestSettings quest_settings = 20;
-		.POGOProtos.Settings.Master.AvatarCustomizationSettings avatar_customization = 21;
+		.POGOProtos.Data.Avatar.AvatarCustomization avatar_customization = 21;
 		.POGOProtos.Settings.Master.FormSettings form_settings = 22;
 		.POGOProtos.Settings.Master.GenderSettings gender_settings = 23;
 		.POGOProtos.Settings.Master.GymBadgeGmtSettings gym_badge_settings = 24;
@@ -88,10 +87,13 @@ message DownloadItemTemplatesResponse {
 		.POGOProtos.Settings.Master.CombatNpcTrainer combat_npc_trainer = 40;
 		.POGOProtos.Settings.Master.CombatNpcPersonality combat_npc_personality = 41;
 		.POGOProtos.Settings.Master.OnboardingV2Settings onboarding_v2_settings = 42;
+		.POGOProtos.Settings.Master.PartyRecommendationSettings party_recommendation_settings = 43;
 	}
 
-	Result result = 1;
-	repeated ItemTemplate item_templates = 2;
-	uint64 timestamp_ms = 3;
-	int32 page_offset = 4;
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		PAGE = 2;
+		RETRY = 3;
+	}
 }

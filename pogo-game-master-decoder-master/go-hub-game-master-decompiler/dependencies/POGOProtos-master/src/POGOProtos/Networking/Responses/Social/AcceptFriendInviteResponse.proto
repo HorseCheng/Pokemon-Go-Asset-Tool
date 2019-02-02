@@ -4,6 +4,9 @@ package POGOProtos.Networking.Responses.Social;
 import "POGOProtos/Data/Player/PlayerSummary.proto";
 
 message AcceptFriendInviteResponse {
+	Result result = 1;
+	.POGOProtos.Data.Player.PlayerSummary friend = 2;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -14,7 +17,4 @@ message AcceptFriendInviteResponse {
 		ERROR_SENDER_HAS_MAX_FRIENDS = 6;
 		ERROR_RECEIVER_HAS_MAX_FRIENDS = 7;
 	}
-
-	Result result = 1;
-	.POGOProtos.Data.Player.PlayerSummary friend = 2;
 }

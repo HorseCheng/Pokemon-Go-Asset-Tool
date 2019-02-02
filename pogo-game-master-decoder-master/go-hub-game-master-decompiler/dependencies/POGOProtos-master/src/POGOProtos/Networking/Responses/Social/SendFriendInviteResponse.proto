@@ -2,6 +2,8 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses.Social;
 
 message SendFriendInviteResponse {
+	Result result = 1;
+
 	enum Result {
 		UNSET = 0;
 		SUCCESS = 1;
@@ -16,6 +18,4 @@ message SendFriendInviteResponse {
 		ERROR_INVITE_ALREADY_RECEIVED = 10;
 		ERROR_RECEIVER_HAS_MAX_FRIENDS = 11;
 	}
-
-	Result result = 1;
 }

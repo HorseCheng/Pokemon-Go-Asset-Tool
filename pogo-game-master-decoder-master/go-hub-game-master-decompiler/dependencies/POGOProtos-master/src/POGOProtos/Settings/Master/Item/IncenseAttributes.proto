@@ -5,11 +5,6 @@ import "POGOProtos/Enums/PokemonType.proto";
 import "POGOProtos/Enums/PokemonId.proto";
 
 message IncenseAttributes {
-	message IncensedPokemon {
-		.POGOProtos.Enums.PokemonId pokemon_id = 1;
-		float weight = 2;
-	}
-
 	int32 incense_lifetime_seconds = 1;
 	repeated .POGOProtos.Enums.PokemonType pokemon_type = 2;
 	float pokemon_incense_type_probability = 3;
@@ -19,4 +14,9 @@ message IncenseAttributes {
 	int32 pokemon_attracted_length_sec = 7;
 	repeated IncensedPokemon spawn_table = 8;
 	float spawn_table_probability = 9;
+
+	message IncensedPokemon {
+		.POGOProtos.Enums.PokemonId pokemon_id = 1;
+		float weight = 2;
+	}
 }
