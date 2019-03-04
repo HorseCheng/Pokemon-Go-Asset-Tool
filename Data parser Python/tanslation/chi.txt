@@ -10,6 +10,8 @@
 服務條款
 接受
 收到1件朋友申請
+See which friends are playing!  Turn off at any time in the Friend’s List! 
+Friend Status!
 清除紀錄
 確定要清除紀錄嗎？清除紀錄後將無法回復
 刪除
@@ -88,6 +90,8 @@ OK
 需更新iOS
 在平坦開放的地慢慢改變照相機的角度"
 不用了，謝謝
+Your camera has been upgraded!
+Photograph Pokémon like never before with the new AR+ Camera!
 你隨時都可以在設定選單更改設定。
 用全新AR+來捉寶可夢，享受前所未有的樂趣！
 使用AR+前請先確認四周安全。
@@ -97,6 +101,33 @@ OK
 請在確認四周安全後，在平坦開放的地方移動裝置，讓照相機辨識出平坦的表面。
 點擊螢幕上的草叢來尋找寶可夢。
 捕捉時距離寶可夢越近，就能獲得越多獎勵。
+點擊要放置寶可夢的地方
+Please enable camera permissions to access this feature.
+Number of other photos saved to your device: {0}.
+Slowly look around a flat, open area with your camera.
+SHARE PHOTOS ({0})
+SHARE MY PHOTOS
+Number of photos you’ve saved from this session: {0}.
+Nice shot!
+Good eye!
+What a masterpiece!
+That’s a keeper!
+What a frame-worthy photo!
+You haven’t shared your photos yet. Exit anyway?
+Select photos for sharing
+SHOW ME
+You can move around your Pokémon to capture its best side.
+Find Your Angle
+Tap on your Pokémon to get its attentionBrush across your Pokémon to get it to face you."
+Interact with Your Pokémon
+You can take a Pokémon out of its Poké Ball and take photos together! You may even encounter a surprise!
+Take photos of your Pokémon anytime, anywhere!
+Find a flat surface and tap on the footprints to place your Pokémon.
+Position Your Pokémon
+Have fun and share your photos with others. You never know what you’ll find!
+Share Your Photos!
+You’re too close to the Pokémon!
+Careful, Trainer! Treat nearby surroundings and people with courtesy while you snap photos.
 攻擊獎勵
 閃躲成功！
 以其他帳號登入
@@ -139,6 +170,8 @@ OK
 不戴手套
 葉子手環
 道館館主手套
+海洋隊手套
+熔岩隊手套
 火箭隊手套
 精英訓練家遮陽帽
 探險家的帽子
@@ -163,6 +196,7 @@ HF設計師聯名款棒球帽
 妙蛙種子帽
 小火龍帽
 傑尼龜帽
+海洋隊頭巾
 武勇帽
 靈犀帽
 叡智帽
@@ -186,6 +220,8 @@ HF設計師聯名款棒球帽
 皮卡丘發燒友短褲
 跑步短褲
 窄管牛仔褲
+海洋隊短褲
+熔岩隊短褲
 火箭隊短裙
 資深訓練家褲襪
 精英訓練家上衣
@@ -217,6 +253,8 @@ Ingress Prime / Blue
 訓練家坦克背心
 噴火龍坦克背心
 皮卡丘坦克背心
+海洋隊背心
+熔岩隊上衣
 火箭隊上衣
 彩虹火箭隊上衣
 休閒短袖T恤
@@ -233,12 +271,16 @@ Ingress Prime / Blue
 城都運動鞋
 小霞鞋子
 皮卡丘發燒友運動鞋
+海洋隊鞋
+熔岩隊鞋
 火箭隊長靴
 彩虹火箭隊長靴
 資深訓練家長靴
 內搭褲
 不穿襪子
 城都過膝長襪
+海洋隊內搭褲
+熔岩隊長襪
 膝上襪
 眼鏡
 手套
@@ -263,6 +305,8 @@ Ingress Prime / Blue
 火焰手環
 道館館主手套
 慢跑者手錶
+海洋隊手套
+熔岩隊手套
 火箭隊手套
 精英訓練家耳機
 探險家的帽子
@@ -287,6 +331,7 @@ HF設計師聯名款棒球帽
 妙蛙種子帽
 小火龍帽
 傑尼龜帽
+海洋隊頭巾
 武勇帽
 靈犀帽
 叡智帽
@@ -304,6 +349,8 @@ HF設計師聯名款棒球帽
 皮卡丘發燒友短褲
 窄管牛仔褲
 休閒運動褲
+海洋隊短褲
+熔岩隊短褲
 火箭隊長褲
 資深訓練家長褲
 精英訓練家上衣
@@ -336,6 +383,8 @@ Ingress Prime / Blue
 花岩怪T恤
 運動連帽上衣
 閃電連帽上衣
+海洋隊T恤
+熔岩隊上衣
 火箭隊上衣
 彩虹火箭隊上衣
 幾何花紋短袖T恤
@@ -356,13 +405,17 @@ Ingress Prime / Blue
 城都運動鞋
 慢跑者鞋
 皮卡丘發燒友運動鞋
+海洋隊鞋
+熔岩隊鞋
 火箭隊長靴
 彩虹火箭隊長靴
 資深訓練家長靴
 內搭褲
 不穿襪子
+熔岩隊長襪
 項鍊
 服裝
+POSES
 鞋子
 新品上架！
 膚色
@@ -446,6 +499,10 @@ N0
 和 {0} 名訓練家成為正港好朋友
 偶像
 N0
+Have {0} surprise encounters in AR Snapshot.
+Have {0} surprise encounter in AR Snapshot.
+Cameraman
+N0
 捉到 {0} 隻皮卡丘
 2017/8 @ 横浜
 皮卡丘大量發生中2017
@@ -486,6 +543,12 @@ GO Safari Zone - Europe 2017
 捉到 {0} 迷你的小拉達
 短褲小子
 N0
+2019年1月25日 愉港
+Pokémon GO Safari Zone
+2019年1月26日 愉港
+Pokémon GO Safari Zone
+2019年1月27日 愉港
+Pokémon GO Safari Zone
 交換 {0} 隻寶可夢
 交換寶可夢時累積的距離達 {0} 公里
 飛行員
@@ -688,6 +751,8 @@ Pokémon GO Fest
 <size=36><b>確定要更改成 {0} 嗎？</b></size暱稱能變更的次數有限，敬請留意。"
 你的暱稱已變更為 {0}
 <size=36><b>確定要更改暱稱嗎？</b></size其他的訓練家會看到你的暱稱，而且暱稱可變更的次數有限。請好好考慮後再做決定。"
+Chance
+擋下！
 快速點擊螢幕，讓寶可夢累積攻擊力量！
 包包已滿，無法領取對戰獎勵
 對戰
@@ -726,6 +791,7 @@ Pokémon GO Fest
 友誼等級在 {0} 以上才可以進行遠距對戰
 訓練家等級為 {0} 級以上的訓練家才可參加對戰
 {0} 尚未達到可以對戰的等級
+Player is currently not receiving challenges
 超級聯盟
 和 {0} 打成平手！
 和 {0} 對戰了！
@@ -743,13 +809,13 @@ Time's Up!
 條碼過期
 條碼無效
 ATTACK BOOST
-NWA. OPPONENT ATTACK BOOST
-ATTACK DEBUFF
-OPPONENT ATTACK DEBUFF
+OPPONENT ATTACK BOOST
+ATTACK DROP
+OPPONENT ATTACK DROP
 DEFENSE BOOST
 OPPONENT DEFENSE BOOST
-DEFENSE DEBUFF
-OPPONENT DEFENSE DEBUFF
+DEFENSE DROP
+OPPONENT DEFENSE DROP
 道館對戰 & 團體戰
 訓練家對戰
 天氣獎勵加成
@@ -906,6 +972,8 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 有新版本的Pokémon GO可以下載了。要現在更新嗎？
 今天已經傳送過友情禮物了
 不能將自己加入朋友名單
+You don’t have a Team Medallion in your inventory.
+You’re already a member of this team.
 此名稱內含不恰當的文字
 不支援的裝置
 更改暱稱的次數已達上限。請日後再試。
@@ -1094,6 +1162,7 @@ Lv {0}
 最近的活動
 友誼等級
 暱稱
+好吧，保守秘密
 123456789
 同意
 & {0}
@@ -1216,6 +1285,7 @@ h
 道具
 其他
 寶可幣
+Team Change
 升級
 擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。
 薰香
@@ -4187,6 +4257,8 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 寶可夢回來
 時時刻刻冒險進度
+Adventure Sync: Nearby
+Adventure Sync: Walking
 活動、折扣資訊及最新消息
 推播通知
 回報重要問題
@@ -4321,6 +4393,10 @@ Sale
 我在研究牠們進化的理由。
 我的隊伍？
 只要冷靜分析，我們絕對不會輸…！
+You will not be able to purchase another Team Medallion for another 365 days.Your Pokémon currently defending Gyms won’t earn PokéCoins when they’re defeated.
+Change to {0}?
+A unique coin that enables a Trainer to change teams. A Team Medallion can only be purchased from the shop once per 365 days.
+Team Medallion
 未選擇隊伍
 叡智隊
 武勇隊
@@ -4341,11 +4417,14 @@ Sale
 我在研究強化寶可夢能力的方法，尋求牠們真正的力量。
 我們隊伍訓練出來的寶可夢在對戰中絕對是所向披靡！
 你準備好了嗎？
+Join {0}?
 嘿！我的名字是史帕克，我是靈犀隊的隊長。
 寶可夢是擁有優異直覺的生物。
 我想這優越直覺的祕密，一定和牠們誕生的過程有關。
 來參加我的隊伍吧！
 相信你的直覺，就能百戰百勝！
+A unique coin that enables a Trainer to change teams. A Team Medallion can only be purchased from the shop once per 365 days.
+Team Medallion
 https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 測試
 https://pokemongo.nianticlabs.com/support/three-strike-policy

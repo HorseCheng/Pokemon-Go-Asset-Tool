@@ -1,6 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Networking.Requests.Social;
-
-message DeleteGiftFromInventoryMessage {
-	repeated uint64 giftbox_id = 1;
-}

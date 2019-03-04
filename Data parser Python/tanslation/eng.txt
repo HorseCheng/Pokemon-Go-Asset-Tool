@@ -10,6 +10,8 @@ About
 Terms of Service
 Accept
 Sent you a Friend Request!
+See which friends are playing!  Turn off at any time in the Friend’s List! 
+Friend Status!
 Clear the activity log
 Do you want to clear the activity log? If you agree, you can't cancel this action.
 Remove
@@ -88,6 +90,8 @@ AR+ requires an updated version of iOS. Do you want to update now? You'll need t
 iOS Update Required
 Slowly look around a flat, openarea with your camera."
 Maybe later
+Your camera has been upgraded!
+Photograph Pokémon like never before with the new AR+ Camera!
 You can change this at any time in settings.
 Catch Pokémon like never before with the all-new AR+!
 Make sure you're in a safe location while using AR+.
@@ -97,6 +101,33 @@ Tap to find the Pokémon.
 Look around an open area with your device until it recognizes a flat surface.
 Tap the tall grass to find a Pokémon. 
 Approach the Pokémon slowly. You'll get bonus rewards if you catch it!
+Tap to place a Pokémon.
+Please enable camera permissions to access this feature.
+Number of other photos saved to your device: {0}.
+Slowly look around a flat, open area with your camera.
+SHARE PHOTOS ({0})
+SHARE MY PHOTOS
+Number of photos you’ve saved from this session: {0}.
+Nice shot!
+Good eye!
+What a masterpiece!
+That’s a keeper!
+What a frame-worthy photo!
+You haven’t shared your photos yet. Exit anyway?
+Select photos for sharing
+SHOW ME
+You can move around your Pokémon to capture its best side.
+Find Your Angle
+Tap on your Pokémon to get its attentionBrush across your Pokémon to get it to face you."
+Interact with Your Pokémon
+You can take a Pokémon out of its Poké Ball and take photos together! You may even encounter a surprise!
+Take photos of your Pokémon anytime, anywhere!
+Find a flat surface and tap on the footprints to place your Pokémon.
+Position Your Pokémon
+Have fun and share your photos with others. You never know what you’ll find!
+Share Your Photos!
+You’re too close to the Pokémon!
+Careful, Trainer! Treat nearby surroundings and people with courtesy while you snap photos.
 Attack Bonus
 Dodged!
 Try a different account
@@ -139,6 +170,8 @@ Delibird Gloves
 No Gloves
 LeafGreen Wristbands
 Gym Leader Gloves
+Team Aqua Gloves
+Team Magma Gloves
 Team Rocket Gloves
 Ace Visor
 Expedition Hat
@@ -163,6 +196,7 @@ Pikachu Fan Headband
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
 Team Mystic Cap
@@ -186,6 +220,8 @@ Liquid Leggings
 Pikachu Fan Shorts
 Track Shorts
 Skinny Jeans
+Team Aqua Shorts
+Team Magma Shorts
 Team Rocket Skirt
 Veteran Leggings
 Ace Vest
@@ -217,6 +253,8 @@ Team Valor Turtleneck
 Trainer Tank
 Charizard Tank
 Pikachu Tank
+Team Aqua Top
+Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
 Active Tee
@@ -233,12 +271,16 @@ Gym Leader Shoes
 Johto Shoes
 Misty Shoes
 Pikachu Fan Shoes
+Team Aqua Boots
+Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
 Veteran Boots
 Long Leg Warmers
 No Socks
 Johto Socks
+Team Aqua Tights
+Team Magma Socks
 Wool Leg Warmers
 Glasses
 Gloves
@@ -263,6 +305,8 @@ No Gloves
 FireRed Wristbands
 Gym Leader Gloves
 Jogger Watch
+Team Aqua Gloves
+Team Magma Gloves
 Team Rocket Gloves
 Ace Earbud
 Expedition Hat
@@ -287,6 +331,7 @@ Pikachu Fan Headband
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
 Team Mystic Cap
@@ -304,6 +349,8 @@ Jogger Shorts
 Pikachu Fan Shorts
 Skinny Jeans
 Active Sweatpants
+Team Aqua Shorts
+Team Magma Pants
 Team Rocket Pants
 Veteran Pants
 Ace Vest
@@ -336,6 +383,8 @@ Pikachu Fan Shirt
 Spiritomb T-Shirt
 Sports Hoodie
 Streak Hoodie
+Team Aqua Top
+Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
 Diagonal Tee
@@ -356,13 +405,17 @@ Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
 Pikachu Fan Shoes
+Team Aqua Boots
+Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
 Veteran Boots
 Leggings
 No Socks
+Team Magma Socks
 Necklaces
 Outfits
+POSES
 Footwear
 New items available!
 Skin
@@ -446,6 +499,10 @@ Become Best Friends with {0} Trainers.
 Become Best Friends with {0} Trainer.
 Idol
 N0
+Have {0} surprise encounters in AR Snapshot.
+Have {0} surprise encounter in AR Snapshot.
+Cameraman
+N0
 Catch {0} Pikachu.
 Yokohama, August 2017
 Pikachu Outbreak 2017
@@ -486,6 +543,12 @@ GO Safari Zone - Europe 2017
 Catch {0} tiny Rattata.
 Youngster
 N0
+Porto Alegre, Jan 25, 2019
+Pokémon GO Safari Zone
+Porto Alegre, Jan 26, 2019
+Pokémon GO Safari Zone
+Porto Alegre, Jan 27, 2019
+Pokémon GO Safari Zone
 Trade {0} Pokémon.
 Earn {0} km across the distance of all Pokémon trades.
 Pilot
@@ -688,6 +751,8 @@ That's already your name!
 <size=36><b>Are you sure you want to be called {0}?</b></size
 You're now known as {0}.
 <size=36><b>Do you want to change your nickname?</b></sizeYou can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!"
+Chance
+Blocked!
 Tap quickly to charge your Pokémon’s attack!
 Your Bag is full. You won’t receive rewards for this match.
 BATTLE
@@ -726,6 +791,7 @@ You’ll be able to battle other Trainers near you.
 Remote battles are only available to {0} or higher.
 You must be at least level {0} to battle.
 {0} is not yet at a high-enough level to battle.
+Player is currently not receiving challenges
 Great League
 Tied with {0}.
 Battled against {0}.
@@ -743,15 +809,15 @@ Time’s Up!
 This challenge has expired.
 Invalid QR Code.
 ATTACK BOOST
-NWA. OPPONENT ATTACK BOOST
-ATTACK DEBUFF
-OPPONENT ATTACK DEBUFF
+OPPONENT ATTACK BOOST
+ATTACK DROP
+OPPONENT ATTACK DROP
 DEFENSE BOOST
 OPPONENT DEFENSE BOOST
-DEFENSE DEBUFF
-OPPONENT DEFENSE DEBUFF
+DEFENSE DROP
+OPPONENT DEFENSE DROP
 GYMS & RAIDS
-TRAINER BATTLE
+TRAINER BATTLES
 WEATHER BONUS
 Pokémon that have fainted can’t battle!
 No Protect Shields remaining!
@@ -906,6 +972,8 @@ Update
 A new version of Pokémon GO is available. Would you like to update now?
 You already sent this Trainer a Gift today.
 You can't add yourself to your own Friend List!
+You don’t have a Team Medallion in your inventory.
+You’re already a member of this team.
 This name contains inappropriate text.
 Unsupported Device
 You've changed nicknames as many times as you can for now. You can try again later.
@@ -968,11 +1036,11 @@ Failed to connect to Facebook. This account is already tied to another Trainer.
 Connect
 Failed to get Facebook Friend List. Try again later.
 You have not granted permission to access your Facebook Friend List.
-If you choose to import Facebook Friends, Niantic will access a list of your Facebook Friends who are already on Pokémon GO and have also chosen to import Facebook Friends. Your Facebook profile name and picture will be visible along with your Trainer name. You can always change your mind and remove players from your Pokémon GO Friend List or edit your app permissions within Facebook. For more information, visit the Help Center.
+If you choose to import Facebook Friends, Niantic will access a list of your  Facebook Friends who are already on Pokémon GO and have also chosen to  import Facebook Friends. Your Facebook profile name and picture will be visible  along with your Trainer name. You can always change your mind and remove  players from your Pokémon GO Friend List or edit your app permissions within Facebook. For more information, visit the Help Center.
 Import Friends from Facebook?
 Your Facebook Friends have not opted in to this feature yet. Check with your Friends on Facebook!
 Send Friend Request
-Send a Friend Request to {0}? 
+Send a Friend Request to {0}?
 Suggestions for You
 +{0} XP
 Thank you for field-testing Pokémon GOWe will be back soon!"
@@ -1094,6 +1162,7 @@ Gift
 Last Activity
 Friendship Level
 Nickname
+alright then, keep your secrets
 123456789
 Accept
 & {0}
@@ -1216,6 +1285,7 @@ Bundles
 Items
 Uncategorized
 PokéCoins
+Team Change
 Upgrades
 Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes.
 Incense
@@ -1309,7 +1379,7 @@ Feed this to a Pokémon to make it easier to catch.
 Razz Berry
 A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.
 Revive
-When you encounter Pokémon in the wild, you can use your camera to photograph them.
+A device to capture photos of Pokémon. Photos can be shared with others.
 Camera
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
 Star Piece
@@ -4187,6 +4257,8 @@ Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
 Pokémon's Return
 Adventure Sync Updates
+Adventure Sync: Nearby
+Adventure Sync: Walking
 Events, Offers, and Updates
 Push Notifications
 Report Critical Issue
@@ -4321,6 +4393,10 @@ The wisdom of Pokémon is immeasurably deep.
 I am researching why it is that they evolve.
 My team?
 With our calm analysis of every situation, we can't lose!
+You will not be able to purchase another Team Medallion for another 365 days.Your Pokémon currently defending Gyms won’t earn PokéCoins when they’re defeated.
+Change to {0}?
+A unique coin that enables a Trainer to change teams. A Team Medallion can only be purchased from the shop once per 365 days.
+Team Medallion
 No Team
 Team Mystic
 Team Valor
@@ -4341,11 +4417,14 @@ Pokémon are stronger than humans, and they're warmhearted, too!
 I'm researching ways to enhance Pokémon's natural power in the pursuit of true strength.
 There's no doubt that the Pokémon our team have trained are the strongest in battle!
 Are you ready?
+Join {0}?
 Hey! The name's Spark—the leader of Team Instinct.
 Pokémon are creatures with excellent intuition.
 I bet the secret to their intuition is related to how they're hatched.
 Come on and join my team!
 You never lose when you trust your instincts!
+A unique coin that enables a Trainer to change teams. A Team Medallion can only be purchased from the shop once per 365 days.
+Team Medallion
 https://www.nianticlabs.com/terms/pokemongo/en/
 Test
 https://pokemongo.nianticlabs.com/support/three-strike-policy
@@ -4369,7 +4448,7 @@ Overall, this {0} is a decent Pokémon.
 Overall, this {0} is pretty decent!
 Trade Bonus
 Cannot confirm yet
-If you leave now, you won't trade with {0}. 
+If you leave now, you won't trade with {0}.
 Do you want to cancel this trade?
 Appraisal:
 {0} sent over {1}.
@@ -4427,18 +4506,18 @@ You can't trade a Pokémon that has been traded previously.
 The stats of the traded Pokémon will randomly change after trading.
 You can find the trading rules using the Help button located above.
 If your friend’s Trainer level is lower than yours, the traded Pokémon’s potential CP and HP will be adjusted.
-Pokémon not yet registered in your Pokédex require a Special Trade. 
+Pokémon not yet registered in your Pokédex require a Special Trade.
 Your Friendship level must reach Good Friend in order to complete a Special Trade.
 You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
 The amount of Stardust required for trading drastically reduces as your Friendship level increases.
-Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade. 
+Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade.
 Completing a Special Trade requires a large amount of Stardust.
 Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
 Mythical Pokémon can't be traded.
 Please cancel your confirmation first.
 Please wait for your friend to connect.
 Candy Bonuses
-You need to be within 100 meters of a friend to start a trade. You can earn a bonus depending on where the Pokémon in the trade were caught. The farther apart their caught locations (up to around 100 km), the more Candy you'll earn! 
+You need to be within 100 meters of a friend to start a trade. You can earn a bonus depending on where the Pokémon in the trade were caught. The farther apart their caught locations (up to around 100 km), the more Candy you'll earn!
 Trading with Friends
 You can trade with a friend only when you're near each other.
 Special Trades

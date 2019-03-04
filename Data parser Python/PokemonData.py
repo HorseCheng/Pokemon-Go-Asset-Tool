@@ -1,7 +1,7 @@
 import re
 
-date="20190216"
-version="0.133.1"
+date="20190226"
+version="0.135.0"
 
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
@@ -47,7 +47,7 @@ for i in range(0,len(master)):
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
         if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
-        
+
         #start record pokemon data
         pokecheck[num]+=1
         if(pokecheck[num]==1):indexlist.append(num)
@@ -96,7 +96,9 @@ for i in range(0,len(master)):
             if("pokedex_weight_kg:" in master[y]): set(y,6);continue
             if("km_buddy_distance: " in master[y]): set(y,10);continue
             if("candy_cost: " in master[y] and justone): justone=0;set(y,7);continue
-            if("third_move" in master[y]): set(y+1,8);set(y+2,9);continue
+            if("third_move" in master[y]): 
+                if "candy_to_unlock" in master[y+1]:set(y+1,9);continue
+                else:set(y+1,8);set(y+2,9);continue
             if("item_templates" in master[y]):
                 string.insert(0,typee[3]);string.insert(0,typee[2]);string.insert(0,typee[1]);string.insert(0,typee[0]);
                 pokedata.append(string)

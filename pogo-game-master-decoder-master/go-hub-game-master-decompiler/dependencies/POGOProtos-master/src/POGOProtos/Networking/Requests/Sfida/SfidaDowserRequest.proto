@@ -1,6 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Networking.Requests.Sfida;
-
-message SfidaDowserRequest {
-	int64 encounter_id = 1;
-}

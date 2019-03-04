@@ -1,7 +1,7 @@
 import re
 
-date="20190201"
-version="0.133.0"
+date="20190226"
+version="0.135.1"
 
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
