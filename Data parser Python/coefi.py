@@ -1,7 +1,10 @@
 import re
 
-date="20181217"
-version="0.131.1"
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
 
 masterfile=open("Game_Master/"+date+".txt",'r',encoding="UTF-8")
 master=masterfile.readlines()
@@ -9,45 +12,6 @@ emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
 merged=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")
 chi=merged.readlines()
-
-Key =''' "pokemon_type_bug"
-			string Translation = "蟲"
-			string Key = "pokemon_type_dark"
-			string Translation = "惡"
-			string Key = "pokemon_type_dragon"
-			string Translation = "龍"
-			string Key = "pokemon_type_electric"
-			string Translation = "電"
-			string Key = "pokemon_type_fairy"
-			string Translation = "妖精"
-			string Key = "pokemon_type_fighting"
-			string Translation = "格鬥"
-			string Key = "pokemon_type_fire"
-			string Translation = "火"
-			string Key = "pokemon_type_flying"
-			string Translation = "飛行"
-			string Key = "pokemon_type_ghost"
-			string Translation = "幽靈"
-			string Key = "pokemon_type_grass"
-			string Translation = "草"
-			string Key = "pokemon_type_ground"
-			string Translation = "地面"
-			string Key = "pokemon_type_ice"
-			string Translation = "冰"
-			string Key = "pokemon_type_normal"
-			string Translation = "一般"
-			string Key = "pokemon_type_poison"
-			string Translation = "毒"
-			string Key = "pokemon_type_psychic"
-			string Translation = "超能力"
-			string Key = "pokemon_type_rock"
-			string Translation = "岩石"
-			string Key = "pokemon_type_steel"
-			string Translation = "鋼"
-			string Key = "pokemon_type_water"
-			string Translation = "水"'''
-Key=Key.split("\n")
-
 
 coefi=["","","","","","","",""]
 weather=[[],[]]

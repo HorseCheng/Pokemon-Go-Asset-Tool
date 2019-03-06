@@ -1,5 +1,11 @@
 version="0.135.1"
 
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
+    
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
 merged=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")

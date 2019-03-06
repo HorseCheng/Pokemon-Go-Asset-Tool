@@ -1,7 +1,10 @@
 import re
 
-date="20190226"
-version="0.135.1"
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
 
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
@@ -10,44 +13,15 @@ chi=merged.readlines()
 masterfile=open("Game_Master/"+date+".txt",'r',encoding="UTF-8")
 master=masterfile.readlines()
 
-Key =''' "pokemon_type_bug"
-			string Translation = "蟲"
-			string Key = "pokemon_type_dark"
-			string Translation = "惡"
-			string Key = "pokemon_type_dragon"
-			string Translation = "龍"
-			string Key = "pokemon_type_electric"
-			string Translation = "電"
-			string Key = "pokemon_type_fairy"
-			string Translation = "妖精"
-			string Key = "pokemon_type_fighting"
-			string Translation = "格鬥"
-			string Key = "pokemon_type_fire"
-			string Translation = "火"
-			string Key = "pokemon_type_flying"
-			string Translation = "飛行"
-			string Key = "pokemon_type_ghost"
-			string Translation = "幽靈"
-			string Key = "pokemon_type_grass"
-			string Translation = "草"
-			string Key = "pokemon_type_ground"
-			string Translation = "地面"
-			string Key = "pokemon_type_ice"
-			string Translation = "冰"
-			string Key = "pokemon_type_normal"
-			string Translation = "一般"
-			string Key = "pokemon_type_poison"
-			string Translation = "毒"
-			string Key = "pokemon_type_psychic"
-			string Translation = "超能力"
-			string Key = "pokemon_type_rock"
-			string Translation = "岩石"
-			string Key = "pokemon_type_steel"
-			string Translation = "鋼"
-			string Key = "pokemon_type_water"
-			string Translation = "水"'''
-Key=Key.split("\n")
-   
+#find chinese name for type name
+Key=[[],[]] #String, Traslation
+
+for x in range(len(chi)): 
+    if("pokemon_type_" in chi[x]):
+        Key[0].append(chi[x])
+        Key[1].append(re.search("[\u4e00-\u9fa5]+",chi[x+1]).group())
+    if("pokemon_unfavorite_error" in chi[x]):break;
+
 quick =[[],[],[]] #0:Index #1:Eng Name #2:Chi Name
 charge=[[],[],[]] #0:Index #1:Eng Name #2:Chi Name
 stringquick = ["" for x in range(6)] #1:Type #2:Power #3:Duration #4:Energy Delta
@@ -112,10 +86,10 @@ for i in range(0,len(master)): #Find the Move info for Gym, Raid
                     temp=""
                     for tt in range(position+2,len(master[y])-1):
                          temp+=(str(master[y][tt].lower()))
-                    for z in range(0,len(Key)):
-                        if (temp in Key[z]): #find chinese word
-                            if(qorc==1):stringquick[0]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n';
-                            else:stringcharge[0]+=re.search("[\u4e00-\u9fa5]+",Key[z+1]).group()+'\n'
+                    for z in range(0,len(Key[0])):
+                        if (temp in Key[0][z]): #find chinese word
+                            if(qorc==1):stringquick[0]+=Key[1][z]+'\n';
+                            else:stringcharge[0]+=Key[1][z]+'\n'
                     continue
                 if("power:" in master[y]):
                     checkmatrix[1]=1 #not empty
@@ -177,13 +151,13 @@ while i<len(stringquickpvp[2]):
     else:stringquickpvp[2]=stringquickpvp[2][:i] + str(int(stringquickpvp[2][i])+1) + stringquickpvp[2][i+1:]
     i+=2
     
-print(stringquickpvp[2])     
+print(quick[2])     
 #output data              
 with open('move/quick.txt', 'w') as f:
     for i in range(0,len(quick[1])):
         f.write("%s\n" % (quick[1][i]))
     f.close()
-with open('move/quickch.txt', 'w') as f:
+with open('move/quickch.txt', 'w',encoding="UTF-8") as f:
     for i in range(0,len(quick[2])):
         f.write("%s %s\n" % (quick[0][i],quick[2][i]))
     f.close()
@@ -191,7 +165,7 @@ with open('move/charge.txt', 'w') as f:
     for i in range(0,len(charge[1])):
         f.write("%s\n" % (charge[1][i]))
     f.close()
-with open('move/chargech.txt', 'w') as f:
+with open('move/chargech.txt', 'w',encoding="UTF-8") as f:
     for i in range(0,len(charge[2])):
         f.write("%s %s\n" % (charge[0][i],charge[2][i]))
     f.close()

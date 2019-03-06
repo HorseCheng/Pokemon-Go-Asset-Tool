@@ -1,7 +1,10 @@
 import re
 
-date="20190226"
-version="0.135.1"
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
 
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
@@ -31,13 +34,15 @@ for i in range(0,len(master)):
 check=1;checknum=0  
 remember=0 
 noww=0
-for i in range(0,len(move[1])):
-    for e in range(noww,len(chi)):
-        if('move_reroll_confirm_desc' in chi[i]):break
-        if("move_name_" in chi[e] and str(move[1][i]) in chi[e]):
-            move[2].append(re.search("[\u4e00-\u9fa5]+",chi[e+1]).group()) #Search for chinese word
-            break
 
+for i in range(0,len(move[1])):
+    if(move[1][i]==319):move[2].append('增強拳')
+    else:
+        for e in range(noww,len(chi)):
+            if('move_reroll_confirm_desc' in chi[i]):break
+            if("move_name_" in chi[e] and str(move[1][i]) in chi[e]):
+                move[2].append(re.search("[\u4e00-\u9fa5]+",chi[e+1]).group()) #Search for chinese word
+                break
 #pokemon move
 for i in range(0,len(master)):
      if("camera_aerialace" in master[i]):break

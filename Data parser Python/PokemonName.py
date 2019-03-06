@@ -1,7 +1,14 @@
 import re
-ff=open("1208merged.txt","r",encoding="UTF-8")
+
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
+
+ff=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")
 b=ff.readlines()
-fff=open("1208emerged.txt","r",encoding="UTF-8")
+fff=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 c=fff.readlines()
 name=""
 engname=""

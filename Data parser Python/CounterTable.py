@@ -1,6 +1,10 @@
 import re
 
-date="20181215"
+date,version="",""
+with open("Version.txt","r") as f:
+    s=f.readlines()
+    date=s[0][0:-1]
+    version=s[1][0:-1]
 
 masterfile=open("Game_Master/"+date+".txt", "r" ,encoding="UTF-8")
 master=masterfile.readlines()
