@@ -1,0 +1,11 @@
+{
+  "DumpMethod": true,
+  "DumpField": true,
+  "DumpProperty": false,
+  "DumpAttribute": false,
+  "DumpFieldOffset": true,
+  "DummyDll": true,
+  "MakeFunction": false,
+  "ForceIl2CppVersion": false,
+  "ForceVersion": 16
+}

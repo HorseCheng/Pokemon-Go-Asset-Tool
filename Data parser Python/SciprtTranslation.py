@@ -1,5 +1,3 @@
-version="0.135.1"
-
 date,version="",""
 with open("Version.txt","r") as f:
     s=f.readlines()
