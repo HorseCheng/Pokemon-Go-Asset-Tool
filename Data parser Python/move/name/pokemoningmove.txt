@@ -237,3 +237,6 @@ Blast Burn
 Hydro Cannon
 Last Resort
 Meteor Mash
+Acid Spray
+Leaf Tornado
+Power-Up Punch

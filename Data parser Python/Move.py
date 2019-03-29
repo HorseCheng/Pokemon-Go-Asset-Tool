@@ -151,7 +151,8 @@ while i<len(stringquickpvp[2]):
     else:stringquickpvp[2]=stringquickpvp[2][:i] + str(int(stringquickpvp[2][i])+1) + stringquickpvp[2][i+1:]
     i+=2
     
-print(quick[2])     
+#print(quick[2])     
+    
 #output data              
 with open('move/quick.txt', 'w') as f:
     for i in range(0,len(quick[1])):

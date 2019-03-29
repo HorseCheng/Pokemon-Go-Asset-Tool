@@ -39,11 +39,11 @@ for i in range(0,len(c)):
             engmove+=c[i+1][x]
         engmove+="\n"
 print(move)
-aa=open("name/pokemonchiname.txt","w",encoding="UTF-8")
-bb=open("name/pokemoningname.txt","w",encoding="UTF-8")
+aa=open("Move/name/pokemonchiname.txt","w",encoding="UTF-8")
+bb=open("Move/name/pokemoningname.txt","w",encoding="UTF-8")
 aa.write(name);aa.close()
 bb.write(engname);bb.close()
-aa=open("name/pokemonchmove.txt","w",encoding="UTF-8")
-bb=open("name/pokemoningmove.txt","w",encoding="UTF-8")
+aa=open("Move/name/pokemonchmove.txt","w",encoding="UTF-8")
+bb=open("Move/name/pokemoningmove.txt","w",encoding="UTF-8")
 aa.write(move);aa.close()
 bb.write(engmove);bb.close()

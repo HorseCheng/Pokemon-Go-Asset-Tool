@@ -46,8 +46,8 @@ for i in range(14,len(chi)):
             else:chiw+='\n';break
         
 #output data
-aa=open("tanslation/key.txt","w",encoding="UTF-8")
-bb=open("tanslation/eng.txt","w",encoding="UTF-8")
-cc=open("tanslation/chi.txt","w",encoding="UTF-8")
+aa=open("Translation/key.txt","w",encoding="UTF-8")
+bb=open("Translation/eng.txt","w",encoding="UTF-8")
+cc=open("Translation/chi.txt","w",encoding="UTF-8")
 aa.write(key);bb.write(engw);cc.write(chiw)
 aa.close();bb.close();cc.close()

@@ -136,29 +136,37 @@ for i in range(0,len(master)):
         elif(float(gender[1])==0): genderstr.append('全男性') #All Male
 
 #pokemon intro
-startt=0;temp="";num=0
+startt=0;temp="";num=0;tempAlola=""
 def finding(language,line):
-    global num,temp
+    global num,temp,tempAlola
     num=int(re.search("[0-9]+",globals()[language][line]).group())
     temp=re.search("\"[^\"]+",globals()[language][line+1]) #find descrpition
-    temp=temp.group().replace("\"","")  if temp else ""
-    
+    temp=temp.group().replace("\"","") if temp else ""
+    if(num in alola):#Alola type has seperate description
+        temp2=re.search("\"[^\"]+",globals()[language][line+5]) #find descrpition
+        tempAlola=temp2.group().replace("\"","") if temp2 else "" 
+
+        
 for e in range(0,len(chi)): #pokemon introducing type
     if "pokemon_desc" in chi[e]:startt=e;break
     if("pokemon_category" in chi[e] and '0000' not in chi[e]):
         finding('chi',e)
-        for tt in range(0,pokecheck[num]):#only print once
+        for tt in range(0,pokecheck[num]):#only print once, special type don't need to print
             if(tt==0): intro[2].append(temp)
             else:intro[2].append('')
-
+    
+duplicated=0#avoid duplicated line when searching the alola pokemon
 for e in range(startt,len(chi)):#pokemon introducing description
     if "pokemon_evolution_tap_to_evolve" in chi[e]:startt=e;break
     if("pokemon_desc" in chi[e] and '0000' not in chi[e]):
         finding('chi',e)
-        for tt in range(0,pokecheck[num]):#only print once
-            if(tt==0): intro[3].append(temp)
-            else:intro[3].append('')
-            
+        if(duplicated!=1):
+            for tt in range(0,pokecheck[num]):#only print once, special type don't need to print
+                if(tt==0): intro[3].append(temp)
+                elif(num in alola):duplicated=1;intro[3].append(tempAlola)#second line for Alola
+                else:intro[3].append('')
+        else:duplicated=0
+    
 for e in range(startt,len(chi)):#pokemon name
     if "pokemon_nickname_error" in eng[e]:break
     if("pokemon_name" in eng[e] and '0000' not in eng[e]):
@@ -170,28 +178,32 @@ for e in range(startt,len(chi)):#pokemon name
         for tt in range(0,pokecheck[num]):#only print once
             intro[0].append(temp)
 
+#for i in range(len(intro[2])):
+#   print(intro[2][i],intro[3][i])
+    
 #list to string
-holestring="" #data string to output
+wholestring="" #data string to output
 for i in range(0,len(pokedata)):
-    holestring+='c '
+    wholestring+='c '
     for x in pokedata[i]:
-        holestring+=x+' '
-    holestring+=genderstr[i]+'\n'
+        wholestring+=x+' '
+    wholestring+=genderstr[i]+'\n'
 
 namestring="" #chinese name string to output
 for i in range(0,len(indexlist)):
     namestring+='c '+str(indexlist[i])+' '+intro[0][i]+'\n'
     
+    
 descpritionstring=""
 for i in range(0,len(indexlist)):
-    descpritionstring+=intro[2][i]+' '+intro[3][i]+'\n'
+    descpritionstring+='c '+intro[2][i]+' '+intro[3][i]+'\n'
 
 #output data
 aa=open("Pokemon Data/1_chiname.txt","w",encoding="UTF-8")
 bb=open("Pokemon Data/2_engname.txt","w",encoding="UTF-8")
 cc=open("Pokemon Data/3_database.txt","w",encoding="UTF-8")
 dd=open("Pokemon Data/4_description.txt","w",encoding="UTF-8")
-aa.write(namestring);cc.write(holestring);dd.write(descpritionstring)
+aa.write(namestring);cc.write(wholestring);dd.write(descpritionstring)
 aa.close();cc.close();dd.close()
 
 for i in intro[1]:

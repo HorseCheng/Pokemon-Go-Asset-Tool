@@ -10,6 +10,8 @@ About
 Terms of Service
 Accept
 Sent you a Friend Request!
+See which friends are playing!  Turn off at any time in the Friend’s List! 
+Friend Status!
 Clear the activity log
 Do you want to clear the activity log? If you agree, you can't cancel this action.
 Remove
@@ -19,6 +21,12 @@ Journal
 Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 Learn what information is shared with friends.
 Please enter a different nickname.
+Try again through Settings.
+Adventure Sync not enabled
+Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
+Success! Check out your progress anytime in your Trainer profile.
+Adventure Sync enabled!
+Enable Adventure Sync
 Please enter your date of birth.
 Alola Form
 Do you want to exit Pokémon GO?
@@ -88,8 +96,8 @@ AR+ requires an updated version of iOS. Do you want to update now? You'll need t
 iOS Update Required
 Slowly look around a flat, openarea with your camera."
 Maybe later
-Take photos of your Pokémon anytime, anywhere!
-Photograph Pokémon like never before with the all new AR+!
+Your camera has been upgraded!
+Photograph Pokémon like never before with the new AR+ Camera!
 You can change this at any time in settings.
 Catch Pokémon like never before with the all-new AR+!
 Make sure you're in a safe location while using AR.
@@ -106,24 +114,25 @@ Slowly look around a flat, open area with your camera.
 SHARE PHOTOS ({0})
 SHARE MY PHOTOS
 Number of photos you’ve saved from this session: {0}.
+#GOsnapshot
 Nice shot!
 Good eye!
 What a masterpiece!
-That's a keeper!
+That’s a keeper!
 What a frame-worthy photo!
-You haven't shared your photos yet. Exit anyway?
+You haven’t shared your photos yet. Exit anyway?
 Select photos for sharing
 SHOW ME
 You can move around your Pokémon to capture its best side.
-Find your angle
-Tap on your Pokémon to get its attention.
-Look here!
-You can take a Pokémon out of its Pokéball and take photos together! You may even encounter a surprise!
+Find Your Angle
+Tap on your Pokémon to get its attentionBrush across your Pokémon to get it to face you."
+Interact with Your Pokémon
+You can take a Pokémon out of its Poké Ball and take photos together! You may even encounter a surprise!
 Take photos of your Pokémon anytime, anywhere!
 Find a flat surface and tap on the footprints to place your Pokémon.
-Position your Pokémon
-Have fun and share your photos with others. You'll never know what you'll find!
-Share your photos!
+Position Your Pokémon
+Have fun and share your photos with others. You never know what you’ll find!
+Share Your Photos!
 You’re too close to the Pokémon!
 Careful, Trainer! Treat nearby surroundings and people with courtesy while you snap photos.
 Attack Bonus
@@ -428,6 +437,13 @@ Tops
 Current Style
 Defend team Gyms and attack rival ones to upgrade your Gym Badges.
 Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
+Try again through Settings.
+Adventure Sync: Nearby not enabled
+Now Adventure Sync can notify you about nearby new Pokémon!
+Adventure Sync can find nearby new Pokémon even while Pokémon GO is closed!
+Success! Good luck!
+Adventure Sync: Nearby enabled!
+Enable Adventure Sync: Nearby
 Japan, July 28, 2018
 Pokémon GO Special Weekend, July 28, 2018
 Japan, February 23, 2019
@@ -543,6 +559,16 @@ GO Safari Zone - Europe 2017
 Europe, October 14, 2017
 GO Safari Zone - Europe 2017
 GO Safari Zone - Europe 2017
+Sentosa, Apr 18, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 19, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 20, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 21, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 22, 2019
+Pokémon GO Safari Zone
 Catch {0} tiny Rattata.
 Youngster
 N0
@@ -821,12 +847,19 @@ Invalid QR Code.
 ATTACK BOOST
 ATTACK BOOST CHANCE
 OPPONENT ATTACK BOOST
+OPPONENT ATTACK BOOST CHANCE
 ATTACK DROP
+ATTACK DROP CHANCE
 OPPONENT ATTACK DROP
+OPPONENT ATTACK DROP CHANCE
 DEFENSE BOOST
+DEFENSE BOOST CHANCE
 OPPONENT DEFENSE BOOST
+OPPONENT DEFENSE BOOST CHANCE
 DEFENSE DROP
+DEFENSE DROP CHANCE
 OPPONENT DEFENSE DROP
+OPPONENT DEFENSE DROP CHANCE
 GYMS & RAIDS
 TRAINER BATTLES
 WEATHER BONUS
@@ -870,6 +903,11 @@ Are you sure you want to delete this Friend Request?
 Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 This invitation will become invalid.
 Do you want to decline this invitation?
+Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
+Go to Settings.
+Tap Privacy.
+Enable Motion & Fitness permissions for Pokémon GO.
+Missing Motion Permissions
 Your progress can’t be tracked when Pokémon GO is closed until you give permission. Please adjust your settings to allow access. 
 1. Open the Health app.
 2. Tap Sources.
@@ -893,6 +931,7 @@ Defender Bonus
 Delete
 Do you want to delete the {0} battle party?
 Are you sure you want to discard this Gift?
+Are you sure you want to delete these premium items? This cannot be undone.
 Warning: {0} is part of a battle party, and if you assign it to a Gym, it will be removed from the party.
 Maybe later
 Turn it on!
@@ -1023,6 +1062,7 @@ An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 Currently, your network connection is unstable. Please try again later.
 You have successfully registered for {0}!
+EVENTS
 Use this item on your Pokémon!
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
@@ -1031,6 +1071,17 @@ Received {0} items from EX Raid.
 Sign in with
 Sign In
 Returning player
+GO Time!
+Left-Hip Stance
+Right-Hip Stance
+Power Pose
+Tough Stance
+Poké Ball Show-Off
+Sassy Poké Ball
+Prized Poké Ball
+Poké Ball Flex
+Holding Poké Ball
+Idle
 Ultra Moon Bag
 Battle Girl Gloves
 Ultra Moon Hat
@@ -1067,7 +1118,11 @@ Can evolve {0}: \{1}\""
 Use multiple filters with ","
 Filter by type: {0}, {1}
 alola
+baby
+costume
 defender
+item
+hatched
 legendary
 lucky
 mythical
@@ -1098,11 +1153,14 @@ CLAIM REWARD!
 You walked {0:0.#} {1} this week!
 You walked {0:0.#} {1} last week!
 Eggs Hatched
-Try again through your player profile or settings.
+Enable Adventure Sync: Fitness
+Adventure Sync: Fitness not enabled
+Try again through your Trainer profile or Settings.
 Adventure Sync not enabled
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and find more Candy!
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and save your battery!
-Success! Check out your progress anytime in your player profile.
+Adventure Sync: Fitness enabled!
+Success! Check out your progress anytime in your Trainer profile.
 Adventure Sync enabled!
 Enable Adventure Sync
 km
@@ -1116,13 +1174,28 @@ REWARDS
 Attack
 Defense
 Normal
+East Sea
+Fan Rotom
+Frost Rotom
 Altered Forme
 Origin Forme
+Heat Rotom
+Land Forme
+Mow Rotom
 Normal
+Overcast Form
+Plant Cloak
 Rainy
+Sandy Cloak
+Shiny Arceus
+Sky Forme
 Snowy
 Speed
 Sunny
+Sunshine Form
+Trash Cloak
+Wash Rotom
+West Sea
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have oneIf you want to participate in more than one raid per day, you may buy raid passes from the store."
 Your Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
@@ -1177,7 +1250,10 @@ Last Activity
 Friendship Level
 Nickname
 alright then, keep your secrets
+GDC 2019: Catch {0} Pokemon
 123456789
+Female
+Male
 Accept
 & {0}
 Attack
@@ -1195,6 +1271,7 @@ More
 Network Error
 No
 OK
+Paste
 Pokémon
 Your collection is full.
 QUIT
@@ -1445,6 +1522,11 @@ Google
 Sign in with:
 Enter your username
 Username
+Your next trade with this friend will be Lucky!
+Lucky Friend
+{0} and you became Lucky Friends!
+Your next trade together will be Lucky! This means both Pokémon traded will become Lucky Pokémon.
+Lucky Trade
 A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
 Lucky Egg
 25 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
@@ -1453,6 +1535,17 @@ Lucky Egg
 5 Lucky Eggs
 8 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 8 Lucky Eggs
+Power Pose
+Ready Stance
+GO Time!
+Right-Hip Stance
+Hype Pose
+Prized Poké Ball
+Poké Ball Show-Off
+Poké Ball Flex
+Prepping Poké Ball
+Holding Poké Ball
+Idle
 Ultra Sun Bag
 Jogger Sunglasses
 Aviator Sunglasses
@@ -1725,6 +1818,9 @@ Blast Burn
 Hydro Cannon
 Last Resort
 Meteor Mash
+Acid Spray
+Leaf Tornado
+Power-Up Punch
 {0} will forget {1}.
 {0} learned a new attack!
 Clear
@@ -1878,6 +1974,7 @@ Your suspension term has now ended and you are now able access your accountThis 
 {0} and {1} other Trainers sent you Friend Requests!
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends sent you Gifts!
+LEARN MORE
 Move the marker to the most accurate location.
 Error Loading Map
 Set location
@@ -1911,6 +2008,7 @@ A great PokéStop Photo Disc is high quality, clear, compelling, and descriptive
 Submit an additional photo of the area surrounding your nomination. This will help reviewers determine whether the PokéStop location is safe and there is enough space for Trainers to play.
 Take a PokéStop Photo
 Show the Surrounding Area
+Image Upload Error
 Image upload timed out. Please try again.
 MAP
 SATELLITE
@@ -2510,15 +2608,20 @@ Pidgey has an extremely sharp sense of direction. It is capable of unerringly re
 Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.
 This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.
 Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives—it will make its nest anywhere.
+Night after night, they sneak into people's homes seeking food. A massive outbreak of them has become an issue of public concern.
 Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.
+It commands a nest of Rattata. Different nests don't get along, whipping up severe fights over feeding grounds.
 Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.
 Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.
 Ekans curls itself up in a spiral while it rests. Assuming this position allows it to quickly respond to a threat from any direction with a glare from its upraised head.
 This Pokémon is terrifically strong in order to constrict things with its body. It can even flatten steel oil drums. Once Arbok wraps its body around its foe, escaping its crushing embrace is impossible.
 Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.
 If the electrical sacs become excessively charged, Raichu plants its tail in the ground and discharges. Scorched patches of ground will be found near this Pokémon's nest.
+When you rub its cheeks, a sweet fragrance comes wafting out. However, you'll also get a light shock!
 Sandshrew's body is configured to absorb water without waste, enabling it to survive in an arid desert. This Pokémon curls up to protect itself from its enemies.
+The skin on its back is as hard as steel. Predators go after its soft belly, so it clings to the ground desperately.
 Sandslash's body is covered by tough spikes, which are hardened sections of its hide. Once a year, the old spikes fall out, to be replaced with new spikes that grow out from beneath the old ones.
+A long, long time ago, it lived in the desert. With its sharp claws fully extended, it can climb right up an iceberg without slipping.
 Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.
 When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.
 Nidoqueen's body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.
@@ -2528,7 +2631,9 @@ Nidoking's thick tail packs enormously destructive power. With one swing, it can
 On every night of a full moon, groups of this Pokémon come out to play. When dawn arrives, the tired Clefairy return to their quiet mountain retreats and go to sleep nestled up against each other.
 Clefable moves by skipping lightly as if it were flying using its wings. Its bouncy step lets it even walk on water. It is known to take strolls on lakes on quiet, moonlit nights.
 At the time of its birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer. The six tails become magnificently curled.
+They live together in a skulk, helping one another. Before eating their prey, they freeze it solid with their –58 degree Fahrenheit breath.
 Ninetales casts a sinister light from its bright red eyes to gain total control over its foe's mind. This Pokémon is said to live for a thousand years.
+Some said that deities visited mountains where Ninetales live, so in times long past, no one was allowed to go into those mountains.
 Jigglypuff's vocal cords can freely adjust the wavelength of its voice. This Pokémon uses this ability to sing at precisely the right wavelength to make its foes most drowsy.
 Wigglytuff has large, saucerlike eyes. The surfaces of its eyes are always covered with a thin layer of tears. If any dust gets in this Pokémon's eyes, it is quickly washed away.
 Zubat remains quietly unmoving in a dark spot during the bright daylight hours. It does so because prolonged exposure to the sun causes its body to become slightly burned.
@@ -2541,9 +2646,13 @@ Parasect is known to infest large trees en masse and drain nutrients from the lo
 Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.
 Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.
 Diglett are raised in most farms. The reason is simple—wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.
+The need to dig through volcanic rock in the ground has made them more powerful than the Diglett of other regions.
 Dugtrio are actually triplets that emerged from one body. As a result, each triplet thinks exactly like the other two triplets. They work cooperatively to burrow endlessly.
+Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.
 Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.
+A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.
 Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.
+Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful.
 Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.
 The webbed flippers on its forelegs and hind legs and the streamlined body of Golduck give it frightening speed. This Pokémon is definitely much faster than even the most athletic swimmer.
 When Mankey starts shaking and its nasal breathing turns rough, it's a sure sign that it is becoming angry. However, because it goes into a towering rage almost instantly, it is impossible for anyone to flee its wrath.
@@ -2565,8 +2674,11 @@ Victreebel has a long vine that extends from its head. This vine is waved and fl
 Tentacool's body is largely composed of water. If it is removed from the sea, it dries up like parchment. If this Pokémon happens to become dehydrated, put it back into the sea.
 Tentacruel has large red orbs on its head. The orbs glow before lashing the vicinity with a harsh ultrasonic blast. This Pokémon's outburst creates rough waves around it.
 The longer a Geodude lives, the more its edges are chipped and worn away, making it more rounded in appearance. However, this Pokémon's heart will remain hard, craggy, and rough always.
+Geodude compete against each other with headbutts. The iron sand on their heads will stick to whichever one has stronger magnetism.
 Graveler grows by feeding on rocks. Apparently, it prefers to eat rocks that are covered in moss. This Pokémon eats its way through a ton of rocks on a daily basis.
+Graveler's entire body is tinged with electricity due to the stones it likes to eat. It's very quick-tempered.
 Golem live up on mountains. If there is a large earthquake, these Pokémon will come rolling down off the mountains en masse to the foothills below.
+It shoots large rocks that are charged with electricity. Tremendous electric shocks are flung out across the whole area of impact.
 Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.
 Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.
 Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.
@@ -2579,7 +2691,9 @@ Watch out if Dodrio's three heads are looking in three separate directions. It's
 Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
 Dewgong loves to snooze on bitterly cold ice. The sight of this Pokémon sleeping on a glacier was mistakenly thought to be a mermaid by a mariner long ago.
 Grimer's sludgy and rubbery body can be forced through any opening, however small it may be. This Pokémon enters sewer pipes to drink filthy wastewater.
+Brought to Alola to solve the garbage problem, Grimer seems to relish any and all kinds of trash.
 From Muk's body seeps a foul fluid that gives off a nose-bendingly horrible stench. Just one drop of this Pokémon's body fluid can turn a pool stagnant and rancid.
+What look like fangs and claws are actually crystallized poison that will afflict you at a mere touch, so don't get too close.
 At night, this Pokémon uses its broad tongue to burrow a hole in the seafloor sand and then sleep in it. While it is sleeping, Shellder closes its shell, but leaves its tongue hanging out.
 Cloyster is capable of swimming in the sea. It does so by swallowing water, then jetting it out toward the rear. This Pokémon shoots spikes from its shell using the same system.
 Gastly is largely composed of gaseous matter. When exposed to a strong wind, the gaseous body quickly dwindles away. Groups of this Pokémon cluster under the eaves of houses to escape the ravages of wind.
@@ -2594,8 +2708,10 @@ Voltorb was first sighted at a company that manufactures Poké Balls. The link b
 Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.
 This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.
 Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.
+It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.
 Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.
 Marowak is the evolved form of a Cubone that has overcome its sadness at the loss of its mother and grown tough. This Pokémon's tempered and hardened spirit is not easily broken.
+When it beats opponents with its bone, the cursed flames spread to them. No amount of water will stop those flames from burning.
 Hitmonlee's legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.
 Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.
 Whenever Lickitung comes across something new, it will unfailingly give it a lick. It does so because it memorizes things by texture and by taste. It is somewhat put off by sour things.
@@ -3021,7 +3137,7 @@ Raid in progress! Your Pokémon will return to the Gym once the raid is over.
 {0} was released.
 Power Up
 Do you want to power up {0}?
-Need more {0} Candies
+Need more {0} Candies.
 Need more Stardust.
 Trainer level is too low to power up.
 {0} is assigned to a Gym.
@@ -3636,7 +3752,7 @@ Catch {0} Fighting-type Pokémon
 Catch {0} Makuhita or Meditite
 Make {0} Excellent Throws in a row
 Win {0} raids
-Use a supereffective Charged Attack in {0} raids or Gym battles
+Use a supereffective Charged Attack in {0} Gym battles
 Battle in a Gym {0} times
 Battle in a Gym
 Battle in {0} raids
@@ -3680,6 +3796,7 @@ Catch {0} Chikorita
 Catch {0} Cyndaquil
 Catch {0} Totodile
 Catch {0} Swinub
+Catch {0} Treecko
 Catch {0} Swablu
 Catch a Swablu
 Catch {0} Pidgey or Murkrow
@@ -3750,6 +3867,10 @@ Let’s GO, Meltan
 A Mythical Discovery
 A Spooky Message
 Daily Bonus
+Catch {0} Bulbasaur or Chikorita
+Catch {0} Grass-type Pokémon
+Evolve {0} Grass-type Pokémon
+Evolve {0} Grass-type Pokémon
 Evolve {0} Electric-, Water-, or Fire-type Pokémon
 Evolve an Electric-, Water-, or Fire-type Pokémon
 Evolve Eevee into Espeon during the day
@@ -4233,6 +4354,17 @@ Niantic Kids is currently unavailable. We apologize for the inconvenience.
 Niantic Kids
 https://parents.nianticlabs.com/en/login
 https://niantic-sso.kws.superawesome.tv/en/register
+Safari Zone: Earn {0} Candy walking with your Buddy
+Safari Zone: Earn a Candy walking with your Buddy
+Safari Zone: Catch {0} Pokemon
+Safari Zone: Use {0} berries to help catch Pokemon
+Safari Zone: Send {0} Gifts to friends
+Safari Zone: Spin {0} Pokestops
+Safari Zone: Hatch {0} Eggs
+Safari Zone: Hatch an Egg
+Safari Zone: Send {0} Gifts to friends
+Safari Zone: Use {0} Nanab Berries while catching Pokémon
+Safari Zone: Use {0} Pinap Berries while catching Pokémon
 Pokémon GO Safari Zone
 I'm a passenger
 friends
@@ -4298,6 +4430,8 @@ Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
 Pokémon's Return
 Adventure Sync Updates
+Adventure Sync: Nearby
+Adventure Sync: Walking
 Events, Offers, and Updates
 Push Notifications
 Report Critical Issue

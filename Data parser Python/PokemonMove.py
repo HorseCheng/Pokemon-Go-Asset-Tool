@@ -36,8 +36,10 @@ remember=0
 noww=0
 
 for i in range(0,len(move[1])):
-    if(move[1][i]==319):move[2].append('增強拳')
-    else:
+    #if(move[1][i]==303):move[2].append('酸液炸彈') #sometimes APK file still don't have the new move name
+    #elif(move[1][i]==312):move[2].append('青草攪拌器')
+    #elif(move[1][i]==319):move[2].append('增強拳')
+    if(1==1): #ignore it for now
         for e in range(noww,len(chi)):
             if('move_reroll_confirm_desc' in chi[i]):break
             if("move_name_" in chi[e] and str(move[1][i]) in chi[e]):
