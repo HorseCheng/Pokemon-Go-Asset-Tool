@@ -268,15 +268,18 @@ parser = argparse.ArgumentParser()
 parser.add_argument(
     'language',
     choices=[
+        'objc',
+        'php',
         'cpp',
         'csharp',
-        'go',
+        'python',
+        'ruby',
         'java',
         'javanano',
         'js',
-        'objc',
-        'python',
-        'ruby'],
+        'go',
+        'rust',
+        'swift'],
     help='language to pass to protoc')
 parser.add_argument(
     '-p', '--protoc_path',
@@ -323,7 +326,7 @@ if not os.path.exists(out_path):
     os.makedirs(out_path)
 
 namespace = 'POGOProtos'
-path = 'POGOProtos'
+path = 'POGOProtos'  # type: str
 merge = False
 path_lower = False
 file_lower = False
@@ -336,7 +339,7 @@ if args.language == 'js':
     path_lower = True
     file_lower = True
     package_lower = True
-elif args.language == 'csharp' or args.language == 'cpp' or args.language == 'objc':
+elif args.language == 'csharp' or args.language == 'cpp' or args.language == 'objc' or args.language == 'php':
     namespace = 'POGOProtos'
     path = 'POGOProtos'
     merge = False
@@ -371,6 +374,13 @@ elif args.language == 'ruby':
     path_lower = True
     file_lower = True
     package_lower = False
+elif args.language == 'rust':
+    namespace = 'pogoprotos'
+    path = 'pogoprotos'
+    merge = False
+    path_lower = True
+    file_lower = True
+    package_lower = True
 
 protos = read_protos(src_path)
 

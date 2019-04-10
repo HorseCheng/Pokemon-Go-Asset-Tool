@@ -615,7 +615,7 @@ message GetBackgroundModeSettingsOutProto {
 	}
 
 	Status status = 1;
-	niantic.platform.bgmode.BackgroundModeClientSettingsProto settings = 2;
+	BackgroundModeClientSettingsProto settings = 2;
 }
 
 // ref: GetBackgroundModeSettingsProto
@@ -735,7 +735,7 @@ message SfidaCaptureRequest {
 	int64 encounter_id = 2;
 	double player_lat = 3;
 	double player_lng = 4;
-	holoholo.rpc.EncounterType encounter_type = 5;
+	EncounterType encounter_type = 5;
 	double gym_lat = 6;
 	double gym_lng = 7;
 }
@@ -825,7 +825,7 @@ message SfidaMetricsUpdate {
 message SfidaNearbyPokemon {
 	int32 pokedex_number = 1;
 	bool uncaught = 2;
-	holoholo.rpc.PokemonDisplayProto pokemon_display = 3;
+	PokemonDisplayProto pokemon_display = 3;
 }
 
 // ref: SfidaUpdateRequest
@@ -851,7 +851,7 @@ message SfidaUpdateResponse {
 	int64 encounter_id = 6;
 	bool nearby_pokestop = 7;
 	string pokestop_id = 8;
-	holoholo.rpc.EncounterType encounter_type = 9;
+	EncounterType encounter_type = 9;
 	int32 pokedex_number = 10;
 	repeated SfidaNearbyPokemon nearby = 11;
 }
@@ -969,7 +969,7 @@ message AddLoginActionOutProto {
 
 // ref: Niantic.Platform.Protos.AddLoginActionProto
 message AddLoginActionProto {
-	com.nianticproject.platform.auth.IdentityProvider identity_provider = 1;
+	IdentityProvider identity_provider = 1;
 	bytes inner_message = 2;
 }
 
@@ -1391,7 +1391,7 @@ message ListLoginActionOutProto {
 
 // ref: Niantic.Platform.Protos.LoginDetail
 message LoginDetail {
-	com.nianticproject.platform.auth.IdentityProvider identity_provider = 1;
+	IdentityProvider identity_provider = 1;
 	string email = 2;
 }
 
@@ -1558,7 +1558,7 @@ message RemoveLoginActionOutProto {
 
 // ref: Niantic.Platform.Protos.RemoveLoginActionProto
 message RemoveLoginActionProto {
-	com.nianticproject.platform.auth.IdentityProvider identity_provider = 1;
+	IdentityProvider identity_provider = 1;
 }
 
 // ref: Niantic.Platform.Protos.ReplaceLoginActionOutProto
@@ -1579,7 +1579,7 @@ message ReplaceLoginActionOutProto {
 
 // ref: Niantic.Platform.Protos.ReplaceLoginActionProto
 message ReplaceLoginActionProto {
-	com.nianticproject.platform.auth.IdentityProvider existing_identity_provider = 1;
+	IdentityProvider existing_identity_provider = 1;
 	AddLoginActionProto new_login = 2;
 }
 
@@ -4529,7 +4529,7 @@ message BattleProto {
 	BattleParticipantProto defender = 4;
 	BattleLogProto battle_log = 5;
 	BattleParticipantProto attacker = 6;
-	niantic.rpc.GameplayWeatherProto.WeatherCondition weather_condition = 7;
+	GameplayWeatherProto.WeatherCondition weather_condition = 7;
 	FriendshipLevelMilestone highest_friendship_milestone = 8;
 }
 
@@ -4779,7 +4779,7 @@ message BootTime {
 		MODAL_TIME = 16;
 	}
 
-	niantic.platform.telemetry.PlatformMetricData duration = 1;
+	PlatformMetricData duration = 1;
 	BootPhase boot_phase = 2;
 }
 
@@ -6548,7 +6548,7 @@ message FortSponsor {
 
 // ref: Holoholo.Rpc.FrameRate
 message FrameRate {
-	niantic.platform.telemetry.PlatformMetricData sampled_frame_rate = 1;
+	PlatformMetricData sampled_frame_rate = 1;
 }
 
 // ref: Holoholo.Rpc.FriendshipDataProto
@@ -6922,7 +6922,7 @@ message GetHatchedEggsProto {
 // ref: Holoholo.Rpc.GetHoloholoInventoryOutProto
 message GetHoloholoInventoryOutProto {
 	bool success = 1;
-	niantic.platform.inventory.InventoryDeltaProto inventory_delta = 2;
+	InventoryDeltaProto inventory_delta = 2;
 }
 
 // ref: Holoholo.Rpc.GetHoloholoInventoryProto
@@ -6942,7 +6942,7 @@ message GetInboxOutProto {
 	}
 
 	Result result = 1;
-	niantic.platform.protos.ClientInbox inbox = 2;
+	ClientInbox inbox = 2;
 }
 
 // ref: Holoholo.Rpc.GetInboxProto
@@ -6996,7 +6996,7 @@ message GetMapObjectsOutProto {
 	repeated ClientMapCellProto map_cell = 1;
 	Status status = 2;
 	TimeOfDay time_of_day = 3;
-	repeated niantic.rpc.ClientWeatherProto client_weather = 4;
+	ClientWeatherProto client_weather = 4;
 }
 
 // ref: Holoholo.Rpc.GetMapObjectsProto
@@ -7561,7 +7561,7 @@ message GymGetInfoOutProto {
 	AwardedGymBadge awarded_gym_badge = 7;
 	string checkin_image_url = 8;
 	EventInfoProto event_info = 9;
-	niantic.rpc.DisplayWeatherProto display_weather = 10;
+	DisplayWeatherProto display_weather = 10;
 	repeated string promo_image = 11;
 	repeated string promo_description = 12;
 	string call_to_action_link = 13;
@@ -7750,7 +7750,7 @@ message HoloholoClientTelemetryOmniProto {
 	OnboardingTelemetry onboarding_telemetry = 43;
 	LoginActionTelemetry login_action_telemetry = 44;
 	ArPhotoSessionProto ar_photo_session_telemetry = 45;
-	niantic.platform.telemetry.PlatformServerData server_data = 1001;
+	PlatformServerData server_data = 1001;
 }
 
 // ref: Holoholo.Rpc.HoloInventoryItemProto
@@ -8151,7 +8151,7 @@ message LobbyProto {
 	bool private = 10;
 	int64 creation_ms = 11;
 	int32 battle_plfe_instance = 12;
-	niantic.rpc.GameplayWeatherProto.WeatherCondition weather_condition = 13;
+	GameplayWeatherProto.WeatherCondition weather_condition = 13;
 }
 
 // ref: Holoholo.Rpc.LoginActionTelemetry
@@ -9059,7 +9059,7 @@ message PokemonDisplayProto {
 	Gender gender = 2;
 	bool shiny = 3;
 	Form form = 4;
-	niantic.rpc.GameplayWeatherProto.WeatherCondition weather_boosted_condition = 5;
+	GameplayWeatherProto.WeatherCondition weather_boosted_condition = 5;
 }
 
 // ref: Holoholo.Rpc.PokemonEncounterAttributesProto
@@ -11052,7 +11052,7 @@ message VerifyChallengeProto {
 
 // ref: Holoholo.Rpc.WeatherAffinityProto
 message WeatherAffinityProto {
-	niantic.rpc.GameplayWeatherProto.WeatherCondition weather_condition = 1;
+	GameplayWeatherProto.WeatherCondition weather_condition = 1;
 	repeated HoloPokemonType pokemon_type = 2;
 }
 

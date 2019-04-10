@@ -7424,6 +7424,24 @@ item_templates {
   }
 }
 item_templates {
+  template_id: "BADGE_PARTNER_EVENT_2019_0"
+  badge_settings {
+    badge_type: BADGE_PARTNER_EVENT_2019_0
+    badge_rank: 2
+    targets: 100
+    event_badge: true
+  }
+}
+item_templates {
+  template_id: "BADGE_PARTNER_EVENT_2019_1"
+  badge_settings {
+    badge_type: BADGE_PARTNER_EVENT_2019_1
+    badge_rank: 2
+    targets: 100
+    event_badge: true
+  }
+}
+item_templates {
   template_id: "BADGE_PHOTOBOMB"
   badge_settings {
     badge_type: BADGE_PHOTOBOMB
@@ -55309,6 +55327,7 @@ item_templates {
     quick_moves: HEX_FAST
     cinematic_moves: HURRICANE
     cinematic_moves: ENERGY_BALL
+    cinematic_moves: WEATHER_BALL_ROCK
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -55382,6 +55401,7 @@ item_templates {
     quick_moves: TACKLE_FAST
     cinematic_moves: HYDRO_PUMP
     cinematic_moves: THUNDER
+    cinematic_moves: WEATHER_BALL_WATER
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -55455,6 +55475,7 @@ item_templates {
     quick_moves: TACKLE_FAST
     cinematic_moves: BLIZZARD
     cinematic_moves: ICE_BEAM
+    cinematic_moves: WEATHER_BALL_ICE
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -55528,6 +55549,7 @@ item_templates {
     quick_moves: TACKLE_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: SOLAR_BEAM
+    cinematic_moves: WEATHER_BALL_FIRE
     animation_time: 1.3333
     animation_time: 0.6667
     animation_time: 1.6667
@@ -83158,4 +83180,4 @@ item_templates {
     sequence: "sys complete"
   }
 }
-timestamp_ms: 1553964899774
+timestamp_ms: 1556348848355
