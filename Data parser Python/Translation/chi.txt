@@ -21,12 +21,6 @@
 朋友之間可以相互確認彼此的個人檔案及最近捕捉到的寶可夢。當你傳送友情禮物或跟朋友交換寶可夢時，他可能會知道你的所在位置。
 會和朋友分享的內容
 此暱稱無法使用，請重新輸入
-Try again through Settings.
-Adventure Sync not enabled
-Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
-Success! Check out your progress anytime in your Trainer profile.
-Adventure Sync enabled!
-Enable Adventure Sync
 請輸入你的出生年月日
 阿羅拉的樣子
 要結束Pokémon GO嗎？
@@ -427,7 +421,6 @@ Ingress Prime / Blue
 熔岩隊長襪
 項鍊
 服裝
-姿勢
 鞋子
 新品上架！
 膚色
@@ -437,13 +430,6 @@ Ingress Prime / Blue
 目前的造型
 提升徽章的等級，就可以獲得更多獎勵！
 防禦我方道館並攻擊敵方道館來升級道館徽章
-Try again through Settings.
-Adventure Sync: Nearby not enabled
-Now Adventure Sync can notify you about nearby new Pokémon!
-Adventure Sync can find nearby new Pokémon even while Pokémon GO is closed!
-Success! Good luck!
-Adventure Sync: Nearby enabled!
-Enable Adventure Sync: Nearby
 日本 2018年7月28日
 Pokémon GO Special Weekend 2018/7/28
 日本 2019年2月23日
@@ -518,6 +504,10 @@ N0
 和 {0} 名訓練家成為正港好朋友
 偶像
 N0
+日本 2018年4月6日
+Pokémon GO Special Weekend 2019/4/6
+日本 2019年4月7日
+Pokémon GO Special Weekend 2019/4/7
  有過 {0} 次驚喜邂逅
 有過 {0} 次驚喜邂逅
 攝影師
@@ -559,16 +549,6 @@ GO Safari Zone - 2017年歐洲
 2017年10月14日 歐洲
 GO Safari Zone - 2017年歐洲
 GO Safari Zone - Europe 2017
-2019年4月18日 聖淘沙
-Pokémon GO Safari Zone
-2019年4月19日 聖淘沙
-Pokémon GO Safari Zone
-2019年4月20日 聖淘沙
-Pokémon GO Safari Zone
-2019年4月21日 聖淘沙
-Pokémon GO Safari Zone
-2019年4月22日 聖淘沙
-Pokémon GO Safari Zone
 捉到 {0} 迷你的小拉達
 短褲小子
 N0
@@ -746,6 +726,11 @@ LOADING...
 和你的夥伴一起走路吧！
 {0} 找到1顆糖果！
 正在使用中
+捕捉 {0} 隻蟲屬性的寶可夢
+捕捉 {0} 隻芭瓢蟲或圓絲蛛
+捕捉 {0} 隻刺尾蟲
+捕捉 {0} 隻蟲屬性的寶可夢
+讓 {0} 隻蟲屬性的寶可夢進化
 高級禮盒
 超級禮盒
 特別禮盒
@@ -776,7 +761,6 @@ LOADING...
 確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
 變更自己的訓練家代碼
 Pokémon GO Fest
-Hello there
 這是你現在的暱稱！
 <size=36><b>確定要更改成 {0} 嗎？</b></size暱稱能變更的次數有限，敬請留意。"
 你的暱稱已變更為 {0}
@@ -845,20 +829,12 @@ Time's Up!
 條碼過期
 條碼無效
 攻擊上升
-攻擊上升
-敵方攻擊上升
 敵方攻擊上升
 攻擊下降
-攻擊下降
-敵方攻擊下降
 敵方攻擊下降
 防禦上升
-防禦上升
-敵方防禦上升
 敵方防禦上升
 防禦下降
-防禦下降
-敵方防禦下降
 敵方防禦下降
 道館對戰 & 團體戰
 訓練家對戰
@@ -903,11 +879,6 @@ d
 刪除此朋友申請後，對方將再也無法傳送朋友申請給你
 若拒絕參加，此邀請函將立即失效
 確定要拒絕朋友的邀請嗎？
-Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
-Go to Settings.
-Tap Privacy.
-Enable Motion & Fitness permissions for Pokémon GO.
-Missing Motion Permissions
 若要在Pokémon GO關閉時持續計算行走距離，請開啟裝置的設定，並允許Pokémon GO使用權限。
 1. 開啟「健康」app
 2. 點擊「來源」標籤頁
@@ -931,7 +902,6 @@ Missing Motion Permissions
 刪除
 要刪除 {0} 這個對戰小組嗎？
 確定要丟棄這個友情禮物嗎？
-確定要刪除這些道具嗎？請注意，刪除後將無法復原。
 警告： {0} 是對戰小組的成員。如果你把牠指派到道館，牠將會從對戰小組中被移除。
 等等再說
 開始使用！
@@ -1062,7 +1032,6 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
 成功登入 {0} 了！
-參加活動
 對寶可夢用用看這個道具吧！
 你還沒有任何 {0} ！
 邀請一位朋友參加VIP團體戰
@@ -1073,13 +1042,23 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 已註冊的玩家
 GO Time!
 左側
-右側
-扠腰
+右手扠腰
+自信滿滿
 環手
 秀出精靈球
-Sassy Poké Ball
-Prized Poké Ball
-Poké Ball Flex
+左手舉球
+精選精靈球
+旋球
+拿著精靈球
+扠腰
+蓄勢待發
+GO Time!
+右手扠腰
+帥氣姿勢
+動感
+秀出精靈球
+扭轉上半身
+準備投出精靈球
 拿著精靈球
 閒著
 究極之月 包包
@@ -1118,7 +1097,7 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 以半形逗號（,）連結複數搜尋條件
 以屬性搜尋：{0}, {1}
 阿羅拉
-寶寶
+只限蛋
 特殊
 防禦者
 道具
@@ -1153,13 +1132,10 @@ Let's GO!
 這星期走了{0:0.#} {1}！
 上星期走了{0:0.#} {1}！
 顆蛋孵化
-Enable Adventure Sync: Fitness
-Adventure Sync: Fitness not enabled
 請從個人檔案或設定再次嘗試開啟。
 尚未開啟時時刻刻冒險
 即使在未開啟Pokémon GO畫面時，遊戲還是會持續計算步數，讓你能孵蛋、也能讓夥伴找到更多糖果！
 即使在未開啟Pokémon GO畫面時，遊戲還是會持續計算步數，讓你能孵蛋、也能讓夥伴找到更多糖果！
-Adventure Sync: Fitness enabled!
 成功開啟！你隨時都可以在個人檔案畫面確認運動成果。
 已開啟時時刻刻冒險！
 時時刻刻冒險
@@ -1171,31 +1147,18 @@ Adventure Sync: Fitness enabled!
 查看夥伴
 蛋
 獎勵
+別種形態
 攻擊形態
 防禦形態
 普通形態
-東海
-旋轉洛托姆
-結冰洛托姆
 別種形態
 起源形態
-加熱洛托姆
-陸上形態
-切割洛托姆
 飄浮泡泡的樣子
-陰天形態
-草木蓑衣
+起源形態
 雨水的樣子
-砂土蓑衣
-異色阿爾宙斯
-天空形態
 雪雲的樣子
 速度形態
 太陽的樣子
-晴天形態
-垃圾蓑衣
-清洗洛托姆
-西海
 參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券如果希望一天參加兩次以上的團體戰，請至商店購買入場券。"
 你的包包已經滿了，無法收下團體戰入場券。
 {0} 捉到1隻 {1} 了！
@@ -1249,7 +1212,6 @@ Lv {0}
 最近的活動
 友誼等級
 暱稱
-好吧，保守秘密
 GDC 2019: Catch {0} Pokemon
 123456789
 雌性
@@ -1271,7 +1233,6 @@ More
 網路錯誤
 No
 OK
-Paste
 寶可夢
 你的同行隊伍已經滿了
 結束
@@ -1522,11 +1483,12 @@ Google
 選擇登入帳號：
 輸入用戶名稱
 用戶名稱
-Your next trade with this friend will be Lucky!
-Lucky Friend
-{0} and you became Lucky Friends!
-Your next trade together will be Lucky! This means both Pokémon traded will become Lucky Pokémon.
-Lucky Trade
+下次和這位朋友交換寶可夢時將可獲得亮晶晶寶可夢！
+亮晶晶好朋友
+和 {0} 成為亮晶晶好朋友了！
+解鎖新獎勵
+下一次交換將會是亮晶晶交換！也就是說，拿去交換的寶可夢和透過交換獲得的寶可夢都會是亮晶晶寶可夢。
+亮晶晶交換
 裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。
 幸運蛋
 25個裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。
@@ -1536,14 +1498,24 @@ Lucky Trade
 8個裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。
 幸運蛋 × 8
 扠腰
-Ready Stance
+蓄勢待發
 GO Time!
-Right-Hip Stance
+右手扠腰
 帥氣姿勢
-Prized Poké Ball
+動感
 秀出精靈球
-Poké Ball Flex
+扭轉上半身
 準備投出精靈球
+拿著精靈球
+GO Time!
+左側
+右手扠腰
+自信滿滿
+環手
+秀出精靈球
+左手舉球
+精選精靈球
+旋球
 拿著精靈球
 閒著
 究極之日 包包
@@ -1562,6 +1534,19 @@ GO Fest T恤
 慢跑者鞋
 究極之日 鞋子
 整理道具
+蓮葉童子研究：拜訪 {0} 個寶可補給站
+蓮葉童子研究：捕捉寶可夢時使用 {0} 顆樹果來輔助
+蓮葉童子研究：捕捉1隻飄浮泡泡
+蓮葉童子研究：捕捉 {0} 隻擁有天氣優勢的寶可夢
+蓮葉童子研究：捕捉 {0} 隻擁有天氣優勢的寶可夢
+蓮葉童子研究：參加1次道館對戰
+蓮葉童子研究：投出 {0} 次曲球
+蓮葉童子研究：投出 {0} 次Great
+蓮葉童子研究：連續投出 {0} 次Great
+蓮葉童子研究：投出 {0} 次Nice
+蓮葉童子研究：連續投出 {0} 次Nice
+蓮葉童子研究：參加1次團體戰
+蓮葉童子研究：在道館對戰中使出1次「效果絕佳」的特殊招式
 噴霧式傷藥。能讓1隻寶可夢的HP完全回復。一組10個。
 全滿藥 × 10
 讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。
@@ -1974,10 +1959,10 @@ Pokémon GO STADIUM
 收到來自 {0} 和其他 {1} 位訓練家的朋友申請了！
 {0} 和其他 {1} 位朋友打開你的友情禮物了！
 收到來自 {0} 和其他 {1} 位朋友的友情禮物了！
-瞭解詳情
 請將圖標移動到正確位置
 載入地圖時發生錯誤
 指定地點
+載入地圖時發生錯誤
 新寶可補給站
 玩家推荐
 教學
@@ -3797,6 +3782,7 @@ Let's Go：孵 {0} 顆蛋
 捕捉 {0} 隻小鋸鱷
 捕捉 {0} 隻小山豬
 捕捉 {0} 隻木守宮
+捕捉 {0} 隻寶貝龍
 捕捉 {0} 隻青綿鳥
 捕捉1隻青綿鳥
 捕捉 {0} 隻波波或黑暗鴉
@@ -3822,7 +3808,7 @@ Let's Go：孵 {0} 顆蛋
 捕捉1隻惡屬性的寶可夢
 捕捉 {0} 隻龍屬性的寶可夢
 捕捉1隻龍屬性的寶可夢
-Safari Zone: 捕捉 {0} 隻電屬性的寶可夢
+捕捉 {0} 隻電屬性的寶可夢
 捕捉1隻電屬性的寶可夢
 捕捉 {0} 隻妖精屬性的寶可夢
 捕捉1隻妖精屬性的寶可夢
@@ -4354,17 +4340,6 @@ Niantic Kids暫時無法連線，敬請見諒
 Niantic Kids
 https://parents.nianticlabs.com/zh-tw/login
 https://niantic-sso.kws.superawesome.tv/zh-tw/register
-Safari Zone: Earn {0} Candy walking with your Buddy
-Safari Zone: Earn a Candy walking with your Buddy
-Safari Zone: Catch {0} Pokemon
-Safari Zone: Use {0} berries to help catch Pokemon
-Safari Zone: Send {0} Gifts to friends
-Safari Zone: Spin {0} Pokestops
-Safari Zone: Hatch {0} Eggs
-Safari Zone: Hatch an Egg
-Safari Zone: Send {0} Gifts to friends
-Safari Zone: Use {0} Nanab Berries while catching Pokémon
-Safari Zone: Use {0} Pinap Berries while catching Pokémon
 GO Safari Zone - Europe 2017
 我不是駕駛
 朋友
@@ -4430,8 +4405,6 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 寶可夢回來
 時時刻刻冒險進度
-時時刻刻冒險：附近
-時時刻刻冒險：步行
 活動、折扣資訊及最新消息
 推播通知
 回報重要問題
@@ -4596,7 +4569,6 @@ Sale
 來參加我的隊伍吧！
 相信你的直覺，就能百戰百勝！
 一枚協助訓練家轉隊的特殊獎章。可在商店中購買，每365天限購一次。
-轉隊獎章
 轉隊獎章
 https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 測試

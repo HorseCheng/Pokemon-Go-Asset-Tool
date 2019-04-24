@@ -21,12 +21,6 @@ Journal
 Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 Learn what information is shared with friends.
 Please enter a different nickname.
-Try again through Settings.
-Adventure Sync not enabled
-Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
-Success! Check out your progress anytime in your Trainer profile.
-Adventure Sync enabled!
-Enable Adventure Sync
 Please enter your date of birth.
 Alola Form
 Do you want to exit Pokémon GO?
@@ -149,7 +143,7 @@ Bottoms
 Battles Won
 Pokémon Caught
 Total Activity
-Walking Distance
+Distance Walked
 Appearance
 Choose
 Eyes
@@ -427,7 +421,6 @@ No Socks
 Team Magma Socks
 Necklaces
 Outfits
-POSES
 Footwear
 New items available!
 Skin
@@ -437,13 +430,6 @@ Tops
 Current Style
 Defend team Gyms and attack rival ones to upgrade your Gym Badges.
 Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
-Try again through Settings.
-Adventure Sync: Nearby not enabled
-Now Adventure Sync can notify you about nearby new Pokémon!
-Adventure Sync can find nearby new Pokémon even while Pokémon GO is closed!
-Success! Good luck!
-Adventure Sync: Nearby enabled!
-Enable Adventure Sync: Nearby
 Japan, July 28, 2018
 Pokémon GO Special Weekend, July 28, 2018
 Japan, February 23, 2019
@@ -518,6 +504,10 @@ Become Best Friends with {0} Trainers.
 Become Best Friends with {0} Trainer.
 Idol
 N0
+Japan, April 6, 2019
+Pokemon GO Special Weekend, April 6
+Japan, April 7, 2019
+Pokemon GO Special Weekend, April 7
 Have {0} surprise encounters in GO Snapshot.
 Have {0} surprise encounter in GO Snapshot.
 Cameraman
@@ -559,16 +549,6 @@ GO Safari Zone - Europe 2017
 Europe, October 14, 2017
 GO Safari Zone - Europe 2017
 GO Safari Zone - Europe 2017
-Sentosa, Apr 18, 2019
-Pokémon GO Safari Zone
-Sentosa, Apr 19, 2019
-Pokémon GO Safari Zone
-Sentosa, Apr 20, 2019
-Pokémon GO Safari Zone
-Sentosa, Apr 21, 2019
-Pokémon GO Safari Zone
-Sentosa, Apr 22, 2019
-Pokémon GO Safari Zone
 Catch {0} tiny Rattata.
 Youngster
 N0
@@ -746,6 +726,11 @@ MY BUDDY
 Walk with your buddy!
 {0} found a Candy!
 You've already applied this type of enhancement.
+Catch {0} Bug-type Pokémon
+Catch {0} Ledyba or Spinarak
+Catch {0} Wurmple
+Catch {0} Bug-type Pokémon
+Evolve {0} Bug-type Pokémon
 Ultra Box
 Great Box
 Special Box
@@ -776,7 +761,6 @@ CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
 Pokémon GO Fest
-Hello there
 That's already your name!
 <size=36><b>Are you sure you want to be called {0}?</b></size
 You're now known as {0}.
@@ -845,21 +829,13 @@ Time’s Up!
 This challenge has expired.
 Invalid QR Code.
 ATTACK BOOST
-ATTACK BOOST CHANCE
 OPPONENT ATTACK BOOST
-OPPONENT ATTACK BOOST CHANCE
 ATTACK DROP
-ATTACK DROP CHANCE
 OPPONENT ATTACK DROP
-OPPONENT ATTACK DROP CHANCE
 DEFENSE BOOST
-DEFENSE BOOST CHANCE
 OPPONENT DEFENSE BOOST
-OPPONENT DEFENSE BOOST CHANCE
 DEFENSE DROP
-DEFENSE DROP CHANCE
 OPPONENT DEFENSE DROP
-OPPONENT DEFENSE DROP CHANCE
 GYMS & RAIDS
 TRAINER BATTLES
 WEATHER BONUS
@@ -903,11 +879,6 @@ Are you sure you want to delete this Friend Request?
 Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 This invitation will become invalid.
 Do you want to decline this invitation?
-Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
-Go to Settings.
-Tap Privacy.
-Enable Motion & Fitness permissions for Pokémon GO.
-Missing Motion Permissions
 Your progress can’t be tracked when Pokémon GO is closed until you give permission. Please adjust your settings to allow access. 
 1. Open the Health app.
 2. Tap Sources.
@@ -931,7 +902,6 @@ Defender Bonus
 Delete
 Do you want to delete the {0} battle party?
 Are you sure you want to discard this Gift?
-Are you sure you want to delete these premium items? This cannot be undone.
 Warning: {0} is part of a battle party, and if you assign it to a Gym, it will be removed from the party.
 Maybe later
 Turn it on!
@@ -1062,7 +1032,6 @@ An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 Currently, your network connection is unstable. Please try again later.
 You have successfully registered for {0}!
-EVENTS
 Use this item on your Pokémon!
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
@@ -1074,12 +1043,22 @@ Returning player
 GO Time!
 Left-Hip Stance
 Right-Hip Stance
-Power Pose
+Confident Pose
 Tough Stance
-Poké Ball Show-Off
+Poké Ball Lift
 Sassy Poké Ball
 Prized Poké Ball
+Poké Ball Windup
+Poké Ball Grip
+Power Pose
+Ready Stance
+Keen Stance
+Right-Hip Stance
+Hype Pose
+Poké Ball Twist
+Poké Ball Show-Off
 Poké Ball Flex
+Prepping Poké Ball
 Holding Poké Ball
 Idle
 Ultra Moon Bag
@@ -1118,7 +1097,7 @@ Can evolve {0}: \{1}\""
 Use multiple filters with ","
 Filter by type: {0}, {1}
 alola
-baby
+eggsonly
 costume
 defender
 item
@@ -1153,13 +1132,10 @@ CLAIM REWARD!
 You walked {0:0.#} {1} this week!
 You walked {0:0.#} {1} last week!
 Eggs Hatched
-Enable Adventure Sync: Fitness
-Adventure Sync: Fitness not enabled
 Try again through your Trainer profile or Settings.
 Adventure Sync not enabled
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and find more Candy!
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and save your battery!
-Adventure Sync: Fitness enabled!
 Success! Check out your progress anytime in your Trainer profile.
 Adventure Sync enabled!
 Enable Adventure Sync
@@ -1171,31 +1147,18 @@ Steps
 VIEW BUDDY
 EGGS
 REWARDS
+Altered Forme
 Attack
 Defense
 Normal
-East Sea
-Fan Rotom
-Frost Rotom
 Altered Forme
 Origin Forme
-Heat Rotom
-Land Forme
-Mow Rotom
 Normal
-Overcast Form
-Plant Cloak
+Origin Forme
 Rainy
-Sandy Cloak
-Shiny Arceus
-Sky Forme
 Snowy
 Speed
 Sunny
-Sunshine Form
-Trash Cloak
-Wash Rotom
-West Sea
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have oneIf you want to participate in more than one raid per day, you may buy raid passes from the store."
 Your Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
@@ -1226,7 +1189,7 @@ Raid bonus
 Stardust discount
 Trade
 Play together for {0} more days to become {1}s!
-Play together for {0} more days to become {1}s!
+Play together for {0} more day to become {1}s!
 You can trade the following Pokémon:
 Friend
 Friends
@@ -1249,8 +1212,7 @@ Gift
 Last Activity
 Friendship Level
 Nickname
-alright then, keep your secrets
-GDC 2019: Catch {0} Pokemon
+GDC 2019: Catch {0} Pokémon
 123456789
 Female
 Male
@@ -1271,7 +1233,6 @@ More
 Network Error
 No
 OK
-Paste
 Pokémon
 Your collection is full.
 QUIT
@@ -1525,6 +1486,7 @@ Username
 Your next trade with this friend will be Lucky!
 Lucky Friend
 {0} and you became Lucky Friends!
+New Bonus Unlocked
 Your next trade together will be Lucky! This means both Pokémon traded will become Lucky Pokémon.
 Lucky Trade
 A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
@@ -1537,14 +1499,24 @@ Lucky Egg
 8 Lucky Eggs
 Power Pose
 Ready Stance
-GO Time!
+Keen Stance
 Right-Hip Stance
 Hype Pose
-Prized Poké Ball
+Poké Ball Twist
 Poké Ball Show-Off
 Poké Ball Flex
 Prepping Poké Ball
 Holding Poké Ball
+GO Time!
+Left-Hip Stance
+Right-Hip Stance
+Confident Pose
+Tough Stance
+Poké Ball Lift
+Sassy Poké Ball
+Prized Poké Ball
+Poké Ball Windup
+Poké Ball Grip
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -1562,6 +1534,19 @@ Fisherman Boots
 Jogger Shoes
 Ultra Sun Shoes
 Manage Items
+Lotad Research: Spin {0} PokéStops
+Lotad Research: Use {0} Berries to help catch Pokémon
+Lotad Research: Catch a Castform
+Lotad Research: Catch {0} Pokémon with Weather Boost
+Lotad Research: Catch {0} Pokémon with Weather Boost
+Lotad Research: Battle in a Gym
+Lotad Research: Make {0} Curveball Throws
+Lotad Research: Make {0} Great Throws
+Lotad Research: Make {0} Great Throws in a row
+Lotad Research: Make {0} Nice Throws
+Lotad Research: Make {0} Nice Throws in a row
+Lotad Research: Battle in a raid
+Lotad Research: Use a supereffective Charged Attack in a Gym battle
 10 Max Potions to completely restore the HP of 10 Pokémon.
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
@@ -1974,10 +1959,10 @@ Your suspension term has now ended and you are now able access your accountThis 
 {0} and {1} other Trainers sent you Friend Requests!
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends sent you Gifts!
-LEARN MORE
 Move the marker to the most accurate location.
 Error Loading Map
 Set location
+Error Loading Map
 NEW POKÉSTOP
 PLAYER NOMINATIONS
 Tutorial
@@ -3797,6 +3782,7 @@ Catch {0} Cyndaquil
 Catch {0} Totodile
 Catch {0} Swinub
 Catch {0} Treecko
+Catch {0} Bagon
 Catch {0} Swablu
 Catch a Swablu
 Catch {0} Pidgey or Murkrow
@@ -3809,7 +3795,7 @@ Catch {0} Mareep
 Catch {0} Charmander
 Catch {0} Larvitar
 Catch {0} Unown
-Catch a Aerodactyl
+Catch an Aerodactyl
 Catch a Cubone
 Catch {0} Exeggcute
 Catch {0} Lileep or Anorith
@@ -4221,7 +4207,7 @@ Win {0} level 3 or higher raids
 Win a level 3 or higher raid
 Win {0} raids
 Win a raid
-Hey!  Good job with your Field Research, it looks like we've learned a lot!
+Hey! Good job with your Field Research. It looks like we’ve learned a lot!
 Keep up the great work.  Now...let's see what we've discovered!
 Breakthrough!
 You must claim your Research Breakthrough first!
@@ -4354,17 +4340,6 @@ Niantic Kids is currently unavailable. We apologize for the inconvenience.
 Niantic Kids
 https://parents.nianticlabs.com/en/login
 https://niantic-sso.kws.superawesome.tv/en/register
-Safari Zone: Earn {0} Candy walking with your Buddy
-Safari Zone: Earn a Candy walking with your Buddy
-Safari Zone: Catch {0} Pokemon
-Safari Zone: Use {0} berries to help catch Pokemon
-Safari Zone: Send {0} Gifts to friends
-Safari Zone: Spin {0} Pokestops
-Safari Zone: Hatch {0} Eggs
-Safari Zone: Hatch an Egg
-Safari Zone: Send {0} Gifts to friends
-Safari Zone: Use {0} Nanab Berries while catching Pokémon
-Safari Zone: Use {0} Pinap Berries while catching Pokémon
 Pokémon GO Safari Zone
 I'm a passenger
 friends
@@ -4430,8 +4405,6 @@ Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
 Pokémon's Return
 Adventure Sync Updates
-Adventure Sync: Nearby
-Adventure Sync: Walking
 Events, Offers, and Updates
 Push Notifications
 Report Critical Issue
@@ -4596,7 +4569,6 @@ I bet the secret to their intuition is related to how they're hatched.
 Come on and join my team!
 You never lose when you trust your instincts!
 A unique coin that enables a Trainer to change teams. It can only be purchased once per 365 days.
-Team Medallion
 Team Medallion
 https://www.nianticlabs.com/terms/pokemongo/en/
 Test
