@@ -506,6 +506,7 @@ message FitnessMetricsReportHistory {
 
 // ref: FitnessRecordProto
 message FitnessRecordProto {
+	map<int64, FitnessMetricsProto> hourly_reports = 1;
 	repeated FitnessSample raw_samples = 2;
 	int64 last_aggregation_timestamp_ms = 3;
 	FitnessStatsProto fitness_stats = 4;
@@ -8691,6 +8692,7 @@ message PlayerCombatBadgeStatsProto {
 
 // ref: Holoholo.Rpc.PlayerCombatStatsProto
 message PlayerCombatStatsProto {
+	map<int32, Holoholo.Rpc.PlayerCombatBadgeStatsProto> badges = 1;
 }
 
 // ref: Holoholo.Rpc.PlayerCurrencyProto
