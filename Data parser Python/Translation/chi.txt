@@ -10,8 +10,6 @@
 服務條款
 接受
 收到1件朋友申請
-看看哪些朋友在玩遊戲吧！你隨時都可以在朋友一覽表中關閉此功能
-朋友狀態
 清除紀錄
 確定要清除紀錄嗎？清除紀錄後將無法回復
 刪除
@@ -21,6 +19,12 @@
 朋友之間可以相互確認彼此的個人檔案及最近捕捉到的寶可夢。當你傳送友情禮物或跟朋友交換寶可夢時，他可能會知道你的所在位置。
 會和朋友分享的內容
 此暱稱無法使用，請重新輸入
+Try again through Settings.
+Adventure Sync not enabled
+Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
+Success! Check out your progress anytime in your Trainer profile.
+Adventure Sync enabled!
+Enable Adventure Sync
 請輸入你的出生年月日
 阿羅拉的樣子
 要結束Pokémon GO嗎？
@@ -149,6 +153,9 @@ OK
 眼睛
 蝴蝶結背包
 都會風背包
+蛋型背包
+蛋型背包
+蛋型背包
 不背包包
 葉子包包
 耿鬼背包
@@ -293,6 +300,9 @@ Ingress Prime / Blue
 將在 {1} 獎牌的第 {0} 階段開放
 將在等級 {0} 開放
 訓練家背包
+蛋型背包
+蛋型背包
+蛋型背包
 不背包包
 火焰背包
 耿鬼背包
@@ -430,6 +440,13 @@ Ingress Prime / Blue
 目前的造型
 提升徽章的等級，就可以獲得更多獎勵！
 防禦我方道館並攻擊敵方道館來升級道館徽章
+Try again through Settings.
+Adventure Sync: Nearby not enabled
+Now Adventure Sync can notify you about nearby new Pokémon!
+Adventure Sync can find nearby new Pokémon even while Pokémon GO is closed!
+Success! Good luck!
+Adventure Sync: Nearby enabled!
+Enable Adventure Sync: Nearby
 日本 2018年7月28日
 Pokémon GO Special Weekend 2018/7/28
 日本 2019年2月23日
@@ -549,6 +566,16 @@ GO Safari Zone - 2017年歐洲
 2017年10月14日 歐洲
 GO Safari Zone - 2017年歐洲
 GO Safari Zone - Europe 2017
+2019年4月18日 聖淘沙
+Pokémon GO Safari Zone
+2019年4月19日 聖淘沙
+Pokémon GO Safari Zone
+2019年4月20日 聖淘沙
+Pokémon GO Safari Zone
+2019年4月21日 聖淘沙
+Pokémon GO Safari Zone
+2019年4月22日 聖淘沙
+Pokémon GO Safari Zone
 捉到 {0} 迷你的小拉達
 短褲小子
 N0
@@ -829,6 +856,7 @@ Time's Up!
 條碼過期
 條碼無效
 攻擊上升
+攻擊上升
 敵方攻擊上升
 攻擊下降
 敵方攻擊下降
@@ -879,6 +907,11 @@ d
 刪除此朋友申請後，對方將再也無法傳送朋友申請給你
 若拒絕參加，此邀請函將立即失效
 確定要拒絕朋友的邀請嗎？
+Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
+Go to Settings.
+Tap Privacy.
+Enable Motion & Fitness permissions for Pokémon GO.
+Missing Motion Permissions
 若要在Pokémon GO關閉時持續計算行走距離，請開啟裝置的設定，並允許Pokémon GO使用權限。
 1. 開啟「健康」app
 2. 點擊「來源」標籤頁
@@ -902,7 +935,12 @@ d
 刪除
 要刪除 {0} 這個對戰小組嗎？
 確定要丟棄這個友情禮物嗎？
+確定要刪除這些道具嗎？請注意，刪除後將無法復原。
 警告： {0} 是對戰小組的成員。如果你把牠指派到道館，牠將會從對戰小組中被移除。
+名偵探皮卡丘：捉住在河裡散步的種子寶可夢
+名偵探皮卡丘：捉住由伊布進化而來的火屬性寶可夢
+名偵探皮卡丘：捉住用背包運來的水屬性寶可夢
+名偵探皮卡丘：捕捉 {0} 隻胖丁、長尾怪手或布魯
 等等再說
 開始使用！
 很抱歉，Pokémon GO不再支援你所使用的裝置。請至常見問題確認Pokémon GO支援的裝置。
@@ -914,6 +952,9 @@ d
 不能指派相同種類的寶可夢到道館
 不能指派相同種類的寶可夢到道館
 不能將幻之寶可夢指派至道館
+全民找蛋大作戰：孵1顆蛋
+全民找蛋大作戰：孵 {0} 顆蛋
+全民找蛋大作戰：孵 {0} 顆蛋
 會孵出什麼呢！？
 概要
 帶著蛋走路，就可以讓它孵化喔
@@ -1032,6 +1073,7 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
 成功登入 {0} 了！
+參加活動
 對寶可夢用用看這個道具吧！
 你還沒有任何 {0} ！
 邀請一位朋友參加VIP團體戰
@@ -1132,10 +1174,13 @@ Let's GO!
 這星期走了{0:0.#} {1}！
 上星期走了{0:0.#} {1}！
 顆蛋孵化
+Enable Adventure Sync: Fitness
+Adventure Sync: Fitness not enabled
 請從個人檔案或設定再次嘗試開啟。
 尚未開啟時時刻刻冒險
 即使在未開啟Pokémon GO畫面時，遊戲還是會持續計算步數，讓你能孵蛋、也能讓夥伴找到更多糖果！
 即使在未開啟Pokémon GO畫面時，遊戲還是會持續計算步數，讓你能孵蛋、也能讓夥伴找到更多糖果！
+Adventure Sync: Fitness enabled!
 成功開啟！你隨時都可以在個人檔案畫面確認運動成果。
 已開啟時時刻刻冒險！
 時時刻刻冒險
@@ -1233,6 +1278,7 @@ More
 網路錯誤
 No
 OK
+貼上
 寶可夢
 你的同行隊伍已經滿了
 結束
@@ -1803,8 +1849,14 @@ m
 加農水砲
 珍藏
 彗星拳
+火箭頭錘
 酸液炸彈
+大地之力
+蟹鉗錘
+Lunge
+Crush Claw
 青草攪拌器
+火焰踢
 增強拳
 {0}會忘記<b>{1}</b>
 {0} 學會新招式了！
@@ -1959,6 +2011,7 @@ Pokémon GO STADIUM
 收到來自 {0} 和其他 {1} 位訓練家的朋友申請了！
 {0} 和其他 {1} 位朋友打開你的友情禮物了！
 收到來自 {0} 和其他 {1} 位朋友的友情禮物了！
+瞭解詳情
 請將圖標移動到正確位置
 載入地圖時發生錯誤
 指定地點
@@ -3783,6 +3836,7 @@ Let's Go：孵 {0} 顆蛋
 捕捉 {0} 隻小山豬
 捕捉 {0} 隻木守宮
 捕捉 {0} 隻寶貝龍
+捕捉 {0} 隻火稚雞
 捕捉 {0} 隻青綿鳥
 捕捉1隻青綿鳥
 捕捉 {0} 隻波波或黑暗鴉
@@ -3901,6 +3955,7 @@ Let’s GO！美錄坦
 珍珠貝研究：連續投出 {0} 次Nice
 珍珠貝研究：投出 {0} 次Nice
 珍珠貝研究：拜訪 {0} 個寶可補給站
+在捕捉寶可夢時使用 {0} 顆蕉香果
 在捕捉寶可夢時使用 {0} 顆凰梨果
 用 {0} 顆蔓莓果來幫忙捕捉寶可夢
 今天捉到的第1隻
@@ -4203,6 +4258,7 @@ Valentine's Day: 捕捉1隻吉利蛋
 潑水節：在1場團體戰中獲勝
 在道館對戰中獲勝 {0} 次
 在道館對戰中獲勝1次
+在等級2以上的團體戰中獲勝1次
 在等級3以上的團體戰中獲勝 {0} 次
 在等級3以上的團體戰中獲勝1次
 在團體戰中獲勝 {0} 次
@@ -4340,6 +4396,17 @@ Niantic Kids暫時無法連線，敬請見諒
 Niantic Kids
 https://parents.nianticlabs.com/zh-tw/login
 https://niantic-sso.kws.superawesome.tv/zh-tw/register
+Safari Zone：和夥伴寶可夢一起走路，獲得 {0} 顆糖果
+Safari Zone：和夥伴寶可夢一起走路，獲得1顆糖果
+Safari Zone：捕捉 {0} 隻寶可夢
+Safari Zone：捕捉寶可夢時使用 {0} 顆樹果來輔助
+Safari Zone：贈送 {0} 個友情禮物給朋友
+Safari Zone：拜訪 {0} 個寶可補給站
+Safari Zone：孵 {0} 顆蛋
+Safari Zone：孵1顆蛋
+Safari Zone：贈送 {0} 個友情禮物給朋友
+Safari Zone：在捕捉寶可夢時使用 {0} 顆蕉香果
+Safari Zone：在捕捉寶可夢時使用 {0} 顆凰梨果
 GO Safari Zone - Europe 2017
 我不是駕駛
 朋友
@@ -4405,6 +4472,8 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 寶可夢回來
 時時刻刻冒險進度
+時時刻刻冒險：附近
+時時刻刻冒險：步行
 活動、折扣資訊及最新消息
 推播通知
 回報重要問題
@@ -4516,6 +4585,7 @@ Sale
 分享訓練家代碼
 要讓 {0} 忘記哪個招式？
 你要讓 {0} 學會新的特殊招式嗎？
+寶可夢將無法重新學會 {1} ，確定要忘記嗎？
 一天只能進行一次特殊交換
 要進行特殊交換嗎？
 請不要在開車時玩Pokémon GO

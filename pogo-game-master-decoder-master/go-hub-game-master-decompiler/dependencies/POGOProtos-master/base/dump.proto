@@ -459,7 +459,10 @@ enum PokemonAnim {
 	DAMAGED = 6;
 	STUNNED = 7;
 	LOOP = 8;
-	_MAX = 9;
+	SLEEP_01 = 9;
+	SLEEP_02 = 10;
+	SLEEP_WAIT = 11;
+	_MAX = 12;
 }
 
 // ref: UpdateType
@@ -914,6 +917,7 @@ enum PlatformClientAction {
 	REQUEST_GEOFENCE_UPDATES = 5033;
 	UPDATE_PLAYER_LOCATION = 5034;
 	GENERATE_GMAP_SIGNED_URL = 5035;
+	GET_GMAP_SETTINGS = 5036;
 }
 
 // ref: Niantic.Platform.Protos.SocialNotificationCategory
@@ -1112,7 +1116,6 @@ message GetAvailableSubmissionsOutProto {
 	bool has_valid_email = 3;
 	bool is_feature_enabled = 4;
 	int64 time_window_for_submissions_limit_ms = 5;
-	int32 max_poi_distance_in_meters = 6;
 }
 
 // ref: Niantic.Platform.Protos.GetAvailableSubmissionsProto
@@ -1236,6 +1239,26 @@ message GetFriendsListOutProto {
 
 // ref: Niantic.Platform.Protos.GetFriendsListProto
 message GetFriendsListProto {
+}
+
+// ref: Niantic.Platform.Protos.GetGmapSettingsOutProto
+message GetGmapSettingsOutProto {
+	// ref: Niantic.Platform.Protos.GetGmapSettingsOutProto/Types/Result
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_UNKNOWN = 2;
+		ERROR_MISSING_CONFIG = 3;
+		ERROR_NO_UNIQUE_ID = 4;
+	}
+
+	Result result = 1;
+	string gmap_template_url = 2;
+	int32 max_poi_distance_in_meters = 3;
+}
+
+// ref: Niantic.Platform.Protos.GetGmapSettingsProto
+message GetGmapSettingsProto {
 }
 
 // ref: Niantic.Platform.Protos.GetInboxV2Proto
@@ -1738,6 +1761,7 @@ message CurrencyUpdateProto {
 	string currency_name = 1;
 	int32 currency_delta = 2;
 	int32 currency_balance = 3;
+	int32 fiat_purchased_balance = 4;
 }
 
 // ref: Niantic.Platform.Iap.Protos.GameItemContentProto
@@ -1936,6 +1960,8 @@ enum DeviceServiceTelemetryIds {
 	FITNESS = 1;
 	SMART_WATCH = 2;
 	SFIDA = 3;
+	AWARENESS = 4;
+	ADVENTURE_SYNC = 5;
 }
 
 // ref: Holoholo.Rpc.EggIncubatorType
@@ -2149,6 +2175,27 @@ enum HoloBadgeType {
 	BADGE_SENTOSA_20_APR_2019 = 2050;
 	BADGE_SENTOSA_21_APR_2019 = 2051;
 	BADGE_SENTOSA_22_APR_2019 = 2052;
+	BADGE_TICKETED_EVENT_MIN = 5000;
+	BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_GENERAL = 5001;
+	BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_EARLYACCESS = 5002;
+	BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_GENERAL = 5003;
+	BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_EARLYACCESS = 5004;
+	BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_GENERAL = 5005;
+	BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_EARLYACCESS = 5006;
+	BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_GENERAL = 5007;
+	BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_EARLYACCESS = 5008;
+	BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_GENERAL = 5009;
+	BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_EARLYACCESS = 5010;
+	BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_GENERAL = 5011;
+	BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_EARLYACCESS = 5012;
+	BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_GENERAL = 5013;
+	BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_EARLYACCESS = 5014;
+	BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_GENERAL = 5015;
+	BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_EARLYACCESS = 5016;
+	BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_GENERAL = 5017;
+	BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_EARLYACCESS = 5018;
+	BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_GENERAL = 5019;
+	BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_EARLYACCESS = 5020;
 }
 
 // ref: Holoholo.Rpc.HoloholoClientTelemetryIds
@@ -3376,6 +3423,9 @@ enum Item {
 	ITEM_INCENSE_FLORAL = 404;
 	ITEM_INCENSE_BELUGA_BOX = 405;
 	ITEM_TROY_DISK = 501;
+	ITEM_TROY_DISK_GLACIAL = 502;
+	ITEM_TROY_DISK_MOSSY = 503;
+	ITEM_TROY_DISK_MAGNETIC = 504;
 	ITEM_X_ATTACK = 602;
 	ITEM_X_DEFENSE = 603;
 	ITEM_X_MIRACLE = 604;
@@ -3611,6 +3661,7 @@ enum Method {
 	GET_SIGNED_GMAP_URL_DEPRECATED = 1105;
 	CHANGE_TEAM = 1106;
 	GET_WEB_TOKEN = 1107;
+	COMPLETE_SNAPSHOT_SESSION = 1110;
 }
 
 // ref: Holoholo.Rpc.NewsPageTelemetryIds
@@ -3701,6 +3752,7 @@ enum PermissionContextTelemetryIds {
 	SMART_WATCH_INSTALLED = 4;
 	SFIDA_SESSION_STARTED = 5;
 	SETTINGS_TOGGLE = 6;
+	NEARBY_PANEL_OPENED = 7;
 }
 
 // ref: Holoholo.Rpc.PermissionFlowStepTelemetryIds
@@ -3709,6 +3761,7 @@ enum PermissionFlowStepTelemetryIds {
 	INITIAL_PROMPT = 1;
 	FITNESS_PERMISSION = 2;
 	LOCATION_PERMISSION = 3;
+	ACTIVITY_PERMISSIONS = 4;
 }
 
 // ref: Holoholo.Rpc.Platform
@@ -3805,6 +3858,8 @@ enum QuestType {
 	QUEST_TRADE_POKEMON = 23;
 	QUEST_SEND_GIFT = 24;
 	QUEST_EVOLVE_INTO_POKEMON = 25;
+	QUEST_COMPLETE_COMBAT = 27;
+	QUEST_TAKE_SNAPSHOT = 28;
 }
 
 // ref: Holoholo.Rpc.RaidLevel
@@ -4778,6 +4833,7 @@ message BootTime {
 		LOGIN_GET_PLAYER = 14;
 		LOGIN_AUTHENTICATION = 15;
 		MODAL_TIME = 16;
+		INITIALIZE_ADJUST = 17;
 	}
 
 	niantic.platform.telemetry.PlatformMetricData duration = 1;
@@ -4945,6 +5001,7 @@ message CatchPokemonProto {
 
 // ref: Holoholo.Rpc.CatchPokemonQuestProto
 message CatchPokemonQuestProto {
+	repeated HoloPokemonId unique_pokemon_id = 1;
 }
 
 // ref: Holoholo.Rpc.CatchPokemonTelemetry
@@ -5140,6 +5197,7 @@ message ClientPlayerProto {
 	CombatPlayerPreferencesProto combat_player_preferences = 21;
 	string player_support_id = 22;
 	TeamChangeInfoProto team_change_info = 23;
+	repeated HoloPokemonId consumed_eevee_easter_eggs = 24;
 }
 
 // ref: Holoholo.Rpc.ClientQuestProto
@@ -5684,6 +5742,25 @@ message CompleteQuestStampCardOutProto {
 message CompleteQuestStampCardProto {
 }
 
+// ref: Holoholo.Rpc.CompleteSnapshotSessionOutProto
+message CompleteSnapshotSessionOutProto {
+	// ref: Holoholo.Rpc.CompleteSnapshotSessionOutProto/Types/Status
+	enum Status {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_PHOTO_POKEMON_INVALID = 2;
+		ERROR_UNKNOWN = 3;
+	}
+
+	Status status = 1;
+}
+
+// ref: Holoholo.Rpc.CompleteSnapshotSessionProto
+message CompleteSnapshotSessionProto {
+	uint64 photo_pokemon_id = 1;
+	int32 num_photos_taken = 2;
+}
+
 // ref: Holoholo.Rpc.ConfirmPhotobombOutProto
 message ConfirmPhotobombOutProto {
 	// ref: Holoholo.Rpc.ConfirmPhotobombOutProto/Types/Status
@@ -6175,6 +6252,16 @@ message EvolutionBranchProto {
 	float km_buddy_distance_requirement = 4;
 	PokemonDisplayProto.Form form = 5;
 	PokemonDisplayProto.Gender gender_requirement = 6;
+	Item lure_item_requirement = 8;
+	bool must_be_buddy = 9;
+	bool only_daytime = 10;
+	bool only_nighttime = 11;
+	int32 priority = 12;
+}
+
+// ref: Holoholo.Rpc.EvolutionV2SettingsProto
+message EvolutionV2SettingsProto {
+	bool is_enabled = 1;
 }
 
 // ref: Holoholo.Rpc.EvolvePokemonOutProto
@@ -6200,6 +6287,9 @@ message EvolvePokemonOutProto {
 message EvolvePokemonProto {
 	uint64 pokemon_id = 1;
 	Item evolution_item_requirement = 2;
+	HoloPokemonId target_pokemon_id = 3;
+	PokemonDisplayProto.Form target_pokemon_form = 4;
+	bool use_special = 5;
 }
 
 // ref: Holoholo.Rpc.EvolvePokemonTelemetry
@@ -6513,6 +6603,7 @@ message FortSettingsProto {
 	int32 max_player_total_deployed_pokemon = 9;
 	bool enable_hyperlinks_in_poi_descriptions = 10;
 	bool enable_right_to_left_text_display = 11;
+	bool enable_sponsored_poi_decorators = 12;
 }
 
 // ref: Holoholo.Rpc.FortSponsor
@@ -7339,6 +7430,8 @@ message GlobalSettingsProto {
 	PoiGlobalSettingsProto poi_settings = 35;
 	PokemonGlobalSettingsProto pokemon_settings = 36;
 	AvatarGlobalSettingsProto avatar_settings = 37;
+	EvolutionV2SettingsProto evolution_v2_settings = 38;
+	KoalaSettingsProto koala_settings = 40;
 }
 
 // ref: Holoholo.Rpc.GpsSettingsProto
@@ -8005,6 +8098,13 @@ message JoinLobbyProto {
 	double player_lng_degrees = 6;
 	double gym_lat_degrees = 7;
 	double gym_lng_degrees = 8;
+}
+
+// ref: Holoholo.Rpc.KoalaSettingsProto
+message KoalaSettingsProto {
+	string app_id = 1;
+	bool use_sandbox = 2;
+	bool use_koala = 3;
 }
 
 // ref: Holoholo.Rpc.LeaveLobbyOutProto
@@ -9395,6 +9495,11 @@ message QuestConditionProto {
 		with_badge_type = 15;
 		with_player_level = 16;
 		with_win_battle_status = 17;
+		with_unique_pokemon = 18;
+		with_npc_combat = 19;
+		with_pvp_combat = 20;
+		with_location = 21;
+		with_distance = 22;
 	}
 
 	// ref: Holoholo.Rpc.QuestConditionProto/Types/ConditionType
@@ -9420,6 +9525,11 @@ message QuestConditionProto {
 		WITH_WIN_BATTLE_STATUS = 18;
 		WITH_NEW_FRIEND = 19;
 		WITH_DAYS_IN_A_ROW = 20;
+		WITH_UNIQUE_POKEMON = 21;
+		WITH_NPC_COMBAT = 22;
+		WITH_PVP_COMBAT = 23;
+		WITH_LOCATION = 24;
+		WITH_DISTANCE = 25;
 	}
 
 	ConditionType type = 1;
@@ -9439,6 +9549,11 @@ message QuestConditionProto {
 	WithBadgeTypeProto with_badge_type = 15;
 	WithPlayerLevelProto with_player_level = 16;
 	WithWinBattleStatusProto with_win_battle_status = 17;
+	WithUniquePokemonProto with_unique_pokemon = 18;
+	WithNpcCombatProto with_npc_combat = 19;
+	WithPvpCombatProto with_pvp_combat = 20;
+	WithLocationProto with_location = 21;
+	WithDistanceProto with_distance = 22;
 }
 
 // ref: Holoholo.Rpc.QuestDialogProto
@@ -9476,6 +9591,10 @@ message QuestDisplayProto {
 	repeated QuestDisplayProto subquest_displays = 6;
 	bool story_ending_quest = 7;
 	string story_ending_description = 8;
+	string tag_color = 9;
+	string tag_string = 10;
+	string sponsor_string = 11;
+	string partner_id = 12;
 }
 
 // ref: Holoholo.Rpc.QuestEncounterOutProto
@@ -11032,6 +11151,39 @@ message UserAttributesProto {
 	int32 team = 4;
 	int32 catch_streak = 5;
 	int32 spin_streak = 6;
+	string buddy_name = 7;
+	bool is_egg_incubating = 8;
+	bool has_eggs = 9;
+	int32 star_piece_count = 10;
+	int32 lucky_egg_count = 11;
+	int32 incense_ordinary_count = 12;
+	int32 incense_spicy_count = 13;
+	int32 incense_cool_count = 14;
+	int32 incense_floral_count = 15;
+	int32 lure_ordinary_count = 16;
+	int32 lure_mossy_count = 17;
+	int32 lure_glacial_count = 18;
+	int32 lure_magnetic_count = 19;
+	bool using_star_piece = 20;
+	bool using_lucky_egg = 21;
+	bool using_incense_ordinary = 22;
+	bool using_incense_spicy = 23;
+	bool using_incense_cool = 24;
+	bool using_incense_floral = 25;
+	bool using_lure_ordinary = 26;
+	bool using_lure_mossy = 27;
+	bool using_lure_glacial = 28;
+	bool using_lure_magnetic = 29;
+	bool adventure_sync_opt_in = 30;
+	bool geo_fence_opt_in = 31;
+	int32 kanto_dex_count = 32;
+	int32 johto_dex_count = 33;
+	int32 hoenn_dex_count = 34;
+	int32 sinnoh_dex_count = 35;
+	int32 friend_count = 36;
+	int32 field_research_stamp_progress = 37;
+	int32 level_up = 38;
+	bool sent_friend_request = 39;
 }
 
 // ref: Holoholo.Rpc.UserIssueWeatherReport
@@ -11112,9 +11264,25 @@ message WithDailyCaptureBonusProto {
 message WithDailySpinBonusProto {
 }
 
+// ref: Holoholo.Rpc.WithDistanceProto
+message WithDistanceProto {
+	double distance_km = 1;
+}
+
 // ref: Holoholo.Rpc.WithItemProto
 message WithItemProto {
 	Item item = 1;
+}
+
+// ref: Holoholo.Rpc.WithLocationProto
+message WithLocationProto {
+	repeated int64 s2_cell_id = 1;
+}
+
+// ref: Holoholo.Rpc.WithNpcCombatProto
+message WithNpcCombatProto {
+	bool requires_win = 1;
+	repeated string combat_npc_trainer_id = 2;
 }
 
 // ref: Holoholo.Rpc.WithPlayerLevelProto
@@ -11137,6 +11305,12 @@ message WithPokemonCpLimitProto {
 // ref: Holoholo.Rpc.WithPokemonTypeProto
 message WithPokemonTypeProto {
 	repeated HoloPokemonType pokemon_type = 1;
+}
+
+// ref: Holoholo.Rpc.WithPvpCombatProto
+message WithPvpCombatProto {
+	bool requires_win = 1;
+	repeated string combat_league_template_id = 2;
 }
 
 // ref: Holoholo.Rpc.WithQuestContextProto
@@ -11164,6 +11338,10 @@ message WithThrowTypeProto {
 
 	HoloActivityType throw_type = 1;
 	bool hit = 2;
+}
+
+// ref: Holoholo.Rpc.WithUniquePokemonProto
+message WithUniquePokemonProto {
 }
 
 // ref: Holoholo.Rpc.WithUniquePokestopProto
@@ -11448,6 +11626,8 @@ message ClientTelemetryClientSettingsProto {
 	double player_hash = 8;
 	string player_external_omni_id = 9;
 	bool disable_omni_sending = 10;
+	map<string, double> special_sampling_probability_map = 11;
+	string player_external_ua_id = 12;
 }
 
 // ref: Niantic.Platform.Analytics.Telemetry.ClientTelemetryRecordProto

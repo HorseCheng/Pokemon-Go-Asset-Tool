@@ -1,6 +1,6 @@
-1. Copy Pokemon Go APK > lib > armeabi-v7a >libil2cpp.so to here.
+1. Copy Your_Pokemon_Go_APK_Folder > lib > armeabi-v7a >libil2cpp.so to here.
 
-2. Copy Pokemon Go APK > assets > bin > Data > Managed > Metadata > global-metadata.dat to here.
+2. Copy Your_Pokemon_Go_APK_Folder > assets > bin > Data > Managed > Metadata > global-metadata.dat to here.
 
 3. Open Il2CppDumper.exe
 

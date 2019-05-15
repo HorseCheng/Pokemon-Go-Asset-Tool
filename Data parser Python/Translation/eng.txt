@@ -10,8 +10,6 @@ About
 Terms of Service
 Accept
 Sent you a Friend Request!
-See which friends are playing!  Turn off at any time in the Friend’s List! 
-Friend Status!
 Clear the activity log
 Do you want to clear the activity log? If you agree, you can't cancel this action.
 Remove
@@ -21,6 +19,12 @@ Journal
 Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 Learn what information is shared with friends.
 Please enter a different nickname.
+Try again through Settings.
+Adventure Sync not enabled
+Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
+Success! Check out your progress anytime in your Trainer profile.
+Adventure Sync enabled!
+Enable Adventure Sync
 Please enter your date of birth.
 Alola Form
 Do you want to exit Pokémon GO?
@@ -149,6 +153,9 @@ Choose
 Eyes
 Bow-Tie Bag
 Urban Pack
+Egg Backpack
+Egg Backpack
+Egg Backpack
 No Bag
 LeafGreen Bag
 Gengar Backpack
@@ -293,6 +300,9 @@ Hats
 Unlock tier {0} {1} medal
 Unlock at Level {0}
 Trainer Backpack
+Egg Backpack
+Egg Backpack
+Egg Backpack
 No Bag
 FireRed Backpack
 Gengar Backpack
@@ -430,10 +440,17 @@ Tops
 Current Style
 Defend team Gyms and attack rival ones to upgrade your Gym Badges.
 Defend friendly Gyms and attack rival ones to upgrade your Gym Badges.
+Try again through Settings.
+Adventure Sync: Nearby not enabled
+Now Adventure Sync can notify you about nearby new Pokémon!
+Adventure Sync can find nearby new Pokémon even while Pokémon GO is closed!
+Success! Good luck!
+Adventure Sync: Nearby enabled!
+Enable Adventure Sync: Nearby
 Japan, July 28, 2018
 Pokémon GO Special Weekend, July 28, 2018
 Japan, February 23, 2019
-Pokemon GO Special Weekend, February 23
+Pokémon GO Special Weekend, February 23
 Japan, July 27, 2018
 Pokémon GO Special Weekend, July 27, 2018
 Japan, July 29, 2018
@@ -505,9 +522,9 @@ Become Best Friends with {0} Trainer.
 Idol
 N0
 Japan, April 6, 2019
-Pokemon GO Special Weekend, April 6
+Pokémon GO Special Weekend April 6, 2019
 Japan, April 7, 2019
-Pokemon GO Special Weekend, April 7
+Pokémon GO Special Weekend April 7, 2019
 Have {0} surprise encounters in GO Snapshot.
 Have {0} surprise encounter in GO Snapshot.
 Cameraman
@@ -549,6 +566,16 @@ GO Safari Zone - Europe 2017
 Europe, October 14, 2017
 GO Safari Zone - Europe 2017
 GO Safari Zone - Europe 2017
+Sentosa, Apr 18, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 19, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 20, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 21, 2019
+Pokémon GO Safari Zone
+Sentosa, Apr 22, 2019
+Pokémon GO Safari Zone
 Catch {0} tiny Rattata.
 Youngster
 N0
@@ -829,6 +856,7 @@ Time’s Up!
 This challenge has expired.
 Invalid QR Code.
 ATTACK BOOST
+ATTACK BOOST CHANCE
 OPPONENT ATTACK BOOST
 ATTACK DROP
 OPPONENT ATTACK DROP
@@ -879,6 +907,11 @@ Are you sure you want to delete this Friend Request?
 Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 This invitation will become invalid.
 Do you want to decline this invitation?
+Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
+Go to Settings.
+Tap Privacy.
+Enable Motion & Fitness permissions for Pokémon GO.
+Missing Motion Permissions
 Your progress can’t be tracked when Pokémon GO is closed until you give permission. Please adjust your settings to allow access. 
 1. Open the Health app.
 2. Tap Sources.
@@ -902,7 +935,12 @@ Defender Bonus
 Delete
 Do you want to delete the {0} battle party?
 Are you sure you want to discard this Gift?
+Are you sure you want to delete these premium items? This cannot be undone.
 Warning: {0} is part of a battle party, and if you assign it to a Gym, it will be removed from the party.
+Detective Pikachu: Catch the Seed Pokémon that is seen walking in a river
+Detective Pikachu: Catch the Fire-type Evolution of Eevee
+Detective Pikachu: Catch the Water-type Pokémon carried in a backpack
+Detective Pikachu: Catch {0} Jigglypuff, Aipom, or Snubbull
 Maybe later
 Turn it on!
 Pokémon GO no longer supports your device. Please visit our Help Center for information on which devices are compatible with Pokémon GO.
@@ -914,6 +952,9 @@ The Pokémon must be at full HP.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
+Eggstravaganza: Hatch an Egg
+Eggstravaganza: Hatch {0} Eggs
+Eggstravaganza: Hatch {0} Eggs
 What's inside?!
 Summary
 Walk to hatch this Egg.
@@ -1032,6 +1073,7 @@ An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 Currently, your network connection is unstable. Please try again later.
 You have successfully registered for {0}!
+EVENTS
 Use this item on your Pokémon!
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
@@ -1132,10 +1174,13 @@ CLAIM REWARD!
 You walked {0:0.#} {1} this week!
 You walked {0:0.#} {1} last week!
 Eggs Hatched
+Enable Adventure Sync: Fitness
+Adventure Sync: Fitness not enabled
 Try again through your Trainer profile or Settings.
 Adventure Sync not enabled
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and find more Candy!
 Let Pokémon GO count your steps while the game is closed to help incubate your Eggs and save your battery!
+Adventure Sync: Fitness enabled!
 Success! Check out your progress anytime in your Trainer profile.
 Adventure Sync enabled!
 Enable Adventure Sync
@@ -1233,6 +1278,7 @@ More
 Network Error
 No
 OK
+Paste
 Pokémon
 Your collection is full.
 QUIT
@@ -1441,7 +1487,7 @@ A spray-type medicine that restores the HP of one Pokémon by {1} points.
 Super Potion
 A unique coin that enables a Trainer to change teams. It can only be purchased once per 365 days.
 Team Medallion
-A module that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
+A module that attracts Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 Lure Module
 An ultra-performance ball with a higher catch rate than a Great Ball.
 Ultra Ball
@@ -1803,8 +1849,14 @@ Blast Burn
 Hydro Cannon
 Last Resort
 Meteor Mash
+Skull Bash
 Acid Spray
+Earth Power
+Crabhammer
+Lunge
+Crush Claw
 Leaf Tornado
+Blaze Kick
 Power-Up Punch
 {0} will forget {1}.
 {0} learned a new attack!
@@ -1959,6 +2011,7 @@ Your suspension term has now ended and you are now able access your accountThis 
 {0} and {1} other Trainers sent you Friend Requests!
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends sent you Gifts!
+LEARN MORE
 Move the marker to the most accurate location.
 Error Loading Map
 Set location
@@ -3783,6 +3836,7 @@ Catch {0} Totodile
 Catch {0} Swinub
 Catch {0} Treecko
 Catch {0} Bagon
+Catch {0} Torchic
 Catch {0} Swablu
 Catch a Swablu
 Catch {0} Pidgey or Murkrow
@@ -3901,6 +3955,7 @@ Clamperl Research: Make {0} Great Throws in a row
 Clamperl Research: Make {0} Nice Throws in a row
 Clamperl Research: Make {0} Nice Throws
 Clamperl Research: Spin {0} PokéStops
+Use {0} Nanab Berries while catching Pokémon
 Use {0} Pinap Berries while catching Pokémon
 Use {0} Razz Berries to help catch Pokémon
 First Catch of the Day
@@ -4203,6 +4258,7 @@ Water Festival: Hatch an Egg
 Water Festival: Win a raid
 Win {0} Gym battles
 Win a Gym battle
+Win a level 2 or higher raid
 Win {0} level 3 or higher raids
 Win a level 3 or higher raid
 Win {0} raids
@@ -4340,6 +4396,17 @@ Niantic Kids is currently unavailable. We apologize for the inconvenience.
 Niantic Kids
 https://parents.nianticlabs.com/en/login
 https://niantic-sso.kws.superawesome.tv/en/register
+Safari Zone: Earn {0} Candies walking with your buddy
+Safari Zone: Earn a Candy walking with your buddy
+Safari Zone: Catch {0} Pokémon
+Safari Zone: Use {0} Berries to help catch Pokémon
+Safari Zone: Send {0} Gifts to friends
+Safari Zone: Spin {0} PokéStops
+Safari Zone: Hatch {0} Eggs
+Safari Zone: Hatch an Egg
+Safari Zone: Send {0} Gifts to friends
+Safari Zone: Use {0} Nanab Berries while catching Pokémon
+Safari Zone: Use {0} Pinap Berries while catching Pokémon
 Pokémon GO Safari Zone
 I'm a passenger
 friends
@@ -4405,6 +4472,8 @@ Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
 Pokémon's Return
 Adventure Sync Updates
+Adventure Sync: Nearby
+Adventure Sync: Walking
 Events, Offers, and Updates
 Push Notifications
 Report Critical Issue
@@ -4516,6 +4585,7 @@ Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
+Are you sure? {1} cannot be relearned.
 You can only make a Special Trade once a day.
 Do you want to make a Special Trade?
 Pokémon GO should not be played while driving.
@@ -4684,9 +4754,9 @@ Waiting...
 Trainer Code
 Trainer Name
 Match {0}
-Modules that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
+A module that attracts Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 Lure Module
-8 Lure Modules. Modules that attracts Pokémon to a PokéStop for 30 min. The effect benefits other people nearby.
+A pack of 8 Lure Modules, which attract Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 8 Lure Modules
 2+ days ago
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
