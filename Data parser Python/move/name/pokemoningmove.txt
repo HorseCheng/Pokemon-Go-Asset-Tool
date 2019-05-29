@@ -237,6 +237,12 @@ Blast Burn
 Hydro Cannon
 Last Resort
 Meteor Mash
+Skull Bash
 Acid Spray
+Earth Power
+Crabhammer
+Lunge
+Crush Claw
 Leaf Tornado
+Blaze Kick
 Power-Up Punch
