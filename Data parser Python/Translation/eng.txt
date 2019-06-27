@@ -10,6 +10,8 @@ About
 Terms of Service
 Accept
 Sent you a Friend Request!
+See which friends are playing!  Turn off at any time in the Friend’s List! 
+Friend Status!
 Clear the activity log
 Do you want to clear the activity log? If you agree, you can't cancel this action.
 Remove
@@ -151,6 +153,7 @@ Distance Walked
 Appearance
 Choose
 Eyes
+Backpacker Pack
 Bow-Tie Bag
 Urban Pack
 Egg Backpack
@@ -160,6 +163,7 @@ No Bag
 LeafGreen Bag
 Gengar Backpack
 Johto Bag
+Ruin Maniac Backpack
 Ace Belt
 Ball Buckle
 No Belt
@@ -187,6 +191,7 @@ Newsy Cap
 Ball Cap
 Sports Cap
 Delibird Earmuffs
+Detective Pikachu Cap
 Drifloon Cap
 Eevee Cap
 No Hat
@@ -206,6 +211,7 @@ Pikachu Fan Headband
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Ruin Maniac Hat
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -217,6 +223,7 @@ No Necklace
 Love Choker
 Super Choker
 Ace Skirt
+Backpacker Capris
 Battle Girl Shorts
 Sprint Suit
 LeafGreen Skirt
@@ -236,16 +243,19 @@ Team Rocket Skirt
 Veteran Leggings
 Ace Vest
 Ace Long Top
+Backpacker Top
 Battle Girl Tank Top
 Fitted Shirt
 Celebi Shirt
 Classic Longsleeve
 Delibird Sweater
+Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
 H.F. Custom Shirt A
 LeafGreen Top
 Gengar Shirt
+GO Fest 2019 Tee
 Gym Leader Top
 Johto Top
 Ingress Prime / White
@@ -256,6 +266,7 @@ Meltan Pullover
 Mew Shirt
 Misty Top
 Pikachu Fan Shirt
+Ruin Maniac Outfit
 Spiritomb T-shirt
 The Thirty
 Team Instinct Turtleneck
@@ -273,6 +284,7 @@ Pikachu Tee
 Veteran Coat
 Ace Boots
 Ace Shoes
+Backpacker Footwear
 Battle Girl Shoes
 Running Shoes
 Delibird Boots
@@ -282,6 +294,7 @@ Gym Leader Shoes
 Johto Shoes
 Misty Shoes
 Pikachu Fan Shoes
+Ruin Maniac Footwear
 Team Aqua Boots
 Team Magma Shoes
 Team Rocket Boots
@@ -299,6 +312,7 @@ Hair
 Hats
 Unlock tier {0} {1} medal
 Unlock at Level {0}
+Backpacker Pack
 Trainer Backpack
 Egg Backpack
 Egg Backpack
@@ -307,6 +321,7 @@ No Bag
 FireRed Backpack
 Gengar Backpack
 Johto Bag
+Ruin Maniac Backpack
 Future Specs
 No Glasses
 Jogger Sunglasses
@@ -327,6 +342,7 @@ Expedition Hat
 Newsy Cap
 Trainer Visor
 Delibird Earmuffs
+Detective Pikachu Cap
 Drifloon Cap
 Eevee Cap
 No Hat
@@ -346,6 +362,7 @@ Pikachu Fan Headband
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Ruin Maniac Hat
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -354,6 +371,7 @@ Team Rocket Hat
 Top Hat
 Ace Pants
 Ace Shorts
+Backpacker Capris
 Brock Pants
 Trainer Shorts
 Fisherman Pants
@@ -370,6 +388,7 @@ Team Rocket Pants
 Veteran Pants
 Ace Vest
 Ace Top
+Backpacker Top
 Business Blazer
 Brock Shirt
 Celebi Shirt
@@ -378,12 +397,14 @@ Column Hoodie
 Classic Hoodie
 Point Hoodie
 Delibird Sweater
+Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
 Fisherman Vest
 H.F. Custom Shirt A
 FireRed Top
 Gengar Shirt
+GO Fest 2019 Tee
 Gym Leader Top
 Johto Top
 Ingress Prime / White
@@ -396,6 +417,7 @@ Pikachu Pullover
 Meltan Pullover
 Mew Shirt
 Pikachu Fan Shirt
+Ruin Maniac Outfit
 Spiritomb T-Shirt
 Sports Hoodie
 Streak Hoodie
@@ -411,6 +433,7 @@ The Thirty
 Veteran Jacket
 Ace Boots
 Ace Shoes
+Backpacker Footwear
 Brock Shoes
 Running Shoes
 Delibird Boots
@@ -421,6 +444,7 @@ Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
 Pikachu Fan Shoes
+Ruin Maniac Footwear
 Team Aqua Boots
 Team Magma Shoes
 Team Rocket Boots
@@ -431,6 +455,7 @@ No Socks
 Team Magma Socks
 Necklaces
 Outfits
+POSES
 Footwear
 New items available!
 Skin
@@ -502,6 +527,66 @@ N0
 Evolve {0} Pokémon.
 Scientist
 N0
+Chicago, June 12, 2019—North
+Pokémon GO Fest—Early Access
+Chicago, June 12, 2019—North
+Pokémon GO Fest
+Chicago, June 12, 2019—South
+Pokémon GO Fest—Early Access
+Chicago, June 12, 2019—South
+Pokémon GO Fest
+Chicago, June 13, 2019—North
+Pokémon GO Fest—Early Access
+Chicago, June 13, 2019—North
+Pokémon GO Fest
+Chicago, June 13, 2019—South
+Pokémon GO Fest—Early Access
+Chicago, June 13, 2019—South
+Pokémon GO Fest
+Chicago, June 14, 2019—North
+Pokémon GO Fest—Early Access
+Chicago, June 14, 2019—North
+Pokémon GO Fest
+Chicago, June 14, 2019—South
+Pokémon GO Fest—Early Access
+Chicago, June 14, 2019—South
+Pokémon GO Fest
+Chicago, June 15, 2019—North
+Pokémon GO Fest—Early Access
+Chicago, June 15, 2019—North
+Pokémon GO Fest
+Chicago, June 15, 2019—South
+Pokémon GO Fest—Early Access
+Chicago, June 15, 2019—South
+Pokémon GO Fest
+Chicago, June 16, 2019—North
+Pokémon GO Fest—Early Access
+Chicago, June 16, 2019—North
+Pokémon GO Fest
+Chicago, June 16, 2019—South
+Pokémon GO Fest—Early Access
+Chicago, June 16, 2019—South
+Pokémon GO Fest
+Dortmund, July 3, 2019
+Pokémon GO Fest—Early Access
+Dortmund, July 3, 2019
+Pokémon GO Fest
+Dortmund, July 4, 2019
+Pokémon GO Fest—Early Access
+Dortmund, July 4, 2019
+Pokémon GO Fest
+Dortmund, July 5, 2019
+Pokémon GO Fest—Early Access
+Dortmund, July 5, 2019
+Pokémon GO Fest
+Dortmund, July 6, 2019
+Pokémon GO Fest—Early Access
+Dortmund, July 6, 2019
+Pokémon GO Fest
+Dortmund, July 7, 2019
+Pokémon GO Fest—Early Access
+Dortmund, July 7, 2019
+Pokémon GO Fest
 Win {0} Trainer Battles in the Great League.
 Win a Trainer Battle in the Great League.
 Great League Veteran
@@ -744,6 +829,7 @@ Remember to be alert at all times. Stay aware of your surroundings.
 Do not play Pokémon GO while driving.
 Do not trespass while playing Pokémon GO.
 Do not enter dangerous areas while playing Pokémon GO.
+Be courteous to members of real-world communities as you play Pokémon GO.
 <b>{0}</b> is now your buddy!
 Buddy
 Are you sure you want to swap your buddy?
@@ -784,6 +870,25 @@ The EX Raid scheduled for {0}, {1} at {2} has been canceled.
 CANCELED EX RAID PASSES
 Can't sign in?
 Catch a Pokémon
+Battle another Trainer
+Take {0} snapshots of Jirachi
+Take a snapshot of Ralts in its GO Fest habitat
+Take a snapshot of Ralts in the Fairy Garden
+Take a snapshot of Gastly in its GO Fest habitat
+Take a snapshot of Gastly in the Spooky Woods
+Take a snapshot of Hippopotas in its GO Fest habitat
+Take a snapshot of Hippopotas in the Sandy Desert
+Take a snapshot of Snover in its GO Fest habitat
+Take a snapshot of Snover in the Winter Forest
+Take a snapshot of Horsea in its GO Fest habitat
+Take a snapshot of Horsea at the Water Fountain
+Take {0} snapshots of Fairy-type Pokémon
+Take {0} snapshots of Ghost-type Pokémon
+Take {0} snapshots of Ground-type Pokémon
+Take {0} snapshots of Ice-type Pokémon
+Take a snapshot of Horsea in its GO Fest habitat
+Take {0} snapshots of Water-type Pokémon
+Trade for 3 Pokémon from at least 100 km away
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
@@ -813,6 +918,7 @@ The challenger canceled the challenge.
 {0} declined your challenge.
 Sorry, error {0} occurred.
 Challenge Expired
+A friend has challenged you to a Trainer Battle!
 Challenge {0} to a {1} battle?
 Sorry, you’re too far away from your opponent.
 Choose Your League
@@ -858,12 +964,19 @@ Invalid QR Code.
 ATTACK BOOST
 ATTACK BOOST CHANCE
 OPPONENT ATTACK BOOST
+OPPONENT ATTACK BOOST CHANCE
 ATTACK DROP
+ATTACK DROP CHANCE
 OPPONENT ATTACK DROP
+OPPONENT ATTACK DROP CHANCE
 DEFENSE BOOST
+DEFENSE BOOST CHANCE
 OPPONENT DEFENSE BOOST
+OPPONENT DEFENSE BOOST CHANCE
 DEFENSE DROP
+DEFENSE DROP CHANCE
 OPPONENT DEFENSE DROP
+OPPONENT DEFENSE DROP CHANCE
 GYMS & RAIDS
 TRAINER BATTLES
 WEATHER BONUS
@@ -1041,6 +1154,7 @@ You’re already a member of this team.
 This name contains inappropriate text.
 Unsupported Device
 You've changed nicknames as many times as you can for now. You can try again later.
+Fitness metrics are not currently available. Please try again later.
 This Gym has no room for additional Pokémon.
 Your friend still has an unopened Gift from you.
 Friend Request does not exist.
@@ -1196,14 +1310,29 @@ Altered Forme
 Attack
 Defense
 Normal
+East Sea
+Fan Rotom
+Frost Rotom
 Altered Forme
 Origin Forme
+Heat Rotom
+Land Forme
+Mow Rotom
 Normal
 Origin Forme
+Overcast Form
+Plant Cloak
 Rainy
+Sandy Cloak
+Shiny Arceus
+Sky Forme
 Snowy
 Speed
 Sunny
+Sunshine Form
+Trash Cloak
+Wash Rotom
+West Sea
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have oneIf you want to participate in more than one raid per day, you may buy raid passes from the store."
 Your Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
@@ -1262,6 +1391,7 @@ GDC 2019: Catch {0} Pokémon
 Female
 Male
 Accept
+Allow
 & {0}
 Attack
 BATTLE
@@ -1271,6 +1401,7 @@ Close
 CP
 Defense
 Dismiss
+Don’t Allow
 Error
 GO TO SHOP
 HP
@@ -1488,6 +1619,12 @@ Super Potion
 A unique coin that enables a Trainer to change teams. It can only be purchased once per 365 days.
 Team Medallion
 A module that attracts Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
+A frosty Lure Module that attracts Pokémon for 30 minutes, especially ones that love the cold. It can also cause some Pokémon to evolve.
+Glacial Lure Module
+An electronic Lure Module that attracts Pokémon for 30 minutes, especially ones that possess a magnetic field. It can also cause some Pokémon to evolve.
+Magnetic Lure Module
+A natural Lure Module that attracts Pokémon for 30 minutes, especially ones that love mossy scents. It can also cause some Pokémon to evolve.
+Mossy Lure Module
 Lure Module
 An ultra-performance ball with a higher catch rate than a Great Ball.
 Ultra Ball
@@ -1543,6 +1680,12 @@ Lucky Egg
 5 Lucky Eggs
 8 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 8 Lucky Eggs
+A frosty Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
+Glacial Lure Module
+An electronic Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
+Magnetic Lure Module
+A natural Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
+Mossy Lure Module
 Power Pose
 Ready Stance
 Keen Stance
@@ -1580,6 +1723,8 @@ Fisherman Boots
 Jogger Shoes
 Ultra Sun Shoes
 Manage Items
+Notifications may include alerts, sounds, and icon badges. This can be configured in your settings.
+Niantic would like to send you notifications about events, offers, and updates
 Lotad Research: Spin {0} PokéStops
 Lotad Research: Use {0} Berries to help catch Pokémon
 Lotad Research: Catch a Castform
@@ -1855,8 +2000,17 @@ Earth Power
 Crabhammer
 Lunge
 Crush Claw
+Octazooka
+Mirror Shot
+Superpower
+Fell Stinger
 Leaf Tornado
+Leech Life
+Drain Punch
+Shadow Bone
+Muddy Water
 Blaze Kick
+Razor Shell
 Power-Up Punch
 {0} will forget {1}.
 {0} learned a new attack!
@@ -2012,13 +2166,19 @@ Your suspension term has now ended and you are now able access your accountThis 
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends sent you Gifts!
 LEARN MORE
+Error
+No images found
+CANCEL
 Move the marker to the most accurate location.
 Error Loading Map
 Set location
 Error Loading Map
+Device has no camera
 NEW POKÉSTOP
 PLAYER NOMINATIONS
 Tutorial
+EXISTING PHOTO
+TAKE PHOTO
 USE PHOTO
 RETAKE
 BACK
@@ -2036,6 +2196,7 @@ EXIT
 Exit this nomination?
 Nomination submission failed. Please try again.
 https://pokemongo.nianticlabs.com/support/submitting-pokestop
+To submit a PokéStop nomination using your image gallery, please grant relevant permissions in your device’s settings menu.
 GOT IT
 Add PokéStop Description
 Describe the Location
@@ -3748,7 +3909,7 @@ Privacy Policy
 Privacy
 Niantic Privacy Policy<br><br><br>Effective as of: June 18, 2018<br><br>We are Niantic. We provide real-world augmented reality platforms, designed to enable you to interact in shared worlds, seamlessly blended with the real world. To do that, we need information about you. Protecting your privacy is really important to us. We only use your information where we have a legal basis to do so. This Privacy Policy will help you understand what information we collect, how we use it and what choices you have when you play any of our games, use our websites, buy merchandise from us, or take part in live events and promotions (the "Services").<br><br>Please note that in additional to the general information below, specific information about how certain of our Services use your information is provided at the end of this Privacy Policy in the “Game Specific Disclosures”.<br><br>You should also read our Terms of Service which set out the contract between you and Niantic.<br><br>Who decides how your information is used?<br><br>Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information. If you have any questions or comments on this policy, you can:<br><br>Email us at privacy@nianticlabs.com<br><br>Write to us at 1 Ferry Building Suite 200, San Francisco, CA 94111<br><br>Contact our Data Protection Officer at dpo@nianticlabs.com<br><br>The information we collect about you and how we use it<br><br>This Privacy Policy covers our use of any information that can or could be used to identify you ("Personal Data"). It does not cover information which cannot be used to identify you ("Anonymous Data").<br><br>We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:<br><br>When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account. We collect and use that information in order to authenticate you when you register an account and use the Services, to make sure you are eligible and able to receive the Services, and so that you receive the correct version of the Services. That information includes the in-game username you choose to use on our Services, and internal account IDs that we assign to your account.<br><br>You must have an account with a supported third party single sign-on service to use our Services. As such, the Personal Data we collect also depends on which third party accounts you choose to use, their privacy policy, and what your privacy settings with those services allow us to see when you use their services to access Niantic Services.<br><br>If you choose to link your Google account to the Services, we will collect your Google email address and an authentication token provided by Google.<br><br>If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address.<br><br>Depending on the particular Service you sign up for, we may support other third party single sign-on services and collect additional Personal Data from them. For details please read the Game Specific Disclosures at the end of this Privacy Policy.<br><br>Some third-party providers may notify you that they make additional information, such as your public profile, available to us when you use their single sign-on services. We do not collect that information from them.<br><br>We collect and use your device location information as you use our Services, including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.<br><br>We also collect and use your in-game actions and achievements as well as certain information about your mobile device collected during gameplay (including device identifiers, device OS, model, settings and information about third party applications installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures).<br><br>We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience.<br><br>We further use the information above in order to provide technical and customer support to you.<br><br>You also give us Personal Data when you make a purchase through us, subscribe to our publications, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.<br><br>In addition, we have and rely on a legitimate interest in using your Personal Data as follows:<br><br>Using your IP address, browser type, operating system, the web page you were visiting before accessing our Services, the pages of our Services which you browsed or the features you used, and the time spent on those pages or features, the links on our Services that you click on, device identifiers, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases to understand who is using our Services and how.<br><br>Using your contact information, namely your email address in order to communicate with you to provide technical and customer support.<br><br>Using your email address and device information in order to share updates and news about the Services with you either within the games or by email. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>To provide social features within our games so you can interact and play with other players, including storing your communications with those players, find your friends and be found by them, and share your gameplay experience and achievements with your friends.<br><br>To offer new or additional features for our Services.<br><br>To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).<br><br>To carry out anti-fraud and anti-cheating measures and to ensure that you and other users are complying with our Terms of Service.<br><br>To make legal or regulatory disclosures.<br><br>We will only use your Personal Data to do the following if we have your consent:<br><br>If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends. If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. You can change your mind and unfriend other players at any time from your in-app Friends settings. You can also revoke Facebook permissions for our games directly from your Facebook account settings.<br><br>Send you marketing materials by email or via in-app notifications. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>We also rely on your consent where we use cookies or similar technologies. Please see our Cookie Policy (https://www.nianticlabs.com/cookies/) for more information about how we use them. Insofar as cookies collect Personal Data, we will process it only based on your explicit consent, in anonymized form, or under a pseudonym.<br><br>While you may disable the usage of cookies through your browser settings, Niantic currently does not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application due to the lack of industry standard on how to interpret that signal.<br><br>Who we share information with<br><br>We will not share any Personal Data that we have collected from or regarding you except as described below:<br><br>Information Shared with Our Services Providers. We engage third party service providers to work with us to administer and provide the Services. As part of that they will process your Personal Data on our behalf. These third party service providers have access to your Personal Data only for the purpose of performing services on our behalf, in compliance with this Privacy Policy, and we make sure each one is contractually obliged not to disclose or use your Personal Data for any other purpose. The service providers we use help us to:<br><br>run, operate and maintain our mobile games through third party platform and software tools;<br>perform content moderation and crash analytics;<br>run email and mobile messaging campaigns;<br>perform game and marketing analytics;<br>administer live events, competitions, sweepstakes and promotions, including registering players, managing check-in and attendance, verifying eligibility and prize fulfilment;<br>provide technical and customer support.<br><br>Information Shared with Other Players. When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>Information Shared with Third Parties. We share Anonymous Data with third parties for industry and market analysis. We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. We do not share Personal Data with any other third parties for their direct marketing purposes.<br><br>Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We only share information about you to government or law enforcement officials or private parties when we reasonably believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas and warrants); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to investigate and stop any activity that we consider illegal, unethical, or legally actionable.<br><br>Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including Personal Data, is a business asset. If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Data, will be disclosed or transferred to a third party acquirer in connection with the transaction.<br><br>How your Personal Data is transferred<br><br>Niantic operates its Services across the globe. Your Personal Data will very likely be transferred and stored in a country outside of your home country, including in the USA, for the purposes outlined in this Privacy Policy. The data protection laws in these countries may not be the same as in your home country.<br><br>If we transfer your Personal Data from the European Economic Area (EEA) to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:<br><br>The country that your Personal Data is transferred to is a country that the European Commission has deemed to provide an adequate level of protection for Personal Data as the EEA.<br><br>We use specific contracts approved by the European Commission which give Personal Data the same protection as it has in Europe when we engage with service providers.<br><br>Where we engage with service providers in the USA, they are part of the EU-US Privacy Shield, which requires them to provide the same protection of your Personal Data as it has in the EEA.<br><br>How we keep your Personal Data safe<br><br>We have appropriate security measures in place to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, improperly altered or disclosed. We also limit access to your Personal Data to employees, agents, contractors and other third parties who have a business need to know. They will only process your Personal Data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected Personal Data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.<br><br>How long we will keep your Personal Data<br><br>We keep your Personal Data for as long as we need to provide the Services to you and fulfil the purposes set out in this Privacy Policy. This is also the case for anyone that we share your information with and who carry out services on our behalf.<br><br>When we no longer need to use your Personal Data and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or anonymize it so that it can no longer be associated with you.<br><br>Your rights and choices<br><br>You have certain rights in relation to your Personal Data. In order to exercise these rights, please contact us at:<br><br>For Pokémon GO here.<br><br>For Ingress here.<br><br>For all other Services at privacy@nianticlabs.com.<br><br>If you're a user based in the EEA (or in any country that mandates similar rights), you can:<br><br>Request access to the Personal Data we hold on you.<br><br>Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings.  You can also submit a customer support request through our support website here (https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387) for Pokémon GO, or here (https://support.ingress.com/hc/articles/206618198) for Ingress.<br><br>Object to us processing your Personal Data. Some of the Personal Data we hold is necessary for us to provide the Services to you and fulfill the promises we make to you in the Terms of Service.<br><br>Ask us to stop using your Personal Data, including for marketing and promotional purposes (but be aware that sometimes we need to use your Personal Data in order for you to use the Services).<br><br>Have your Personal Data transferred to another organization (where it is technically feasible).<br><br>Complain to a regulator. We'd appreciate the chance to deal with your concerns directly so we'd prefer you to contact us first. However, if you're based in the EEA and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner’s Office, or with your local supervisory authority.<br><br>The law provides exceptions to these rights in certain circumstances. Where you cannot exercise one of these rights due to such an exception, we will explain to you why.<br><br>We offer you choices regarding the collection, use, and sharing of your Personal Data and we’ll respect the choices you make. Please note that if you decide not to provide us with the Personal Data that we request, you may not be able to access all of the features of the Services.<br><br>We aim to provide the information or complete the outcome you request within 30 days.<br><br>Children<br><br>As a general rule, if you are outside the EEA, children under 13 are not allowed to use the Services. If you are based in the EEA you may only use the Services if you are over 16, or the age needed to consent to the processing of personal data in your country of residence. We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>If we learn that we have collected Personal Data of a child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.<br><br>Changes to this Privacy Policy<br><br>Any Personal Data that we collect is covered by the Privacy Policy in effect at the time such information is collected. We may make changes to this Privacy Policy from time to time. You will be given reasonable notice of any material change.<br><br>Third Parties<br><br>In using our Services you may access links to websites and services that are owned or operated by third parties (each, a “Third Party Service”). Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service. To protect your information we recommend that you carefully review the privacy policies of all Third Party Service that you access.<br><br>11. Game Specific Disclosures<br><br>Additional Privacy Information for Pokémon GO<br><br>Pokémon Trainer Club Accounts. You can sign up for Pokémon GO using your third-party Pokémon Trainer Club (“PTC”) account administered by The Pokémon Company International (“TPCI”). If you choose to do so, we will collect from TPCI your PTC registered email address, your PTC username and a unique PTC user ID. If you are registering your PTC account on behalf of your authorized child we will also collect some Personal Data about your child. See the “Accounts with Children” paragraph below for more information.<br><br>Accounts with Children. We comply with parental consent requirements as mandated by the U.S. Children’s Online Privacy Protection Act (COPPA) and European data protection laws (including, without limitation, the General Data Protection Regulation) through a verification and consent process handled by TPCI. As described in the Pokémon GO Terms of Service, the parent or legal guardian (“Parent”) of each child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data (“Child”), must register with TPCI through a PTC account before their Child can access and use the game. The Parent will have to provide to TPCI certain Personal Data about the Child in accordance with the TPCI privacy policy. Of that, Niantic will only collect from TPCI the Child’s personal email address, and the date when the Child will grow out of the age limits listed above.<br><br>For U.S. residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. TPCI will not share that information with us. After TPCI verifies the Parent’s identity, it will ask the Parent to consent to the Child accessing Pokémon GO. If a Parent does not consent to a Child’s access to and use of Pokémon GO or does not verify their identity through the consent process, Niantic will bar that Child’s registration on Pokémon GO and prevent the Child’s access to and use of the game.<br><br>Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.<br><br>Information shared with other players. When you take certain actions in Pokémon GO and capture a Gym, your (or your authorized Child’s) username will be shared publicly through the game, including with other players, in connection with that Gym location.<br><br>Apple Watch and Apple Health App Data. If you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data about your fitness activity (Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch Eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.<br>Additional Privacy Information for Ingress<br><br>Information shared publicly. When you play Ingress, as part of the gameplay the following information about you will be shared through the game (including with other players directly within the app, in game notifications emailed to other players as part of the gameplay, and online on the Ingress Intel Map website), and will therefore become publicly available: your in-game username, messages sent to other users in COMMS, and in-game portals that you interact with, as well as your device location whenever you take an in-game action.<br>
 Pokémon GO Privacy Policy
-Please review the updated Pokémon GO Privacy Policy for information about how we process personal data in connection with the Adventure Sync feature.
+Please review the updated Pokémon GO Privacy Policy regarding the collection of device information in connection with your use of the app.
 https://www.nianticlabs.com/privacy/pokemongo/en
 Journal
 Style
@@ -3782,6 +3943,12 @@ Trainer Club
 Register
 Scan the QR Code
 QR Code recognition failed. Please try manual input.
+Adventure Week 2019: Catch {0} Aron
+Adventure Week 2019: Evolve a Lileep or Anorith
+Adventure Week 2019: Hatch {0} Eggs
+Adventure Week 2019: Spin {0} PokéStops you haven’t visited before
+Adventure Week 2019: Spin 25 PokéStops
+Adventure Week 2019: Earn {0} Candies walking with your buddy
 Adventure Week: Evolve an Omanyte or Kabuto
 Adventure Week: Hatch {0} Eggs
 Adventure Week: Spin {0} PokéStops you haven't visited before
@@ -3852,6 +4019,7 @@ Catch {0} Unown
 Catch an Aerodactyl
 Catch a Cubone
 Catch {0} Exeggcute
+Catch Jirachi!
 Catch {0} Lileep or Anorith
 Catch Mew!
 Catch {0} Omanyte or Kabuto
@@ -3865,6 +4033,7 @@ Catch a Dragon-type Pokémon
 Catch {0} Electric-type Pokémon
 Catch an Electric-type Pokémon
 Catch {0} Fairy-type Pokémon
+Catch {0} different species of Fairy-type Pokémon
 Catch a Fairy-type Pokémon
 Catch {0} Fighting-type Pokémon
 Catch a Fighting-type Pokémon
@@ -3873,12 +4042,15 @@ Catch a Fire-type Pokémon
 Catch {0} Flying-type Pokémon
 Catch a Flying-type Pokémon
 Catch {0} Ghost-type Pokémon
+Catch {0} different species of Ghost-type Pokémon
 Catch a Ghost-type Pokémon
 Catch {0} Grass-type Pokémon
 Catch a Grass-type Pokémon
 Catch {0} Ground-type Pokémon
+Catch {0} different species of Ground-type Pokémon
 Catch a Ground-type Pokémon
 Catch {0} Ice-type Pokémon
+Catch {0} different species of Ice-type Pokémon
 Catch an Ice-type Pokémon
 Catch {0} Normal-type Pokémon
 Catch a Normal-type Pokémon
@@ -3891,6 +4063,7 @@ Catch a Rock-type Pokémon
 Catch {0} Steel-type Pokémon
 Catch a Steel-type Pokémon
 Catch {0} Water-type Pokémon
+Catch {0} different species of Water-type Pokémon
 Catch a Water-type Pokémon
 Catch {0} Water-, Electric-, or Bug-type Pokémon
 Catch a Water-, Electric-, or Bug-type Pokémon
@@ -3907,6 +4080,28 @@ Let’s GO, Meltan
 A Mythical Discovery
 A Spooky Message
 Daily Bonus
+Welcome to GO Fest 2019, %PLAYERNAME%! I’m glad you’re here.
+I discovered something fascinating during my research, and I need your help. I’ve come across what I believe to be a rare Pokémon deep in slumber.
+We have our work cut out for us, %PLAYERNAME%. I think this adventure is going to call for some resources and even the help of some friends.
+Could you collect some supplies? Meanwhile, I’ll see if I can find anything about this Pokémon in any of my texts.
+Good work, %PLAYERNAME%. I’m sure the resources you’ve earned will be crucial.
+I had some success in my research, as well. I came across an ancient text containing the story of a Mythical Pokémon that grants wishes.
+I’m still researching the best way to awaken this Pokémon, but I keep hearing reports of other Pokémon in the area showing signs of distress.
+Could I ask you to investigate these reports?
+Well done, %PLAYERNAME%! I knew I could count on you. You know, something interesting came up when I reviewed your results.
+Many of the Pokémon you encountered seem to have strayed from their habitats.
+I’d like you to help them get back to their proper habitats, as I’m sure this will soothe them and make them more comfortable. This should be a breeze for an accomplished Trainer like you!
+As you return the Pokémon to their proper habitats, be sure to snap pictures to help document this unusual situation.
+Wonderful work, %PLAYERNAME%! You’re certainly getting the hang of that camera! Did you notice anything strange while taking photos of Pokémon in their habitats?
+Apparently there’s an unusual phenomenon where Pokémon leap out in an attempt to appear in your photos. I’ve heard Spark refer to it as a “photobomb.”
+I’m eternally amused—and amazed—by the things we learn about Pokémon every day. That said, I did notice a connection.
+These Pokémon all seem to have something in common—music! I have a hunch that music may be the key to awakening our slumbering Pokémon.
+What do you think, %PLAYERNAME%? Shall we set the stage and see if some beautiful music is the answer to this perplexing situation?
+That’s it! The pure melody created by your musical Pokémon has awakened the Steel- and Psychic-type Pokémon Jirachi!
+The ancient text was right—this Mythical Pokémon could only be awakened from its thousand-year slumber by a song of purity. The text also says that when Jirachi awakens, it grants wishes!
+Now that we’ve done the work of waking Jirachi up, I wonder what you and your fellow Trainers will wish for. I already know what my wish is going to be—I want you to enjoy this amazing experience!
+It isn’t every day that you get to join Trainers from all over the world in exploring a park with so many Pokémon in such diverse habitats—not to mention meeting a Mythical Pokémon!
+I’m sure Jirachi was far from the last amazing discovery to be made, though. I’ll no doubt be calling on your excellent research skills again in the future!
 Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
@@ -4007,6 +4202,7 @@ Make a Nice Throw
 Trade {0} Pokémon with a friend
 More research requests will be coming soon!
 Make {0} new friends
+Make a new friend
 Pokémon appears!
 Power up Pokémon {0} times
 Power up a Pokémon
@@ -4214,6 +4410,11 @@ GO Fest 2018 (2/5)
 GO Fest 2018 (3/5)
 GO Fest 2018 (4/5)
 GO Fest 2018 (5/5)
+GO Fest 2019—Chicago (1/5)
+GO Fest 2019—Chicago (2/5)
+GO Fest 2019—Chicago (3/5)
+GO Fest 2019—Chicago (4/5)
+GO Fest 2019—Chicago (5/5)
 Let’s GO, Meltan
 Let’s GO, Meltan (1/9)
 Let’s GO, Meltan (2/9)
@@ -4316,6 +4517,7 @@ The PokéStop will change its shape when you walk close enough. Tap it to intera
 Spin the Photo Disc to generate items. Tap or swipe the items to collect them.
 Spin the Photo Disc to generate items. Tap or swipe the items to collect them.
 Quick Start
+Adventure Week 2019: Catch {0} Omanyte or Kabuto
 raid
 You already completed this Raid Battle.
 Are you sure you want to leave?
@@ -4380,6 +4582,9 @@ WHAT IS A RAID?
 A raid is a battle where you and up to 20 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
 Note: This event is by invitation only.
 There are no raids nearby.
+Win a raid
+Win {0} raids
+Win {0} raids
 Transform a Rare Candy into a {0} Candy?
 You received a free {0}!
 Discard
@@ -4586,7 +4791,7 @@ SHARE MY TRAINER CODE
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
 Are you sure? {1} cannot be relearned.
-You can only make a Special Trade once a day.
+You can only make a Special Trade once a day, unless you’re at certain special events.
 Do you want to make a Special Trade?
 Pokémon GO should not be played while driving.
 You're going too fast!
@@ -4716,7 +4921,7 @@ Pokémon to Trade
 All Shiny Pokémon
 Legendary or Shiny Pokémon in Pokédex
 You can only trade with friends who are nearby.
-Special Trades can only occur once a day.
+Special Trades can only occur once a day, unless you’re at certain special events.
 You can't trade a Pokémon that has been traded previously.
 The stats of the traded Pokémon will randomly change after trading.
 You can find the trading rules using the Help button located above.
@@ -4754,10 +4959,17 @@ Waiting...
 Trainer Code
 Trainer Name
 Match {0}
+Trash Cloak
 A module that attracts Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 Lure Module
 A pack of 8 Lure Modules, which attract Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 8 Lure Modules
+A frosty Lure Module that attracts Pokémon for 30 minutes—especially ones that love the cold. It can also cause some Pokémon to evolve.
+Glacial Lure Module
+An electronic Lure Module that attracts Pokémon for 30 minutes—especially ones that possess a magnetic field. It can also cause some Pokémon to evolve.
+Magnetic Lure Module
+A natural Lure Module that attracts Pokémon for 30 minutes—especially ones that love mossy scents. It can also cause some Pokémon to evolve.
+Mossy Lure Module
 2+ days ago
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.

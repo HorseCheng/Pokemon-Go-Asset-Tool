@@ -17,9 +17,9 @@ This repository contains the [ProtoBuf](https://github.com/google/protobuf) `.pr
 
 We are following [semantic versioning](http://semver.org/) for POGOProtos.  Every version will be mapped to their current PokémonGo version.
 
-| Version      | API           | Notes           | Extra                     |
-|--------------|---------------|-----------------|---------------------------|
-| 2.43.0       | 0.143.0       | Compatible      |  Protocol Buffers v3.7.1  |
+| Version      | API           | Notes           | Extra                          |
+|--------------|---------------|-----------------|--------------------------------|
+| 2.44.0       | 0.145.0       | Compatible      |  Protocol Buffers v3.8.0       |
 
 ### Usage
 
@@ -31,7 +31,7 @@ If you want to figure out the current version in an automated system, use this f
 
 ### Preparation
 
-Current recommended protoc version: "Protocol Buffers v3.7.1".
+Current recommended protoc version: "Protocol Buffers v3.8.0".
 
 You can find download links [here](https://github.com/google/protobuf/releases).
 
@@ -110,14 +110,14 @@ python compile.py swift:
 
 If you don't want to compile POGOProtos but instead use it directly, check out the following repository.
 
-| Language              | Source                                                         | Status |
-|-----------------------|----------------------------------------------------------------|--------|
-| NodeJS                | https://github.com/pogosandbox/pogobuf                         |  OK    |
-| NodeJS (pure JS)      | https://github.com/pogosandbox/pogo-protos                     |  OK    |
-| .NET (nuget pack)     | https://www.nuget.org/packages/POGOProtos.Core                 |  OK    |
-| Swift                 | https://github.com/123FLO321/POGOProtos-Swift                  |  OK    |
-| Python                | https://github.com/PotatoMapper/POGOProtosPython               |  OK    |
-| Java                  | https://github.com/pokemongo-dev-contrib/pogoprotos-java       |  OK    |
+| Language              | Source                                                         | Status                                                                                                                       |
+|-----------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| NodeJS                | https://github.com/pogosandbox/pogobuf                         |  OK                                                                                                                          |
+| NodeJS (pure JS)      | https://github.com/pogosandbox/pogo-protos                     |  [![npm version](https://badge.fury.io/js/pogo-protos.svg)](https://badge.fury.io/js/pogo-protos)                            |
+| .NET (nuget pack)     | https://github.com/Furtif/POGOProtos.Core                      |  [![NuGet](https://img.shields.io/nuget/vpre/POGOProtos.Core.svg?maxAge=60)](https://www.nuget.org/packages/POGOProtos.Core) |
+| Swift                 | https://github.com/123FLO321/POGOProtos-Swift                  |  OK                                                                                                                          |
+| Python                | https://github.com/PotatoMapper/POGOProtosPython               |  OK                                                                                                                          |
+| Java                  | https://github.com/pokemongo-dev-contrib/pogoprotos-java       |  OK                                                                                                                          |
 
 | Additional resources  | Source                                                         | Status |
 |-----------------------|----------------------------------------------------------------|--------|

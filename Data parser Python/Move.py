@@ -145,12 +145,14 @@ for i in range(0,len(master)): #Find the Move info for PVP
                             if(qorc==1):stringquickpvp[t]+=' \n'
                             else:stringchargepvp[t]+=' \n'
                     i=y;break
+print(stringquickpvp[2])
+
 i=0
 while i<len(stringquickpvp[2]):
     if(stringquickpvp[2][i]==" "):stringquickpvp[2]=stringquickpvp[2][:i] + '1' + stringquickpvp[2][i+1:]
     else:stringquickpvp[2]=stringquickpvp[2][:i] + str(int(stringquickpvp[2][i])+1) + stringquickpvp[2][i+1:]
     i+=2
-    
+
 #print(quick[2])     
     
 #output data              
@@ -200,4 +202,4 @@ bb=open("move/charge/pvpenergy_delta.txt","w",encoding="UTF-8")
 aa.write(stringchargepvp[0]);bb.write(stringchargepvp[1]);
 aa.close();bb.close()
 
-s=open("move/quick/pvpduration.txt","w",encoding="UTF-8");s.write(stringquickpvp[2]);s.close;
+s=open("move/quick/pvpduration.txt","w",encoding="UTF-8");s.write(stringquickpvp[2]);s.close()
