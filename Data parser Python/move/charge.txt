@@ -131,6 +131,7 @@ Blast Burn
 Hydro Cannon
 Last Resort
 Meteor Mash
+Skull Bash
 Acid Spray
 Earth Power
 Leaf Tornado

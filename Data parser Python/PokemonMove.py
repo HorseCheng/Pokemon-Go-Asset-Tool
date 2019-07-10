@@ -38,7 +38,8 @@ noww=0
 for i in range(0,len(move[1])):
     #if(move[1][i]==303):move[2].append('酸液炸彈') #sometimes APK file still don't have the new move name
     #elif(move[1][i]==312):move[2].append('青草攪拌器')
-    #elif(move[1][i]==319):move[2].append('增強拳')
+    if(move[1][i]==319):move[2].append('增強拳')
+    
     if(1==1): #ignore it for now
         for e in range(noww,len(chi)):
             if('move_reroll_confirm_desc' in chi[i]):break
@@ -54,7 +55,7 @@ for i in range(0,len(master)):
         num=int(num.group())
 
         appear=0
-        if (num in alola) or (num in [386,479,493]): 
+        if (num in alola) or (num in [150,386,479,493]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1;
         if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
@@ -105,7 +106,7 @@ for i in range(0,len(master)):
                 break
 
 #mew
-two=0
+three=0
 for y in range(remember,len(master)):
     name=re.search('quick_moves: [A-Z\_]+',master[y])
     index=re.search('quick_moves: [0-9]+',master[y])
@@ -113,18 +114,18 @@ for y in range(remember,len(master)):
         name=name.group().replace('quick_moves: ','')
         for z in range(0,len(move[0])):
             if(move[0][z]==name): mewq+=' '+move[2][z]
-        two+=1
-        if(two==2):mewq+='\n';two=0
+        three+=1
+        if(three==3):mewq+='\n';three=0
     if(index):
         index=int(re.search("[0-9]+",master[i]).group())
         ok=1
         for z in range(0,len(move[1])):
             if(index==move[1][z]):
-                mewq+=' '+move[0][z];ok=0;two+=1;
-                if(two==2):mewq+='\n';two=0
+                mewq+=' '+move[0][z];ok=0;three+=1;
+                if(three==3):mewq+='\n';three=0
         if(ok):print('error!')
     if("item_templates" in master[y]): mewq+=' \n'; break
-two=0
+three=0
 for y in range(remember,len(master)):
     name=re.search('cinematic_moves: [A-Z\_]+',master[y])
     index=re.search('cinematic_moves: [0-9]+',master[y])
@@ -134,15 +135,15 @@ for y in range(remember,len(master)):
         for z in range(0,len(move[0])):
             if(move[0][z]==name): 
                 if(move[2][z] not in mewc):mewc+=' '+move[2][z];have=1;break
-        if(have):two+=1
-        if(two==6):mewc+='\n';two=0
+        if(have):three+=1
+        if(three==6):mewc+='\n';three=0
     if(index):
         ok=1
         index=int(re.search("[0-9]+",master[i]).group())
         for z in range(0,len(move[1])):
             if(index==move[1][z]):
-                mewc+=' '+move[0][z];ok=0;two+=1;
-                if(two==6):mewc+='\n';two=0
+                mewc+=' '+move[0][z];ok=0;three+=1;
+                if(three==6):mewc+='\n';three=0
         if(ok):print(num,index,'error!',master[y])
     if("item_templates" in master[y]): mewc+='\n';break
 
