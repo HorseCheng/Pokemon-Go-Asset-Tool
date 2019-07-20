@@ -30,6 +30,7 @@ Enable Adventure Sync
 Please enter your date of birth.
 Alola Form
 Do you want to exit Pokémon GO?
+Pokémon GO requires location permissions in order to play. Go to your device’s settings to turn on location permissions.
 Try again by restarting Pokémon GO.
 Apple Watch not enabled
 Let your Apple Watch count your steps and help you find nearby Pokémon and PokéStops!
@@ -84,6 +85,12 @@ Its stats are all right, but kinda basic, as far as I can see.
 Its stats are noticeably trending to the positive.
 Its stats indicate that in battle, it'll get the job done.
 It's definitely got some good stats. Definitely!
+This {0} was caught on {1} around {2}.
+This {0} was caught on {1}
+This {0} was caught around {1}.
+This {0} was caught
+ around {0}.
+The origin of this {0} is unknown!
 AR
 We're not detecting your phone's orientation. Would you like to turn off AR mode?
 AR+ requires ARCore to be installed. Do you want to install now? You'll need to restart Pokémon GO. 
@@ -185,6 +192,7 @@ Gym Leader Gloves
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
+Spark-Style Gloves
 Ace Visor
 Expedition Hat
 Newsy Cap
@@ -238,8 +246,11 @@ Pikachu Fan Shorts
 Track Shorts
 Skinny Jeans
 Team Aqua Shorts
+Blanche-Style Pants
+Candela-Style Skirt
 Team Magma Shorts
 Team Rocket Skirt
+Spark-Style Pants
 Veteran Leggings
 Ace Vest
 Ace Long Top
@@ -276,9 +287,12 @@ Trainer Tank
 Charizard Tank
 Pikachu Tank
 Team Aqua Top
+Blanche-Style Coat
+Candela-Style Jacket
 Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
+Spark-Style Jacket
 Active Tee
 Pikachu Tee
 Veteran Coat
@@ -296,9 +310,12 @@ Misty Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
 Team Aqua Boots
+Blanche-Style Shoes
+Candela-Style Shoes
 Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
+Spark-Style Shoes
 Veteran Boots
 Long Leg Warmers
 No Socks
@@ -337,6 +354,7 @@ Jogger Watch
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
+Spark-Style Gloves
 Ace Earbud
 Expedition Hat
 Newsy Cap
@@ -383,8 +401,11 @@ Pikachu Fan Shorts
 Skinny Jeans
 Active Sweatpants
 Team Aqua Shorts
+Blanche-Style Pants
+Candela-Style Pants
 Team Magma Pants
 Team Rocket Pants
+Spark-Style Pants
 Veteran Pants
 Ace Vest
 Ace Top
@@ -422,9 +443,12 @@ Spiritomb T-Shirt
 Sports Hoodie
 Streak Hoodie
 Team Aqua Top
+Blanche-Style Coat
+Candela-Style Jacket
 Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
+Spark-Style Jacket
 Diagonal Tee
 Team Instinct Tee
 Team Mystic Tee
@@ -446,9 +470,12 @@ Jogger Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
 Team Aqua Boots
+Blanche-Style Shoes
+Candela-Style Shoes
 Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
+Spark-Style Shoes
 Veteran Boots
 Leggings
 No Socks
@@ -567,6 +594,22 @@ Chicago, June 16, 2019—South
 Pokémon GO Fest—Early Access
 Chicago, June 16, 2019—South
 Pokémon GO Fest
+Yokohama, August 5, 2019
+Pokémon GO Fest
+Yokohama, August 6, 2019
+Pokémon GO Fest
+Yokohama, August 7, 2019
+Pokémon GO Fest
+Yokohama, August 8, 2019
+Pokémon GO Fest
+Yokohama, August 9, 2019
+Pokémon GO Fest
+Yokohama, August 10, 2019
+Pokémon GO Fest
+Yokohama, August 11, 2019
+Pokémon GO Fest
+Yokohama, August 12, 2019
+Pokémon GO Fest
 Dortmund, July 3, 2019
 Pokémon GO Fest—Early Access
 Dortmund, July 3, 2019
@@ -596,7 +639,7 @@ N0
 Defend Gyms for {0} hours.
 Gym Leader
 N0
-Win {0} Legendary Raids.
+Win {0} Legendary raids.
 Battle Legend
 N0
 Win {0} Trainer Battles in the Master League.
@@ -632,6 +675,8 @@ N0
 Kanto
 Unknown
 N0
+Purify {0} Shadow Pokémon.
+Purifier
 Visit {0} PokéStops.
 Backpacker
 N0
@@ -645,6 +690,8 @@ Badge Progress
 Win {0} raids.
 Champion
 N0
+Defeat {0} Team GO Rocket Grunts.
+Hero
 Europe, September 16, 2017
 Europe, October 7, 2017
 GO Safari Zone - Europe 2017
@@ -823,6 +870,11 @@ Open the Mystery Box in your Bag for a mysterious effect.
 Open
 MYSTERY BOX
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
+Don’t give up.
+Keep your cool, Trainer.
+Great battle.
+Stay focused.
+Quite skillful.
 This software is under development and is confidential. Please do not share, display, or distribute it to others.
 LOADING...
 Remember to be alert at all times. Stay aware of your surroundings.
@@ -868,6 +920,12 @@ Special Box
 Please accept the following items and keep training!
 The EX Raid scheduled for {0}, {1} at {2} has been canceled.
 CANCELED EX RAID PASSES
+Keep up the fight!
+Stay strong!
+You have a lot of fight in you, Trainer!
+I can feel your passion!
+Put your heart into it!
+What an epic battle!
 Can't sign in?
 Catch a Pokémon
 Battle another Trainer
@@ -882,13 +940,31 @@ Take a snapshot of Snover in its GO Fest habitat
 Take a snapshot of Snover in the Winter Forest
 Take a snapshot of Horsea in its GO Fest habitat
 Take a snapshot of Horsea at the Water Fountain
+Take a snapshot of Nidoran♂ in its GO Fest habitat
+Take a snapshot of Nidoran♂ in the Rocky Terrain
+Take a snapshot of Feebas in its GO Fest habitat
+Take a snapshot of Feebas at the Boat Lake
+Take a snapshot of Scyther in its GO Fest habitat
+Take a snapshot of Scyther in the Mysterious Woods
+Take a snapshot of Meditite in its GO Fest habitat
+Take a snapshot of Meditite in the Mysterious Woods
+Take a snapshot of Magnemite in its GO Fest habitat
+Take a snapshot of Magnemite at the Steel Factory
 Take {0} snapshots of Fairy-type Pokémon
 Take {0} snapshots of Ghost-type Pokémon
+Take {0} snapshots of Grass-type Pokémon
 Take {0} snapshots of Ground-type Pokémon
 Take {0} snapshots of Ice-type Pokémon
 Take a snapshot of Horsea in its GO Fest habitat
+Take {0} snapshots of Psychic-type Pokémon
+Take {0} snapshots of Steel-type Pokémon
 Take {0} snapshots of Water-type Pokémon
 Trade for 3 Pokémon from at least 100 km away
+Battle another Trainer in the Great League
+Catch a Legendary Pokémon from a Field Research Breakthrough or raid
+Catch {0} different species of Pokémon
+Take a snapshot of Dratini
+Take a snapshot of Eevee
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
@@ -921,6 +997,8 @@ Challenge Expired
 A friend has challenged you to a Trainer Battle!
 Challenge {0} to a {1} battle?
 Sorry, you’re too far away from your opponent.
+Swipe!
+Get Ready!
 Choose Your League
 Switch in a new Pokémon?
 Choose your party
@@ -945,11 +1023,57 @@ Remote battles are only available to {0} or higher.
 You must be at least level {0} to battle.
 {0} is not yet at a high-enough level to battle.
 Player is currently not receiving challenges
+Exit the battle?
 Great League
+Grunt
+Winning is for winners.
+Winning is for winners.
+Don’t bother—I’ve already won.
+Don’t bother—I’ve already won.
+Get ready to be defeated!
+Get ready to be defeated!
+Go, my super bug Pokémon!
+Go, my super bug Pokémon!
+Wherever there is light, there is also shadow.
+Wherever there is light, there is also shadow.
+ROAR! ...How’d that sound?
+ROAR! ...How’d that sound?
+Get ready to be shocked!
+Get ready to be shocked!
+Check out my cute Pokémon!
+Check out my cute Pokémon!
+This buff physique isn’t just for show!
+This buff physique isn’t just for show!
+Do you know how hot Pokémon fire breath can get?
+Do you know how hot Pokémon fire breath can get?
+My bird Pokémon wants to battle with you!
+My bird Pokémon wants to battle with you!
+Ke...ke...ke...ke...ke...ke!
+Ke...ke...ke...ke...ke...ke!
+Don’t tangle with us!
+Don’t tangle with us!
+You’ll be defeated into the ground!
+You’ll be defeated into the ground!
+You’re gonna be frozen in your tracks.
+You’re gonna be frozen in your tracks.
+Normal does not mean weak. 
+Normal does not mean weak. 
+Coiled and ready to strike!
+Coiled and ready to strike!
+Are you scared of psychics that use unseen power?
+Are you scared of psychics that use unseen power?
+Let’s rock and roll!
+Let’s rock and roll!
+You’re no match for my iron will!
+You’re no match for my iron will!
+These waters are treacherous!
+These waters are treacherous!
+Team GO Rocket
 Tied with {0}.
 Battled against {0}.
 Won a battle against {0}.
 Max CP per Pokémon: {0}
+Adventure
 Opponent has not unlocked this league.
 Catch higher-CP Pokémon to unlock!
 LET’S BATTLE!
@@ -1002,6 +1126,8 @@ Team Instinct Leader
 Spin to build your shield!
 Attack
 Defense
+Grunt Defeated
+Pokémon Remaining
 Surrender and exitYou won’t receive any rewards."
 Your opponent no longer wants to battle.
 TRAIN
@@ -1090,6 +1216,7 @@ Nice!
 No Poké Balls
 You're out of Berries.
 Out of Poké Balls!
+Your Pokémon storage is full.
 The Pokémon broke free!
 This Pokémon is too far away.
 Oh no! The wild {0} fled.
@@ -1110,6 +1237,7 @@ Pokémon Caught
 TOTAL
 {0} XP
 Your Pokémon Box is full. You can buy more space in the shop.
+You can transfer Pokémon to Professor Willow or upgrade your Pokémon storage.
 ???
 A wild <b>{0}</b> appeared!
 To add someone to your Friend List, enter their Trainer Code.
@@ -1261,6 +1389,8 @@ hatched
 legendary
 lucky
 mythical
+purified
+shadow
 shiny
 traded
 Maybe later
@@ -1426,8 +1556,192 @@ Get directions
 Greetings from
 Gift sent!
 Opened a Gift from {0}.
+Manage Pokémon
+GO Fest Global: Evolve {0} Pokémon
+GO Fest Global: Hatch an Egg
+GO Fest Global: Make {0} Great Curveball Throws in a row
+GO Fest Global: Win a raid
+GO Fest Global: Win {0} Gym battles
 Unable to authenticate. Please try again.
 Google
+Forget it. Who needs your Pokémon!
+Forget it. Who needs your Pokémon!
+I hate losing! Get out of my face!
+I hate losing! Get out of my face!
+I need to catch a few z’s!
+I need to catch a few z’s!
+Manners never get me anywhere.
+Manners never get me anywhere.
+Nice Pokémon! Hand it over!
+Nice Pokémon! Hand it over!
+I’m gonna rough you up!
+I'm gonna rough you up!
+Get lost! I’m bushed!
+Get lost! I’m bushed!
+Let me take all the Pokémon and items from this PokéStop! Uh...pretty please?
+Let me take all the Pokémon and items from this PokéStop! Uh...pretty please?
+I’ll flick you away effortlessly!
+I’ll flick you away effortlessly!
+Boss said he’ll take the PokéStop in the name of Team GO Rocket!
+Boss said he’ll take this PokéStop in the name of Team GO Rocket!
+You don’t have any business here! Go home!
+You don’t have any business here! Go home!
+Pokémon are only good for making money. Why not use them? You stay out of our business!
+Pokémon are only good for making money. Why not use them? You stay out of our business!
+Hey, Trainer! C’mon!
+Hey, Trainer! C’mon!
+We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
+We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
+You’re not going any farther! I don’t show mercy to my enemies!
+You’re not going any farther! I don’t show mercy to my enemies!
+This PokéStop belongs to Team GO Rocket!
+This PokéStop belongs to Team GO Rocket!
+I’ll give you something to be scared about!
+I’ll give you something to be scared about!
+We won’t let you ruin our plans to take over PokéStops.
+We won’t let you ruin our plans to take over PokéStops.
+Pokémon battle? Cool! Rumble!
+Pokémon battle? Cool! Rumble!
+You look gentle, so I think I can beat you. I’ll give it a GO!
+You look gentle, so I think I can beat you. I’ll give it a GO!
+Feeling lucky, punk? Go ahead, take another step.
+Feeling lucky, punk? Go ahead, take another step.
+You think you’re a hero?
+You think you’re a hero?
+There’s nothing past here except our PokéStop. So what brings you here?
+There’s nothing past here except our PokéStop. So what brings you here?
+Boy, that really makes me steam!
+Boy, that really makes me steam!
+As always...
+As always...
+This is not good... I better tell the boss!
+This is not good... I better tell the boss!
+What? I lost? No!
+What? I lost? No!
+I can’t do it!
+I can’t do it!
+Go wherever you like! Get lost! See if I care!
+Go wherever you like! Get lost! See if I care!
+*cough cough* It’s only ’cause I’m coming down with a cold!
+*cough cough* It’s only ’cause I’m coming down with a cold!
+I failed in my duties... I’ll be docked pay for this...
+I failed in my duties... I’ll be docked pay for this...
+I blew it!
+I blew it!
+So you are good...
+So you are good...
+Argh! You are good!
+Argh! You are good!
+Oww! We got beat bad!
+Oww! We got beat bad!
+This won’t do!
+This won’t do!
+Why...?
+Why...?
+I surrender!
+I surrender!
+Oof! Taken down!
+Oof! Taken down!
+No!
+No!
+You’re tough!
+You’re tough!
+Not enough grit!
+Not enough grit!
+I’m stunned!
+I’m stunned!
+Stop! I give up! I’ll leave quietly!
+Stop! I give up! I’ll leave quietly!
+Blast!
+Blast!
+We’ll never be able to face the boss at this rate!
+We’ll never be able to face the boss at this rate!
+Grrr, Team GO Rocket is scarier than you know, and don’t you forget it!
+Grrr, Team GO Rocket is scarier than you know, and don’t you forget it!
+Who needs a weak Pokémon like this? It’s all yours!
+Who needs a weak Pokémon like this? It’s all yours!
+Gaaah!
+Gaaah!
+It’s because of you that Team GO Rocket’s reputation was totally smashed!
+It’s because of you that Team GO Rocket’s reputation was totally smashed!
+If you were to join Team GO Rocket, you could become a Team GO Rocket Leader.
+If you were to join Team GO Rocket, you could become a Team GO Rocket Leader.
+What if the boss hears about this?!
+What if the boss hears about this?!
+Such a dreadful twerp!
+Such a dreadful twerp!
+Don’t fight us GO Rockets!
+Don’t fight us GO Rockets!
+What’re you staring at? Get lost. Either you leave or I’ll make you leave!
+What’re you staring at? Get lost. Either you leave or I’ll make you leave!
+Uh-oh! I found a little troublemaker!
+Uh-oh! I found a little troublemaker!
+Not even a single Rattata is getting past me!
+Not even a single Rattata is getting past me!
+Who’s there? Quit listening in on us!
+Who’s there? Quit listening in on us!
+What do you want, you pest? Scram!
+What do you want, you pest? Scram!
+Are you lost? No, you can’t be. You don’t have that scared look.
+Are you lost? No, you can’t be. You don’t have that scared look.
+No way! Only authorized members are allowed. I was told to let no one else get close.
+No way! Only authorized members are allowed. I was told to let no one else get close.
+What d’you think you’re doing running around here?! We’re Team GO Rocket, don’t you know!
+What d’you think you’re doing running around here?! We’re Team GO Rocket, don’t you know!
+Show Team GO Rocket a little respect!
+Show Team GO Rocket a little respect!
+We’re pulling a big job here! Get lost!
+We’re pulling a big job here! Get lost!
+Hey, you! What are you wandering here for?
+Hey, you! What are you wandering here for?
+Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
+Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
+If you get in our way, then you’ll...really be in our way!
+If you get in our way, then you’ll...really be in our way!
+You snuck into Team GO Rocket’s operation? What nerve!
+You snuck into Team GO Rocket’s operation? What nerve!
+Team GO Rocket has taken control of the PokéStop!
+Team GO Rocket has taken control of this PokéStop!
+We’re Team GO Rocket, and we strike fear into others with our strength!
+We’re Team GO Rocket, and we strike fear into others with our strength!
+Hahaha!
+Hahaha!
+Wha—?!
+Wha—?!
+Intruder alert!
+Intruder alert!
+Halt! State your purpose for being here!
+Halt! State your purpose for being here!
+What’d you hope to achieve by coming here?
+What’d you hope to achieve by coming here?
+This is as far as you’ll go!
+This is as far as you’ll go!
+Welcome to this PokéStop! So good of you to join me!
+Welcome to this PokéStop! So good of you to join me!
+Intruder spotted!
+Intruder spotted!
+Stop meddling in Team GO Rocket’s affairs, or else!
+Stop meddling in Team GO Rocket’s affairs, or else!
+My life as a criminal makes me feel so alive!
+My life as a criminal makes me feel so alive!
+It sure does feel good to have Pokémon do your evil deeds for you!
+It sure does feel good to have Pokémon do your evil deeds for you!
+Keep out of our way!
+Keep out of our way!
+Hahaha, is that all you’ve got?
+Hahaha, is that all you’ve got?
+Nailed it!
+Nailed it!
+Yeah!
+Yeah!
+Looking for more items? They’re mine now!
+Looking for more items? They’re mine now!
+Not seeing many items? I’ve been stealing them!
+Not seeing many items? I’ve been stealing them!
+Want more items? You’ll have to beat me.
+Want more items? You’ll have to beat me.
+Stealing items from this PokéStop is fun!
+Stealing items from this PokéStop is fun!
 Battles Won:
 List
 {0} BATTLES WON
@@ -1522,6 +1836,13 @@ Incense
 25 Incense
 8 Incense. The mysterious fragrance lures wild Pokémon to your location for 30 minutes.
 8 Incense
+Invalid Team GO Rocket battle update.
+Invalid Pokémon selected for battle.
+Team GO Rocket battle not complete.
+Team GO Rocket battle already complete.
+Team GO Rocket battle not found.
+Rescue Pokémon
+Unknown Team GO Rocket battle error.
 {0} people sent you Friend Requests.
 One person sent you a Friend Request.
 Choose an Egg to incubate.
@@ -1532,6 +1853,25 @@ A device that incubates an Egg as you walk until it is ready to hatch. Breaks af
 Egg Incubator
 A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 Super Incubator
+{0} was defeated.
+Curious... Upon their defeat, your opponent seems to have abandoned the Pokémon they battled with. It has a strange and ominous aura. 
+I have a hypothesis about what kind of Pokémon it is... Could you catch it so we can examine it more closely?
+Your opponent fled...and left their Pokémon behind. That really burns me up. There seems to be an ominous aura around the poor Pokémon, too. 
+Could you try to catch it and see what’s so different about this Pokémon?
+They’ve carelessly abandoned the Pokémon they lost with! It has an ominous aura and is somewhat different from regular Pokémon. Try to catch it so we can save it!
+They’ve carelessly abandoned the Pokémon they lost with! It has an ominous aura and is somewhat different from regular Pokémon. Try to catch it so we can save it!
+Whoa, looks like they couldn’t handle a little battle! They even left behind their Pokémon. Why would they do that? 
+It has a really odd aura around it... Let’s help it! Can you catch it so we can take a closer look?
+Trainer, some shadowy figures have been seen at PokéStops. Approach with caution, and be ready for battle.
+I’ve been hearing reports of some mysterious characters near PokéStops. You should take charge and go investigate. Be careful, and make sure you’re prepared for a battle!
+Some mysterious characters have shown up at PokéStops! Watch out—it might turn into a battle!
+Some mysterious characters have shown up at PokéStops! Watch out—it might turn into a battle!
+I overheard that some shady characters have been showing up at PokéStops. I think you need to check it out, but be careful—I have a feeling you might end up in a battle!
+If my analysis is correct, we can help this Pokémon through a process known as purification. This will enable it to harness its strength. Shall we give it a try?
+I think we can help this Pokémon. Purification is a process that makes certain Pokémon stronger by tapping into their inner power. Let’s give it a try.
+It looks like we can help this Pokémon become stronger through a process called purification. Let’s try it!
+It looks like we can help this Pokémon become stronger through a process called purification. Let’s try it!
+Oh! I remember Professor Willow talking about a process called purification! He said that it could help certain Pokémon become more powerful. Let’s give it a shot!
 Egg
 Collect more Eggs!
 Invite
@@ -1646,6 +1986,9 @@ You declined an invitation from {0}.
 Received {0} items from Weekly Adventure Sync Rewards.
 Received {0} items from Weekly Adventure Sync Rewards for walking {1:0.#} {2}!
 You received an EX Raid Invitation to {0}.
+Shadow {0} was caught!
+Shadow {0} ran away.
+Shadow {0} was purified!
 You invited {0} to an EX Raid.
 Items Unlocked
 Level up!
@@ -2012,6 +2355,8 @@ Muddy Water
 Blaze Kick
 Razor Shell
 Power-Up Punch
+Frustration
+Return
 {0} will forget {1}.
 {0} learned a new attack!
 Clear
@@ -2169,6 +2514,7 @@ LEARN MORE
 Error
 No images found
 CANCEL
+Unsupported image format. Please select an image taken by your device’s camera and not from another source.
 Move the marker to the most accurate location.
 Error Loading Map
 Set location
@@ -2216,6 +2562,10 @@ Unlocks at level {0}!
 Explain why you believe your PokéStop nomination is important and what Trainers will see there. Effectively communicating these points will help reviewers evaluate your nomination and understand its value.
 Enter additional supporting information, which will only be seen by reviewers, here.
 Show Why Your Nomination Is Important
+You may submit {0} nominations.
+You may submit {0} nomination.
+More nominations may be available in {0} day(s).
+You have no nominations at this time.
 This photo will be used for your PokéStop nomination.
 PokéStop photo
 PokéStop description
@@ -2272,6 +2622,7 @@ Evolution
 Height:
 ???
 Lucky:
+Purified:
 Seen:
 Type:
 ---
@@ -3341,8 +3692,12 @@ Need more Stardust.
 Trainer level is too low to power up.
 {0} is assigned to a Gym.
 POWER UP
+Do you want to purify {0}It will gain a significant amount of CP, cost less to power up, and learn the exclusive Charged Attack Return!"
+Failed to purify {0}.
+Purify
 Assigned
 The Gym is currently closed.
+Shadow:
 Stardust
 TRADE
 Couldn't transfer {0} due to an unknown error.
@@ -3857,6 +4212,7 @@ Arceus
 Meltan
 Melmetal
 Please enter a different nickname.
+You have purified {0}!
 Do you really want to transfer this Shiny Pokémon?
 Bug
 Dark
@@ -4045,6 +4401,7 @@ Catch {0} Ghost-type Pokémon
 Catch {0} different species of Ghost-type Pokémon
 Catch a Ghost-type Pokémon
 Catch {0} Grass-type Pokémon
+Catch {0} different species of Grass-type Pokémon
 Catch a Grass-type Pokémon
 Catch {0} Ground-type Pokémon
 Catch {0} different species of Ground-type Pokémon
@@ -4057,10 +4414,12 @@ Catch a Normal-type Pokémon
 Catch {0} Poison-type Pokémon
 Catch a Poison-type Pokémon
 Catch {0} Psychic-type Pokémon
+Catch {0} different species of Psychic-type Pokémon
 Catch a Psychic-type Pokémon
 Catch {0} Rock-type Pokémon
 Catch a Rock-type Pokémon
 Catch {0} Steel-type Pokémon
+Catch {0} different species of Steel-type Pokémon
 Catch a Steel-type Pokémon
 Catch {0} Water-type Pokémon
 Catch {0} different species of Water-type Pokémon
@@ -4106,6 +4465,8 @@ Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
+Evolve a Dragonair
+Evolve a Dratini
 Evolve {0} Electric-, Water-, or Fire-type Pokémon
 Evolve an Electric-, Water-, or Fire-type Pokémon
 Evolve Eevee into Espeon during the day
@@ -4159,6 +4520,10 @@ GO Fest: Catch {0} Pokémon
 GO Fest: Visit {0} PokéStops
 GO Fest: Earn a Buddy Candy
 GO Fest: Hatch an Egg
+GO Fest: Make a new friend
+Niantic Crew: Friend 3 new coworkers!
+GO Fest: Send {0} Gifts to friends
+GO Fest: Battle another Trainer
 Catch {0} Poochyena or Houndour
 Catch {0} Dark-type Pokémon
 Catch {0} Ghost-type Pokémon
@@ -4221,6 +4586,13 @@ Later
 You must be in AR mode to catch this Pokémon.
 A mysterious Pokémon has appeared!
 Start Encounter
+Battle {0} Team GO Rocket Grunts
+Defeat a Team GO Rocket Grunt
+Evolve {0} Pokémon 
+Power up Pokémon {0} times
+Purify {0} Shadow Pokémon
+Purify a Fire-, Water-, or Grass-type Shadow Pokémon
+Catch {0} Shadow Pokémon
 Send {0} Gifts to friends
 %PLAYERNAME%, you’ve been such a help in conducting Field Research and Special Research!
 I have a feeling that there’s so much more about this world that we’ve yet to discover, and I’m glad I can count on you to see it through.
@@ -4376,6 +4748,25 @@ Please carry out the following research tasks{0}{1}{2}"
 We found Mew! Awesome! This is an experience to remember forever.
 Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
 My assistants and I will request some Special Research from you in the future. Stay in touch!
+Hi, %PLAYERNAME%, I’m glad to see you! Can I get your help with investigating something?
+I’ve noticed an alarming number of reports from Trainers who have found PokéStops that look...discolored?
+Some Trainers have even spotted people wearing shirts with a big letter R on them who are guarding these PokéStops.
+These shady characters appear to have Pokémon with a mysterious dark aura around them!
+As I investigate this with Spark, it might be best to power up some of your Pokémon. You never know what we might encounter...
+Great job strengthening your Pokémon! 
+After visiting one of the PokéStops with Spark, we were challenged to a Trainer Battle by someone who belongs to an organization called Team GO Rocket!
+Turns out that Team GO Rocket has been stealing resources from PokéStops with the help of Pokémon that are cloaked in a dark aura. They’re called Shadow Pokémon!
+Luckily, we won the battle, and afterward, Team GO Rocket carelessly abandoned their defeated Shadow Pokémon!
+Help us protect local PokéStops from Team GO Rocket, Trainer! As you do so, please save any Shadow Pokémon that Team GO Rocket abandons!
+Thanks for all your hard work, %PLAYERNAME%! Candela and I have done some research on Shadow Pokémon and learned some very unsettling things.
+While Pokémon naturally become stronger through training, these Shadow Pokémon seem to have been overpowered through unnatural means.
+As a result, their bodies painfully struggle with not knowing how to control this strength. 
+But don’t worry! It looks like we can help them harness this strength through a process called purification.
+Can you help me purify some Shadow Pokémon, %PLAYERNAME%?
+WOW! Thanks for helping us learn more about the Shadow Pokémon that Team GO Rocket uses, Trainer!
+After observing the purification process with Blanche, it’s clear that the Pokémon’s gratefulness to you for purifying them causes the move Frustration to be replaced with Return!
+Now that you have this knowledge, we need your help with saving as many Shadow Pokémon as possible by taking back PokéStops that are under Team GO Rocket’s control!
+The world is under attack! Can we count on you to help protect it? I do hope there’s nothing more to this...
 Oh, %PLAYERNAME%! You’ve dropped by just in time.
 As I was out on my regular walk one evening, I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening.
 Papers shifting around, water glasses tipping all by themselves...
@@ -4395,6 +4786,30 @@ Wow, great work today! In addition to completing some insightful research, you�
 The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
 Visit PokéStops {0} days in a row
 {0} DAY STREAK!
+Ah, %PLAYERNAME%! Good to see you!
+There’s a lot to do this summer! New things to experience—new Pokémon to find!
+Let’s start with a few simple tasks to help you get your bearings.
+Wow, is that a Dratini you’ve found? That’s quite a rare Pokémon!
+I can tell this Dratini has the potential to become a close friend of yours! Why don’t you two take some time to get to know each other?
+Impressive! Dragonair is a powerful Pokémon in its own right. Let’s get Dragonair ready to battle!
+You can try taking on other Trainers or working together to take down huge Raid Bosses!
+Nice work! You and your Pokémon make a great team!
+There are many new kinds of Pokémon that have started appearing recently in the world.
+You should take a look and see if you can find anything new.
+Amazing! You found some rare Pokémon that were first discovered in the Sinnoh region already? And is that...a Shiny Pokémon?
+Amazing! I’ve never seen an Eevee like that before! Shiny Pokémon have a rare and distinct coloration that sets them apart from others of their species!
+Let’s commemorate this moment! Why don’t you take a snapshot and celebrate with friends?
+Wow, a wild Lapras sought you out?
+Looks like you’re going to do great this summer!
+They say Trainers and Pokémon are most powerful when they band together.
+Good luck!  It’s time to GO!
+Jump-Start Research
+Jump-Start Research (1/6)
+Jump-Start Research (2/6)
+Jump-Start Research (3/6)
+Jump-Start Research (4/6)
+Jump-Start Research (5/6)
+Jump-Start Research (6/6)
 A Ripple in Time
 A Ripple in Time (1/8)
 A Ripple in Time (2/8)
@@ -4415,6 +4830,18 @@ GO Fest 2019—Chicago (2/5)
 GO Fest 2019—Chicago (3/5)
 GO Fest 2019—Chicago (4/5)
 GO Fest 2019—Chicago (5/5)
+GO Fest 2019—Dortmund
+GO Fest 2019—Dortmund (1/5)
+GO Fest 2019—Dortmund (2/5)
+GO Fest 2019—Dortmund (3/5)
+GO Fest 2019—Dortmund (4/5)
+GO Fest 2019—Dortmund (5/5)
+GO Fest 2019—Chicago
+GO Fest 2019—Yokohama (1/5)
+GO Fest 2019—Yokohama (2/5)
+GO Fest 2019—Yokohama (3/5)
+GO Fest 2019—Yokohama (4/5)
+GO Fest 2019—Yokohama (5/5)
 Let’s GO, Meltan
 Let’s GO, Meltan (1/9)
 Let’s GO, Meltan (2/9)
@@ -4434,6 +4861,11 @@ A Mythical Discovery (5/8)
 A Mythical Discovery (6/8)
 A Mythical Discovery (7/8)
 A Mythical Discovery (8/8)
+A Troubling Situation
+A Troubling Situation (1/4)
+A Troubling Situation (2/4)
+A Troubling Situation (3/4)
+A Troubling Situation (4/4)
 A Spooky Message
 A Spooky Message (1/3)
 A Spooky Message (2/3)
@@ -4526,7 +4958,7 @@ GO TO BONUS CHALLENGE
 CHANGE TO PUBLIC
 Create Group
 Damage
-Defeat Boss
+Boss Defeated
 All your Pokémon have fainted.
 Select new Pokémon or heal up those that fainted and get back to the battle!
 PRIVATE GROUP
@@ -4788,6 +5220,11 @@ Scan a Trainer's QR Code
 Remove Friend
 Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
+You can do it!
+You got this!
+Electrifying battle!
+Radical battling, Trainer!
+That was an amazing battle!
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
 Are you sure? {1} cannot be relearned.
@@ -4846,6 +5283,7 @@ You never lose when you trust your instincts!
 A unique coin that enables a Trainer to change teams. It can only be purchased once per 365 days.
 Team Medallion
 https://www.nianticlabs.com/terms/pokemongo/en/
+test string
 Test
 https://pokemongo.nianticlabs.com/support/three-strike-policy
 This raid has ended.
@@ -4971,6 +5409,42 @@ Magnetic Lure Module
 A natural Lure Module that attracts Pokémon for 30 minutes—especially ones that love mossy scents. It can also cause some Pokémon to evolve.
 Mossy Lure Module
 2+ days ago
+Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks. 
+Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks. 
+Dark-type Pokémon are weak to Fighting-, Bug-, and Fairy-type attacks.
+Dark-type Pokémon are weak to Fighting-, Bug-, and Fairy-type attacks.
+Dragon-type Pokémon are weak to Ice-, Dragon-, and Fairy-type attacks.
+Dragon-type Pokémon are weak to Ice-, Dragon-, and Fairy-type attacks.
+Electric-type Pokémon are weak to Ground-type attacks.
+Electric-type Pokémon are weak to Ground-type attacks.
+Fairy-type Pokémon are weak to Poison- and Steel-type attacks.
+Fairy-type Pokémon are weak to Poison- and Steel-type attacks.
+Fighting-type Pokémon are weak to Flying-, Psychic-, and Fairy-type attacks.
+Fighting-type Pokémon are weak to Flying-, Psychic-, and Fairy-type attacks.
+Fire-type Pokémon are weak to Water-, Ground-, and Rock-type attacks.
+Fire-type Pokémon are weak to Water-, Ground-, and Rock-type attacks.
+Flying-type Pokémon are weak to Electric-, Ice-, and Rock-type attacks.
+Flying-type Pokémon are weak to Electric-, Ice-, and Rock-type attacks.
+Ghost-type Pokémon are weak to Ghost- and Dark-type attacks.
+Ghost-type Pokémon are weak to Ghost- and Dark-type attacks.
+Grass-type Pokémon are weak to Fire-, Ice-, Poison-, Flying-, and Bug-type attacks.
+Grass-type Pokémon are weak to Fire-, Ice-, Poison-, Flying-, and Bug-type attacks.
+Ground-type Pokémon are weak to Water-, Grass-, and Ice-type attacks.
+Ground-type Pokémon are weak to Water-, Grass-, and Ice-type attacks.
+Ice-type Pokémon are weak to Fire-, Fighting-, Rock-, and Steel-type attacks.
+Ice-type Pokémon are weak to Fire-, Fighting-, Rock-, and Steel-type attacks.
+Normal-type Pokémon are weak to Fighting-type attacks.
+Normal-type Pokémon are weak to Fighting-type attacks.
+Poison-type Pokémon are weak to Ground- and Psychic-type attacks.
+Poison-type Pokémon are weak to Ground- and Psychic-type attacks.
+Psychic-type Pokémon are weak to Bug-, Ghost-, and Dark-type attacks.
+Psychic-type Pokémon are weak to Bug-, Ghost-, and Dark-type attacks.
+Rock-type Pokémon are weak to Water-, Grass-, Fighting-, Ground-, and Steel-type attacks.
+Rock-type Pokémon are weak to Water-, Grass-, Fighting-, Ground-, and Steel-type attacks.
+Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
+Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
+Water-type Pokémon are weak to Grass- and Electric-type attacks. 
+Water-type Pokémon are weak to Grass- and Electric-type attacks. 
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.
 This device, OS, or software is not compatible with Pokémon GO<a href="unauthorized_device_help_center_link">Visit the Help Center </a> for more information."

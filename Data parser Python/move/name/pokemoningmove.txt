@@ -255,3 +255,5 @@ Muddy Water
 Blaze Kick
 Razor Shell
 Power-Up Punch
+Frustration
+Return

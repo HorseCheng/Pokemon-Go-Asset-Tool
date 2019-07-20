@@ -135,5 +135,6 @@ Skull Bash
 Acid Spray
 Earth Power
 Leaf Tornado
+Muddy Water
 Blaze Kick
 Power-Up Punch
