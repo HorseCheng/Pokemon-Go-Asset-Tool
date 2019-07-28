@@ -59,9 +59,17 @@ message PokemonSettings {
 	repeated float combat_player_focus_camera_angle = 43;
 	repeated float combat_player_pokemon_position_offset = 44;
 	repeated .POGOProtos.Settings.Master.Pokemon.AnimationOverride photobomb_animation_overrides = 45;
+	ShadowAttributes shadow = 46;
 
 	message PokemonThirdMoveAttributes {
 		int32 stardust_to_unlock = 1;
 		int32 candy_to_unlock = 2;
+	}
+
+	message ShadowAttributes {
+		uint32 purification_stardust_needed = 1;
+		uint32 purification_candy_needed = 2;
+		.POGOProtos.Enums.PokemonMove purified_charge_move = 3;
+		.POGOProtos.Enums.PokemonMove shadow_charge_move = 4;
 	}
 }

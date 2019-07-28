@@ -11,4 +11,5 @@ message DownloadRemoteConfigVersionMessage {
 	string locale = 4;
 	uint32 app_version = 5;
 	.POGOProtos.Enums.Store store = 6;
+	string carrier = 7;
 }

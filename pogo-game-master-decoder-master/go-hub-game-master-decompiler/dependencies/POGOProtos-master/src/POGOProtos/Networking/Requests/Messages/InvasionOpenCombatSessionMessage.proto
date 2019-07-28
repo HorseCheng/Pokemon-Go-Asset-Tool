@@ -1,0 +1,10 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+import "POGOProtos/Data/IncidentLookup.proto";
+
+message InvasionOpenCombatSessionMessage {
+	.POGOProtos.Data.IncidentLookup incident_lookup = 1;
+	int32 step = 2;
+	repeated uint64 attacking_pokemon_id = 3;
+}

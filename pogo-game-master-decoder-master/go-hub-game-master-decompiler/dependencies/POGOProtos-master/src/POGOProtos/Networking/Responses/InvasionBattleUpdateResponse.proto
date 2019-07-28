@@ -1,0 +1,10 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+import "POGOProtos/Data/InvasionStatus.proto";
+import "POGOProtos/Inventory/Loot.proto";
+
+message InvasionBattleUpdateResponse {
+	.POGOProtos.Data.InvasionStatus.Status status = 1;
+	.POGOProtos.Inventory.Loot rewards = 2;
+}

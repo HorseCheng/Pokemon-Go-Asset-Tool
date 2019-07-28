@@ -10,4 +10,5 @@ enum EncounterType {
 	QUEST_STAMP_CARD = 5;
 	CHALLENGE_QUEST = 6;
 	PHOTOBOMB = 7;
+	INVASION = 8;
 }

@@ -38,6 +38,8 @@ noww=0
 for i in range(0,len(move[1])):
     #if(move[1][i]==303):move[2].append('酸液炸彈') #sometimes APK file still don't have the new move name
     if(move[1][i]==320):move[2].append('撒嬌');continue
+    if(move[1][i]==323):move[2].append('報恩');continue
+
     for e in range(noww,len(chi)):
         if('move_reroll_confirm_desc' in chi[i]):break
         if("move_name_" in chi[e] and str(move[1][i]) in chi[e]):

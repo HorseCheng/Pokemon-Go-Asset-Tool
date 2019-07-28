@@ -1,0 +1,8 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+import "POGOProtos/Data/InvasionStatus.proto";
+
+message InvasionCompleteDialogueResponse {
+	.POGOProtos.Data.InvasionStatus.Status status = 1;
+}

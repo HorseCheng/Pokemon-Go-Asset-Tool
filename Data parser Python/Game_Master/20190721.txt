@@ -9075,7 +9075,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_00_EARLYACCESS"
   badge_settings {
-    badge_type: 5022
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_00_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9084,7 +9084,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_00_GENERAL"
   badge_settings {
-    badge_type: 5021
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_00_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9093,7 +9093,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_01_EARLYACCESS"
   badge_settings {
-    badge_type: 5024
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_01_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9102,7 +9102,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_01_GENERAL"
   badge_settings {
-    badge_type: 5023
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_01_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9111,7 +9111,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_02_EARLYACCESS"
   badge_settings {
-    badge_type: 5026
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_02_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9120,7 +9120,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_02_GENERAL"
   badge_settings {
-    badge_type: 5025
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_02_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9129,7 +9129,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_03_EARLYACCESS"
   badge_settings {
-    badge_type: 5028
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_03_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9138,7 +9138,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_03_GENERAL"
   badge_settings {
-    badge_type: 5027
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_03_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9147,7 +9147,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_04_EARLYACCESS"
   badge_settings {
-    badge_type: 5030
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_04_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9156,7 +9156,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GOFEST_2019_EMEA_DAY_04_GENERAL"
   badge_settings {
-    badge_type: 5029
+    badge_type: BADGE_GOFEST_2019_EMEA_DAY_04_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9858,164 +9858,164 @@ item_templates {
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_BUG"
-  51 {
-    1: 7
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_BUG
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_DARK"
-  51 {
-    1: 17
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_DARK
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_DRAGON"
-  51 {
-    1: 16
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_DRAGON
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_ELECTRIC"
-  51 {
-    1: 13
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_ELECTRIC
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_FAIRY"
-  51 {
-    1: 18
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_FAIRY
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_FIGHTING"
-  51 {
-    1: 2
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_FIGHTING
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_FIRE"
-  51 {
-    1: 10
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_FIRE
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_FLYING"
-  51 {
-    1: 3
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_FLYING
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_GHOST"
-  51 {
-    1: 8
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_GHOST
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_GRASS"
-  51 {
-    1: 12
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_GRASS
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_GROUND"
-  51 {
-    1: 5
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_GROUND
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_ICE"
-  51 {
-    1: 15
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_ICE
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_NORMAL"
-  51 {
-    1: 1
-    2: 0x3e99999a
-    3: 0x3f19999a
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_NORMAL
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.6
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_POISON"
-  51 {
-    1: 4
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_POISON
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_PSYCHIC"
-  51 {
-    1: 14
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_PSYCHIC
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_ROCK"
-  51 {
-    1: 6
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_ROCK
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_STEEL"
-  51 {
-    1: 9
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_STEEL
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
   template_id: "COMBAT_POKEMON_TYPE_WATER"
-  51 {
-    1: 11
-    2: 0x3e99999a
-    3: 0x3f333333
-    4: 0x3f733333
+  combat_type {
+    type: POKEMON_TYPE_WATER
+    nice_level_threshold: 0.3
+    great_level_threshold: 0.7
+    excellent_level_threshold: 0.95
   }
 }
 item_templates {
@@ -10035,10 +10035,10 @@ item_templates {
     change_pokemon_duration_seconds: 12
     minigame_submit_score_duration_seconds: 10
     quick_swap_cooldown_duration_seconds: 60
-    18: 0x3e800000
-    19: 0x3f000000
-    20: 0x3f400000
-    21: 0x3f800000
+    charge_score_base: 0.25
+    charge_score_nice: 0.5
+    charge_score_great: 0.75
+    charge_score_excellent: 1
   }
 }
 item_templates {
@@ -17110,10 +17110,10 @@ item_templates {
     stardust_cost: 9000
     stardust_cost: 10000
     stardust_cost: 10000
-    5: 0x40400000
-    6: 0x40400000
-    7: 0x3f666666
-    8: 0x3f666666
+    shadow_stardust_multiplier: 3
+    shadow_candy_multiplier: 3
+    purified_stardust_multiplier: 0.9
+    purified_candy_multiplier: 0.9
   }
 }
 item_templates {

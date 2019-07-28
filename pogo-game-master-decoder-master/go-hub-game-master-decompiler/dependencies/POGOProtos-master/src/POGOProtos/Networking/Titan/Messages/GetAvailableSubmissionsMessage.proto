@@ -1,0 +1,8 @@
+syntax = "proto3";
+package POGOProtos.Networking.Titan.Messages;
+
+import "POGOProtos/Enums/PlayerSubmissionType.proto";
+
+message GetAvailableSubmissionsMessage {
+	.POGOProtos.Enums.PlayerSubmissionType submission_type = 1;
+}

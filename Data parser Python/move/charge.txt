@@ -138,3 +138,5 @@ Leaf Tornado
 Muddy Water
 Blaze Kick
 Power-Up Punch
+Frustration
+Return

@@ -56,4 +56,5 @@ message PokemonData {
 	.POGOProtos.Enums.PokemonMove move_3 = 47;
 	.POGOProtos.Data.Combat.PokemonCombatStats pvp_combat_stats = 48;
 	.POGOProtos.Data.Combat.PokemonCombatStats npc_combat_stats = 49;
+	bool move2_is_purified_exclusive = 50;
 }

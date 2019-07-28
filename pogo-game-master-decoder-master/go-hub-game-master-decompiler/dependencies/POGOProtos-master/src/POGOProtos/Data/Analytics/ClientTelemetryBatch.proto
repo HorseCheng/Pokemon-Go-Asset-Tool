@@ -13,5 +13,6 @@ message ClientTelemetryBatch {
 		UNSET = 0;
 		DITTO = 1;
 		GAME = 2;
+		TITAN = 3;
 	}
 }

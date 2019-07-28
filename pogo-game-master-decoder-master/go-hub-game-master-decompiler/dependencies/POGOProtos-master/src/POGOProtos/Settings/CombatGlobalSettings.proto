@@ -15,4 +15,5 @@ message CombatGlobalSettings {
 	bool enable_sockets = 11;
 	bool enable_spin_minigame = 12;
 	bool enable_quick_swap_v2 = 13;
+	bool enable_particle_minigame = 18;
 }

@@ -1,0 +1,9 @@
+syntax = "proto3";
+package POGOProtos.Enums;
+
+enum IncidentLeaderStringTypes {
+	ONBOARDING_INTRODUCTION = 0;
+	ONBOARDING_ENCOUNTER = 1;
+	ONBOARDING_SHADOW = 2;
+	INSPIRE = 3;
+}

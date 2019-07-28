@@ -12,4 +12,11 @@ message PokemonDisplay {
 	bool shiny = 3;
 	.POGOProtos.Enums.Form form = 4;
 	.POGOProtos.Enums.WeatherCondition weather_boosted_condition = 5;
+	Alignment alignment = 6;
+
+	enum Alignment {
+		ALIGNMENT_UNSET = 0;
+		SHADOW = 1;
+		PURIFIED = 2;
+	}
 }

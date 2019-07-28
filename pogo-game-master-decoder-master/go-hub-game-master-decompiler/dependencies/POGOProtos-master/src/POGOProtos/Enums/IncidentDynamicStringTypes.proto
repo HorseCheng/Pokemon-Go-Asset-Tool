@@ -1,0 +1,17 @@
+syntax = "proto3";
+package POGOProtos.Enums;
+
+enum IncidentDynamicStringTypes {
+	GREETING = 0;
+	CHALLENGE = 1;
+	DEFEAT = 2;
+	VICTORY = 3;
+	PRE_BATTLE = 4;
+	POST_BATTLE = 5;
+	ITEMS_STOLEN = 6;
+	TUTORIAL = 7;
+	GRUNT_QUOTE = 8;
+	CANDELA_INSPIRE = 9;
+	BLANCHE_INSPIRE = 10;
+	SPARK_INSPIRE = 11;
+}

@@ -154,6 +154,12 @@ enum RequestType {
 	CHANGE_TEAM = 1106;                         // Implemented
 	GET_WEB_TOKEN = 1107;                       // Implemented
 	COMPLETE_SNAPSHOT_SESSION = 1110;           // Implemented
+	START_INCIDENT = 1200;                      // Implemented
+	INVASION_COMPLETE_DIALOGUE = 1201;          // Implemented
+	INVASION_OPEN_COMBAT_SESSION = 1202;        // Implemented
+	INVASION_BATTLE_UPDATE = 1203;              // Implemented
+	INVASION_ENCOUNTER = 1204;                  // Implemented
+	PURIFY_POKEMON = 1205;                      // Implemented
 	REGISTER_PUSH_NOTIFICATION = 5000;          // Implemented
 	UNREGISTER_PUSH_NOTIFICATION = 5001;        // ???
 	UPDATE_NOTIFICATION_STATUS = 5002;          // Implemented

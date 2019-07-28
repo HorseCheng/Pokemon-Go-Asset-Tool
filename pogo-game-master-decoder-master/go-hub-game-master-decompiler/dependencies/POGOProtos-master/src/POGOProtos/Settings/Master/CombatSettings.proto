@@ -19,6 +19,10 @@ message CombatSettings {
 	float quick_swap_cooldown_duration_seconds = 15;
 	CombatOffensiveInputChallengeSettings offensive_input_challenge_settings = 16;
 	CombatDefensiveInputChallengeSettings defensive_input_challenge_settings = 17;
+	float charge_score_base = 18;
+	float charge_score_nice = 19;
+	float charge_score_great = 20;
+	float charge_score_excellent = 21;
 
 	message CombatOffensiveInputChallengeSettings {
 		float score_per_tap = 1;
