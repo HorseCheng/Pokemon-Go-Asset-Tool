@@ -1,0 +1,2 @@
+python automation.py
+pause
