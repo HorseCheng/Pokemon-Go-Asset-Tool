@@ -1,0 +1,13 @@
+syntax = "proto3";
+package POGOProtos.Settings.Master.Buddy;
+
+message BuddyDecaySettings {
+	int64 decay_trigger_ms = 1;
+	int64 decay_frequency_ms = 2;
+	int32 decay_points_per_day = 3;
+
+	oneof DecayType {
+	    int32 max_level_decay_drop = 4;
+	    int32 max_points_decay_drop = 5;
+	}
+}

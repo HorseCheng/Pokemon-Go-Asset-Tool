@@ -1,0 +1,10 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+import "POGOProtos/Data/Combat/Combat.proto";
+import "POGOProtos/Enums/InvasionStatus.proto";
+
+message OpenInvasionCombatSessionResponse {
+	.POGOProtos.Enums.InvasionStatus status = 1;
+	.POGOProtos.Data.Combat.Combat combat = 2;
+}

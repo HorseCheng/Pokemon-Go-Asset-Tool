@@ -35,9 +35,11 @@ import "POGOProtos/Settings/PokemonGlobalSettings.proto";
 import "POGOProtos/Settings/ArPhotoGlobalSettings.proto";
 import "POGOProtos/Settings/AvatarGlobalSettings.proto";
 import "POGOProtos/Settings/EvolutionV2Settings.proto";
+import "POGOProtos/Settings/IncidentGlobalSettings.proto";
 import "POGOProtos/Settings/KoalaSettings.proto";
 import "POGOProtos/Settings/KangarooSettings.proto";
-import "POGOProtos/Settings/IncidentGlobalSettings.proto";
+import "POGOProtos/Settings/RouteGlobalSettings.proto";
+import "POGOProtos/Settings/BuddyGlobalSettings.proto";
 
 message GlobalSettings {
 	.POGOProtos.Settings.FortSettings fort_settings = 2;
@@ -80,4 +82,6 @@ message GlobalSettings {
 	.POGOProtos.Settings.IncidentGlobalSettings incident_settings = 39;
 	.POGOProtos.Settings.KoalaSettings koala_settings = 40;
 	.POGOProtos.Settings.KangarooSettings kangaroo_settings = 41;
+	.POGOProtos.Settings.RouteGlobalSettings route_settings = 42;
+	.POGOProtos.Settings.BuddyGlobalSettings buddy_settings = 43;
 }

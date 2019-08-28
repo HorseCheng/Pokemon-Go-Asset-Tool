@@ -2,10 +2,14 @@ syntax = "proto3";
 package POGOProtos.Networking.Responses;
 
 import "POGOProtos/Data/BuddyPokemon.proto";
+import "POGOProtos/Data/Buddy/BuddyStats.proto";
 
 message SetBuddyPokemonResponse {
 	Result result = 1;
 	.POGOProtos.Data.BuddyPokemon updated_buddy = 2;
+	int32 current_points_earned = 3;
+	.POGOProtos.Data.Buddy.BuddyStats today_stats = 4;
+	.POGOProtos.Data.Buddy.BuddyStats total_stats = 5;
 
 	enum Result {
 		UNEST = 0;
@@ -14,5 +18,6 @@ message SetBuddyPokemonResponse {
 		ERROR_POKEMON_NOT_OWNED = 3;
 		ERROR_POKEMON_IS_EGG = 4;
 		ERROR_INVALID_POKEMON = 5;
+		ERROR_BUDDY_SWAP_LIMIT_EXCEEDED = 6;
 	}
 }

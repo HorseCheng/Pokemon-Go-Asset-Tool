@@ -1,0 +1,20 @@
+syntax = "proto3";
+package POGOProtos.Settings.Master;
+
+message RoutesCreationSettings {
+	int32 max_open_routes = 1;
+	int32 min_stops_amount = 2;
+	int32 max_stops_amount = 3;
+	float min_total_distance_m = 4;
+	float max_total_distance_m = 5;
+	float min_distance_between_stops_m = 6;
+	float max_distance_between_stops_m = 7;
+	int32 max_total_checkpoint_amount = 8;
+	int32 max_checkpoint_amount_between_two_poi = 9;
+	float min_distance_between_checkpoints_m = 10;
+	float max_distance_between_checkpoints_m = 11;
+	float allow_checkpoint_per_route_distance = 12;
+	float checkpoint_recommendation_distance_between_pois = 13;
+	int32 max_name_length = 14;
+	int32 max_description_length = 15;
+}

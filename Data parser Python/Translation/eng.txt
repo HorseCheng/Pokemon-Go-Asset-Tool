@@ -27,6 +27,7 @@ Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
 Success! Check out your progress anytime in your Trainer profile.
 Adventure Sync enabled!
 Enable Adventure Sync
+Enable Adventure Sync in Settings for more rewards!
 Please enter your date of birth.
 Alola Form
 Do you want to exit Pokémon GO?
@@ -212,6 +213,7 @@ Power-Up Knit Cap
 Magikarp Hat
 Meltan Cap
 Meltan Earrings
+Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
 Pikachu Cap
@@ -220,6 +222,7 @@ Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
 Ruin Maniac Hat
+Red-Ribboned Straw Hat
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -237,6 +240,7 @@ Sprint Suit
 LeafGreen Skirt
 Gym Leader Skirt
 Johto Pants
+Mewtwo Pants
 Striped Skirt
 Turbine Skirt
 Wave Skirt
@@ -275,6 +279,7 @@ Ingress Prime / Blue
 Latias & Latios Shirt
 Meltan Pullover
 Mew Shirt
+Mewtwo Top
 Misty Top
 Pikachu Fan Shirt
 Ruin Maniac Outfit
@@ -306,6 +311,7 @@ No Footwear
 LeafGreen Shoes
 Gym Leader Shoes
 Johto Shoes
+Mewtwo Shoes
 Misty Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
@@ -373,6 +379,7 @@ Johto Cap
 Jogger Visor
 Magikarp Hat
 Meltan Cap
+Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
 Pikachu Cap
@@ -381,6 +388,7 @@ Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
 Ruin Maniac Hat
+Red-Ribboned Straw Hat
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -397,6 +405,7 @@ FireRed Pants
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
+Mewtwo Pants
 Pikachu Fan Shorts
 Skinny Jeans
 Active Sweatpants
@@ -437,9 +446,10 @@ Charizard Pullover
 Pikachu Pullover
 Meltan Pullover
 Mew Shirt
+Mewtwo Top
 Pikachu Fan Shirt
 Ruin Maniac Outfit
-Spiritomb T-Shirt
+Spiritomb T-shirt
 Sports Hoodie
 Streak Hoodie
 Team Aqua Top
@@ -467,6 +477,7 @@ FireRed Shoes
 Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
+Mewtwo Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
 Team Aqua Boots
@@ -672,6 +683,8 @@ N0
 Register {0} Pokémon first discovered in the Sinnoh region to the Pokédex.
 Sinnoh
 N0
+Register {0} Pokémon first discovered in the Unova region to the Pokédex.
+Unova
 Kanto
 Unknown
 N0
@@ -866,7 +879,7 @@ Sending Pokémon...
 Send Pokémon to Nintendo Switch to activate your Mystery Box when the above counts down to zero.
 Days remaining to Mystery Box access
 Mystery Box is now available!
-Open the Mystery Box in your Bag for a mysterious effect.
+Open the Mystery Box in your Item Bag for a mysterious effect.
 Open
 MYSTERY BOX
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
@@ -926,9 +939,13 @@ You have a lot of fight in you, Trainer!
 I can feel your passion!
 Put your heart into it!
 What an epic battle!
+The Frustration Charged Attack can’t be replaced by a Charged TM.
 Can't sign in?
 Catch a Pokémon
+Battle a team leader {0} times
 Battle another Trainer
+Win against another Trainer {0} times
+Take a snapshot of Loudred
 Take {0} snapshots of Jirachi
 Take a snapshot of Ralts in its GO Fest habitat
 Take a snapshot of Ralts in the Fairy Garden
@@ -950,13 +967,21 @@ Take a snapshot of Meditite in its GO Fest habitat
 Take a snapshot of Meditite in the Mysterious Woods
 Take a snapshot of Magnemite in its GO Fest habitat
 Take a snapshot of Magnemite at the Steel Factory
+Take a snapshot of Snorunt in the Snowy habitat
+Take a snapshot of Poliwag in the Ocean habitat
+Take a snapshot of Lotad in the Ocean habitat
+Take a snapshot of Swablu in the Cloudy Sky habitat
+Take a snapshot of Taillow in the Cloudy Sky habitat
 Take {0} snapshots of Fairy-type Pokémon
+Take {0} snapshots of Flying-type Pokémon
 Take {0} snapshots of Ghost-type Pokémon
 Take {0} snapshots of Grass-type Pokémon
 Take {0} snapshots of Ground-type Pokémon
 Take {0} snapshots of Ice-type Pokémon
 Take a snapshot of Horsea in its GO Fest habitat
+Take {0} snapshots of Normal-type Pokémon
 Take {0} snapshots of Psychic-type Pokémon
+Take {0} snapshots of Psychic- or Steel-type Pokémon
 Take {0} snapshots of Steel-type Pokémon
 Take {0} snapshots of Water-type Pokémon
 Trade for 3 Pokémon from at least 100 km away
@@ -968,6 +993,7 @@ Take a snapshot of Eevee
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
+Charged TMs can’t be used on Shadow Pokémon.
 Pokémon GO Fest
 That's already your name!
 <size=36><b>Are you sure you want to be called {0}?</b></size
@@ -976,7 +1002,7 @@ You're now known as {0}.
 Chance
 Blocked!
 Tap quickly to charge your Pokémon’s attack!
-Your Bag is full. You won’t receive rewards for this match.
+Your Item Bag is full. You won’t receive item rewards for this match.
 BATTLE
 Blanche
 My analysis shows that you’re a force to be reckoned with. But can you match my techniques?
@@ -1300,7 +1326,7 @@ An error occurred during the presentation of the raid.
 You've sent all the Friend Requests you can right now.
 No groups found with that code.
 You have no Gifts in your inventory. Visit a PokéStop to look for them!
-Please make space or upgrade your item Bag before opening the Gift.
+Please make space or upgrade your Item Bag before opening the Gift.
 Daily limit reached. Come back tomorrow to open more Gifts.
 You're already friends with this Trainer.
 Invalid Trainer Code; Trainer not found.
@@ -1385,6 +1411,9 @@ eggsonly
 costume
 defender
 item
+Female
+Male
+Genderunknown
 hatched
 legendary
 lucky
@@ -1464,7 +1493,7 @@ Trash Cloak
 Wash Rotom
 West Sea
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have oneIf you want to participate in more than one raid per day, you may buy raid passes from the store."
-Your Bag is full. You'll need to make room to hold a Raid Pass.
+Your Item Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
 Trainer Code
 {0} ({1})
@@ -1840,7 +1869,9 @@ Invalid Team GO Rocket battle update.
 Invalid Pokémon selected for battle.
 Team GO Rocket battle not complete.
 Team GO Rocket battle already complete.
+Your collection is full.
 Team GO Rocket battle not found.
+Walk closer to interact with this PokéStop.
 Rescue Pokémon
 Unknown Team GO Rocket battle error.
 {0} people sent you Friend Requests.
@@ -1909,7 +1940,7 @@ A device that incubates an Egg as you walk until it's ready to hatch. Unlimited 
 Egg Incubator ∞
 A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 Super Incubator
-Increases the size of your Bag.
+Increases the size of your Item Bag.
 Item Pack
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
@@ -1980,7 +2011,7 @@ X Defense
 UNDEFINED
 UNDEFINED
 Increases the max number of items you can carry by {0}.
-Bag Upgrade
+Item Bag
 Received {0} reward(s) for GO Park transfers.
 You declined an invitation from {0}.
 Received {0} items from Weekly Adventure Sync Rewards.
@@ -1990,6 +2021,7 @@ Shadow {0} was caught!
 Shadow {0} ran away.
 Shadow {0} was purified!
 You invited {0} to an EX Raid.
+Be courteous to others and respectful of your real-world surroundings!
 Items Unlocked
 Level up!
 Unable to link to this account.
@@ -2355,8 +2387,12 @@ Muddy Water
 Blaze Kick
 Razor Shell
 Power-Up Punch
+Charm
+Giga Impact
 Frustration
 Return
+Synchronoise
+Lock-On
 {0} will forget {1}.
 {0} learned a new attack!
 Clear
@@ -3672,6 +3708,7 @@ Evolve
 Walk {0} more km with this buddy.
 Need more {0} Candies.
 Need a special item.
+{0} is needed to evolve.
 Need more Stardust.
 {0} is assigned to a Gym.
 GO TO GYM
@@ -3692,7 +3729,7 @@ Need more Stardust.
 Trainer level is too low to power up.
 {0} is assigned to a Gym.
 POWER UP
-Do you want to purify {0}It will gain a significant amount of CP, cost less to power up, and learn the exclusive Charged Attack Return!"
+Do you want to purify {0}
 Failed to purify {0}.
 Purify
 Assigned
@@ -4237,7 +4274,7 @@ Failed to remove Pokémon from your favorites.
 {0} was victorious in battle!
 {0} has triumphed over your opponents!
 Increases the max number of Pokémon you can carry by {0}.
-Pokémon Storage Upgrade
+Pokémon Storage
 MY POKÉDEX
 NEARBY
 MANUAL INPUT
@@ -4253,12 +4290,12 @@ Empty module slot
 PokéStop will close soon.  No modules can be added.
 You're out of range of the PokéStop.
 PokéStop Module
-Your Bag is full.
-Your Bag is full, or you're out of range of the check-in location.
+Your Item Bag is full.
+Your Item Bag is full, or you're out of range of the check-in location.
 Try again later.
 Collect more PokéStop modules!
 Walk closer to interact with this PokéStop.
-Your Bag is full. You can buy more space for items in the shop.
+Your Item Bag is full. You can buy more space for items in the shop.
 This PokéStop is currently closed.
 This PokéStop is closing soon.
 Privacy Policy
@@ -4286,7 +4323,7 @@ Enter your promo code
 Success!
 PROMOS
 REDEEM
-Don't have a Pokémon Trainer Club account?
+No Pokémon Trainer Club account?
 Unable to authenticate. Please try again.
 Please activate your account in order to play Pokémon GO.
 Forgot your password?
@@ -4337,6 +4374,7 @@ Use {0} Berries to help catch Pokémon
 Use a Berry to help catch a Pokémon
 Catch {0} Pokémon
 Catch a Pokémon
+Catch {0} Psychic- or Steel-type Pokémon
 Catch {0} Ditto
 Catch a Ditto
 Catch {0} Plusle
@@ -4360,8 +4398,10 @@ Catch {0} Swinub
 Catch {0} Treecko
 Catch {0} Bagon
 Catch {0} Torchic
+Catch {0} Mudkip
 Catch {0} Swablu
 Catch a Swablu
+Catch {0} Turtwig
 Catch {0} Pidgey or Murkrow
 Catch a Pidgey or Murkrow
 Catch {0} Treecko or Mudkip
@@ -4381,6 +4421,7 @@ Catch Mew!
 Catch {0} Omanyte or Kabuto
 Catch {0} Slugma or Gulpin
 Catch {0} Bug-type Pokémon
+Catch {0} different species of Bug-type Pokémon
 Catch a Bug-type Pokémon
 Catch {0} Dark-type Pokémon
 Catch a Dark-type Pokémon
@@ -4396,6 +4437,7 @@ Catch a Fighting-type Pokémon
 Catch {0} Fire-type Pokémon
 Catch a Fire-type Pokémon
 Catch {0} Flying-type Pokémon
+Catch {0} different species of Flying-type Pokémon
 Catch a Flying-type Pokémon
 Catch {0} Ghost-type Pokémon
 Catch {0} different species of Ghost-type Pokémon
@@ -4410,6 +4452,7 @@ Catch {0} Ice-type Pokémon
 Catch {0} different species of Ice-type Pokémon
 Catch an Ice-type Pokémon
 Catch {0} Normal-type Pokémon
+Catch {0} different species of Normal-type Pokémon
 Catch a Normal-type Pokémon
 Catch {0} Poison-type Pokémon
 Catch a Poison-type Pokémon
@@ -4434,9 +4477,11 @@ Catch {0} Flying-, Psychic-, or Dragon-type Pokémon
 Catch a Flying-, Psychic-, or Dragon-type Pokémon
 Catch {0} Pokémon with Weather Boost
 Catch a Pokémon with Weather Boost
+Catch {0} Whismur
 A Ripple in Time
 Let’s GO, Meltan
 A Mythical Discovery
+A Troubling Situation
 A Spooky Message
 Daily Bonus
 Welcome to GO Fest 2019, %PLAYERNAME%! I’m glad you’re here.
@@ -4461,6 +4506,37 @@ The ancient text was right—this Mythical Pokémon could only be awakened from 
 Now that we’ve done the work of waking Jirachi up, I wonder what you and your fellow Trainers will wish for. I already know what my wish is going to be—I want you to enjoy this amazing experience!
 It isn’t every day that you get to join Trainers from all over the world in exploring a park with so many Pokémon in such diverse habitats—not to mention meeting a Mythical Pokémon!
 I’m sure Jirachi was far from the last amazing discovery to be made, though. I’ll no doubt be calling on your excellent research skills again in the future!
+Nice to see you again, %PLAYERNAME%! I’m excited to get started on our next big adventure. 
+What do we need to do? Well, I’ve come across something amazing, and I need your help.
+We’re going to focus our efforts on Pokémon originally discovered in the Hoenn region, because I have some leads on a Pokémon I’ve never seen before! 
+First, we need to get some baseline research to help track this Pokémon. 
+Can you explore the area? Who knows—you might make some friends along the way.
+Great job, Trainer. Your work helped me get a better understanding of the search area for this mysterious Pokémon. I can’t wait to show you what I’ve been working on.
+A few weeks ago, I came across an ancient text that was found in the Hoenn region. It was filled with fascinating information. 
+It mentions a Mythical Pokémon that awakens once every thousand years and has the ability to grant wishes! 
+I really want to get a deeper understanding of this text, and how better to do that than with some research? Can you help me collect some information on Pokémon from the Hoenn region?
+Thanks for your help, %PLAYERNAME%. Your Hoenn Pokédex is really looking great!
+The Whismur you caught reminded me of a line from the text I told you about. It mentioned that a melody or a sound can awaken a sleeping Pokémon.
+That gives me an idea... Let’s do a little experiment. There’s a sleeping Snorlax that hasn’t left my lab in months. And it’s right in front of my Berry stash!
+Think we could wake it up with a loud noise? Let’s document the Whismur Evolution line, too—some photos will do.
+Wow! That sure was loud, but it did the trick! Loudred worked just like an alarm clock for poor Snorlax.
+I should make up for the rude awakening with some Berries... Well, we’ve learned something important here, and I think this method could work to awaken even the deepest of sleepers. 
+If my calculations are correct, the wish-granting Mythical Pokémon might be ready to awaken soon, and we should be prepared to do the waking! 
+The text says that the Pokémon is a Steel and Psychic type, so I think a good next step is to catch a few Pokémon with similar characteristics.
+We’ll need a few extra hands to get this done, too. Could you get some fellow Trainers to help out?
+Good work, %PLAYERNAME%. With the help of your research, I’ve been able to decipher more of this ancient text. 
+It says that when the Mythical Pokémon awakens, it will grant any wishes written on notes attached to its head. 
+Another interesting tidbit: If this Pokémon senses danger, it will fight without awakening. Up for a Trainer Battle, %PLAYERNAME%? 
+If the battle causes any reactions nearby, I have sensors set up to detect them. It might seem like a long shot, but I have a good feeling about this!
+It worked! I’m picking up some vibrations nearby. I think we’re on the right track.
+Maybe the Mythical Pokémon is close to awakening. Since what we’re doing is working, let’s keep it up.
+We need to pull out all the stops, though, and the timing has to be just right.
+I’ll hold things down here with Loudred while you keep focusing on encountering Steel- and Psychic-type Pokémon. 
+If you can do that, I think it’ll help the Mythical Pokémon see that you’re a worthy Trainer!
+Simply astonishing! We encountered the Steel- and Psychic-type Pokémon Jirachi!
+That was a once-in-a-lifetime experience. Well, once in several lifetimes, if Jirachi truly only wakes once every thousand years.
+You’ve become such an accomplished Trainer, %PLAYERNAME%. Thank you for going on this amazing adventure with me.
+You can bet I’ll be in touch whenever another exciting research project comes up. Until then, let’s get out there and GO!
 Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
@@ -4480,6 +4556,7 @@ Evolve {0} Pidgey
 Evolve a Horsea
 Evolve a Meowth
 Evolve a Drowzee
+Evolve a Feebas
 Evolve a Grimer
 Evolve a Magnemite
 Evolve a Scyther
@@ -4574,6 +4651,7 @@ Power up a Pokémon
 Catch {0} Abra or Drowzee
 Catch {0} Psychic-type Pokémon
 Evolve {0} Exeggcute or Slowpoke
+Earn a gold Hoenn medal
 Earn a Gold Johto medal
 Earn a gold Kanto medal
 Earn a silver Kanto medal
@@ -4587,6 +4665,7 @@ You must be in AR mode to catch this Pokémon.
 A mysterious Pokémon has appeared!
 Start Encounter
 Battle {0} Team GO Rocket Grunts
+Defeat {0} Team GO Rocket Grunts
 Defeat a Team GO Rocket Grunt
 Evolve {0} Pokémon 
 Power up Pokémon {0} times
@@ -4802,7 +4881,7 @@ Let’s commemorate this moment! Why don’t you take a snapshot and celebrate w
 Wow, a wild Lapras sought you out?
 Looks like you’re going to do great this summer!
 They say Trainers and Pokémon are most powerful when they band together.
-Good luck!  It’s time to GO!
+Good luck! It’s time to GO!
 Jump-Start Research
 Jump-Start Research (1/6)
 Jump-Start Research (2/6)
@@ -4836,7 +4915,16 @@ GO Fest 2019—Dortmund (2/5)
 GO Fest 2019—Dortmund (3/5)
 GO Fest 2019—Dortmund (4/5)
 GO Fest 2019—Dortmund (5/5)
+A Thousand-Year Slumber
+A Thousand-Year Slumber (1/7)
+A Thousand-Year Slumber (2/7)
+A Thousand-Year Slumber (3/7)
+A Thousand-Year Slumber (4/7)
+A Thousand-Year Slumber (5/7)
+A Thousand-Year Slumber (6/7)
+A Thousand-Year Slumber (7/7)
 GO Fest 2019—Chicago
+GO Fest 2019—Yokohama
 GO Fest 2019—Yokohama (1/5)
 GO Fest 2019—Yokohama (2/5)
 GO Fest 2019—Yokohama (3/5)
@@ -5189,9 +5277,9 @@ Exchange
 Exchange
  
 Your {0} is fully upgraded!
-Your Bag is full!
+Your Item Bag is full!
 Go to Upgrades
-Visit the shop to expand your Bag.
+Visit the shop to expand your Item Bag.
 Limited time only!
 You need more PokéCoins!
 Get {0}
@@ -5291,7 +5379,7 @@ Cannot learn any other attacks!
 Today
 Trade
 Traded {0} for {1} with {2}.
-All Pokémon except Mythical
+All Pokémon except Shadow and Mythical
 Overall, this {0} is a wonder! What a breathtaking Pokémon!
 Overall, this {0} simply amazes me. It can accomplish anything!
 Overall, this {0} looks like it can really battle with the best of them!
@@ -5319,7 +5407,7 @@ Trading cooldown: {0} remaining
 Couldn't find {0} to trade with.
 {0} has reached the daily trading limit for today.
 Error fetching trade status
-One of these Pokémon cannot be traded.
+One of these Pokémon can’t be traded.
 You must be at least level {0} to trade.
 You don't have enough Stardust to trade with {0} right now.
 This trade with {0} has expired.
@@ -5330,18 +5418,18 @@ This trading session has expired.
 Trading service temporarily unavailable. Try again later.
 This Pokémon is a favorite Pokémon.
 This Pokémon is your Buddy Pokémon.
-This Pokémon can't be traded due to an error.
-Eggs can't be traded.
-Your friend doesn't have enough Stardust.
-Your Friendship level with this friend isn't high enough to complete this trade.
+This Pokémon can’t be traded due to an error.
+Eggs can’t be traded.
+Your friend doesn’t have enough Stardust.
+Your Friendship level with this friend isn’t high enough to complete this trade.
 Your friend has already made a Special Trade today.
 This Pokémon is assigned to a Gym.
-Mythical Pokémon can't be traded.
-You don't have enough Stardust.
-You've already made a Special Trade today.
-This Pokémon can't be traded.
+Shadow and Mythical Pokémon can’t be traded.
+You don’t have enough Stardust.
+You’ve already made a Special Trade today.
+This Pokémon can’t be traded.
 This Pokémon is not at full health.
-This Pokémon can't be traded again.
+This Pokémon can’t be traded again.
 All Pokémon form variants
 {0} has connected!
 Waiting for {0} to select their Pokémon...
@@ -5360,7 +5448,7 @@ All Shiny Pokémon
 Legendary or Shiny Pokémon in Pokédex
 You can only trade with friends who are nearby.
 Special Trades can only occur once a day, unless you’re at certain special events.
-You can't trade a Pokémon that has been traded previously.
+You can’t trade a Pokémon that has been traded previously.
 The stats of the traded Pokémon will randomly change after trading.
 You can find the trading rules using the Help button located above.
 If your friend’s Trainer level is lower than yours, the traded Pokémon’s potential CP and HP will be adjusted.
@@ -5368,10 +5456,10 @@ Pokémon not yet registered in your Pokédex require a Special Trade.
 Your Friendship level must reach Good Friend in order to complete a Special Trade.
 You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
 The amount of Stardust required for trading drastically reduces as your Friendship level increases.
-Shiny Pokémon, Legendary Pokémon, and Pokémon not currently in your Pokédex require a Special Trade.
+Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex require a Special Trade.
 Completing a Special Trade requires a large amount of Stardust.
 Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
-Mythical Pokémon can't be traded.
+Shadow and Mythical Pokémon can’t be traded.
 Please cancel your confirmation first.
 Please wait for your friend to connect.
 Candy Bonuses
@@ -5379,7 +5467,7 @@ You need to be within 100 meters of a friend to start a trade. You can earn a bo
 Trading with Friends
 You can trade with a friend only when you're near each other.
 Special Trades
-Legendary Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
+Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
 Trade with Stardust
 The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
 Pokémon CP and HP in Trade
@@ -5488,6 +5576,14 @@ They're found at interesting places like sculptures and monuments.
 From now on, you'll be off exploring all over the world. I hope you get out there and catch Pokémon—and register them in your Pokédex!
 It's time to GO!
 For more information, visit the Help Center.
+Water Festival: Earn a Candy walking with your buddy
+Water Festival: Catch {0} Water-type Pokémon
+Water Festival: Catch {0} Water-type Pokémon
+Water Festival: Evolve {0} Carvanha or Barboach
+Water Festival: Hatch {0} Eggs
+Water Festival: Win {0} raids
+Water Festival: Defeat a Team GO Rocket Grunt
+Water Festival: Take {0} snapshots of Water-type Pokémon
 I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!

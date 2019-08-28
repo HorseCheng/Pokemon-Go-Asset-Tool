@@ -46,7 +46,7 @@ for i in range(0,len(master)):
         checkmatrix=[0 for c in range(0,14)]
         
         #find duplicated data
-        if (num in alola) or (num in [150,386,479,493]): 
+        if (num in alola) or (num in [150,386,479,493])or(num in [1,2,3,4,5,6,7,8,9,41,42,60,61,62,88,89,96,97.104,105,123,129,130,143,147,148,149,169,186,212,228,229,258,259,260,280,281,282,475]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
         if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
@@ -113,13 +113,13 @@ okk=0
 for i in range(0,len(master)):
     if("V0001_POKEMON" in master[i] ):
         okk=okk+1
-        if(okk==3):break
+        if(okk==9):break
     x=re.search("template_id: \"SPAWN_V[0-9]+_POKEMON_",master[i])
     if x:
         num=int(re.search("[0-9]+",master[i]).group())
         
          #find duplicated data
-        if (num in alola) or (num in [386,479,493]): 
+        if (num in alola) or (num in [386,479,493])or(num in [1,2,3,4,5,6,7,8,9,41,42,60,61,62,88,89,96,97.104,105,123,129,130,143,147,148,149,169,186,212,228,229,258,259,260,280,281,282,475]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
         if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue

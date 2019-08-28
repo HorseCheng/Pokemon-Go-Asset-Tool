@@ -1,12 +1,10 @@
 syntax = "proto3";
 package POGOProtos.Data.Telemetry;
-
-import "POGOProtos/Data/EnumWrapper.proto";
-import "POGOProtos/Enums/TelemetryIds.proto";
+import "POGOProtos/Enums/InvasionCharacter.proto";
 
 message InvasionTelemetry {
-	.POGOProtos.Enums.InvasionTelemetryIds invasion_telemetry_id = 1;
-	.POGOProtos.Data.EnumWrapper.InvasionCharacter npc_id = 2;
+	InvasionTelemetryIds ar_type = 1;
+	.POGOProtos.Enums.InvasionCharacter npc_id = 2;
 	bool battle_success = 3;
 	int32 post_battle_friendly_remaining = 4;
 	int32 post_battle_enemy_remaining = 5;
@@ -14,4 +12,15 @@ message InvasionTelemetry {
 	bool encounter_success = 7;
 	string invasion_id = 8;
 	bool player_tapped_npc = 9;
+
+	enum InvasionTelemetryIds {
+		UNDEFINED_INVASION_EVENT = 0;
+		INVASION_NPC_TAP = 1;
+		INVASION_BATTLE_STARTED = 2;
+		INVASION_BATTLE_FINISHED = 3;
+		INVASION_ENCOUNTER_STARTED = 4;
+		INVASION_ENCOUNTER_FINISHED = 5;
+		INVASION_POKEMON_PURIFIED = 6;
+		INVASION_AFTER_POI_EXITED = 7;
+	}
 }

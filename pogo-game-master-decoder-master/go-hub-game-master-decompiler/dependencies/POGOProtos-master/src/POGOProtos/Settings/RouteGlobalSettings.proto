@@ -1,0 +1,7 @@
+syntax = "proto3";
+package POGOProtos.Settings;
+
+message RouteGlobalSettings {
+	bool enable_routes = 1;
+	bool enable_poi_detail_caching = 2;
+}

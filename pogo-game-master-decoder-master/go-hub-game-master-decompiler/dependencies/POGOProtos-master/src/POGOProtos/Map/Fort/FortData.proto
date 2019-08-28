@@ -11,7 +11,6 @@ import "POGOProtos/Map/Fort/FortType.proto";
 import "POGOProtos/Map/Fort/FortSponsor.proto";
 import "POGOProtos/Map/Fort/FortRenderingType.proto";
 import "POGOProtos/Map/Pokemon/MapPokemon.proto";
-import "POGOProtos/Data/EnumWrapper.proto";
 
 message FortData {
 	string id = 1;
@@ -42,29 +41,7 @@ message FortData {
 	bool in_event = 26;
 	string banner_url = 27;
 	string partner_id = 28;
+	bool has_beacon = 29;
 	bool challenge_quest_completed = 30;
 	bool is_ex_raid_eligible = 31;
-	PokestopIncidentDisplay pokestop_display = 32;
-
-	message PokestopIncidentDisplay {
-		string incident_id = 1;
-		int64 incident_start_ms = 2;
-		int64 incident_expiration_ms = 3;
-		bool hide_incident = 4;
-		bool incident_completed = 5;
-
-		oneof MapDisplay {
-			CharacterDisplay character_display = 10;
-			InvasionFinishedDisplay invasion_finished = 11;
-		}
-
-		message CharacterDisplay {
-			.POGOProtos.Data.EnumWrapper.PokestopStyle style = 1;
-			.POGOProtos.Data.EnumWrapper.InvasionCharacter character = 2;
-		}
-
-		message InvasionFinishedDisplay {
-			.POGOProtos.Data.EnumWrapper.PokestopStyle style = 1;
-		}
-	}
 }

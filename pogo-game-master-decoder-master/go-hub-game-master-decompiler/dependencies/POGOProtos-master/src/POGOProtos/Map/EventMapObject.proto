@@ -1,0 +1,18 @@
+syntax = "proto3";
+package POGOProtos.Map;
+
+message EventMapObject {
+	int32 id = 1;
+	repeated LatLng points = 2;
+
+	oneof Type {
+	    string habitat = 3;
+	    string path = 4;
+	    string object = 5;
+	}
+
+	message LatLng {
+	    double lat_degree = 1;
+	    double lng_degree = 2;
+	}
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+message BuddyFeedingResponse {
+	Result result = 1;
+	bool show_hearts = 2;
+
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		FAILED_BUDDY_NOT_SET = 2;
+		FAILED_BUDDY_NOT_FOUND = 3;
+		FAILED_BAD_BUDDY = 4;
+		FAILED_INSUFFICIENT_RESOURCES = 5;
+		FAILED_INVALID_ITEM_REQUIREMENT = 6;
+	}
+}

@@ -18,4 +18,5 @@ message EvolutionBranch {
 	bool only_daytime = 10;
 	bool only_nighttime = 11;
 	int32 priority = 12;
+	bool no_candy_cost_via_trade = 13;
 }

@@ -15,5 +15,10 @@ message CombatGlobalSettings {
 	bool enable_sockets = 11;
 	bool enable_spin_minigame = 12;
 	bool enable_quick_swap_v2 = 13;
-	bool enable_particle_minigame = 18;
+	bool enable_vs_seeker = 14;
+	int32 vs_seeker_walking_dist_poll_duration_ms = 15;
+	int32 vs_seeker_player_min_level = 16;
+	int32 matchmaking_poll_duration_ms = 17;
+ 	bool enable_particle_minigame_ = 18;
+	bool enable_vs_seeker_upgrade_iap = 19;
 }

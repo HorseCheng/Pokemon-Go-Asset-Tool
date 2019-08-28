@@ -1,7 +1,11 @@
 syntax = "proto3";
 package POGOProtos.Settings.Master.Item;
 
+import "POGOProtos/Data/SpawnTablePokemon.proto";
+
 message FortModifierAttributes {
 	int32 modifier_lifetime_seconds = 1;
 	int32 troy_disk_num_pokemon_spawned = 2;
+	repeated .POGOProtos.Data.SpawnTablePokemon spawn_table = 3;
+	float spawn_table_probability = 4;
 }

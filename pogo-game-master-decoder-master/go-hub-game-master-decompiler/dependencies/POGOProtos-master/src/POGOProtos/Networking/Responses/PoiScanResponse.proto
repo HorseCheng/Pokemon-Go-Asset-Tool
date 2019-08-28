@@ -1,0 +1,14 @@
+syntax = "proto3";
+package POGOProtos.Networking.Responses;
+
+message PoiScanResponse {
+	string fort_id = 1;
+	Result result = 2;
+	double strength_percent = 3;
+
+	enum Result {
+		NO_RESULT_SET = 0;
+	    SUCCESS = 1;
+	    OUT_OF_RANGE = 2;
+	}
+}

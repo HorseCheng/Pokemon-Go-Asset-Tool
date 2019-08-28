@@ -8,4 +8,5 @@ enum CombatType {
 	FRIENDS = 3;
 	NEARBY_COMBAT = 4;
 	SOLO_INVASION = 5;
+	VS_SEEKER = 6;
 }

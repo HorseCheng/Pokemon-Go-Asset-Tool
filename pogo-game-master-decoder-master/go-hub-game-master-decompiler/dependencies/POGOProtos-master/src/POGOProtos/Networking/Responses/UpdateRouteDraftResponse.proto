@@ -1,0 +1,20 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+import "POGOProtos/Data/Routes/RouteCreation.proto";
+import "POGOProtos/Data/Routes/RouteValidation.proto";
+
+message UpdateRouteDraftResponse {
+	Result result = 1;
+	.POGOProtos.Data.Routes.RouteCreation updated_route = 2;
+	.POGOProtos.Data.Routes.RouteValidation validation_result = 3;
+
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_UNKNOWN = 2;
+		ERROR_INVALID_ROUTE = 3;
+		ERROR_OLD_VERSION = 4;
+		ERROR_ROUTE_NOT_EDITABLE = 5;
+	}
+}

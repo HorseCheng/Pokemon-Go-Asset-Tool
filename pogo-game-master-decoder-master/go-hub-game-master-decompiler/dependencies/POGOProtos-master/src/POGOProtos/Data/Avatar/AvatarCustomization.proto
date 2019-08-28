@@ -20,7 +20,7 @@ message AvatarCustomization {
 	string icon_name = 13;
 	int32 unlock_player_level = 14;
 	string set_name = 15;
-	bool set_prime_item = 16;
+	string set_prime_item = 16;
 
 	enum AvatarCustomizationPromoType {
 		UNSET_PROMO_TYPE = 0;

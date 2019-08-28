@@ -2,13 +2,13 @@ syntax = "proto3";
 package POGOProtos.Data.Quests;
 
 import "POGOProtos/Enums/ActivityType.proto";
+import "POGOProtos/Enums/Alignment.proto";
 import "POGOProtos/Enums/BadgeType.proto";
+import "POGOProtos/Enums/InvasionCharacter.proto";
 import "POGOProtos/Enums/PokemonId.proto";
 import "POGOProtos/Enums/PokemonType.proto";
 import "POGOProtos/Enums/RaidLevel.proto";
 import "POGOProtos/Inventory/Item/ItemId.proto";
-import "POGOProtos/Data/PokemonDisplay.proto";
-import "POGOProtos/Data/EnumWrapper.proto";
 
 message QuestCondition {
 	ConditionType type = 1;
@@ -35,8 +35,8 @@ message QuestCondition {
 		WithPvpCombat with_pvp_combat = 20;
 		WithLocation with_location = 21;
 		WithDistance with_distance = 22;
-		WithInvasionCharacter with_invasion_character = 23;
-		WithPokemonAlignment with_pokemon_alignment = 24;
+		WithAlignment with_alignment = 23;
+		WithInvasionCharacter with_invasion_character = 24;
 	}
 
 	enum ConditionType {
@@ -70,12 +70,12 @@ message QuestCondition {
 		WITH_INVASION_CHARACTER = 27;
 	}
 
-	message WithPokemonAlignment {
-		repeated .POGOProtos.Data.PokemonDisplay.Alignment alignment = 1;
+	message WithAlignment {
+		repeated .POGOProtos.Enums.Alignment alignment = 1;
 	}
 
 	message WithInvasionCharacter {
-		repeated .POGOProtos.Data.EnumWrapper.CharacterCategory category = 1;
+		repeated .POGOProtos.Enums.InvasionCharacter invasion_character = 1;
 	}
 
 	message WithUniquePokemon {

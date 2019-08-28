@@ -1,0 +1,16 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+message BuddyMapResponse {
+	Result result = 1;
+	int64 expiration_ms = 2;
+	int64 applied_ms = 3;
+
+	enum Result {
+	    UNSET = 0;
+	    SUCCESS = 1;
+	    FAILED_BUDDY_NOT_SET = 2;
+	    FAILED_BUDDY_NOT_FOUND = 3;
+	    FAILED_BAD_BUDDY = 4;
+	}
+}

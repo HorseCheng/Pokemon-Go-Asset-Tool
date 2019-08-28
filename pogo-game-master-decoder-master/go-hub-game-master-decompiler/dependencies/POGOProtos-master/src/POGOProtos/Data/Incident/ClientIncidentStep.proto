@@ -1,0 +1,14 @@
+syntax = "proto3";
+package POGOProtos.Data.Incident;
+
+import "POGOProtos/Data/Incident/Step/ClientInvasionBattleStep.proto";
+import "POGOProtos/Data/Incident/Step/ClientInvasionEncounterStep.proto";
+import "POGOProtos/Data/Incident/Step/ClientPokestopNpcDialogueStep.proto";
+
+message ClientIncidentStep {
+	oneof ClientIncidentStepType {
+	    .POGOProtos.Data.Incident.Step.ClientInvasionBattleStep invasion_battle = 1;
+	    .POGOProtos.Data.Incident.Step.ClientInvasionEncounterStep invasion_encounter = 2;
+	    .POGOProtos.Data.Incident.Step.ClientPokestopNpcDialogueStep pokestop_dialogue = 3;
+	}
+}

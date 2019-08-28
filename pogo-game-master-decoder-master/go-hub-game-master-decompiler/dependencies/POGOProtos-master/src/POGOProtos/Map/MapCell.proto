@@ -1,6 +1,7 @@
 syntax = "proto3";
 package POGOProtos.Map;
 
+import "POGOProtos/Map/EventMapObject.proto";
 import "POGOProtos/Map/SpawnPoint.proto";
 import "POGOProtos/Map/Fort/FortData.proto";
 import "POGOProtos/Map/Fort/FortSummary.proto";
@@ -26,4 +27,5 @@ message MapCell {
 	repeated .POGOProtos.Map.Pokemon.MapPokemon catchable_pokemons = 10;
 	// Pokemon farther away than 2 steps, but still in the area.
 	repeated .POGOProtos.Map.Pokemon.NearbyPokemon nearby_pokemons = 11;
+	repeated .POGOProtos.Map.EventMapObject event_map_objects = 12;
 }

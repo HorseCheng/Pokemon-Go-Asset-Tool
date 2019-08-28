@@ -1,0 +1,19 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+import "POGOProtos/Data/Buddy/BuddyStats.proto";
+
+message BuddyStatsResponse {
+	Result result = 1;
+	int32 current_points_earned = 2;
+	.POGOProtos.Data.Buddy.BuddyStats today_stats = 3;
+	.POGOProtos.Data.Buddy.BuddyStats total_stats = 4;
+
+	enum Result {
+	    UNSET = 0;
+	    SUCCESS = 1;
+	    FAILED_BUDDY_NOT_SET = 2;
+	    FAILED_BUDDY_NOT_FOUND = 3;
+	    FAILED_BAD_BUDDY = 4;
+	}
+}

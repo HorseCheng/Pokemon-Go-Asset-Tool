@@ -1,0 +1,12 @@
+syntax = "proto3";
+package POGOProtos.Data.Buddy;
+
+message BuddyStats {
+ 	int64 window = 1;
+ 	float km_walked = 2;
+ 	int32 berries_fed = 3;
+ 	int32 communication = 4;
+	int32 battles = 5;
+	int32 photos = 6;
+ 	int32 new_visits = 7;
+}

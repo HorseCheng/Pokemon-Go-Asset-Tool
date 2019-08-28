@@ -1,0 +1,8 @@
+syntax = "proto3";
+package POGOProtos.Data.Incident.Step;
+
+import "POGOProtos/Data/Incident/ClientDialogueLine.proto";
+
+message ClientPokestopNpcDialogueStep {
+	repeated .POGOProtos.Data.Incident.ClientDialogueLine dialogue_line = 1;
+}

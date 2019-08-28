@@ -134,9 +134,11 @@ Meteor Mash
 Skull Bash
 Acid Spray
 Earth Power
+Crabhammer
 Leaf Tornado
 Muddy Water
 Blaze Kick
 Power-Up Punch
 Frustration
 Return
+Synchronoise

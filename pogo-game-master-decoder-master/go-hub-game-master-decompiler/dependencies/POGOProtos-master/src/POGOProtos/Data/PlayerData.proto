@@ -11,6 +11,7 @@ import "POGOProtos/Data/Player/SocialPlayerSettings.proto";
 import "POGOProtos/Data/Player/TeamChangeInfo.proto";
 import "POGOProtos/Data/BuddyPokemon.proto";
 import "POGOProtos/Enums/TeamColor.proto";
+import "POGOProtos/Data/Combat/CombatLog.proto";
 import "POGOProtos/Data/Combat/CombatPlayerPreferences.proto";
 import "POGOProtos/Enums/PokemonId.proto";
 
@@ -36,4 +37,5 @@ message PlayerData {
 	string player_support_id = 22;
 	.POGOProtos.Data.Player.TeamChangeInfo team_change_info = 23;
 	repeated .POGOProtos.Enums.PokemonId consumed_eevee_easter_eggs = 24;
+	.POGOProtos.Data.Combat.CombatLog combat_log = 25;
 }

@@ -1,0 +1,27 @@
+syntax = "proto3";
+package POGOProtos.Enums;
+
+// Apparently NIA likes to use kitchen utensils as Sponsor placeholders/codenames....
+enum Sponsor {
+	MCDONALDS = 0;
+	POKEMON_STORE = 1;
+	TOHO = 2;
+	SOFTBANK = 3;
+	GLOBE = 4;
+	SPATULA = 5;
+	THERMOMETER = 6;
+	KNIFE = 7;
+	GRILL = 8;
+	SMOKER = 9;
+	FRYER = 10;
+	STEAMER = 11;
+	HOOD = 12;
+	SLOWCOOKER = 13;
+	MIXER = 14;
+	SCOOPER = 15;
+	MUFFINTIN = 16;
+	SALAMANDER = 17;
+	PLANCHA = 18;
+	NIA_OPS = 19;
+	WHISK = 20;
+}

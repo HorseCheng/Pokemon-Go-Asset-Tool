@@ -1,0 +1,10 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+import "POGOProtos/Data/Routes/RouteDraft.proto";
+
+message UpdateRouteDraftMessage {
+	int64 route_id = 1;
+	int64 route_version = 2;
+	.POGOProtos.Data.Routes.RouteDraft proposed_route_draft = 3;
+}

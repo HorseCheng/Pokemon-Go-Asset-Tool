@@ -1,9 +1,9 @@
 syntax = "proto3";
 package POGOProtos.Networking.Requests.Messages;
 
-import "POGOProtos/Data/IncidentLookup.proto";
+import "POGOProtos/Networking/Requests/Messages/IncidentLookupMessage.proto";
 
-message InvasionEncounter {
-	.POGOProtos.Data.IncidentLookup incident_lookup = 1;
+message InvasionEncounterMessage {
+	.POGOProtos.Networking.Requests.Messages.IncidentLookupMessage incident_lookup = 1;
 	int32 step = 2;
 }
