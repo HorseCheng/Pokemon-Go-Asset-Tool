@@ -46,10 +46,10 @@ for i in range(0,len(master)):
         checkmatrix=[0 for c in range(0,14)]
         
         #find duplicated data
-        if (num in alola) or (num in [150,386,479,493])or(num in [1,2,3,4,5,6,7,8,9,41,42,60,61,62,88,89,96,97.104,105,123,129,130,143,147,148,149,169,186,212,228,229,258,259,260,280,281,282,475]): 
+        if (num in alola) or (num in [150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,129,130,131,143,147,148,149,169,182,186,212,228,229,258,246,247,248,259,260,280,281,282,387,388,389,475]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
-        if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
+        if((num in[351,412,413,421,422,423,487,492,550,555,585,586,641,642,645,647,648,649])and (check)):check=0;checknum=num;i+=40;continue
 
         #start record pokemon data
         pokecheck[num]+=1
@@ -113,16 +113,16 @@ okk=0
 for i in range(0,len(master)):
     if("V0001_POKEMON" in master[i] ):
         okk=okk+1
-        if(okk==9):break
+        if(okk==6):break #1: form #2~5:BULBASAUR gender ratio with different form
     x=re.search("template_id: \"SPAWN_V[0-9]+_POKEMON_",master[i])
     if x:
         num=int(re.search("[0-9]+",master[i]).group())
         
          #find duplicated data
-        if (num in alola) or (num in [386,479,493])or(num in [1,2,3,4,5,6,7,8,9,41,42,60,61,62,88,89,96,97.104,105,123,129,130,143,147,148,149,169,186,212,228,229,258,259,260,280,281,282,475]): 
+        if (num in alola) or (num in [150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,129,130,131,143,147,148,149,169,182,186,212,228,229,258,246,247,248,259,260,280,281,282,387,388,389,475]):
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
-        if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
+        if((num in[351,412,413,421,422,423,487,492,550,555,585,586,641,642,645,647,648,649])and (check)):check=0;checknum=num;i+=40;continue
         
         gender=[0,0,0] #male,female,non gender
         for tt in range(i,len(master)):
@@ -188,22 +188,23 @@ for i in range(0,len(pokedata)):
     for x in pokedata[i]:
         wholestring+=x+' '
     wholestring+=genderstr[i]+'\n'
-
+'''
 namestring="" #chinese name string to output
 for i in range(0,len(indexlist)):
     namestring+='c '+str(indexlist[i])+' '+intro[0][i]+'\n'
-    
+
     
 descpritionstring=""
 for i in range(0,len(indexlist)):
     descpritionstring+='c '+intro[2][i]+' '+intro[3][i]+'\n'
-
+''' 
 #output data
 aa=open("Pokemon Data/1_chiname.txt","w",encoding="UTF-8")
 bb=open("Pokemon Data/2_engname.txt","w",encoding="UTF-8")
 cc=open("Pokemon Data/3_database.txt","w",encoding="UTF-8")
 dd=open("Pokemon Data/4_description.txt","w",encoding="UTF-8")
-aa.write(namestring);cc.write(wholestring);dd.write(descpritionstring)
+cc.write(wholestring);
+#aa.write(namestring);dd.write(descpritionstring)
 aa.close();cc.close();dd.close()
 
 for i in intro[1]:

@@ -55,11 +55,13 @@ for i in range(0,len(master)):
         num=int(num.group())
 
         appear=0
-        if (num in alola) or (num in [150,386,479,493]): 
-            if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
-        if(num != checknum ):check=1;
-        if((num in[351,412,413,421,422,423,487,492])and (check)):check=0;checknum=num;i+=40;continue
         
+        
+        if (num in alola) or (num in [150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,129,130,131,143,147,148,149,169,182,186,212,228,229,258,246,247,248,259,260,280,281,282,387,388,389,475]):
+            if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
+        if(num != checknum ):check=1
+        if((num in[351,412,413,421,422,423,487,492,550,555,585,586,641,642,645,647,648,649])and (check)):check=0;checknum=num;i+=40;continue
+    
         
         if(num==151):remember=i;pokechargemove+=' \n';pokequickmove+=' \n';continue
         
