@@ -9,7 +9,7 @@ with open("Version.txt","r") as f:
 emerged=open("Merge/"+version+"emerged.txt","r",encoding="UTF-8")
 eng=emerged.readlines()
 merged=open("Merge/"+version+"merged.txt","r",encoding="UTF-8")
-chi=merged.readlines()
+chi=merged.readlines()  
 masterfile=open("Game_Master/"+date+".txt",'r',encoding="UTF-8")
 master=masterfile.readlines()
 

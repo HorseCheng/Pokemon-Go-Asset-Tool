@@ -1,2 +1,2 @@
-python automation.py
+python Automation.py
 pause

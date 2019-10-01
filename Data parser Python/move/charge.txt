@@ -135,10 +135,21 @@ Skull Bash
 Acid Spray
 Earth Power
 Crabhammer
+Lunge
+Crush Claw
+Octazooka
+Mirror Shot
+Superpower
+Fell Stinger
 Leaf Tornado
+Leech Life
+Drain Punch
+Shadow Bone
 Muddy Water
 Blaze Kick
+Razor Shell
 Power-Up Punch
+Giga Impact
 Frustration
 Return
 Synchronoise
