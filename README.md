@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 ﻿# Pokemon-Go-Asset
-=======
-# Pokemon-Go-Asset
 >>>>>>> master
 A place to share my Pokemon Go Game Master parser tool.  
 For My APK mining assets dumped place: [Pokemon Go APK Asset GitHub](https://github.com/HorseCheng/Pokemon-Go-APK-Asset.git)  
