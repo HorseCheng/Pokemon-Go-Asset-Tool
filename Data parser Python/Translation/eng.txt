@@ -1,5 +1,7 @@
 A special stone originally found in the Sinnoh region that can make certain species of Pokémon evolve. It is very tough and has a beautiful sheen.
 Sinnoh Stone
+A rare stone that originates from the Unova region that can make certain species of Pokémon evolve. It is known for its intertwined black-and-white appearance.
+Unova Stone
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 About
 ©2016–2017 Niantic, Inc.
@@ -27,6 +29,8 @@ Find new Pokémon and hatch Eggs even while Pokémon GO is closed!
 Success! Check out your progress anytime in your Trainer profile.
 Adventure Sync enabled!
 Enable Adventure Sync
+Adventure Sync Needs Background Location
+Adventure Sync needs background location turned on so you can earn Candy, hatch Pokémon Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Enable Adventure Sync in Settings for more rewards!
 Please enter your date of birth.
 Alola Form
@@ -171,6 +175,9 @@ No Bag
 LeafGreen Bag
 Gengar Backpack
 Johto Bag
+Seed Backpack
+Flame Backpack
+Shell Backpack
 Ruin Maniac Backpack
 Ace Belt
 Ball Buckle
@@ -272,16 +279,28 @@ LeafGreen Top
 Gengar Shirt
 GO Fest 2019 Tee
 Gym Leader Top
+Team Instinct Happi Coat
+Team Mystic Happi Coat
+Team Valor Happi Coat
+Team Instinct Happi Coat
 Johto Top
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
+Jirachi T-shirt
 Latias & Latios Shirt
 Meltan Pullover
 Mew Shirt
 Mewtwo Top
 Misty Top
+Pokémon Shirts Vileplume
+Pokémon Shirts Lickitung
+Pokémon Shirts Magikarp
+Pokémon Shirts Snorlax
 Pikachu Fan Shirt
+Bulbasaur Hoodie
+Charmander Hoodie
+Squirtle Hoodie
 Ruin Maniac Outfit
 Spiritomb T-shirt
 The Thirty
@@ -300,6 +319,7 @@ Team Rainbow Rocket Top
 Spark-Style Jacket
 Active Tee
 Pikachu Tee
+UNWTO T-shirt
 Veteran Coat
 Ace Boots
 Ace Shoes
@@ -315,6 +335,9 @@ Mewtwo Shoes
 Misty Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
+Sandals
+Sandals
+Sandals
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -344,6 +367,9 @@ No Bag
 FireRed Backpack
 Gengar Backpack
 Johto Bag
+Seed Backpack
+Flame Backpack
+Shell Backpack
 Ruin Maniac Backpack
 Future Specs
 No Glasses
@@ -436,10 +462,15 @@ FireRed Top
 Gengar Shirt
 GO Fest 2019 Tee
 Gym Leader Top
+Team Instinct Happi Coat
+Team Mystic Happi Coat
+Team Valor Happi Coat
+Team Instinct Happi Coat
 Johto Top
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
+Jirachi T-shirt
 Jogger Tank Top
 Latias & Latios Shirt
 Charizard Pullover
@@ -447,7 +478,14 @@ Pikachu Pullover
 Meltan Pullover
 Mew Shirt
 Mewtwo Top
+Pokémon Shirts Vileplume
+Pokémon Shirts Lickitung
+Pokémon Shirts Magikarp
+Pokémon Shirts Snorlax
 Pikachu Fan Shirt
+Bulbasaur Hoodie
+Charmander Hoodie
+Squirtle Hoodie
 Ruin Maniac Outfit
 Spiritomb T-shirt
 Sports Hoodie
@@ -464,6 +502,7 @@ Team Instinct Tee
 Team Mystic Tee
 Team Valor Tee
 The Thirty
+UNWTO T-shirt
 Veteran Jacket
 Ace Boots
 Ace Shoes
@@ -480,6 +519,9 @@ Jogger Shoes
 Mewtwo Shoes
 Pikachu Fan Shoes
 Ruin Maniac Footwear
+Sandals
+Sandals
+Sandals
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -685,6 +727,7 @@ Sinnoh
 N0
 Register {0} Pokémon first discovered in the Unova region to the Pokédex.
 Unova
+N0
 Kanto
 Unknown
 N0
@@ -711,6 +754,22 @@ GO Safari Zone - Europe 2017
 Europe, October 14, 2017
 GO Safari Zone - Europe 2017
 GO Safari Zone - Europe 2017
+Montreal, September 19, 2019
+Pokémon GO Safari Zone—Early Access
+Montreal, September 19, 2019
+Pokémon GO Safari Zone
+Montreal, September 20, 2019
+Pokémon GO Safari Zone—Early Access
+Montreal, September 20, 2019
+Pokémon GO Safari Zone
+Montreal, September 21, 2019
+Pokémon GO Safari Zone—Early Access
+Montreal, September 21, 2019
+Pokémon GO Safari Zone
+Montreal, September 22, 2019
+Pokémon GO Safari Zone—Early Access
+Montreal, September 22, 2019
+Pokémon GO Safari Zone
 Sentosa, Apr 18, 2019
 Pokémon GO Safari Zone
 Sentosa, Apr 19, 2019
@@ -882,6 +941,7 @@ Mystery Box is now available!
 Open the Mystery Box in your Item Bag for a mysterious effect.
 Open
 MYSTERY BOX
+Looking for nearby Pokémon!
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
 Don’t give up.
 Keep your cool, Trainer.
@@ -912,7 +972,8 @@ Evolve {0} Bug-type Pokémon
 Ultra Box
 Great Box
 Special Box
-Starter Box
+New Trainer Box
+Beginner Box
 Gold Item Box (Beta)
 Ultra Box
 Silver Item Box (Beta)
@@ -924,6 +985,7 @@ Great Box
 Winter Box
 Community Day Box
 Event Box
+Safari Zone Box
 Anniversary Box
 Silver Box
 Bronze Box
@@ -945,6 +1007,7 @@ Catch a Pokémon
 Battle a team leader {0} times
 Battle another Trainer
 Win against another Trainer {0} times
+Take {0} snapshots of Eevee
 Take a snapshot of Loudred
 Take {0} snapshots of Jirachi
 Take a snapshot of Ralts in its GO Fest habitat
@@ -1072,8 +1135,8 @@ This buff physique isn’t just for show!
 This buff physique isn’t just for show!
 Do you know how hot Pokémon fire breath can get?
 Do you know how hot Pokémon fire breath can get?
-My bird Pokémon wants to battle with you!
-My bird Pokémon wants to battle with you!
+Battle against my Flying-type Pokémon!
+Battle against my Flying-type Pokémon!
 Ke...ke...ke...ke...ke...ke!
 Ke...ke...ke...ke...ke...ke!
 Don’t tangle with us!
@@ -1082,8 +1145,8 @@ You’ll be defeated into the ground!
 You’ll be defeated into the ground!
 You’re gonna be frozen in your tracks.
 You’re gonna be frozen in your tracks.
-Normal does not mean weak. 
-Normal does not mean weak. 
+Normal does not mean weak.
+Normal does not mean weak.
 Coiled and ready to strike!
 Coiled and ready to strike!
 Are you scared of psychics that use unseen power?
@@ -1137,6 +1200,8 @@ To accept, return to the map.
 Waiting for {0} to accept the challenge.
 Your opponent has quit the battle.
 Your party doesn’t have enough Pokémon.
+{0} fainted!
+{0} used a Protect Shield!
 The Battle Code has expired.
 Exit the Trainer Battle?
 Rematch
@@ -1172,12 +1237,12 @@ Are you sure you want to delete this Friend Request?
 Once you delete this Friend Request, this Trainer won't be able to send you another Friend Request.
 This invitation will become invalid.
 Do you want to decline this invitation?
-Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby in the background.
+Pokémon GO needs Motion permissions to let you know when new Pokémon are nearby.
 Go to Settings.
 Tap Privacy.
 Enable Motion & Fitness permissions for Pokémon GO.
 Missing Motion Permissions
-Your progress can’t be tracked when Pokémon GO is closed until you give permission. Please adjust your settings to allow access. 
+Pokémon GO requires your location to find Pokémon and PokéStops near you. Please adjust your settings to allow location services.
 1. Open the Health app.
 2. Tap Sources.
 3. Tap Pokémon GO.
@@ -1187,7 +1252,7 @@ Missing Adventure Sync Permissions
 1. Go to Settings > Apps > Pokémon GO.
 2. Tap Permissions.
 3. Set Location to on.
-Your progress can’t be tracked when Pokémon GO is closed until you give permission. Please adjust your settings to allow access. 
+Pokémon GO requires your location to find Pokémon and PokéStops near you. Please adjust your settings to allow location services.
 1. Go to Settings > Pokémon GO.
 2. Tap Location.
 3. Set "Allow Location Access" to Always.
@@ -1217,6 +1282,7 @@ The Pokémon must be at full HP.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
+DON’T USE ADVENTURE SYNC
 Eggstravaganza: Hatch an Egg
 Eggstravaganza: Hatch {0} Eggs
 Eggstravaganza: Hatch {0} Eggs
@@ -1343,6 +1409,9 @@ Currently, your network connection is unstable. Please try again later.
 You have successfully registered for {0}!
 EVENTS
 Use this item on your Pokémon!
+Evolution Options
+Would you like to evolve {0} using Candies anyway? 
+Evolving {0} without trading will require {1} Candies.
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
 EX Raid scheduled for {0}, {1} at {2} has been canceled.
@@ -1410,6 +1479,7 @@ alola
 eggsonly
 costume
 defender
+distance
 item
 Female
 Male
@@ -1421,6 +1491,7 @@ mythical
 purified
 shadow
 shiny
+special
 traded
 Maybe later
 Yes, camera on!
@@ -1568,6 +1639,7 @@ More
 Network Error
 No
 OK
+or
 Paste
 Pokémon
 Your collection is full.
@@ -1885,13 +1957,13 @@ Egg Incubator
 A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 Super Incubator
 {0} was defeated.
-Curious... Upon their defeat, your opponent seems to have abandoned the Pokémon they battled with. It has a strange and ominous aura. 
+Curious... Upon their defeat, your opponent seems to have abandoned the Pokémon they battled with. It has a strange and ominous aura.
 I have a hypothesis about what kind of Pokémon it is... Could you catch it so we can examine it more closely?
-Your opponent fled...and left their Pokémon behind. That really burns me up. There seems to be an ominous aura around the poor Pokémon, too. 
+Your opponent fled...and left their Pokémon behind. That really burns me up. There seems to be an ominous aura around the poor Pokémon, too.
 Could you try to catch it and see what’s so different about this Pokémon?
 They’ve carelessly abandoned the Pokémon they lost with! It has an ominous aura and is somewhat different from regular Pokémon. Try to catch it so we can save it!
 They’ve carelessly abandoned the Pokémon they lost with! It has an ominous aura and is somewhat different from regular Pokémon. Try to catch it so we can save it!
-Whoa, looks like they couldn’t handle a little battle! They even left behind their Pokémon. Why would they do that? 
+Whoa, looks like they couldn’t handle a little battle! They even left behind their Pokémon. Why would they do that?
 It has a really odd aura around it... Let’s help it! Can you catch it so we can take a closer look?
 Trainer, some shadowy figures have been seen at PokéStops. Approach with caution, and be ready for battle.
 I’ve been hearing reports of some mysterious characters near PokéStops. You should take charge and go investigate. Be careful, and make sure you’re prepared for a battle!
@@ -1906,6 +1978,9 @@ Oh! I remember Professor Willow talking about a process called purification! He 
 Egg
 Collect more Eggs!
 Invite
+Pokémon GO needs your activity data to help hatch Pokémon Eggs, help your Pokémon find Candies, and display total distance walked.
+Turn on background location to earn Candy, hatch Pokémon Eggs, and earn rewards, even when you aren’t using Pokémon GO.
+Allow Pokémon GO to access your location even when you’re not using the app?
 Pokémon assigned—item can't be used.
 This item can't be used here.
 No items available.
@@ -1922,6 +1997,8 @@ A box that you can send to a friend. Contains a variety of useful items.
 Gift
 A special stone originally found in the Sinnoh region that can make certain species of Pokémon evolve. It is very tough and has a beautiful sheen.
 Sinnoh Stone
+A rare stone that originates from the Unova region that can make certain species of Pokémon evolve. It is known for its intertwined black-and-white appearance.
+Unova Stone
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
 Feed this to a Pokémon to make it much easier to catch.
@@ -2393,6 +2470,11 @@ Frustration
 Return
 Synchronoise
 Lock-On
+Thunder Fang
+Ice Fang
+Horn Drill
+Fissure
+Sacred Sword
 {0} will forget {1}.
 {0} learned a new attack!
 Clear
@@ -3171,6 +3253,162 @@ Seafaring Pokémon
 Pitch-Black Pokémon
 Gratitude Pokémon
 Alpha Pokémon
+Victory Pokémon
+Grass Snake Pokémon
+Grass Snake Pokémon
+Regal Pokémon
+Fire Pig Pokémon
+Fire Pig Pokémon
+Mega Fire Pig Pokémon
+Sea Otter Pokémon
+Discipline Pokémon
+Formidable Pokémon
+Scout Pokémon
+Lookout Pokémon
+Puppy Pokémon
+Loyal Dog Pokémon
+Big-Hearted Pokémon
+Devious Pokémon
+Cruel Pokémon
+Grass Monkey Pokémon
+Thorn Monkey Pokémon
+High Temp Pokémon
+Ember Pokémon
+Spray Pokémon
+Geyser Pokémon
+Dream Eater Pokémon
+Drowsing Pokémon
+Tiny Pigeon Pokémon
+Wild Pigeon Pokémon
+Proud Pokémon
+Electrified Pokémon
+Thunderbolt Pokémon
+Mantle Pokémon
+Ore Pokémon
+Compressed Pokémon
+Bat Pokémon
+Courting Pokémon
+Mole Pokémon
+Subterrene Pokémon
+Hearing Pokémon
+Muscular Pokémon
+Muscular Pokémon
+Muscular Pokémon
+Tadpole Pokémon
+Vibration Pokémon
+Vibration Pokémon
+Judo Pokémon
+Karate Pokémon
+Sewing Pokémon
+Leaf-Wrapped Pokémon
+Nurturing Pokémon
+Centipede Pokémon
+Curlipede Pokémon
+Megapede Pokémon
+Cotton Puff Pokémon
+Windveiled Pokémon
+Bulb Pokémon
+Flowering Pokémon
+Hostile Pokémon
+Desert Croc Pokémon
+Desert Croc Pokémon
+Intimidation Pokémon
+Zen Charm Pokémon
+Blazing Pokémon
+Cactus Pokémon
+Rock Inn Pokémon
+Stone Home Pokémon
+Shedding Pokémon
+Hoodlum Pokémon
+Avianoid Pokémon
+Spirit Pokémon
+Coffin Pokémon
+Prototurtle Pokémon
+Prototurtle Pokémon
+First Bird Pokémon
+First Bird Pokémon
+Trash Bag Pokémon
+Trash Heap Pokémon
+Tricky Fox Pokémon
+Illusion Fox Pokémon
+Chinchilla Pokémon
+Scarf Pokémon
+Fixation Pokémon
+Manipulate Pokémon
+Astral Body Pokémon
+Cell Pokémon
+Mitosis Pokémon
+Multiplying Pokémon
+Water Bird Pokémon
+White Bird Pokémon
+Fresh Snow Pokémon
+Icy Snow Pokémon
+Snowstorm Pokémon
+Season Pokémon
+Season Pokémon
+Sky Squirrel Pokémon
+Clamping Pokémon
+Cavalry Pokémon
+Mushroom Pokémon
+Mushroom Pokémon
+Floating Pokémon
+Floating Pokémon
+Caring Pokémon
+Attaching Pokémon
+EleSpider Pokémon
+Thorn Seed Pokémon
+Thorn Pod Pokémon
+Gear Pokémon
+Gear Pokémon
+Gear Pokémon
+EleFish Pokémon
+EleFish Pokémon
+EleFish Pokémon
+Cerebral Pokémon
+Cerebral Pokémon
+Candle Pokémon
+Lamp Pokémon
+Luring Pokémon
+Tusk Pokémon
+Axe Jaw Pokémon
+Axe Jaw Pokémon
+Chill Pokémon
+Freezing Pokémon
+Crystallizing Pokémon
+Snail Pokémon
+Shell Out Pokémon
+Trap Pokémon
+Martial Arts Pokémon
+Martial Arts Pokémon
+Cave Pokémon
+Automaton Pokémon
+Automaton Pokémon
+Sharp Blade Pokémon
+Sword Blade Pokémon
+Bash Buffalo Pokémon
+Eaglet Pokémon
+Valiant Pokémon
+Diapered Pokémon
+Bone Vulture Pokémon
+Anteater Pokémon
+Iron Ant Pokémon
+Irate Pokémon
+Hostile Pokémon
+Brutal Pokémon
+Torch Pokémon
+Sun Pokémon
+Iron Will Pokémon
+Cavern Pokémon
+Grassland Pokémon
+Cyclone Pokémon
+Bolt Strike Pokémon
+Vast White Pokémon
+Deep Black Pokémon
+Abundance Pokémon
+Boundary Pokémon
+Colt Pokémon
+Melody Pokémon
+Paleozoic Pokémon
 Hex Nut Pokémon
 Hex Nut Pokémon
 Do you really want to transfer this Event Pokémon?
@@ -3686,6 +3924,162 @@ It starts its life with a wondrous power that permits it to bond with any kind o
 It can lull people to sleep and make them dream. It is active during nights of the new moon.
 The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.
 It is told in mythology that this Pokémon was born before the universe even existed.
+When it shares the infinite energy it creates, that being's entire body will be overflowing with power.
+They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.
+When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.
+It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.
+It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.
+When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.
+It has mastered fast and powerful fighting moves. It grows a beard of fire.
+It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.
+As a result of strict training, each Dewott learns different forms for using the scalchops.
+One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.
+Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind.
+When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.
+This Pokémon is popular with beginners because it's intelligent, obedient to its Trainer's commands, and easy to raise.
+It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.
+Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.
+They steal from people for fun, but their victims can't help but forgive them. Their deceptively cute act is perfect.
+Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.
+It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
+Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.
+This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.
+When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.
+The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.
+It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.
+It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.
+The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.
+These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.
+No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.
+Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.
+Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
+They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.
+It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.
+Its orange crystals are lumps of powerful energy. They're valuable, so Boldore is sometimes targeted for them.
+It absorbs rays of sunlight and shoots out energy. It's usually lurking deep beneath the surface.
+The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.
+Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.
+By spinning its body, it can dig straight through the ground at a speed of 30 mph.
+More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.
+It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.
+Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.
+This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.
+Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.
+By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.
+It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.
+They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.
+When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.
+Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.
+Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.
+It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.
+It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.
+Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.
+It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.
+With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.
+When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.
+Whimsicott doesn't live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.
+They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.
+It's well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.
+When a school of Basculin appears in a lake, everything else disappears, except for Corphish and Crawdaunt. That's how violent Basculin are.
+Sandile's still not good at hunting, so it mostly eats things that have collapsed in the desert. It's called “the cleaner of the desert."
+It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.
+It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.
+When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.
+Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.
+Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
+When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.
+Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.
+It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.
+It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.
+The guardians of an ancient city, they always fly the same route while keeping watch for invaders.
+Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.
+Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.
+Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.
+Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.
+Restored from a fossil, this ancient bird Pokémon has wings but can't yet fly.
+Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.
+If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.
+Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.
+If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.
+If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.
+When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.
+The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.
+They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.
+According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.
+They can predict the future from the placement and movement of the stars. They can see Trainers' life spans.
+They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.
+When their two divided brains think the same thoughts, their psychic power is maximized.
+When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.
+They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.
+Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.
+When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.
+This hearty Pokémon survived the Ice Age. It's incredibly popular in very hot regions.
+Vanilluxe is born when two Vanillish, half-melted by the day's light, stick to each other and freeze together in the cold return of night.
+The turning of the seasons changes the color and scent of this Pokémon's fur. People use it to mark the seasons.
+They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.
+As it flies, it scatters electricity around, so bird Pokémon keep their distance. That's why Emolga can keep all its food to itself.
+For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.
+It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.
+It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.
+Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.
+Fishermen are terrified of Jellicent. It's rumored to drag them into the sea and steal their lives away.
+The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.
+They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.
+When attacked, they create an electric barrier by spitting out many electrically charged threads.
+It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.
+They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.
+The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.
+A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die.
+Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.
+One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.
+These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.
+They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.
+This Pokémon is shrouded in mystery. It's said to have appeared from a UFO that fell from the sky about 50 years ago.
+It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.
+Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.
+It arrives near the moment of death and steals spirit from the body.
+The spirits burned up in its ominous flame lose their way and wander this world forever.
+They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.
+A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.
+Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.
+Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.
+It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.
+They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.
+It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
+When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.
+It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.
+They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.
+When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!
+It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.
+Although ancient people apparently built it by working with clay, the source of its energy is unclear.
+When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.
+It follows Bisharp's orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.
+It leads a group of Pawniard. Bisharp doesn't even change its expression when it deals the finishing blow to an opponent.
+Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.
+Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.
+Known as “the hero of the skies," this Pokémon is so proud and so brave that it will never retreat, even when it's injured.
+Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.
+It's always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.
+It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.
+They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.
+Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves.
+After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.
+It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!
+It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.
+According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.
+It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.
+Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.
+Legends say this Pokémon confounded opponents with its swift movements.
+Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.
+As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.
+When Reshiram's tail flares, the heat energy moves the atmosphere and changes the world's weather.
+Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.
+From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.
+It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.
+When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.
+Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
+This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
 It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.
 Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
 Tap to evolve!
@@ -3729,7 +4123,7 @@ Need more Stardust.
 Trainer level is too low to power up.
 {0} is assigned to a Gym.
 POWER UP
-Do you want to purify {0}
+Do you want to purify {0}It will gain a significant amount of CP, cost less to power up, and learn the exclusive Charged Attack Return!"
 Failed to purify {0}.
 Purify
 Assigned
@@ -4246,6 +4640,162 @@ Manaphy
 Darkrai
 Shaymin
 Arceus
+Victini
+Snivy
+Servine
+Serperior
+Tepig
+Pignite
+Emboar
+Oshawott
+Dewott
+Samurott
+Patrat
+Watchog
+Lillipup
+Herdier
+Stoutland
+Purrloin
+Liepard
+Pansage
+Simisage
+Pansear
+Simisear
+Panpour
+Simipour
+Munna
+Musharna
+Pidove
+Tranquill
+Unfezant
+Blitzle
+Zebstrika
+Roggenrola
+Boldore
+Gigalith
+Woobat
+Swoobat
+Drilbur
+Excadrill
+Audino
+Timburr
+Gurdurr
+Conkeldurr
+Tympole
+Palpitoad
+Seismitoad
+Throh
+Sawk
+Sewaddle
+Swadloon
+Leavanny
+Venipede
+Whirlipede
+Scolipede
+Cottonee
+Whimsicott
+Petilil
+Lilligant
+Basculin
+Sandile
+Krokorok
+Krookodile
+Darumaka
+Darmanitan
+Maractus
+Dwebble
+Crustle
+Scraggy
+Scrafty
+Sigilyph
+Yamask
+Cofagrigus
+Tirtouga
+Carracosta
+Archen
+Archeops
+Trubbish
+Garbodor
+Zorua
+Zoroark
+Minccino
+Cinccino
+Gothita
+Gothorita
+Gothitelle
+Solosis
+Duosion
+Reuniclus
+Ducklett
+Swanna
+Vanillite
+Vanillish
+Vanilluxe
+Deerling
+Sawsbuck
+Emolga
+Karrablast
+Escavalier
+Foongus
+Amoonguss
+Frillish
+Jellicent
+Alomomola
+Joltik
+Galvantula
+Ferroseed
+Ferrothorn
+Klink
+Klang
+Klinklang
+Tynamo
+Eelektrik
+Eelektross
+Elgyem
+Beheeyem
+Litwick
+Lampent
+Chandelure
+Axew
+Fraxure
+Haxorus
+Cubchoo
+Beartic
+Cryogonal
+Shelmet
+Accelgor
+Stunfisk
+Mienfoo
+Mienshao
+Druddigon
+Golett
+Golurk
+Pawniard
+Bisharp
+Bouffalant
+Rufflet
+Braviary
+Vullaby
+Mandibuzz
+Heatmor
+Durant
+Deino
+Zweilous
+Hydreigon
+Larvesta
+Volcarona
+Cobalion
+Terrakion
+Virizion
+Tornadus
+Thundurus
+Reshiram
+Zekrom
+Landorus
+Kyurem
+Keldeo
+Meloetta
+Genesect
 Meltan
 Melmetal
 Please enter a different nickname.
@@ -4298,6 +4848,7 @@ Walk closer to interact with this PokéStop.
 Your Item Bag is full. You can buy more space for items in the shop.
 This PokéStop is currently closed.
 This PokéStop is closing soon.
+Turn on background location to earn Candy, hatch Pokémon Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Privacy Policy
 Privacy
 Niantic Privacy Policy<br><br><br>Effective as of: June 18, 2018<br><br>We are Niantic. We provide real-world augmented reality platforms, designed to enable you to interact in shared worlds, seamlessly blended with the real world. To do that, we need information about you. Protecting your privacy is really important to us. We only use your information where we have a legal basis to do so. This Privacy Policy will help you understand what information we collect, how we use it and what choices you have when you play any of our games, use our websites, buy merchandise from us, or take part in live events and promotions (the "Services").<br><br>Please note that in additional to the general information below, specific information about how certain of our Services use your information is provided at the end of this Privacy Policy in the “Game Specific Disclosures”.<br><br>You should also read our Terms of Service which set out the contract between you and Niantic.<br><br>Who decides how your information is used?<br><br>Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information. If you have any questions or comments on this policy, you can:<br><br>Email us at privacy@nianticlabs.com<br><br>Write to us at 1 Ferry Building Suite 200, San Francisco, CA 94111<br><br>Contact our Data Protection Officer at dpo@nianticlabs.com<br><br>The information we collect about you and how we use it<br><br>This Privacy Policy covers our use of any information that can or could be used to identify you ("Personal Data"). It does not cover information which cannot be used to identify you ("Anonymous Data").<br><br>We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:<br><br>When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account. We collect and use that information in order to authenticate you when you register an account and use the Services, to make sure you are eligible and able to receive the Services, and so that you receive the correct version of the Services. That information includes the in-game username you choose to use on our Services, and internal account IDs that we assign to your account.<br><br>You must have an account with a supported third party single sign-on service to use our Services. As such, the Personal Data we collect also depends on which third party accounts you choose to use, their privacy policy, and what your privacy settings with those services allow us to see when you use their services to access Niantic Services.<br><br>If you choose to link your Google account to the Services, we will collect your Google email address and an authentication token provided by Google.<br><br>If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address.<br><br>Depending on the particular Service you sign up for, we may support other third party single sign-on services and collect additional Personal Data from them. For details please read the Game Specific Disclosures at the end of this Privacy Policy.<br><br>Some third-party providers may notify you that they make additional information, such as your public profile, available to us when you use their single sign-on services. We do not collect that information from them.<br><br>We collect and use your device location information as you use our Services, including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.<br><br>We also collect and use your in-game actions and achievements as well as certain information about your mobile device collected during gameplay (including device identifiers, device OS, model, settings and information about third party applications installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures).<br><br>We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience.<br><br>We further use the information above in order to provide technical and customer support to you.<br><br>You also give us Personal Data when you make a purchase through us, subscribe to our publications, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.<br><br>In addition, we have and rely on a legitimate interest in using your Personal Data as follows:<br><br>Using your IP address, browser type, operating system, the web page you were visiting before accessing our Services, the pages of our Services which you browsed or the features you used, and the time spent on those pages or features, the links on our Services that you click on, device identifiers, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases to understand who is using our Services and how.<br><br>Using your contact information, namely your email address in order to communicate with you to provide technical and customer support.<br><br>Using your email address and device information in order to share updates and news about the Services with you either within the games or by email. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>To provide social features within our games so you can interact and play with other players, including storing your communications with those players, find your friends and be found by them, and share your gameplay experience and achievements with your friends.<br><br>To offer new or additional features for our Services.<br><br>To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).<br><br>To carry out anti-fraud and anti-cheating measures and to ensure that you and other users are complying with our Terms of Service.<br><br>To make legal or regulatory disclosures.<br><br>We will only use your Personal Data to do the following if we have your consent:<br><br>If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends. If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. You can change your mind and unfriend other players at any time from your in-app Friends settings. You can also revoke Facebook permissions for our games directly from your Facebook account settings.<br><br>Send you marketing materials by email or via in-app notifications. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>We also rely on your consent where we use cookies or similar technologies. Please see our Cookie Policy (https://www.nianticlabs.com/cookies/) for more information about how we use them. Insofar as cookies collect Personal Data, we will process it only based on your explicit consent, in anonymized form, or under a pseudonym.<br><br>While you may disable the usage of cookies through your browser settings, Niantic currently does not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application due to the lack of industry standard on how to interpret that signal.<br><br>Who we share information with<br><br>We will not share any Personal Data that we have collected from or regarding you except as described below:<br><br>Information Shared with Our Services Providers. We engage third party service providers to work with us to administer and provide the Services. As part of that they will process your Personal Data on our behalf. These third party service providers have access to your Personal Data only for the purpose of performing services on our behalf, in compliance with this Privacy Policy, and we make sure each one is contractually obliged not to disclose or use your Personal Data for any other purpose. The service providers we use help us to:<br><br>run, operate and maintain our mobile games through third party platform and software tools;<br>perform content moderation and crash analytics;<br>run email and mobile messaging campaigns;<br>perform game and marketing analytics;<br>administer live events, competitions, sweepstakes and promotions, including registering players, managing check-in and attendance, verifying eligibility and prize fulfilment;<br>provide technical and customer support.<br><br>Information Shared with Other Players. When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>Information Shared with Third Parties. We share Anonymous Data with third parties for industry and market analysis. We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. We do not share Personal Data with any other third parties for their direct marketing purposes.<br><br>Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We only share information about you to government or law enforcement officials or private parties when we reasonably believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas and warrants); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to investigate and stop any activity that we consider illegal, unethical, or legally actionable.<br><br>Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including Personal Data, is a business asset. If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Data, will be disclosed or transferred to a third party acquirer in connection with the transaction.<br><br>How your Personal Data is transferred<br><br>Niantic operates its Services across the globe. Your Personal Data will very likely be transferred and stored in a country outside of your home country, including in the USA, for the purposes outlined in this Privacy Policy. The data protection laws in these countries may not be the same as in your home country.<br><br>If we transfer your Personal Data from the European Economic Area (EEA) to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:<br><br>The country that your Personal Data is transferred to is a country that the European Commission has deemed to provide an adequate level of protection for Personal Data as the EEA.<br><br>We use specific contracts approved by the European Commission which give Personal Data the same protection as it has in Europe when we engage with service providers.<br><br>Where we engage with service providers in the USA, they are part of the EU-US Privacy Shield, which requires them to provide the same protection of your Personal Data as it has in the EEA.<br><br>How we keep your Personal Data safe<br><br>We have appropriate security measures in place to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, improperly altered or disclosed. We also limit access to your Personal Data to employees, agents, contractors and other third parties who have a business need to know. They will only process your Personal Data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected Personal Data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.<br><br>How long we will keep your Personal Data<br><br>We keep your Personal Data for as long as we need to provide the Services to you and fulfil the purposes set out in this Privacy Policy. This is also the case for anyone that we share your information with and who carry out services on our behalf.<br><br>When we no longer need to use your Personal Data and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or anonymize it so that it can no longer be associated with you.<br><br>Your rights and choices<br><br>You have certain rights in relation to your Personal Data. In order to exercise these rights, please contact us at:<br><br>For Pokémon GO here.<br><br>For Ingress here.<br><br>For all other Services at privacy@nianticlabs.com.<br><br>If you're a user based in the EEA (or in any country that mandates similar rights), you can:<br><br>Request access to the Personal Data we hold on you.<br><br>Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings.  You can also submit a customer support request through our support website here (https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387) for Pokémon GO, or here (https://support.ingress.com/hc/articles/206618198) for Ingress.<br><br>Object to us processing your Personal Data. Some of the Personal Data we hold is necessary for us to provide the Services to you and fulfill the promises we make to you in the Terms of Service.<br><br>Ask us to stop using your Personal Data, including for marketing and promotional purposes (but be aware that sometimes we need to use your Personal Data in order for you to use the Services).<br><br>Have your Personal Data transferred to another organization (where it is technically feasible).<br><br>Complain to a regulator. We'd appreciate the chance to deal with your concerns directly so we'd prefer you to contact us first. However, if you're based in the EEA and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner’s Office, or with your local supervisory authority.<br><br>The law provides exceptions to these rights in certain circumstances. Where you cannot exercise one of these rights due to such an exception, we will explain to you why.<br><br>We offer you choices regarding the collection, use, and sharing of your Personal Data and we’ll respect the choices you make. Please note that if you decide not to provide us with the Personal Data that we request, you may not be able to access all of the features of the Services.<br><br>We aim to provide the information or complete the outcome you request within 30 days.<br><br>Children<br><br>As a general rule, if you are outside the EEA, children under 13 are not allowed to use the Services. If you are based in the EEA you may only use the Services if you are over 16, or the age needed to consent to the processing of personal data in your country of residence. We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>If we learn that we have collected Personal Data of a child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.<br><br>Changes to this Privacy Policy<br><br>Any Personal Data that we collect is covered by the Privacy Policy in effect at the time such information is collected. We may make changes to this Privacy Policy from time to time. You will be given reasonable notice of any material change.<br><br>Third Parties<br><br>In using our Services you may access links to websites and services that are owned or operated by third parties (each, a “Third Party Service”). Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service. To protect your information we recommend that you carefully review the privacy policies of all Third Party Service that you access.<br><br>11. Game Specific Disclosures<br><br>Additional Privacy Information for Pokémon GO<br><br>Pokémon Trainer Club Accounts. You can sign up for Pokémon GO using your third-party Pokémon Trainer Club (“PTC”) account administered by The Pokémon Company International (“TPCI”). If you choose to do so, we will collect from TPCI your PTC registered email address, your PTC username and a unique PTC user ID. If you are registering your PTC account on behalf of your authorized child we will also collect some Personal Data about your child. See the “Accounts with Children” paragraph below for more information.<br><br>Accounts with Children. We comply with parental consent requirements as mandated by the U.S. Children’s Online Privacy Protection Act (COPPA) and European data protection laws (including, without limitation, the General Data Protection Regulation) through a verification and consent process handled by TPCI. As described in the Pokémon GO Terms of Service, the parent or legal guardian (“Parent”) of each child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data (“Child”), must register with TPCI through a PTC account before their Child can access and use the game. The Parent will have to provide to TPCI certain Personal Data about the Child in accordance with the TPCI privacy policy. Of that, Niantic will only collect from TPCI the Child’s personal email address, and the date when the Child will grow out of the age limits listed above.<br><br>For U.S. residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. TPCI will not share that information with us. After TPCI verifies the Parent’s identity, it will ask the Parent to consent to the Child accessing Pokémon GO. If a Parent does not consent to a Child’s access to and use of Pokémon GO or does not verify their identity through the consent process, Niantic will bar that Child’s registration on Pokémon GO and prevent the Child’s access to and use of the game.<br><br>Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.<br><br>Information shared with other players. When you take certain actions in Pokémon GO and capture a Gym, your (or your authorized Child’s) username will be shared publicly through the game, including with other players, in connection with that Gym location.<br><br>Apple Watch and Apple Health App Data. If you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data about your fitness activity (Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch Eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.<br>Additional Privacy Information for Ingress<br><br>Information shared publicly. When you play Ingress, as part of the gameplay the following information about you will be shared through the game (including with other players directly within the app, in game notifications emailed to other players as part of the gameplay, and online on the Ingress Intel Map website), and will therefore become publicly available: your in-game username, messages sent to other users in COMMS, and in-game portals that you interact with, as well as your device location whenever you take an in-game action.<br>
@@ -4334,6 +4885,9 @@ Sign in
 Pokémon Trainer Club
 Trainer Club
 Register
+ONE TIME ONLY
+{0} REMAINING
+{0} REMAINING
 Scan the QR Code
 QR Code recognition failed. Please try manual input.
 Adventure Week 2019: Catch {0} Aron
@@ -4402,6 +4956,7 @@ Catch {0} Mudkip
 Catch {0} Swablu
 Catch a Swablu
 Catch {0} Turtwig
+Catch {0} Trapinch
 Catch {0} Pidgey or Murkrow
 Catch a Pidgey or Murkrow
 Catch {0} Treecko or Mudkip
@@ -4424,6 +4979,7 @@ Catch {0} Bug-type Pokémon
 Catch {0} different species of Bug-type Pokémon
 Catch a Bug-type Pokémon
 Catch {0} Dark-type Pokémon
+Catch {0} different species of Dark-type Pokémon
 Catch a Dark-type Pokémon
 Catch {0} Dragon-type Pokémon
 Catch a Dragon-type Pokémon
@@ -4448,6 +5004,7 @@ Catch a Grass-type Pokémon
 Catch {0} Ground-type Pokémon
 Catch {0} different species of Ground-type Pokémon
 Catch a Ground-type Pokémon
+Catch {0} Grass- or Ice-type Pokémon
 Catch {0} Ice-type Pokémon
 Catch {0} different species of Ice-type Pokémon
 Catch an Ice-type Pokémon
@@ -4464,6 +5021,7 @@ Catch a Rock-type Pokémon
 Catch {0} Steel-type Pokémon
 Catch {0} different species of Steel-type Pokémon
 Catch a Steel-type Pokémon
+Catch {0} Fire-, Water-, or Electric-type Pokémon
 Catch {0} Water-type Pokémon
 Catch {0} different species of Water-type Pokémon
 Catch a Water-type Pokémon
@@ -4482,7 +5040,8 @@ A Ripple in Time
 Let’s GO, Meltan
 A Mythical Discovery
 A Troubling Situation
-A Spooky Message
+A Spooky Message 2018
+A Spooky Message 2019
 Daily Bonus
 Welcome to GO Fest 2019, %PLAYERNAME%! I’m glad you’re here.
 I discovered something fascinating during my research, and I need your help. I’ve come across what I believe to be a rare Pokémon deep in slumber.
@@ -4954,10 +5513,14 @@ A Troubling Situation (1/4)
 A Troubling Situation (2/4)
 A Troubling Situation (3/4)
 A Troubling Situation (4/4)
-A Spooky Message
-A Spooky Message (1/3)
-A Spooky Message (2/3)
-A Spooky Message (3/3)
+A Spooky Message 2018
+A Spooky Message 2018 (1/3)
+A Spooky Message 2019 (1/3)
+A Spooky Message 2018 (2/3)
+A Spooky Message 2019 (2/3)
+A Spooky Message 2018 (3/3)
+A Spooky Message 2019
+A Spooky Message 2019 (3/3)
 Pokémon GO Safari Zone in YOKOSUKA
 Trade Pokémon {0} times
 Trade a Pokémon
@@ -5174,6 +5737,7 @@ Battery Saver
 Battle Victory
 Adventure Sync
 Tracks distance and location while game is closed.
+The distance you’ve walked might not be registered if Pokémon GO doesn’t have “Always” location permission.
 Change Nickname
 Email me events, offers, and updates.
 Allow Battle Challenges with Friends
@@ -5334,6 +5898,7 @@ New reply from support!
 Account Suspension NoticYour account has been suspended for violating the Terms of Service.This suspension will last approximately 30 days. Any further transgressions will result in permanent account termination.<a href="three_strike_policy_url">Visit the Help Center</a> for more information."
 Account Suspension Notic
 While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
+Pokémon GO requires your location to find Pokémon and PokéStops near you.
 I am Blanche, leader of Team Mystic.
 The wisdom of Pokémon is immeasurably deep.
 I am researching why it is that they evolve.
@@ -5416,6 +5981,8 @@ Daily trading limit reached. Come back tomorrow to trade more.
 Unknown Trade Error
 This trading session has expired.
 Trading service temporarily unavailable. Try again later.
+If this Pokémon is received through a trade, it can be evolved without using Candy. 
+{0} received through trades don’t require any Candy to evolve.
 This Pokémon is a favorite Pokémon.
 This Pokémon is your Buddy Pokémon.
 This Pokémon can’t be traded due to an error.
@@ -5496,9 +6063,10 @@ An electronic Lure Module that attracts Pokémon for 30 minutes—especially one
 Magnetic Lure Module
 A natural Lure Module that attracts Pokémon for 30 minutes—especially ones that love mossy scents. It can also cause some Pokémon to evolve.
 Mossy Lure Module
+TURN ON BACKGROUND LOCATION
 2+ days ago
-Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks. 
-Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks. 
+Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks.
+Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks.
 Dark-type Pokémon are weak to Fighting-, Bug-, and Fairy-type attacks.
 Dark-type Pokémon are weak to Fighting-, Bug-, and Fairy-type attacks.
 Dragon-type Pokémon are weak to Ice-, Dragon-, and Fairy-type attacks.
@@ -5531,8 +6099,8 @@ Rock-type Pokémon are weak to Water-, Grass-, Fighting-, Ground-, and Steel-typ
 Rock-type Pokémon are weak to Water-, Grass-, Fighting-, Ground-, and Steel-type attacks.
 Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
-Water-type Pokémon are weak to Grass- and Electric-type attacks. 
-Water-type Pokémon are weak to Grass- and Electric-type attacks. 
+Water-type Pokémon are weak to Grass- and Electric-type attacks.
+Water-type Pokémon are weak to Grass- and Electric-type attacks.
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.
 This device, OS, or software is not compatible with Pokémon GO<a href="unauthorized_device_help_center_link">Visit the Help Center </a> for more information."
@@ -5606,7 +6174,13 @@ Sunny
 Weather
 Windy
 Cannot access your device's camera. Check camera permissions.
+World Tourism Day: Make a new friend
+World Tourism Day: Send {0} Gifts to friends
+World Tourism Day: Trade Pokémon caught 10,000 km apart
+World Tourism Day: Trade Pokémon caught 10,000 km apart
 Yesterday
+You May See This Later
+You might see this message later. In order to receive credit for Adventure Sync, “Change to Always Allow” must be selected.
 Trainer Code has been changed.
 Others can input this Trainer Code to add you as a friend.
 Your Trainer Code

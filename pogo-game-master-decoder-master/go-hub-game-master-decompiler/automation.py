@@ -29,7 +29,7 @@ with open('../../Data Parser Python/Game_Master/'+latest_txt, 'r') as f:
     
 print("\nDiff file processing...")
 diff=""
-for i in difflib.unified_diff(data, f):
+for i in difflib.unified_diff(f,data):
     diff+=i+'\n'
 if(diff==""): print("There is nothing changed!")
 else:

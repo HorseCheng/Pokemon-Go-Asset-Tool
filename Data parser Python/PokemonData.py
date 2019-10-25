@@ -24,7 +24,7 @@ alola=[19,20,26,27,28,37,38,50,51,52,53,74,75,76,88,89,103,105]
 indexlist=[]
 pokedata=[]
 typee=["","","",""]#type one,type two, weather boost one, weather boost two
-intro=[[],[],[],[]]#chi name, eng name, chi type, chi intro,
+intro=[[],[],[],[]]#chi name, eng name, chi type, chi intro
 check=1;checknum=0
 #gender=[0,0,0]
 pokecheck=[0 for c in range(0,1000)] #pokemon different type count
@@ -46,7 +46,7 @@ for i in range(0,len(master)):
         checkmatrix=[0 for c in range(0,14)]
         
         #find duplicated data
-        if (num in alola) or (num in [150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,129,130,131,143,147,148,149,169,182,186,212,228,229,258,246,247,248,259,260,280,281,282,387,388,389,475]): 
+        if (num in alola) or (num in [25,150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,13,14,15,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,125,126,129,130,131,143,147,148,149,169,179,180,181,182,186,212,228,229,258,246,247,248,259,260,273,274,275,280,281,282,302,328,329,330,331,332,353,354,355,356,387,388,389,466,467,475,477]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
         if((num in[351,412,413,421,422,423,487,492,550,555,585,586,641,642,645,647,648,649])and (check)):check=0;checknum=num;i+=40;continue
@@ -113,13 +113,13 @@ okk=0
 for i in range(0,len(master)):
     if("V0001_POKEMON" in master[i] ):
         okk=okk+1
-        if(okk==6):break #1: form #2~5:BULBASAUR gender ratio with different form
+        if(okk==7):break #1: form #2~6:BULBASAUR gender ratio with different form
     x=re.search("template_id: \"SPAWN_V[0-9]+_POKEMON_",master[i])
     if x:
         num=int(re.search("[0-9]+",master[i]).group())
         
-         #find duplicated data
-        if (num in alola) or (num in [150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,129,130,131,143,147,148,149,169,182,186,212,228,229,258,246,247,248,259,260,280,281,282,387,388,389,475]):
+        #find duplicated data
+        if (num in alola) or (num in [25,150,386,479,493,646])or(num in [1,2,3,4,5,6,7,8,9,13,14,15,41,42,43,44,45,48,49,54,55,58,59,60,61,62,63,64,65,88,89,96,97,104,105,107,123,125,126,129,130,131,143,147,148,149,169,179,180,181,182,186,212,228,229,258,246,247,248,259,260,273,274,275,280,281,282,302,328,329,330,331,332,353,354,355,356,387,388,389,466,467,475,477]): 
             if("NORMAL" in master[i] or "ORIGIN" in master[i] ):i+=40;continue
         if(num != checknum ):check=1
         if((num in[351,412,413,421,422,423,487,492,550,555,585,586,641,642,645,647,648,649])and (check)):check=0;checknum=num;i+=40;continue
@@ -183,12 +183,13 @@ for e in range(startt,len(chi)):#pokemon name
     
 #list to string
 wholestring="" #data string to output
+
 for i in range(0,len(pokedata)):
     wholestring+='c '
     for x in pokedata[i]:
         wholestring+=x+' '
     wholestring+=genderstr[i]+'\n'
-'''
+
 namestring="" #chinese name string to output
 for i in range(0,len(indexlist)):
     namestring+='c '+str(indexlist[i])+' '+intro[0][i]+'\n'
@@ -197,14 +198,13 @@ for i in range(0,len(indexlist)):
 descpritionstring=""
 for i in range(0,len(indexlist)):
     descpritionstring+='c '+intro[2][i]+' '+intro[3][i]+'\n'
-''' 
+
 #output data
 aa=open("Pokemon Data/1_chiname.txt","w",encoding="UTF-8")
 bb=open("Pokemon Data/2_engname.txt","w",encoding="UTF-8")
 cc=open("Pokemon Data/3_database.txt","w",encoding="UTF-8")
 dd=open("Pokemon Data/4_description.txt","w",encoding="UTF-8")
-cc.write(wholestring);
-#aa.write(namestring);dd.write(descpritionstring)
+cc.write(wholestring);aa.write(namestring);dd.write(descpritionstring)
 aa.close();cc.close();dd.close()
 
 for i in intro[1]:
