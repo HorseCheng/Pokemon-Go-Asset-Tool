@@ -9442,7 +9442,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GLOBAL_TICKETED_EVENT"
   badge_settings {
-    badge_type: 5100
+    badge_type: BADGE_GLOBAL_TICKETED_EVENT
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9990,7 +9990,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS"
   badge_settings {
-    badge_type: 5040
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -9999,7 +9999,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL"
   badge_settings {
-    badge_type: 5039
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10008,7 +10008,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS"
   badge_settings {
-    badge_type: 5042
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10017,7 +10017,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL"
   badge_settings {
-    badge_type: 5041
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10026,7 +10026,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS"
   badge_settings {
-    badge_type: 5044
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10035,7 +10035,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL"
   badge_settings {
-    badge_type: 5043
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10044,7 +10044,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS"
   badge_settings {
-    badge_type: 5046
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10053,7 +10053,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL"
   badge_settings {
-    badge_type: 5045
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -13567,7 +13567,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0326_MOVE_THUNDER_FANG_FAST"
   combat_move {
-    unique_id: 326
+    unique_id: THUNDER_FANG_FAST
     type: POKEMON_TYPE_ELECTRIC
     power: 8
     vfx_name: "thunder_fang_fast"
@@ -13578,7 +13578,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0327_MOVE_ICE_FANG_FAST"
   combat_move {
-    unique_id: 327
+    unique_id: ICE_FANG_FAST
     type: POKEMON_TYPE_ICE
     power: 8
     vfx_name: "ice_fang_fast"
@@ -18836,7 +18836,7 @@ item_templates {
 item_templates {
   template_id: "IAP_CATEGORY_GLOBAL_EVENT_TICKET"
   iap_category_display {
-    category: 10
+    category: IAP_CATEGORY_GLOBAL_EVENT_TICKET
     sort_order: 2
     banner_enabled: true
     image_url: "https://storage.googleapis.com/prod-public-images/pgo_regis_660x330.jpg"
@@ -18944,16 +18944,16 @@ item_templates {
 item_templates {
   template_id: "ITEM_GLOBAL_EVENT_TICKET"
   item_settings {
-    item_id: 1600
-    item_type: 23
-    category: 22
-    18 {
-      1: 5100
-      2: 86400000
-      3: "2019-11-02T11:00:00"
-      4: "2019-11-02T19:00:00"
-      100: 1572692400000
-      101: 1572721200000
+    item_id: ITEM_GLOBAL_EVENT_TICKET
+    item_type: ITEM_TYPE_GLOBAL_EVENT_TICKET
+    category: ITEM_CATEGORY_GLOBAL_EVENT_TICKET
+    global_event_ticket {
+      event_badge: BADGE_GLOBAL_TICKETED_EVENT
+      grant_badge_before_event_start_ms: 86400000
+      event_start_time: "2019-11-02T11:00:00"
+      event_end_time: "2019-11-02T19:00:00"
+      client_event_start_time_utc_ms: 1572692400000
+      client_event_end_time_utc_ms: 1572721200000
     }
   }
 }
@@ -19445,16 +19445,16 @@ item_templates {
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.2"
-  60 {
-    1: 1
-    2: 1
+  limited_purchase_sku_settings {
+    purchase_limit: 1
+    version: 1
   }
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.3"
-  60 {
-    1: 1
-    2: 1
+  limited_purchase_sku_settings {
+    purchase_limit: 1
+    version: 1
   }
 }
 item_templates {
@@ -42100,7 +42100,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -42177,7 +42177,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -42255,7 +42255,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -42333,7 +42333,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -62513,7 +62513,7 @@ item_templates {
     }
     quick_moves: IRON_TAIL_FAST
     quick_moves: DRAGON_TAIL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: EARTHQUAKE
     cinematic_moves: HEAVY_SLAM
     cinematic_moves: CRUNCH
@@ -66767,7 +66767,7 @@ item_templates {
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: HYDRO_PUMP
     cinematic_moves: BUBBLE_BEAM
     cinematic_moves: WATER_PULSE
@@ -69918,8 +69918,8 @@ item_templates {
     }
     quick_moves: BITE_FAST
     quick_moves: FIRE_FANG_FAST
-    quick_moves: 326
-    quick_moves: 327
+    quick_moves: THUNDER_FANG_FAST
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: CRUNCH
     cinematic_moves: PLAY_ROUGH
     cinematic_moves: POISON_FANG
@@ -74666,7 +74666,7 @@ item_templates {
     }
     quick_moves: BITE_FAST
     quick_moves: ASTONISH_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     quick_moves: FIRE_FANG_FAST
     cinematic_moves: PLAY_ROUGH
     cinematic_moves: VICE_GRIP
@@ -76803,7 +76803,7 @@ item_templates {
 item_templates {
   template_id: "V0326_MOVE_THUNDER_FANG_FAST"
   move_settings {
-    movement_id: 326
+    movement_id: THUNDER_FANG_FAST
     animation_id: 4
     pokemon_type: POKEMON_TYPE_ELECTRIC
     power: 12
@@ -76897,7 +76897,7 @@ item_templates {
 item_templates {
   template_id: "V0327_MOVE_ICE_FANG_FAST"
   move_settings {
-    movement_id: 327
+    movement_id: ICE_FANG_FAST
     animation_id: 4
     pokemon_type: POKEMON_TYPE_ICE
     power: 12
@@ -76988,7 +76988,7 @@ item_templates {
 item_templates {
   template_id: "V0328_MOVE_HORN_DRILL"
   move_settings {
-    movement_id: 328
+    movement_id: HORN_DRILL
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     accuracy_chance: 1
@@ -77080,7 +77080,7 @@ item_templates {
 item_templates {
   template_id: "V0329_MOVE_FISSURE"
   move_settings {
-    movement_id: 329
+    movement_id: FISSURE
     animation_id: 5
     pokemon_type: POKEMON_TYPE_GROUND
     accuracy_chance: 1
@@ -88906,8 +88906,8 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: BITE_FAST
-    quick_moves: 326
-    quick_moves: 327
+    quick_moves: THUNDER_FANG_FAST
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: EARTHQUAKE
     cinematic_moves: STONE_EDGE
     cinematic_moves: BODY_SLAM
@@ -89069,7 +89069,7 @@ item_templates {
     quick_moves: POISON_STING_FAST
     quick_moves: INFESTATION_FAST
     quick_moves: BITE_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: CRUNCH
     cinematic_moves: AQUA_TAIL
     cinematic_moves: SLUDGE_BOMB
@@ -120137,12 +120137,12 @@ item_templates {
   template_id: "general1.ticket.1"
   iap_item_display {
     sku: "general1.ticket.1"
-    category: 10
+    category: IAP_CATEGORY_GLOBAL_EVENT_TICKET
     hidden: true
-    11: "2019-10-22T13:00:00"
-    12: "2019-11-02T17:00:00"
-    13: 1571749200000
-    14: 1572714000000
+    sku_enable_time: "2019-10-22T13:00:00"
+    sku_disable_time: "2019-11-02T17:00:00"
+    sku_enable_time_utc_ms: 1571749200000
+    sku_disable_time_utc_ms: 1572714000000
   }
 }
 item_templates {

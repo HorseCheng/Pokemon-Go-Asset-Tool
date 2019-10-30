@@ -9404,7 +9404,7 @@ item_templates {
     weekly_fitness_goal_level1_distance_km: 5
     weekly_fitness_goal_level2_distance_km: 25
     weekly_fitness_goal_level3_distance_km: 50
-    4: 0x4059000000000000
+    weekly_fitness_goal_level4_distance_km: 100
   }
 }
 item_templates {
@@ -9588,7 +9588,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_GLOBAL_TICKETED_EVENT"
   badge_settings {
-    badge_type: 5100
+    badge_type: BADGE_GLOBAL_TICKETED_EVENT
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10136,7 +10136,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS"
   badge_settings {
-    badge_type: 5040
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10145,7 +10145,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL"
   badge_settings {
-    badge_type: 5039
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10154,7 +10154,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS"
   badge_settings {
-    badge_type: 5042
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10163,7 +10163,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL"
   badge_settings {
-    badge_type: 5041
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10172,7 +10172,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS"
   badge_settings {
-    badge_type: 5044
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10181,7 +10181,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL"
   badge_settings {
-    badge_type: 5043
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10190,7 +10190,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS"
   badge_settings {
-    badge_type: 5046
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -10199,7 +10199,7 @@ item_templates {
 item_templates {
   template_id: "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL"
   badge_settings {
-    badge_type: 5045
+    badge_type: BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL
     badge_rank: 2
     targets: 100
     event_badge: true
@@ -13637,7 +13637,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0326_MOVE_THUNDER_FANG_FAST"
   combat_move {
-    unique_id: 326
+    unique_id: THUNDER_FANG_FAST
     type: POKEMON_TYPE_ELECTRIC
     power: 8
     vfx_name: "thunder_fang_fast"
@@ -13648,7 +13648,7 @@ item_templates {
 item_templates {
   template_id: "COMBAT_V0327_MOVE_ICE_FANG_FAST"
   combat_move {
-    unique_id: 327
+    unique_id: ICE_FANG_FAST
     type: POKEMON_TYPE_ICE
     power: 8
     vfx_name: "ice_fang_fast"
@@ -16356,13 +16356,13 @@ item_templates {
   form_settings {
     pokemon: SABLEYE
     forms {
-      form: 923
+      form: SABLEYE_NORMAL
     }
     forms {
-      form: 924
+      form: SABLEYE_SHADOW
     }
     forms {
-      form: 925
+      form: SABLEYE_PURIFIED
     }
   }
 }
@@ -16812,13 +16812,13 @@ item_templates {
   form_settings {
     pokemon: SHUPPET
     forms {
-      form: 908
+      form: SHUPPET_NORMAL
     }
     forms {
-      form: 909
+      form: SHUPPET_SHADOW
     }
     forms {
-      form: 910
+      form: SHUPPET_PURIFIED
     }
   }
 }
@@ -16827,13 +16827,13 @@ item_templates {
   form_settings {
     pokemon: BANETTE
     forms {
-      form: 911
+      form: BANETTE_NORMAL
     }
     forms {
-      form: 912
+      form: BANETTE_SHADOW
     }
     forms {
-      form: 913
+      form: BANETTE_PURIFIED
     }
   }
 }
@@ -16842,13 +16842,13 @@ item_templates {
   form_settings {
     pokemon: DUSKULL
     forms {
-      form: 914
+      form: DUSKULL_NORMAL
     }
     forms {
-      form: 915
+      form: DUSKULL_SHADOW
     }
     forms {
-      form: 916
+      form: DUSKULL_PURIFIED
     }
   }
 }
@@ -16857,13 +16857,13 @@ item_templates {
   form_settings {
     pokemon: DUSCLOPS
     forms {
-      form: 917
+      form: DUSCLOPS_NORMAL
     }
     forms {
-      form: 918
+      form: DUSCLOPS_SHADOW
     }
     forms {
-      form: 919
+      form: DUSCLOPS_PURIFIED
     }
   }
 }
@@ -17710,13 +17710,13 @@ item_templates {
   form_settings {
     pokemon: DUSKNOIR
     forms {
-      form: 920
+      form: DUSKNOIR_NORMAL
     }
     forms {
-      form: 921
+      form: DUSKNOIR_SHADOW
     }
     forms {
-      form: 922
+      form: DUSKNOIR_PURIFIED
     }
   }
 }
@@ -19141,7 +19141,7 @@ item_templates {
 item_templates {
   template_id: "IAP_CATEGORY_GLOBAL_EVENT_TICKET"
   iap_category_display {
-    category: 10
+    category: IAP_CATEGORY_GLOBAL_EVENT_TICKET
     sort_order: 2
     banner_enabled: true
     image_url: "https://storage.googleapis.com/prod-public-images/20191004_pgo_regigigas_002.jpg"
@@ -19189,51 +19189,51 @@ item_templates {
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_FRIDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_MONDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_SATURDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_SUNDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_THURSDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_TUESDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
   template_id: "INVASION_AVAILABILITY_SETTINGS_WEDNESDAY"
-  62 {
-    1: 360
-    2: 1320
+  pokestop_invasion_availability_settings {
+    availability_start_minute: 360
+    availability_end_minute: 1320
   }
 }
 item_templates {
@@ -19298,28 +19298,28 @@ item_templates {
 item_templates {
   template_id: "ITEM_GIOVANNI_MAP"
   item_settings {
-    item_id: 1503
-    item_type: 22
-    category: 21
+    item_id: ITEM_GIOVANNI_MAP
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 100
-    17 {
-      1: 1
+    incident_ticket {
+      ignore_full_inventory: true
     }
   }
 }
 item_templates {
   template_id: "ITEM_GLOBAL_EVENT_TICKET"
   item_settings {
-    item_id: 1600
-    item_type: 23
-    category: 22
-    18 {
-      1: 5100
-      2: 86400000
-      3: "2019-11-02T11:00:00"
-      4: "2019-11-02T19:00:00"
-      100: 1572692400000
-      101: 1572721200000
+    item_id: ITEM_GLOBAL_EVENT_TICKET
+    item_type: ITEM_TYPE_GLOBAL_EVENT_TICKET
+    category: ITEM_CATEGORY_GLOBAL_EVENT_TICKET
+    global_event_ticket {
+      event_badge: BADGE_GLOBAL_TICKETED_EVENT
+      grant_badge_before_event_start_ms: 86400000
+      event_start_time: "2019-11-02T11:00:00"
+      event_end_time: "2019-11-02T19:00:00"
+      client_event_start_time_utc_ms: 1572692400000
+      client_event_end_time_utc_ms: 1572721200000
     }
   }
 }
@@ -19462,25 +19462,25 @@ item_templates {
 item_templates {
   template_id: "ITEM_LEADER_MAP"
   item_settings {
-    item_id: 1502
-    item_type: 22
-    category: 21
+    item_id: ITEM_LEADER_MAP
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 100
-    17 {
-      1: 1
+    incident_ticket {
+      ignore_full_inventory: true
     }
   }
 }
 item_templates {
   template_id: "ITEM_LEADER_MAP_FRAGMENT"
   item_settings {
-    item_id: 1501
-    item_type: 22
-    category: 21
+    item_id: ITEM_LEADER_MAP_FRAGMENT
+    item_type: ITEM_TYPE_INCIDENT_TICKET
+    category: ITEM_CATEGORY_INCIDENT_TICKET
     drop_trainer_level: 100
-    17 {
-      2: 6
-      3: 1502
+    incident_ticket {
+      upgrade_requirement_count: 6
+      upgraded_item: ITEM_LEADER_MAP
     }
   }
 }
@@ -19836,16 +19836,16 @@ item_templates {
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.2"
-  60 {
-    1: 1
-    2: 1
+  limited_purchase_sku_settings {
+    purchase_limit: 1
+    version: 1
   }
 }
 item_templates {
   template_id: "LPSKU_bundle.general1.tiny.3"
-  60 {
-    1: 1
-    2: 1
+  limited_purchase_sku_settings {
+    purchase_limit: 1
+    version: 1
   }
 }
 item_templates {
@@ -44382,7 +44382,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -44459,7 +44459,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -44537,7 +44537,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -44615,7 +44615,7 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: FIRE_BLAST
     cinematic_moves: WILD_CHARGE
     cinematic_moves: CRUNCH
@@ -66047,7 +66047,7 @@ item_templates {
     }
     quick_moves: IRON_TAIL_FAST
     quick_moves: DRAGON_TAIL_FAST
-    quick_moves: 326
+    quick_moves: THUNDER_FANG_FAST
     cinematic_moves: EARTHQUAKE
     cinematic_moves: HEAVY_SLAM
     cinematic_moves: CRUNCH
@@ -70301,7 +70301,7 @@ item_templates {
     }
     quick_moves: EXTRASENSORY_FAST
     quick_moves: SNARL_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: HYDRO_PUMP
     cinematic_moves: BUBBLE_BEAM
     cinematic_moves: WATER_PULSE
@@ -73452,8 +73452,8 @@ item_templates {
     }
     quick_moves: BITE_FAST
     quick_moves: FIRE_FANG_FAST
-    quick_moves: 326
-    quick_moves: 327
+    quick_moves: THUNDER_FANG_FAST
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: CRUNCH
     cinematic_moves: PLAY_ROUGH
     cinematic_moves: POISON_FANG
@@ -78951,7 +78951,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 0.5
     model_scale_v2: 1
-    form: 923
+    form: SABLEYE_NORMAL
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -79028,7 +79028,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 0.5
     model_scale_v2: 1
-    form: 925
+    form: SABLEYE_PURIFIED
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -79105,7 +79105,7 @@ item_templates {
     km_buddy_distance: 5
     model_height: 0.5
     model_scale_v2: 1
-    form: 924
+    form: SABLEYE_SHADOW
     buddy_offset_male: 0
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -79186,7 +79186,7 @@ item_templates {
     }
     quick_moves: BITE_FAST
     quick_moves: ASTONISH_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     quick_moves: FIRE_FANG_FAST
     cinematic_moves: PLAY_ROUGH
     cinematic_moves: VICE_GRIP
@@ -81323,7 +81323,7 @@ item_templates {
 item_templates {
   template_id: "V0326_MOVE_THUNDER_FANG_FAST"
   move_settings {
-    movement_id: 326
+    movement_id: THUNDER_FANG_FAST
     animation_id: 4
     pokemon_type: POKEMON_TYPE_ELECTRIC
     power: 12
@@ -81417,7 +81417,7 @@ item_templates {
 item_templates {
   template_id: "V0327_MOVE_ICE_FANG_FAST"
   move_settings {
-    movement_id: 327
+    movement_id: ICE_FANG_FAST
     animation_id: 4
     pokemon_type: POKEMON_TYPE_ICE
     power: 12
@@ -81508,7 +81508,7 @@ item_templates {
 item_templates {
   template_id: "V0328_MOVE_HORN_DRILL"
   move_settings {
-    movement_id: 328
+    movement_id: HORN_DRILL
     animation_id: 5
     pokemon_type: POKEMON_TYPE_NORMAL
     accuracy_chance: 1
@@ -81841,7 +81841,7 @@ item_templates {
 item_templates {
   template_id: "V0329_MOVE_FISSURE"
   move_settings {
-    movement_id: 329
+    movement_id: FISSURE
     animation_id: 5
     pokemon_type: POKEMON_TYPE_GROUND
     accuracy_chance: 1
@@ -85057,7 +85057,7 @@ item_templates {
     evolution_branch {
       evolution: BANETTE
       candy_cost: 50
-      form: 911
+      form: BANETTE_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 4
@@ -85135,10 +85135,10 @@ item_templates {
     evolution_branch {
       evolution: BANETTE
       candy_cost: 50
-      form: 911
+      form: BANETTE_NORMAL
     }
     model_scale_v2: 1
-    form: 908
+    form: SHUPPET_NORMAL
     buddy_offset_male: 4
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -85214,10 +85214,10 @@ item_templates {
     evolution_branch {
       evolution: BANETTE
       candy_cost: 45
-      form: 913
+      form: BANETTE_PURIFIED
     }
     model_scale_v2: 1
-    form: 910
+    form: SHUPPET_PURIFIED
     buddy_offset_male: 4
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -85293,10 +85293,10 @@ item_templates {
     evolution_branch {
       evolution: BANETTE
       candy_cost: 50
-      form: 912
+      form: BANETTE_SHADOW
     }
     model_scale_v2: 1
-    form: 909
+    form: SHUPPET_SHADOW
     buddy_offset_male: 4
     buddy_offset_male: 0
     buddy_offset_male: 0
@@ -85458,7 +85458,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.08
     model_scale_v2: 1
-    form: 911
+    form: BANETTE_NORMAL
     buddy_offset_male: 15
     buddy_offset_male: 0
     buddy_offset_male: 60
@@ -85538,7 +85538,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.08
     model_scale_v2: 1
-    form: 913
+    form: BANETTE_PURIFIED
     buddy_offset_male: 15
     buddy_offset_male: 0
     buddy_offset_male: 60
@@ -85618,7 +85618,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 1.08
     model_scale_v2: 1
-    form: 912
+    form: BANETTE_SHADOW
     buddy_offset_male: 15
     buddy_offset_male: 0
     buddy_offset_male: 60
@@ -85703,7 +85703,7 @@ item_templates {
     evolution_branch {
       evolution: DUSCLOPS
       candy_cost: 25
-      form: 917
+      form: DUSCLOPS_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 5
@@ -85781,10 +85781,10 @@ item_templates {
     evolution_branch {
       evolution: DUSCLOPS
       candy_cost: 25
-      form: 917
+      form: DUSCLOPS_NORMAL
     }
     model_scale_v2: 1
-    form: 914
+    form: DUSKULL_NORMAL
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 70
@@ -85860,10 +85860,10 @@ item_templates {
     evolution_branch {
       evolution: DUSCLOPS
       candy_cost: 22
-      form: 919
+      form: DUSCLOPS_PURIFIED
     }
     model_scale_v2: 1
-    form: 916
+    form: DUSKULL_PURIFIED
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 70
@@ -85939,10 +85939,10 @@ item_templates {
     evolution_branch {
       evolution: DUSCLOPS
       candy_cost: 25
-      form: 918
+      form: DUSCLOPS_SHADOW
     }
     model_scale_v2: 1
-    form: 915
+    form: DUSKULL_SHADOW
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 70
@@ -86028,7 +86028,7 @@ item_templates {
       evolution: DUSKNOIR
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 920
+      form: DUSKNOIR_NORMAL
     }
     model_scale_v2: 1
     buddy_offset_male: 5
@@ -86110,10 +86110,10 @@ item_templates {
       evolution: DUSKNOIR
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 920
+      form: DUSKNOIR_NORMAL
     }
     model_scale_v2: 1
-    form: 917
+    form: DUSCLOPS_NORMAL
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 35
@@ -86193,10 +86193,10 @@ item_templates {
       evolution: DUSKNOIR
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 90
-      form: 922
+      form: DUSKNOIR_PURIFIED
     }
     model_scale_v2: 1
-    form: 919
+    form: DUSCLOPS_PURIFIED
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 35
@@ -86276,10 +86276,10 @@ item_templates {
       evolution: DUSKNOIR
       evolution_item_requirement: ITEM_GEN4_EVOLUTION_STONE
       candy_cost: 100
-      form: 921
+      form: DUSKNOIR_SHADOW
     }
     model_scale_v2: 1
-    form: 918
+    form: DUSCLOPS_SHADOW
     buddy_offset_male: 5
     buddy_offset_male: 0
     buddy_offset_male: 35
@@ -95643,8 +95643,8 @@ item_templates {
     }
     quick_moves: FIRE_FANG_FAST
     quick_moves: BITE_FAST
-    quick_moves: 326
-    quick_moves: 327
+    quick_moves: THUNDER_FANG_FAST
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: EARTHQUAKE
     cinematic_moves: STONE_EDGE
     cinematic_moves: BODY_SLAM
@@ -95806,7 +95806,7 @@ item_templates {
     quick_moves: POISON_STING_FAST
     quick_moves: INFESTATION_FAST
     quick_moves: BITE_FAST
-    quick_moves: 327
+    quick_moves: ICE_FANG_FAST
     cinematic_moves: CRUNCH
     cinematic_moves: AQUA_TAIL
     cinematic_moves: SLUDGE_BOMB
@@ -98614,7 +98614,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.2
     model_scale_v2: 0.97
-    form: 920
+    form: DUSKNOIR_NORMAL
     buddy_offset_male: 48
     buddy_offset_male: 0
     buddy_offset_male: -77.4
@@ -98696,7 +98696,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.2
     model_scale_v2: 0.97
-    form: 922
+    form: DUSKNOIR_PURIFIED
     buddy_offset_male: 48
     buddy_offset_male: 0
     buddy_offset_male: -77.4
@@ -98778,7 +98778,7 @@ item_templates {
     buddy_size: BUDDY_BIG
     model_height: 2.2
     model_scale_v2: 0.97
-    form: 921
+    form: DUSKNOIR_SHADOW
     buddy_offset_male: 48
     buddy_offset_male: 0
     buddy_offset_male: -77.4
@@ -127605,11 +127605,11 @@ item_templates {
   template_id: "general1.ticket.1"
   iap_item_display {
     sku: "general1.ticket.1"
-    category: 10
-    11: "2019-10-24T10:00:00"
-    12: "2019-11-02T17:00:00"
-    13: 1571911200000
-    14: 1572714000000
+    category: IAP_CATEGORY_GLOBAL_EVENT_TICKET
+    sku_enable_time: "2019-10-24T10:00:00"
+    sku_disable_time: "2019-11-02T17:00:00"
+    sku_enable_time_utc_ms: 1571911200000
+    sku_disable_time_utc_ms: 1572714000000
   }
 }
 item_templates {
