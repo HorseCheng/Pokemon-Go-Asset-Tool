@@ -120,6 +120,36 @@ Look around an open area with your device until it recognizes a flat surface.
 Tap the tall grass to find a Pokémon. 
 Approach the Pokémon slowly. You'll get bonus rewards if you catch it!
 Tap to place a Pokémon.
+Why do you insist on wasting my time?
+You lack the gravitas to be in the presence of Team GO Rocket. I’ll finish this quickly.
+Well, if you insist on battling, as a Trainer, I must accept. However, you will pay for inconveniencing me.
+You have such an air of arrogance about you. Allow me to dispel it for you.
+Your insolence disgusts me. I’ll make sure your confidence is utterly shattered following this battle.
+Your sense of self-importance sickens me. Are you prepared to be wholly humiliated?
+Your arrogance will be your downfall, and I shall be the one to set that in motion.
+Loss is not a concept I’m acquainted with. I don’t expect that will change after this battle.
+A person of your stature shouldn’t be this confident. Fret not—I’ll do you the honor of teaching you this lesson.
+Usually I wouldn’t consider debasing myself by battling a commoner...but I’ll make an exception to humiliate you.
+How...how can this be? I...I never lose!
+How dare you...humiliate me like this?
+I haven’t felt this much humiliation since I lost my battle with Candela... You’ll pay for this.
+The last person to humiliate me like this was Candela. You’ll all pay for this...
+I...I don’t understand... I never lose...
+Oh? Are you here to challenge me? Don’t test me.
+Pokémon are my tools, and winning is my birthright. Get in my way, and you’ll be crushed, vermin.
+Are you the best that Candela and her little friends could find?
+Tch... How dare riffraff such as yourself speak to me?
+Only a fool would challenge me.
+Team GO Rocket’s domination is inevitable. Submit and you may be spared.
+Pokémon are our tools. We are entitled to power them up as we so choose. Commoners such as yourself would never understand.
+My sole purpose in life is to win. I’ll vanquish whoever dares to get in my way.
+Oh, do YOU think you can beat me? Someone of your standing? Hah!
+What a fool you are to even think of battling me.
+Don’t be too disappointed. It was always going to end like this.
+I never lose. Now get out of my sight.
+If this is the best Candela and her little friends can offer, Team GO Rocket has nothing to worry about.
+If the rest of the Trainers of this world are like you, then Team GO Rocket’s success is assured.
+It was foolish of you to think you could beat me. It’s because of my brilliance that we have Shadow Pokémon!
 Please enable camera permissions to access this feature.
 Number of other photos saved to your device: {0}.
 Slowly look around a flat, open area with your camera.
@@ -147,6 +177,7 @@ Have fun and share your photos with others. You never know what you’ll find!
 Share Your Photos!
 You’re too close to the Pokémon!
 Careful, Trainer! Treat nearby surroundings and people with courtesy while you snap photos.
+COMBINE COMPONENTS
 Attack Bonus
 Dodged!
 Try a different account
@@ -175,10 +206,12 @@ No Bag
 LeafGreen Bag
 Gengar Backpack
 Johto Bag
+Mimikyu Bag
 Seed Backpack
 Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
+Zubat Bag
 Ace Belt
 Ball Buckle
 No Belt
@@ -196,6 +229,7 @@ Fingerless Gloves
 Delibird Gloves
 No Gloves
 LeafGreen Wristbands
+Giovanni Gloves
 Gym Leader Gloves
 Team Aqua Gloves
 Team Magma Gloves
@@ -204,6 +238,7 @@ Spark-Style Gloves
 Ace Visor
 Expedition Hat
 Newsy Cap
+Cubone Cap
 Ball Cap
 Sports Cap
 Delibird Earmuffs
@@ -217,6 +252,7 @@ LeafGreen Hat
 Gengar Knit Cap
 Johto Cap
 Power-Up Knit Cap
+Litwick Cap
 Magikarp Hat
 Meltan Cap
 Meltan Earrings
@@ -245,6 +281,7 @@ Backpacker Capris
 Battle Girl Shorts
 Sprint Suit
 LeafGreen Skirt
+Giovanni Pants
 Gym Leader Skirt
 Johto Pants
 Mewtwo Pants
@@ -277,6 +314,7 @@ Surf Blue Shirt
 H.F. Custom Shirt A
 LeafGreen Top
 Gengar Shirt
+Giovanni Shirt
 GO Fest 2019 Tee
 Gym Leader Top
 Team Instinct Happi Coat
@@ -298,6 +336,7 @@ Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
 Pokémon Shirts Snorlax
 Pikachu Fan Shirt
+Pikachu Onesie
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
@@ -329,6 +368,7 @@ Running Shoes
 Delibird Boots
 No Footwear
 LeafGreen Shoes
+Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
 Mewtwo Shoes
@@ -367,10 +407,12 @@ No Bag
 FireRed Backpack
 Gengar Backpack
 Johto Bag
+Mimikyu Bag
 Seed Backpack
 Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
+Zubat Bag
 Future Specs
 No Glasses
 Jogger Sunglasses
@@ -381,6 +423,7 @@ Fingerless Gloves
 Delibird Gloves
 No Gloves
 FireRed Wristbands
+Giovanni Gloves
 Gym Leader Gloves
 Jogger Watch
 Team Aqua Gloves
@@ -390,6 +433,7 @@ Spark-Style Gloves
 Ace Earbud
 Expedition Hat
 Newsy Cap
+Cubone Cap
 Trainer Visor
 Delibird Earmuffs
 Detective Pikachu Cap
@@ -403,6 +447,7 @@ FireRed Cap
 Gengar Knit Cap
 Johto Cap
 Jogger Visor
+Litwick Cap
 Magikarp Hat
 Meltan Cap
 Mewtwo Hat
@@ -428,6 +473,7 @@ Brock Pants
 Trainer Shorts
 Fisherman Pants
 FireRed Pants
+Giovanni Pants
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
@@ -460,6 +506,7 @@ Fisherman Vest
 H.F. Custom Shirt A
 FireRed Top
 Gengar Shirt
+Giovanni Shirt
 GO Fest 2019 Tee
 Gym Leader Top
 Team Instinct Happi Coat
@@ -483,6 +530,7 @@ Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
 Pokémon Shirts Snorlax
 Pikachu Fan Shirt
+Pikachu Onesie
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
@@ -513,6 +561,7 @@ Delibird Boots
 No Footwear
 Fisherman Boots
 FireRed Shoes
+Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
@@ -535,6 +584,8 @@ No Socks
 Team Magma Socks
 Necklaces
 Outfits
+Pose
+Pose
 POSES
 Footwear
 New items available!
@@ -607,6 +658,8 @@ N0
 Evolve {0} Pokémon.
 Scientist
 N0
+-
+A Colossal Discovery
 Chicago, June 12, 2019—North
 Pokémon GO Fest—Early Access
 Chicago, June 12, 2019—North
@@ -746,7 +799,10 @@ Badge Progress
 Win {0} raids.
 Champion
 N0
-Defeat {0} Team GO Rocket Grunts.
+Defeat the Team GO Rocket Boss {0} times. 
+Defeat the Team GO Rocket Boss.
+Ultra Hero
+Defeat {0} Team GO Rocket members.
 Hero
 Europe, September 16, 2017
 Europe, October 7, 2017
@@ -795,7 +851,7 @@ Pilot
 N0
 Gentleman
 N0
-Walk {0:0.#} km
+Walk {0:0.#} km.
 Jogger
 N1
 Catch {0} Bug-type Pokémon.
@@ -922,6 +978,7 @@ Go, {0}!
 You and {0} are now friends.
 Bonus
 https://pokemongo.nianticlabs.com/support/pokemon-lets-go
+Could not connect to Nintendo Switch.
 Your last transfer to Nintendo Switch was unrecoverable.
 Are you sure you want to transfer?
 <b>Nintendo Switch not found.</bPlease open GO Park on Nintendo Switch."
@@ -948,6 +1005,10 @@ Keep your cool, Trainer.
 Great battle.
 Stay focused.
 Quite skillful.
+There are currently no active hideouts in the vicinity. Let’s search a different area.
+There are no hideouts here, but my reports do confirm that there are more out there. Let’s head to other locations.
+No signals... I see. Perhaps their activities have ceased for the day. Let’s try again tomorrow.
+Let’s wait until morning. I doubt they’ll show themselves again for a while.
 This software is under development and is confidential. Please do not share, display, or distribute it to others.
 LOADING...
 Remember to be alert at all times. Stay aware of your surroundings.
@@ -1001,6 +1062,10 @@ You have a lot of fight in you, Trainer!
 I can feel your passion!
 Put your heart into it!
 What an epic battle!
+Looks like we’ve scared ’em all off! Wanna try looking in a different area?
+Hmm, nothing here. Let’s see if we can pick up the trail in a new location.
+Hah, you must have driven them out—no signals from any hideouts at all!
+Let’s check again in the morning. I have a feeling Team GO Rocket’ll be up to something then. In the meantime, I’ll ask if Blanche knows anything.
 The Frustration Charged Attack can’t be replaced by a Charged TM.
 Can't sign in?
 Catch a Pokémon
@@ -1045,6 +1110,7 @@ Take a snapshot of Horsea in its GO Fest habitat
 Take {0} snapshots of Normal-type Pokémon
 Take {0} snapshots of Psychic-type Pokémon
 Take {0} snapshots of Psychic- or Steel-type Pokémon
+Take {0} snapshots of Rock-type Pokémon
 Take {0} snapshots of Steel-type Pokémon
 Take {0} snapshots of Water-type Pokémon
 Trade for 3 Pokémon from at least 100 km away
@@ -1058,11 +1124,52 @@ Are you sure you want to change your Trainer Code? You'll no longer be able to r
 Change your Trainer Code
 Charged TMs can’t be used on Shadow Pokémon.
 Pokémon GO Fest
+I won’t let Giovanni down!
+You? Defeat me? Not gonna happen.
+You’re nothing more than a weak distraction.
+I won’t let the boss down.
+This’ll be a lesson you won’t soon forget.
+This hero thing you’re trying? It’s about to come crashing down on you.
+You’re a pest, and I’m gonna give you the boot.
+Anyone who gets in my way gets destroyed.
+This is for Team GO Rocket.
+My loyalty gives me strength. I won’t lose!
+You’ll pay for this!
+This...this can’t be!
+Us Team GO Rocket Leaders will get you next time!
+What? But I can’t lose! Boss, I’m so sorry!
+This defeat only fuels my anger!
+Cliff’s my name. Battling’s my game.
+The boss has ordered that we crush all of you, and the boss’s order is above all!
+Do you really wanna fight?
+What do you want—a battle?
+A loser like you can’t beat Team GO Rocket.
+You got a lot of nerve for a loser!
+Pfft... You wanna fight?
+Do you think you can beat me?
+Why stop the inevitable? Team GO Rocket will always win!
+Why do you fight us? Team GO Rocket gave so many of us a community—a purpose. What’s wrong with that?
+Hahaha! What’d I tell ya? Of course I’d win!
+Yes! I hope you’re proud of me, Boss.
+Heh heh... That’s right. I beat you!
+I’d never let the boss down!
+That’s right! Team GO Rocket never loses!
 That's already your name!
 <size=36><b>Are you sure you want to be called {0}?</b></size
 You're now known as {0}.
 <size=36><b>Do you want to change your nickname?</b></sizeYou can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!"
+A Colossal Discovery: Make a new friend
+A Colossal Discovery: Trade a Pokémon with a friend
+A Colossal Discovery: Win a Trainer Battle against another Trainer
+A Colossal Discovery: Win a raid
 Chance
+Leader Arlo
+It’s time to learn your place in the world.
+I never lose.
+Prepare yourself for a world of hurt.
+Arrogance leads to failure.
+Your defeat comes on swift wings.
+Team GO Rocket Leader
 Blocked!
 Tap quickly to charge your Pokémon’s attack!
 Your Item Bag is full. You won’t receive item rewards for this match.
@@ -1093,6 +1200,13 @@ Switch in a new Pokémon?
 Choose your party
 Tap to swap Pokémon
 is choosing their team!
+Leader Cliff
+My strength comes from my loyalty to Team GO Rocket.
+I will do anything and everything for Team GO Rocket.
+I owe the boss my life. I’d do anything for him.
+Team GO Rocket saved me. It’s time to return the favor!
+Add my name to your list of weaknesses.
+Team GO Rocket Leader
 Battle
 Attack incoming! Use a Protect Shield?
 {0} fell!
@@ -1113,7 +1227,26 @@ You must be at least level {0} to battle.
 {0} is not yet at a high-enough level to battle.
 Player is currently not receiving challenges
 Exit the battle?
+Giovanni
+I will not tolerate your interference.
+You cannot stop me...but I’m amused by your attempt.
+Your professor has not prepared you for what is to come.
+You’ve made it this far. Let me see just how strong you are.
+You will never defeat Team GO Rocket.
+The Boss
 Great League
+Decoy Grunt
+Fooled ya, twerp.
+What, did you think finding the boss was going to be that easy?
+I can’t believe you fell for it!
+In the name of the boss, I’ll destroy you!
+You’ll never get to him!
+It feels good to see you disappointed.
+Wanna get to the boss, do ya? You’ll have to defeat me!
+I’ll do anything to protect the boss!
+You’ve been bamboozled, punk!
+Get lost! You’ll never find him.
+Boss Decoy
 Grunt
 Winning is for winners.
 Winning is for winners.
@@ -1161,6 +1294,7 @@ Team GO Rocket
 Tied with {0}.
 Battled against {0}.
 Won a battle against {0}.
+Team GO Rocket Leader
 Max CP per Pokémon: {0}
 Adventure
 Opponent has not unlocked this league.
@@ -1210,6 +1344,13 @@ GOOD EFFORT!
 YOU WIN!
 Challenge a Trainer
 Scan this Battle Code with another device to battle!
+Leader Sierra
+I envy you—you get to battle me!
+This will be a battle I’m sure you’ll never forget.
+You already know this, but you don’t stand a chance.
+You can’t possibly match my skill, dear.
+I do hope you like the taste of failure!
+Team GO Rocket Leader
 Tap quickly to charge up {0}!
 Spark
 Get ready for an awesome battle! My Pokémon will show you their best moves!
@@ -1217,6 +1358,8 @@ Team Instinct Leader
 Spin to build your shield!
 Attack
 Defense
+Team GO Rocket Leader Defeated
+Giovanni Defeated
 Grunt Defeated
 Pokémon Remaining
 Surrender and exitYou won’t receive any rewards."
@@ -1228,6 +1371,8 @@ USE THIS PARTY
 {0} was not effective.
 Tap the item to use it.
 Congratulations, {0}!
+You can continue using your {0} until you win the battle!
+Use your {0}?
 COPY MY TRAINER CODE
 Your Trainer Code has been copied!
 MMM dd, yyyy
@@ -1241,12 +1386,13 @@ Pokémon GO needs Motion permissions to let you know when new Pokémon are nearb
 Go to Settings.
 Tap Privacy.
 Enable Motion & Fitness permissions for Pokémon GO.
+Tap Health.
 Missing Motion Permissions
-Pokémon GO requires your location to find Pokémon and PokéStops near you. Please adjust your settings to allow location services.
-1. Open the Health app.
-2. Tap Sources.
-3. Tap Pokémon GO.
-4. Tap "Turn All Categories On."
+Pokémon GO needs your activity data to hatch Pokémon Eggs, help your Pokémon find Candies, and show total distance walked.
+Open the Health app.
+Tap Sources.
+Tap Pokémon GO.
+Tap Turn All Categories On.
 Missing Adventure Sync Permissions 
 3. Set "Allow Location Access" to "While Using the App"
 1. Go to Settings > Apps > Pokémon GO.
@@ -1538,31 +1684,46 @@ EGGS
 REWARDS
 Altered Forme
 Attack
+Black Kyurem
+Blue-Striped
+Burn Drive
+Chill Drive
 Defense
 Normal
+Douse Drive
 East Sea
 Fan Rotom
 Frost Rotom
 Altered Forme
 Origin Forme
 Heat Rotom
+Incarnate Forme
 Land Forme
 Mow Rotom
+Normal
 Normal
 Origin Forme
 Overcast Form
 Plant Cloak
 Rainy
+Red-Striped
 Sandy Cloak
 Shiny Arceus
+Shock Drive
 Sky Forme
 Snowy
 Speed
 Sunny
 Sunshine Form
+Therian Forme
 Trash Cloak
 Wash Rotom
 West Sea
+White Kyurem
+You found a Mysterious Component!
+Collect more to assemble a Rocket Radar, which can locate Team GO Rocket Hideouts!
+It looks like it’s part of some larger device...
+COLLECT
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have oneIf you want to participate in more than one raid per day, you may buy raid passes from the store."
 Your Item Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
@@ -1616,10 +1777,16 @@ Gift
 Last Activity
 Friendship Level
 Nickname
+You’ve collected enough Mysterious Components to assemble a Rocket Radar!
+It looks like these components fit together!
+--
+--
 GDC 2019: Catch {0} Pokémon
 123456789
 Female
 Male
+A ticket to access the A Colossal Discovery special event on November 2, 2019, from 11:00 a.m. to 7:00 p.m. local time, wherever you are. Details can be found in the in-game NewsYOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL SPECIAL EVENT BONUSES."
+Ticket: A Colossal Discovery
 Accept
 Allow
 & {0}
@@ -1657,6 +1824,38 @@ Get directions
 Greetings from
 Gift sent!
 Opened a Gift from {0}.
+Prepare yourself for a world of pain.
+I’d say to prepare for battle, but you have already lost.
+Humble yourself. You are facing the world’s greatest Trainer.
+If you insist on disrupting my plans, I will insist on making you regret it.
+You have no idea who you are challenging, child.
+You underestimate Team GO Rocket. Prepare for battle.
+There is no stopping my plans.
+Two things are inevitable: my success and your failure.
+You have proven yourself by reaching me, so I shall spare you a moment of my time.
+You may have made it here, but this is as far as you’ll go.
+What?! This can’t be!
+Your love of Pokémon gave you the advantage...this time.
+... ... ...I shall step aside this time!
+This defeat is meaningless. Team GO Rocket will never fall!
+This isn’t over. We will meet on the battlefield again.
+I must say—I am impressed you got here.
+What’s this now? I hope you are a worthy opponent.
+I am the leader of this enterprise...Giovanni!
+Fwahahahaha!
+How dare you?! You will pay for your insolence!
+Your Pokémon exist for Team GO Rocket’s use.
+I commend you for standing up to me, Trainer. I trust you’ll make this worth my time.
+You are foolish to confront me, but I’m impressed by your confidence. Let’s battle.
+My goal is beyond your comprehension.
+If you insist on confronting me, you will pay the price!
+You found a Super Rocket Radar!
+The Super Rocket Radar is a stronger radar that can find headquarters where the Team GO Rocket Boss might be!
+What an amusing Trainer.
+As expected, Team GO Rocket cannot be stopped.
+You cannot stop my master plan.
+Do not try to interfere again.
+You failed as soon as you challenged me, Trainer.
 Manage Pokémon
 GO Fest Global: Evolve {0} Pokémon
 GO Fest Global: Hatch an Egg
@@ -1681,6 +1880,17 @@ Get lost! I’m bushed!
 Get lost! I’m bushed!
 Let me take all the Pokémon and items from this PokéStop! Uh...pretty please?
 Let me take all the Pokémon and items from this PokéStop! Uh...pretty please?
+Looking for the boss? HA. Try again.
+I’ve been given strict orders. I’m to crush anyone who’s looking for the boss!
+I’m sorry—the boss is at another PokéStop.
+You’ll never find Giovanni!
+You’ve been tricked again, punk! Our boss isn’t here, but I am—and I’m raring for a battle!
+Hyuck-hyuck—tricked ya, didn’t I?
+You’ll never find the boss!
+Team GO Rocket forever! I’ll protect the boss with my life!
+Heh heh. Feeling lucky? Well, you shouldn’t be. He’s not here, and I’m gonna crush you!
+Hyuck-hyuck—you’re messing with the wrong grunt, kid!
+You think you’re a hero? You can’t even find the boss!
 I’ll flick you away effortlessly!
 I’ll flick you away effortlessly!
 Boss said he’ll take the PokéStop in the name of Team GO Rocket!
@@ -1921,11 +2131,18 @@ time defending
 total gym activity
 Gym Badge Earned!
 Gyms are under construction.
+Halloween: Catch {0} Gastly or Shuppet
+Halloween: Catch {0} Ghost-type Pokémon
+Halloween: Evolve {0} Drifloon or Stunky
+Halloween: Make {0} Excellent Throws in a row
+Halloween: Defeat a Team GO Rocket Grunt
+Halloween: Take {0} snapshots of Ghost-type Pokémon
 https://pokemongo.nianticlabs.com/support/friends
 https://pokemongo.nianticlabs.com/support/contact/en
 h
 Styles
 Bundles
+Event Ticket
 Items
 Uncategorized
 PokéCoins
@@ -1965,11 +2182,41 @@ They’ve carelessly abandoned the Pokémon they lost with! It has an ominous au
 They’ve carelessly abandoned the Pokémon they lost with! It has an ominous aura and is somewhat different from regular Pokémon. Try to catch it so we can save it!
 Whoa, looks like they couldn’t handle a little battle! They even left behind their Pokémon. Why would they do that?
 It has a really odd aura around it... Let’s help it! Can you catch it so we can take a closer look?
+Professor Willow’s ingenuity knows no bounds.
+Once equipped, the Super Rocket Radar begins receiving encrypted signals. Could the signals be coming from Team GO Rocket Headquarters?
+Best prepare for any obstacles that might appear. Team GO Rocket’s numbers are staggering.
+Their leader is strong but no match for Team Mystic. Let’s GO.
+Just look at this radar! You can just tell it’s more powerful than the others!
+My bet? It’s receiving signals from Team GO Rocket Headquarters.
+I’m getting fired up, but I know there have to be more hurdles before facing the Team GO Rocket Boss.
+I’ve heard their boss is fierce... But you’re on Team Valor, so I know you can handle it.
+This radar looks upgraded and WAY more powerful than others we’ve made!
+Think it’ll take us to whoever’s leading Team GO Rocket?
+I know it can’t be that easy. I bet Team GO Rocket has plenty more Grunts blocking our way.
+I’m ready if you are! Equip that radar, and let’s show ’em what Team Instinct is made of!
+Professor Willow’s research and the components you’ve discovered have come together to produce a Rocket Radar.
+We’ve reverse engineered their technology and can now receive their hideouts’ signals.
+Equip the radar to activate it. It’s time to investigate—and be prepared for whatever comes our way.
+Great work! Fighting all those Grunts was worth the effort!
+A Rocket Radar! Professor Willow said once it’s equipped, you can intercept signals from Team GO Rocket.
+Finally, we can find those hideouts! Let’s GO take out these punks!
+Whoa! I knew the professor was right when he said these things could be used for something aside from hacking PokéStops!
+Is that a radar? Awesome! There’s no way they can hide from us with this!
+Let’s try it out and track down some hideouts!
 Trainer, some shadowy figures have been seen at PokéStops. Approach with caution, and be ready for battle.
 I’ve been hearing reports of some mysterious characters near PokéStops. You should take charge and go investigate. Be careful, and make sure you’re prepared for a battle!
 Some mysterious characters have shown up at PokéStops! Watch out—it might turn into a battle!
 Some mysterious characters have shown up at PokéStops! Watch out—it might turn into a battle!
 I overheard that some shady characters have been showing up at PokéStops. I think you need to check it out, but be careful—I have a feeling you might end up in a battle!
+That Grunt dropped some sort of device. It looks like this is what they were using to hack the PokéStops.
+Ah, I recognize this from Willow’s lab. I wonder...
+Yes. I believe this can help with his prototype. Please head out and collect more.
+That Grunt dropped something while they were running scared! What are they using these for?
+I bet this is what Team GO Rocket is using to hack the PokéStops...
+We have to find more. Time to battle some Grunts!
+Hey... That Grunt dropped something. What does this thing do?
+This looks like a piece of something right out of Willow’s lab!
+I bet this will help with that prototype he’s developing... Let’s see if we can find more.
 If my analysis is correct, we can help this Pokémon through a process known as purification. This will enable it to harness its strength. Shall we give it a try?
 I think we can help this Pokémon. Purification is a process that makes certain Pokémon stronger by tapping into their inner power. Let’s give it a try.
 It looks like we can help this Pokémon become stronger through a process called purification. Let’s try it!
@@ -1999,6 +2246,11 @@ A special stone originally found in the Sinnoh region that can make certain spec
 Sinnoh Stone
 A rare stone that originates from the Unova region that can make certain species of Pokémon evolve. It is known for its intertwined black-and-white appearance.
 Unova Stone
+You can use this to track down Team GO Rocket Headquarters where their Boss might be!
+Super Rocket Radar
+A ticket to access the A Colossal Discovery special event on {0} from {1} to {2} local time, wherever you are.
+This ticket will automatically activate to give you access to a special event on {0}, wherever you are in the world.
+Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
 Feed this to a Pokémon to make it much easier to catch.
@@ -2021,6 +2273,10 @@ Increases the size of your Item Bag.
 Item Pack
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
+You can use this to track down Team GO Rocket Hideouts!
+This appears to be what Team GO Rocket uses to hack PokéStops. Does it have another use?
+Mysterious Component
+Rocket Radar
 EX Raid Pass to join a special Raid Battle. You can use this pass only at the specified limited-time event.
 EX Raid Pass
 A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
@@ -2099,11 +2355,24 @@ Shadow {0} ran away.
 Shadow {0} was purified!
 You invited {0} to an EX Raid.
 Be courteous to others and respectful of your real-world surroundings!
+You’ve assembled a Rocket Radar!
+Use the Rocket Radar to locate Team GO Rocket Hideouts!
+But...what does it do?
+You’ve assembled a mysterious device!
+You can use this to track down Team GO Rocket Hideouts!
+Rocket Radar
 Items Unlocked
 Level up!
 Unable to link to this account.
 <size=36><b>{0} Error</b></sizeUnable to link to this account."
 <size=36><b>Account Already Exists</b></sizeThis account is already linked to an existing player."
+Learn More
+Join a special event
+Add to Calendar
+Event added to calendar successfully.
+Pokémon GO Event
+Could not add event to calendar.
+Pokémon GO does not have calendar permissions.
 {0} invited you to an EX Raid!
 {0} accepted your Friend Request!
 {0} sent you a Friend Request!
@@ -2175,6 +2444,7 @@ Fisherman Boots
 Jogger Shoes
 Ultra Sun Shoes
 Manage Items
+Equip a radar to use it on your map.
 Notifications may include alerts, sounds, and icon badges. This can be configured in your settings.
 Niantic would like to send you notifications about events, offers, and updates
 Lotad Research: Spin {0} PokéStops
@@ -2508,6 +2778,7 @@ Unable to sign in. Please check that this Pokémon GO account exists and you hav
 n/a
 Not very effective...
 Now
+Allows pairing to devices, including peripherals and consoles.
 Accept
 Are you sure you want to decline?
 CongratulationsYou've caught your first Pokémon!"
@@ -2629,6 +2900,60 @@ Your suspension term has now ended and you are now able access your accountThis 
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends sent you Gifts!
 LEARN MORE
+CANCEL
+PokéStop Description
+Edit Description
+PokéStop Title
+The title should be concise, use an official name when possible, and not be copied from other sources if an official name is not available.
+Edit Title
+You need a linked email to contribute to a PokéStop. To proceed, link a Google account in Settings or update your Facebook account with your email.
+ADD PHOTO
+Your contribution will be reviewed before being published.
+ADD/EDIT DESCRIPTION
+EDIT LOCATION
+EDIT TITLE
+Contribute to this PokéStop
+REPORT INVALID POKÉSTOP
+Submission failed. Please try again.
+Identical description. Please submit an updated description.
+Identical title. Please submit an updated title.
+You have no contributions available for adding/editing descriptions at this time.
+You have no contributions available for editing locations at this time.
+You have no contributions available for adding photos at this time.
+More contributions may be available in {0} day(s).
+You have no contributions available for reporting invalid PokéStops at this time.
+You have no contributions available for editing titles at this time.
+Move the marker to the most accurate location.
+Edit Location
+Please select a reason for your report.
+OK
+A great PokéStop photo is high quality, clear, compelling, and descriptive. The photo should show the location clearly, be in focus, and be free of visual obstructions, people, and animals. You must take the photo yourself for it to be eligible, so please do not use images found online.
+EXISTING PHOTO
+Add a Photo
+TAKE PHOTO
+{0} description edits remaining
+1 description edit remaining
+{0} location edits remaining
+1 location edit remaining
+{0} photo submissions remaining
+1 photo submission remaining
+More available in {0} day(s).
+{0} invalid reports remaining
+1 invalid report remaining
+{0} title edits remaining
+1 title edit remaining
+Duplicate PokéStop
+No Pedestrian Access
+Obstructs Emergency Services
+Permanently Removed
+Private Residential Property
+School (K–12)
+SUBMIT
+Your proposal has been submitted for review.
+Thank you for your contribution.
+This feature is currently unavailable.
+You are too far away from this PokéStop to contribute.
+Unlocks at level {0}!
 Error
 No images found
 CANCEL
@@ -4888,6 +5213,7 @@ Register
 ONE TIME ONLY
 {0} REMAINING
 {0} REMAINING
+Weak Connection
 Scan the QR Code
 QR Code recognition failed. Please try manual input.
 Adventure Week 2019: Catch {0} Aron
@@ -4929,6 +5255,10 @@ Use a Berry to help catch a Pokémon
 Catch {0} Pokémon
 Catch a Pokémon
 Catch {0} Psychic- or Steel-type Pokémon
+Catch a Regirock, Regice, or Registeel from a raid
+Catch a Regice from a raid
+Catch a Regirock from a raid
+Catch a Registeel from a raid
 Catch {0} Ditto
 Catch a Ditto
 Catch {0} Plusle
@@ -4957,6 +5287,7 @@ Catch {0} Swablu
 Catch a Swablu
 Catch {0} Turtwig
 Catch {0} Trapinch
+Catch {0} Chimchar
 Catch {0} Pidgey or Murkrow
 Catch a Pidgey or Murkrow
 Catch {0} Treecko or Mudkip
@@ -5040,9 +5371,27 @@ A Ripple in Time
 Let’s GO, Meltan
 A Mythical Discovery
 A Troubling Situation
+Looming in the Shadows
 A Spooky Message 2018
 A Spooky Message 2019
 Daily Bonus
+Hey there, %PLAYERNAME%. Good to see you again. Your research inspired me to do some more research of my own, and I think I’ve come across something...groundbreaking.
+I was investigating the digging patterns of Diglett, and I wound up heading deep into a cave. Inside, I came across some unusual markings carved heavily into the cavern walls. 
+At first, I thought them to be random, but then I realized the carvings formed four unique patterns, each consisting of seven circles.
+These patterns look incredibly familiar, and I think we need to take a closer look at some Pokémon in particular.
+Can I count on you to help me research some Rock-type Pokémon?  I have a hunch that this will lead us to our first clue.
+Simply amazing! The pattern on the Regirock you caught matches perfectly with the first pattern of carvings on the cave walls.
+This leads me to believe we should move our investigation to Ice-type Pokémon. I wonder if we’ll find another Pokémon that will help us solve this puzzle.
+I have one in mind, but I don’t want to get ahead of myself!
+I’m sure with the help of an accomplished Trainer such as yourself, we’ll be on our way to figuring this out in no time.
+As expected, Regice clearly has similar markings to the second carving I found in the cave.
+I remember an ancient legend that told a story about a Colossal Pokémon. It’s said that it made Pokémon that looked like itself from a special ice mountain, rocks, and magma.
+Could it be these Pokémon these patterns originate from? This is starting to get exciting, isn’t it?
+If the first two Pokémon were Regirock and Regice...then there’s only one left that we must research further.
+Excellent work. I believe we’re going in the right direction. This could only mean one thing, %PLAYERNAME%.
+We’re close to coming across the Legendary Pokémon Regigigas! According to legend, this Pokémon towed continents with rope.
+Maybe it can help move my research lab next time it gets stuck. Hahaha!
+Anyway...I have a feeling that once you fully document these amazing creatures, you’ll make a colossal discovery of your own.
 Welcome to GO Fest 2019, %PLAYERNAME%! I’m glad you’re here.
 I discovered something fascinating during my research, and I need your help. I’ve come across what I believe to be a rare Pokémon deep in slumber.
 We have our work cut out for us, %PLAYERNAME%. I think this adventure is going to call for some resources and even the help of some friends.
@@ -5130,6 +5479,8 @@ Evolve {0} Grass-type Pokémon
 Evolve a Grass-type Pokémon
 Evolve {0} Ice-type Pokémon
 Evolve an Ice-type Pokémon
+Evolve {0} Rock-type Pokémon
+Evolve {0} Steel-type Pokémon
 Evolve {0} Water-type Pokémon
 Evolve a Water-type Pokémon
 Evolve Eevee into Umbreon at night
@@ -5231,7 +5582,26 @@ Power up Pokémon {0} times
 Purify {0} Shadow Pokémon
 Purify a Fire-, Water-, or Grass-type Shadow Pokémon
 Catch {0} Shadow Pokémon
+Defeat Team GO Rocket Leader Arlo 
+Battle the Team GO Rocket Boss
+Catch a Legendary Shadow Pokémon
+Catch {0} Shadow Pokémon
+Defeat Team GO Rocket Leader Cliff 
+Defeat the Team GO Rocket Boss
+Find the Team GO Rocket Boss
+Defeat {0} Team GO Rocket Grunts
+Defeat {0} Team GO Rocket Grunts
+Purify {0} Shadow Pokémon
+Win {0} raids
+Defeat Team GO Rocket Leader Sierra 
+Spin {0} PokéStops
+Spin a PokéStop {0} days in a row
+Use {0} supereffective Charged Attacks in Gym battles
+Win {0} Great League Trainer Battles against another Trainer
 Send {0} Gifts to friends
+Take a snapshot of Regice
+Take a snapshot of Regirock
+Take a snapshot of Registeel
 %PLAYERNAME%, you’ve been such a help in conducting Field Research and Special Research!
 I have a feeling that there’s so much more about this world that we’ve yet to discover, and I’m glad I can count on you to see it through.
 I’ve been doing some experiments of my own, and I suspect that I’m onto a further exciting discovery about another Mythical Pokémon that’s rarely seen.
@@ -5405,6 +5775,36 @@ WOW! Thanks for helping us learn more about the Shadow Pokémon that Team GO Roc
 After observing the purification process with Blanche, it’s clear that the Pokémon’s gratefulness to you for purifying them causes the move Frustration to be replaced with Return!
 Now that you have this knowledge, we need your help with saving as many Shadow Pokémon as possible by taking back PokéStops that are under Team GO Rocket’s control!
 The world is under attack! Can we count on you to help protect it? I do hope there’s nothing more to this...
+Thanks for your help in defeating Team GO Rocket Grunts, %PLAYERNAME%!
+The team leaders and I have been observing Team GO Rocket, and something tells us this is far from over.
+The transmission sent during the Team GO Rocket take-over had a message from an unknown sender at the end.
+We’re going to need all the help we can get to reveal the identity of this unknown figure looming in the shadows, and you are just the Trainer for the job!
+Can you help us get to the bottom of this mystery?
+Thank you for your continued support against those pesky Team GO Rocket Grunts.
+As they flee, some Grunts are leaving behind Mysterious Components.
+I believe these are what Team GO Rocket is using to hack and steal resources from PokéStops. Clever little devices, aren’t they?
+There’s information we can glean from these components that will help us in our fight against this dangerous organization.
+Once you have enough pieces, you should be able to assemble something similar to the device I’ve modified in my lab. It might be best to prepare yourself for whatever might come, %PLAYERNAME%.
+Interesting. It appears there’s more to Team GO Rocket than previously thought.
+Their ingenuity has got me thinking there might be another use for these Mysterious Components. We shouldn’t underestimate Team GO Rocket.
+It’s time to get battle ready, %PLAYERNAME%.
+I don’t want to send you out to face another foe without some more training.
+While you sharpen your battle skills, I’ll be sure to get this little project of mine up and operational.
+Fantastic work, Trainer. I’ve been working on a prototype for something I call the Rocket Radar, but I was missing some critical components.
+Your hard work in retrieving these components actually made my device work!
+If we combine my research and these Mysterious Components you’ve found, we can create a radar-like tool to track down Team GO Rocket Hideouts!
+Trainers all over the world are figuring out how to put together devices like this, and they’re identifying more hideouts than I originally anticipated.
+%PLAYERNAME%, it’s time to head to these hideouts and face whatever—or whomever—is there head on. Let’s GO.
+You battled well, %PLAYERNAME%! You’ve done your team leaders—and me—proud.
+According to my observations, it appears the sender of that mysterious transmission during the Team GO Rocket take-over was not in attendance.
+There’s someone else calling the shots—someone above Sierra, Cliff, and Arlo.
+I’ve improved on my previous invention and put together a Super Rocket Radar that should help you track this mastermind down.
+If it is who I think it is, he signs all his messages with “G.”
+Astounding work, %PLAYERNAME%! 
+You’ve put a stop to Team GO Rocket’s plans for the time being and rescued a special Shadow Pokémon!
+It’s unlikely that Giovanni will give up this easily, so I hope we can rely on you to take down Team GO Rocket members as they appear around your area.
+Spark, Blanche, and Candela will be on the lookout as well.
+I’m sure Team GO Rocket will try to hatch another villainous plot soon...
 Oh, %PLAYERNAME%! You’ve dropped by just in time.
 As I was out on my regular walk one evening, I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening.
 Papers shifting around, water glasses tipping all by themselves...
@@ -5457,6 +5857,11 @@ A Ripple in Time (5/8)
 A Ripple in Time (6/8)
 A Ripple in Time (7/8)
 A Ripple in Time (8/8)
+A Colossal Discovery
+A Colossal Discovery (1/4)
+A Colossal Discovery (2/4)
+A Colossal Discovery (3/4)
+A Colossal Discovery (4/4)
 GO Fest 2018
 GO Fest 2018 (1/5)
 GO Fest 2018 (2/5)
@@ -5513,6 +5918,13 @@ A Troubling Situation (1/4)
 A Troubling Situation (2/4)
 A Troubling Situation (3/4)
 A Troubling Situation (4/4)
+Looming in the Shadows
+Looming in the Shadows (1/6)
+Looming in the Shadows (2/6)
+Looming in the Shadows (3/6)
+Looming in the Shadows (4/6)
+Looming in the Shadows (5/6)
+Looming in the Shadows (6/6)
 A Spooky Message 2018
 A Spooky Message 2018 (1/3)
 A Spooky Message 2019 (1/3)
@@ -5662,7 +6074,7 @@ BATTLE
 Tap the screen to attack the Raid Boss! Press the Charged Attack button to use your Charged Attack when the attack meter is full!
 You need a Raid Pass to join the battle. You can get one for free each day if you don't already have one. You can also get Premium Raid Passes in the shop.
 WHAT IS A RAID?
-A raid is a battle where you and up to 20 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
+A raid is a battle where you and up to 19 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
 Note: This event is by invitation only.
 There are no raids nearby.
 Win a raid
@@ -5856,6 +6268,36 @@ You're out of PokéCoins!
 Sale
 SHOP
 Something went wrong. Please try again.
+This is probably a waste of my time, but I do love winning!
+This won’t be all bad—when you lose, you’ll at least get to hear me say you made a good effort.
+I won’t be surprised when I win.
+It will be good for you to see a true Trainer like me in battle.
+If you are as weak as your team leaders, then this fight will be easy.
+You should probably take notes, dear.
+I’ll never pass up an opportunity to show off on the battlefield!
+Can we move this along? I’d love to stay and chat, but I have a meeting to get to.
+You shouldn’t get in my way. You might get hurt, dear.
+This is a challenge you should walk away from, dear.
+I’ve lost my touch... But it will not happen again.
+I underestimated you, but I will not make the same mistake again.
+I can’t lose... What does this mean?
+You win this time, but things’ll go differently next time we meet!
+Ugh, these Pokémon are too weak for a Trainer like me!
+How amusing! You dare to challenge me?
+I’m not fond of dealing with weaklings. Pay attention! You might learn something.
+Such an eager Trainer. I’ll happily defeat you.
+Your inevitable loss will be such a good lesson.
+Pay attention, Trainer. You just might learn something!
+I’m getting tired of battling weaklings. Let’s get this over with.
+Silly Trainer. You ought to know better than to oppose me.
+You’ve had your fun. Now it’s time for you to fight me.
+I can see this will be a struggle for you. Don’t worry. I’ll defeat you quickly.
+It’s so cute how willing you are to accept your defeat. Let’s battle.
+I wish I could enjoy this victory, but it wasn’t a surprise!
+...Oh? You’re still here?
+Move along, dear. Team GO Rocket always wins.
+How...simple.
+Come back when you can actually pose a challenge, dear!
 Import friends from Facebook
 QR Code
 Add Friend
@@ -5877,6 +6319,10 @@ You got this!
 Electrifying battle!
 Radical battling, Trainer!
 That was an amazing battle!
+Whoa—not a signal in sight! I wonder what they’re scared of?
+Just when I was energized to do some battling! Maybe we should check out other locations.
+No signals? Well, it is getting pretty late...and I need to go meet up with Willow.
+We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
 Are you sure? {1} cannot be relearned.
@@ -5890,7 +6336,7 @@ Star Piece
 25 Star Pieces
 8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 8 Star Pieces
-SHOP NOW
+LEARN MORE
 Submit
 Super effective!
 Support
@@ -5942,6 +6388,11 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 This raid has ended.
 Cannot learn any other attacks!
 Today
+EQUIP
+This item is EQUIPPED.
+UNEQUIP
+This item is UNEQUIPPED.
+Your Item Bag is full. You won’t receive item rewards for this match.
 Trade
 Traded {0} for {1} with {2}.
 All Pokémon except Shadow and Mythical
