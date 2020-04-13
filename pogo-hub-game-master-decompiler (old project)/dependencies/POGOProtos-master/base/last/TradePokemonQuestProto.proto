@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message TradePokemonQuestProto {
+	repeated string friend_id = 1;
+}

@@ -1,0 +1,17 @@
+syntax = "proto3";
+package DumpProtos;
+
+message OutgoingFriendInviteProto {
+	Status status = 1;
+	string player_id = 2;
+	int64 created_ms = 3;
+	InvitationType invitation_type = 4;
+	string full_name = 5;
+
+	enum Status {
+		UNSET = 0;
+		PENDING = 1;
+		CANCELLED = 2;
+		DECLINED = 3;
+	}
+}

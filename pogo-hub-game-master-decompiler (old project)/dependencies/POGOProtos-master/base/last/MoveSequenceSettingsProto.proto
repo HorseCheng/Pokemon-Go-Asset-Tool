@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message MoveSequenceSettingsProto {
+	repeated string sequence = 1;
+}

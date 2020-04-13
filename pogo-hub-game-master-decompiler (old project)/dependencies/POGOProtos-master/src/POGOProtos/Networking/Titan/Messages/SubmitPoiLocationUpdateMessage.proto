@@ -1,0 +1,12 @@
+syntax = "proto3";
+package POGOProtos.Networking.Titan.Messages;
+
+message SubmitPoiLocationUpdateMessage {
+	string poi_id = 1;
+	LocationE6 location = 2;
+
+	message LocationE6 {
+		int32 latitude_e6 = 1;
+		int32 longitude_e6 = 2;
+	}
+}

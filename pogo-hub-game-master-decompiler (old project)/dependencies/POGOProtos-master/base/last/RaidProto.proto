@@ -1,0 +1,15 @@
+syntax = "proto3";
+package DumpProtos;
+
+message RaidProto {
+	int64 raid_seed = 1;
+	int64 started_ms = 2;
+	int64 completed_ms = 3;
+	HoloPokemonId encounter_pokemon_id = 4;
+	bool completed_battle = 5;
+	bool received_rewards = 6;
+	bool finished_encounter = 7;
+	bool received_default_rewards = 8;
+	bool incremented_raid_friends = 9;
+	int64 completed_battle_ms = 10;
+}

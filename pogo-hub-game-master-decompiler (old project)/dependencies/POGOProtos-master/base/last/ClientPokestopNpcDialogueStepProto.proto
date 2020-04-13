@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ClientPokestopNpcDialogueStepProto {
+	repeated ClientDialogueLineProto dialogue_line = 1;
+}

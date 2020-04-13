@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DumpProtos;
+
+message UpdateInvasionBattleOutProto {
+	InvasionStatus.Status status = 1;
+	LootProto rewards = 2;
+	bool map_fragment_upgraded = 3;
+}

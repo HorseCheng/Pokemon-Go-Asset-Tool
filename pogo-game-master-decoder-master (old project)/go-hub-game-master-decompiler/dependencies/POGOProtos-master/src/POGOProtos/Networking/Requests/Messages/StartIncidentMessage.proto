@@ -1,8 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Networking.Requests.Messages;
-
-import "POGOProtos/Networking/Requests/Messages/IncidentLookupMessage.proto";
-
-message StartIncidentMessage {
-	.POGOProtos.Networking.Requests.Messages.IncidentLookupMessage incident_lookup = 1;
-}

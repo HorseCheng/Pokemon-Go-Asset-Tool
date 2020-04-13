@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GetWebTokenProto {
+	string client_id = 1;
+}

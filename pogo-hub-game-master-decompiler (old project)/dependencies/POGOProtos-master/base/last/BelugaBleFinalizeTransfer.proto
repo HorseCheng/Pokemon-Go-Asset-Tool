@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message BelugaBleFinalizeTransfer {
+	BelugaBleTransferCompleteProto beluga_transfer_complete = 1;
+	bytes server_signature = 2;
+}

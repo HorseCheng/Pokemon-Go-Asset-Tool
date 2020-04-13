@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message QuitCombatProto {
+	string combat_id = 1;
+}

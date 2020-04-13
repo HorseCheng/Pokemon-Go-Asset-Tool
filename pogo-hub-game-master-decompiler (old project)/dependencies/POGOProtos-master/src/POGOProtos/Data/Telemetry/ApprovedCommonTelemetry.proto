@@ -1,0 +1,19 @@
+syntax = "proto3";
+package POGOProtos.Data.Telemetry;
+
+import "POGOProtos/Data/Analytics/ClientTelemetryCommonFilter.proto";
+import "POGOProtos/Data/Telemetry/CommonTelemetryBootTime.proto";
+import "POGOProtos/Data/Telemetry/CommonTelemetryShopClick.proto";
+import "POGOProtos/Data/Telemetry/CommonTelemetryShopView.proto";
+import "POGOProtos/Data/Telemetry/ServerRecordMetadata.proto";
+
+message ApprovedCommonTelemetry {
+	oneof TelemetryData {
+		.POGOProtos.Data.Telemetry.CommonTelemetryBootTime boot_time = 1;
+		.POGOProtos.Data.Telemetry.CommonTelemetryShopClick shop_click = 2;
+		.POGOProtos.Data.Telemetry.CommonTelemetryShopView shop_view = 3;
+	}
+
+	.POGOProtos.Data.Telemetry.ServerRecordMetadata server_data = 4;
+	.POGOProtos.Data.Analytics.ClientTelemetryCommonFilter common_filters = 5;
+}

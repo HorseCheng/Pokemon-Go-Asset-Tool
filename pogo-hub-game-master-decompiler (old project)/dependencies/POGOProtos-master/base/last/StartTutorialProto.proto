@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message StartTutorialProto {
+	bool onboarding_v2_enabled = 1;
+}

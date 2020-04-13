@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message OpenInvasionCombatSessionOutProto {
+	InvasionStatus.Status status = 1;
+	CombatProto combat = 2;
+}

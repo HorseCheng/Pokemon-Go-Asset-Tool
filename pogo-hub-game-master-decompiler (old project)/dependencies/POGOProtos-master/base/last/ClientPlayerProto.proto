@@ -1,0 +1,28 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ClientPlayerProto {
+	int64 creation_time_ms = 1;
+	string name = 2;
+	int32 team = 5;
+	repeated TutorialCompletion tutorial_complete = 7;
+	PlayerAvatarProto player_avatar_proto = 8;
+	int32 max_pokemon_storage = 9;
+	int32 max_item_storage = 10;
+	DailyBonusProto daily_bonus_proto = 11;
+	EquippedBadgeProto equipped_badge_proto = 12;
+	ContactSettingsProto contact_settings_proto = 13;
+	repeated CurrencyQuantityProto currency_balance = 14;
+	int32 remaining_codename_claims = 15;
+	BuddyPokemonProto buddy_pokemon_proto = 16;
+	int64 battle_lockout_end_ms = 17;
+	PlayerAvatarProto secondary_player_avatar_proto = 18;
+	bool name_is_blacklisted = 19;
+	SocialPlayerSettingsProto social_player_settings = 20;
+	CombatPlayerPreferencesProto combat_player_preferences = 21;
+	string player_support_id = 22;
+	TeamChangeInfoProto team_change_info = 23;
+	repeated HoloPokemonId consumed_eevee_easter_eggs = 24;
+	int64 time_zone_offset_ms = 26;
+	string helpshift_user_id = 28;
+}

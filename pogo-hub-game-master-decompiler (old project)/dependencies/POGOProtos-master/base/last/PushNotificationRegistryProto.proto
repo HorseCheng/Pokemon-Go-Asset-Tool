@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message PushNotificationRegistryProto {
+	ApnToken apn_token = 1;
+	GcmToken gcm_token = 2;
+}

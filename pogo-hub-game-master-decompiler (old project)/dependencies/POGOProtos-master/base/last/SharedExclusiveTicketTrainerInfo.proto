@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message SharedExclusiveTicketTrainerInfo {
+	string codename = 1;
+	string player_id = 2;
+}

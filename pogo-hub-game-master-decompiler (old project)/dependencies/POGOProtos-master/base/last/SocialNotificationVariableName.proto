@@ -1,0 +1,9 @@
+syntax = "proto3";
+package DumpProtos;
+
+enum SocialNotificationVariableName {
+	unset__social_notification_variable_name = 0;
+	SOCIAL_CODENAME = 1;
+	SOCIAL_TEAM = 2;
+	SOCIAL_PLAYER_SUMMARY = 3;
+}

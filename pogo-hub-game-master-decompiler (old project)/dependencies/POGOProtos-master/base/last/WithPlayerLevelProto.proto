@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message WithPlayerLevelProto {
+	int32 level = 1;
+}

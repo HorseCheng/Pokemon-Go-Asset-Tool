@@ -1,0 +1,22 @@
+language: python
+addons:
+  apt:
+    sources:
+      - llvm-toolchain-precise-3.8
+      - ubuntu-toolchain-r-test
+    packages:
+      - clang-format-3.8
+python:
+  - "3.6"
+install:
+  - pushd /tmp
+  - wget https://github.com/protocolbuffers/protobuf/releases/download/v3.10.0/protoc-3.10.0-linux-x86_64.zip
+  - unzip protoc-3.10.0-linux-x86_64.zip
+  - popd
+  - export PATH=/tmp/bin:$PATH
+script:
+  - ./compile.py python --generate_desc --include_imports --include_source_info
+  # Compile Single need revision
+  #- ./compile_single.py -d -o out2
+  - clang-format-3.8 -i -style file $(find src -name "*.proto")
+  - git diff --exit-code

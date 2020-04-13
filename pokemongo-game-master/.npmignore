@@ -1,6 +1,0 @@
-versions
-src/main
-*.xml
-dependency-reduced-pom.xml
-Dockerfile
-*.iml

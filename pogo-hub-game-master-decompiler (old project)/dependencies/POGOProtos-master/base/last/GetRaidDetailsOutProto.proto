@@ -1,0 +1,28 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GetRaidDetailsOutProto {
+	LobbyProto lobby = 1;
+	BattleProto raid_battle = 2;
+	bool player_can_join_lobby = 3;
+	Result result = 4;
+	RaidInfoProto raid_info = 5;
+	bool ticket_used = 6;
+	bool free_ticket_available = 7;
+	int32 throws_remaining = 8;
+	bool received_rewards = 9;
+	int32 num_players_in_lobby = 10;
+	int64 server_ms = 11;
+	int32 server_instance = 12;
+	bool display_high_user_warning = 13;
+
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_NOT_IN_RANGE = 2;
+		ERROR_RAID_COMPLETED = 3;
+		ERROR_RAID_UNAVAILABLE = 4;
+		ERROR_PLAYER_BELOW_MINIMUM_LEVEL = 5;
+		ERROR_POI_INACCESSIBLE = 6;
+	}
+}

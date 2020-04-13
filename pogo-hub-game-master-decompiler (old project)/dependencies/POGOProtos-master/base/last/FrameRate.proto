@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message FrameRate {
+	PlatformMetricData sampled_frame_rate = 1;
+}

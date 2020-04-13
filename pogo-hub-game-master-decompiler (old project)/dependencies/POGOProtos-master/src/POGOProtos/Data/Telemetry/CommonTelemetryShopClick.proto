@@ -1,0 +1,26 @@
+syntax = "proto3";
+package POGOProtos.Data.Telemetry;
+
+message CommonTelemetryShopClick {
+	string shopping_page_click_id = 1;
+	string sku_id = 2;
+	string item_id = 3;
+	string consolidated_item_id = 4;
+	string currency = 5;
+	int64 fiat_price = 6;
+	bool is_item_free_fiat = 7;
+	bool is_item_free_ingame = 8;
+	int64 time_elapsed_since_enter_page = 9;
+	string root_store_page_session_id = 10;
+	int64 pair_id = 11;
+	string store_page_name = 12;
+	string root_store_page_name = 13;
+	AccessType access_type = 14;
+	string fiat_formatted_price = 15;
+
+	enum AccessType {
+		UNSPECIFIED = 0;
+		PASSIVE = 1;
+		ACTIVE = 2;
+	}
+}

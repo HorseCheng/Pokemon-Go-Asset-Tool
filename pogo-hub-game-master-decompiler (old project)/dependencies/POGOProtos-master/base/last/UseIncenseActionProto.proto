@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message UseIncenseActionProto {
+	Item incense_type = 1;
+}

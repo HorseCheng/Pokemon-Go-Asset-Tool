@@ -1,0 +1,16 @@
+syntax = "proto3";
+package DumpProtos;
+
+message PlayerPublicProfileProto {
+	string name = 1;
+	int32 level = 2;
+	PlayerAvatarProto avatar = 3;
+	Team team = 4;
+	int32 battles_won = 5;
+	float km_walked = 6;
+	int32 caught_pokemon = 7;
+	GymBadgeType gym_badge_type = 8;
+	repeated PlayerBadgeProto badges = 9;
+	int64 experience = 10;
+	bool has_shared_ex_pass = 11;
+}

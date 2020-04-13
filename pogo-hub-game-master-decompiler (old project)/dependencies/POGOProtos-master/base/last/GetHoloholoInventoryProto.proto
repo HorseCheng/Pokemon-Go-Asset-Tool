@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GetHoloholoInventoryProto {
+	int64 timestamp_millis = 1;
+	repeated Item item_been_seen = 2;
+}

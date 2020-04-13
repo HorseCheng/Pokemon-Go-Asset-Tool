@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GmtSettingsProto {
+	bool enable_gmtdownload_v2 = 1;
+}

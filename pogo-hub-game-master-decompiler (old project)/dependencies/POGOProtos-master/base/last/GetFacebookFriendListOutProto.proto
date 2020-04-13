@@ -1,0 +1,22 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GetFacebookFriendListOutProto {
+	Result result = 1;
+	repeated FacebookFriendProto friend = 2;
+	string next_cursor = 3;
+
+	enum Result {
+		UNSET = 0;
+		SUCCESS = 1;
+		ERROR_UNKNOWN = 2;
+		ERROR_FACEBOOK_API = 3;
+		ERROR_FACEBOOK_PERMISSIONS = 4;
+		ERROR_NO_FACEBOOK_ID = 5;
+	}
+
+	message FacebookFriendProto {
+		PlayerSummaryProto player = 1;
+		string full_name = 2;
+	}
+}

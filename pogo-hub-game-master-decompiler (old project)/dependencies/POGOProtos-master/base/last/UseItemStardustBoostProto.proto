@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message UseItemStardustBoostProto {
+	Item item = 1;
+}

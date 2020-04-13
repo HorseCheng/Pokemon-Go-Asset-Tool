@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message NewsPageTelemetry {
+	NewsPageTelemetryIds news_page_click_id = 1;
+}

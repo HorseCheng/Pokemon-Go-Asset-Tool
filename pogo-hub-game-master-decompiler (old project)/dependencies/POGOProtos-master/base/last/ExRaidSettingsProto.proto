@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ExRaidSettingsProto {
+	FriendshipLevelMilestone minimum_ex_raid_share_level = 1;
+}

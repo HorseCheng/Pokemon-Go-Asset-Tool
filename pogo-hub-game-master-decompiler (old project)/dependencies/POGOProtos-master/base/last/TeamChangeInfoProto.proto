@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message TeamChangeInfoProto {
+	int64 last_acquired_time = 1;
+	int32 num_items_acquired = 2;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message HashedKeyProto {
+	string hashed_key_raw = 1;
+}

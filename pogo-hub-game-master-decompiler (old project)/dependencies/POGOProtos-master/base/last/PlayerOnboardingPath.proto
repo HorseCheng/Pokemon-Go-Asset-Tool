@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DumpProtos;
+
+enum PlayerOnboardingPath {
+	UNSET = 0;
+	V1 = 1;
+	V2 = 2;
+}

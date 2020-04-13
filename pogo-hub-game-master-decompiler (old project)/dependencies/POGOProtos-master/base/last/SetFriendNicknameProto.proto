@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message SetFriendNicknameProto {
+	string friend_id = 1;
+	string friend_nickname = 2;
+}

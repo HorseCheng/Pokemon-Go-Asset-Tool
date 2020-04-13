@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ClientGenderSettingsProto {
+	HoloPokemonId pokemon = 1;
+	ClientGenderProto gender = 2;
+}

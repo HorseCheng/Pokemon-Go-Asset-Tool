@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message PoiPlayerMetadataTelemetry {
+	string device_model = 1;
+	string device_os = 2;
+}

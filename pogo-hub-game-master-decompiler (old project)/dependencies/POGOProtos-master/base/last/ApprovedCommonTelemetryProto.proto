@@ -1,0 +1,17 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ApprovedCommonTelemetryProto {
+	CommonTelemetryBootTime boot_time = 1;
+	CommonTelemetryShopClick shop_click = 2;
+	CommonTelemetryShopView shop_view = 3;
+	ServerRecordMetadata server_data = 4;
+	ClientTelemetryCommonFilterProto common_filters = 5;
+
+	//oneof TelemetryData {
+		//none = 0;
+		//boot_time = 1;
+		//shop_click = 2;
+		//shop_view = 3;
+	//}
+}

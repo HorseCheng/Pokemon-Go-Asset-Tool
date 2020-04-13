@@ -1,0 +1,14 @@
+syntax = "proto3";
+package DumpProtos;
+
+message CombatMinigameTelemetry {
+	MinigameCombatType combat_type = 1;
+	HoloPokemonType move_type = 2;
+	float score = 3;
+
+	enum MinigameCombatType {
+		UNSET = 0;
+		PVP = 1;
+		PVE = 2;
+	}
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ThirdMoveGlobalSettingsProto {
+	bool unlock_enabled = 1;
+}

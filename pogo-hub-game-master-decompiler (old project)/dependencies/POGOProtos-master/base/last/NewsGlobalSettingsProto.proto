@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message NewsGlobalSettingsProto {
+	bool enable_news = 1;
+}

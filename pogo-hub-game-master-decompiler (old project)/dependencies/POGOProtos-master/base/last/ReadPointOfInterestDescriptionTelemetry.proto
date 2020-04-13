@@ -1,0 +1,9 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ReadPointOfInterestDescriptionTelemetry {
+	string result = 1;
+	string fort_id = 2;
+	int32 fort_type = 3;
+	string partner_id = 4;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message RangeProto {
+	int32 min = 1;
+	int32 max = 2;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ReassignPlayerProto {
+	int32 current_instance = 1;
+}

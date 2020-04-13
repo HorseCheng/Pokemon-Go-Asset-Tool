@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message InventoryUpgradesProto {
+	repeated InventoryUpgradeProto inventory_upgrade = 1;
+}

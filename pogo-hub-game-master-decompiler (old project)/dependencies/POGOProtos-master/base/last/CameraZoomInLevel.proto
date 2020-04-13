@@ -1,0 +1,9 @@
+syntax = "proto3";
+package DumpProtos;
+
+enum CameraZoomInLevel {
+	DEFAULT = 0;
+	NICE = 1;
+	GREAT = 2;
+	EXCELLENT = 3;
+}

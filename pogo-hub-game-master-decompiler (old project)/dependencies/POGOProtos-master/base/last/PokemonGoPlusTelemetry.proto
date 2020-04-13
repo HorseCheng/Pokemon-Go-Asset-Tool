@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DumpProtos;
+
+message PokemonGoPlusTelemetry {
+	PokemonGoPlusIds pgp_event_ids = 1;
+	int32 count = 2;
+	int32 version = 3;
+}

@@ -1,0 +1,7 @@
+syntax = "proto3";
+package POGOProtos.Networking.Requests.Messages;
+
+message SfidaUpdateMessage {
+	double player_lat = 1;
+	double player_lng = 2;
+}

@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ConfirmPhotobombProto {
+	fixed64 encounter_id = 1;
+}

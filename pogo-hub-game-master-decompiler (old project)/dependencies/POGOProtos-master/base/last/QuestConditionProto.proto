@@ -1,0 +1,87 @@
+syntax = "proto3";
+package DumpProtos;
+
+message QuestConditionProto {
+	ConditionType type = 1;
+	WithPokemonTypeProto with_pokemon_type = 2;
+	WithPokemonCategoryProto with_pokemon_category = 3;
+	WithWeatherBoostProto with_weather_boost = 4;
+	WithDailyCaptureBonusProto with_daily_capture_bonus = 5;
+	WithDailySpinBonusProto with_daily_spin_bonus = 6;
+	WithWinRaidStatusProto with_win_raid_status = 7;
+	WithRaidLevelProto with_raid_level = 8;
+	WithThrowTypeProto with_throw_type = 9;
+	WithWinGymBattleStatusProto with_win_gym_battle_status = 10;
+	WithSuperEffectiveChargeMoveProto with_super_effective_charge_move = 11;
+	WithItemProto with_item = 12;
+	WithUniquePokestopProto with_unique_pokestop = 13;
+	WithQuestContextProto with_quest_context = 14;
+	WithBadgeTypeProto with_badge_type = 15;
+	WithPlayerLevelProto with_player_level = 16;
+	WithWinBattleStatusProto with_win_battle_status = 17;
+	WithUniquePokemonProto with_unique_pokemon = 18;
+	WithNpcCombatProto with_npc_combat = 19;
+	WithPvpCombatProto with_pvp_combat = 20;
+	WithLocationProto with_location = 21;
+	WithDistanceProto with_distance = 22;
+	WithInvasionCharacterProto with_invasion_character = 23;
+	WithPokemonAlignmentProto with_pokemon_alignment = 24;
+
+	//oneof Condition {
+		//none = 0;
+		//with_pokemon_type = 2;
+		//with_pokemon_category = 3;
+		//with_weather_boost = 4;
+		//with_daily_capture_bonus = 5;
+		//with_daily_spin_bonus = 6;
+		//with_win_raid_status = 7;
+		//with_raid_level = 8;
+		//with_throw_type = 9;
+		//with_win_gym_battle_status = 10;
+		//with_super_effective_charge_move = 11;
+		//with_item = 12;
+		//with_unique_pokestop = 13;
+		//with_quest_context = 14;
+		//with_badge_type = 15;
+		//with_player_level = 16;
+		//with_win_battle_status = 17;
+		//with_unique_pokemon = 18;
+		//with_npc_combat = 19;
+		//with_pvp_combat = 20;
+		//with_location = 21;
+		//with_distance = 22;
+		//with_invasion_character = 23;
+		//with_pokemon_alignment = 24;
+	//}
+
+	enum ConditionType {
+		UNSET = 0;
+		WITH_POKEMON_TYPE = 1;
+		WITH_POKEMON_CATEGORY = 2;
+		WITH_WEATHER_BOOST = 3;
+		WITH_DAILY_CAPTURE_BONUS = 4;
+		WITH_DAILY_SPIN_BONUS = 5;
+		WITH_WIN_RAID_STATUS = 6;
+		WITH_RAID_LEVEL = 7;
+		WITH_THROW_TYPE = 8;
+		WITH_WIN_GYM_BATTLE_STATUS = 9;
+		WITH_SUPER_EFFECTIVE_CHARGE = 10;
+		WITH_ITEM = 11;
+		WITH_UNIQUE_POKESTOP = 12;
+		WITH_QUEST_CONTEXT = 13;
+		WITH_THROW_TYPE_IN_A_ROW = 14;
+		WITH_CURVE_BALL = 15;
+		WITH_BADGE_TYPE = 16;
+		WITH_PLAYER_LEVEL = 17;
+		WITH_WIN_BATTLE_STATUS = 18;
+		WITH_NEW_FRIEND = 19;
+		WITH_DAYS_IN_A_ROW = 20;
+		WITH_UNIQUE_POKEMON = 21;
+		WITH_NPC_COMBAT = 22;
+		WITH_PVP_COMBAT = 23;
+		WITH_LOCATION = 24;
+		WITH_DISTANCE = 25;
+		WITH_POKEMON_ALIGNMENT = 26;
+		WITH_INVASION_CHARACTER = 27;
+	}
+}

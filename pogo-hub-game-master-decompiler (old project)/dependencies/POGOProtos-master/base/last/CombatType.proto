@@ -1,0 +1,11 @@
+syntax = "proto3";
+package DumpProtos;
+
+enum CombatType {
+	COMBAT_TYPE_UNSET = 0;
+	SOLO = 1;
+	QR_CODE = 2;
+	FRIENDS = 3;
+	NEARBY = 4;
+	SOLO_INVASION = 5;
+}

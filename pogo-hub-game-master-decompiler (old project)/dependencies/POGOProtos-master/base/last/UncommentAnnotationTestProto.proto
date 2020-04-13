@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message UncommentAnnotationTestProto {
+	string string_property = 1;
+	int64 long_property = 2;
+}

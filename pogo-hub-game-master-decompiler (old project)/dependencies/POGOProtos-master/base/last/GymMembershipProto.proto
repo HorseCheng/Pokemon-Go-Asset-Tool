@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GymMembershipProto {
+	PokemonProto pokemon = 1;
+	PlayerPublicProfileProto trainer_public_profile = 2;
+	PokemonProto training_pokemon = 3;
+}

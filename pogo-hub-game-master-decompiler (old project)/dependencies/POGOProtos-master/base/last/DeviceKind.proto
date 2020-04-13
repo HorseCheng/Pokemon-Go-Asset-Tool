@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+enum DeviceKind {
+	POKEMON_GO_PLUS = 0;
+	POKE_BALL_PLUS = 1;
+}

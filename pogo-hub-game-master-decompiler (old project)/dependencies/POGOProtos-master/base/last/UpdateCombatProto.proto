@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message UpdateCombatProto {
+	string combat_id = 1;
+	CombatActionProto action = 2;
+}

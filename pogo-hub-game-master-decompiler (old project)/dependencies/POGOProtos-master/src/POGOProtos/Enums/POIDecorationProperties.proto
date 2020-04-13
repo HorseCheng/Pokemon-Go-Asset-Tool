@@ -1,0 +1,15 @@
+syntax = "proto3";
+package POGOProtos.Enums;
+
+enum POIDecorationProperties {
+	COLOR = 0;
+	POSITION = 1;
+	SIZE = 2;
+	TEXT = 3;
+	ACTIVE = 4;
+	SET_RAID_DATA = 5;
+	NEARBY_CARROT_VISIBLE = 6;
+	SET_LOWEST_MOTIVATION = 7;
+	SET_NPC_CLICKED_ACTION = 8;
+	BEGIN_EXIT = 9;
+}

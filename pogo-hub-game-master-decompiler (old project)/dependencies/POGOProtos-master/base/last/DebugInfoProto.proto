@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message DebugInfoProto {
+	double latitude = 1;
+	double longitude = 2;
+}

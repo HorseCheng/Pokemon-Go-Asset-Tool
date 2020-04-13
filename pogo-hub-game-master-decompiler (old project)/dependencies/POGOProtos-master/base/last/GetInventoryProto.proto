@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GetInventoryProto {
+	int64 timestamp_millis = 1;
+}

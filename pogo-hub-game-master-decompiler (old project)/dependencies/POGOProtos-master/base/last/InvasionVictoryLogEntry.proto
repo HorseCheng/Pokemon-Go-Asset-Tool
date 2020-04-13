@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message InvasionVictoryLogEntry {
+	LootProto rewards = 1;
+	EnumWrapper.InvasionCharacter invasion_npc = 2;
+}

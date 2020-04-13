@@ -1,0 +1,8 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ARPlusEncounterValuesProto {
+	float proximity = 1;
+	float awareness = 2;
+	bool pokemon_frightened = 3;
+}

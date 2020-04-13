@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message PlayerCurrencyProto {
+	int32 gems = 1;
+}

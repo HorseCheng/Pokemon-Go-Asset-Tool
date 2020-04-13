@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message GcmToken {
+	string registration_id = 1;
+}

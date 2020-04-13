@@ -1,0 +1,51 @@
+syntax = "proto3";
+package DumpProtos;
+
+message QuestProto {
+	QuestType quest_type = 1;
+	DailyQuestProto daily_quest = 2;
+	MultiPartQuestProto multi_part = 3;
+	CatchPokemonQuestProto catch_pokemon = 4;
+	AddFriendQuestProto add_friend = 5;
+	TradePokemonQuestProto trade_pokemon = 6;
+	string quest_id = 100;
+	int64 quest_seed = 101;
+	Context quest_context = 102;
+	string template_id = 103;
+	int32 progress = 104;
+	QuestGoalProto goal = 105;
+	Status status = 106;
+	repeated QuestRewardProto quest_rewards = 107;
+	int64 creation_timestamp_ms = 108;
+	int64 last_update_timestamp_ms = 109;
+	int64 compeletion_timestamp_ms = 110;
+	string fort_id = 111;
+	bool admin_generated = 112;
+	bool stamp_count_override_enabled = 113;
+	int32 stamp_count_override = 114;
+	int64 s2_cell_id = 115;
+	int32 story_quest_template_version = 116;
+	DailyCounterProto daily_counter = 117;
+	string reward_pokemon_icon_url = 118;
+
+	enum Context {
+		UNSET = 0;
+		STORY_QUEST = 1;
+		CHALLENGE_QUEST = 2;
+	}
+
+	//oneof Quest {
+		//none = 0;
+		//daily_quest = 2;
+		//multi_part = 3;
+		//catch_pokemon = 4;
+		//add_friend = 5;
+		//trade_pokemon = 6;
+	//}
+
+	enum Status {
+		STATUS_UNDEFINED = 0;
+		STATUS_ACTIVE = 1;
+		STATUS_COMPLETED = 2;
+	}
+}

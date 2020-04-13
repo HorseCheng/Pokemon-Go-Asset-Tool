@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message DownloadUrlOutProto {
+	repeated DownloadUrlEntryProto download_urls = 1;
+}

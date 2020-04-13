@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message RaidTicketsProto {
+	repeated RaidTicketProto raid_ticket = 1;
+}

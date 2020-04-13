@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message EvolvePokemonTelemetry {
+	PokemonTelemetry pokemon = 1;
+	PokemonTelemetry evolved_pokemon = 2;
+}

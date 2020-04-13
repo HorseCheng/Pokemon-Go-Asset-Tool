@@ -1,0 +1,6 @@
+syntax = "proto3";
+package DumpProtos;
+
+message RedeemPasscodeRequestProto {
+	string passcode = 1;
+}

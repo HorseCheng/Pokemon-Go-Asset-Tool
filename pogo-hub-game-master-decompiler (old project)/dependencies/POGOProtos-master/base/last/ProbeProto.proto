@@ -1,0 +1,7 @@
+syntax = "proto3";
+package DumpProtos;
+
+message ProbeProto {
+	string id = 1;
+	string payload = 2;
+}
