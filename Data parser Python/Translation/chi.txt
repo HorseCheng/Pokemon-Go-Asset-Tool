@@ -238,6 +238,7 @@ GO火箭隊即將統治這整個世界。你就認命吧，我或許還能賞你
 龜殼背包
 遺跡迷背包
 伽勒爾背包
+波克比背包
 超音蝠背包
 精英訓練家皮帶
 圓形皮帶扣
@@ -319,6 +320,7 @@ HF設計師聯名款棒球帽
 阪木西裝褲
 道館館主短裙
 城都連身短褲
+點點寬褲
 愛心魚破洞牛仔褲
 超夢款長褲
 條紋短裙
@@ -347,6 +349,7 @@ HF設計師聯名款棒球帽
 驚角鹿毛衣
 經典長袖上衣
 信使鳥毛衣
+牛仔外套
 名偵探皮卡丘T恤
 隨風球T恤
 藍海衝浪T
@@ -408,8 +411,12 @@ Safari Zone T恤 2020
 火箭隊上衣
 彩虹火箭隊上衣
 史帕克風夾克組合
+波克比帽T
 休閒短袖T恤
 皮卡丘短袖T恤
+UNIQLO UT 伊布
+UNIQLO UT 皮卡丘
+UNIQLO UT 百變怪
 UNWTO T恤
 資深訓練家大衣
 精英訓練家長靴
@@ -423,6 +430,7 @@ UNWTO T恤
 阪木皮鞋
 道館館主運動鞋
 城都運動鞋
+黑色涼鞋
 愛心魚休閒鞋
 超夢款球鞋
 小霞鞋子
@@ -470,6 +478,7 @@ UNWTO T恤
 龜殼背包
 遺跡迷背包
 伽勒爾背包
+波克比背包
 超音蝠背包
 3D眼鏡
 不戴眼鏡
@@ -543,6 +552,7 @@ HF設計師聯名款棒球帽
 道館館主短褲
 城都運動褲
 慢跑者短褲
+點點寬褲
 愛心魚破洞牛仔褲
 超夢款長褲
 皮卡丘發燒友短褲
@@ -570,6 +580,7 @@ HF設計師聯名款棒球帽
 經典連帽上衣
 藍白連帽上衣
 信使鳥毛衣
+牛仔外套
 名偵探皮卡丘T恤
 隨風球T恤
 藍海衝浪T
@@ -629,11 +640,15 @@ Safari Zone T恤 2020
 火箭隊上衣
 彩虹火箭隊上衣
 史帕克風夾克組合
+波克比帽T
 幾何花紋短袖T恤
 靈犀隊短袖T恤
 叡智隊短袖T恤
 武勇隊短袖T恤
 30紀念款
+UNIQLO UT 伊布
+UNIQLO UT 皮卡丘
+UNIQLO UT 百變怪
 UNWTO T恤
 資深訓練家褲襪
 精英訓練家短靴
@@ -649,6 +664,7 @@ UNWTO T恤
 道館館主運動鞋
 城都運動鞋
 慢跑者鞋
+黑色涼鞋
 愛心魚休閒鞋
 超夢款球鞋
 皮卡丘發燒友運動鞋
@@ -741,6 +757,10 @@ Test, 2020
 城市探險家通行證
 St. Louis, 2020
 城市探險家通行證
+Liverpool, 2020
+城市探險家通行證
+Philadelphia, 2020
+城市探險家通行證
 在 {0} 場對戰中獲勝
 對戰
 N0
@@ -753,12 +773,12 @@ Rewards
 N0
 2020年3月20日～3月26日
 直擊！古生代寶可夢之謎！
-2020年3月15日
+2020年4月25日
 念力寶可夢的超能力
 讓 {0} 隻寶可夢進化
 研究員
 N0
--
+2019年11月2日
 巨大的探索
 2019年6月12日 芝加哥（北）
 Pokémon GO Fest - 提前入場
@@ -958,6 +978,22 @@ GO Safari Zone - Europe 2017
 
 
 
+St. Louis, March 26, 2020
+Pokémon Safari Zone - 提前入場
+St. Louis, March 26, 2020
+Pokémon GO Safari Zone
+St. Louis, March 27, 2020
+Pokémon Safari Zone - 提前入場
+St. Louis, March 27, 2020
+Pokémon GO Safari Zone
+St. Louis, March 28, 2020
+Pokémon Safari Zone - 提前入場
+St. Louis, March 28, 2020
+Pokémon GO Safari Zone
+St. Louis, March 29, 2020
+Pokémon Safari Zone - 提前入場
+St. Louis, March 29, 2020
+Pokémon GO Safari Zone
 2019年4月18日 聖淘沙
 Pokémon GO Safari Zone
 2019年4月19日 聖淘沙
@@ -1049,6 +1085,9 @@ N0
 捉到 {0} 隻未知圖騰
 未知圖騰
 N0
+Earn {0} Wayfarer Agreements
+Earn a Wayfarer Agreement
+Wayfarer
 2018年9月1日 橫須賀久里濱花國
 Pokémon GO Safari Zone
 2018年9月1日 橫須賀三笠公園
@@ -1090,6 +1129,7 @@ https://pokemongo.nianticlabs.com/support/banned/en
 選擇寶可夢
 收到博士送來的糖果
 {0} 使出了{1}！
+GO對戰日：瑪力露
 臨近對戰
 GO對戰聯盟
 本季
@@ -1164,12 +1204,15 @@ LOADING...
 請勿擅闖禁止進入的區域
 請勿進入危險的地區
 玩遊戲時請遵守遊戲規則，並請互相體諒、尊重
+社群日禮盒已在商店上架
+獲得心心所需的步行距離減半
 你的夥伴在附近找到了一個很有趣的地點！
 一起對戰
 餵夥伴吃點心
 獎勵
 和夥伴一起玩前，請開啟照相機的使用權限
 允許使用照相機
+夥伴寶可夢找到糖果所需行走距減半
 夥伴現在不能吃點心！
 {0}！就決定是你了！
 一起玩
@@ -1210,6 +1253,9 @@ CP加成
 謝禮
 紀念品
 點心
+給力好夥伴每30分鐘會帶精靈球給你
+夥伴會更常找到樹果和道具
+夥伴帶來的道具種類變多
 你的夥伴帶了紀念品要給你！
 歷代夥伴
 替換夥伴
@@ -1231,6 +1277,7 @@ CP加成
 正港好夥伴
 正港好夥伴
 你的夥伴學會了 {0} 種新的事物！
+夥伴陪你一起走路的時間變長
 你和 {0} 現在是 {1} 了！
 試用版
 繼續使用
@@ -1314,6 +1361,7 @@ GO
 收到日
 這些水果不能吃，但有些寶可夢還是很愛收集它們。
 花果
+夥伴會更常找到紀念品
 只有一邊的耳環。不知道是誰遺失的。
 一邊的耳環
 圓滾滾的玻璃彈珠。在透明的彈珠中能看見彩色玻璃的花紋。
@@ -1394,6 +1442,8 @@ CP加成
 和你的夥伴一起走路吧！
 {0} 找到1顆糖果！
 一起走路
+和夥伴作伴！
+夥伴比較容易變得欣喜若狂
 正在使用中
 目前無法再次使用此道具，請稍後再試一次。
 捕捉 {0} 隻蟲屬性的寶可夢
@@ -1401,9 +1451,9 @@ CP加成
 捕捉 {0} 隻刺尾蟲
 捕捉 {0} 隻蟲屬性的寶可夢
 讓 {0} 隻蟲屬性的寶可夢進化
-This option cannot be used right now.
-Do you really want to power up {0}?
-Powering up this Pokémon will exceed the maximum CP for the {0}.
+目前無法使用此選項
+確定要強化 {0} 嗎？
+強化這隻寶可夢之後，牠的CP將會超過{0}的上限
 高級禮盒
 超級禮盒
 GO火箭隊禮盒
@@ -1447,6 +1497,13 @@ Safari Zone禮盒
 無法用特殊招式學習器來讓寶可夢忘記特殊招式「遷怒」
 無法登入嗎？
 捕捉寶可夢
+捕獲寶可夢時的糖果加倍
+捕獲寶可夢時的糖果增為3倍
+捕獲寶可夢時的星星沙子加倍
+捕捉瑪力露時的星星沙子加倍
+捕獲寶可夢時的星星沙子增為3倍
+捕獲寶可夢時的XP加倍
+捕獲寶可夢時的XP增為3倍
 和隊長對戰 {0} 次
 和其他訓練家對戰
 和其他訓練家對戰 {0} 次
@@ -1501,6 +1558,7 @@ Safari Zone禮盒
 為蛋蛋社群日投下神聖的一票！捕捉 {0} 隻寶可夢！
 為鯉魚王社群日投下神聖的一票！捕捉 {0} 隻寶可夢！
 為姆克兒社群日投下神聖的一票！捕捉 {0} 隻寶可夢！
+在GO對戰聯盟中獲得1場勝利
 在超級聯盟中與其他訓練家對戰
 和夥伴獲得 {0} 顆心心
 和夥伴獲得1顆心心
@@ -1534,6 +1592,32 @@ Safari Zone禮盒
 為多邊獸社群日投下神聖的一票！捕捉 {0} 隻寶可夢！
 為迷你龍拍攝1張照片
 為伊布拍攝1張照片
+Take {0} snapshots of Bug-type Pokémon
+Take a snapshot of a Bug-type Pokémon
+Take {0} snapshots of Dark-type Pokémon
+Take a snapshot of a Dark-type Pokémon
+Take {0} snapshots of Dragon-type Pokémon
+Take a snapshot of a Dragon-type Pokémon
+Take {0} snapshots of Electric-type Pokémon
+Take a snapshot of an Electric-type Pokémon
+Take a snapshot of a Fairy-type Pokémon
+Take {0} snapshots of Fighting-type Pokémon
+Take a snapshot of a Fighting-type Pokémon
+Take {0} snapshots of Fire-type Pokémon
+Take a snapshot of a Fire-type Pokémon
+Take a snapshot of a Flying-type Pokémon
+Take a snapshot of a Ghost-type Pokémon
+Take a snapshot of a Grass-type Pokémon
+Take a snapshot of a Ground-type Pokémon
+Take a snapshot of an Ice-type Pokémon
+Take a snapshot of a Normal-type Pokémon
+Take {0} snapshots of Poison-type Pokémon
+Take a snapshot of a Poison-type Pokémon
+Take a snapshot of a Psychic-type Pokémon
+Take {0} snapshots of Rock-type Pokémon
+Take a snapshot of a Rock-type Pokémon
+Take a snapshot of a Steel-type Pokémon
+Take a snapshot of a Water-type Pokémon
 變更代碼
 確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
 變更自己的訓練家代碼
@@ -1788,6 +1872,8 @@ GO火箭隊幹部
 訓練
 高級聯盟
 確定
+凱西社群日
+社群日
 {0} 有效
 {0} 無效
 點擊道具來使用
@@ -1796,6 +1882,7 @@ GO火箭隊幹部
 要使用{0}嗎？
 複製訓練家代碼
 已複製訓練家代碼
+嘿，{0}！我最近一直在研究一種特別的薰香，而且我也幫你裝備好了。現在每天都會有一隻特別的寶可夢出現在你附近，記得仔細觀察！
 記得明天再回來看看喔
 每日課題
 yyyy年 M月 d日
@@ -1844,6 +1931,7 @@ d
 等等再說
 開始使用！
 很抱歉，Pokémon GO不再支援你所使用的裝置。請至常見問題確認Pokémon GO支援的裝置。
+OK
 停止和朋友分享最近捉到的寶可夢
 無法在朋友名單上確認彼此最近捕捉或孵化的寶可夢
 無法指派夥伴寶可夢去防禦道館
@@ -1864,6 +1952,13 @@ d
 哦？
 得到了1顆蛋！你真是太幸運了！
 走 {0} 公里來孵化這顆蛋！
+活動主題10公里蛋
+活動主題2公里蛋
+活動主題5公里蛋
+活動主題7公里蛋
+活動主題蛋
+內含厲害特殊招式學習器的社群日禮盒
+內含厲害一般招式學習器的社群日禮盒
 教 {0}
 攻擊教學
 讓 {0} 學會新的特殊招式
@@ -1990,6 +2085,7 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 進入團體戰時出現錯誤
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
+讓勇基拉進化成胡地後，牠就能學會雙倍奉還
 成功登入 {0} 了！
 參加活動
 進化週：捕捉 {0} 墨海馬
@@ -2008,6 +2104,7 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 進化方法
 確定要使用糖果來讓 {0} 進化嗎？
 如果不進行交換，則需要使用 {1} 顆糖果才能讓 {0} 進化。
+進化寶可夢時的XP加倍
 你還沒有任何 {0} ！
 邀請一位朋友參加VIP團體戰
 原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
@@ -2064,7 +2161,12 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 要向 {0} 傳送朋友申請嗎？
 推荐名單
 +{0} XP
+Event-themed Field Research
 感謝你來參加Pokémon GO的測試！我們很快就會再見面的！
+禮物
+互動
+亮晶晶
+friendlevel
 正在搜尋 {0} ……
 以寶可夢名稱或暱稱搜尋
 以寶可夢圖鑑編號搜尋。例如：23–145
@@ -2246,15 +2348,19 @@ Lv {0}
 你已經收集足夠的神秘零件來組裝火箭隊雷達！
 看起來這些零件可以組裝在一起！
 伽勒爾的樣子
-The GO Battle League is down for maintenance
-The GO Battle League will be down for maintenance in {0} minute(s)
+GO對戰聯盟系統維修中
+GO對戰聯盟的系統維修將在 {0} 分鐘後開始
+可在GO對戰聯盟獎勵中遇見的瑪力露
+GO對戰聯盟增加3組對戰
+GO對戰聯盟20組對戰
+參加GO對戰聯盟前毋需事先完成步行距離
 GDC 2019: Catch {0} Pokemon
 123456789
 雌性
 雄性
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月20日8:00～3月26日22:00參加遊戲裡的「直擊！古生代寶可夢之謎！」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 入場券：直擊！古生代寶可夢之謎！
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月15日11:00～18:00參加遊戲裡的「念力寶可夢的超能力」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年4月25日11:00～17:00參加遊戲裡的「念力寶可夢的超能力」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 入場券：念力寶可夢的超能力
 同意
 接受
@@ -2295,10 +2401,14 @@ XL
 XP
 XS
 Yes
+特別獎勵
 系統偵測到違反服務條款的行為，故已將此帳號停權。請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 規劃路徑
 祝你有愉快的一天！
+可打開2倍的禮物
+可打開1.5倍的禮物
 成功送出友情禮物！
+包包裡可存放的禮物加倍
 打開來自 {0} 的友情禮物！
 做好受苦受難的準備吧。
 我是很想叫你做好準備，但你都註定要輸了，何必白費口舌呢。
@@ -2546,6 +2656,7 @@ BATTLES WIN：
 踢館成功
 一起踢館成功：
 太棒了！
+獎勵
 這間道館目前正在舉行VIP團體戰。道館將會在 {0} 重新開放。
 道館被人攻佔了！
 確定要將 {0} 指派到道館嗎？在別人踢館成功之前，牠將無法回到你的同行隊伍
@@ -2619,6 +2730,8 @@ SPONSORED
 萬聖節：連續投出 {0} 次Excellent Throw
 萬聖節：打敗1個GO火箭隊手下
 萬聖節：為幽靈屬性的寶可夢拍攝 {0} 張GO Snapshot照片
+孵蛋時可獲得的糖果加倍
+孵蛋時可獲得的星星沙子加倍
 https://pokemongo.nianticlabs.com/support/friends
 https://niantic.helpshift.com/a/pokemon-go/
 歡慶假期：捕捉 {0} 隻冰屬性寶可夢
@@ -2636,7 +2749,17 @@ h
 寶可幣
 轉隊
 升級
-擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。
+薰香日
+尾立將會被薰香吸引
+薰香日：屬性大洗牌
+薰香時間加倍
+薰香時間延長為3小時
+薰香的效果增強2倍
+薰香效果增強
+薰香的效果增強3倍
+商店內薰香打折
+特定寶可夢將會被薰香吸引
+擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。當它吸引到特定寶可夢時，它的顏色將會改變。
 薰香
 25個擁有神祕香味的薰香。它可將寶可夢吸引至你所在的地點，效果將持續30分鐘。
 薰香 × 25
@@ -2654,6 +2777,8 @@ h
 收到 {0} 件朋友申請
 收到1件朋友申請
 請選擇要孵化的蛋
+孵蛋所需的行走距離減為1/2
+孵蛋所需的行走距離減為1/4
 孵化器
 ∞
 可用 {0} 次
@@ -2749,7 +2874,7 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 厲害傷藥
 一個神秘的古老盒子，開啟後可以讓特定寶可夢出現一段時間。
 神秘盒子
-擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。
+擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。當它吸引到特定寶可夢時，它的顏色將會改變。
 薰香
 孵化器會在你走路時孵蛋。使用3次後就會壞掉。
 孵化器
@@ -2806,6 +2931,9 @@ VIP團體戰入場券
 神奇糖果
 寶可夢吃下這種樹果後，會變得比較容易捕捉。
 蔓莓果
+可參加遠距團體戰的團體戰入場券
+可用來參加遠距團體戰的入場券
+遠距團體戰入場券
 讓瀕死的寶可夢重獲生機，並回復一半HP。
 活力碎片
 用來拍攝寶可夢的照相機。可以把拍好的照片分享給朋友。
@@ -2886,6 +3014,7 @@ Google
 選擇登入帳號：
 輸入用戶名稱
 用戶名稱
+幸運蛋效果延長為1小時
 下次和這位朋友交換寶可夢時將可獲得亮晶晶寶可夢！
 亮晶晶好朋友
 和 {0} 成為亮晶晶好朋友了！
@@ -2900,6 +3029,8 @@ Google
 幸運蛋 × 5
 8個裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。
 幸運蛋 × 8
+薰香效果延長為1小時
+薰香效果延長為3小時
 散發寒氣的誘餌模組，效果將持續30分鐘。可吸引喜愛寒氣的寶可夢，也可以讓特定寶可夢進化。
 冰寒誘餌模組
 散發磁性的誘餌模組，效果將持續30分鐘。可吸引擁有磁場的寶可夢，也可以讓特定寶可夢進化。
@@ -2964,7 +3095,7 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 全滿藥 × 10
 讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。
 活力塊 × 6
-Built at 2020-04-08T21:15:15.580807at SHA f36bf0943b2ca911552133785b9d7e704843fe25Pipeline 372633, job 2897093
+Built at 2020-05-09T03:46:34.765403at SHA 5029fe47698f7c1a2994d3387c7803aed0ce19e3Pipeline 395496, job 3102309
 m
 {0}分{1}秒
 Turn on Niantic AR to use occlusion.
@@ -3279,7 +3410,7 @@ Landscape mode does not support occlusion.
 目擊紀錄
 尚未有目擊紀錄
 附近沒有寶可夢。去別的地方看看吧！
-附近的寶可夢
+看看附近
 去尋找附近的寶可夢吧
 寶可夢逃走了！
 尋找
@@ -3412,6 +3543,7 @@ OK
 Next
 Pokémon GO Plus 的配對已被解除
 訊號微弱。請將Pokémon GO Plus移至行動裝置附近
+凱西將在GO Snapshot中驚喜現身5次
 歡迎加入叡智隊！
 歡迎加入武勇隊！
 歡迎加入靈犀隊！
@@ -3445,6 +3577,7 @@ Pokémon GO STADIUM
 編輯名稱
 申請新寶可補給站時，需要先綁定電子郵件帳號。請先確認用於登入的Facebook帳號所使用的電子郵件帳號有效，或是至「設定」綁定Google帳號。
 新增照片
+SCAN POKÉSTOP
 你的投稿將會在審查完成後公開
 新增/編輯說明文
 指定地點
@@ -3475,6 +3608,8 @@ OK
 現有照片
 新增照片
 拍照
+{0} PokéStop scans remaining
+1 PokéStop scan remaining
 還有 {0} 則說明文待編輯
 還有1則說明文待編輯
 還有 {0} 個地點待指定
@@ -3640,7 +3775,7 @@ https://pokemongo.nianticlabs.com/support/high-quality-pokestops
 HP
 攻擊力
 編號
-Do you really want to transfer this Buddy Pokémon?
+你真的確定要把你的夥伴寶可夢傳送給維羅博士嗎？
 每天捕捉寶可夢
 --
 種子寶可夢
@@ -4996,16 +5131,17 @@ CP
 治療
 身高
 無法選擇特殊的寶可夢！
-Your selection contains Event Pokémon! Are you sure you want to transfer the selected Pokémon?
+你選擇的寶可夢中包含了活動裡才能捉到的寶可夢！確定要傳送嗎？
 不能選擇傳說的寶可夢。
 不能選擇亮晶晶寶可夢
 無法選擇幻之寶可夢
-This Pokémon cannot be transferred.
+不能傳送這隻寶可夢
 不能選擇異色寶可夢
 團體戰開打中！你的寶可夢會在團體戰結束後回到同行隊伍。
 {0} 再見！
 強化
 要強化 {0} 嗎？
+強化這隻寶可夢之後，牠的CP將會超過{0}的上限
 {0} 的糖果不夠.
 需要更多星星沙子
 訓練家等級不足，無法強化
@@ -5021,7 +5157,7 @@ This Pokémon cannot be transferred.
 交換
 發生不明錯誤，無法傳送 {0} 。
 不能傳送設為「我的最愛」的寶可夢！
-You cannot select your buddy!
+不能選擇夥伴！
 不能傳送設為夥伴的寶可夢！
 傳送
 <size=36>確定要將 {0} 傳送給博士？</size>傳送後將無法取消
@@ -5715,7 +5851,7 @@ You cannot select your buddy!
 讓你可攜帶的寶可夢數量增加 {0} 。
 升級寶可夢盒子
 我的寶可夢圖鑑
-附近的寶可夢
+看看附近
 手動輸入
 切換至手動輸入
 讀取二維條碼
@@ -5735,6 +5871,8 @@ You cannot select your buddy!
 去收集更多寶可補給站模組吧！
 這個寶可補給站太遠了
 每天拜訪寶可補給站
+旋轉寶可補給站轉盤可獲得的XP加倍
+旋轉寶可補給站轉盤可獲得的XP增為10倍
 你的包包已經滿了。請到商店擴充包包容量。
 目前無法使用此寶可補給站
 此寶可補給站即將關閉
@@ -5756,7 +5894,7 @@ https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 最近去過的道館
 沒有任何道館徽章
 等級
-PokéStops Visited:
+拜訪過的寶可補給站：
 開始日
 總XP
 已兌換過此代碼
@@ -5779,6 +5917,8 @@ PokéStops Visited:
 限購1次
 可再買 {0} 個
 可再買 {0} 個
+活動抽獎被抽中了!
+活動入場券已經傳送到你的帳戶!
 連線狀況不佳
 掃描二維條碼
 無法辨識二維條碼。請嘗試以手動輸入。
@@ -5885,6 +6025,7 @@ Tokyo eSports 2020：捕捉 {0} 隻名單上的寶可夢
 捕捉 {0} 隻天然雀
 捕捉 {0} 隻菊石獸或化石盔
 捕捉 {0} 隻熔岩蟲或溶食獸
+捕捉 {0} 隻霹靂電球
 捕捉 {0} 隻蟲屬性的寶可夢
 捕捉 {0} 種蟲屬性的寶可夢
 捕捉1隻蟲屬性的寶可夢
@@ -6145,6 +6286,8 @@ GO Fest：和其他訓練家對戰
 豐緣祭典：捕捉 {0} 隻蛇紋熊或傲骨燕
 豐緣祭典：讓 {0} 隻刺尾蟲進化
 豐緣祭典：孵 {0} 顆蛋
+使用 {0} 個薰香
+使用薰香
 醜醜魚研究：帶夥伴寶可夢走路，獲得1顆糖果
 醜醜魚研究：孵 1 顆蛋
 醜醜魚研究：投出 {0} 次Great
@@ -6190,6 +6333,7 @@ GO Fest：和其他訓練家對戰
 獲得金關都獎牌
 獲得銀關都獎牌
 升至 {0} 級
+明天可再領取別的課題
 收集圖章，讓維羅博士的研究能有突破性的進展！
 距離下次突破性進展
 需要再收集 {0} 個圖章！
@@ -6201,7 +6345,7 @@ GO Fest：和其他訓練家對戰
 打敗 {0} 個GO火箭隊手下
 打敗 {0} 個GO火箭隊手下
 打敗1個GO火箭隊手下
-讓 {0} 隻寶可夢進化 
+讓 {0} 隻寶可夢進化
 強化寶可夢 {0} 次
 淨化 {0} 隻暗影寶可夢
 淨化1隻火、水或草屬性的暗影寶可夢
@@ -6222,8 +6366,8 @@ GO Fest：和其他訓練家對戰
 連續 {0} 天旋轉寶可補給站的轉盤
 在1場道館對戰中使出 {0} 次效果絕佳的特殊招式
 在超級聯盟訓練家對戰中和其他訓練家對戰，並獲勝 {0} 次
-傳送 {0} 個友誼禮物
-Send a Gift to a friend
+傳送 {0} 個友情禮物
+傳送友情禮物給朋友
 為蓋諾賽克特拍攝 {0} 張照片
 為雷吉艾斯拍攝1張GO Snapshot照片
 為雷吉洛克拍攝1張GO Snapshot照片
@@ -6770,7 +6914,7 @@ Pokémon GO Safari Zone in YOKOSUKA
 進行 {0} 次寶可夢交換
 交換1隻寶可夢
 傳送 {0} 隻寶可夢
-Transfer a Pokémon
+傳送1隻寶可夢
 Valentine's Day: 捕捉 {0} 隻愛心魚
 Valentine's Day: 捕捉1隻吉利蛋
 拜訪 {0} 個從未去過的寶可補給站
@@ -6786,7 +6930,7 @@ Valentine's Day: 捕捉1隻吉利蛋
 潑水節：讓 {0} 隻大舌貝進化
 潑水節：孵化1顆蛋
 潑水節：在1場團體戰中獲勝
-Wayfarer bonus: Catch {0} Pokémon
+Wayfarer bonus：捕捉 {0} 隻寶可夢
 在道館對戰中獲勝 {0} 次
 在道館對戰中獲勝1次
 在等級2以上的團體戰中獲勝1次
@@ -6896,6 +7040,7 @@ M月 d日
 重新加入對戰
 要公開這個小組嗎？公開後將無法取消。
 和朋友分享小組代碼，讓朋友加入你的對戰陣容。
+參加團體戰可獲得的星星沙子加倍
 建議人數
 團隊貢獻
 活動
@@ -6913,6 +7058,8 @@ M月 d日
 參加團體戰時需要使用入場券。你每天都可以在道館獲得一張免費的入場券，但包包裡一次只能放一張免費入場券。持有數無上限的特級對戰入場券則可在商店中以寶可幣購買。
 團體戰是什麼？
 在團體戰中，你將會和其他訓練家（最多19名）一起挑戰強大的頭目寶可夢。同心協力擊敗頭目寶可夢後，將可獲得超棒的獎品和捕捉強大寶可夢的機會！
+參加團體戰可獲得的XP加倍
+活動主題頭目寶可夢
 *僅限受邀的訓練家參加
 附近沒有團體戰
 在團體戰中獲勝1次
@@ -6923,6 +7070,42 @@ M月 d日
 丟棄
 {0}？
 請選擇你要註冊的帳號
+使用遠距團體戰入場券
+Boosted damage for Trainers battling remotely in raids
+前往入口
+{0} 秒
+使用遠距團體戰入場券時，寶可夢造成的傷害將會被降低
+朋友
+邀請 {0} 位朋友
+邀請朋友（最多 {0} 人）
+邀請函
+{0} 邀請你一起參加團體戰！
+團體戰邀請函{0} 邀請你一起參加團體戰！
+已傳送邀請
+離開
+點擊「查看」，進入團體戰入口
+此團體戰的遠距訓練家已達上限
+大廳目前已滿
+無法傳送邀請
+請稍後再試一次，或是邀請朋友至其他大廳
+遠距參戰的訓練家已達到上限
+此團體戰的遠距訓練家已達上限
+附近
+目前持有的遠距團體戰入場券已達上限（{0}張）。請先至少使用一張後再來購買。
+New！遠距團體戰
+若要從目前所在的地點參加此道館的團體戰，請使用遠距團體戰入場券。遠距團體戰入場券可在商店中購買。
+遠距團體戰入場券
+若你選擇參加這場團體戰，你將會被帶到另一個團體戰入口
+Now
+團體戰邀請函
+使用遠距團體戰入場券參加團體戰
+查看
+可用來參加遠距團體戰的入場券
+遠距團體戰入場券
+3張可參加遠距團體戰的團體戰入場券
+遠距團體戰入場券 x3
+5張可參加遠距團體戰的團體戰入場券
+遠距團體戰入場券 x5
 確定要刪除這個朋友嗎？
 https://pokemongo.nianticlabs.com/support/contact/en
 要重新參與上一次的AR共享時光嗎？
@@ -6930,6 +7113,8 @@ https://pokemongo.nianticlabs.com/support/contact/en
 帶夥伴一起去走走吧！出門時別忘了用星星碎片、幸運蛋和薰香喔！
 今天回到身邊的寶可夢
 以 {0} 登入
+打敗GO火箭隊手下後可獲得2個神秘零件
+和GO火箭隊對戰時可獲得的星星沙子加倍
 GO火箭隊大舉入侵：打敗1個GO火箭隊手下
 GO火箭隊大舉入侵：打敗 {0} 個GO火箭隊手下
 GO火箭隊大舉入侵：打敗1個GO火箭隊幹部
@@ -7026,8 +7211,8 @@ s
 把友情禮物傳送給 {0} 了！
 收到 {0} 送來的友情禮物了！
 感謝各位玩家的熱烈支持我們會盡快解決伺服器的問題，請稍後再試一次！
-Server maintenance is about to begin! This feature is not available now.
-Pokémon GO will begin server maintenance in {0} minutes. The game will be unavailable at that time.
+伺服器維修即將開始，維修時間內無法使用此功能
+Pokémon GO將在 {0} 分鐘後進行伺服器維修。維修期間內將無法玩遊戲，敬請見諒。
 選擇夥伴
 設定暱稱
 帳號
@@ -7133,6 +7318,7 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/howtoplay/
 {0} + {1} 獎勵寶可幣
 現在手上沒有寶芬。要用寶可幣來交換寶芬嗎？
 取得寶芬
+內含薰香的特別禮盒在商店上架
 套組
 假日特惠
 道具
@@ -7204,6 +7390,9 @@ Sale
 神奧慶典：用神奧之石來讓1隻寶可夢進化
 神奧慶典：孵 {0} 顆蛋
 神奧慶典：在團體戰中獲得1次勝利
+春季活動
+春季活動的蛋
+春季活動的野生寶可夢
 透過Facebook新增朋友
 二維條碼
 新增朋友
@@ -7229,6 +7418,8 @@ Sale
 虧我現在渾身是勁，想對戰想到不行！或許我們該去其他地方找看看。
 沒有訊號？好吧，已經很晚了……我也該去找維羅博士了。
 白天或許能更順利地抓住他們。通常我和坎迪拉也會在那時候完成大部分的研究工作。
+更多凱西出現在地圖上
+活動主題野生寶可夢
 會場限定：捕捉 {0} 隻寶可夢
 會場限定：贈送 {0} 個友情禮物給朋友
 要讓 {0} 忘記哪個招式？
@@ -7244,6 +7435,12 @@ Vasa
 詳細資訊
 查看優惠
 恭喜你成功取得優惠！點擊OK來看看優惠內容吧。
+寶可夢焦點時刻
+更多小磁怪出現在地圖上
+更多波波出現在地圖上
+更多扒手貓出現在地圖上
+更多果然翁出現在地圖上
+星星碎片效果延長為1小時
 美麗寶石的碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。
 星星碎片
 25個星星碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。
@@ -7300,10 +7497,69 @@ https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 test string
 測試
 https://pokemongo.nianticlabs.com/support/three-strike-policy
+Throwback Challenge 2020 Celebration
+Throwback Challenge 2020: Hoenn
+Throwback Challenge 2020: Johto
+Throwback Challenge 2020: Kanto
+Throwback Challenge 2020: Sinnoh
+「念力寶可夢的超能力」入場券已在商店上架
 將在 {0} 天 {1} 小時後結束
 將在 {0} 天 {1} 小時後結束
+將在 {0} 小時 {1} 分鐘後結束
+將在 {0} 小時 {1} 分鐘後結束
+將在 {0} 分鐘後結束
 將在 {0} 天 {1} 小時後結束
 將在 {0} 天 {1} 小時後結束
+將在 {0} 小時 {1} 分鐘後結束
+將在 {0} 小時 {1} 分鐘後結束
+將在 {0} 分鐘後結束
+Timed Research available 
+https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
+I AGREE
+Be aware of your surroundings and respectful of others while scanning.
+Frame {0} / {1}
+Keep the PokéStop inside the frame, and slowly walk around the PokéStop if possible.
+PokéStop scanning requires Camera and Storage permissions.
+NEXT
+NO THANKS
+We are developing new augmented reality (AR) technology and would like to enlist your help. Are you willing and able to upload scans of PokéStops and Gyms to aid our research? If you choose to continue, you can opt out at any time via the Settings menu. <a href="titan_ar_data_policy_url">Learn more</a>.
+You have successfully enabled PokéStop Scan.You can opt out at any time by disabling PokéStop Scan in the Settings menu.
+PokéStop Scan
+PokéStop Scan Enabled
+PokéStop Scan Preview
+RESCAN
+(Settings menu > PokéStop Scan)
+<b>Thank you for your contribution</b>You can upload PokéStop scans via the Settings menu.
+<b>Thank you for your contribution</b>Your PokéStop scan will upload in the background.
+Scan the PokéStop by keeping it inside the frame, and slowly walk around the PokéStop if possible. Please do not scan inside private residences or from publicly inaccessible locations.Remember to stay aware of your surroundings and be respectful of others.
+Scanning Tips
+Scan must be more than {0} seconds
+Generating PokéStop scan preview.
+<b>Preparing PokéStop Scan</b>Please wait while we finish preparing your PokéStop scan for preview.
+Are you sure you want to exit? Your scan will be deleted.
+Please wait while your PokéStop scan is encoded.
+UPLOAD LATER
+UPLOAD NOW
+UPLOAD NOW
+Upload Size: {0}MB
+You are about to upload {0} MB of data. If you are not on Wi-Fi, data rates may apply.
+Would you like to upload? This will take {0} MB
+Enable PokéStop Scan
+If you disable PokéStop scan, you will lose all scans that are not uploaded yet.
+Are you sure you want to delete all recorded scans?
+Clear All
+This will clear all existing scans. Are you sure?
+PokéStop Scan Upload Complete
+This will cancel remaining uploads. Are you sure?
+PokéStop Scan Upload Failed
+You have {0} PokéStop scans awaiting upload (total size {1} MB)
+Uploading scan
+Start
+Upload PokéStop Scans
+You are not on Wi-Fi, data rates may apply. You are about to upload {0} MB of data
+You are not connected to Wi-Fi, and data rates may apply. Continue upload?
+Upload using cellular data
+PokéStop Scan
 這場團體戰已經結束了
 無法學會其他招式！
 1、2... ... 忘得一乾二淨了！{0} 學會 {1} 了！
@@ -7392,7 +7648,10 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 所有一般寶可夢
 可交換的寶可夢
 所有異色寶可夢
+特殊交換＋1
 已登錄至圖鑑的傳說的寶可夢或異色寶可夢
+交換寶可夢所需的星星沙子減半
+交換寶可夢所需的星星沙子減為1/4
 你只能和人在附近的朋友進行交換
 一天只能進行一次特殊交換
 不能把交換來的寶可夢再拿去交換
@@ -7432,6 +7691,8 @@ Lv. {0}
 訓練家代碼
 訓練家名稱
 Match {0}
+傳送寶可夢時的糖果加倍
+傳送寶可夢時的糖果增為3倍
 垃圾蓑衣
 誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。
 誘餌模組
@@ -7444,6 +7705,8 @@ Match {0}
 散發著天然芬香的誘餌模組，效果將持續30分鐘。可吸引喜愛草香的寶可夢，也可以讓特定寶可夢進化。
 藥草誘餌模組
 啟用位置資訊
+你的夥伴在冒險途中找到了一些禮物，把禮物轉送給朋友們吧！
+夥伴找到禮物了！
 2天前
 效果絕佳週：在道館對戰中使出1次「效果絕佳」的特殊招式
 蟲屬性寶可夢的弱點是火、飛行和岩石屬性的攻擊。
@@ -7531,6 +7794,7 @@ Valentine’s Day: 打敗 {0} 個GO火箭隊手下
 接下來，請你去世界各地探險，並把捕捉到的寶可夢登錄在寶可夢圖鑑上！
 來去尋找寶可夢吧！
 詳情請參閱常見問題
+電螢蟲和甜甜螢在世界各地出現的機率變高
 已充飽計步器，可以參加GO對戰聯盟了！
 領取級別獎勵！
 領取級別獎勵時發生錯誤

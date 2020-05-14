@@ -7,7 +7,8 @@ with open("Version.txt", "r") as f:
     s = f.readlines()
     date = s[0][0:-1]
     version = s[1][0:-1]
-    
+print(date, version)
+
 with open("Merge/" + version + "english.json") as f:
     eng = json.load(f)
 eng = eng ["data"]
@@ -18,7 +19,7 @@ chi = chi ["data"]
 
 with open("Game_Master/" + date + ".json") as f:
     master = json.load(f)
-#master=master ["itemTemplates"]
+master=master ["itemTemplate"]
 
 typeeform = open("Coefficient/Type.txt", "r", encoding="UTF-8")
 weatherform = open("Coefficient/Weather.txt", "r", encoding="UTF-8")
@@ -74,12 +75,12 @@ for value,char in enumerate(eng):
 
 class pokemon():
     def __init__(self, inn):
-     settings=inn["pokemonSettings"]
+     settings=inn["pokemon"]
      self.id = re.search("V[0-9]+",inn['templateId']).group().strip("V")
      self.name = re.search("POKEMON_\S+",inn['templateId']).group().replace("POKEMON_","")
      self.chi = chinamedict[self.id]
      self.eng = engnamedict[self.id]
-     self.type = self.typehandle(settings["type"])
+     self.type = self.typehandle(settings["type1"])
      self.type2 = self.typehandle(settings.get("type2",""))
      self.weather1= ""
      self.weather2= self.weatherhandle()
@@ -137,7 +138,7 @@ class pokemon():
 
 class move():
     def __init__(self, inn):
-      settings=inn["moveSettings"]
+      settings=inn["move"]
       self.id = re.search("V[0-9]+",inn['templateId']).group().strip("V")
       self.name =  settings.get("movementId")
       self.chi = chimovedict[self.id]
@@ -178,8 +179,6 @@ class move():
                 if("Defense" in char): atkdef+="防禦"
             if(len(atkdef)==4): atkdef="攻擊和防禦"
             self.buff= who+atkdef+number
-            if(inn["buffs"]["buffActivationChance"]==0.30000001):
-                inn["buffs"]["buffActivationChance"]=0.3
             chance=inn["buffs"]["buffActivationChance"]*100
             if(chance-int(chance)==0):
                 chance=int(chance) #float to int
@@ -204,13 +203,13 @@ maxquick=0; maxcharged=0
 
 for data in master:
     if(re.search("^V[0-9]+_POKEMON_",data["templateId"])):
-        pokelist.append(pokemon(data["data"]))
+        pokelist.append(pokemon(data))
         if(pokelist[-1].quick != None and len(pokelist[-1].quick) > maxquick and pokelist[-1].name!='MEW'): maxquick=len(pokelist[-1].quick)
         if(pokelist[-1].charged != None and len(pokelist[-1].charged) > maxcharged and pokelist[-1].name!='MEW'): maxcharged=len(pokelist[-1].charged)
         #except:print(data)
         
     if(re.search("^V[0-9]+_MOVE_",data["templateId"])):
-        movelist.append(move(data["data"]))
+        movelist.append(move(data))
         
 #Find male/female ratio     
 noww=-1
@@ -218,7 +217,7 @@ for data in master:
     if(re.search("SPAWN_V[0-9]+_POKEMON_", data["templateId"])):
         for i in range(noww+1, len(pokelist)):
             if(pokelist[i].name in data["templateId"]):
-                pokelist[i].ratiohandle(data["data"]["genderSettings"]["gender"])
+                pokelist[i].ratiohandle(data["genderSettings"]["gender"])
                 noww=i; break
         else:print("error",data["templateId"]) #Didn't found, weird situation
         
@@ -228,7 +227,7 @@ for data in master:
     if(re.search("COMBAT_V[0-9]+_MOVE_", data["templateId"])):
         for i in range(noww+1, len(movelist)):
             if(movelist[i].name in data["templateId"]):
-                movelist[i].pvphandle(data["data"]["combatMove"])
+                movelist[i].pvphandle(data["combatMove"])
                 noww=i; break
         else:print("error", data["templateId"]) #Didn't found, weird situation
 

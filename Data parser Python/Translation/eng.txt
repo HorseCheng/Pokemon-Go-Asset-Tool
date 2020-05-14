@@ -238,6 +238,7 @@ Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
 Galar Bag
+Togepi Bag
 Zubat Bag
 Ace Belt
 Ball Buckle
@@ -319,6 +320,7 @@ LeafGreen Skirt
 Giovanni Pants
 Gym Leader Skirt
 Johto Pants
+Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
 Mewtwo Pants
 Striped Skirt
@@ -347,6 +349,7 @@ Celebi Shirt
 Stantler Sweater
 Classic Longsleeve
 Delibird Sweater
+Denim Jacket
 Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
@@ -408,8 +411,12 @@ Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
 Spark-Style Jacket
+Togepi Pattern Hoodie
 Active Tee
 Pikachu Tee
+UNIQLO UT Eevee
+UNIQLO UT Pikachu
+UNIQLO UT Ditto
 UNWTO T-shirt
 Veteran Coat
 Ace Boots
@@ -423,6 +430,7 @@ LeafGreen Shoes
 Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
+Black Sandals
 Luvdisc Shoes
 Mewtwo Shoes
 Misty Shoes
@@ -470,6 +478,7 @@ Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
 Galar Bag
+Togepi Bag
 Zubat Bag
 Future Specs
 No Glasses
@@ -543,6 +552,7 @@ Giovanni Pants
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
+Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
 Mewtwo Pants
 Pikachu Fan Shorts
@@ -570,6 +580,7 @@ Column Hoodie
 Classic Hoodie
 Point Hoodie
 Delibird Sweater
+Denim Jacket
 Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
@@ -629,11 +640,15 @@ Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
 Spark-Style Jacket
+Togepi Pattern Hoodie
 Diagonal Tee
 Team Instinct Tee
 Team Mystic Tee
 Team Valor Tee
 The Thirty
+UNIQLO UT Eevee
+UNIQLO UT Pikachu
+UNIQLO UT Ditto
 UNWTO T-shirt
 Veteran Jacket
 Ace Boots
@@ -649,6 +664,7 @@ Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
+Black Sandals
 Luvdisc Shoes
 Mewtwo Shoes
 Pikachu Fan Shoes
@@ -741,6 +757,10 @@ Test, 2020
 City Explorer Pass
 St. Louis, 2020
 City Explorer Pass
+Liverpool, 2020
+City Explorer Pass
+Philadelphia, 2020
+City Explorer Pass
 Win {0} battles.
 Battle
 N0
@@ -753,12 +773,12 @@ Encounters
 N0
 March 20, 2020 – March 26, 2020
 A Drive to Investigate
-March 15, 2020
+April 25, 2020
 Investigating Illusions
 Evolve {0} Pokémon.
 Scientist
 N0
--
+November 2, 2019
 A Colossal Discovery
 Chicago, June 12, 2019—North
 Pokémon GO Fest—Early Access
@@ -958,6 +978,22 @@ Pokémon GO Safari Zone
 
 
 
+St. Louis, March 26, 2020
+Pokémon GO Safari Zone—Early Access
+St. Louis, March 26, 2020
+Pokémon GO Safari Zone
+St. Louis, March 27, 2020
+Pokémon GO Safari Zone—Early Access
+St. Louis, March 27, 2020
+Pokémon GO Safari Zone
+St. Louis, March 28, 2020
+Pokémon GO Safari Zone—Early Access
+St. Louis, March 28, 2020
+Pokémon GO Safari Zone
+St. Louis, March 29, 2020
+Pokémon GO Safari Zone—Early Access
+St. Louis, March 29, 2020
+Pokémon GO Safari Zone
 Sentosa, Apr 18, 2019
 Pokémon GO Safari Zone
 Sentosa, Apr 19, 2019
@@ -1049,6 +1085,9 @@ N0
 Catch {0} Unown.
 Unown
 N0
+Earn {0} Wayfarer Agreements
+Earn a Wayfarer Agreement
+Wayfarer
 Yokosuka, Sep 1, 2018—KURIHAMA
 Pokémon GO Safari Zone
 Yokosuka, Sep 1, 2018—MIKASA
@@ -1090,6 +1129,7 @@ Learn more
 Select Pokémon
 Got Candy from the professor.
 {0} used {1}!
+GO Battle Day: Marill
 Nearby Battle
 GO Battle League
 Current Season
@@ -1164,12 +1204,15 @@ Do not play Pokémon GO while driving.
 Do not trespass while playing Pokémon GO.
 Do not enter dangerous areas while playing Pokémon GO.
 Be courteous to members of real-world communities as you play Pokémon GO.
+Community Day Box available in the shop
+1/2 distance to earn a heart with your buddy
 Your buddy found an interesting location nearby!
 Battle together
 Give your buddy a treat
 Bonus
 Please enable camera permissions to play with your buddy.
 Camera Permission
+1/2 distance to earn Buddy Candy
 Buddy is on cooldown!
 <b>{0}</b> is now your buddy!
 Play together
@@ -1210,6 +1253,9 @@ Mood
 Perk
 Souvenir
 Treats
+Buddy finds Poké Balls every 30 minutes if you’re Great Buddies
+Buddy will bring you items more often
+Buddy will bring you more types of items
 Your buddy found something for you!
 BuddyHistory
 SWAP BUDDY
@@ -1231,6 +1277,7 @@ Ultra Buddies
 Best Buddy
 Best Buddies
 Your buddy learned {0} new Perks!
+Buddy will walk with you longer
 You and {0} are now {1}!
 Trial
 CONTINUE USING
@@ -1314,6 +1361,7 @@ Chalky Stone
 Date Received
 These fruits can’t be eaten, but some Pokémon enjoy collecting them regardless.
 Flower Fruits
+Buddy will bring you Souvenirs more often
 A lone earring. Its sparkle probably inspired your Buddy Pokémon to gift it to you!
 Lone Earring
 A marble with colored glass inside. Your buddy was probably drawn to its intricate pattern.
@@ -1394,6 +1442,8 @@ Visit a new place
 Walk with your buddy!
 {0} found a Candy!
 Walk together
+Buddy Up
+Easier to get your buddy excited
 You've already applied this type of enhancement.
 You can’t use another one of those right now. Try again later.
 Catch {0} Bug-type Pokémon
@@ -1447,6 +1497,13 @@ Let’s check again in the morning. I have a feeling Team GO Rocket’ll be up t
 The Frustration Charged Attack can’t be replaced by a Charged TM.
 Can't sign in?
 Catch a Pokémon
+2× Catch Candy
+3× Catch Candy
+2× Catch Stardust
+2× Catch Stardust for catching Marill
+3× Catch Stardust
+2× Catch XP
+3× Catch XP
 Battle a team leader {0} times
 Battle another Trainer
 Battle another Trainer {0} times
@@ -1501,6 +1558,7 @@ Vote for Bulbasaur Community Day! Catch {0} Pokémon
 Vote for Exeggcute Community Day! Catch {0} Pokémon
 Vote for Magikarp Community Day! Catch {0} Pokémon
 Vote for Starly Community Day! Catch {0} Pokémon
+Win in the GO Battle League
 Battle another Trainer in the Great League
 Earn {0} hearts with your buddy
 Earn a heart with your buddy
@@ -1534,6 +1592,32 @@ Vote for Grimer Community Day! Catch {0} Pokémon
 Vote for Porygon Community Day! Catch {0} Pokémon
 Take a snapshot of Dratini
 Take a snapshot of Eevee
+Take {0} snapshots of Bug-type Pokémon
+Take a snapshot of a Bug-type Pokémon
+Take {0} snapshots of Dark-type Pokémon
+Take a snapshot of a Dark-type Pokémon
+Take {0} snapshots of Dragon-type Pokémon
+Take a snapshot of a Dragon-type Pokémon
+Take {0} snapshots of Electric-type Pokémon
+Take a snapshot of an Electric-type Pokémon
+Take a snapshot of a Fairy-type Pokémon
+Take {0} snapshots of Fighting-type Pokémon
+Take a snapshot of a Fighting-type Pokémon
+Take {0} snapshots of Fire-type Pokémon
+Take a snapshot of a Fire-type Pokémon
+Take a snapshot of a Flying-type Pokémon
+Take a snapshot of a Ghost-type Pokémon
+Take a snapshot of a Grass-type Pokémon
+Take a snapshot of a Ground-type Pokémon
+Take a snapshot of an Ice-type Pokémon
+Take a snapshot of a Normal-type Pokémon
+Take {0} snapshots of Poison-type Pokémon
+Take a snapshot of a Poison-type Pokémon
+Take a snapshot of a Psychic-type Pokémon
+Take {0} snapshots of Rock-type Pokémon
+Take a snapshot of a Rock-type Pokémon
+Take a snapshot of a Steel-type Pokémon
+Take a snapshot of a Water-type Pokémon
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
@@ -1788,6 +1872,8 @@ Your opponent no longer wants to battle.
 TRAIN
 Ultra League
 USE THIS PARTY
+Community Day: Abra
+Community Day
 {0} was effective.
 {0} was not effective.
 Tap the item to use it.
@@ -1796,6 +1882,7 @@ You can continue using your {0} until you win the battle!
 Use your {0}?
 COPY MY TRAINER CODE
 Your Trainer Code has been copied!
+Hey there, {0}! Recently, I’ve been working on a special kind of Incense, and I’ve gone ahead and equipped it for you. Now you’ll be sure to find a Pokémon appearing just for you every day!
 Come back tomorrow to earn more PokéCoins
 Daily Research
 MMM dd, yyyy
@@ -1844,6 +1931,7 @@ Detective Pikachu: Catch {0} Jigglypuff, Aipom, or Snubbull
 Maybe later
 Turn it on!
 Pokémon GO no longer supports your device. Please visit our Help Center for information on which devices are compatible with Pokémon GO.
+OK
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
 You can't assign your Buddy Pokémon to defend a Gym.
@@ -1864,6 +1952,13 @@ INCUBATE
 Oh?
 Lucky you! You got an Egg!
 Walk {0} km to hatch the Egg!
+Event-themed 10 km Eggs
+Event-themed 2 km Eggs
+Event-themed 5 km Eggs
+Event-themed 7 km Eggs
+Event-themed Eggs
+Elite Charged TM available in the Community Day Box
+Elite Fast TM available in the Community Day Box
 Teach {0}
 Teach Attack
 Teach {0} a new Charged Attack
@@ -1990,6 +2085,7 @@ You cannot access this feature.
 An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 Currently, your network connection is unstable. Please try again later.
+Evolve Kadabra to Alakazam that know the Fast Attack Counter
 You have successfully registered for {0}!
 EVENTS
 Evolution Event: Catch {0} Horsea
@@ -2008,6 +2104,7 @@ Use this item on your Pokémon!
 Evolution Options
 Would you like to evolve {0} using Candies anyway?
 Evolving {0} without trading will require {1} Candies.
+2× XP for evolving Pokémon
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
 EX Raid scheduled for {0}, {1} at {2} has been canceled.
@@ -2064,7 +2161,12 @@ Send Friend Request
 Send a Friend Request to {0}?
 Suggestions for You
 +{0} XP
+Event-themed Field Research
 Thank you for field-testing Pokémon GO!We will be back soon!
+giftable
+interactable
+lucky
+friendlevel
 Search for {0}
 Filter by name/nickname
 Filter by Pokédex no., e.g., 23–145
@@ -2248,13 +2350,17 @@ It looks like these components fit together!
 Galarian Form
 The GO Battle League is down for maintenance
 The GO Battle League will be down for maintenance in {0} minute(s)
+Marill featured in GO Battle League reward encounters
+3 extra sets of battles in the GO Battle League
+20 total sets of battles in the GO Battle League
+No walking requirement for the GO Battle League
 GDC 2019: Catch {0} Pokémon
 123456789
 Female
 Male
 A ticket to access the A Drive to Investigate special event from March 20 at 8:00 a.m. to March 26 at 10:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL SPECIAL EVENT BONUSES.
 Ticket: A Drive to Investigate
-A ticket to access the Investigating Illusions bonus Special Research for Abra Community Day on March 15, 2020, from 11:00 a.m. to 6:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
+A ticket to access the Investigating Illusions bonus Special Research for Abra Community Day on April 25, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
 Ticket: Investigating Illusions
 Accept
 Allow
@@ -2295,10 +2401,14 @@ XL
 XP
 XS
 Yes
+Special bonuses
 Your account has been suspended for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
 Get directions
 Greetings from
+Open 2× as many Gifts
+Open 1.5× as many Gifts
 Gift sent!
+Hold 2× as many Gifts in your Item Bag
 Opened a Gift from {0}.
 Prepare yourself for a world of pain.
 I’d say to prepare for battle, but you have already lost.
@@ -2546,6 +2656,7 @@ You defeated this Gym!
 You defeated this Gym
 You defeated this Gym with
 Great work!
+BONUS
 This Gym is closed for an EX Raid.It will reopen at {0}.
 The Gym has been defeated!
 Do you want to leave {0} to defend this Gym? It will return to you once it's defeated.
@@ -2619,6 +2730,8 @@ Halloween: Evolve {0} Drifloon or Stunky
 Halloween: Make {0} Excellent Throws in a row
 Halloween: Defeat a Team GO Rocket Grunt
 Halloween: Take {0} snapshots of Ghost-type Pokémon
+2× Hatch Candy
+2× Hatch Stardust
 https://pokemongo.nianticlabs.com/support/friends
 https://pokemongo.nianticlabs.com/support/contact/en
 Holiday Event: Catch {0} Ice-type Pokémon
@@ -2636,7 +2749,17 @@ Uncategorized
 PokéCoins
 Team Change
 Upgrades
-Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes.
+Incense Day
+Sentret lured by Incense
+Incense Day: Type Shuffle
+2× Incense duration
+3-hour Incense duration
+2× Incense effectiveness
+Increased Incense effectiveness
+3× Incense effectiveness
+Discounted Incense in the shop
+Featured Pokémon lured by Incense
+Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes. Its appearance changes when attracting specific Pokémon.
 Incense
 25 Incense. The mysterious fragrance lures wild Pokémon to your location for 30 minutes.
 25 Incense
@@ -2654,6 +2777,8 @@ Unknown Team GO Rocket battle error.
 {0} people sent you Friend Requests.
 One person sent you a Friend Request.
 Choose an Egg to incubate.
+1/2 Hatch Distance
+1/4 Hatch Distance
 Incubators
 ∞
 {0} use
@@ -2736,7 +2861,7 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access the A Drive to Investigate special event from March 20 at 8:00 a.m. to March 26 at 10:00 p.m. local time, wherever you are.
+A ticket to access special event bonuses on {0} from {1} to {2} local time, wherever you are.
 This ticket will automatically activate to give you access to a special event on {0}, wherever you are in the world.
 Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
@@ -2806,6 +2931,9 @@ A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
 Rare Candy
 Feed this to a Pokémon to make it easier to catch.
 Razz Berry
+A Remote Raid Pass can be used to join a Raid Battle remotely.
+Pass to join a Raid Battle remotely.
+Remote Raid Pass
 A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.
 Revive
 A device to capture photos of Pokémon. Photos can be shared with others.
@@ -2886,6 +3014,7 @@ Google
 Sign in with:
 Enter your username
 Username
+2× Lucky Egg duration
 Your next trade with this friend will be Lucky!
 Lucky Friend
 {0} and you became Lucky Friends!
@@ -2900,6 +3029,8 @@ Lucky Egg
 5 Lucky Eggs
 8 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 8 Lucky Eggs
+2× Lure Module duration
+3-hour Lure Module duration
 A frosty Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
 Glacial Lure Module
 An electronic Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
@@ -2964,7 +3095,7 @@ Lotad Research: Use a supereffective Charged Attack in a Gym battle
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
-Built at 2020-04-08T21:15:15.580807at SHA f36bf0943b2ca911552133785b9d7e704843fe25Pipeline 372633, job 2897093
+Built at 2020-05-09T03:46:34.765403at SHA 5029fe47698f7c1a2994d3387c7803aed0ce19e3Pipeline 395496, job 3102309
 m
 {0}M {1}S
 Turn on Niantic AR to use occlusion.
@@ -3412,6 +3543,7 @@ Got it
 Next
 Pokémon GO Plus unpaired.
 Weak signal. Get closer to the device.
+5 surprise encounters with Abra in GO Snapshot
 Welcome to Team Mystic!
 Welcome to Team Valor!
 Welcome to Team Instinct!
@@ -3445,6 +3577,7 @@ The title should be concise, use an official name when possible, and not be copi
 Edit Title
 You need a linked email to contribute to a PokéStop. To proceed, link a Google account in Settings or update your Facebook account with your email.
 ADD PHOTO
+SCAN POKÉSTOP
 Your contribution will be reviewed before being published.
 ADD/EDIT DESCRIPTION
 EDIT LOCATION
@@ -3475,6 +3608,8 @@ A great PokéStop photo is high quality, clear, compelling, and descriptive. The
 EXISTING PHOTO
 Add a Photo
 TAKE PHOTO
+{0} PokéStop scans remaining
+1 PokéStop scan remaining
 {0} description edits remaining
 1 description edit remaining
 {0} location edits remaining
@@ -5006,6 +5141,7 @@ Raid in progress! Your Pokémon will return to the Gym once the raid is over.
 {0} was released.
 Power Up
 Do you want to power up {0}?
+Powering up this Pokémon will exceed the maximum CP for the {0}.
 Need more {0} Candies.
 Need more Stardust.
 Trainer level is too low to power up.
@@ -5735,6 +5871,8 @@ Try again later.
 Collect more PokéStop modules!
 Walk closer to interact with this PokéStop.
 Daily PokéStop Spin
+2× XP for spinning PokéStops
+10× XP for spinning PokéStops
 Your Item Bag is full. You can buy more space for items in the shop.
 This PokéStop is currently closed.
 This PokéStop is closing soon.
@@ -5779,6 +5917,8 @@ Register
 ONE TIME ONLY
 {0} REMAINING
 {0} REMAINING
+You’ve been selected in a drawing for a live event!
+You’ve been gifted a ticket to a live event!
 Weak Connection
 Scan the QR Code
 QR Code recognition failed. Please try manual input.
@@ -5885,6 +6025,7 @@ Catch Mew!
 Catch {0} Natu
 Catch {0} Omanyte or Kabuto
 Catch {0} Slugma or Gulpin
+Catch {0} Voltorb
 Catch {0} Bug-type Pokémon
 Catch {0} different species of Bug-type Pokémon
 Catch a Bug-type Pokémon
@@ -6041,7 +6182,7 @@ First, we need to get some baseline research to help track this Pokémon.
 Can you explore the area? Who knows—you might make some friends along the way.
 Great job, Trainer. Your work helped me get a better understanding of the search area for this mysterious Pokémon. I can’t wait to show you what I’ve been working on.
 A few weeks ago, I came across an ancient text that was found in the Hoenn region. It was filled with fascinating information. 
-It mentions a Mythical Pokémon that awakens once every thousand years and has the ability to grant wishes! 
+It mentions a Mythical Pokémon that awakens once every thousand years and has the ability to grant wishes!
 I really want to get a deeper understanding of this text, and how better to do that than with some research? Can you help me collect some information on Pokémon from the Hoenn region?
 Thanks for your help, %PLAYERNAME%. Your Hoenn Pokédex is really looking great!
 The Whismur you caught reminded me of a line from the text I told you about. It mentioned that a melody or a sound can awaken a sleeping Pokémon.
@@ -6059,7 +6200,7 @@ If the battle causes any reactions nearby, I have sensors set up to detect them.
 It worked! I’m picking up some vibrations nearby. I think we’re on the right track.
 Maybe the Mythical Pokémon is close to awakening. Since what we’re doing is working, let’s keep it up.
 We need to pull out all the stops, though, and the timing has to be just right.
-I’ll hold things down here with Loudred while you keep focusing on encountering Steel- and Psychic-type Pokémon. 
+I’ll hold things down here with Loudred while you keep focusing on encountering Steel- and Psychic-type Pokémon.
 If you can do that, I think it’ll help the Mythical Pokémon see that you’re a worthy Trainer!
 Simply astonishing! We encountered the Steel- and Psychic-type Pokémon Jirachi!
 That was a once-in-a-lifetime experience. Well, once in several lifetimes, if Jirachi truly only wakes once every thousand years.
@@ -6145,6 +6286,8 @@ Hatch an Egg
 Hoenn Celebration: Catch {0} Zigzagoon or Taillow
 Hoenn Celebration: Evolve {0} Wurmple
 Hoenn Celebration: Hatch {0} Eggs
+Use {0} Incense
+Use an Incense
 Feebas Research: Earn 1 Buddy Candy
 Feebas Research: Hatch 1 Egg
 Feebas Research: Make {0} Great Throws
@@ -6190,6 +6333,7 @@ Earn a Gold Johto medal
 Earn a gold Kanto medal
 Earn a silver Kanto medal
 Reach level {0}
+You’ll receive another tomorrow.
 Collect stamps to unlock Research Breakthroughs from Professor Willow!
 Next Breakthrough in
 {0} more stamps!
@@ -6201,23 +6345,23 @@ Start Encounter
 Battle {0} Team GO Rocket Grunts
 Defeat {0} Team GO Rocket Grunts
 Defeat a Team GO Rocket Grunt
-Evolve {0} Pokémon 
+Evolve {0} Pokémon
 Power up Pokémon {0} times
 Purify {0} Shadow Pokémon
 Purify a Fire-, Water-, or Grass-type Shadow Pokémon
 Catch {0} Shadow Pokémon
-Defeat Team GO Rocket Leader Arlo 
+Defeat Team GO Rocket Leader Arlo
 Battle the Team GO Rocket Boss
 Catch a Legendary Shadow Pokémon
 Catch {0} Shadow Pokémon
-Defeat Team GO Rocket Leader Cliff 
+Defeat Team GO Rocket Leader Cliff
 Defeat the Team GO Rocket Boss
 Find the Team GO Rocket Boss
 Defeat {0} Team GO Rocket Grunts
 Defeat {0} Team GO Rocket Grunts
 Purify {0} Shadow Pokémon
 Win {0} raids
-Defeat Team GO Rocket Leader Sierra 
+Defeat Team GO Rocket Leader Sierra
 Spin {0} PokéStops
 Spin a PokéStop {0} days in a row
 Use {0} supereffective Charged Attacks in Gym battles
@@ -6403,7 +6547,7 @@ I’ve noticed an alarming number of reports from Trainers who have found PokéS
 Some Trainers have even spotted people wearing shirts with a big letter R on them who are guarding these PokéStops.
 These shady characters appear to have Pokémon with a mysterious dark aura around them!
 As I investigate this with Spark, it might be best to power up some of your Pokémon. You never know what we might encounter...
-Great job strengthening your Pokémon! 
+Great job strengthening your Pokémon!
 After visiting one of the PokéStops with Spark, we were challenged to a Trainer Battle by someone who belongs to an organization called Team GO Rocket!
 Turns out that Team GO Rocket has been stealing resources from PokéStops with the help of Pokémon that are cloaked in a dark aura. They’re called Shadow Pokémon!
 Luckily, we won the battle, and afterward, Team GO Rocket carelessly abandoned their defeated Shadow Pokémon!
@@ -6455,7 +6599,7 @@ I know you’re an accomplished Trainer, but let’s make sure your skills are k
 Astounding work, %PLAYERNAME%!
 You know how purifying Shadow Pokémon makes them stronger afterward due to the gratitude they feel toward you for saving them?
 Maybe one of the Pokémon you purify will become a trusted partner in our efforts to fight against Team GO Rocket’s invasion.
-We need to continue saving and purifying these Pokémon. 
+We need to continue saving and purifying these Pokémon.
 Remember this: a good Trainer is strong, but a great Trainer is caring and kind.
 Fantastic! Good work purifying all those Pokémon, %PLAYERNAME%. They’re practically glowing with gratitude!
 It’s easy to tell Shadow and Purified Pokémon apart by the auras that surround them.
@@ -6572,7 +6716,7 @@ While Blanche and I continue to investigate, can we depend on you to take down s
 I’m also going to assign you some tasks to test you as a Trainer. Battling Grunts alone won’t keep your skills as sharp as they need to be to continue standing up to Team GO Rocket’s leaders.
 Thanks for taking on those Grunts, %PLAYERNAME%.
 I was working with Candela to figure out what challenges we could give you to help you prepare for battles with other Trainers and in the GO Battle League. Those skills carry over to doing battle with the Team GO Rocket Leaders, after all!
-Candela was very excited to find ways to keep you on your toes! 
+Candela was very excited to find ways to keep you on your toes!
 Could you take on these challenges as part of your ongoing training?
 You’ve done the team leaders proud, %PLAYERNAME%!
 You took on those challenges like the skilled Trainer you are.
@@ -6633,7 +6777,7 @@ Jump-Start Research (4/6)
 Jump-Start Research (5/6)
 Jump-Start Research (6/6)
 {0} days left to complete this Special Research
-{0} Day Remaining to Complete Research
+{0} day left to complete this Special Research
 Investigating Illusions
 Investigating Illusions (1/4)
 Investigating Illusions (2/4)
@@ -6896,6 +7040,7 @@ Raid Battle
 REJOIN BATTLE
 Make the group open to the public?You can't undo this action.
 Share this group code with your friends. They can join you by entering this group code.
+2× Raid Stardust
 SUGGESTED GROUP SIZE
 Contribution by Team
 Event
@@ -6909,10 +7054,12 @@ GROUP FORMING
 The battle group will automatically match you with other players.
 BATTLE
 Tap the screen to attack the Raid Boss! Press the Charged Attack button to use your Charged Attack when the attack meter is full!
-You need a pass to join the battle. You can get a Raid Pass at no cost each day if you don’t already have one. You can also get Premium Battle Passes in the shop.
-You need a pass to join the battle. You can get a Raid Pass at no cost each day if you don’t already have one. You can also get Premium Battle Passes in the shop.
+You need a pass to join the battle. You can get a Raid Pass at no cost each day if you don’t already have one. You can also get Premium Battle Passes and Remote Raid Passes in the shop.
+You need a pass to join the battle. You can get a Raid Pass at no cost each day if you don’t already have one. You can also get Premium Battle Passes and Remote Raid Passes in the shop.
 WHAT IS A RAID?
 A raid is a battle where you and up to 19 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
+2× Raid XP
+Event-themed Raid Bosses
 Note: This event is by invitation only.
 There are no raids nearby.
 Win a raid
@@ -6923,13 +7070,51 @@ You received a free {0}!
 Discard
 {0}?
 Please select an account to register with.
+using a Remote Raid Pass
+Boosted damage for Trainers battling remotely in raids
+Continue to Lobby
+{0}s
+Pokémon do less damage when battling in raids remotely.
+Your Friends
+Invite {0} Friends
+Invite up to {0} Friends
+Invitations
+{0} invited you to join a Raid Battle!
+Raid Invitation{0} invited you to join a Raid Battle!
+Raid Invitations Sent
+Leave
+Tap View to go to the raid lobby.
+This lobby has reached the max number of remote players
+The lobby is currently full.
+No More Invitations Can Be Sent
+Try again later, or try an invitation to a different lobby.
+The max number of remote players has been reached.
+This Lobby Has Reached the Max Number of Remote Players
+Local
+You have reached the max number of Remote Raid Passes ({0}). Please try again when you have fewer Remote Raid Passes.
+New: Raid remotely
+At your current distance from this Gym, you need a Remote Raid Pass to join this raid. You can get Remote Raid Passes in the shop.
+Remote Raid Pass
+You will be added to a new lobby if you join this raid.
+Now
+Raid Invitations
+Use a Remote Raid Pass to join the Raid Battle
+View
+Pass to join a Raid Battle remotely.
+Remote Raid Pass
+A pack of 3 Remote Raid Passes, used to join Raid Battles remotely.
+3 Remote Raid Passes
+A pack of 5 Remote Raid Passes, used to join Raid Battles remotely.
+5 Remote Raid Passes
 Are you sure you want to remove this friend?
 https://pokemongo.nianticlabs.com/support/contact/en
 Would you like to rejoin your previous shared AR session?
-Pokémon GO is more fun with friends! You can earn XP, Eggs, and items by sharing Gifts with your pals.
+Pokémon GO is more fun with friends! You can get XP, Eggs, and items by sharing Gifts with your pals.
 Go for a power walk! Try using a Star Piece, a Lucky Egg, and Incense all at once.
 Returned Today
 Sign in with {0}
+2× Mysterious Components from Team GO Rocket Grunts
+2× Stardust from Team GO Rocket battles
 Rocket Take-Over: Defeat a Team GO Rocket Grunt
 Rocket Take-Over: Defeat {0} Team GO Rocket Grunts
 Rocket Take-Over: Defeat a Team GO Rocket Leader
@@ -7133,6 +7318,7 @@ You’re out of Premium Battle Passes!
 {0} + {1} Bonus PokéCoins
 You don’t have any Poffins. Exchange PokéCoins for a Poffin?
 Get a Poffin
+Incense bundle in the shop
 Bundles
 Holiday Event
 Items
@@ -7204,6 +7390,9 @@ Sinnoh Celebration: Catch {0} Kricketot
 Sinnoh Celebration: Use a Sinnoh Stone to evolve a Pokémon
 Sinnoh Celebration: Hatch {0} Eggs
 Sinnoh Celebration: Win a raid
+Spring into Spring
+Spring into Spring event Eggs
+Spring into Spring event wild Pokémon
 Import friends from Facebook
 QR Code
 Add Friend
@@ -7229,6 +7418,8 @@ Whoa—not a signal in sight! I wonder what they’re scared of?
 Just when I was energized to do some battling! Maybe we should check out other locations.
 No signals? Well, it is getting pretty late...and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
+More Abra are appearing in the wild
+Event-themed wild Pokémon
 Special event: Catch {0} Pokémon
 Special event: Send {0} Gifts to friends
 Which attack should {0} forget?
@@ -7244,6 +7435,12 @@ Vasa
 Learn More
 View Offer
 Congratulations! You have successfully redeemed an offer online. Tap OK to see it.
+Pokémon Spotlight Hour
+More Magnemite are appearing in the wild
+More Pidgey are appearing in the wild
+More Purrloin are appearing in the wild
+More Wobbuffet are appearing in the wild
+2× Star Piece duration
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
 Star Piece
 25 Star Pieces. Earns 50% more Stardust for 30 minutes.
@@ -7300,10 +7497,69 @@ https://www.nianticlabs.com/terms/pokemongo/en/
 test string
 Test
 https://pokemongo.nianticlabs.com/support/three-strike-policy
+Throwback Challenge 2020 Celebration
+Throwback Challenge 2020: Hoenn
+Throwback Challenge 2020: Johto
+Throwback Challenge 2020: Kanto
+Throwback Challenge 2020: Sinnoh
+Ticket for Investigating Illusions Special Research story in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
+Ends in {0} hours and {1} minutes
+Ends in {0} hours and {1} minute
+Ends in {0} minutes
 Ends in {0} day and {1} hours
 Ends in {0} day and {1} hour
+Ends in {0} hour and {1} minutes
+Ends in {0} hour and {1} minute
+Ends in {0} minute
+Timed Research available 
+https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
+I AGREE
+Be aware of your surroundings and respectful of others while scanning.
+Frame {0} / {1}
+Keep the PokéStop inside the frame, and slowly walk around the PokéStop if possible.
+PokéStop scanning requires Camera and Storage permissions.
+NEXT
+NO THANKS
+We are developing new augmented reality (AR) technology and would like to enlist your help. Are you willing and able to upload scans of PokéStops and Gyms to aid our research? If you choose to continue, you can opt out at any time via the Settings menu. <a href="titan_ar_data_policy_url">Learn more</a>.
+You have successfully enabled PokéStop Scan.You can opt out at any time by disabling PokéStop Scan in the Settings menu.
+PokéStop Scan
+PokéStop Scan Enabled
+PokéStop Scan Preview
+RESCAN
+(Settings menu > PokéStop Scan)
+<b>Thank you for your contribution</b>You can upload PokéStop scans via the Settings menu.
+<b>Thank you for your contribution</b>Your PokéStop scan will upload in the background.
+Scan the PokéStop by keeping it inside the frame, and slowly walk around the PokéStop if possible. Please do not scan inside private residences or from publicly inaccessible locations.Remember to stay aware of your surroundings and be respectful of others.
+Scanning Tips
+Scan must be more than {0} seconds
+Generating PokéStop scan preview.
+<b>Preparing PokéStop Scan</b>Please wait while we finish preparing your PokéStop scan for preview.
+Are you sure you want to exit? Your scan will be deleted.
+Please wait while your PokéStop scan is encoded.
+UPLOAD LATER
+UPLOAD NOW
+UPLOAD NOW
+Upload Size: {0}MB
+You are about to upload {0} MB of data. If you are not on Wi-Fi, data rates may apply.
+Would you like to upload? This will take {0} MB
+Enable PokéStop Scan
+If you disable PokéStop scan, you will lose all scans that are not uploaded yet.
+Are you sure you want to delete all recorded scans?
+Clear All
+This will clear all existing scans. Are you sure?
+PokéStop Scan Upload Complete
+This will cancel remaining uploads. Are you sure?
+PokéStop Scan Upload Failed
+You have {0} PokéStop scans awaiting upload (total size {1} MB)
+Uploading scan
+Start
+Upload PokéStop Scans
+You are not on Wi-Fi, data rates may apply. You are about to upload {0} MB of data
+You are not connected to Wi-Fi, and data rates may apply. Continue upload?
+Upload using cellular data
+PokéStop Scan
 This raid has ended.
 Cannot learn any other attacks!
 One...two...and...ta-da! {0} learned {1}!
@@ -7392,7 +7648,10 @@ Regular Pokémon in Pokédex
 All regular Pokémon
 Pokémon to Trade
 All Shiny Pokémon
+1 extra Special Trade
 Legendary or Shiny Pokémon in Pokédex
+1/2 Stardust cost for trades
+1/4 Stardust cost for trades
 You can only trade with friends who are nearby.
 Special Trades can only occur once a day, unless you’re at certain special events.
 You can’t trade a Pokémon that has been traded previously.
@@ -7432,6 +7691,8 @@ Waiting...
 Trainer Code
 Trainer Name
 Match {0}
+2× Transfer Candy
+3× Transfer Candy
 Trash Cloak
 A module that attracts Pokémon to a PokéStop for 30 minutes. The effect benefits other people nearby.
 Lure Module
@@ -7444,6 +7705,8 @@ Magnetic Lure Module
 A natural Lure Module that attracts Pokémon for 30 minutes—especially ones that love mossy scents. It can also cause some Pokémon to evolve.
 Mossy Lure Module
 TURN ON BACKGROUND LOCATION
+Your buddy went exploring and brought back some Gifts. Try sending them to your friends!
+Your buddy found some Gifts!
 2+ days ago
 Supereffective Week: Use a supereffective Charged Attack in a Gym battle
 Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks.
@@ -7531,6 +7794,7 @@ They're found at interesting places like sculptures and monuments.
 From now on, you'll be off exploring all over the world. I hope you get out there and catch Pokémon—and register them in your Pokédex!
 It's time to GO!
 For more information, visit the Help Center.
+Volbeat and Illumise are appearing in the wild globally
 You’ve earned entry into the GO Battle League!
 Claim Rank Rewards!
 Error claiming rank rewards.
