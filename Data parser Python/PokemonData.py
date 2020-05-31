@@ -1,7 +1,6 @@
 import re
 import json
 import pandas as pd
-
 date, version = "", ""
 with open("Version.txt", "r") as f:
     s = f.readlines()

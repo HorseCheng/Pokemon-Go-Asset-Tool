@@ -3095,7 +3095,7 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 全滿藥 × 10
 讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。
 活力塊 × 6
-Built at 2020-05-09T03:46:34.765403at SHA 5029fe47698f7c1a2994d3387c7803aed0ce19e3Pipeline 395496, job 3102309
+Built at 2020-05-27T13:40:20.641095at SHA 86a1992522efd556ddced06f7e619897f7ed42edPipeline 406150, job 3205421
 m
 {0}分{1}秒
 Turn on Niantic AR to use occlusion.
