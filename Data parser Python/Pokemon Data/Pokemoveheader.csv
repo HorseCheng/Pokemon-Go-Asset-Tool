@@ -69,6 +69,7 @@
 0051,DUGTRIO_ALOLA,三地鼠,Dugtrio
 0052,MEOWTH,喵喵,Meowth
 0052,MEOWTH_ALOLA,喵喵,Meowth
+0052,MEOWTH_GALARIAN,喵喵,Meowth
 0053,PERSIAN,貓老大,Persian
 0053,PERSIAN_ALOLA,貓老大,Persian
 0054,PSYDUCK,可達鴨,Psyduck
@@ -104,6 +105,7 @@
 0081,MAGNEMITE,小磁怪,Magnemite
 0082,MAGNETON,三合一磁怪,Magneton
 0083,FARFETCHD,大蔥鴨,Farfetch'd
+0083,FARFETCHD_GALARIAN,大蔥鴨,Farfetch'd
 0084,DODUO,嘟嘟,Doduo
 0085,DODRIO,嘟嘟利,Dodrio
 0086,SEEL,小海獅,Seel
@@ -620,6 +622,9 @@
 0552,KROKOROK,混混鱷,Krokorok
 0553,KROOKODILE,流氓鱷,Krookodile
 0554,DARUMAKA,火紅不倒翁,Darumaka
+0554,DARUMAKA_GALARIAN,火紅不倒翁,Darumaka
+0555,DARMANITAN_GALARIAN_STANDARD,達摩狒狒,Darmanitan
+0555,DARMANITAN_GALARIAN_ZEN,達摩狒狒,Darmanitan
 0555,DARMANITAN_STANDARD,達摩狒狒,Darmanitan
 0555,DARMANITAN_ZEN,達摩狒狒,Darmanitan
 0556,MARACTUS,沙鈴仙人掌,Maractus
@@ -693,6 +698,7 @@
 0616,SHELMET,小嘴蝸,Shelmet
 0617,ACCELGOR,敏捷蟲,Accelgor
 0618,STUNFISK,泥巴魚,Stunfisk
+0618,STUNFISK_GALARIAN,泥巴魚,Stunfisk
 0619,MIENFOO,功夫鼬,Mienfoo
 0620,MIENSHAO,師父鼬,Mienshao
 0621,DRUDDIGON,赤面龍,Druddigon
@@ -737,6 +743,9 @@
 0649,GENESECT_SHOCK,蓋諾賽克特,Genesect
 0808,MELTAN,美錄坦,Meltan
 0809,MELMETAL,美錄梅塔,Melmetal
+0862,OBSTAGOON,堵攔熊,Obstagoon
+0863,PERRSERKER,喵頭目,Perrserker
+0865,SIRFETCHD,葱游兵,Sirfetch'd
 0151,MEW,夢幻,Mew
 0151,MEW,夢幻,Mew
 0151,MEW,夢幻,Mew

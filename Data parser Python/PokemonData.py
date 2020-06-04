@@ -58,7 +58,15 @@ for value,char in enumerate(eng):
     if(x):
         key=re.search("[0-9]+",char).group()
         engnamedict[key]=eng[value+1]
-        
+
+#New Pokemon
+chinamedict["0862"] = "堵攔熊"
+engnamedict["0862"] = "Obstagoon"
+chinamedict["0863"] = "喵頭目"
+engnamedict["0863"] = "Perrserker"
+chinamedict["0865"] = "葱游兵"
+engnamedict["0865"] = "Sirfetch'd"
+       
 chimovedict={}
 for value,char in enumerate(chi):
     x=re.search("move_name_[0-9]+", char)
@@ -124,10 +132,15 @@ class pokemon():
      
     def descripthandle(self, typee):
         if(typee=="cat"):
-           return catdict[self.id]
+           try: return catdict[self.id]
+           except: return ""
         if("ALOLA" in self.name or "GALARIAN" in self.name):
-            return introdict[self.id+"_1"]
-        return introdict[self.id]
+            try: return introdict[self.id+"_1"]
+            except: 
+                try: return introdict[self.id]
+                except: return ""
+        try: return introdict[self.id]
+        except: return ""
     
     def ratiohandle(self, inn):
         if(inn.get("malePercent","")==1): self.ratio="全男性" 
@@ -218,7 +231,7 @@ for data in master:
             if(pokelist[i].name in data["templateId"]):
                 pokelist[i].ratiohandle(data["genderSettings"]["gender"])
                 noww=i; break
-        else:print("error",data["templateId"]) #Didn't found, weird situation
+        else:print("ratio error",data["templateId"]) #Didn't found, weird situation
         
 #PVP Moves Info
 noww=-1
@@ -228,7 +241,7 @@ for data in master:
             if(movelist[i].name in data["templateId"]):
                 movelist[i].pvphandle(data["combatMove"])
                 noww=i; break
-        else:print("error", data["templateId"]) #Didn't found, weird situation
+        else:print("pvp error", data["templateId"]) #Didn't found, weird situation
 
 #Special condition: make DEOXYS's moves the same as DEOXYS_NOMARL's
 for x in pokelist:
@@ -262,6 +275,7 @@ origin=pd.DataFrame([i.__dict__ for i in pokelist])
 # Main Pokemon List
 # =============================================================================
 main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|SHADOW|PURIFIED') ].reset_index(drop=True)
+main=main.sort_values(by=['id'],kind='mergesort')
 
 #Rearange for DEERLING AUTUMN
 main=rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
