@@ -2317,6 +2317,8 @@ dË
 52»
 BADGE_UNOWNR	&
 /
+BADGE_WAYFARER
+BADGE_WAYFARERRD2ÙË/
 BADGE_YOKOSUKA_1_SEP_2018_VERNYR
 Ód(0
  BADGE_YOKOSUKA_29_AUG_2018_VERNYR
@@ -4488,16 +4490,16 @@ charm_fast(0e
 GYM_LEVEL_SETTINGS3j1
  –†¿>‡]Ä}†ú∞Í¿∏–Ü
 
- ç
-IAP_CATEGORY_AVATARv
-IAP_CATEGORY_AVATAR‚^ (:=https://prodholoholo-public-images.nianticlabs.com/uniqlo.jpgBavatar_shop_descriptionH
+ ã
+IAP_CATEGORY_AVATARt
+IAP_CATEGORY_AVATAR‚\ :=https://prodholoholo-public-images.nianticlabs.com/uniqlo.jpgBavatar_shop_descriptionH
 IAP_CATEGORY_BUNDLE1
 IAP_CATEGORY_BUNDLE‚ (2shop_limited_time1
 IAP_CATEGORY_FREE
-IAP_CATEGORY_FREE‚ (∏
- IAP_CATEGORY_GLOBAL_EVENT_TICKETì
- IAP_CATEGORY_GLOBAL_EVENT_TICKET‚n
- (:?https://storage.googleapis.com/prod-public-images/throwback.jpgB%live_events_shop_category_description1
+IAP_CATEGORY_FREE‚ (≤
+ IAP_CATEGORY_GLOBAL_EVENT_TICKETç
+ IAP_CATEGORY_GLOBAL_EVENT_TICKET‚h
+ :;https://prodholoholo-public-images.nianticlabs.com/gf20.jpgB%live_events_shop_category_description1
 IAP_CATEGORY_ITEMS
 IAP_CATEGORY_ITEMS‚ 9
 IAP_CATEGORY_POKECOINS
@@ -4549,7 +4551,7 @@ charm_fast(0e
 ITEM_GIOVANNI_MAP#
 ITEM_GIOVANNI_MAPﬂ(ä|
 ITEM_GLOBAL_EVENT_TICKET`
-ITEM_GLOBAL_EVENT_TICKETD¿í:2020-06-02T08:00:00"2020-06-08T13:00:00†Ä∞≠†ß.®Ä—ê†©.n
+ITEM_GLOBAL_EVENT_TICKETD¿í:2020-07-25T10:00:00"2020-07-26T20:00:00†ÄÇ©´∏.®Ä‹◊Â∏.n
 ITEM_GOLDEN_PINAP_BERRYS
 ITEM_GOLDEN_PINAP_BERRY8ƒ(R-
 ˜ˆ   @ffÊ?ÕÃÃ=%   @-   ?08¿À…@¿À…Hb
@@ -4679,7 +4681,7 @@ HO
 LPSKU_bundle.general2.free.1L
 LPSKU_bundle.general2.free.1‚+""BUNDLE_GENERAL2_FREE1_1_LOOT_TABLE†G
 LPSKU_bundle.general4.small.2&
-LPSKU_bundle.general4.small.2‚K
+LPSKU_bundle.general4.small.2‚K
 LPSKU_incense.general2.medium.1(
 LPSKU_incense.general2.medium.1‚W
 %LPSKU_incense_bundle.general2.small.1.
@@ -13787,15 +13789,19 @@ $camera_solarbeam_player_left_leader_éZã"       ?*   ?    2  Ä>  †
 +camera_waterpulseenter_leader_player_right_éZã "       ?*   ?    2333?  †@:        BÕÃÃ>\è¬>J  †A  »AR        Z  †A  Bb        j        r        z        Ç  Ä?   ?Ω
 *camera_waterpulseenter_player_left_leader_éZã"       ?*   ?    2333?  †@:        BÕÃÃ>\è¬>J  †A  »AR        Z  †A  Bb        j        r        z        Ç  Ä?   ?æ
 +camera_waterpulseenter_player_right_leader_éZã"       ?*   ?    2333?  †@:        BÕÃÃ>\è¬>J  †¡  »¡R        Z  †A  Bb        j        r        z        Ç  Ä?   ?j
-camera_xscissorWZU"   ?*   ?2   A:    B  Ä>J  *CR    Z   Ab    j    r   @z    Ç  Ä?x
-general1.ticket.1c
-general1.ticket.1ÇM
+camera_xscissorWZU"   ?*   ?2   A:    B  Ä>J  *CR    Z   Ab    j    r   @z    Ç  Ä?z
+general1.ticket.1e
+general1.ticket.1ÇO
 general1.ticket.1
-Z2020-06-02T08:00:00b2020-06-08T13:00:00hÄ∞≠†ß.pÄ—ê†©.z
+0Z2019-03-09T10:00:00b2019-03-21T17:00:00hÄ¬îèñ-pÄÌ«âö-z
 general1.ticket.2e
 general1.ticket.2ÇO
 general1.ticket.2
-0Z2019-03-14T08:00:00b2019-03-15T17:00:00hÄ†‹Ÿó-pÄùØíò-B
+0Z2019-03-14T08:00:00b2019-03-15T17:00:00hÄ†‹Ÿó-pÄùØíò-ã
+general1.ticket.3v
+general1.ticket.3Ç`
+general1.ticket.3
+Bgeneral1.ticket.1Z2020-06-02T08:00:00b2020-07-26T20:00:00hÄ∞≠†ß.pÄ‹◊Â∏.B
 incenseordinary.8-
 incenseordinary.8Ç
 incenseordinary.8X
@@ -15994,4 +16000,48 @@ $sfx attacker 422-0_thunder_fang_fast
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys complete „–‡Îß.2⁄Í ù"§"©"≠"Ø"ª/
+sys completeE
+IAP_CATEGORY_STICKER-
+IAP_CATEGORY_STICKER‚shop_sticker H°
+STICKER_FUNAWARI_04_312Ö
+STICKER_FUNAWARI_04_312™i
+STICKER_FUNAWARI_04_312Lhttps://storage.googleapis.com/prod-public-images/sticker_funwari_04_312.png°
+STICKER_FUNAWARI_05_312Ö
+STICKER_FUNAWARI_05_312™i
+STICKER_FUNAWARI_05_312Lhttps://storage.googleapis.com/prod-public-images/sticker_funwari_05_312.png°
+STICKER_FUNAWARI_06_312Ö
+STICKER_FUNAWARI_06_312™i
+STICKER_FUNAWARI_06_312Lhttps://storage.googleapis.com/prod-public-images/sticker_funwari_06_312.png°
+STICKER_FUNAWARI_22_312Ö
+STICKER_FUNAWARI_22_312™i
+STICKER_FUNAWARI_22_312Lhttps://storage.googleapis.com/prod-public-images/sticker_funwari_22_312.pngZ
+STICKER_FUNAWARI_22_312.3=
+STICKER_FUNAWARI_22_312.3Ç
+STICKER_FUNAWARI_22_312.3Z
+STICKER_FUNAWARI_22_312.5=
+STICKER_FUNAWARI_22_312.5Ç
+STICKER_FUNAWARI_22_312.5ö
+STICKER_NAGANO_06_312Ä
+STICKER_NAGANO_06_312™f
+STICKER_NAGANO_06_312Khttps://storage.googleapis.com/prod-public-images/sticker_nagano_06_312.pngT
+STICKER_NAGANO_06_312.39
+STICKER_NAGANO_06_312.3Ç
+STICKER_NAGANO_06_312.3T
+STICKER_NAGANO_06_312.59
+STICKER_NAGANO_06_312.5Ç
+STICKER_NAGANO_06_312.5ö
+STICKER_NAGANO_15_312Ä
+STICKER_NAGANO_15_312™f
+STICKER_NAGANO_15_312Khttps://storage.googleapis.com/prod-public-images/sticker_nagano_15_312.pngT
+STICKER_NAGANO_15_312.39
+STICKER_NAGANO_15_312.3Ç
+STICKER_NAGANO_15_312.3T
+STICKER_NAGANO_15_312.59
+STICKER_NAGANO_15_312.5Ç
+STICKER_NAGANO_15_312.5∂
+STICKER_NIGIYAKA_08_0508_312ï
+STICKER_NIGIYAKA_08_0508_312™t
+STICKER_NIGIYAKA_08_0508_312Rhttps://storage.googleapis.com/prod-public-images/sticker_nigiyaka_08_0508_312.png∂
+STICKER_NIGIYAKA_16_0508_312ï
+STICKER_NIGIYAKA_16_0508_312™t
+STICKER_NIGIYAKA_16_0508_312Rhttps://storage.googleapis.com/prod-public-images/sticker_nigiyaka_16_0508_312.png èñÇ´.2⁄Í ù"≠"»(ª/

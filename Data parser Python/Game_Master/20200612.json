@@ -19920,7 +19920,7 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
       "sortOrder": 3,
-      "imageUrl": "https://prodholoholo-public-images.nianticlabs.com/gf20.jpg",
+      "imageUrl": "https://storage.googleapis.com/prod-public-images/throwback.jpg",
       "description": "live_events_shop_category_description"
     }
   }, {
@@ -20068,10 +20068,10 @@
       "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
       "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
       "globalEventTicket": {
-        "eventStartTime": "2020-07-25T10:00:00",
-        "eventEndTime": "2020-07-26T20:00:00",
-        "clientEventStartTimeUtcMs": "1595671200000",
-        "clientEventEndTimeUtcMs": "1595793600000"
+        "eventStartTime": "2020-06-02T08:00:00",
+        "eventEndTime": "2020-06-08T13:00:00",
+        "clientEventStartTimeUtcMs": "1591084800000",
+        "clientEventEndTimeUtcMs": "1591621200000"
       }
     }
   }, {
@@ -20637,7 +20637,7 @@
     "templateId": "LPSKU_bundle.general4.small.2",
     "limitedPurchaseSkuSettings": {
       "purchaseLimit": 1,
-      "version": 3
+      "version": 2
     }
   }, {
     "templateId": "LPSKU_incense.general2.medium.1",
@@ -128592,11 +128592,11 @@
     "iapItemDisplay": {
       "sku": "general1.ticket.3",
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
-      "spriteId": "general1.ticket.1",
-      "skuEnableTime": "2020-06-02T08:00:00",
-      "skuDisableTime": "2020-07-26T20:00:00",
-      "skuEnableTimeUtcMs": "1591084800000",
-      "skuDisableTimeUtcMs": "1595793600000"
+      "hidden": true,
+      "skuEnableTime": "2019-03-09T10:00:00",
+      "skuDisableTime": "2019-03-21T17:00:00",
+      "skuEnableTimeUtcMs": "1552125600000",
+      "skuDisableTimeUtcMs": "1553187600000"
     }
   }, {
     "templateId": "incenseordinary.8",
@@ -129821,28 +129821,28 @@
     "stickerMetadata": {
       "stickerId": "STICKER_FUNAWARI_04_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_04_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_FUNAWARI_05_312",
     "stickerMetadata": {
       "stickerId": "STICKER_FUNAWARI_05_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_05_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_FUNAWARI_06_312",
     "stickerMetadata": {
       "stickerId": "STICKER_FUNAWARI_06_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_06_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_FUNAWARI_22_312",
     "stickerMetadata": {
       "stickerId": "STICKER_FUNAWARI_22_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_22_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_FUNAWARI_22_312.3",
@@ -129863,7 +129863,7 @@
     "stickerMetadata": {
       "stickerId": "STICKER_NAGANO_06_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_06_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_NAGANO_06_312.3",
@@ -129884,7 +129884,7 @@
     "stickerMetadata": {
       "stickerId": "STICKER_NAGANO_15_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_15_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_NAGANO_15_312.3",
@@ -129905,15 +129905,15 @@
     "stickerMetadata": {
       "stickerId": "STICKER_NIGIYAKA_08_0508_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_08_0508_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }, {
     "templateId": "STICKER_NIGIYAKA_16_0508_312",
     "stickerMetadata": {
       "stickerId": "STICKER_NIGIYAKA_16_0508_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_16_0508_312.png",
-      "maxCount": 25
+      "maxCount": 15
     }
   }],
-  "timestampMs": "1592325606159"
+  "timestampMs": "1591911393810"
 }

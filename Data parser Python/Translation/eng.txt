@@ -3154,7 +3154,7 @@ Lotad Research: Use a supereffective Charged Attack in a Gym battle
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
-Built at 2020-05-29T04:04:59.870416at SHA c23d14fa40630084bec408e7c540a7f4409f4c92Pipeline 406046, job 3222275
+Built at 2020-06-09T05:42:56.555455at SHA d70baa66c80e20bea433c98a662f82b4c07a056ePipeline 413934, job 3287578
 m
 {0}M {1}S
 Turn on Niantic AR to use Reality Blending.

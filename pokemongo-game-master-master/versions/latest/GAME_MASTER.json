@@ -11261,6 +11261,13 @@
       "targets": [3, 10, 26]
     }
   }, {
+    "templateId": "BADGE_WAYFARER",
+    "badge": {
+      "badgeType": "BADGE_WAYFARER",
+      "badgeRank": 4,
+      "targets": [50, 500, 1000]
+    }
+  }, {
     "templateId": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
@@ -19890,7 +19897,6 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_AVATAR",
       "sortOrder": 4,
-      "bannerEnabled": true,
       "imageUrl": "https://prodholoholo-public-images.nianticlabs.com/uniqlo.jpg",
       "description": "avatar_shop_description"
     }
@@ -19914,8 +19920,7 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
       "sortOrder": 3,
-      "bannerEnabled": true,
-      "imageUrl": "https://storage.googleapis.com/prod-public-images/throwback.jpg",
+      "imageUrl": "https://prodholoholo-public-images.nianticlabs.com/gf20.jpg",
       "description": "live_events_shop_category_description"
     }
   }, {
@@ -20063,10 +20068,10 @@
       "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
       "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
       "globalEventTicket": {
-        "eventStartTime": "2020-06-02T08:00:00",
-        "eventEndTime": "2020-06-08T13:00:00",
-        "clientEventStartTimeUtcMs": "1591084800000",
-        "clientEventEndTimeUtcMs": "1591621200000"
+        "eventStartTime": "2020-07-25T10:00:00",
+        "eventEndTime": "2020-07-26T20:00:00",
+        "clientEventStartTimeUtcMs": "1595671200000",
+        "clientEventEndTimeUtcMs": "1595793600000"
       }
     }
   }, {
@@ -20632,7 +20637,7 @@
     "templateId": "LPSKU_bundle.general4.small.2",
     "limitedPurchaseSkuSettings": {
       "purchaseLimit": 1,
-      "version": 2
+      "version": 3
     }
   }, {
     "templateId": "LPSKU_incense.general2.medium.1",
@@ -128565,10 +128570,11 @@
     "iapItemDisplay": {
       "sku": "general1.ticket.1",
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
-      "skuEnableTime": "2020-06-02T08:00:00",
-      "skuDisableTime": "2020-06-08T13:00:00",
-      "skuEnableTimeUtcMs": "1591084800000",
-      "skuDisableTimeUtcMs": "1591621200000"
+      "hidden": true,
+      "skuEnableTime": "2019-03-09T10:00:00",
+      "skuDisableTime": "2019-03-21T17:00:00",
+      "skuEnableTimeUtcMs": "1552125600000",
+      "skuDisableTimeUtcMs": "1553187600000"
     }
   }, {
     "templateId": "general1.ticket.2",
@@ -128580,6 +128586,17 @@
       "skuDisableTime": "2019-03-15T17:00:00",
       "skuEnableTimeUtcMs": "1552550400000",
       "skuDisableTimeUtcMs": "1552669200000"
+    }
+  }, {
+    "templateId": "general1.ticket.3",
+    "iapItemDisplay": {
+      "sku": "general1.ticket.3",
+      "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
+      "spriteId": "general1.ticket.1",
+      "skuEnableTime": "2020-06-02T08:00:00",
+      "skuDisableTime": "2020-07-26T20:00:00",
+      "skuEnableTimeUtcMs": "1591084800000",
+      "skuDisableTimeUtcMs": "1595793600000"
     }
   }, {
     "templateId": "incenseordinary.8",
@@ -129792,6 +129809,111 @@
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
+  }, {
+    "templateId": "IAP_CATEGORY_STICKER",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_STICKER",
+      "name": "shop_sticker",
+      "sortOrder": 4
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_04_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_04_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_04_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_05_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_05_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_05_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_06_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_06_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_06_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_22_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_22_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_FUNAWARI_22_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 3
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_FUNAWARI_22_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 3
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NAGANO_06_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_06_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_06_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 1
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_06_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 1
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NAGANO_15_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_15_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_15_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 2
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_15_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 2
+    }
+  }, {
+    "templateId": "STICKER_NIGIYAKA_08_0508_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NIGIYAKA_08_0508_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_08_0508_312.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_NIGIYAKA_16_0508_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NIGIYAKA_16_0508_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_16_0508_312.png",
+      "maxCount": 25
+    }
   }],
-  "timestampMs": "1591242926179"
+  "timestampMs": "1592325606159"
 }
