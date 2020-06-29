@@ -907,6 +907,15 @@ N0
 Register {0} Pokémon first discovered in the Unova region to the Pokédex.
 Unova
 N0
+Register {0} Pokémon first discovered in the Kalos region to the Pokédex.
+Kalos
+N0
+Register {0} Pokémon first discovered in the Alola region to the Pokédex.
+Alola
+N0
+Register {0} Pokémon first discovered in the Galar region to the Pokédex.
+Galar
+N0
 Kanto
 Unknown
 N0
@@ -1462,7 +1471,7 @@ Evolve {0} Bug-type Pokémon
 This option cannot be used right now.
 Do you really want to power up {0}?
 Powering up this Pokémon will exceed the maximum CP for the {0}.
-DAILY BONUS BOX
+Daily Free Box
 Ultra Box
 Great Box
 GO Rocket Box
@@ -1471,7 +1480,7 @@ New Trainer Box
 Beginner Box
 Starter Box
 Training Box
-BONUS BOX
+Free Box
 Gold Item Box (Beta)
 Ultra Box
 Silver Item Box (Beta)
@@ -1886,6 +1895,9 @@ Ultra League
 USE THIS PARTY
 Community Day: Abra
 Community Day
+Community Day: Gastly
+Community Day: Seedot
+Community Day: Weedle
 {0} was effective.
 {0} was not effective.
 Tap the item to use it.
@@ -1951,8 +1963,8 @@ Pokémon GO no longer supports your device. Please visit our Help Center for inf
 OK
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location. Disable this option to not receive Gifts from sponsors.
-Disable Gifts from Sponsors
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Disable this option to not receive Sponsored Gifts when available.
+Disable Sponsored Gifts
 You can't assign your Buddy Pokémon to defend a Gym.
 Legendary Pokémon cannot be left at Gyms.
 The Pokémon must be at full HP.
@@ -1990,8 +2002,8 @@ This Technical Machine lets you choose a Fast Attack to teach to a Pokémon.
 Elite Fast TM
 Enable sharing info on recently caught Pokémon with friends
 You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location. Enable this option to receive Gifts from sponsors when available.
-Enable Gifts from Sponsors
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Enable this option to receive Sponsored Gifts when available.
+Enable Sponsored Gifts
 You already used a Berry.
 Oh?
 Excellent!
@@ -2096,6 +2108,7 @@ No groups found with that code.
 You have no Gifts in your inventory. Visit a PokéStop to look for them!
 Please make space or upgrade your Item Bag before opening the Gift.
 Daily limit reached. Come back tomorrow to open more Gifts.
+You are out of this type of sticker.
 You're already friends with this Trainer.
 Invalid Trainer Code; Trainer not found.
 An error occurred in trying to update your battle party.
@@ -2109,6 +2122,7 @@ You have already opened this Gift
 An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 Currently, your network connection is unstable. Please try again later.
+EVENT
 Evolve Kadabra to Alakazam that know the Fast Attack Counter
 You have successfully registered for {0}!
 EVENTS
@@ -2371,9 +2385,13 @@ Friendship Level Increased
 Friendship Weekend
 Name
 Gift
+CAN SEND A GIFT
 Last Activity
 Friendship Level
 Nickname
+OFFLINE
+ONLINE
+Cannot sort friends by online status when not opted in to Niantic Online.
 You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
 Galarian Form
@@ -2387,10 +2405,10 @@ GDC 2019: Catch {0} Pokémon
 123456789
 Female
 Male
-A ticket to access the A Drive to Investigate special event from March 20 at 8:00 a.m. to March 26 at 10:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL SPECIAL EVENT BONUSES.
-Ticket: A Drive to Investigate
-A ticket to access the Investigating Illusions bonus Special Research for Abra Community Day on April 25, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
-Ticket: Investigating Illusions
+A ticket to access the Throwback Challenge Celebration Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL SPECIAL EVENT BONUSES.
+Throwback Challenge Celebration 2020
+A ticket to access the Seeing Double bonus Special Research for Seedot Community Day on May 24, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
+Ticket: Seeing Double
 Accept
 Allow
 & {0}
@@ -2435,7 +2453,7 @@ Your account has been suspended for violating the Terms of Service.<a href="thre
 Get directions
 Could not retrieve your privacy settings.
 Greetings from
-Open a Gift from a Sponsor!
+Open a Sponsored Gift!
 Open 2× as many Gifts
 Open 1.5× as many Gifts
 Gifts may contain Rare Candies
@@ -2735,6 +2753,18 @@ The Gym is under attack! Try again later.
 Team Bonus
 SPONSORED
 Couldn't start battle.
+ACE
+EASY
+EXCLUSIVE
+GO FEST
+GREAT
+HARD
+MASTER
+MEDIUM
+???
+NORMAL
+SPECIAL
+ULTRA
 You can find items at Gyms by spinning their Photo Discs.
 You can assign your Pokémon to defend a Gym using the "Assign Pokémon" button at a friendly Gym. After your Pokémon is assigned, you'll see its motivation meter appear.
 Pokémon lose motivation slowly over time and when they are defeated in battle. When a Pokémon with no motivation left is defeated, it will stop defending the Gym and return to its Trainer.
@@ -2782,7 +2812,7 @@ h
 {0}H {1}M
 Styles
 Bundles
-NO COST
+FREE
 Event Ticket
 Items
 Uncategorized
@@ -2828,7 +2858,7 @@ A device that incubates an Egg as you walk until it is ready to hatch. Breaks af
 Egg Incubator
 A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 Super Incubator
-Privacy Control: Your safety is our priority, and you are able to control what features are turned on.
+Privacy Control: Your safety is our priority, so you can control what features are turned on.
 {0} was defeated.
 Curious... Upon their defeat, your opponent seems to have abandoned the Pokémon they battled with. It has a strange and ominous aura.
 I have a hypothesis about what kind of Pokémon it is... Could you catch it so we can examine it more closely?
@@ -2904,8 +2934,8 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access special event bonuses on {0} from {1} to {2} local time, wherever you are.
-This ticket will automatically activate to give you access to a special event on {0}, wherever you are in the world.
+A ticket to access Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are.
 Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
@@ -2917,7 +2947,7 @@ A spray-type medicine that restores the HP of one Pokémon by {1} points.
 Hyper Potion
 A mysterious old box. Opening it causes a certain Pokémon to appear for a limited time.
 Mystery Box
-Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes.
+Incense with a mysterious fragrance that lures wild Pokémon to your location for 30 minutes. Its appearance changes when attracting specific Pokémon.
 Incense
 A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.
 Egg Incubator
@@ -3036,11 +3066,14 @@ But...what does it do?
 You’ve assembled a mysterious device!
 You can use this to track down Team GO Rocket Hideouts!
 Rocket Radar
-This party has Pokémon which can't be used in this Cup.
-This Pokémon can't be used in this Cup.
-These Pokémon aren't allowed in this Cup.
-Premier Cup Rules
-Limited Selection
+This party has a Pokémon that can’t be used in this cup.
+This Pokémon can’t be used in this cup.
+These Pokémon aren’t allowed in this cup.
+Cup Rules
+This cup is limited to Pokémon of the following types: {0}. All Pokémon on the team must be at least one of these types.
+Only these Pokémon can be used in this cup.
+Limited selection
+Eligible Pokémon types:
 Items Unlocked
 Level up!
 Limited Research
@@ -3150,11 +3183,12 @@ Lotad Research: Make {0} Nice Throws
 Lotad Research: Make {0} Nice Throws in a row
 Lotad Research: Battle in a raid
 Lotad Research: Use a supereffective Charged Attack in a Gym battle
+Premier Cup
 10 Max Potions to completely restore the HP of 10 Pokémon.
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
-Built at 2020-06-09T05:42:56.555455at SHA d70baa66c80e20bea433c98a662f82b4c07a056ePipeline 413934, job 3287578
+Built at 2020-06-24T01:15:24.066759at SHA 3d73319175a23c6ea9baa51260b66f7aefc04e7aPipeline 423314, job 3398355
 m
 {0}M {1}S
 Turn on Niantic AR to use Reality Blending.
@@ -3446,6 +3480,7 @@ Aura Sphere
 Payback
 Rock Wrecker
 Aeroblast
+Fly
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -3490,7 +3525,7 @@ Yesterday
 Next
 Other Niantic Games to Try
 Privacy Settings
-New social features have arrived! With Niantic Social, you can now do the following:
+Niantic Social has arrived! With this new social feature, you can now do the following.
 Set Nickname
 No limit
 No news.
@@ -3548,6 +3583,7 @@ That’s great!
 You’ll need to find and collect Pokémon from everywhere.
 Choose your style to start your adventure!
 Anniversary Box
+Your online status will let friends know when you are available for Trainer Battles.
 Open
 Open Settings
 Other
@@ -3617,6 +3653,9 @@ Next
 Pokémon GO Plus unpaired.
 Weak signal. Get closer to the device.
 5 surprise encounters with Abra in GO Snapshot
+5 surprise encounters with Gastly in GO Snapshot
+5 surprise encounters with Seedot in GO Snapshot
+5 surprise encounters with Weedle in GO Snapshot
 Welcome to Team Mystic!
 Welcome to Team Valor!
 Welcome to Team Instinct!
@@ -4503,6 +4542,9 @@ Melody Pokémon
 Paleozoic Pokémon
 Hex Nut Pokémon
 Hex Nut Pokémon
+Blocking Pokémon
+Viking Pokémon
+Wild Duck Pokémon
 Do you really want to transfer this Event Pokémon?
 Pokémon Day
 --
@@ -4568,6 +4610,7 @@ Dugtrio are actually triplets that emerged from one body. As a result, each trip
 Its shining gold whiskers are advanced sensors that can detect vibrations from sounds several miles away.
 Meowth withdraws its sharp claws into its paws to slinkily sneak about without making any incriminating footsteps. For some reason, this Pokémon loves shiny coins that glitter with light.
 A royal house that flourished in the distant past brought it here from another region. Meowth is both selfish and prideful.
+Living with a savage, seafaring people has toughened this Pokémon's body so much that parts of it have turned to iron.
 Persian has six bold whiskers that give it a look of toughness. The whiskers sense air movements to determine what is in the Pokémon's surrounding vicinity. It becomes docile if grabbed by the whiskers.
 Its round face is a symbol of wealth. Persian that have bigger, plumper faces are considered more beautiful.
 Psyduck uses a mysterious power. When it does so, this Pokémon generates brain waves that are supposedly only seen in sleepers. This discovery spurred controversy among scholars.
@@ -4603,6 +4646,7 @@ Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail
 Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.
 Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.
 Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.
+The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
 Doduo's two heads never sleep at the same time. Its two heads take turns sleeping, so one head can always keep watch for enemies while the other one sleeps.
 Watch out if Dodrio's three heads are looking in three separate directions. It's a sure sign that it is on its guard. Don't go near this Pokémon if it's being wary—it may decide to peck you.
 Seel hunts for prey in the frigid sea underneath sheets of ice. When it needs to breathe, it punches a hole through the ice with the sharply protruding section of its head.
@@ -5081,7 +5125,9 @@ Sandile's still not good at hunting, so it mostly eats things that have collapse
 It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.
 It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.
 When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.
+It lived in snowy areas for so long that its fire sac cooled off and atrophied. It now has an organ that generates cold instead.
 Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.
+On days when blizzards blow through, it comes down to where people live. It stashes food in the snowball on its head, taking it home for later.
 Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.
 When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.
 Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.
@@ -5145,6 +5191,7 @@ They are composed of ice crystals. They capture prey with chains of ice, freezin
 It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.
 When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.
 It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.
+Living in mud with a high iron content has given it a strong steel body.
 They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.
 When Mienshao lets out a bizarre wail, you're in danger. A flurry of kicks and chops too fast to see is about to be unleashed!
 It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.
@@ -5178,6 +5225,9 @@ Its melodies are sung with a special vocalization method that can control the fe
 This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
 It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.
 Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
+Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.
+What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
+Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
 Tap to evolve!
 Failed to add Pokémon to your favorites.
 {0} needs a treat!
@@ -5898,6 +5948,9 @@ Meloetta
 Genesect
 Meltan
 Melmetal
+Obstagoon
+Perrserker
+Sirfetch’d
 Please enter a different nickname.
 You have purified {0}!
 Do you really want to transfer this Shiny Pokémon?
@@ -6186,6 +6239,7 @@ The Shadowy Threat Grows
 Time to Train
 A Spooky Message 2018
 A Spooky Message 2019
+Seeing Double
 Daily Bonus
 Great to see you again, %PLAYERNAME%. I always run into you when I find something exciting. Maybe you’re my Special Research good-luck charm!
 Last night, I was studying the chemical reaction that causes Trubbish to appear.
@@ -6831,6 +6885,22 @@ Good luck, %PLAYERNAME%!  And...would you keep the light on in the lab for me? A
 Wow, %PLAYERNAME%! It seems we’ve had a spooky brush with Spiritomb!
 I can’t tell if it’s the weather, but I’ve got the shivers! You know, I feel confident that we can solve anything together, %PLAYERNAME%, even when things get scary.
 I'll be in touch soon!
+Hey there, %PLAYERNAME%! You surprised me, much like the Seedot that just fell from that tree over there.
+It really scared a Pidgey that was foraging nearby, and I’m pretty sure it did that on purpose.
+It’s easy for Seedot to trick people and Pokémon alike because Seedot are almost indistinguishable from acorns.
+Are they appearing in higher numbers right now, or am I seeing double? Could you help me investigate this nutty situation?
+Welcome back, %PLAYERNAME%! While you were away, I was just refreshing my memory on Seedot.
+Apparently, it attaches itself to a tree branch using the top of its head and sucks moisture from the tree it’s hanging from. The more water Seedot drinks, the glossier its body becomes.
+Thanks, Seedot, for reminding us to stay hydrated! Did you know that Seedot can evolve? AHHH! Sorry, I was just startled by another one.
+Why don’t you try evolving Seedot? Maybe it’ll get calmer and stop playing pranks on everyone!
+On the one hand, fantastic work, Trainer. Your little Seedot has evolved into Nuzleaf, the Wily Pokémon. On the other hand, our plan to calm Seedot down by evolving it has backfired.
+Apparently, Nuzleaf can make a flute out of the leaf on its head, and the sound of that flute strikes fear and uncertainty into the hearts of people who hear it.
+I’m sorry. But I have faith that a brave Trainer like yourself can handle Nuzleaf just fine!
+Maybe if we try evolving it again...its next form will be less scary! Personally, I’ve been startled enough for one day of research!
+So...your Nuzleaf has evolved into Shiftry, the Wicked Pokémon. Unfortunately, upon reviewing data on Shiftry, I learned it can be quite fearsome, too.
+Using its leafy fan, Shiftry can create wind gusts with speeds of up to one hundred feet per second. That’s strong enough to level houses! I think I need to go tie my mobile lab down!
+I’d rather be surprised by a Seedot than blown away by a Shiftry! Hah...lesson learned—stay up-to-date with Pokémon, even familiar ones!
+Thank you for your help researching this odd occurrence. Once these winds die down, I’ll be in touch about our next research adventure!
 Hi there, %PLAYERNAME%. I can’t help but be impressed by your progress. You’ve done fantastic work in researching Pokémon originally discovered in the Kanto, Johto, Hoenn, and Sinnoh regions.
 Now that we’ve researched Pokémon that were found in those regions...
 let’s take a closer look at Pokémon originally discovered in the Unova region!
@@ -6843,12 +6913,12 @@ Anyway...let’s do some more research on Pokémon originally discovered in Unov
 Wonderful work, Trainer. You might be familiar with the tradition in which a Pokémon Trainer selects their very first partner from a group of three Pokémon.
 These first-partner Pokémon are normally Fire, Water, or Grass types. In Unova, many Trainers choose the Water-type Oshawott as their first-partner Pokémon.
 This Sea Otter Pokémon is known to use the scalchop on its stomach during battle. Isn’t that just adorable? Please continue your research, and let me know your findings.
-I can’t stop thinking about how cute Oshawott is— Oh! You’re back! Excellent work catching that Patrat!
-Now that we’ve researched the Water-type first-partner Pokémon of many Unovan Trainers, let’s shift focus to the Fire-type one—Tepig!
-I’m a particular fan of Tepig because it uses the fireballs that come from its nose to roast Berries. It’s such a clever use of an ability.
+I can’t stop thinking about how cute Oshawott is... Oh! You’re back! Excellent work catching that Darumaka!
+Now that we’ve researched the Water-type first-partner Pokémon of many Trainers from Unova, let’s shift focus to the Fire-type one—Tepig!
+I’m a particular fan of Tepig because it uses the fireballs that come from its nose to roast Berries. It’s such a clever use of a skill.
 I just love roasted Pinap Berries! We should continue our work and see what else we can discover.
 Being the savvy Trainer you are, I’m sure you know which type of Pokémon we’re going to research next.
-That’s right—Grass type! In Unova, many Trainers choose Snivy, the Grass Snake Pokémon, as their first partner. Snivy is intelligent and calm, and being exposed to lots of sunlight makes it move more swiftly.
+That’s right—Grass type! In Unova, many Trainers choose the Grass Snake Pokémon Snivy as their first partner. Snivy is intelligent and calm, and being exposed to lots of sunlight makes it move more swiftly.
 Perhaps there’s a lot we could learn from such a sagacious Pokémon!
 Anyway, let’s get started on these research tasks. Be sure to listen carefully, as you never know what you might encounter!
 You’re a natural, %PLAYERNAME%. I’m so glad we could research some of the amazing Pokémon originally discovered in the Unova region.
@@ -6862,6 +6932,9 @@ Please complete the following research tasks: {0}{1}{2}{3}{4}
 Wow, great work today! In addition to completing some insightful research, you’ve skillfully helped me document the amazing nature around us and the fascinating migration patterns that Pokémon follow. I have a feeling there’s even more to discover out here!
 The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
 Visit PokéStops {0} days in a row
+Catch 15 Seedot
+Evolve a Nuzleaf
+Evolve 3 Seedot
 {0} DAY STREAK!
 Ah, %PLAYERNAME%! Good to see you!
 There’s a lot to do this summer! New things to experience—new Pokémon to find!
@@ -7020,6 +7093,11 @@ A Spooky Message 2019 (2/3)
 A Spooky Message 2018 (3/3)
 A Spooky Message 2019
 A Spooky Message 2019 (3/3)
+Seeing Double
+Seeing Double (1/4)
+Seeing Double (2/4)
+Seeing Double (3/4)
+Seeing Double (4/4)
 Throwback Challenge Champion 2020
 Throwback Challenge Champion 2020 (1/5)
 Throwback Challenge Champion 2020 (2/5)
@@ -7163,6 +7241,8 @@ CHANGE TO PUBLIC
 Create Group
 Damage
 Raid Day
+Raid Day: Pinsir
+Featured Pokémon appearing in all raids
 Boss Defeated
 All your Pokémon have fainted.
 Select new Pokémon or heal up those that fainted and get back to the battle!
@@ -7228,10 +7308,13 @@ You need a pass to join the battle. You can get a Raid Pass at no cost each day 
 WHAT IS A RAID?
 A raid is a battle where you and up to 19 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
 Raid Week
+Special Raid Weekend
+Latias and Latios appearing in five-star raids
 2× Raid XP
 Event-themed Raid Bosses
 Note: This event is by invitation only.
 There are no raids nearby.
+Pinsir appearing in all raids
 Win a raid
 Win {0} raids
 Win {0} raids
@@ -7254,6 +7337,8 @@ Invitations
 Inviting friends to a raid can be done remotely
 {0} invited you to join a Raid Battle!
 Raid Invitation{0} invited you to join a Raid Battle!
+You’ve reached the maximum number of invitations you can send for a while. Please try again later.
+No More Invitations Can Be Sent
 Raid Invitations Sent
 Leave
 Tap View to go to the raid lobby.
@@ -7304,6 +7389,7 @@ Niantic Kids is currently unavailable. We apologize for the inconvenience.
 Niantic Kids
 https://parents.nianticlabs.com/en/login
 https://niantic-sso.kws.superawesome.tv/en/register
+SAFARI ZONE
 Safari Zone: Earn {0} Candies walking with your buddy
 Safari Zone: Earn a Candy walking with your buddy
 Safari Zone: Catch {0} Pokémon
@@ -7472,7 +7558,7 @@ https://www.nintendo.co.jp/pika_vee/howto/country_selecter/index.html
 Resume transfer
 Troubleshooting
 Vibration
-Show Gifts from Sponsors
+Show Sponsored Gifts
 Try again through settings or the Pokémon GO Plus icon.
 Pokémon GO Plus not enabled
 Let your Pokémon GO Plus count your steps and help you find nearby Pokémon and spin nearby PokéStops!
@@ -7525,6 +7611,7 @@ Your Item Bag is full!
 Go to Upgrades
 Visit the shop to expand your Item Bag.
 Limited time only!
+You cannot buy more of this type of sticker.
 You need more PokéCoins!
 Get {0}
 Go to PokéCoins
@@ -7585,6 +7672,8 @@ Lucky Pokémon
 MY TRAINER CODE
 My QR Code
 Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
+Your online status can be seen by your friends who have opted in to Niantic Online.You can change the status anytime by tapping the same button.
+You are now online!
 OTHERS
 The friend feature is currently available for level {0} and above. Please check back to find out when it's available for you.
 MY CODE
@@ -7592,6 +7681,7 @@ Scan this QR Code with another Trainer's scanner.
 SCAN
 Scan a Trainer's QR Code
 Remove Friend
+SEARCH
 Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
 Solstice
@@ -7605,6 +7695,9 @@ Just when I was energized to do some battling! Maybe we should check out other l
 No signals? Well, it is getting pretty late...and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 More Abra are appearing in the wild
+More Gastly are appearing in the wild
+More Seedot are appearing in the wild
+More Weedle are appearing in the wild
 Event-themed wild Pokémon
 Special event: Catch {0} Pokémon
 Special event: Send {0} Gifts to friends
@@ -7617,10 +7710,10 @@ Pokémon GO should not be played while driving.
 You're going too fast!
 Offer saved to your photos!
 Go to Settings
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location.
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location.
 As always, we do not share your personal information with sponsors. For more information on this feature, please check out Niantic Support. 
-You can manage Gifts from sponsors in your settings. This option allows you to receive Gifts from sponsors when available. This does not affect Gifts you send or receive that came from Sponsored PokéStop Locations.
-Gifts from Sponsors: Your Choice
+You can manage Sponsored Gifts in your settings. This does not affect Gifts you exchange with friends, even if you obtain the Gifts from Sponsored Locations.
+Sponsored Gifts: Your Choice
 Starbucks
 Vasa
 7-Eleven
@@ -7641,6 +7734,7 @@ Star Piece
 8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 8 Star Pieces
 No stickers to send. You can get stickers from Gifts or the shop.
+See All ({0})
 (sponsored by {0})
 LEARN MORE
 Submit
@@ -7692,7 +7786,6 @@ Team Medallion
 https://www.nianticlabs.com/terms/pokemongo/en/
 test string
 Test
-test sticker name
 https://pokemongo.nianticlabs.com/support/three-strike-policy
 Throwback Challenge 2020 Celebration
 Throwback Challenge 2020: Hoenn
@@ -7700,6 +7793,7 @@ Throwback Challenge 2020: Johto
 Throwback Challenge 2020: Kanto
 Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
+Ticket for the Seeing Double Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
 Ends in {0} hours and {1} minutes
@@ -7715,7 +7809,7 @@ Snubbull featured in Timed Research
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
 OK
 While scanning, be aware of your surroundings and respectful of others.
-<b>Thank you for your contribution!</b>\Will you help us learn more about this PokéStop or Gym?
+<b>Thank you for your contribution!</b>Will you help us learn more about this PokéStop or Gym?
 {0:0}%
 Frame {0}/{1}
 Keep the subject of the PokéStop or Gym inside the frame, and slowly walk around it if possible.

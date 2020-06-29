@@ -907,6 +907,15 @@ badge_pokedex_entries_gen4_value_format
 badge_pokedex_entries_gen5
 badge_pokedex_entries_gen5_title
 badge_pokedex_entries_gen5_value_format
+badge_pokedex_entries_gen6
+badge_pokedex_entries_gen6_title
+badge_pokedex_entries_gen6_value_format
+badge_pokedex_entries_gen7
+badge_pokedex_entries_gen7_title
+badge_pokedex_entries_gen7_value_format
+badge_pokedex_entries_gen8
+badge_pokedex_entries_gen8_title
+badge_pokedex_entries_gen8_value_format
 badge_pokedex_entries_title
 badge_pokedex_entries_unknown_title
 badge_pokedex_entries_value_format
@@ -1886,6 +1895,9 @@ combat_ultra_league
 combat_use_this_party
 community_day_abra_event_name
 community_day_event_name
+community_day_gastly_event_name
+community_day_seedot_event_name
+community_day_weedle_event_name
 confirm_use_effective
 confirm_use_ineffective
 confirm_use_tap_to_use
@@ -2096,6 +2108,7 @@ error_no_available_lobbies
 error_no_gifts_in_inventory
 error_open_gift_bag_full
 error_opened_daily_max_number_of_gifts
+error_out_of_this_sticker
 error_player_already_friend
 error_player_not_found
 error_pokemon_team_update
@@ -2109,6 +2122,7 @@ error_sponsored_gift_already_opened
 error_start_raid_battle
 error_too_many_deployed
 error_weak_network
+event
 event_move_alakazam_counter
 event_registration_success
 events_button_label
@@ -2371,9 +2385,13 @@ friendship_strengthened_header
 friendship_weekend_event_name
 friendslist_sort_alphabet
 friendslist_sort_gift
+friendslist_sort_giftable
 friendslist_sort_lastactivity
 friendslist_sort_level
 friendslist_sort_nickname
+friendslist_sort_offline
+friendslist_sort_online
+friendslist_sort_online_unavailable
 full_fragments_collected
 full_fragments_collected_mystery
 galarian_pokedex_header
@@ -2735,6 +2753,18 @@ gym_same_team_deploy_lockout
 gym_spinner_team_bonus
 gym_sponsored
 gym_start_battle_error
+gym_tag_ace
+gym_tag_easy
+gym_tag_exclusive
+gym_tag_gofest
+gym_tag_great
+gym_tag_hard
+gym_tag_master
+gym_tag_medium
+gym_tag_mystery
+gym_tag_normal
+gym_tag_special
+gym_tag_ultra
 gym_tut_desc_1
 gym_tut_desc_2
 gym_tut_desc_3
@@ -3040,7 +3070,10 @@ league_ruleset_error_party
 league_ruleset_error_pokemon
 league_ruleset_info_subtitle
 league_ruleset_info_title
+league_ruleset_info_type_subtitle
+league_ruleset_info_whitelist_subtitle
 league_ruleset_label
+league_ruleset_type_label
 levelup_items_unlocked
 levelup_sequence_text
 limited_research
@@ -3150,6 +3183,7 @@ marrd_2019_easy_land_nice
 marrd_2019_easy_land_nice_inarow
 marrd_2019_easy_raid_participate
 marrd_2019_easy_supereffective_charge
+master_no_legendary
 maxpotion.10_description
 maxpotion.10_title
 maxrevive.6_description
@@ -3446,6 +3480,7 @@ move_name_0332
 move_name_0333
 move_name_0334
 move_name_0335
+move_name_0341
 move_reroll_confirm_desc
 move_reroll_confirm_desc_no_move
 move_reroll_success_message
@@ -3548,6 +3583,7 @@ onboard_welcome_screen|7
 onboard_welcome_screen|8
 onboard_welcome_screen|9
 oneyearanniversary.1_title
+online_status_onboarding_description
 open_gift_button
 open_settings
 other_section_title
@@ -3617,6 +3653,9 @@ pgp_tips_next
 pgp_unpaired
 pgp_weak_signal
 photobomb_five_abra
+photobomb_five_gastly
+photobomb_five_seedot
+photobomb_five_weedle
 pick_team1_desc
 pick_team2_desc
 pick_team3_desc
@@ -4503,6 +4542,9 @@ pokemon_category_0648
 pokemon_category_0649
 pokemon_category_0808
 pokemon_category_0809
+pokemon_category_0862
+pokemon_category_0863
+pokemon_category_0865
 pokemon_costume_info_transfer_to_professor_confirmation
 pokemon_day_event_name
 pokemon_desc_0000
@@ -4568,6 +4610,7 @@ pokemon_desc_0051
 pokemon_desc_0051_0062
 pokemon_desc_0052
 pokemon_desc_0052_0064
+pokemon_desc_0052_2335
 pokemon_desc_0053
 pokemon_desc_0053_0066
 pokemon_desc_0054
@@ -4603,6 +4646,7 @@ pokemon_desc_0080
 pokemon_desc_0081
 pokemon_desc_0082
 pokemon_desc_0083
+pokemon_desc_0083_2338
 pokemon_desc_0084
 pokemon_desc_0085
 pokemon_desc_0086
@@ -5081,7 +5125,9 @@ pokemon_desc_0551
 pokemon_desc_0552
 pokemon_desc_0553
 pokemon_desc_0554
+pokemon_desc_0554_2341
 pokemon_desc_0555
+pokemon_desc_0555_2342
 pokemon_desc_0556
 pokemon_desc_0557
 pokemon_desc_0558
@@ -5145,6 +5191,7 @@ pokemon_desc_0615
 pokemon_desc_0616
 pokemon_desc_0617
 pokemon_desc_0618
+pokemon_desc_0618_2345
 pokemon_desc_0619
 pokemon_desc_0620
 pokemon_desc_0621
@@ -5178,6 +5225,9 @@ pokemon_desc_0648
 pokemon_desc_0649
 pokemon_desc_0808
 pokemon_desc_0809
+pokemon_desc_0862
+pokemon_desc_0863
+pokemon_desc_0865
 pokemon_evolution_tap_to_evolve
 pokemon_favorite_error
 pokemon_hungry_notification_toast
@@ -5898,6 +5948,9 @@ pokemon_name_0648
 pokemon_name_0649
 pokemon_name_0808
 pokemon_name_0809
+pokemon_name_0862
+pokemon_name_0863
+pokemon_name_0865
 pokemon_nickname_error
 pokemon_purified_message
 pokemon_shiny_info_transfer_to_professor_confirmation
@@ -6186,6 +6239,7 @@ quest_complete_rockethq5
 quest_complete_rockethq6
 quest_complete_spiritomb
 quest_complete_spiritomb_2019
+quest_complete_st
 quest_daily_bonus_title
 quest_dialogue_genesect_0_0
 quest_dialogue_genesect_0_1
@@ -6831,6 +6885,22 @@ quest_special_dialogue_spiritomb_1_2
 quest_special_dialogue_spiritomb_2_0
 quest_special_dialogue_spiritomb_2_1
 quest_special_dialogue_spiritomb_2_2
+quest_special_dialogue_st_0_0
+quest_special_dialogue_st_0_1
+quest_special_dialogue_st_0_2
+quest_special_dialogue_st_0_3
+quest_special_dialogue_st_1_0
+quest_special_dialogue_st_1_1
+quest_special_dialogue_st_1_2
+quest_special_dialogue_st_1_3
+quest_special_dialogue_st_2_0
+quest_special_dialogue_st_2_1
+quest_special_dialogue_st_2_2
+quest_special_dialogue_st_2_3
+quest_special_dialogue_st_3_0
+quest_special_dialogue_st_3_1
+quest_special_dialogue_st_3_2
+quest_special_dialogue_st_3_3
 quest_special_dialogue_tcc_0_0
 quest_special_dialogue_tcc_0_1
 quest_special_dialogue_tcc_0_2
@@ -6862,6 +6932,9 @@ quest_special_dialogue_yokosuka_0_3
 quest_special_dialogue_yokosuka_1_0
 quest_special_dialogue_yokosuka_1_1
 quest_spin_daysinarow
+quest_st_catch_s
+quest_st_evolve_n
+quest_st_evolve_s
 quest_streak_format
 quest_summer_return_0_0
 quest_summer_return_0_1
@@ -7020,6 +7093,11 @@ quest_title_spiritomb_1_2019
 quest_title_spiritomb_2
 quest_title_spiritomb_2019
 quest_title_spiritomb_2_2019
+quest_title_st
+quest_title_st_0
+quest_title_st_1
+quest_title_st_2
+quest_title_st_3
 quest_title_tcc
 quest_title_tcc_0
 quest_title_tcc_1
@@ -7163,6 +7241,8 @@ raid_change_to_public
 raid_create_private_group_button
 raid_damage_bonus
 raid_day
+raid_day_pinsir
+raid_day_pokemon
 raid_defeat_boss
 raid_defeat_message
 raid_defeat_try_again
@@ -7228,10 +7308,13 @@ raid_tut_pass_message_v2
 raid_tut_what_is_raid
 raid_tut_what_is_raid_message
 raid_week_event_name
+raid_weekend_event_name
+raid_weekend_latios_latias
 raid_xp_double
 raids_event
 raids_invite_only_event
 raids_no_nearby
+raids_pinsir
 raidweek_2019_easy_raid
 raidweek_2019_hard_raid
 raidweek_2019_medium_raid
@@ -7254,6 +7337,8 @@ remote_raid_invitations_header
 remote_raid_invite_friend_remotely_bonus
 remote_raid_invite_ingame_notif
 remote_raid_invite_push_notif
+remote_raid_invite_rate_limit_desc
+remote_raid_invite_rate_limit_title
 remote_raid_invite_sent_confirmation
 remote_raid_leave
 remote_raid_lobby_callout
@@ -7304,6 +7389,7 @@ sa_login_server_unreachable
 sa_login_title
 sa_parent_dashboard_url
 sa_registration_url
+safari zone
 safari_2019_buddy_plural
 safari_2019_buddy_singular
 safari_2019_catch
@@ -7525,6 +7611,7 @@ shop_inventory_full
 shop_inventory_full_go_to_upgrades
 shop_inventory_full_visit_shop
 shop_limited_time
+shop_max_of_this_sticker
 shop_need_more_coins
 shop_need_more_get_coins
 shop_need_more_go_to_coins
@@ -7585,6 +7672,8 @@ social_lucky_pokemon_label
 social_my_code
 social_my_qr_code
 social_no_friends
+social_online_consent_note_body
+social_online_consent_note_header
 social_other_friend_add_title
 social_player_level_too_low
 social_qr_code_header
@@ -7592,6 +7681,7 @@ social_qr_code_prompt
 social_qr_scan_header
 social_qr_scan_prompt
 social_remove_friend
+social_search_friends
 social_send_code_prompt
 social_send_my_code
 solstice_event_name
@@ -7605,6 +7695,9 @@ spark_map_empty_warning|2
 spark_map_time_warning|1
 spark_map_time_warning|2
 spawn_abra
+spawn_gastly
+spawn_seedot
+spawn_weedle
 spawns_event
 special_event_catch
 special_event_gifts
@@ -7641,6 +7734,7 @@ starpiece.25_title
 starpiece.8_description
 starpiece.8_title
 sticker_empty_inventory
+store_see_all
 string_sponsored_by
 style_shop
 submit_age_button
@@ -7692,7 +7786,6 @@ teammedallion_title
 terms_of_service_url
 test identifer
 test_key
-test_sticker_1_name
 three_strike_policy_url
 throwback_2020_celebration
 throwback_2020_hoenn_event_name
@@ -7700,6 +7793,7 @@ throwback_2020_johto_event_name
 throwback_2020_kanto_event_name
 throwback_2020_sinnoh_event_name
 ticket_abra
+ticket_seedot
 time_left_plural_day_hour_plural
 time_left_plural_day_hour_singular
 time_left_plural_hour_minute_plural

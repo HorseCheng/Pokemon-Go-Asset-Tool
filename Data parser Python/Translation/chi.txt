@@ -907,6 +907,15 @@ N0
 在寶可夢圖鑑裡登錄 {0} 隻合眾地區的寶可夢！
 合眾
 N0
+在寶可夢圖鑑裡登錄 {0} 隻卡洛斯地區的寶可夢！
+卡洛斯
+N0
+在寶可夢圖鑑裡登錄 {0} 隻阿羅拉地區的寶可夢！
+阿羅拉
+N0
+在寶可夢圖鑑裡登錄 {0} 隻伽勒爾地區的寶可夢！
+伽勒爾
+N0
 關都
 未確認
 N0
@@ -1462,7 +1471,7 @@ CP加成
 目前無法使用此選項
 確定要強化 {0} 嗎？
 強化這隻寶可夢之後，牠的CP將會超過{0}的上限
-DAILY BONUS BOX
+每日獎勵禮盒
 高級禮盒
 超級禮盒
 GO火箭隊禮盒
@@ -1471,7 +1480,7 @@ GO火箭隊禮盒
 新手禮盒
 入門禮盒
 訓練禮盒
-BONUS BOX
+獎勵禮盒
 金道具盒 (Beta)
 高級禮盒
 銀道具盒 (Beta)
@@ -1504,7 +1513,7 @@ Safari Zone禮盒
 嘿，看來你已經趕走他們了。沒有任何的藏身之處發出訊號！
 早上再確認一次吧。我有預感GO火箭隊正在計畫些什麼……我也會去問問布蘭雪知不知道任何消息。
 無法變更 {0}
-You can’t use the Mystery Box and an Incense at the same time.
+你不能同時使用神秘盒子和薰香
 無法用特殊招式學習器來讓寶可夢忘記特殊招式「遷怒」
 無法登入嗎？
 捕捉寶可夢
@@ -1886,6 +1895,9 @@ GO火箭隊幹部
 確定
 凱西社群日
 社群日
+Community Day: Gastly
+社群日：橡實果
+Community Day: Weedle
 {0} 有效
 {0} 無效
 點擊道具來使用
@@ -1951,8 +1963,8 @@ d
 OK
 停止和朋友分享最近捉到的寶可夢
 無法在朋友名單上確認彼此最近捕捉或孵化的寶可夢
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location. Disable this option to not receive Gifts from sponsors.
-Disable Gifts from Sponsors
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Disable this option to not receive Sponsored Gifts when available.
+Disable Sponsored Gifts
 無法指派夥伴寶可夢去防禦道館
 不能把傳說的寶可夢指派到道場。
 寶可夢的HP必須是滿的
@@ -1990,8 +2002,8 @@ Disable Gifts from Sponsors
 厲害一般招式學習器
 和朋友分享最近捉到的寶可夢
 可以在朋友名單上互相確認最近捕捉或孵化的寶可夢
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location. Enable this option to receive Gifts from sponsors when available.
-Enable Gifts from Sponsors
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Enable this option to receive Sponsored Gifts when available.
+Enable Sponsored Gifts
 你已經用過樹果了
 哦？
 Excellent!
@@ -2096,6 +2108,7 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 包包裡沒有友情禮物，去寶可補給站找找看吧！
 請在開禮物之前清出包包的空間或升級包包
 開啟次數已達本日上限
+You are out of this type of sticker.
 你和這個訓練家已經是朋友了
 錯誤訓練家代碼：找不到此訓練家
 更新對戰陣容時出現錯誤
@@ -2109,6 +2122,7 @@ You have already opened this Gift
 進入團體戰時出現錯誤
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
+活動
 讓勇基拉進化成胡地後，牠就能學會雙倍奉還
 成功登入 {0} 了！
 參加活動
@@ -2371,9 +2385,13 @@ Lv {0}
 友誼週末
 名字
 友情禮物
+CAN SEND A GIFT
 最近的活動
 友誼等級
 暱稱
+離線
+ONLINE
+Cannot sort friends by online status when not opted in to Niantic Online.
 你已經收集足夠的神秘零件來組裝火箭隊雷達！
 看起來這些零件可以組裝在一起！
 伽勒爾的樣子
@@ -2387,10 +2405,10 @@ GDC 2019: Catch {0} Pokemon
 123456789
 雌性
 雄性
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月20日8:00～3月26日22:00參加遊戲裡的「直擊！古生代寶可夢之謎！」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
-入場券：直擊！古生代寶可夢之謎！
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年4月25日11:00～17:00參加遊戲裡的「念力寶可夢的超能力」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
-入場券：念力寶可夢的超能力
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年6月3日13:00～6月8日13:00挑戰遊戲中的「世代大挑戰：慶典」特殊調查。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+世代大挑戰2020：慶典
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年5月24日11:00～17:00領取橡實果社群日的特殊調查「橡實寶可夢的小秘密」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+入場券：橡實寶可夢的小秘密
 同意
 接受
 & {0}
@@ -2433,9 +2451,9 @@ Yes
 特別獎勵
 系統偵測到違反服務條款的行為，故已將此帳號停權。請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 規劃路徑
-Could not retrieve your privacy settings.
+無法取得隱私權設定
 祝你有愉快的一天！
-Open a Gift from a Sponsor!
+Open a Sponsored Gift!
 可打開2倍的禮物
 可打開1.5倍的禮物
 友情禮物可能內含神奇糖果
@@ -2735,6 +2753,18 @@ XP
 同隊獎勵
 SPONSORED
 無法開始對戰
+菁英
+簡單
+限定
+GO FEST
+超級球級
+困難
+大師球級
+普通
+???
+精靈球級
+特別
+高級球級
 旋轉道館的轉盤來取得道具。
 在我方道館點選「指派寶可夢」鍵，便可將自己的寶可夢指派去防禦道館。寶可夢被指派至道館後，頭上會出現心型的幹勁計量表。
 當寶可夢被指派至道館的時間越長、或是在道館對戰中落敗，寶可夢的幹勁將會隨之下降。若幹勁為0的寶可夢在對戰中落敗，牠將不會繼續防禦道館，而是會回到訓練家身邊。
@@ -2782,7 +2812,7 @@ h
 {0}小時{1}分
 服飾商店
 套組
-NO COST
+免費
 活動入場券
 道具
 其他
@@ -2828,7 +2858,7 @@ NO COST
 孵化器
 一種更強大的孵化器，可以讓蛋更快孵化。使用3次後就會壞掉。
 超級孵化器
-Privacy Control: Your safety is our priority, and you are able to control what features are turned on.
+Privacy Control: Your safety is our priority, so you can control what features are turned on.
 打敗了 {0} ！
 這就怪了……那些人居然丟下寶可夢逃走了。話說這寶可夢身上這不祥的光環是怎麼一回事……
 我有個假設需要證實……你可以幫我捉住牠，讓我仔細檢查一下嗎？
@@ -2904,8 +2934,8 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 合眾之石
 你可以用這個來追蹤GO火箭隊總部。或許GO火箭隊老大就在那裡！
 超級火箭隊雷達
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年3月20日8:00～3月26日22:00參加遊戲裡的「直擊！古生代寶可夢之謎！」的活動。
-入場券將會自動啟用，不論你在何處都能在{0}參加特別活動。
+只要擁有這張入場券，不論你在何處都能在當地時間2020年6月3日13:00～6月8日13:00挑戰特殊調查。
+入場券將會自動啟用，不論你在何處都能在當地時間2020年6月3日13:00～6月8日13:00挑戰特殊調查。
 入場券
 寶可夢吃下這種樹果後，會變得更容易捕捉，而且會掉更多糖果。
 銀色凰梨果
@@ -3026,21 +3056,24 @@ VIP團體戰入場券
 邀請 {0} 一起參加VIP團體戰
 關都活動
 玩遊戲請保持禮貌，尊重其他訓練家
-Let my friends see info about the last time I played a Niantic game.
-Last Played: Today
-Last Played: 2+ days ago
-Last Played: Yesterday
+讓朋友看見我最後一次玩Niantic遊戲的時間
+上次玩遊戲：今天
+上次玩遊戲：2天前
+上次玩遊戲：昨天
 你組裝了一個火箭隊雷達！
 使用火箭隊雷達定位出GO火箭隊的藏身之處！
 但是……這是用來做什麼的？
 成功組裝了一個神祕的裝置！
 你可以用它來追蹤GO火箭隊的藏身之處！
 火箭隊雷達
-This party has Pokémon which can't be used in this Cup.
-This Pokémon can't be used in this Cup.
-These Pokémon aren't allowed in this Cup.
-Premier Cup Rules
+這支對戰小隊內含無法參加此賽事的寶可夢
+這隻寶可夢無法參加本次賽事
+這些寶可夢無法參加本次賽事
+對戰規則
+本次賽事僅限 {0} 屬性的寶可夢參加。隊伍中所有的寶可夢都必須擁有其中任一個屬性。
+可參加本賽事的寶可夢如下：
 可選擇的寶可夢
+可派上場的寶可夢：
 開放新道具了
 升級！
 限定調查
@@ -3062,14 +3095,14 @@ Pokémon GO活動
 建立帳號
 選擇建立帳號的方式：
 使用者名稱或密碼不正確。
-Can’t unlink this account. Please link another login method before unlinking this one.
+無法解除此帳號的綁定。請先新增其他登入方法後，再解除綁定。
 輸入密碼
 密碼
 Apple
 Facebook
 Google
 選擇登入帳號：
-This account is already linked to a different player.
+此帳號已綁定至其他玩家
 輸入用戶名稱
 用戶名稱
 幸運蛋效果延長為1小時
@@ -3150,11 +3183,12 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 蓮葉童子研究：連續投出 {0} 次Nice
 蓮葉童子研究：參加1次團體戰
 蓮葉童子研究：在道館對戰中使出1次「效果絕佳」的特殊招式
+紀念盃
 噴霧式傷藥。能讓1隻寶可夢的HP完全回復。一組10個。
 全滿藥 × 10
 讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。
 活力塊 × 6
-Built at 2020-06-09T05:42:56.555455at SHA d70baa66c80e20bea433c98a662f82b4c07a056ePipeline 413934, job 3287578
+Built at 2020-06-24T01:15:24.066759at SHA 3d73319175a23c6ea9baa51260b66f7aefc04e7aPipeline 423314, job 3398355
 m
 {0}分{1}秒
 使用實境融合前請開啟Niantic AR
@@ -3446,6 +3480,7 @@ m
 以牙還牙
 岩石炮
 氣旋攻擊
+飛翔
 {0}會忘記{1}
 {0} 會忘記
 {0} 學會新招式了！
@@ -3489,8 +3524,8 @@ NEW！
 昨天
 下一步
 Other Niantic Games to Try
-Privacy Settings
-New social features have arrived! With Niantic Social, you can now do the following:
+隱私權設定
+Niantic Social has arrived! With this new social feature, you can now do the following.
 設定暱稱
 無上限
 沒有快訊
@@ -3501,7 +3536,7 @@ New social features have arrived! With Niantic Social, you can now do the follow
 n/a
 效果不太好……
 現在
-Allows pairing to devices, including peripherals and consoles.
+允許和其他裝置配對
 已開啟實境融合
 橫置模式下無法使用實境融合
 已關閉實境融合
@@ -3548,6 +3583,7 @@ Pokémon GO 服務條款
 請你去世界各地收集寶可夢！
 選擇你的探險裝備吧。
 週年慶禮盒
+Your online status will let friends know when you are available for Trainer Battles.
 開啟
 開啟設定
 其他
@@ -3617,6 +3653,9 @@ Next
 Pokémon GO Plus 的配對已被解除
 訊號微弱。請將Pokémon GO Plus移至行動裝置附近
 凱西將在GO Snapshot中驚喜現身5次
+5 surprise encounters with Gastly in GO Snapshot
+橡實果將在GO Snapshot中驚喜現身5次
+5 surprise encounters with Weedle in GO Snapshot
 歡迎加入叡智隊！
 歡迎加入武勇隊！
 歡迎加入靈犀隊！
@@ -4503,6 +4542,9 @@ HP
 古生代寶可夢
 螺帽寶可夢
 螺帽寶可夢
+停止寶可夢
+維京寶可夢
+黃嘴鴨寶可夢
 確定要傳送這隻特殊的寶可夢嗎？
 Pokémon Day
 --
@@ -4568,6 +4610,7 @@ Pokémon Day
 閃著金光的鬍鬚是靈敏度極高的感應器。就連數公里外的聲音也能透過振動感應到。
 可以收起尖銳的爪子，躡手躡腳無聲無息地行走。不知為何非常喜歡閃閃發亮的硬幣。
 在遙遠的過去由當時興旺的王族從其他地區帶到此地。性格任性且自尊心很強。
+和好戰的海洋民族一起生活，久而久之身體的各個地方就都變成了黑鐵。
 ６根粗硬鬍鬚的功用是感知空氣的流動來判斷周圍的狀況。鬍鬚被抓住後就會變得溫順起來。
 圓圓的臉是富貴的象徵。人們認為有著豐滿體態和大臉的貓老大才美。
 從發揮著神奇力量的可達鴨身上觀測到了應該只有在睡眠時才會出現的腦波，因此在學術界造成了話題。
@@ -4603,6 +4646,7 @@ Pokémon Day
 會吸附在電線上進食電力。如果停電了就調查一下配電箱吧。也許上面正附著密密麻麻的小磁怪呢。
 因為會用強大的磁力破壞機器，所以當三合一磁怪大量出現時，大城鎮都會拉響警報通知大家。
 手上拿著的植物莖好像有好有壞，所以大蔥鴨之間有時會為了爭奪莖而彼此爭鬥。
+生活在伽勒爾的大蔥鴨。揮舞著又粗又壯的大蔥，是英勇奮戰的戰士。
 ２顆頭從來不會同時睡著。為了防止在睡著時受到敵人襲擊，牠們會輪流負責放哨。
 ３顆頭分別朝著不同方向時，就是牠正處於警戒狀態的證明。不小心靠近牠的話就會被鳥嘴啄。
 會在冰封的海中捕食。換氣時會用頭上的突起部分破開冰層從海裡露出臉來。
@@ -5081,7 +5125,9 @@ Pokémon Day
 會把獵物的一部份埋在沙子裡，當成狩獵失敗時的儲備糧食。
 會藏身在沙漠蜻蜓引發的沙暴中，靜靜等待著獵物的到來。
 睡覺的時候會收起手足，體內燃燒著的６００度火焰也會變小並沉靜下來。
+由於居住在積雪深厚的地域，火囊也因受到冷卻而退化了。取而代之的是製造冷氣的器官。
 透過燃燒體內１４００度的火焰，製造出足以用拳頭破壞砂石車的威力。
+會把食物裝到頭頂的雪球裡帶回家。在暴風雪的日子會下山來到人類居住的村落。
 在乾燥的土地上生活。透過有節奏的身體擺動，便能奏出沙鈴般的聲響。
 如果有大小合適的石頭，就會從口中分泌液體，做出可容身的洞穴。
 為了爭奪地盤，岩殿居蟹之間會展開激烈的爭鬥。岩石被破壞的一方成為輸家。
@@ -5145,6 +5191,7 @@ Pokémon Day
 與蓋蓋蟲一起接收到電能時就會進化。原因目前尚未明瞭。
 一旦身體乾燥就會變得衰弱。身上卷著一層又一層的薄膜以防止乾燥。
 將自己埋進海邊的泥裡等待獵物。當獵物接觸到自己時，會放出電流使其麻痺。
+棲息在富含鐵質的泥巴裡，因此獲得了結實堅固的鋼鐵身軀。
 與群體的夥伴們一起在深山裡閉關修行。不同的群體有著不同的踢腿和手刀技法。
 當牠用奇妙聲音發出叫喊時是很危險的，由快到無法看清的踢腿和手刀組成的連續攻擊將接踵而來。
 會入侵地鼠或三地鼠挖掘的隧道，靜靜地等待著獵物經過。
@@ -5178,6 +5225,9 @@ Pokémon Day
 存在於３億年前的寶可夢。被等離子隊改造，在背部裝了砲台。
 身體是融化成液狀的鋼鐵。能夠將地底的鐵或其他金屬溶解後吸收進體內。
 擁有產出鐵的力量，因而受到人們的崇拜。不知為何，在經過3000年的時間後甦醒過來。
+能夠發出驚人的音量。牠在大叫的同時威嚇對手的樣子被稱為「攔堵」。
+有著十分好戰的性格。頭上像鐵頭盔一樣的東西其實是牠硬化後的體毛。
+只有歷經過無數戰鬥的大蔥鴨才能進化成這個樣子。當大蔥枯萎了就會離開戰場。
 點擊牠來進化！
 無法將寶可夢設為我的最愛
 {0} 需要一頓大餐！
@@ -5898,6 +5948,9 @@ CP
 蓋諾賽克特
 美錄坦
 美錄梅塔
+堵攔熊
+喵頭目
+蔥遊兵
 請輸入別的暱稱
 成功淨化 {0} ！
 確定要傳送這隻異色寶可夢嗎？
@@ -6186,6 +6239,7 @@ Let’s GO！美錄坦
 孜孜不倦
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2019
+橡實寶可夢的小秘密
 每日獎勵
 嘿，%PLAYERNAME%，你真是我做研究的最佳夥伴，我正好有事要找你呢。
 你聽我說。我昨天晚上在調查和破破袋誕生有關的化學反應的時候……
@@ -6831,30 +6885,46 @@ GO火箭隊不會立刻離開，但只要有你們這些訓練家在，我想大
 哇，[PLAYERNAME]！看來我們找到那隻超恐怖的花岩怪了！
 也許是因為氣溫下降了……我的身體一直在顫抖！%PLAYERNAME%，就算有再恐怖的事，我相信我們都能一起解決問題。
 我們保持聯絡！
-Hi there, %PLAYERNAME%. I can’t help but be impressed by your progress. You’ve done fantastic work in researching Pokémon originally discovered in the Kanto, Johto, Hoenn, and Sinnoh regions.
-Now that we’ve researched Pokémon that were found in those regions...
-let’s take a closer look at Pokémon originally discovered in the Unova region!
-I think it’s fascinating that even though we know a lot about Pokémon from all over the world, there’s always more to learn!
-Speaking of discoveries, I’ve been doing some additional research and heard about an interesting phenomenon that has to do with Meowth in the Galar region.
-I was speaking to a researcher who’s the granddaughter of a colleague from Galar, and she shared some intriguing information.
-It seems that Galarian Meowth lived with seafaring people, which toughened their bodies so much that parts of them turned to iron.
-Maybe I could get a few workout tips—I’ve been looking for some ways to toughen up myself!
-Anyway...let’s do some more research on Pokémon originally discovered in Unova, but be sure to keep your eyes open for other exciting discoveries.
-Wonderful work, Trainer. You might be familiar with the tradition in which a Pokémon Trainer selects their very first partner from a group of three Pokémon.
-These first-partner Pokémon are normally Fire, Water, or Grass types. In Unova, many Trainers choose the Water-type Oshawott as their first-partner Pokémon.
-This Sea Otter Pokémon is known to use the scalchop on its stomach during battle. Isn’t that just adorable? Please continue your research, and let me know your findings.
-I can’t stop thinking about how cute Oshawott is— Oh! You’re back! Excellent work catching that Patrat!
-Now that we’ve researched the Water-type first-partner Pokémon of many Unovan Trainers, let’s shift focus to the Fire-type one—Tepig!
-I’m a particular fan of Tepig because it uses the fireballs that come from its nose to roast Berries. It’s such a clever use of an ability.
-I just love roasted Pinap Berries! We should continue our work and see what else we can discover.
-Being the savvy Trainer you are, I’m sure you know which type of Pokémon we’re going to research next.
-That’s right—Grass type! In Unova, many Trainers choose Snivy, the Grass Snake Pokémon, as their first partner. Snivy is intelligent and calm, and being exposed to lots of sunlight makes it move more swiftly.
-Perhaps there’s a lot we could learn from such a sagacious Pokémon!
-Anyway, let’s get started on these research tasks. Be sure to listen carefully, as you never know what you might encounter!
-You’re a natural, %PLAYERNAME%. I’m so glad we could research some of the amazing Pokémon originally discovered in the Unova region.
-I can’t thank you enough for your hard work. I hope you put this Charged TM and Fast TM to good use!
-By the way, I literally stumbled across a mysterious Pokémon I’ve never encountered before.
-I think you’re the perfect Trainer to take this Pokémon and help it reach its potential. Best of luck, and I’ll be in touch soon!
+嘿，%PLAYERNAME%！你跟剛剛那隻從樹上掉下來的橡實果一樣，真是嚇到我了！
+連附近的波波都被嚇到了。我跟你打賭，橡實果一定是故意的！
+唉，畢竟橡實果懸掛在樹枝上的樣子和樹果一模一樣，突然動起來真是會嚇死人。
+話說回來，今天的橡實果是不是特別多？還是我眼花了？你可以幫我調查一下這個狀況嗎？
+%PLAYERNAME%，你回來得正是時候，我調查了一下橡實果這隻寶可夢。
+橡實果會把頭頂黏在樹枝上懸掛著吸收水分，而且牠水喝得越多，身體就會越有光澤。
+看來牠是想告訴我們補充水份的重要性啊！對了……你知道橡實果可以進化嗎？救人喔！怎麼又掉一隻下來了！！
+你要不要試著讓橡實果進化？也許牠進化之後就不會像現在這樣一直嚇人喔。
+看來你成功讓橡實果進化成捉弄寶可夢長鼻葉了呢！雖然說長鼻葉牠也讓人頭疼就是……
+長鼻葉會拔下頭上的葉子做成草笛，然後牠吹奏出的草笛聲會讓人感到非常不安。
+不過我想你這樣堅強的訓練家一定沒問題。
+也許我們應該讓牠再次進化……接下來應該就不會那麼恐怖了。更何況我也想把剩下的時間拿來做研究……
+看來你的長鼻葉已經進化成邪惡寶可夢狡猾天狗啦。只不過我重新查了一下這隻寶可夢的資料之後，發現牠也是個難纏的傢伙……
+牠手上大大的團扇可以掀起風速30公尺的強風，吹跑一切。看來我的移動研究室恐怕也是小命不保啊。
+比起被狡猾天狗吹跑，我還寧願被橡實果嚇到，至少橡實果可愛一點。唉，這件事告訴我們，以後捉寶可夢之前要事先做好研究，千萬不可以怠惰！
+謝謝你幫我一起做調查。等這陣風平靜下來之後，我們再啟程去做下一個研究吧！
+%PLAYERNAME%！感謝你幫我一起完成關都、城都、豐緣和神奧地區的研究！
+既然我們已經調查了這些地區的寶可夢……
+那我們當然要繼續研究來自合眾地區的寶可夢！
+我們已經找到了這麼多寶可夢，但寶可夢的世界裡永遠有更多事物等著我們去學習！
+對了，我最近在研究伽勒爾地區的喵喵。你知道牠為什麼會變成那個樣子嗎？
+我認識一位住在伽勒爾的學者，她的孫女跟我分享了一些有趣的資訊。
+據說伽勒爾的喵喵和好戰的海洋民族一起生活，久而久之身體的各個地方就都變成了黑鐵。
+我還蠻想知道他們到底過得是什麼樣的生活的……
+不管怎麼說，我們先來研究一下合眾地區的寶可夢吧。也許我們會在研究過程中發現什麼新事物也說不定。
+你真是太棒了！寶可夢世界的傳統是在踏上旅途前，從三隻寶可夢中選一隻做為自己的夥伴……
+這三隻寶可夢的屬性分別是火、水和草。而合眾地區有很多訓練家都選擇了水屬性的水水獺做為他們的夥伴。
+這隻海獺寶可夢會用牠腹部的扇貝貝來進行攻擊，你不覺得很可愛嗎？
+水水獺真是太可愛了……噢，我離題了。看來你捉到火紅不倒翁了呢！
+既然我們已經完成了水水獺的調查，那接下來就來調查火屬性的暖暖豬吧！
+你問我為什麼喜歡暖暖豬？我想應該是因為牠會從鼻孔噴火出來烤樹果吃吧。
+我最愛的就是烤過的凰梨果！呃，我又離題了。我們繼續做調查吧！
+我想不用我多說，你也知道我們接下來的調查對象是哪隻寶可夢了吧？
+沒錯，就是草屬性的藤藤蛇！草蛇寶可夢藤藤蛇擁有高度的知能和冷靜的態度，陽光會使牠的動作更敏銳。也因為這樣，很多訓練家都選擇藤藤蛇做為他們的夥伴。
+我想我們一定能從這隻聰慧的寶可夢身上學到許多東西！
+接下來就請你繼續去做調查吧。別忘了要豎起耳朵，仔細觀察周遭環境！
+%PLAYERNAME%，你真是太優秀了！你幫我解開了許多合眾地區寶可夢之謎。
+我準備了特殊招式學習器和一般招式學習器做為謝禮，請你務必好好思考它們的用途。
+話又說回來，我總覺得我碰到了一隻我從沒見過的寶可夢。
+也許你已經見過牠了？我想接下來的調查就交給你了，祝你幸運！
 %PLAYERNAME%！我等你等了好久啊！
 我原本打算今天要花上一整天的時間研究這裡的寶可夢，但看來我需要你的幫忙！今天我看到一些平常不會出現在這附近的寶可夢……這真是太奇怪了……
 你可以去公園裡走走，幫我完成一些課題嗎？這附近有非常多野生的寶可夢，是最適合做研究的地方！
@@ -6862,6 +6932,9 @@ I think you’re the perfect Trainer to take this Pokémon and help it reach its
 真是辛苦你了！我們成功地把這附近的寶可夢生態和環境數據化，今天的研究成果意義不凡！我們應該要繼續探索這個城市，發掘更多它的魅力！
 我想今天的研究應該讓你獲得了不少星星沙子。星星沙子除了可以拿來強化寶可夢之外，還可以用來和其他訓練家交換寶可夢，記得試試看。下次再會了，%PLAYERNAME%！
 連續 {0} 天拜訪寶可補給站
+捕捉15隻橡實果
+讓1隻長鼻葉進化
+讓3隻橡實果進化
 連續第 {0} 天！
 嘿，%PLAYERNAME%！你最近好嗎？
 夏天總是有很多活動，還有很多新寶可夢等著你去尋找呢！
@@ -7020,18 +7093,23 @@ Let’s GO！美錄坦 (9/9)
 令人毛骨悚然的訊息 2018 (3/3)
 令人毛骨悚然的訊息 2019
 令人毛骨悚然的訊息 2019 (3/3)
-Throwback Challenge Champion 2020
-Throwback Challenge Champion 2020 (1/5)
-Throwback Challenge Champion 2020 (2/5)
-Throwback Challenge Champion 2020 (3/5)
-Throwback Challenge Champion 2020 (4/5)
-Throwback Challenge Champion 2020 (5/5)
-Throwback Challenge Celebration 2020
-Throwback Challenge Celebration 2020 (1/5)
-Throwback Challenge Celebration 2020 (2/5)
-Throwback Challenge Celebration 2020 (3/5)
-Throwback Challenge Celebration 2020 (4/5)
-Throwback Challenge Celebration 2020 (5/5)
+橡實寶可夢的小秘密
+橡實寶可夢的小秘密 (1/4)
+橡實寶可夢的小秘密 (2/4)
+橡實寶可夢的小秘密 (3/4)
+橡實寶可夢的小秘密 (4/4)
+世代大挑戰2020：慶典
+世代大挑戰2020：慶典 (1/5)
+世代大挑戰2020：慶典 (2/5)
+世代大挑戰2020：慶典 (3/5)
+世代大挑戰2020：慶典 (4/5)
+世代大挑戰2020：慶典 (5/5)
+世代大挑戰2020：慶典
+世代大挑戰2020：慶典 (1/5)
+世代大挑戰2020：慶典 (2/5)
+世代大挑戰2020：慶典 (3/5)
+世代大挑戰2020：慶典 (4/5)
+世代大挑戰2020：慶典 (5/5)
 歡慶2019年年終
 世代大挑戰
 世代大挑戰：豐緣 (1/9)
@@ -7162,7 +7240,9 @@ M月 d日
 公開小組
 建立小組
 傷害量
-Raid Day
+團體戰日
+Raid Day: Pinsir
+Featured Pokémon appearing in all raids
 擊敗頭目
 所有寶可夢都陷入瀕死狀態了
 選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
@@ -7180,9 +7260,9 @@ Raid Day
 團體戰場次增加
 五星團體戰增加
 四星團體戰增加
-Increased number of one-star raids
-Increased number of three-star raids
-Increased number of two-star raids
+一星團體戰增加
+三星團體戰增加
+二星團體戰增加
 玩法
 參加
 輸入小組代碼
@@ -7228,10 +7308,13 @@ If you leave this group before the battle starts, your pass will be returned to 
 團體戰是什麼？
 在團體戰中，你將會和其他訓練家（最多19名）一起挑戰強大的頭目寶可夢。同心協力擊敗頭目寶可夢後，將可獲得超棒的獎品和捕捉強大寶可夢的機會！
 團體戰週
+Special Raid Weekend
+Latias and Latios appearing in five-star raids
 參加團體戰可獲得的XP加倍
 活動主題頭目寶可夢
 *僅限受邀的訓練家參加
 附近沒有團體戰
+Pinsir appearing in all raids
 在團體戰中獲勝1次
 在團體戰中獲勝 {0} 次
 在團體戰中獲勝 {0} 次
@@ -7254,6 +7337,8 @@ If you leave this group before the battle starts, your pass will be returned to 
 可邀請朋友參加遠距團體戰
 {0} 邀請你一起參加團體戰！
 團體戰邀請函{0} 邀請你一起參加團體戰！
+可傳送的邀請函數已達上限，請稍候再試一次。
+無法傳送邀請
 已傳送邀請
 離開
 點擊「查看」，進入團體戰入口
@@ -7304,6 +7389,7 @@ Niantic Kids暫時無法連線，敬請見諒
 Niantic Kids
 https://parents.nianticlabs.com/zh-tw/login
 https://niantic-sso.kws.superawesome.tv/zh-tw/register
+SAFARI ZONE
 Safari Zone：和夥伴寶可夢一起走路，獲得 {0} 顆糖果
 Safari Zone：和夥伴寶可夢一起走路，獲得1顆糖果
 Safari Zone：捕捉 {0} 隻寶可夢
@@ -7393,7 +7479,7 @@ s
 Pokémon GO將在 {0} 分鐘後進行伺服器維修。維修期間內將無法玩遊戲，敬請見諒。
 選擇夥伴
 設定暱稱
-Could not set your privacy settings.
+無法變更隱私權設定
 帳號
 小秘訣：綁定登入帳號後，就可以用該帳號登入遊戲
 已綁定
@@ -7472,7 +7558,7 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/howtoplay/
 重新傳送
 疑難排解
 震動
-Show Gifts from Sponsors
+Show Sponsored Gifts
 請依序點擊「主選單」＞「設定」＞「Pokémon GO Plus」，或點擊地圖上的圖示進行設定。
 尚未連線至Pokémon GO Plus
 讓Pokémon GO Plus幫你計算步數，並尋找附近的寶可夢和寶可補給站吧！
@@ -7525,6 +7611,7 @@ Show Gifts from Sponsors
 前往升級選單
 去商店擴充包包的容量吧
 限時搶購！
+You cannot buy more of this type of sticker.
 你需要更多寶可幣！
 取得 {0}
 購買寶可幣
@@ -7585,6 +7672,8 @@ Sale
 我的訓練家代碼
 我的二維條碼
 和朋友一起玩遊戲可以解鎖交換功能，並獲得獎勵！
+Your online status can be seen by your friends who have opted in to Niantic Online.You can change the status anytime by tapping the same button.
+You are now online!
 其他
 目前系統僅開放訓練家等級達到 {0} 級以上的訓練家使用朋友功能。此功能將依序開放給所有訓練家使用，敬請耐心等候。
 自己的代碼
@@ -7592,9 +7681,10 @@ Sale
 掃描
 掃描朋友的QR Code
 刪除朋友
+SEARCH
 輸入訓練家代碼，傳送朋友申請
 分享訓練家代碼
-Solstice
+季節活動
 你一定可以的！
 就是這樣！
 這是場讓人熱血沸騰的對戰！
@@ -7605,6 +7695,9 @@ Solstice
 沒有訊號？好吧，已經很晚了……我也該去找維羅博士了。
 白天或許能更順利地抓住他們。通常我和坎迪拉也會在那時候完成大部分的研究工作。
 更多凱西出現在地圖上
+More Gastly are appearing in the wild
+更多橡實果出現在地圖上
+More Weedle are appearing in the wild
 活動主題野生寶可夢
 會場限定：捕捉 {0} 隻寶可夢
 會場限定：贈送 {0} 個友情禮物給朋友
@@ -7616,11 +7709,11 @@ Solstice
 請不要在開車時玩Pokémon GO
 你移動的速度太快了！
 Offer saved to your photos!
-Go to Settings
-During your visits to Gyms and PokéStops, you may receive Gifts from sponsors along with a sponsored message relevant to your location.
+ 開啟設定
+During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location.
 As always, we do not share your personal information with sponsors. For more information on this feature, please check out Niantic Support. 
-You can manage Gifts from sponsors in your settings. This option allows you to receive Gifts from sponsors when available. This does not affect Gifts you send or receive that came from Sponsored PokéStop Locations.
-Gifts from Sponsors: Your Choice
+You can manage Sponsored Gifts in your settings. This does not affect Gifts you exchange with friends, even if you obtain the Gifts from Sponsored Locations.
+Sponsored Gifts: Your Choice
 Starbucks
 Vasa
 セブン−イレブン
@@ -7641,6 +7734,7 @@ Vasa
 8個星星碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。
 星星碎片 × 8
 沒有可傳送的貼圖。你可以從友誼禮物或從商店中獲得貼圖。
+See All ({0})
 sponsored by {0}
 瞭解詳情
 確定
@@ -7692,7 +7786,6 @@ sponsored by {0}
 https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 test string
 測試
-test sticker name
 https://pokemongo.nianticlabs.com/support/three-strike-policy
 世代大挑戰2020：慶典
 世代大挑戰2020：豐緣
@@ -7700,6 +7793,7 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 世代大挑戰2020：關都
 世代大挑戰2020：神奧
 「念力寶可夢的超能力」入場券已在商店上架
+特殊調查「橡實寶可夢的小祕密」的入場券在商店中上架
 將在 {0} 天 {1} 小時後結束
 將在 {0} 天 {1} 小時後結束
 將在 {0} 小時 {1} 分鐘後結束
@@ -8036,7 +8130,7 @@ Let’s GO!
 特級獎勵
 請選擇獎勵的種類
 歡迎來到GO對戰聯盟！
-This team can’t be used for GO Battle League.
+不能在GO對戰聯盟使用這支小隊
 需集滿 {0} 種不同的寶可夢才能參加GO對戰聯盟！
 需要 {0} 種不同的寶可夢
 目前級別可遇見的寶可夢：
