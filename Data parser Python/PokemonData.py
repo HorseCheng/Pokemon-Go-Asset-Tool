@@ -238,7 +238,7 @@ noww=-1
 for data in master:
     if(re.search("COMBAT_V[0-9]+_MOVE_", data["templateId"])):
         for i in range(noww+1, len(movelist)):
-            if(movelist[i].name in data["templateId"]):
+            if str(movelist[i].name) in data["templateId"]:
                 movelist[i].pvphandle(data["combatMove"])
                 noww=i; break
         else:print("pvp error", data["templateId"]) #Didn't found, weird situation
@@ -294,6 +294,7 @@ shadow=shadow.drop(["name","quick","charged","desccat","descintro"], axis=1)
 shadow.insert(3, "Form","",True) 
 shadow["Form"] = "暗影型態"
 shadow.loc[1::2,"Form"] = "淨化型態"
+shadow=shadow.sort_values(by=['id'],kind='mergesort')
 shadow.to_csv('Pokemon Data/Shadows.csv' , encoding='utf_8_sig', header=False, index=False)
 
 # =============================================================================

@@ -241,6 +241,7 @@ Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
 Galar Bag
+Isle of Armor Bag
 Togepi Bag
 Zubat Bag
 Ace Belt
@@ -263,6 +264,7 @@ No Gloves
 LeafGreen Wristbands
 Giovanni Gloves
 Gym Leader Gloves
+Isle of Armor Gloves
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
@@ -281,6 +283,7 @@ No Hat
 Felt Fedora
 H.F. Custom Cap A
 LeafGreen Hat
+Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
 Johto Cap
@@ -359,6 +362,7 @@ Drifblim Shirt
 Surf Blue Shirt
 H.F. Custom Shirt A
 LeafGreen Top
+Galarian Farfetch’d T-shirt and Bag
 Gengar Shirt
 Giovanni Shirt
 GO Fest 2019 Tee
@@ -405,6 +409,7 @@ The Thirty
 Team Instinct Turtleneck
 Team Mystic Turtleneck
 Team Valor Turtleneck
+Isle of Armor Uniform
 Trainer Tank
 Charizard Tank
 Pikachu Tank
@@ -446,6 +451,7 @@ Sandals
 Sandals
 Galar Shoes
 Steven-Style Shoes
+Isle of Armor Shoes
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -482,6 +488,7 @@ Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
 Galar Bag
+Isle of Armor Bag
 Togepi Bag
 Zubat Bag
 Future Specs
@@ -498,6 +505,7 @@ FireRed Wristbands
 Giovanni Gloves
 Gym Leader Gloves
 Jogger Watch
+Isle of Armor Gloves
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
@@ -516,6 +524,7 @@ Felt Fedora
 Fisher Cap
 H.F. Custom Cap A
 FireRed Cap
+Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
 Johto Cap
@@ -592,6 +601,7 @@ Surf Blue Shirt
 Fisher Vest
 H.F. Custom Shirt A
 FireRed Top
+Galarian Farfetch’d T-shirt and Bag
 Gengar Shirt
 Giovanni Shirt
 GO Fest 2019 Tee
@@ -638,6 +648,7 @@ Galar Shirt
 Steven-Style Top
 Sports Hoodie
 Streak Hoodie
+Isle of Armor Uniform
 Team Aqua Top
 Blanche-Style Coat
 Candela-Style Jacket
@@ -680,6 +691,7 @@ Sandals
 Sandals
 Galar Shoes
 Steven-Style Shoes
+Isle of Armor Shoes
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -861,6 +873,7 @@ Pokémon GO Fest
 Dortmund, July 7, 2019
 Pokémon GO Fest—Early Access
 Dortmund, July 7, 2019
+Pokémon GO Fest
 Pokémon GO Fest
 Win {0} Trainer Battles in the Great League.
 Win a Trainer Battle in the Great League.
@@ -1972,6 +1985,7 @@ Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
+Dragon Boat Festival
 Eggstravaganza: Hatch an Egg
 Eggstravaganza: Hatch {0} Eggs
 Eggstravaganza: Hatch {0} Eggs
@@ -2346,6 +2360,10 @@ Friend Request Deleted
 Trainer Nickname
 {0} sent you a Gift!
 friend
+<b>This sorting can be used only when online-status sharing is enabled. You can enable it using the quick online-status toggle.</b><size=24>Note: Sharing your online status will share it for all Niantic games you play.</size>
+Don’t Share Online Status
+Quick Online-Status Toggle
+Share Online Status Now
 {0} wants to Trade with you.
 Friend Fest: Catch a Nidoran♂
 Friend Fest: Catch a Nidoran♀
@@ -2385,13 +2403,13 @@ Friendship Level Increased
 Friendship Weekend
 Name
 Gift
-CAN SEND A GIFT
+CAN RECEIVE A GIFT
 Last Activity
 Friendship Level
 Nickname
 OFFLINE
 ONLINE
-Cannot sort friends by online status when not opted in to Niantic Online.
+You can’t sort friends by online status if you haven’t opted in to Niantic Online.
 You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
 Galarian Form
@@ -2405,10 +2423,13 @@ GDC 2019: Catch {0} Pokémon
 123456789
 Female
 Male
-A ticket to access the Throwback Challenge Celebration Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL SPECIAL EVENT BONUSES.
-Throwback Challenge Celebration 2020
-A ticket to access the Seeing Double bonus Special Research for Seedot Community Day on May 24, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
-Ticket: Seeing Double
+A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Ticket: GO Fest 2020
+A ticket to access A Hairy Situation, the Special Research for Weedle Community Day, on June 20, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
+Ticket: A Hairy Situation
+A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Pokémon GO Fest 2020
+Ticket: GO Fest 2020
 Accept
 Allow
 & {0}
@@ -2934,8 +2955,8 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research from June 3, 2020, at 1:00 p.m. to June 8, 2020, at 1:00 p.m. local time, wherever you are.
+A ticket to access a special event on July 25 and 26 from 10 a.m. to 8 p.m. local time each day, wherever you are.
+This ticket will automatically activate to give you access to a special event on July 25 and 26, wherever you are in the world.
 Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
@@ -3188,7 +3209,7 @@ Premier Cup
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
-Built at 2020-06-24T01:15:24.066759at SHA 3d73319175a23c6ea9baa51260b66f7aefc04e7aPipeline 423314, job 3398355
+Built at 2020-07-07T11:56:21.464521at SHA a275c232b402b472120154bc4556f55b338373a2Pipeline 430593, job 3478791
 m
 {0}M {1}S
 Turn on Niantic AR to use Reality Blending.
@@ -6240,6 +6261,7 @@ Time to Train
 A Spooky Message 2018
 A Spooky Message 2019
 Seeing Double
+A Hairy Situation
 Daily Bonus
 Great to see you again, %PLAYERNAME%. I always run into you when I find something exciting. Maybe you’re my Special Research good-luck charm!
 Last night, I was studying the chemical reaction that causes Trubbish to appear.
@@ -6489,19 +6511,24 @@ Evolve {0} Pokémon
 Power up Pokémon {0} times
 Purify {0} Shadow Pokémon
 Purify a Fire-, Water-, or Grass-type Shadow Pokémon
+Rescue {0} Shadow Pokémon
 Catch {0} Shadow Pokémon
 Defeat Team GO Rocket Leader Arlo
+Defeat Team GO Rocket Leader Arlo {0} times
 Battle the Team GO Rocket Boss
 Catch a Legendary Shadow Pokémon
 Catch {0} Shadow Pokémon
 Defeat Team GO Rocket Leader Cliff
+Defeat Team GO Rocket Leader Cliff {0} times
 Defeat the Team GO Rocket Boss
 Find the Team GO Rocket Boss
 Defeat {0} Team GO Rocket Grunts
 Defeat {0} Team GO Rocket Grunts
+Defeat a Team GO Rocket Leader {0} times
 Purify {0} Shadow Pokémon
 Win {0} raids
 Defeat Team GO Rocket Leader Sierra
+Defeat Team GO Rocket Leader Sierra {0} times
 Spin {0} PokéStops
 Spin a PokéStop {0} days in a row
 Use {0} supereffective Charged Attacks in Gym battles
@@ -6925,6 +6952,23 @@ You’re a natural, %PLAYERNAME%. I’m so glad we could research some of the am
 I can’t thank you enough for your hard work. I hope you put this Charged TM and Fast TM to good use!
 By the way, I literally stumbled across a mysterious Pokémon I’ve never encountered before.
 I think you’re the perfect Trainer to take this Pokémon and help it reach its potential. Best of luck, and I’ll be in touch soon!
+Hey there, %PLAYERNAME%! I stepped out of my mobile lab this morning only to see needlelike horns poking out of the grass all around me.
+Luckily, I also saw big red noses poking out of the grass and realized they belonged to Weedle, the Hairy Bug Pokémon. I guess you could say we’re in a...hairy situation!
+...Uh, moving along...
+Weedle’s horn measures about two inches. It’s a sharp stinger that can inject poison!
+Let’s investigate Weedle further—but watch your step! There are Weedle everywhere, and you wouldn’t want to get poked by one.
+Nice footwork, Trainer. I read a fascinating tidbit while you were conducting your research—Weedle has an extremely acute sense of smell.
+It finds its favorite kinds of leaves by sniffing them out with its big, red, and—in my opinion—honkable nose.
+I can think of a number of times this useful skill would come in handy, like when the team leaders start sharing snacks around the lab and don’t think to offer me any.
+Anyway, I think that we should look further into Weedle’s Evolution. I can’t wait to see what other fascinating details we learn.
+Well done with that evolving, %PLAYERNAME%. However, it looks like the evolved form of Weedle, Kakuna, is just...sitting there. I knew this Cocoon Pokémon didn’t move much, but wow.
+Seeing it in person has made me realize that...it really does just sit there. But while it seems like it’s doing nothing, it’s actually extremely busy preparing for its upcoming Evolution.
+And that’s evident by how hot to the touch the shell becomes! Isn’t that exciting? Thanks to our research, we’ve learned so much about what’s happening to Kakuna!
+Let’s keep going! I think that Kakuna of yours is almost ready to show you what it’s been working on.
+Thanks to its hard work, Kakuna has evolved into Beedrill! It now has three poisonous stingers and wings that allow it to fly quickly. Talk about a glow-up!
+Beedrill, the Poison Bee Pokémon, is known for being extremely territorial. It sometimes attacks in swarms, and Beedrill nests are very dangerous!
+This powerful Bug- and Poison-type Pokémon may surprise you in Trainer Battles, too.
+Thanks for your help today, %PLAYERNAME%. I’ll be in touch once I figure out how to maneuver my mobile lab out of this area. I wouldn’t want a Weedle poking a hole in one of the mobile lab’s tires!
 %PLAYERNAME%! Thank goodness you made it to this important research site.
 I came to study Pokémon that commonly appear in this area, but it seems I need your help! The species of Pokémon I’ve observed today don’t normally appear around here. What a strange occurrence!
 Would you be willing to travel throughout the park and perform some tasks for me? With all these wild Pokémon around, it almost feels like a safari!
@@ -7148,6 +7192,11 @@ Throwback Challenge: Sinnoh (6/9)
 Throwback Challenge: Sinnoh (7/9)
 Throwback Challenge: Sinnoh (8/9)
 Throwback Challenge: Sinnoh (9/9)
+A Hairy Situation
+A Hairy Situation (1/4)
+A Hairy Situation (2/4)
+A Hairy Situation (3/4)
+A Hairy Situation (4/4)
 Pokémon GO Safari Zone in YOKOSUKA
 Trade Pokémon {0} times
 Trade a Pokémon
@@ -7176,6 +7225,9 @@ Win {0} level 3 or higher raids
 Win a level 3 or higher raid
 Win {0} raids
 Win a raid
+Catch {0} Weedle
+Evolve {0} Kakuna
+Evolve {0} Weedle
 Hey! Good job with your Field Research. It looks like we’ve learned a lot!
 Keep up the great work.  Now...let's see what we've discovered!
 Breakthrough!
@@ -7272,6 +7324,10 @@ If you leave this group, you won't be able to rejoin. Do you want to leave this 
 If you leave this group before the battle starts, your pass will be returned to you, but you won’t be able to rejoin the same group.Do you want to leave this group?
 Difficulty
 RAID LEVEL
+Please try a different raid or invitation.
+This Raid Lobby Has Expired
+Please try again later.
+The Raid Lobby Is Full
 RAID FULL
 Received {0} items from raid.
 Raid Members
@@ -7588,7 +7644,9 @@ You’re out of Premium Battle Passes!
 You don’t have any Poffins. Exchange PokéCoins for a Poffin?
 Get a Poffin
 Incense bundle in the shop
+Box with Premium Battle Passes and a Remote Raid Pass in the shop
 Bundles
+GLOBAL EVENTS
 Holiday Event
 Items
 PokéCoins
@@ -7672,8 +7730,11 @@ Lucky Pokémon
 MY TRAINER CODE
 My QR Code
 Play together with your friends to unlock trades, Premier Balls, and power-ups for battle!
-Your online status can be seen by your friends who have opted in to Niantic Online.You can change the status anytime by tapping the same button.
-You are now online!
+Not sharing your online status
+Your online status can be seen by your friends who have opted in to Niantic Online.You can stop sharing your status anytime by tapping the same button.
+You’re now sharing your online status!
+Note: Turning on online-status sharing will enable it for all Niantic games you play.
+Sharing your online status
 OTHERS
 The friend feature is currently available for level {0} and above. Please check back to find out when it's available for you.
 MY CODE
@@ -7684,6 +7745,7 @@ Remove Friend
 SEARCH
 Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
+Lunatone and Solrock appearing in different regions
 Solstice
 You can do it!
 You got this!
@@ -7735,6 +7797,7 @@ Star Piece
 8 Star Pieces
 No stickers to send. You can get stickers from Gifts or the shop.
 See All ({0})
+SEE OTHER STICKERS
 (sponsored by {0})
 LEARN MORE
 Submit
@@ -7794,6 +7857,7 @@ Throwback Challenge 2020: Kanto
 Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
 Ticket for the Seeing Double Special Research story available in the shop
+Tickets for the A Hairy Situation Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
 Ends in {0} hours and {1} minutes
@@ -7813,6 +7877,7 @@ While scanning, be aware of your surroundings and respectful of others.
 {0:0}%
 Frame {0}/{1}
 Keep the subject of the PokéStop or Gym inside the frame, and slowly walk around it if possible.
+Your device does not have enough storage space. Please free up space and try again.
 PokéStop Scan requires camera and storage permissions.
 OK
 NOT NOW
