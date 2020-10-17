@@ -57,12 +57,12 @@ if [ "${PROTOBUF_FILE}" == "" ]; then
 fi
 
 # Generate JSON
-mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} GAME_MASTER.json --oldmode"
+mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} GAME_MASTER.json"
 
 if [ "${TIMESTAMP}" == "" ]; then
   # Get timestampMs from new JSON file
   json_content=$(cat GAME_MASTER.json)
-  TIMESTAMP=$(echo $json_content | grep -oP '"timestampMs": "([0-9]+)"' | grep -oP "[0-9]+")
+  TIMESTAMP=$(echo $json_content | grep -oP '"batchId": "([0-9]+)"' | grep -oP "[0-9]+")
 fi
 
 NEW_VERSION_FOLDER="${VERSIONS_FOLDER}/${TIMESTAMP}"
@@ -75,8 +75,6 @@ mkdir -p $NEW_VERSION_FOLDER
 cp $PROTOBUF_FILE $NEW_PROTOBUF_PATH
 cp -rf GAME_MASTER.json $NEW_JSON_PATH
 
-
-
 if [ "$LATEST" == true ]; then
   # Copy into latest folder
   cp -Tr "$NEW_VERSION_FOLDER/" "$VERSIONS_FOLDER/latest"
@@ -85,7 +83,4 @@ if [ "$LATEST" == true ]; then
   echo $TIMESTAMP >>versions/latest-version.txt
 fi
 
-
-
 echo "DONE"
-

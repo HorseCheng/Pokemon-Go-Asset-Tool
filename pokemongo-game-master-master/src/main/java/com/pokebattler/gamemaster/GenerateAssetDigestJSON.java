@@ -1,6 +1,6 @@
 package com.pokebattler.gamemaster;
 
-import POGOProtos.Tools.*;
+import POGOProtos.Rpc.*;
 import com.google.protobuf.util.*;
 
 import java.io.*;
@@ -10,7 +10,8 @@ public class GenerateAssetDigestJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		AssetDigestDecoderTool response = AssetDigestDecoderTool.parseFrom(is);
+		AssetDigestOutProto.Builder response = AssetDigestOutProto.parseFrom(is).toBuilder();
+		response.setResult(AssetDigestOutProto.Result.SUCCESS);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
@@ -18,7 +19,8 @@ public class GenerateAssetDigestJSON {
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println("Generated digests:");
 			System.out.println("	Decoded digests: " + response.getDigestCount());
-			System.out.println("	TimestampMs    : " + response.getTimestampMs());
+			System.out.println("	TimestampMs    : " + response.getTimestamp());
+			System.out.println("	Result         : " + response.getResult());
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println();
 		}

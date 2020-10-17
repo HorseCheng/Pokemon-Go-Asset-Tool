@@ -6,7 +6,7 @@ const allowedFormats = ['protobuf', 'json'];
 /**
  * Returns the content of the request version
  * @param {String} version The version you want to request. Can be a specific version (e.g. '0.83.3') or latest version (e.g. 'latest')
- * @param {String} format The format of the version. Can be either 'json' or 'protobuf'.
+ * @param {'json'|'protobuf'} format The format of the version. Can be either 'json' or 'protobuf'.
  * @returns {Object|String} Returns a object, if format 'json' is given, or a string
  * 
  * @example
@@ -16,14 +16,14 @@ const allowedFormats = ['protobuf', 'json'];
  * gameMaster.getVersion('latest', 'protobuf').then(console.log); // Returns as string
  */
 const getVersion = (version, format) => {
-    format = format.toLowerCase();
+    format = (format || 'json').toLowerCase();
     return new Promise((resolve, reject) => {
         // Validate Format
         if (!allowedFormats.includes(format)) {
             reject(`Only the format .${allowedFormats.join(' .')} are allowed`);
         }
         // Get Date
-        request.get(`${FETCH_URL}/${version}/GAME_MASTER.${format}`, (error, response, body) => {
+        request.get(`${FETCH_URL}/${version}/V2_GAME_MASTER.${format}`, (error, response, body) => {
             if (response.body === '404: Not Found\n') return reject(new Error('Given version could not be found.'));
             if (error) return reject(error);
 

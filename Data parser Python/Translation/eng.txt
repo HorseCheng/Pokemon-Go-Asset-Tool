@@ -20,6 +20,26 @@ Remove
 Do you want to remove this entry?
 More
 Journal
+I find it offensive
+It refers to a political candidate or issue
+It’s a scam or misleading
+It’s sexually inappropriate
+It’s spam
+It’s violent or prohibited
+Thank you for your contribution! Your feedback has been submitted for review.
+Thank you for your contribution!
+I want more from this category
+I want more Sponsored Gifts in general
+Other
+I want more from this advertiser
+We care about your Pokémon GO experience and appreciate your feedback. <b><a href="https://www.nianticlabs.com">Learn more</a></b>.
+Tell Us About This Ad
+Not Interested in This Ad
+Report This Ad
+See More Ads Like This
+It’s not relevant to me
+I see it too often
+Please explain in less than 300 characters.
 Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
 ADD STICKER
 Learn what information is shared with friends.
@@ -45,6 +65,7 @@ Let your Apple Watch count your steps and help you find nearby Pokémon and Pok�
 Success! Open the Apple Watch app to start a session.
 Apple Watch enabled!
 Enable Apple Watch
+Appraisal
 Hello, {0}. I am available to analyze your {1}, if you wish.
 Hi {0}! Let's take a look at your {1}, shall we?
 Hey, {0}! You want me to check out your {1}?
@@ -101,6 +122,7 @@ around {0}.
 The origin of this {0} is unknown!
 AR
 We're not detecting your phone's orientation. Would you like to turn off AR mode?
+AR MAPPING
 This may not be a good place to play. Try playing somewhere else.
 AR+ requires ARCore to be installed. Do you want to install now? You'll need to restart Pokémon GO. 
 ARCore Installation
@@ -123,6 +145,12 @@ Tap to find the Pokémon.
 Look around an open area with your device until it recognizes a flat surface.
 Tap the tall grass to find a Pokémon. 
 Approach the Pokémon slowly. You'll get bonus rewards if you catch it!
+Get Directions
+What is PokéStop scanning?
+Trainers can help build 3D maps of the locations of their favorite PokéStops and Gyms by walking around public places and taking a series of pictures with their mobile devices. We can use data collected this way to continue to develop and refine AR features for Pokémon GO.
+Scan PokéStop
+Visit this PokéStop to scan it. 
+Get closer to scan this PokéStop.
 Try moving more slowly for a better scan.
 Tap to place a Pokémon.
 DOWNLOAD
@@ -212,6 +240,7 @@ Try a different account
 Retry
 Failed to log in.
 Unable to connect to server.
+Autumn Event
 New style to wear!
 SHOW ME
 Bags
@@ -256,6 +285,7 @@ Mystery Mask
 2020 Specs
 Aviator Sunglasses
 Focus Frames
+Verizon Mask
 Ace Gloves
 Battle Girl Gloves
 Fingerless Gloves
@@ -264,6 +294,10 @@ No Gloves
 LeafGreen Wristbands
 Giovanni Gloves
 Gym Leader Gloves
+GO Mega Bracelet
+Team Mystic GO Mega Bracelet
+Team Valor GO Mega Bracelet
+Team Instinct GO Mega Bracelet
 Isle of Armor Gloves
 Team Aqua Gloves
 Team Magma Gloves
@@ -286,6 +320,7 @@ LeafGreen Hat
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+Pikachu Visor
 Johto Cap
 Beanie Hat
 Power-Up Knit Cap
@@ -304,6 +339,7 @@ Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
 Ruin Maniac Hat
+Samsung Galaxy Tie-Dye Hat
 Galar Beret
 Stantler Headband
 Red-Ribboned Straw Hat
@@ -312,6 +348,7 @@ Team Valor Cap
 Team Instinct Cap
 Team Mystic Cap
 Team Rocket Hat
+Team Rocket Cap
 Top Hat
 Professor Willow Glasses
 Woobat Earrings
@@ -366,6 +403,7 @@ Galarian Farfetch’d T-shirt and Bag
 Gengar Shirt
 Giovanni Shirt
 GO Fest 2019 Tee
+GO Fest 2020 Tee
 Gym Leader Top
 Team Instinct Happi Coat
 Team Mystic Happi Coat
@@ -375,6 +413,7 @@ Johto Top
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
+Jessie-Style Outfit
 Jirachi T-shirt
 Latias & Latios Shirt
 Luvdisc Top
@@ -402,6 +441,7 @@ Valor Polo
 Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
+Samsung Galaxy Tie-Dye Shirt
 Spiritomb T-shirt
 Galar Top
 Steven-Style Top
@@ -427,7 +467,10 @@ UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
 UNWTO T-shirt
+Verizon Jacket
 Veteran Coat
+Victini Tee
+Victini Tee
 Ace Boots
 Ace Shoes
 Backpacker Footwear
@@ -439,7 +482,7 @@ LeafGreen Shoes
 Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
-Black Sandals
+2020 Sandals
 Luvdisc Shoes
 Mewtwo Shoes
 Misty Shoes
@@ -466,9 +509,11 @@ Johto Socks
 Team Aqua Tights
 Team Magma Socks
 Wool Leg Warmers
+Masks
 Glasses
 Gloves
 Hair
+Halloween
 Hats
 Unlock tier {0} {1} medal
 Unlock at Level {0}
@@ -497,6 +542,7 @@ Jogger Sunglasses
 Mystery Mask
 2020 Specs
 Focus Frames
+Verizon Mask
 Ace Gloves
 Fingerless Gloves
 Delibird Gloves
@@ -505,6 +551,10 @@ FireRed Wristbands
 Giovanni Gloves
 Gym Leader Gloves
 Jogger Watch
+GO Mega Bracelet
+Team Mystic GO Mega Bracelet
+Team Valor GO Mega Bracelet
+Team Instinct GO Mega Bracelet
 Isle of Armor Gloves
 Team Aqua Gloves
 Team Magma Gloves
@@ -527,6 +577,7 @@ FireRed Cap
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+Pikachu Visor
 Johto Cap
 Beanie Hat
 Jogger Visor
@@ -544,6 +595,7 @@ Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
 Ruin Maniac Hat
+Samsung Galaxy Tie-Dye Hat
 Galar Knit Hat
 Stantler Headband
 Red-Ribboned Straw Hat
@@ -552,6 +604,7 @@ Team Valor Cap
 Team Instinct Cap
 Team Mystic Cap
 Team Rocket Hat
+Team Rocket Cap
 Top Hat
 Professor Willow Glasses
 Woobat Earrings
@@ -605,6 +658,7 @@ Galarian Farfetch’d T-shirt and Bag
 Gengar Shirt
 Giovanni Shirt
 GO Fest 2019 Tee
+GO Fest 2020 Tee
 Gym Leader Top
 Team Instinct Happi Coat
 Team Mystic Happi Coat
@@ -614,6 +668,7 @@ Johto Top
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
+James-Style Outfit
 Jirachi T-shirt
 Jogger Tank Top
 Latias & Latios Shirt
@@ -643,6 +698,7 @@ Valor Polo
 Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
+Samsung Galaxy Tie-Dye Shirt
 Spiritomb T-shirt
 Galar Shirt
 Steven-Style Top
@@ -666,7 +722,10 @@ UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
 UNWTO T-shirt
+Verizon Jacket
 Veteran Jacket
+Victini Tee
+Victini Tee
 Ace Boots
 Ace Shoes
 Backpacker Footwear
@@ -680,7 +739,7 @@ Giovanni Shoes
 Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
-Black Sandals
+2020 Sandals
 Luvdisc Shoes
 Mewtwo Shoes
 Pikachu Fan Shoes
@@ -874,6 +933,7 @@ Dortmund, July 7, 2019
 Pokémon GO Fest—Early Access
 Dortmund, July 7, 2019
 Pokémon GO Fest
+Global, July 25–26, 2020
 Pokémon GO Fest
 Win {0} Trainer Battles in the Great League.
 Win a Trainer Battle in the Great League.
@@ -1041,6 +1101,9 @@ Porto Alegre, Jan 26, 2019
 Pokémon GO Safari Zone
 Porto Alegre, Jan 27, 2019
 Pokémon GO Safari Zone
+Mega Evolve a Pokémon {0} times.
+Mega Evolve a Pokémon {0} time.
+Successor
 Trade {0} Pokémon.
 Earn {0} km across the distance of all Pokémon trades.
 Pilot
@@ -1107,6 +1170,9 @@ N0
 Win {0} Trainer Battles in the Ultra League.
 Win a Trainer Battle in the Ultra League.
 Ultra League Veteran
+Mega Evolve {0} different species of Pokémon.
+Mega Evolve {0} Pokémon.
+Mega Evolution Guru
 Visit {0} unique PokéStops.
 Unique PokéStops
 N0
@@ -1157,7 +1223,9 @@ Learn more
 Select Pokémon
 Got Candy from the professor.
 {0} used {1}!
+GO Battle Day
 GO Battle Day: Marill
+GO Battle Day: Pidgey
 Nearby Battle
 GO Battle League
 Current Season
@@ -1176,6 +1244,7 @@ Battle
 Party
 {0} battles won
 Gyms & Raids
+GO Battle Night
 No Pokémon Left
 Already selected for battle
 Select your Pokémon!
@@ -1193,6 +1262,8 @@ Go, {0}!
 Go, {0}!
 Battle Showdown
 You and {0} are now friends.
+Daily bonus Field Research tasks rewarding Beedrill Mega Energy
+Field Research rewarding Beedrill Mega Energy
 Bonus
 https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 Could not connect to Nintendo Switch.
@@ -1245,6 +1316,7 @@ Camera Permission
 Buddy is on cooldown!
 <b>{0}</b> is now your buddy!
 Play together
+Your buddy brought you a Gift.
 If you increase your Buddy Level, you’ll earn more Perks! Tap a heart to see more.
 Establish strong bond with Buddy and exhibits strong skill during battle
 Best Buddy Ribbon
@@ -1387,6 +1459,8 @@ A cactus fruit that bears some resemblance to fruit commonly found in the Desert
 Cactus Fruit
 A small, whitish stone picked up at the edge of the road. Your buddy thought you’d like it!
 Chalky Stone
+A colorful memento often found at special events. This confetti celebrates Team Mystic, Team Instinct, and Team Valor by using their identifying colors.
+Confetti
 Date Received
 These fruits can’t be eaten, but some Pokémon enjoy collecting them regardless.
 Flower Fruits
@@ -1397,6 +1471,8 @@ A marble with colored glass inside. Your buddy was probably drawn to its intrica
 Marble
 Mushrooms similar to these tend to grow on Mushroom Pokémon, such as Paras. Some Pokémon enjoy collecting these as gifts for their Trainers. (Don’t eat them, though.)
 Mushroom
+A stylish accessory worn by Trainers at special events to show their love of Pokémon. Pika pika!
+Pikachu Visor
 A hefty pinecone that amuses some Pokémon. A surprisingly thoughtful gift from a friendly Pokémon.
 Snowy Pinecone
 Many Pokémon like to collect these pretty leaves and gift them to their favorite Trainers.
@@ -1525,6 +1601,7 @@ Looks like we’ve scared ’em all off! Wanna try looking in a different area?
 Hmm, nothing here. Let’s see if we can pick up the trail in a new location.
 Hah, you must have driven them out—no signals from any hideouts at all!
 Let’s check again in the morning. I have a feeling Team GO Rocket’ll be up to something then. In the meantime, I’ll ask if Blanche knows anything.
+Frustration cannot be forgotten at this time.
 {0} cannot be changed.
 You can’t use the Mystery Box and an Incense at the same time.
 The Frustration Charged Attack can’t be replaced by a Charged TM.
@@ -1534,6 +1611,7 @@ Catch a Pokémon
 3× Catch Candy
 2× Catch Stardust
 2× Catch Stardust for catching Marill
+2× Catch Stardust for catching Pidgey
 3× Catch Stardust
 2× Catch XP
 3× Catch XP
@@ -1657,6 +1735,207 @@ Are you sure you want to change your Trainer Code? You'll no longer be able to r
 Change your Trainer Code
 Charged TMs can’t be used on Shadow Pokémon.
 Pokémon GO Fest
+Abomey-Calavi
+Abu Dhabi
+Accra
+Adelaide
+Albuquerque
+Alexandria
+Almaty
+Amman
+Amsterdam
+Anchorage
+Antananarivo
+Antwerp
+Ashgabat
+Asunción
+Athens
+Atlanta
+Auckland
+Bandar Seri Begawan
+Bangkok
+Banjul
+Barcelona
+Beirut
+Belgrade
+Belmopan
+Bengaluru
+Berlin
+Birmingham
+Bishkek
+Bissau
+Bogotá
+Boise
+Boston
+Brasília
+Bratislava
+Brisbane
+Bristol
+Bucharest
+Budapest
+Buenos Aires
+Busan
+Cairo
+Calgary
+Cape Town
+Casablanca
+Cebu City
+Chaguanas
+Chicago
+Chittagong
+Ciudad Juárez
+Columbus
+Copenhagen
+Dar es Salaam
+Darwin
+Delhi
+Denver
+Dhaka
+Doha
+Dubai
+Dublin
+Dushanbe
+Edmonton
+Freetown
+Gaborone
+George Town
+Georgetown
+Guatemala City
+Guayaquil
+Haiphong
+Hamburg
+Hanoi
+Helsinki
+Hong Kong
+Honiara
+Honolulu
+Houston
+Indianapolis
+Jakarta
+Jayapura
+Johannesburg
+Kampala
+Kaohsiung
+Karachi
+Kathmandu
+Khovd
+Kigali
+Kingston
+Koror City
+Kuala Lumpur
+Kumasi
+Kuwait City
+Lahore
+Las Vegas
+Libreville
+Lilongwe
+Lima
+Lisbon
+Liverpool
+Ljubljana
+Lomé
+London
+Los Angeles
+Lusaka
+Luxembourg City
+Madrid
+Makassar
+Managua
+Manama
+Manila
+Maputo
+Marseille
+Medellín
+Melbourne
+Mexico City
+Miami
+Milan
+Minneapolis
+Moen
+Monrovia
+Monterrey
+Montevideo
+Montreal
+Mumbai
+Munich
+Muscat
+Nagoya
+Nairobi
+Nashville
+Nassau
+N’Djamena
+New Brunswick
+New Orleans
+New York City
+Niamey
+Nicosia
+Nouakchott
+Nova Scotia
+Nuuk
+Osaka
+Oslo
+Ouagadougou
+Palikir
+Panama City
+Paramaribo
+Paris
+Perth
+Philadelphia
+Phnom Penh
+Phoenix
+Port-au-Prince
+Port Louis
+Port Moresby
+Portland
+Porto Alegre
+Prague
+Praia
+Puebla
+Reykjavik
+Riga
+Rio de Janeiro
+Rome
+Salt Lake City
+San Francisco
+San José
+San Salvador
+Santa Cruz
+Santiago
+Santo Domingo
+São Paulo
+Sarajevo
+Seattle
+Seoul
+Singapore
+Skopje
+Sofia
+St. Louis
+Stockholm
+Suva
+Sydney
+Taipei
+Tallinn
+Tashkent
+Tegucigalpa
+Thimphu
+Tijuana
+Tirana
+Tokyo
+Toronto
+Tulsa
+Ulaanbaatar
+Valletta
+Vancouver
+Victoria
+Vienna
+Vientiane
+Vilnius
+Warsaw
+Windhoek
+Winnipeg
+Yokohama
+Zagreb
+Zurich
 I won’t let Giovanni down!
 You? Defeat me? Not gonna happen.
 You’re nothing more than a weak distraction.
@@ -1691,6 +1970,8 @@ That's already your name!
 <size=36><b>Are you sure you want to be called {0}?</b></size> You can only change your nickname a limited number of times, including changing back to an old nickname.
 You're now known as {0}.
 <size=36><b>Do you want to change your nickname?</b></size>You can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!
+If you spin the Photo Disc, you can get an AR mapping task and help collect AR mapping data for this location. You can also scan this PokéStop anytime from the PokéStop’s details screen.
+Collect AR Data
 A Colossal Discovery: Make a new friend
 A Colossal Discovery: Trade a Pokémon with a friend
 A Colossal Discovery: Win a Trainer Battle against another Trainer
@@ -1769,6 +2050,18 @@ You will never defeat Team GO Rocket.
 The Boss
 GO!
 Great League
+Don’t hate us ’cause you ain’t us.
+Don’t hate us ’cause you ain’t us.
+I’m actually really scared of heights.
+I’m actually really scared of heights.
+To be honest, I miss standing next to a PokéStop.
+To be honest, I miss standing next to a PokéStop.
+Flying a hot-air balloon is harder than it looks.
+Flying a hot-air balloon is harder than it looks.
+Have you seen any weirdos around lately? One with blue hair and one with magenta hair?
+Have you seen any weirdos around lately? One with blue hair and one with magenta hair?
+Jessie
+James
 Decoy Grunt
 Fooled ya, twerp.
 What, did you think finding the boss was going to be that easy?
@@ -1907,8 +2200,11 @@ TRAIN
 Ultra League
 USE THIS PARTY
 Community Day: Abra
+Community Day: Charmander
 Community Day
 Community Day: Gastly
+Community Day: Magikarp
+Community Day: Porygon
 Community Day: Seedot
 Community Day: Weedle
 {0} was effective.
@@ -1917,6 +2213,7 @@ Tap the item to use it.
 Congratulations, {0}!
 You can continue using your {0} until you win the battle!
 Use your {0}?
+Continue to Battle
 COPY MY TRAINER CODE
 Your Trainer Code has been copied!
 Event Pokémon hatching from Eggs
@@ -1947,14 +2244,15 @@ Tap Sources.
 Tap Pokémon GO.
 Tap Turn All Categories On.
 Missing Adventure Sync Permissions 
-3. Set "Allow Location Access" to "While Using the App"
+3. Set Allow Location Access to While Using the App
 1. Go to Settings > Apps > Pokémon GO.
 2. Tap Permissions.
 3. Set Location to on.
 Pokémon GO requires your location to find Pokémon and PokéStops near you. Please adjust your settings to allow location services.
 1. Go to Settings > Pokémon GO.
 2. Tap Location.
-3. Set "Allow Location Access" to Always.
+3. Set Allow Location Access to Always.
+4. Set Precise Location to On.
 Missing Location Permissions
 Collect now!
 Trainer has {0} Pokémon assigned.
@@ -2200,6 +2498,7 @@ Ultra Moon Tank
 Battle Girl Shoes
 Ultra Moon Sandals
 Facebook
+Favorite
 Please use a Facebook account that has an email address attached to it.
 Unable to authenticate. Please try again.
 Add Facebook Friends
@@ -2216,6 +2515,8 @@ Suggestions for You
 +{0} XP
 Event-themed Field Research
 Thank you for field-testing Pokémon GO!We will be back soon!
+See More
+See Less
 giftable
 interactable
 lucky
@@ -2250,6 +2551,21 @@ shiny
 special
 traded
 year
+0 Stars
+1 Star
+2 Stars
+3 Stars
+Perfect
+Event
+Can Evolve
+Hatched
+Legendary
+Lucky
+Mythical
+Purified
+Shadow
+Shiny
+Traded
 Maybe later
 Yes, camera on!
 Try it out. You can turn it off with the AR button anytime.
@@ -2295,6 +2611,7 @@ EGGS
 REWARDS
 Receive up to five Raid Passes at no cost by spinning Photo Discs at Gyms
 Raid Day box with Remote Raid Passes available in the shop
+Flying Cup available in the GO Battle League
 Altered Forme
 Attack
 Autumn Form
@@ -2346,6 +2663,7 @@ A Raid Pass can be used to join a Raid Battle. You can get a pass at no cost onc
 Your Item Bag is full. You'll need to make room to hold a Raid Pass.
 {0} caught {1}!
 Trainer Code
+Increased Attack bonus from friends in raids
 {0} ({1})
 You and {0} are now friends!
 {0} sent you a Friend Request!
@@ -2357,6 +2675,7 @@ friends
 You and {0} are now friends!
 You declined this Friend Request.
 Friend Request Deleted
+FRIEND SCORES
 Trainer Nickname
 {0} sent you a Gift!
 friend
@@ -2413,9 +2732,13 @@ You can’t sort friends by online status if you haven’t opted in to Niantic O
 You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
 Galarian Form
+2× Stardust for completing a battle set in the GO Battle League
+2× Stardust for ranking up in the GO Battle League
+2× Stardust rewards in the GO Battle League
 The GO Battle League is down for maintenance
 The GO Battle League will be down for maintenance in {0} minute(s)
 Marill featured in GO Battle League reward encounters
+Pidgey featured in GO Battle League reward encounters
 3 extra sets of battles in the GO Battle League
 20 total sets of battles in the GO Battle League
 No walking requirement for the GO Battle League
@@ -2425,8 +2748,8 @@ Female
 Male
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Ticket: GO Fest 2020
-A ticket to access A Hairy Situation, the Special Research for Weedle Community Day, on June 20, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE THE BONUS.
-Ticket: A Hairy Situation
+A ticket to access the Decoding Porygon Special Research story on September 20, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Decoding Porygon Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
 Ticket: GO Fest 2020
@@ -2471,8 +2794,13 @@ XS
 Yes
 Special bonuses
 Your account has been suspended for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
+Scan {0}
 Get directions
 Could not retrieve your privacy settings.
+Post photos with #PokemonGOFest2020, and we’ll share our favorites!
+Join the global event and check out live content here: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
+Check out live content: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
+Welcome to Pokémon GO Fest!
 Greetings from
 Open a Sponsored Gift!
 Open 2× as many Gifts
@@ -2514,9 +2842,187 @@ As expected, Team GO Rocket cannot be stopped.
 You cannot stop my master plan.
 Do not try to interfere again.
 You failed as soon as you challenged me, Trainer.
+Global Challenge Arena
+Hey there, %PLAYERNAME%. As you know, I do a lot of research. There are just so many Pokémon to learn about and document!
+Recently, I’ve been investigating Ralts, the Feeling Pokémon, to learn more about how this Pokémon senses people’s emotions by using the horns on its head.
+It’s an amazing ability, don’t you think?
+I thought studying this Pokémon’s unique sensing powers could help me identify the strange feeling that’s been stirring inside me these past few weeks.
+I’ve realized, though, that this isn’t any ordinary emotion—it’s a type of energy!
+This mysterious energy is filling me with hope and determination. I feel like I could take on any challenge and be victorious!
+I would appreciate your assistance in collecting more information on this strange and fascinating phenomenon.
+Thanks for completing the research we needed to get started, %PLAYERNAME%.
+While you were catching Pokémon and visiting PokéStops, I started digging through my research and found references to a phenomenon that seems to have a lot in common with what I’ve been experiencing.
+The reports refer to a Mythical Pokémon that shares the infinite energy it creates with others to guarantee victory.
+The reports also state that this Pokémon is Psychic- and Fire-type. What an amazing combination!
+To get closer to confirming the source of the energy, let’s focus our efforts on catching Pokémon that share those same types.
+Wonderful work, %PLAYERNAME%.
+Thanks to your efforts researching Psychic- and Fire-type Pokémon, we’re well on our way to confirming the source of this mysterious energy.
+There’s many a mystery surrounding our path forward, so I’ll keep poring over our research notes. In the meantime, I’d like you to work on becoming better friends with your Pokémon.
+As a Trainer, strengthening the bond between you and your Pokémon is an important task that requires a specific set of skills.
+To further develop those skills, why don’t you try spending time with your buddy?
+Successful partnerships take work and dedication, and talented Trainers build lifelong friendships with their Pokémon.
+That being said, be sure to spend time with your buddy every day!
+You have a wonderful bond with your buddy, Trainer! It’s been a treat watching that friendship bloom. Now, though, it’s time to focus our efforts on the matter at hand!
+After further examination of the research you completed, I’m convinced that the Pokémon we’re looking for is Victini, the Victory Pokémon.
+Not only would this be consistent with the references to a Psychic- and Fire-type Pokémon, but it would also explain the mysterious surge of energy I’ve been experiencing.
+It’s time for you to befriend Victini. Since this Pokémon represents victory, I think winning a few battles might inspire it to come forward!
+I’ve been hearing reports that Team GO Rocket is causing trouble. Battling these troublemakers just might show this Pokémon you’re worthy of attention!
+Let’s see whether some victory will attract the Victory Pokémon!
+Absolutely astounding, %PLAYERNAME%! I knew you’d be able to display your powerful bonds and battle prowess to impress the Mythical Pokémon Victini.
+It shares the infinite energy it creates when its body overflows with power, so I’m absolutely certain now that the energy I was feeling was coming directly from Victini!
+Be sure to use this power wisely, %PLAYERNAME%, as you and Victini take on new challenges. But for now, your hard work calls for a celebration!
+Why don’t you take a few snapshots with Victini and share your success with fellow Trainers by sending them some Gifts?
+Once again, you have helped me uncover a huge discovery. I cannot thank you enough for your time and dedication.
+The world of Pokémon is filled with endless discoveries, and it isn’t every day we come across a Mythical Pokémon!
+I hope that you will take the lessons we learned together through this investigation and apply them to your training.
+I’m proud of you, %PLAYERNAME%, and hope you continue to strive to be your very best. Until next time, let’s GO!
+The Feeling of Victory
+The Feeling of Victory (1/6)
+The Feeling of Victory (2/6)
+The Feeling of Victory (3/6)
+The Feeling of Victory (4/6)
+The Feeling of Victory (5/6)
+The Feeling of Victory (6/6)
 Pokémon GO Anniversary
 GO Fest
 Manage Pokémon
+GO Fest Battle Challenge
+GO Fest Battle Challenge (1/3)
+GO Fest Battle Challenge (2/3)
+GO Fest Battle Challenge (3/3)
+GO Fest Elite Battle Challenge
+GO Fest Elite Battle Challenge (1/1)
+GO Fest Friendship Challenge
+GO Fest Friendship Challenge (1/3)
+GO Fest Friendship Challenge (2/3)
+GO Fest Friendship Challenge (3/3)
+GO Fest Elite Friendship Challenge
+GO Fest Elite Friendship Challenge (1/1)
+GO Fest Skill Challenge
+GO Fest Skill Challenge (1/3)
+GO Fest Skill Challenge (2/3)
+GO Fest Skill Challenge (3/3)
+GO Fest Elite Skill Challenge
+GO Fest Elite Skill Challenge (1/1)
+Welcome to Pokémon GO Fest 2020, %PLAYERNAME%! GO Fest this year is a little bit different from previous years, but it’ll be just as fun—and challenging!
+I’ve noticed an amazing phenomenon—it seems as though different Pokémon are appearing in the area on what seems an hourly basis. I need your help collecting data on this situation.
+We’ll have another fun-filled day tomorrow. For now, I’m going to start looking into this situation. Perhaps it’s related to a powerful Pokémon.
+Now, %PLAYERNAME%, I’m sure you know what I’m going to say next.
+Let’s GO!
+I thought it would be fun to give you some tasks to help you research this phenomenon. I’ll make sure you get a reward for your hard work!
+Don’t delay—since different Pokémon seem to be appearing each hour, you have limited time to complete these tasks! You can see Trainers’ progress by checking the Global Challenge Arena.
+To help with your research, be sure to use Incense to attract Pokémon.
+Remember, you can now activate several Incense at once and have them attract Pokémon to you for hours! Incense smells amazing, doesn’t it?
+It brings a smile to my face knowing that millions of Trainers around the world are working together right now because of their shared love of Pokémon.
+Furthermore, I’ve been sensing a great energy that has filled me with hope and determination. Have you been feeling it as well?
+I wonder whether it’s connected to the strange happenings that kicked off our research this weekend.
+I have a feeling today’s just the beginning of an exciting adventure!
+GO Fest 2020: Welcome!
+GO Fest 2020: Welcome! (1/1)
+%PLAYERNAME%, by the look on your face, I’m sure you’ve grasped the situation.
+Team GO Rocket confetti is raining down from the sky. Grunts are invading PokéStops all around the world. And...Team GO Rocket has taken over Pokémon GO Fest.
+We thought we put a stop to them when we ended their take-over during our research leading up to GO Fest.
+But that take-over appears to have been only part of a larger plan. We have yet to determine Team GO Rocket’s ultimate goal, though. Regardless of what it is, %PLAYERNAME%...you must prepare yourself.
+I’m impressed by your energy and that of your fellow Trainers around the world! If we work together, I know victory is within our reach!
+Great work, %PLAYERNAME%. Your Pokémon are ready for battle, and I bet your fellow Trainers are thankful for the supplies you’ve sent their way. We’ll need to work together to keep Team GO Rocket at bay and save Pokémon GO Fest!
+Oh, what’s this? Looks like the snapshots you took feature some unwelcome guests! It’s amazing that Team GO Rocket can organize these massive take-overs, but its members do seem a little silly.
+Or maybe these photobombs are actually all a part of their scheme? Anyway, why don’t you put all your training to use? In the meantime, I’ll do some more investigating with the team leaders.
+Thanks to your hard work, you’ve caught a Golem!
+The team leaders and I have been scoping out the Team GO Rocket balloons and have discovered that the Team GO Rocket Leaders are using Flying-type Pokémon.
+Sources told me that Team GO Rocket might’ve captured some Legendary Pokémon and turned them into Shadow Pokémon, too!
+If I recall correctly, the team leaders saw one of these balloons at GO Fest last year—and another during the Team GO Rocket take-over a few weeks ago.
+I wouldn’t have imagined that Team GO Rocket would spend resources on such an...interesting means of transportation. However, it’s clear that the boss has put a lot of effort into providing his Grunts with balloons.
+Your Golem might be a helpful addition to your battle party, since Flying types are weak to Rock-type attacks! %PLAYERNAME%, it’s time to rock Team GO Rocket’s world and save those Legendary Shadow Pokémon!
+Great job defeating Sierra, Cliff, and Arlo. Now all that’s left is their boss, Giovanni. %PLAYERNAME%, are you ready?
+Spark, Blanche, and Candela can handle the Team GO Rocket Leaders while you prepare to face the boss. It’s interesting that the Team GO Rocket Leaders are commanding these Legendary Shadow Pokémon, which are usually reserved for the boss himself.
+Perhaps we’ll learn what this means as we uncover Team GO Rocket’s devious plans and discover what Pokémon Giovanni now has under his control.
+On the bright side, I received an encouraging message from the team leaders about a mysterious phenomenon. Remember that powerful energy I detected yesterday?
+The team leaders reported that Trainers worldwide suddenly felt a similar energy that filled them with hope and determination. Through my research, I found references to that very same energy.
+They document a Mythical Pokémon that shares its infinite energy with others and guarantees a winning battle. I have a feeling that’s why Team GO Rocket is here.
+Perhaps Team GO Rocket hopes to further its dastardly plans by using this powerful Pokémon?
+I hear Giovanni often begins his battles with his Buddy Pokémon, Persian, which is weak to Fighting-type attacks. The Machamp you caught earlier might help you here.
+Good luck, %PLAYERNAME%. The fate of Pokémon GO Fest is in your hands.
+%PLAYERNAME%, you did it! You defeated Giovanni and sent him packing! Who would’ve thought that he could turn even Mewtwo into a Shadow Pokémon? That alone is a mystery we need to investigate.
+It was a tough battle, and the fact that you defeated Mewtwo proves what an amazing Trainer you are.
+Spark, Blanche, and Candela were victorious against the Team GO Rocket Leaders and drove them away, too.
+Thanks to everyone’s efforts, we’ve saved Pokémon GO Fest! It’s time to celebrate!
+Turns out, Team GO Rocket was after Victini, the Victory Pokémon! Some say this Pokémon brings victory to its Trainer, regardless of the contest.
+I’m now sure that the energy we were all feeling was thanks to Victini. I’m in utter awe of your tenacity and determination. Pokémon GO Fest was saved because of your hard work. Thank you, %PLAYERNAME%.
+Phew! Now, I think we should get back to having fun. There’s still time to enjoy the festivities!
+While this year’s GO Fest was quite a bit different from previous ones, I’m overjoyed that Trainers all over the world could still come together to celebrate—and protect—our beloved Pokémon.
+Even when we’re apart, we’re still united by our love of Pokémon. No matter what obstacles appear in your path, you can always count on your Pokémon and your fellow Trainers.
+I know we’ll all meet again under the same sky someday, so until then...let’s GO!
+GO Fest 2020: Rocket Straight to Victory
+GO Fest 2020: Rocket Straight to Victory (1/6)
+GO Fest 2020: Rocket Straight to Victory (2/6)
+GO Fest 2020: Rocket Straight to Victory (3/6)
+GO Fest 2020: Rocket Straight to Victory (4/6)
+GO Fest 2020: Rocket Straight to Victory (5/6)
+GO Fest 2020: Rocket Straight to Victory (6/6)
+Take a snapshot of Victini
+We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
+Your festival is in the hands of Team GO Rocket now. You cannot defeat us.
+I’ll defeat you quickly so I can return to the take-over festivities.
+I was supposed to win! Everything went perfectly for our take-over!
+This take-over was supposed to be my biggest event of the year. How dare you humiliate me like this!
+This confetti now just reminds me of my failure. This won’t be the last you see of me...
+Today, this event. Tomorrow, the world!
+Now that we’ve taken over your little celebration, I bet Candela is worried. Good.
+Seeing this confetti rain down and all my hard work pay off... It reignites my passion to defeat you!
+Look at me—I want to take a picture of this moment so I can revel in your disappointment later.
+If only Candela could see me now. We’ve taken over your celebration, and now I’ve defeated you!
+Isn’t this confetti beautiful?
+I bet the boss is so proud of us for taking over this event! Don’t take this from us—I need this.
+We’ve already taken over this event—now it’s time for the muscle to take you down!
+Let’s finish this quick so I can join the other leaders and celebrate the take-over!
+NO! We can’t lose our Team GO Rocket festival—we’ve come so far!
+What just happened? Are we going to lose the event?
+I can’t believe I failed the team.
+Enjoying your little festival? Well, it’s a Team GO Rocket festival now!
+Hahaha! I’m in a good mood today. This event is ours!
+Team GO Rocket has come so far. We’ve finally taken over your big celebration!
+Hahaha, what a great battle! Happy Team GO Rocket festival! Time to celebrate with my Grunts!
+First we take over this big event, and now I win a battle? Best day ever!
+Winning a battle is a great feeling. It’s even better after a take-over!
+I do not think you are prepared for the level of failure you are about to experience!
+You should be afraid to battle me, especially since you are already too late to stop my take-over!
+You will regret trying to put a dent in my perfectly executed take-over. Your Pokémon will be mine!
+This is not the end. I will have my revenge.
+This festival will be mine one day. You will see—this is not over.
+You have only delayed the inevitable. I will win.
+I’m surprised you’ve been this successful, considering the foolish guidance your pathetic professor has given you.
+I’m impressed that you got by my leaders, Trainer, but nothing will prepare you for my Shadow Pokémon!
+At first, I was impressed by your dedication, but now you’ve become a nuisance. This festival is mine.
+I hope you now understand how foolish challenging me was. You will never stop Team GO Rocket.
+My incredible plan is going swimmingly. Move aside—this event is mine.
+As expected. Run back to your professor—you still have much training to do.
+Sure glad I got over that fear of heights... Oh, wait... What?
+I’ve always wanted to see this event from the air! What a view!
+Where do you think the boss got all these balloons?
+Talk about getting the high ground! Eh? Eh?
+I know I talked about moving up in the organization...but I didn’t think that would mean flying in a balloon...
+Do you think there are any of those Pikachu visors left? I’d like to get one as a souvenir of the take-over.
+Caw, caw... Worst event ever...
+Get in a balloon, they said. It’ll be fun, they said. This is the worst event ever...
+This confetti just makes me sad now. Worst event ever.
+Caw, CAW! We’ve already taken the skies, and now we’ve taken your precious event, too!
+Team GO Rocket’s balloon squad, reporting for duty! We’ve taken over this festival!
+Wow! The confetti looks great from up here!
+Today, this celebration. Tomorrow, the world!
+I know you hate to see us take over your festival but love to watch us fly away.
+Can’t wait to fly around in my handy-dandy hot-air balloon and defeat other event attendees!
+I didn’t even need to be here for this take-over. Just to make it worth my time, let’s battle.
+I know I’ll be disappointed in your battling, so let’s just get this over with.
+Might as well pass the time with a battle, considering your little event is ruined.
+This must be a mistake. Failure isn’t an option.
+You must have some kind of special power on your side that made you win. That’s the only explanation...
+I can’t believe I lost to such an unworthy opponent! You’ll pay for disrupting our plans!
+It’s almost silly that I’m here, considering we already took over this event.
+Aww, you think the confetti is for you... Sorry, darling, it’s for our flawless victory.
+You’ve already had your fun. This year, your little festival is ours!
+Oh surprise, surprise—I won. I wouldn’t expect anything less.
+See? Wasn’t that a silly waste of time? This celebration is ours!
+I’m sorry, darling—you lost. I’m afraid I can’t relate. I don’t know what losing feels like.
 GO Fest Global: Evolve {0} Pokémon
 GO Fest Global: Hatch an Egg
 GO Fest Global: Make {0} Great Curveball Throws in a row
@@ -2524,6 +3030,72 @@ GO Fest Global: Win a raid
 GO Fest Global: Win {0} Gym battles
 Unable to authenticate. Please try again.
 Google
+I’m sure to win—I have the element of surprise on my side!
+I’m sure to win—I have the element of surprise on my side!
+This will be over faster than the wind can blow!
+This will be over faster than the wind can blow!
+I was tired of waiting for Trainers to come battle me, so now I’ve come to you!
+I was tired of waiting for Trainers to come battle me, so now I’ve come to you!
+Can’t wait to cross “win a battle in the air” off my bucket list!
+Can’t wait to cross “win a battle in the air” off my bucket list!
+I came all this way to fight you, so you can bet I’m not going to lose!
+I came all this way to fight you, so you can bet I’m not going to lose!
+I should’ve stayed on the ground...
+I should’ve stayed on the ground...
+I knew I wasn’t cut out for balloon duty.
+I knew I wasn’t cut out for balloon duty.
+Nooooooooooo!
+Nooooooooooo!
+But...I came all the way here in a balloon and everything...
+But...I came all the way here in a balloon and everything...
+Get in a balloon, they said. It’ll be fun, they said...
+Get in a balloon, they said. It’ll be fun, they said...
+Sweet ride, huh? Jealous?
+Sweet ride, huh? Jealous?
+Didn’t expect me to come out of the sky, now did you!
+Didn’t expect me to come out of the sky, now did you!
+Caw, CAW! I’ve descended from the skies to come get your Pokémon!
+Caw, CAW! I’ve descended from the skies to come get your Pokémon!
+Talk about an epic entrance, right?
+Talk about an epic entrance, right?
+Team GO Rocket’s balloon squad, reporting for duty!
+Team GO Rocket’s balloon squad, reporting for duty!
+Caw, CAW! You’ve been defeated by the sovereign of the skies!
+Caw, CAW! You’ve been defeated by the sovereign of the skies!
+I know you hate to see me win but love to watch me fly away.
+I know you hate to see me win but love to watch me fly away.
+It’s not every day you get beat by a Grunt in a balloon, right?
+It’s not every day you get beat by a Grunt in a balloon, right?
+Today, Team GO Rocket rules the skies. Tomorrow, the world!
+Today, Team GO Rocket rules the skies. Tomorrow, the world!
+I bet you wish you had a hot-air balloon, huh?
+I bet you wish you had a hot-air balloon, huh?
+To denounce the evils of truth and love!
+Hey, do you want to join Team Rocket?
+The Boss’s Persian is so elegant...
+Who are these Team GO Rocket Leaders, anyway?
+You’re just a Twerp. Why are you so strong?
+Hmph! How infuriating! Don’t let it go to your head just because your Pokémon were a teeny-tiny bit stronger!
+We’re blasting off again!
+I only lost because I’m using these borrowed Pokémon! You’re no match for Team Rocket!
+To protect the world from devastation!
+Looks like I’ve just denounced the evils of truth and love!
+Can’t wait for the Boss to hear about this!
+Team GO Rocket’s first take-over would’ve been much more successful if only we’d been invited!
+To extend our reach to the stars above!
+Hey, would you like to join Team Rocket?
+You’ll regret this!
+Surrender now, or prepare to fight!
+We got beat by a Twerp?!
+But I was so confident this time!
+Even if you did defeat us in battle, we’re still bigger and stronger than you!
+We’re blasting off again!
+Argh! I despise Twerps!
+I should have known I couldn’t win with borrowed Pokémon...
+To unite all people within our nation!
+Looks like our reach has extended to the stars above!
+I hope the Boss will be proud of me!
+If only the Boss had sent us here the first time around!
 Forget it. Who needs your Pokémon!
 Forget it. Who needs your Pokémon!
 I hate losing! Get out of my face!
@@ -2593,8 +3165,8 @@ I can’t do it!
 I can’t do it!
 Go wherever you like! Get lost! See if I care!
 Go wherever you like! Get lost! See if I care!
-*cough cough* It’s only ’cause I’m coming down with a cold!
-*cough cough* It’s only ’cause I’m coming down with a cold!
+Gaaah!
+Gaaah!
 I failed in my duties... I’ll be docked pay for this...
 I failed in my duties... I’ll be docked pay for this...
 I blew it!
@@ -2840,6 +3412,7 @@ Uncategorized
 PokéCoins
 Team Change
 Upgrades
+This item can no longer be purchased.
 Incense Day
 Carvanha attracted by Incense
 Sentret lured by Incense
@@ -2924,6 +3497,7 @@ We have to find more. Time to battle some Grunts!
 Hey... That Grunt dropped something. What does this thing do?
 This looks like a piece of something right out of Willow’s lab!
 I bet this will help with that prototype he’s developing... Let’s see if we can find more.
+Your Pokémon storage is full, so you will not be able to encounter a Shadow Pokémon. To make room, you can transfer Pokémon to Professor Willow or upgrade your Pokémon storage in the shop.
 If my analysis is correct, we can help this Pokémon through a process known as purification. This will enable it to harness its strength. Shall we give it a try?
 I think we can help this Pokémon. Purification is a process that makes certain Pokémon stronger by tapping into their inner power. Let’s give it a try.
 It looks like we can help this Pokémon become stronger through a process called purification. Let’s try it!
@@ -2931,6 +3505,8 @@ It looks like we can help this Pokémon become stronger through a process called
 Oh! I remember Professor Willow talking about a process called purification! He said that it could help certain Pokémon become more powerful. Let’s give it a shot!
 Egg
 Collect more Eggs!
+You cannot invite friends to Raid Battles against certain Legendary, regional, or event Pokémon.
+Cannot Invite Friends to This Raid
 Invite
 Pokémon GO needs your activity data to help hatch Pokémon Eggs, help your Pokémon find Candies, and display total distance walked.
 Turn on background location to earn Candy, hatch Pokémon Eggs, and earn rewards, even when you aren’t using Pokémon GO.
@@ -2945,6 +3521,9 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
+A ticket to access a Special Research story on September 20, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate on September 20, 2020, at 11:00 a.m. in your local time.
+Ticket
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
 A box that you can send to a friend. Contains a variety of useful items.
@@ -3034,6 +3613,8 @@ A device to capture photos of Pokémon. Photos can be shared with others.
 Camera
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
 Star Piece
+Stickers don’t take up space in your Item Bag. You can carry only a certain number of each sticker.
+Stickers
 A peculiar stone that can make certain species of Pokémon evolve. It burns as red as the evening sun.
 Sun Stone
 A spray-type medicine that restores the HP of one Pokémon by {1} points.
@@ -3090,6 +3671,9 @@ Rocket Radar
 This party has a Pokémon that can’t be used in this cup.
 This Pokémon can’t be used in this cup.
 These Pokémon aren’t allowed in this cup.
+This cup is limited to Pokémon caught after {0}.
+This cup is limited to Pokémon caught before {0}.
+This cup is limited to Pokémon caught after {0} and before {1}.
 Cup Rules
 This cup is limited to Pokémon of the following types: {0}. All Pokémon on the team must be at least one of these types.
 Only these Pokémon can be used in this cup.
@@ -3209,7 +3793,25 @@ Premier Cup
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
-Built at 2020-07-07T11:56:21.464521at SHA a275c232b402b472120154bc4556f55b338373a2Pipeline 430593, job 3478791
+Mega Battle Challenge
+Mega Buddy Challenge
+3× Mega Evolution duration
+Mega Energy
+You have reached the maximum amount of Mega Energy.
+You can collect up to {0} Mega Energy.
+You can collect 1 Mega Energy.
+You received only {0} Mega Energy from this raid because you have reached the maximum of {1}.
+You received only 1 Mega Energy from this raid because you have reached the maximum of {0}.
+{0} has entered the battle!
+CP {0} → <color=#2ECDA8>{1}</color>
+Mega Evolution
+MEGA EVOLVE
+Mega-Evolved Pokémon cannot be assigned to defend Gyms.
+Mega Raid Challenge
+Increased number of Mega Raids
+Speed
+{0}-type attacks are now boosted!
+Built at 2020-10-11T23:11:13.239048at SHA c54dec19c17d5b0f2da99c38e87ac078ced78478Pipeline 487318, job 4141883
 m
 {0}M {1}S
 Turn on Niantic AR to use Reality Blending.
@@ -3502,6 +4104,10 @@ Payback
 Rock Wrecker
 Aeroblast
 Fly
+V-create
+Tri Attack
+Gust
+Incinerate
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -3521,6 +4127,7 @@ Minccino Research: Battle in a raid
 Minccino Research: Defeat a Team GO Rocket Grunt
 Minccino Research: Spin {0} PokéStops
 Minccino Research: Use a supereffective Charged Attack in a Gym battle
+MY SCORE
 Clear
 Find these Pokémon in the wild!
 Sightings
@@ -3549,6 +4156,8 @@ Privacy Settings
 Niantic Social has arrived! With this new social feature, you can now do the following.
 Set Nickname
 No limit
+Tell your friends to join you in the Pokémon GO Fest 2020 global challenges!
+View Friend List
 No news.
 No notifications.
 Earn PokéCoins by placing your Pokémon in Gyms!
@@ -3557,6 +4166,7 @@ Unable to sign in. Please check that this Pokémon GO account exists and you hav
 n/a
 Not very effective...
 Now
+NOW PLAYING THIS CHALLENGE:
 Allows pairing to devices, including peripherals and consoles.
 Reality Blending enabled
 Reality Blending is not supported in landscape mode
@@ -3627,6 +4237,8 @@ Enable Poké Ball Plus
 You have no more room in your party.
 Received medal from code {0}.
 Received {0} items from code {1}.
+Code Redeemed
+SEE RESEARCH
 There was an error redeeming the code.
 The request to redeem the code timed out. Check your network settings and try again.
 Enabling Bluetooth...
@@ -3674,9 +4286,13 @@ Next
 Pokémon GO Plus unpaired.
 Weak signal. Get closer to the device.
 5 surprise encounters with Abra in GO Snapshot
+5 surprise encounters with Charmander in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
+5 surprise encounters with Magikarp in GO Snapshot
+5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
+Event-themed surprise encounters in GO Snapshot
 Welcome to Team Mystic!
 Welcome to Team Valor!
 Welcome to Team Instinct!
@@ -3700,6 +4316,7 @@ Feed this special treat to your buddy, and it’ll happily join you on the map f
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
 5 Poffins
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
+2× Poffin duration
 Poffin
 LEARN MORE
 CANCEL
@@ -3896,11 +4513,16 @@ Type:
 ---
 Weight:
 ???
+All: {0}
+Mega: {0}
+All
+Mega
 Not Encountered
 All
 Caught:
 ???
 Seen:
+Registered to Mega Pokédex
 Registered to Pokédex
 Name
 Recent
@@ -5249,6 +5871,56 @@ Revered long ago for its capacity to create iron from nothing, for some reason i
 Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.
 What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
 Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
+In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
+The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
+Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
+The cannon on its back is as powerful as a tank gun. Its tough legs and back enable it to withstand the recoil from firing the cannon.
+Its legs have become poison stingers. It stabs its prey repeatedly with the stingers on its limbs, dealing the final blow with the stinger on its rear.
+With its muscular strength now greatly increased, it can fly continuously for two weeks without resting.
+Having traded away its muscles, Alakazam's true power has been unleashed. With its psychic powers, it can foresee all things.
+Having been swallowed whole by Shellder, Slowbro now has an iron defense. It's pretty comfortable in there, too.
+Mega Evolution has made it possible for Gengar to access other dimensions. Its entire body is brimming with strange power.
+When the mother sees the back of her Mega-Evolved child, it makes her think of the day when her child will inevitably leave her.
+After Mega Evolution, it becomes able to fly. Perhaps because it's so happy, it rarely touches the ground.
+It zooms out of the water at Mach speeds. Even large ships caught in its path are split cleanly in two!
+Mega Evolution awakened some dormant genes, bringing back the sharp rocks that once covered Aerodactyl's entire body.
+Psychic power has augmented its muscles. It has a grip strength of one ton and can sprint a hundred meters in two seconds flat!
+Despite its diminished size, its mental power has grown phenomenally. With a mere thought, it can smash a skyscraper to smithereens.
+Massive amounts of energy intensely stimulated Ampharos's cells, apparently awakening its long-sleeping dragon's blood.
+Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.
+It stores the excess energy from Mega Evolution, so after a long time passes, its body starts to melt.
+It can grip things with its two horns and lift 500 times its own body weight.
+Houndoom's entire body generates heat when it Mega Evolves. Its fearsome fiery breath turns its opponents to ash.
+The effects of Mega Evolution make it more ferocious than ever. It's unclear whether it can even hear its Trainer's orders.
+The leaves growing on Sceptile's body are very sharp edged. This Pokémon is very agile—it leaps all over the branches of trees and jumps on its foe from above or behind.
+In battle, Blaziken blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn.
+Swampert is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water.
+Gardevoir has the ability to read the future. If it senses impending danger to its Trainer, this Pokémon is said to unleash its psychokinetic energy at full power.
+It blocks any and all attacks with its giant-sized gemstone. However, the stone's a heavy burden, and it limits Mega Sableye's movements.
+Its two sets of jaws thrash about violently as if they each had a will of their own. One gnash from them can turn a boulder to dust.
+Aggron claims an entire mountain as its own territory. It mercilessly beats up anything that violates its environment. This Pokémon vigilantly patrols its territory at all times.
+It is said that through meditation, Medicham heightens energy inside its body and sharpens its sixth sense. This Pokémon hides its presence by merging itself with fields and mountains.
+Too much electricity has built up in its body, irritating Manectric. Its explosive speed is equal to that of a lightning bolt.
+The moment it charges into its opponent, sharp spikes pop out of Sharpedo's head, leaving its opponent with deep wounds.
+Camerupt has a volcano inside its body. Magma of 18,000 degrees Fahrenheit courses through its body. Occasionally, the humps on this Pokémon's back erupt, spewing the superheated magma.
+Altaria dances and wheels through the sky among billowing, cotton-like clouds. By singing melodies in its crystal-clear voice, this Pokémon makes its listeners experience dreamy wonderment.
+Mega Evolution increases its vindictiveness, and the cursing power that was held back by its zipper comes spilling out.
+Normally, it dislikes fighting, so it really hates changing to this form for battles.
+When it spews stupendously cold air from its broken mouth, the entire area around it gets whited out.
+It puts its forelegs inside its shell to streamline itself for flight. Salamence flies at high speeds over all kinds of topographical features.
+Its intellect surpasses its previous level, resulting in battles so cruel, they'll make you want to cover your eyes.
+Latias is highly sensitive to the emotions of people. If it senses any hostility, this Pokémon ruffles the feathers all over its body and cries shrilly to intimidate the foe.
+Latios has the ability to make others see an image of what it has seen or imagines in its head. This Pokémon is intelligent and understands human speech.
+Through Primal Reversion and with nature's full power, it will take back its true form. It can summon storms that cause the sea levels to rise.
+Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.
+Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.
+Mega Evolution awakens its combative instincts. It has shed any fur that got in the way of its attacks.
+Its arms and wings melted into something like scythes. Mad with rage, it rampages on and on.
+Its aura has expanded due to Mega Evolution. Governed only by its combative instincts, it strikes enemies without mercy.
+It blankets wide areas in snow by whipping up blizzards. It is also known as "The Ice Monster."
+Because it can sense what its foe is thinking, its attacks burst out first, fast, and fierce.
+Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch.
+A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.
 Tap to evolve!
 Failed to add Pokémon to your favorites.
 {0} needs a treat!
@@ -5262,7 +5934,7 @@ CP
 Do you want to evolve {0}?
 Evolution Shards
 Collect {0} more!
-Couldn't evolve {0} due to an unknown error.
+Couldn’t evolve {0} due to an unknown error.
 Walk with your buddy {0} to evolve this Pokémon.
 /{0} km
 Evolve
@@ -5270,12 +5942,20 @@ Walk {0} more km with this buddy.
 Need more {0} Candies.
 Need a special item.
 {0} is needed to evolve.
+Finish a challenge with this buddy
 Need more Stardust.
 {0} is assigned to a Gym.
+Adventure together to evolve
 GO TO GYM
 HATCHED
 Heal
 Height
+Do you want to Mega Evolve {0}?
+Your {0} will no longer be Mega Evolved.
+Only one Pokémon may be Mega Evolved at a time.
+Mega Evolution lasts for {0} hours.
+Need more {0} Mega Energy
+{0} Mega Energy
 You can't select Event Pokémon.
 Your selection contains Event Pokémon! Are you sure you want to transfer the selected Pokémon?
 You can't select Legendary Pokémon.
@@ -5303,6 +5983,7 @@ Stardust
 TRADE
 Couldn't transfer {0} due to an unknown error.
 Cannot transfer a favorite Pokémon!
+You cannot transfer a Mega-Evolved Pokémon.
 You cannot select your buddy!
 You can’t transfer your buddy!
 Transfer
@@ -5321,21 +6002,27 @@ Do you really want to transfer this Mythical Pokémon?
 Bulbasaur
 Ivysaur
 Venusaur
+Mega Venusaur
 Charmander
 Charmeleon
 Charizard
+Mega Charizard X
+Mega Charizard Y
 Squirtle
 Wartortle
 Blastoise
+Mega Blastoise
 Caterpie
 Metapod
 Butterfree
 Weedle
 Kakuna
 Beedrill
+Mega Beedrill
 Pidgey
 Pidgeotto
 Pidgeot
+Mega Pidgeot
 Rattata
 Raticate
 Spearow
@@ -5383,6 +6070,7 @@ Poliwrath
 Abra
 Kadabra
 Alakazam
+Mega Alakazam
 Machop
 Machoke
 Machamp
@@ -5398,6 +6086,7 @@ Ponyta
 Rapidash
 Slowpoke
 Slowbro
+Mega Slowbro
 Magnemite
 Magneton
 Farfetch'd
@@ -5412,6 +6101,7 @@ Cloyster
 Gastly
 Haunter
 Gengar
+Mega Gengar
 Onix
 Drowzee
 Hypno
@@ -5433,6 +6123,7 @@ Rhydon
 Chansey
 Tangela
 Kangaskhan
+Mega Kangaskhan
 Horsea
 Seadra
 Goldeen
@@ -5445,9 +6136,11 @@ Jynx
 Electabuzz
 Magmar
 Pinsir
+Mega Pinsir
 Tauros
 Magikarp
 Gyarados
+Mega Gyarados
 Lapras
 Ditto
 Eevee
@@ -5460,6 +6153,7 @@ Omastar
 Kabuto
 Kabutops
 Aerodactyl
+Mega Aerodactyl
 Snorlax
 Articuno
 Zapdos
@@ -5468,6 +6162,8 @@ Dratini
 Dragonair
 Dragonite
 Mewtwo
+Mega Mewtwo X
+Mega Mewtwo Y
 Mew
 Chikorita
 Bayleef
@@ -5499,6 +6195,7 @@ Xatu
 Mareep
 Flaaffy
 Ampharos
+Mega Ampharos
 Bellossom
 Marill
 Azumarill
@@ -5526,12 +6223,15 @@ Forretress
 Dunsparce
 Gligar
 Steelix
+Mega Steelix
 Snubbull
 Granbull
 Qwilfish
 Scizor
+Mega Scizor
 Shuckle
 Heracross
+Mega Heracross
 Sneasel
 Teddiursa
 Ursaring
@@ -5547,6 +6247,7 @@ Mantine
 Skarmory
 Houndour
 Houndoom
+Mega Houndoom
 Kingdra
 Phanpy
 Donphan
@@ -5566,18 +6267,22 @@ Suicune
 Larvitar
 Pupitar
 Tyranitar
+Mega Tyranitar
 Lugia
 Ho-Oh
 Celebi
 Treecko
 Grovyle
 Sceptile
+Mega Sceptile
 Torchic
 Combusken
 Blaziken
+Mega Blaziken
 Mudkip
 Marshtomp
 Swampert
+Mega Swampert
 Poochyena
 Mightyena
 Zigzagoon
@@ -5600,6 +6305,7 @@ Pelipper
 Ralts
 Kirlia
 Gardevoir
+Mega Gardevoir
 Surskit
 Masquerain
 Shroomish
@@ -5620,14 +6326,19 @@ Nosepass
 Skitty
 Delcatty
 Sableye
+Mega Sableye
 Mawile
+Mega Mawile
 Aron
 Lairon
 Aggron
+Mega Aggron
 Meditite
 Medicham
+Mega Medicham
 Electrike
 Manectric
+Mega Manectric
 Plusle
 Minun
 Volbeat
@@ -5637,10 +6348,12 @@ Gulpin
 Swalot
 Carvanha
 Sharpedo
+Mega Sharpedo
 Wailmer
 Wailord
 Numel
 Camerupt
+Mega Camerupt
 Torkoal
 Spoink
 Grumpig
@@ -5652,6 +6365,7 @@ Cacnea
 Cacturne
 Swablu
 Altaria
+Mega Altaria
 Zangoose
 Seviper
 Lunatone
@@ -5672,14 +6386,17 @@ Castform
 Kecleon
 Shuppet
 Banette
+Mega Banette
 Duskull
 Dusclops
 Tropius
 Chimecho
 Absol
+Mega Absol
 Wynaut
 Snorunt
 Glalie
+Mega Glalie
 Spheal
 Sealeo
 Walrein
@@ -5691,17 +6408,24 @@ Luvdisc
 Bagon
 Shelgon
 Salamence
+Mega Salamence
 Beldum
 Metang
 Metagross
+Mega Metagross
 Regirock
 Regice
 Registeel
 Latias
+Mega Latias
 Latios
+Mega Latios
 Kyogre
+Primal Kyogre
 Groudon
+Primal Groudon
 Rayquaza
+Mega Rayquaza
 Jirachi
 Deoxys
 Turtwig
@@ -5746,6 +6470,7 @@ Drifloon
 Drifblim
 Buneary
 Lopunny
+Mega Lopunny
 Mismagius
 Honchkrow
 Glameow
@@ -5763,9 +6488,11 @@ Spiritomb
 Gible
 Gabite
 Garchomp
+Mega Garchomp
 Munchlax
 Riolu
 Lucario
+Mega Lucario
 Hippopotas
 Hippowdon
 Skorupi
@@ -5778,6 +6505,7 @@ Lumineon
 Mantyke
 Snover
 Abomasnow
+Mega Abomasnow
 Weavile
 Magnezone
 Lickilicky
@@ -5793,6 +6521,7 @@ Gliscor
 Mamoswine
 Porygon-Z
 Gallade
+Mega Gallade
 Probopass
 Dusknoir
 Froslass
@@ -5849,6 +6578,7 @@ Swoobat
 Drilbur
 Excadrill
 Audino
+Mega Audino
 Timburr
 Gurdurr
 Conkeldurr
@@ -5967,6 +6697,7 @@ Kyurem
 Keldeo
 Meloetta
 Genesect
+Mega Diancie
 Meltan
 Melmetal
 Obstagoon
@@ -5999,6 +6730,7 @@ Failed to remove Pokémon from your favorites.
 {0} has triumphed over your opponents!
 Increases the max number of Pokémon you can carry by {0}.
 Pokémon Storage
+Pokémon Type
 MY POKÉDEX
 NEARBY
 MANUAL INPUT
@@ -6030,7 +6762,7 @@ Privacy Policy
 Privacy
 Niantic Privacy Policy<br><br><br>Effective as of: June 18, 2018<br><br>We are Niantic. We provide real-world augmented reality platforms, designed to enable you to interact in shared worlds, seamlessly blended with the real world. To do that, we need information about you. Protecting your privacy is really important to us. We only use your information where we have a legal basis to do so. This Privacy Policy will help you understand what information we collect, how we use it and what choices you have when you play any of our games, use our websites, buy merchandise from us, or take part in live events and promotions (the "Services").<br><br>Please note that in additional to the general information below, specific information about how certain of our Services use your information is provided at the end of this Privacy Policy in the “Game Specific Disclosures”.<br><br>You should also read our Terms of Service which set out the contract between you and Niantic.<br><br>Who decides how your information is used?<br><br>Niantic, Inc., is the data controller responsible for making decisions about how we use your personal information. If you have any questions or comments on this policy, you can:<br><br>Email us at privacy@nianticlabs.com<br><br>Write to us at 1 Ferry Building Suite 200, San Francisco, CA 94111<br><br>Contact our Data Protection Officer at dpo@nianticlabs.com<br><br>The information we collect about you and how we use it<br><br>This Privacy Policy covers our use of any information that can or could be used to identify you ("Personal Data"). It does not cover information which cannot be used to identify you ("Anonymous Data").<br><br>We need to collect and use certain Personal Data to provide the Services to you and fulfil the promises we make to you in the Terms of Service:<br><br>When you sign up for our Services you give us Personal Data voluntarily by providing it to us, for example when you sign up for an account. We collect and use that information in order to authenticate you when you register an account and use the Services, to make sure you are eligible and able to receive the Services, and so that you receive the correct version of the Services. That information includes the in-game username you choose to use on our Services, and internal account IDs that we assign to your account.<br><br>You must have an account with a supported third party single sign-on service to use our Services. As such, the Personal Data we collect also depends on which third party accounts you choose to use, their privacy policy, and what your privacy settings with those services allow us to see when you use their services to access Niantic Services.<br><br>If you choose to link your Google account to the Services, we will collect your Google email address and an authentication token provided by Google.<br><br>If you choose to link your Facebook account to the Services, we will collect a unique user ID provided by Facebook and, if permitted by you, your Facebook registered email address.<br><br>Depending on the particular Service you sign up for, we may support other third party single sign-on services and collect additional Personal Data from them. For details please read the Game Specific Disclosures at the end of this Privacy Policy.<br><br>Some third-party providers may notify you that they make additional information, such as your public profile, available to us when you use their single sign-on services. We do not collect that information from them.<br><br>We collect and use your device location information as you use our Services, including how you move around and events that occur during gameplay. Our Services include location based games whose core feature is to provide a gameplay experience tied to your real world location, so we need to know where you are to operate these games for you, and to plan the location of in-game resources (for example PokéStops within Pokémon GO). We identify your location using a variety of technologies, including GPS, the WiFi points you are accessing the Service through and mobile/cell tower triangulation.<br><br>We also collect and use your in-game actions and achievements as well as certain information about your mobile device collected during gameplay (including device identifiers, device OS, model, settings and information about third party applications installed on your device), to operate the Services for you and to ensure that we provide a fair gaming experience to all players in accordance with our Terms of Service (which includes anti-fraud and anti-cheating measures).<br><br>We also use the information above to show in-game sponsored locations that are in your vicinity as part of the gameplay experience.<br><br>We further use the information above in order to provide technical and customer support to you.<br><br>You also give us Personal Data when you make a purchase through us, subscribe to our publications, enter a competition, promotion, sweepstakes or survey or communicate with us. Depending on which of these Services you use, that may include your name, mailing address, phone number, country of residency, date of birth (as needed to verify eligibility), and email address. We use that information to fulfil those Services to you and to provide related customer support to you.<br><br>In addition, we have and rely on a legitimate interest in using your Personal Data as follows:<br><br>Using your IP address, browser type, operating system, the web page you were visiting before accessing our Services, the pages of our Services which you browsed or the features you used, and the time spent on those pages or features, the links on our Services that you click on, device identifiers, as well as actions you take during gameplay, your in-game user settings and preferences and your in-app purchases to understand who is using our Services and how.<br><br>Using your contact information, namely your email address in order to communicate with you to provide technical and customer support.<br><br>Using your email address and device information in order to share updates and news about the Services with you either within the games or by email. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>To provide social features within our games so you can interact and play with other players, including storing your communications with those players, find your friends and be found by them, and share your gameplay experience and achievements with your friends.<br><br>To offer new or additional features for our Services.<br><br>To organize and run live events based on or featuring our games. Note that when you participate in live events your in-game actions and achievements, in-game username and your avatar will be visible to other event participants and to the public (for example on leaderboards displayed at the event and online).<br><br>To carry out anti-fraud and anti-cheating measures and to ensure that you and other users are complying with our Terms of Service.<br><br>To make legal or regulatory disclosures.<br><br>We will only use your Personal Data to do the following if we have your consent:<br><br>If you elect to enable the Facebook User Friends permission available in some of our games, we will import from your linked Facebook account the list of your friends who also play the game and enabled Facebook User Friends. If you enable that permission, your Facebook profile picture and the name on your Facebook account will be visible to your friends in-game. You can change your mind and unfriend other players at any time from your in-app Friends settings. You can also revoke Facebook permissions for our games directly from your Facebook account settings.<br><br>Send you marketing materials by email or via in-app notifications. You can unsubscribe from these at any time in your device settings or in-app settings.<br><br>We also rely on your consent where we use cookies or similar technologies. Please see our Cookie Policy (https://www.nianticlabs.com/cookies/) for more information about how we use them. Insofar as cookies collect Personal Data, we will process it only based on your explicit consent, in anonymized form, or under a pseudonym.<br><br>While you may disable the usage of cookies through your browser settings, Niantic currently does not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application due to the lack of industry standard on how to interpret that signal.<br><br>Who we share information with<br><br>We will not share any Personal Data that we have collected from or regarding you except as described below:<br><br>Information Shared with Our Services Providers. We engage third party service providers to work with us to administer and provide the Services. As part of that they will process your Personal Data on our behalf. These third party service providers have access to your Personal Data only for the purpose of performing services on our behalf, in compliance with this Privacy Policy, and we make sure each one is contractually obliged not to disclose or use your Personal Data for any other purpose. The service providers we use help us to:<br><br>run, operate and maintain our mobile games through third party platform and software tools;<br>perform content moderation and crash analytics;<br>run email and mobile messaging campaigns;<br>perform game and marketing analytics;<br>administer live events, competitions, sweepstakes and promotions, including registering players, managing check-in and attendance, verifying eligibility and prize fulfilment;<br>provide technical and customer support.<br><br>Information Shared with Other Players. When you use the Services, and in particular when you play our games, use social features within those games, or take part in live events, we will share certain Personal Data with other players. This Personal Data includes your in-game profile (such as your username, your avatar, and your team), your in-game actions and achievements, the real-world location of gameplay resources you interacted with when playing the games (for example PokéStops within Pokémon GO or Portals within Ingress), and your public in-game messages. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>Information Shared with Third Parties. We share Anonymous Data with third parties for industry and market analysis. We may share Personal Data with our third-party publishing partners for their direct marketing purposes only if we have your express permission. We do not share Personal Data with any other third parties for their direct marketing purposes.<br><br>Information Disclosed for Our Protection and the Protection of Others. We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We only share information about you to government or law enforcement officials or private parties when we reasonably believe necessary or appropriate: (a) to respond to claims, legal process (including subpoenas and warrants); (b) to protect our property, rights, and safety and the property, rights, and safety of a third party or the public in general; and (c) to investigate and stop any activity that we consider illegal, unethical, or legally actionable.<br><br>Information Disclosed in Connection with Business Transactions. Information that we collect from our users, including Personal Data, is a business asset. If we are acquired by a third party as a result of a transaction such as a merger, acquisition, or asset sale or if our assets are acquired by a third party in the event we go out of business or enter bankruptcy, some or all of our assets, including your Personal Data, will be disclosed or transferred to a third party acquirer in connection with the transaction.<br><br>How your Personal Data is transferred<br><br>Niantic operates its Services across the globe. Your Personal Data will very likely be transferred and stored in a country outside of your home country, including in the USA, for the purposes outlined in this Privacy Policy. The data protection laws in these countries may not be the same as in your home country.<br><br>If we transfer your Personal Data from the European Economic Area (EEA) to other countries, including the USA, we ensure that a similar degree of protection is provided to your Personal Data as within the EEA by ensuring that at least one of the following safeguards is implemented:<br><br>The country that your Personal Data is transferred to is a country that the European Commission has deemed to provide an adequate level of protection for Personal Data as the EEA.<br><br>We use specific contracts approved by the European Commission which give Personal Data the same protection as it has in Europe when we engage with service providers.<br><br>Where we engage with service providers in the USA, they are part of the EU-US Privacy Shield, which requires them to provide the same protection of your Personal Data as it has in the EEA.<br><br>How we keep your Personal Data safe<br><br>We have appropriate security measures in place to prevent your Personal Data from being accidentally lost, used or accessed in an unauthorized way, improperly altered or disclosed. We also limit access to your Personal Data to employees, agents, contractors and other third parties who have a business need to know. They will only process your Personal Data on our instructions and they are subject to a duty of confidentiality. We have put in place procedures to deal with any suspected Personal Data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.<br><br>How long we will keep your Personal Data<br><br>We keep your Personal Data for as long as we need to provide the Services to you and fulfil the purposes set out in this Privacy Policy. This is also the case for anyone that we share your information with and who carry out services on our behalf.<br><br>When we no longer need to use your Personal Data and there is no need for us to keep it to comply with our legal or regulatory obligations, we will either remove it from our systems or anonymize it so that it can no longer be associated with you.<br><br>Your rights and choices<br><br>You have certain rights in relation to your Personal Data. In order to exercise these rights, please contact us at:<br><br>For Pokémon GO here.<br><br>For Ingress here.<br><br>For all other Services at privacy@nianticlabs.com.<br><br>If you're a user based in the EEA (or in any country that mandates similar rights), you can:<br><br>Request access to the Personal Data we hold on you.<br><br>Delete or correct your Personal Data. The easiest way to update your account information is via your in-app settings.  You can also submit a customer support request through our support website here (https://support.pokemongo.nianticlabs.com/hc/requests/new?ticket_form_id=232387) for Pokémon GO, or here (https://support.ingress.com/hc/articles/206618198) for Ingress.<br><br>Object to us processing your Personal Data. Some of the Personal Data we hold is necessary for us to provide the Services to you and fulfill the promises we make to you in the Terms of Service.<br><br>Ask us to stop using your Personal Data, including for marketing and promotional purposes (but be aware that sometimes we need to use your Personal Data in order for you to use the Services).<br><br>Have your Personal Data transferred to another organization (where it is technically feasible).<br><br>Complain to a regulator. We'd appreciate the chance to deal with your concerns directly so we'd prefer you to contact us first. However, if you're based in the EEA and believe that we have not complied with data protection laws, you can complain to our regulator, the UK Information Commissioner’s Office, or with your local supervisory authority.<br><br>The law provides exceptions to these rights in certain circumstances. Where you cannot exercise one of these rights due to such an exception, we will explain to you why.<br><br>We offer you choices regarding the collection, use, and sharing of your Personal Data and we’ll respect the choices you make. Please note that if you decide not to provide us with the Personal Data that we request, you may not be able to access all of the features of the Services.<br><br>We aim to provide the information or complete the outcome you request within 30 days.<br><br>Children<br><br>As a general rule, if you are outside the EEA, children under 13 are not allowed to use the Services. If you are based in the EEA you may only use the Services if you are over 16, or the age needed to consent to the processing of personal data in your country of residence. We do however allow children to use the Pokémon GO Service, provided we have the required parental consent. For more details please read the Game-Specific Disclosures at the end of this Privacy Policy.<br><br>If we learn that we have collected Personal Data of a child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data, and we do not have parental consent, we will take steps to delete such information from our files as soon as possible.<br><br>Changes to this Privacy Policy<br><br>Any Personal Data that we collect is covered by the Privacy Policy in effect at the time such information is collected. We may make changes to this Privacy Policy from time to time. You will be given reasonable notice of any material change.<br><br>Third Parties<br><br>In using our Services you may access links to websites and services that are owned or operated by third parties (each, a “Third Party Service”). Any information that you provide on or to a Third Party Service or that is collected by a Third Party Service is provided directly to the owner or operator of the Third Party Service and is subject to the owner’s or operator’s privacy policy. We’re not responsible for the content, privacy, or security practices and policies of any Third Party Service. To protect your information we recommend that you carefully review the privacy policies of all Third Party Service that you access.<br><br>11. Game Specific Disclosures<br><br>Additional Privacy Information for Pokémon GO<br><br>Pokémon Trainer Club Accounts. You can sign up for Pokémon GO using your third-party Pokémon Trainer Club (“PTC”) account administered by The Pokémon Company International (“TPCI”). If you choose to do so, we will collect from TPCI your PTC registered email address, your PTC username and a unique PTC user ID. If you are registering your PTC account on behalf of your authorized child we will also collect some Personal Data about your child. See the “Accounts with Children” paragraph below for more information.<br><br>Accounts with Children. We comply with parental consent requirements as mandated by the U.S. Children’s Online Privacy Protection Act (COPPA) and European data protection laws (including, without limitation, the General Data Protection Regulation) through a verification and consent process handled by TPCI. As described in the Pokémon GO Terms of Service, the parent or legal guardian (“Parent”) of each child under the age of 13, or in the EEA 16 or the age needed to consent to the processing of personal data (“Child”), must register with TPCI through a PTC account before their Child can access and use the game. The Parent will have to provide to TPCI certain Personal Data about the Child in accordance with the TPCI privacy policy. Of that, Niantic will only collect from TPCI the Child’s personal email address, and the date when the Child will grow out of the age limits listed above.<br><br>For U.S. residents, after a Parent has registered a PTC account, TPCI will verify the Parent’s identity by asking for the sum of the first and last digits of the Parent’s social security number and the Parent’s name, date of birth, and street address. TPCI will not share that information with us. After TPCI verifies the Parent’s identity, it will ask the Parent to consent to the Child accessing Pokémon GO. If a Parent does not consent to a Child’s access to and use of Pokémon GO or does not verify their identity through the consent process, Niantic will bar that Child’s registration on Pokémon GO and prevent the Child’s access to and use of the game.<br><br>Parents have the right to refuse further collection, use, and/or disclosure of their Child’s Personal Data by notifying us. As a Parent, you understand that Niantic has a legitimate interest in providing your Child’s information collected via the Services to third party providers for the sole purpose of administering or providing the Services, as described in Paragraph 3 of this Privacy Policy.<br><br>Information shared with other players. When you take certain actions in Pokémon GO and capture a Gym, your (or your authorized Child’s) username will be shared publicly through the game, including with other players, in connection with that Gym location.<br><br>Apple Watch and Apple Health App Data. If you use Pokémon GO with your Apple Watch, with your consent we use the Apple HealthKit APIs to read and/or write certain data about your fitness activity (Step Count, Calories Burned, and Distance Walked) to the Health App Database on your device (the “Health App Data”).   We may store Health App Data on our servers in connection with your Pokémon GO user account.   We use Health App Data to provide you certain functionality in the game (such as distances walked to hatch Eggs), and to ensure you get “credit” in your Apple Health App for all of the walking you do while playing Pokémon GO.  We will not use Health App Data for marketing or advertising purposes.  We do not store Health App Data in iCloud.  Pokémon GO cannot read from or write to the Health App Database without your consent.<br>Additional Privacy Information for Ingress<br><br>Information shared publicly. When you play Ingress, as part of the gameplay the following information about you will be shared through the game (including with other players directly within the app, in game notifications emailed to other players as part of the gameplay, and online on the Ingress Intel Map website), and will therefore become publicly available: your in-game username, messages sent to other users in COMMS, and in-game portals that you interact with, as well as your device location whenever you take an in-game action.<br>
 Pokémon GO Privacy Policy
-Please review the updated Niantic Privacy Policy for additional information about new product features and how we process personal data.
+Please review the updated Niantic Privacy Policy for additional information about new social features and how we process personal data.
 https://www.nianticlabs.com/privacy/pokemongo/en
 Journal
 Style
@@ -6247,10 +6979,17 @@ Vote for Dratini Community Day! Catch {0} Pokémon
 Catch {0} Pokémon with Weather Boost
 Catch a Pokémon with Weather Boost
 Catch {0} Whismur
+Catch {0} Charmander
+Catch {0} Charmeleon
+Evolve {0} Charmander
+Evolve {0} Charmeleon
 Investigating Illusions
 A Ripple in Time
+The Great Gastly
+Making a Splash
 Let’s GO, Meltan
 A Mythical Discovery
+Decoding Porygon
 A Troubling Situation
 Looming in the Shadows
 A Challenging Development
@@ -6437,6 +7176,9 @@ GO Fest: Make a new friend
 Niantic Crew: Friend 3 new coworkers!
 GO Fest: Send {0} Gifts to friends
 GO Fest: Battle another Trainer
+Catch {0} Gastly
+Evolve {0} Gastly
+Evolve {0} Haunter
 Catch {0} Poochyena or Houndour
 Catch {0} Dark-type Pokémon
 Catch {0} Ghost-type Pokémon
@@ -6481,10 +7223,26 @@ Catch {0} Electric-type Pokémon with Nice Throws
 Make {0} Nice Throws
 Make a Nice Throw
 Trade {0} Pokémon with a friend
+Catch {0} Magikarp
+Evolve {0} Magikarp
+Mega Evolve a Beedrill
+Mega Evolve a Blastoise
+Mega Evolve a Charizard
+Mega Evolve {0} Pokémon
+Mega Evolve a Pokémon
+Mega Evolve a Venusaur
+Battle in {0} Mega Raids
+Battle in a Mega Raid
+Win {0} Mega Raids
+Win a Mega Raid
 More research requests will be coming soon!
 Make {0} new friends
 Make a new friend
 Pokémon appears!
+Catch {0} Porygon
+Catch {0} Porygon2
+Evolve {0} Porygon
+Evolve {0} Porygon2
 Power up Pokémon {0} times
 Power up a Pokémon
 Catch {0} Abra or Drowzee
@@ -6508,6 +7266,7 @@ Battle {0} Team GO Rocket Grunts
 Defeat {0} Team GO Rocket Grunts
 Defeat a Team GO Rocket Grunt
 Evolve {0} Pokémon
+Defeat a Team GO Rocket Leader
 Power up Pokémon {0} times
 Purify {0} Shadow Pokémon
 Purify a Fire-, Water-, or Grass-type Shadow Pokémon
@@ -6618,6 +7377,78 @@ It appears that Celebi has safely returned from the past to stay with you. Looks
 I'll bet by next weekend the park will have returned to its old self! Celebi is truly a wondrous Pokémon!
 Thanks for all your help today! We couldn't have done it without you.
 This weekend will be one to remember!
+Hey there, %PLAYERNAME%! I’m glad you’re here. Something odd is happening, and I need your help investigating it.
+While I was on a walk last night with my Buddy Pokémon, Meltan, I noticed a strange light flickering in my mobile lab. It was so spooky! One might’ve called it...a ghastly sight!
+Apparently, some Gastly were in my mobile lab hiding from the wind. It’s common for them to take shelter when massive gusts are blowing about so their gaseous bodies aren’t blown away.
+However, the sheer number of Gastly seemed unusual. They’re still in the mobile lab, so could you help me look into this situation?
+Thanks, %PLAYERNAME%! While you were helping with our research, I was assisting the Gastly in the mobile lab.
+I had to be careful when I got near the Gastly. I didn’t want to be engulfed by their gaseous bodies!
+Now that the Gastly are out of the mobile lab, I think it’s time for us to start looking into Gastly’s Evolution.
+I’ve done some reading on the matter, and I think we’ll need to prepare for a dangerous Pokémon.
+Excellent work, %PLAYERNAME%. Seems as though your Gastly has evolved into Haunter. I had a feeling I was being watched.
+It’s said that Haunter lurks in walls to keep an eye on its foes, but in this case, I have a feeling it’s just being playful.
+I’ve noticed the team leaders tripping and stumbling around the lab today. Seems as if Haunter is having a bit of fun with them, but I don’t think Blanche is amused.
+Let’s go ahead and fix that problem by evolving Haunter.
+Congrats, Trainer. Your Haunter has now become the Shadow Pokémon, Gengar! Are you ready for a spooky story? Let me get my flashlight.
+If you ever see your shadow suddenly and startlingly overtake you, it might be a Gengar running past you, pretending to be your shadow!
+Do you feel that chill in the air? That means a Gengar is near. OOOoooOOOooo...
+BOO!
+Hahaha, got you, %PLAYERNAME%! I crack myself up. Although...it looked for a second like there was a ghostly hand on your shoulder... Maybe it was just my imagination.
+Anyway, I know an accomplished Trainer such as yourself has nothing to fear when it comes to training a Pokémon like Gengar. Being both Poison- and Ghost-type, it’s a fantastic Pokémon to have on your team.
+Thanks to your help, I think we all learned something today! I’ll be in touch when I have another adventure for you!
+Good to see you, %PLAYERNAME%! Do you hear that sound?
+All morning, I’ve been hearing the distinct sound of splashing water. While somewhat relaxing, it’s definitely not a normal thing to hear around the lab.
+Upon further investigation, I noticed an increased number of Magikarp in the wild. It was quite the sight to see so many of them splashing about.
+Guess it’s time to GO fishing! Get it? Because Magikarp is the Fish Pokémon?
+Anyway, I think it’ll be safe to approach Magikarp, as documentation indicates they’re harmless.
+However, I see potential in this Pokémon. It’s time to head out and investigate.
+Great work, Trainer! While you were out, I did a bit of a refresher on Magikarp.
+Did you know that some Magikarp can jump so high, they can leap over a mountain? Now that’s something I’d like to see!
+Also, while having a reputation for being worthless, this hardy Pokémon can thrive in any body of water, regardless of how dirty or polluted the water might be.
+I think Magikarp deserves a bit more credit, don’t you think? Let’s focus on evolving Magikarp, since doing so takes some effort.
+Maybe you should try using Pinap Berries when trying to catch Magikarp. Not only are Pinap Berries tasty, but they’re quite useful as well!
+Good job, %PLAYERNAME%. Thanks to the research you’ve completed, it’s time to evolve that Magikarp of yours!
+Remember when I said that Magikarp is harmless? Well, that isn’t the case with its evolved form, Gyarados.
+Known as the Atrocious Pokémon, Gyarados has a reputation for being destructive. Tales of its rampaging nature are consistent across all research materials we have on it.
+So much for being harmless, am I right? Of note, Gyarados is both Water- and Flying-type—something you might not expect from its humble beginnings.
+Looks like you’ll be adding a powerful Pokémon to your team, but let’s proceed with caution.
+Wonderful work, %PLAYERNAME%. Looks like all your efforts have paid off, and you’ve got yourself a Gyarados.
+I’m sure this Pokémon will be a great member of your team when battling other Trainers or even Team GO Rocket!
+Even though Gyarados is known for being vicious and extremely aggressive, a talented Trainer such as yourself will be able to befriend and train it so it can meet its full potential.
+I’m excited to see what kinds of challenges you’ll demolish together!
+Just make sure that the demolition is limited to battles—not entire cities.
+Anyway, until next time!
+Hey there, %PLAYERNAME%! I think I’ve got an exciting adventure for you. I’ve been working on something...BIG.
+Recently, we observed a large number of Weedle appearing in the wild. I wanted to investigate that phenomenon further.
+After a day of research, I saw something sparkling in the tall grass near where the Weedle were gathering.
+It turned out to be a smooth, stonelike object with a symbol etched into it. It glowed with an energy I’ve never encountered before!
+I’d seen that symbol before in documents about Mega Evolution that I received from my colleague in Kalos, Professor Sycamore. That led me to believe that the object was somehow related.
+After digging further into the documents, I theorized that Pokémon can Mega Evolve using the energy from the object I found, which I named Mega Energy.
+It also occurred to me that the object I found might be related to Weedle.
+Now that I’ve caught you up on my BIG discovery, let’s get started on some research. We’ll need a Weedle—I think that Pokémon has mega potential!
+Great work, %PLAYERNAME%! Let’s document our findings for other Trainers.
+Now, Weedle can’t Mega Evolve, but its final Evolution, Beedrill, can.
+My theory is that there is Mega Energy for different Pokémon and that each Pokémon needs a certain amount of Mega Energy to Mega Evolve.
+It also seems that Mega-Evolved Pokémon return to normal once their Mega Energy is depleted.
+It may be difficult to gather the Mega Energy needed to Mega Evolve a Pokémon for the first time. However, it seems that once a Pokémon has Mega Evolved, it requires less Mega Energy to do so again.
+Maybe it’s because Mega Evolution strengthens a Trainer’s bond with their Pokémon.
+Let’s continue this investigation. How about you evolve your Weedle to its final Evolution and see whether you can find enough Mega Energy to Mega Evolve your new Beedrill.
+Again, you never cease to amaze me, %PLAYERNAME%. I think you and Beedrill are going to be great partners.
+I’ve learned that some other Pokémon can Mega Evolve, too.
+While I’ve been able to confirm only a few, I’m sure we’ll discover more in time. At this point, you should be able to Mega Evolve your Beedrill, if you’re ready.
+Now, I’m sure you are going to ask, “Professor Willow, how do I get Mega Energy for other Pokémon?”
+Well, don’t worry, Trainer. Mega Venusaur, Mega Charizard, and Mega Blastoise are appearing in Mega Raids all around the world. It appears you can get Mega Energy by challenging those Mega-Evolved Pokémon.
+Why don’t you Mega Evolve your Beedrill and battle with it in Mega Raids? There seem to be benefits to battling in raids alongside Mega-Evolved Pokémon for both you and your fellow Trainers.
+I’m curious to see what effect Mega-Evolved Pokémon have on other Pokémon when they battle together. Why don’t you give it a try!
+I dare say, this was a successful research project! It looks like you were able to acquire some Mega Energy by battling those Mega-Evolved Pokémon.
+I’ve documented that you and your Mega-Evolved Pokémon can do many other things together, too.
+I hope to see you and your Mega-Evolved Pokémon battling at Gyms, challenging other Trainers, combating Team GO Rocket, and, of course, taking some snapshots to send back to yours truly.
+Mega-Evolved Pokémon are extremely powerful, so I think it’s best that we don’t bring our new friends into the GO Battle League just yet, at least until more research is done.
+I wanted to give you a token of my appreciation for all your hard work on this project—a Mega Bracelet!
+In other regions, Trainers use Mega Bracelets to help their Pokémon Mega Evolve. Based on my research into Mega Energy, it seems you won’t need a Mega Bracelet to Mega Evolve your Pokémon.
+However, I thought a Mega Bracelet would be a trendy way to show off your Mega Evolution skills.
+You can check it out when you want to change up your look. I hope you accept this gift with my sincerest thanks for a job well done.
+Until next time, let’s GO!
 %PLAYERNAME%, it’s always great to see you! I’m sure you know this, but your help in progressing my research has been essential to major breakthroughs in my work.
 That’s why I’ve come to talk to you again. You probably already know what I’ll be asking!
 I need your assistance in learning more about the newly discovered Pokémon that has really sent me and other Pokémon researchers into quite a tizzy.
@@ -6710,6 +7541,31 @@ Please carry out the following research tasks.{0}{1}{2}
 We found Mew! Awesome! This is an experience to remember forever.
 Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
 My assistants and I will request some Special Research from you in the future. Stay in touch!
+Hey there, %PLAYERNAME%! It’s great to see you again! I’m always grateful to have a helping hand with my research.
+Speaking of research, have you heard of Porygon, the Virtual Pokémon? 
+Well, I’m not entirely sure why, but Porygon have been appearing more frequently in the area as of late!
+I’d like to take this opportunity to learn more about this odd Pokémon. How about it, Trainer? Will you go out and catch some Porygon for me?
+Fantastic work, %PLAYERNAME%!
+I was able to review the data you collected, and I discovered that Porygon is made entirely of programming code!
+Other reports I dug up mention that it was created by a group of scientists using state-of-the-art technology. Can you believe it? A man-made Pokémon!
+Porygon have made a name for themselves by protecting cyberspace from suspicious activity! For something artificial, they sure do seem caring.
+Maybe I should keep a Porygon around in case Team GO Rocket tries a digital take-over...
+Well, in the meantime, I’d like to learn more about Porygon’s evolved form, Porygon2.
+I have a hunch that you’ll need to use an Upgrade to evolve Porygon. Let's get back out there and see if we can't find one!
+Excellent work, %PLAYERNAME%!
+Thanks to your efforts, I’ve realized just how different Porygon2 is from Porygon.
+According to my findings, further research and the implementation of artificial intelligence into its code allowed Porygon2 to develop the ability to learn independent of its programming.
+The power of science is just astounding, isn’t it?
+These reports also mention that Porygon2 was upgraded to enable extraterrestrial exploration and planetary development, though it has yet to accomplish much.
+I wonder what this means for Porygon’s final Evolution, Porygon-Z? 
+For your next batch of research, I want you to evolve Porygon2 into Porygon-Z using a Sinnoh Stone. Good luck out there, Trainer!
+Congrats on evolving your Porygon2 into a Porygon-Z, %PLAYERNAME%!
+I’ve uncovered some notes about this Pokémon that I thought you’d find interesting.
+According to reports, an update was added to Porygon-Z’s programming that was supposed to allow it to move between dimensions. But the upgrade also caused Porygon-Z to become unstable, and it began behaving erratically.
+Because the update caused instability, academics can’t seem to agree on whether Porygon-Z should be considered a true Evolution of Porygon2.
+It’s going to take a bit of time to file away all this research, but I’m thrilled we were able to learn more about Porygon and its Evolutions!
+Your hard work is always appreciated, %PLAYERNAME%, and I’ll be in touch as soon as I’m in need of another inquisitive eye!
+Until then, let’s GO!
 Hi, %PLAYERNAME%, I’m glad to see you! Can I get your help with investigating something?
 I’ve noticed an alarming number of reports from Trainers who have found PokéStops that look...discolored?
 Some Trainers have even spotted people wearing shirts with a big letter R on them who are guarding these PokéStops.
@@ -7037,6 +7893,11 @@ GO Fest 2018 (2/5)
 GO Fest 2018 (3/5)
 GO Fest 2018 (4/5)
 GO Fest 2018 (5/5)
+The Great Gastly
+The Great Gastly (1/4)
+The Great Gastly (2/4)
+The Great Gastly (3/4)
+The Great Gastly (4/4)
 GO Fest 2019—Chicago (1/5)
 GO Fest 2019—Chicago (2/5)
 GO Fest 2019—Chicago (3/5)
@@ -7063,6 +7924,24 @@ GO Fest 2019—Yokohama (2/5)
 GO Fest 2019—Yokohama (3/5)
 GO Fest 2019—Yokohama (4/5)
 GO Fest 2019—Yokohama (5/5)
+Making a Splash
+Making a Splash (1/4)
+Making a Splash (2/4)
+Making a Splash (3/4)
+Making a Splash (4/4)
+Mega Battle Challenge (1/4)
+Mega Battle Challenge (2/4)
+Mega Battle Challenge (3/4)
+Mega Battle Challenge (4/4)
+A Mega Discovery
+A Mega Discovery (1/4)
+A Mega Discovery (2/4)
+A Mega Discovery (3/4)
+A Mega Discovery (4/4)
+Mega Buddy Challenge (1/4)
+Mega Buddy Challenge (2/4)
+Mega Buddy Challenge (3/4)
+Mega Buddy Challenge (4/4)
 Let’s GO, Meltan
 Let’s GO, Meltan (1/9)
 Let’s GO, Meltan (2/9)
@@ -7082,6 +7961,11 @@ A Mythical Discovery (5/8)
 A Mythical Discovery (6/8)
 A Mythical Discovery (7/8)
 A Mythical Discovery (8/8)
+Decoding Porygon
+Decoding Porygon (1/4)
+Decoding Porygon (2/4)
+Decoding Porygon (3/4)
+Decoding Porygon (4/4)
 A Troubling Situation
 A Troubling Situation (1/4)
 A Troubling Situation (2/4)
@@ -7192,6 +8076,11 @@ Throwback Challenge: Sinnoh (6/9)
 Throwback Challenge: Sinnoh (7/9)
 Throwback Challenge: Sinnoh (8/9)
 Throwback Challenge: Sinnoh (9/9)
+Ultra Unlock 2020 (1/5)
+Ultra Unlock 2020 (2/5)
+Ultra Unlock 2020 (3/5)
+Ultra Unlock 2020 (4/5)
+Ultra Unlock 2020 (5/5)
 A Hairy Situation
 A Hairy Situation (1/4)
 A Hairy Situation (2/4)
@@ -7346,6 +8235,8 @@ REJOIN BATTLE
 Make the group open to the public?You can't undo this action.
 Share this group code with your friends. They can join you by entering this group code.
 2× Raid Stardust
+2× Raid Stardust and XP
+3× Raid Stardust and XP
 SUGGESTED GROUP SIZE
 Contribution by Team
 Event
@@ -7376,8 +8267,11 @@ Win {0} raids
 Win {0} raids
 Transform a Rare Candy into a {0} Candy?
 You received a free {0}!
+Recent
+Recommended
 Discard
 {0}?
+Region
 Please select an account to register with.
 using a Remote Raid Pass
 Boosted damage for Trainers battling remotely in raids
@@ -7430,7 +8324,12 @@ Pokémon GO is more fun with friends! You can get XP, Eggs, and items by sharing
 Go for a power walk! Try using a Star Piece, a Lucky Egg, and Incense all at once.
 Returned Today
 Sign in with {0}
+STICKER
+Team GO Rocket balloons appearing more often
 2× Mysterious Components from Team GO Rocket Grunts
+Team GO Rocket Event
+Meowth balloon with Jessie and James appearing more often
+Team GO Rocket appearing more often at PokéStops
 2× Stardust from Team GO Rocket battles
 Team GO Rocket Take-Over
 Rocket Take-Over: Defeat a Team GO Rocket Grunt
@@ -7501,6 +8400,57 @@ Safari Zone: Defeat {0} Team GO Rocket Grunts
 Safari Zone
 I'm a passenger
 Scan a Battle Code
+Used 0 Razz Berries
+Used {0} Razz Berries
+Used 1 Razz Berry
+Used 0 Nanab Berries
+Used {0} Nanab Berries
+Used 1 Nanab Berry
+Used 0 Pinap Berries
+Used {0} Pinap Berries
+Used 1 Pinap Berry
+Made 0 Nice Curveball Throws
+Made {0} Nice Curveball Throws
+Made 1 Nice Curveball Throw
+Made 0 Great Curveball Throws
+Made {0} Great Curveball Throws
+Made 1 Great Curveball Throw
+Made 0 Excellent Curveball Throws
+Made {0} Excellent Curveball Throws
+Made 1 Excellent Curveball Throw
+Caught {0} Fire-, Water-, or Grass-type Pokémon
+Caught {0} Fire-type Pokémon
+Caught {0} Water-type Pokémon
+Caught {0} Grass-type Pokémon
+Completed 0 battles with team leaders
+Completed {0} battles with team leaders
+Completed 1 battle with a team leader
+Completed 0 GO Battle League battles
+Completed {0} GO Battle League battles
+Completed 1 GO Battle League battle
+Won {0} raids
+Won 1 raid
+Made 0 Nice Throws
+Made {0} Nice Throws
+Made 1 Nice Throw
+Made 0 Great Throws
+Made {0} Great Throws
+Made 1 Great Throw
+Made 0 Excellent Throws
+Made {0} Excellent Throws
+Made 1 Excellent Throw
+Made 0 Curveball Throws
+Made {0} Curveball Throws
+Made 1 Curveball Throw
+Battled in 0 raids
+Battled in {0} raids
+Battled in 1 raid
+Used 0 Berries
+Used {0} Berries
+Used 1 Berry
+Sent 0 Gifts to friends
+Sent {0} Gifts to friends
+Sent 1 Gift to a friend
 friends
 Gym Badges
 Battle
@@ -7517,6 +8467,7 @@ SETTINGS
 SHOP
 TIPS
 me
+Search
 s
 SEE DETAILS
 Select Gift to discard
@@ -7540,6 +8491,9 @@ ACCOUNT
 Tip: You can sign in to your game via any linked account!
 LINKED
 NOT LINKED
+Refresh Game Data
+Refresh your game data if you are experiencing inconsistent gameplay.
+Advanced Settings
 AR
 AR+
 Do you want to leave the game to report an issue?
@@ -7583,6 +8537,7 @@ Events, Offers, and Updates
 Push Notifications
 Report Critical Issue
 Report a Technical Issue
+Are you sure you want to refresh your game data?
 Pokémon GO Plus
 About
 https://support.pokemon.com/hc/articles/360000954814
@@ -7757,12 +8712,16 @@ Just when I was energized to do some battling! Maybe we should check out other l
 No signals? Well, it is getting pretty late...and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 More Abra are appearing in the wild
+More Charmander are appearing in the wild
 More Gastly are appearing in the wild
+More Magikarp are appearing in the wild
+More Porygon are appearing in the wild
 More Seedot are appearing in the wild
 More Weedle are appearing in the wild
 Event-themed wild Pokémon
 Special event: Catch {0} Pokémon
 Special event: Send {0} Gifts to friends
+Special
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
 Are you sure? {1} cannot be relearned.
@@ -7770,6 +8729,7 @@ You can only make a Special Trade once a day, unless you’re at certain special
 Do you want to make a Special Trade?
 Pokémon GO should not be played while driving.
 You're going too fast!
+Failed to save screenshot. Check photo storage permissions.
 Offer saved to your photos!
 Go to Settings
 During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location.
@@ -7781,12 +8741,14 @@ Vasa
 7-Eleven
 Learn More
 View Offer
+Congratulations! You've successfully redeemed an offer for Special Research.
 Congratulations! You have successfully redeemed an offer online. Tap OK to see it.
 Pokémon Spotlight Hour
 More Magnemite are appearing in the wild
 More Pidgey are appearing in the wild
 More Purrloin are appearing in the wild
 More Wobbuffet are appearing in the wild
+Spring Event
 2× Star Piece duration
 Stardust Blast
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
@@ -7795,12 +8757,27 @@ Star Piece
 25 Star Pieces
 8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 8 Star Pieces
+Stickers can be found as rewards in Pokémon GO. Collect ’em all!
 No stickers to send. You can get stickers from Gifts or the shop.
+This sticker can be found in the shop.
+GET THIS STICKER
+SEE IN SHOP
+Stickers don’t take up space in your Item Bag. You can carry only a certain number of each sticker.
+Number of Stickers
+STICKERS
+A sticker featuring the Niantic Labs logo. See you out there!
+An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO Fest 2017 shirt design.
+An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO Fest 2018 shirt design.
+An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO Fest 2019 shirt design.
+An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO Fest 2020 shirt design.
+An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO Fest 2020 logo.
+An exclusive sticker for Pokémon GO Fest attendees, featuring Victini, the Victory Pokémon.
 See All ({0})
 SEE OTHER STICKERS
 (sponsored by {0})
 LEARN MORE
 Submit
+Summer Event
 Summer Solstice
 Super effective!
 Supereffective Week
@@ -7846,6 +8823,7 @@ Come on and join my team!
 You never lose when you trust your instincts!
 A unique coin that enables a Trainer to change teams. It can only be purchased once per 365 days.
 Team Medallion
+MEGA EVOLUTION
 https://www.nianticlabs.com/terms/pokemongo/en/
 test string
 Test
@@ -7856,6 +8834,9 @@ Throwback Challenge 2020: Johto
 Throwback Challenge 2020: Kanto
 Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
+Tickets for the Special Research story The Great Gastly available in the shop
+Ticket for the Special Research story Making a Splash available in the shop
+Tickets for the Decoding Porygon Special Research story available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
 Ends in {0} days and {1} hours
@@ -7868,10 +8849,28 @@ Ends in {0} day and {1} hour
 Ends in {0} hour and {1} minutes
 Ends in {0} hour and {1} minute
 Ends in {0} minute
+Challenge bonus:{0}
+BONUS ACTIVE:
+TIMED BONUS
+All Trainers participating in a global challenge will contribute to a global goal. Once Trainers achieve the goal, a timed bonus will activate for all participants and remain active until the next global challenge starts.
+Global Challenges
+Challenge complete! Bonus active!
+Ended
+Global Challenge
+A new challenge is starting!
+Ends in {0} minutes
+Ends in 1 minute
+All Trainers must work together as a global community to complete this challenge.
 Timed Research available 
 Snubbull featured in Timed Research
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
-OK
+Scan cancelled
+Be respectful of others while scanning.Remember to stay safe and be aware of your surroundings.
+Scan Cautiously
+Too dark. Ensure your camera is unobstructed and there is adequate lighting.
+Too fast. Move slowly around the PokéStop.
+Movement not detected. Keep moving slowly around the PokéStop.
+Turn on
 While scanning, be aware of your surroundings and respectful of others.
 <b>Thank you for your contribution!</b>Will you help us learn more about this PokéStop or Gym?
 {0:0}%
@@ -7900,9 +8899,14 @@ Please wait while your PokéStop scan is processed.
 UPLOAD LATER
 UPLOAD NOW
 UPLOAD NOW
-Upload Size: {0} MB
+({0}MB)
 You are about to upload {0} MB of data. If you are not connected to Wi-Fi, data rates may apply.
 Would you like to upload? The upload size is {0} MB.
+Scan Failed
+Too dark. Please scan again, ensuring your camera is unobstructed and there is adequate lighting.
+Too fast. Please scan again, ensuring you move slowly around the PokéStop.
+Movement not detected. Please scan again, ensuring you move slowly around the PokéStop.
+Please scan again, ensuring adequate lighting while you move slowly around the PokéStop.
 Enable PokéStop Scan
 If you disable PokéStop Scan, all scans on your device will be deleted, so you will lose any scans that you have not uploaded.
 Are you sure you want to disable PokéStop Scan?
@@ -7994,6 +8998,7 @@ You’ve already made a Special Trade today.
 This Pokémon can’t be traded.
 This Pokémon is not at full health.
 This Pokémon can’t be traded again.
+You cannot trade a Mega-Evolved Pokémon.
 All Pokémon form variants
 {0} has connected!
 Waiting for {0} to select their Pokémon...
@@ -8108,6 +9113,7 @@ Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
+Ultra Unlock 2020
 Ultra Bonus Unlock
 Ultra Bonus Unlock: Part 1
 Ultra Bonus Unlock: Part 2
@@ -8244,6 +9250,7 @@ Sunny
 Weather
 Windy
 Cannot access your device's camera. Check camera permissions.
+Winter Event
 Pokémon GO Holidays
 Winter Solstice
 Winter Weekend Event

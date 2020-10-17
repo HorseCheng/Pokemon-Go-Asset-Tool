@@ -1,7 +1,9 @@
 import re
 import json
 import pandas as pd
+
 date, version = "", ""
+
 with open("Version.txt", "r") as f:
     s = f.readlines()
     date = s[0][0:-1]
@@ -18,7 +20,7 @@ chi = chi ["data"]
 
 with open("Game_Master/" + date + ".json") as f:
     master = json.load(f)
-master=master ["itemTemplate"]
+master=master ["template"]
 
 typeeform = open("Coefficient/Type.txt", "r", encoding="UTF-8")
 weatherform = open("Coefficient/Weather.txt", "r", encoding="UTF-8")
@@ -34,38 +36,49 @@ for line in weatherform:
    (key, *val) = line.split()
    weather[key] = val
 
-catdict={}; introdict={}
+catdict={}; introdict={}; MEGAintrodict={}
 for value,char in enumerate(chi):
-    x=re.search("pokemon_desc_[0-9]+", char)
-    if(x):
-        key=re.search("[0-9]+[_0-9]+",char).group()
-        if("_"in key):key=key.split("_")[0]+"_1"
-        introdict[key]=chi[value+1]
     x=re.search("pokemon_category_[0-9]+", char)
     if(x):
         key=re.search("[0-9]+",char).group()
         catdict[key]=chi[value+1]
+        
+    x=re.search("pokemon_desc_[0-9]+", char)
+    if(x):
+        key=re.findall("[0-9]+", char)
+        if len(key)==1:
+            introdict[str(key[0])]=chi[value+1]
+        else:
+            if int(key[1])<100: 
+                introdict[str(key[0])+"_ALOLA"]=chi[value+1]
+            else:  
+                introdict[str(key[0])+"_GALARIAN"]=chi[value+1]
+
+    x=re.search("pokemon_desc_tmpevo_[0-9]+", char)
+    if(x):
+        key=re.findall("[0-9]+", char)
+        if MEGAintrodict.get(str(key[0])+"_1") == None:
+            MEGAintrodict[str(key[0])+"_1"]=chi[value+1]
+
+        else:  
+            MEGAintrodict[str(key[0])+"_2"]=chi[value+1]
 
 chinamedict={}
 for value,char in enumerate(chi):
-    x=re.search("pokemon_name_[0-9]+", char)
-    if(x):
-        key=re.search("[0-9]+",char).group()
+    try:
+        key=re.findall("pokemon_name_([0-9_]+)", char)[0]
         chinamedict[key]=chi[value+1]
+    except: pass
 engnamedict={}
 for value,char in enumerate(eng):
-    x=re.search("pokemon_name_[0-9]+", char)
-    if(x):
-        key=re.search("[0-9]+",char).group()
+    try:
+        key=re.findall("pokemon_name_([0-9_]+)", char)[0]
         engnamedict[key]=eng[value+1]
+    except: pass
 
 #New Pokemon
-chinamedict["0862"] = "堵攔熊"
-engnamedict["0862"] = "Obstagoon"
-chinamedict["0863"] = "喵頭目"
-engnamedict["0863"] = "Perrserker"
-chinamedict["0865"] = "葱游兵"
-engnamedict["0865"] = "Sirfetch'd"
+# chinamedict["0865"] = "葱遊兵"
+# engnamedict["0865"] = "Sirfetch'd"
        
 chimovedict={}
 for value,char in enumerate(chi):
@@ -80,17 +93,24 @@ for value,char in enumerate(eng):
         key=re.search("[0-9]+",char).group()
         engmovedict[key]=eng[value+1]
 
+#New Move or replace move name
+chimovedict["0292"] = "氣象球 (火)"
+chimovedict["0293"] = "氣象球 (冰)"
+chimovedict["0294"] = "氣象球 (一般)"
+chimovedict["0295"] = "氣象球 (水)"
+
+# Pokemon class
 class pokemon():
     def __init__(self, inn):
-     settings=inn["pokemon"]
-     self.id = re.search("V[0-9]+",inn['templateId']).group().strip("V")
-     self.name = re.search("POKEMON_\S+",inn['templateId']).group().replace("POKEMON_","")
+     settings=inn["data"]["pokemon"]
+     self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
+     self.name = re.findall("POKEMON_(\S+)",inn['templateId'])[0]
      self.chi = chinamedict[self.id]
      self.eng = engnamedict[self.id]
      self.type = self.typehandle(settings["type1"])
      self.type2 = self.typehandle(settings.get("type2",""))
-     self.weather1= ""
-     self.weather2= self.weatherhandle()
+     self.weather1= self.weatherhandle(self.type)
+     self.weather2= self.weatherhandle(self.type2, self.weather1)
      self.capture = self.capturehandle(settings["encounter"].get("baseCaptureRate","")) 
      self.flee = settings["encounter"].get("baseFleeRate","")
      self.atk = settings["stats"]["baseAttack"]
@@ -102,43 +122,48 @@ class pokemon():
      self.thirdstardust= settings["thirdMove"].get("stardustToUnlock","")
      self.thirdcandy= settings["thirdMove"].get("candyToUnlock","")
      self.buddy= settings["kmBuddyDistance"]
-     self.camdist= settings["encounter"]["cameraDistance"]
-     self.camrad= settings["encounter"]["collisionRadiusM"]
-     self.camheight= settings["encounter"]["collisionHeightM"]
+     self.camdist= round(settings["encounter"]["cameraDistance"], 3)
+     self.camrad= round(settings["encounter"]["collisionRadiusM"], 3)
+     self.camheight= round(settings["encounter"]["collisionHeightM"], 3)
      self.ratio=""
      self.desccat=self.descripthandle("cat")
      self.descintro=self.descripthandle("intro")
      self.quick=settings.get("quickMoves")
      self.charged=settings.get("cinematicMoves")
-    
+     self.mega= self.megahandle(settings, 1)
+     self.mega2= self.megahandle(settings, 2)
+     
     def typehandle(self, inn):
      if(inn==""): return ""
      return typee[inn]
 
-    def weatherhandle(self):
-     for name,value in weather.items():
-         if(self.type in value): self.weather1= name
-     if(self.type2==""): return ""
-     for name,value in weather.items():
-         if(self.type2 in value and name != self.weather1 ): return name
-     return ""
+    def weatherhandle(self, inn, one=""):
+        for name, value in weather.items():
+            if(inn in value): 
+                if name!= one: return name
+                else: return ""
+        return ""
  
     def capturehandle(self, inn):
      return 1 if inn==100 else inn
     
     def candyhandle(self, inn):
-     if(type(inn)==list): return inn[0]["candyCost"]
+
+     if(type(inn)==list ): 
+        for i in inn:
+            if "tempEvolution" not in i:
+                return i["candyCost"]
      return ""
      
     def descripthandle(self, typee):
         if(typee=="cat"):
            try: return catdict[self.id]
            except: return ""
-        if("ALOLA" in self.name or "GALARIAN" in self.name):
-            try: return introdict[self.id+"_1"]
-            except: 
-                try: return introdict[self.id]
-                except: return ""
+        if("ALOLA" in self.name):
+            return introdict[self.id+"_ALOLA"]
+        if "GALARIAN" in self.name:
+            return introdict[self.id+"_GALARIAN"]
+
         try: return introdict[self.id]
         except: return ""
     
@@ -147,16 +172,41 @@ class pokemon():
         elif(inn.get("femalePercent","")==1): self.ratio="全女性"
         elif(inn.get("genderlessPercent","")==1): self.ratio="無性別"
         else: self.ratio=inn["malePercent"]
+        
+    def megahandle(self, inn, num):
+        test=inn.get("temporaryEvolutions")
+        if test== None: return None
+        if num==2: 
+            if len(test)==1: return None
+        test=test[num-1]
+        type1= self.typehandle(test.get("type1",""))
+        type2= self.typehandle(test.get("type2",""))
+        weather1=self.weatherhandle(type1)
+        weather2=self.weatherhandle(type2, weather1)
+        des=MEGAintrodict[self.id+"_"+str(num)]
+        
+        for i in inn["evolutionBranch"]:
+            if test["temporaryEvolutionId"]== i["tempEvolution"]:
+                candy1= i["firstTempEvolutionCandyCost"]
+                candy2= i["subsequentTempEvolutionCandyCost"]
+        
+        return{"type1": type1,"type2": type2,"weather1": weather1,"weather2": weather2,
+               "baseAttack": test["stats"]["baseAttack"], "baseDefense": test["stats"]["baseDefense"], 
+               "baseStamina": test["stats"]["baseStamina"],
+               "height": test["pokedexHeightM"], "weight": test["pokedexWeightK"],
+               "candy1": candy1, "candy2": candy2, "des": des
+              }
 
+# Move class   
 class move():
     def __init__(self, inn):
-      settings=inn["move"]
-      self.id = re.search("V[0-9]+",inn['templateId']).group().strip("V")
-      self.name =  settings.get("movementId")
+      settings=inn["data"]["move"]
+      self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
+      self.name =  settings.get("uniqueId")
       self.chi = chimovedict[self.id]
       self.eng = engmovedict[self.id]
       self.quick = True if 'FAST' in inn['templateId'] else False
-      self.type = self.typehandle(settings['pokemonType'])
+      self.type = self.typehandle(settings['type'])
       self.power= settings.get("power","")
       self.energy= self.energyhandle(settings.get("energyDelta",""))
       self.times= settings.get("durationMs","")
@@ -186,6 +236,7 @@ class move():
                 if(value==0):
                     if(inn["buffs"][char]<0):buffdebuff="降"
                     if(abs(inn["buffs"][char])==2):  number=" 2 層"
+                    if(abs(inn["buffs"][char])==3):  number=" 3 層"
                 if("target" in char):who="對方"
                 if("Attack" in char): atkdef+="攻擊"
                 if("Defense" in char): atkdef+="防禦"
@@ -222,14 +273,14 @@ for data in master:
         
     if(re.search("^V[0-9]+_MOVE_",data["templateId"])):
         movelist.append(move(data))
-        
+
 #Find male/female ratio     
 noww=-1
 for data in master:
     if(re.search("SPAWN_V[0-9]+_POKEMON_", data["templateId"])):
         for i in range(noww+1, len(pokelist)):
             if(pokelist[i].name in data["templateId"]):
-                pokelist[i].ratiohandle(data["genderSettings"]["gender"])
+                pokelist[i].ratiohandle(data["data"]["genderSettings"]["gender"])
                 noww=i; break
         else:print("ratio error",data["templateId"]) #Didn't found, weird situation
         
@@ -239,10 +290,12 @@ for data in master:
     if(re.search("COMBAT_V[0-9]+_MOVE_", data["templateId"])):
         for i in range(noww+1, len(movelist)):
             if str(movelist[i].name) in data["templateId"]:
-                movelist[i].pvphandle(data["combatMove"])
+                movelist[i].pvphandle(data["data"]["combatMove"])
                 noww=i; break
-        else:print("pvp error", data["templateId"]) #Didn't found, weird situation
+        else: print("pvp error", data["templateId"]) #Didn't found, weird situation
 
+
+    
 #Special condition: make DEOXYS's moves the same as DEOXYS_NOMARL's
 for x in pokelist:
     if x.name== 'DEOXYS':
@@ -263,17 +316,11 @@ for i in pokelist:
         for value,char in enumerate(i.charged):
             for z in movelist:
                 if z.name==char:
-                    i.charged[value]=z.chi
+                    i.charged[value]=z.chi  
 
-#for i in pokelist:
-#    print(i.quick)   
-
-#Output file
+# Output file
 origin=pd.DataFrame([i.__dict__ for i in pokelist])
 
-# =============================================================================
-# Main Pokemon List
-# =============================================================================
 main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|SHADOW|PURIFIED') ].reset_index(drop=True)
 main=main.sort_values(by=['id'],kind='mergesort')
 
@@ -281,7 +328,10 @@ main=main.sort_values(by=['id'],kind='mergesort')
 main=rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
 main=rearrange(main, 'SAWSBUCK_AUTUMN', 'SAWSBUCK_SUMMER' )
 
-maindb=main.drop(["id","name","chi","eng","quick","charged"], axis=1)
+# =============================================================================
+# Main Pokemon List
+# =============================================================================
+maindb=main.drop(["id","name","chi","eng","quick","charged","mega","mega2"], axis=1)
 mainheader=main[["id","name","chi","eng"]]
 maindb.to_csv('Pokemon Data/Pokemondb.csv' , encoding='utf_8_sig', header=False, index=False)
 mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', header=False, index=False)
@@ -290,17 +340,36 @@ mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', heade
 # Shadow Pokemon List
 # =============================================================================
 shadow=origin[ origin['name'].str.contains('SHADOW|PURIFIED') ]
-shadow=shadow.drop(["name","quick","charged","desccat","descintro"], axis=1)
+shadow=shadow.drop(["name","quick","charged","desccat","descintro","mega","mega2"], axis=1)
 shadow.insert(3, "Form","",True) 
 shadow["Form"] = "暗影型態"
 shadow.loc[1::2,"Form"] = "淨化型態"
 shadow=shadow.sort_values(by=['id'],kind='mergesort')
 shadow.to_csv('Pokemon Data/Shadows.csv' , encoding='utf_8_sig', header=False, index=False)
 
+
 # =============================================================================
-# #Pokemon Move
+# Mega Pokemon List
 # =============================================================================
-#Move MEW to last line and Segment Mew
+mega1= main[~ main["mega"].isnull()]
+pokename1=mega1[["chi","eng"]].reset_index()
+megainfo1=pd.DataFrame(list(mega1["mega"]))
+megamerge1=pd.concat([pokename1,megainfo1],axis=1)
+
+mega2= main[~ main["mega2"].isnull()]
+pokename2=mega2[["chi","eng"]].reset_index()
+megainfo2=pd.DataFrame(list(mega2["mega2"]))
+megamerge2=pd.concat([pokename2, megainfo2], axis=1)
+
+megaout=pd.concat([megamerge1,megamerge2]).sort_values("index")
+megaout.insert(3, "Empty", "", True) 
+megaout.insert(15, "Empty", "", True) 
+megaout.to_csv('Pokemon Data/Mega.csv' , encoding='utf_8_sig', header=False, index=False)
+
+# =============================================================================
+# Pokemon Move
+# =============================================================================
+# Move MEW to last line and Segment Mew
 pokename=main[["id","name","chi","eng"]]
 quickmove=main["quick"].tolist()
 chargedmove=main["charged"].tolist()
@@ -336,7 +405,7 @@ pokemoveheader.to_csv('Pokemon Data/Pokemoveheader.csv' , encoding='utf_8_sig', 
 pokemovedb.to_csv('Pokemon Data/Pokemovedb.csv' , encoding='utf_8_sig', header=False, index=False)
 
 # =============================================================================
-# #Moves Info
+# Moves Info
 # =============================================================================
 quickdb=[]; chargeddb=[]
 moveorigin=[i.__dict__ for i in movelist]
@@ -347,14 +416,13 @@ for i in moveorigin:
 quickdb=pd.DataFrame(quickdb).drop(["name","quick","buff","buffchance"],axis=1)
 chargeddb=pd.DataFrame(chargeddb).drop(["name","quick","turnpvp"],axis=1)
 
-quickdb.insert(8, "split",['' for i in range(len(quickdb))])
-quickdb.insert(quickdb.shape[1], "split2",['' for i in range(len(quickdb))])
-
-chargeddb.insert(8, "split",['' for i in range(chargeddb.shape[0])])
-chargeddb.insert(11, "split2",['' for i in range(len(chargeddb))])
+quickdb.insert(8, "split", "")
+quickdb.insert(quickdb.shape[1], "split2", "")
+chargeddb.insert(8, "split", "")
+chargeddb.insert(11, "split2", "")
 
 for _ in range(len(chargeddb)-len(quickdb)):
-    quickdb=quickdb.append(pd.Series(), ignore_index=True)
+    quickdb=quickdb.append(pd.Series(dtype="float64"), ignore_index=True)
     
 a=[i for i in range(len(chargeddb))]
 quickdb['test']=a; chargeddb['test']=a; 
