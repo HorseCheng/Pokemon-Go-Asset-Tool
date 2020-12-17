@@ -5,10 +5,10 @@ with open("Version.txt", "r") as f:
     version = s[1][0:-1]
 print(version)
 
-with open("Merge/" + version + "chinesetraditional.json") as f:
+with open("Merge/" + version + "chinesetraditional.json", encoding='UTF-8') as f:
     chi = json.load(f)
     chi= chi["data"]
-with open("Merge/" + version + "english.json") as f:
+with open("Merge/" + version + "english.json", encoding='UTF-8') as f:
     eng = json.load(f)
     eng = eng["data"]
 

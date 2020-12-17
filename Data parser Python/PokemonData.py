@@ -10,11 +10,11 @@ with open("Version.txt", "r") as f:
     version = s[1][0:-1]
 print(date, version)
 
-with open("Merge/" + version + "english.json") as f:
+with open("Merge/" + version + "english.json", encoding="UTF-8") as f:
     eng = json.load(f)
 eng = eng ["data"]
 
-with open("Merge/" + version + "chinesetraditional.json") as f:
+with open("Merge/" + version + "chinesetraditional.json", encoding="UTF-8") as f:
     chi = json.load(f)
 chi = chi ["data"]
 
@@ -24,6 +24,10 @@ master=master ["template"]
 
 typeeform = open("Coefficient/Type.txt", "r", encoding="UTF-8")
 weatherform = open("Coefficient/Weather.txt", "r", encoding="UTF-8")
+
+#Pokemon Go Home Pokemon
+forbiddenlist=["V0351_POKEMON_CASTFORM_HOME_FORM_REVERSION","V0487_POKEMON_GIRATINA_HOME_REVERSION","V0555_POKEMON_DARMANITAN_HOME_FORM_REVERSION","V0647_POKEMON_KELDEO_HOME_FORM_REVERSION","V0648_POKEMON_MELOETTA_HOME_FORM_REVERSION","V0649_POKEMON_GENESECT_HOME_FORM_REVERSION"]
+
 
 #Preprocess
 typee={}
@@ -40,9 +44,15 @@ catdict={}; introdict={}; MEGAintrodict={}
 for value,char in enumerate(chi):
     x=re.search("pokemon_category_[0-9]+", char)
     if(x):
-        key=re.search("[0-9]+",char).group()
-        catdict[key]=chi[value+1]
-        
+        key=re.findall("[0-9]+",char)
+        if len(key)==1:
+            catdict[str(key[0])]=chi[value+1]
+        else:
+            if int(key[1])<100: 
+                catdict[str(key[0])+"_ALOLA"]=chi[value+1]
+            else:
+                catdict[str(key[0])+"_GALARIAN"]=chi[value+1]
+
     x=re.search("pokemon_desc_[0-9]+", char)
     if(x):
         key=re.findall("[0-9]+", char)
@@ -59,9 +69,11 @@ for value,char in enumerate(chi):
         key=re.findall("[0-9]+", char)
         if MEGAintrodict.get(str(key[0])+"_1") == None:
             MEGAintrodict[str(key[0])+"_1"]=chi[value+1]
-
         else:  
             MEGAintrodict[str(key[0])+"_2"]=chi[value+1]
+
+#New Pokemon, still don't have description
+#introdict["0562_GALARIAN"] = ""
 
 chinamedict={}
 for value,char in enumerate(chi):
@@ -76,9 +88,10 @@ for value,char in enumerate(eng):
         engnamedict[key]=eng[value+1]
     except: pass
 
-#New Pokemon
-# chinamedict["0865"] = "葱遊兵"
-# engnamedict["0865"] = "Sirfetch'd"
+# New Pokemon
+chinamedict["0866"] = "踏冰人偶"
+engnamedict["0866"] = "Mr. Rime"
+
        
 chimovedict={}
 for value,char in enumerate(chi):
@@ -113,16 +126,20 @@ class pokemon():
      self.weather2= self.weatherhandle(self.type2, self.weather1)
      self.capture = self.capturehandle(settings["encounter"].get("baseCaptureRate","")) 
      self.flee = settings["encounter"].get("baseFleeRate","")
-     self.atk = settings["stats"]["baseAttack"]
-     self.deff= settings["stats"]["baseDefense"]
-     self.hp= settings["stats"]["baseStamina"]
-     self.height= settings["pokedexHeightM"]
-     self.weight= settings["pokedexWeightKg"]
+     self.atk = settings["stats"].get("baseAttack",0)
+     self.deff= settings["stats"].get("baseDefense",0)
+     self.hp= settings["stats"].get("baseStamina",0)
+     self.height= settings.get("pokedexHeightM",0)
+     self.weight= settings.get("pokedexWeightKg",0)
      self.candy= self.candyhandle(settings.get("evolutionBranch",""))
      self.thirdstardust= settings["thirdMove"].get("stardustToUnlock","")
      self.thirdcandy= settings["thirdMove"].get("candyToUnlock","")
+
+     self.shadowstardust=self.shadowhandle(settings, "shadowstardust")
+     self.shadowcandy=self.shadowhandle(settings, "shadowcandy")
+
      self.buddy= settings["kmBuddyDistance"]
-     self.camdist= round(settings["encounter"]["cameraDistance"], 3)
+     self.camdist= round(settings["encounter"].get("cameraDistance",0), 3)
      self.camrad= round(settings["encounter"]["collisionRadiusM"], 3)
      self.camheight= round(settings["encounter"]["collisionHeightM"], 3)
      self.ratio=""
@@ -130,12 +147,13 @@ class pokemon():
      self.descintro=self.descripthandle("intro")
      self.quick=settings.get("quickMoves")
      self.charged=settings.get("cinematicMoves")
+
      self.mega= self.megahandle(settings, 1)
      self.mega2= self.megahandle(settings, 2)
      
     def typehandle(self, inn):
-     if(inn==""): return ""
-     return typee[inn]
+        if(inn==""): return ""
+        return typee[inn]
 
     def weatherhandle(self, inn, one=""):
         for name, value in weather.items():
@@ -145,55 +163,75 @@ class pokemon():
         return ""
  
     def capturehandle(self, inn):
-     return 1 if inn==100 else inn
+        return 1 if inn==100 else inn
     
     def candyhandle(self, inn):
-
-     if(type(inn)==list ): 
-        for i in inn:
-            if "tempEvolution" not in i:
-                return i["candyCost"]
-     return ""
+        if(type(inn)==list ): 
+            for i in inn:
+                if "temporaryEvolution" not in i:
+                    return i["candyCost"]
+            return ""
      
     def descripthandle(self, typee):
         if(typee=="cat"):
-           try: return catdict[self.id]
-           except: return ""
+            if("ALOLA" in self.name):
+                try: return catdict[self.id+"_ALOLA"]
+                except: return catdict[self.id]
+            if "GALARIAN" in self.name:
+                try: return catdict[self.id+"_GALARIAN"]
+                except: return catdict[self.id]
+            try: 
+                return catdict[self.id]
+            except: 
+                print(f"category error {self.id}")
+                return ""
+
         if("ALOLA" in self.name):
             return introdict[self.id+"_ALOLA"]
         if "GALARIAN" in self.name:
-            return introdict[self.id+"_GALARIAN"]
-
-        try: return introdict[self.id]
-        except: return ""
+            try: return introdict[self.id+"_GALARIAN"]
+            except: return introdict[self.id]
+        try: 
+            return introdict[self.id]
+        except: 
+            print(f"description error {self.id}")
+            return ""
     
     def ratiohandle(self, inn):
         if(inn.get("malePercent","")==1): self.ratio="全男性" 
         elif(inn.get("femalePercent","")==1): self.ratio="全女性"
         elif(inn.get("genderlessPercent","")==1): self.ratio="無性別"
         else: self.ratio=inn["malePercent"]
-        
+
+    def shadowhandle(self, settings, inn):
+        if "SHADOW" in self.name:
+            if inn=="shadowstardust":
+                return settings["shadow"].get("purificationStardustNeeded", "-")
+            else:
+                return settings["shadow"].get("purificationCandyNeeded", "-")
+        else: return "-"
+
     def megahandle(self, inn, num):
-        test=inn.get("temporaryEvolutions")
+        test=inn.get("tempEvoOverrides")
         if test== None: return None
         if num==2: 
             if len(test)==1: return None
         test=test[num-1]
-        type1= self.typehandle(test.get("type1",""))
-        type2= self.typehandle(test.get("type2",""))
+        type1= self.typehandle(test.get("typeOverride1",""))
+        type2= self.typehandle(test.get("typeOverride2",""))
         weather1=self.weatherhandle(type1)
         weather2=self.weatherhandle(type2, weather1)
         des=MEGAintrodict[self.id+"_"+str(num)]
         
         for i in inn["evolutionBranch"]:
-            if test["temporaryEvolutionId"]== i["tempEvolution"]:
-                candy1= i["firstTempEvolutionCandyCost"]
-                candy2= i["subsequentTempEvolutionCandyCost"]
+            if test["tempEvoId"]== i["temporaryEvolution"]:
+                candy1= i["temporaryEvolutionEnergyCost"]
+                candy2= i["temporaryEvolutionEnergyCostSubsequent"]
         
         return{"type1": type1,"type2": type2,"weather1": weather1,"weather2": weather2,
                "baseAttack": test["stats"]["baseAttack"], "baseDefense": test["stats"]["baseDefense"], 
                "baseStamina": test["stats"]["baseStamina"],
-               "height": test["pokedexHeightM"], "weight": test["pokedexWeightK"],
+               "height": test["averageHeightM"], "weight": test["averageWeightKg"],
                "candy1": candy1, "candy2": candy2, "des": des
               }
 
@@ -266,10 +304,11 @@ maxquick=0; maxcharged=0
 
 for data in master:
     if(re.search("^V[0-9]+_POKEMON_",data["templateId"])):
-        pokelist.append(pokemon(data))
-        if(pokelist[-1].quick != None and len(pokelist[-1].quick) > maxquick and pokelist[-1].name!='MEW'): maxquick=len(pokelist[-1].quick)
-        if(pokelist[-1].charged != None and len(pokelist[-1].charged) > maxcharged and pokelist[-1].name!='MEW'): maxcharged=len(pokelist[-1].charged)
-        #except:print(data)
+        if (data["templateId"] not in forbiddenlist):
+            pokelist.append(pokemon(data))
+            if(pokelist[-1].quick != None and len(pokelist[-1].quick) > maxquick and pokelist[-1].name!='MEW'): maxquick=len(pokelist[-1].quick)
+            if(pokelist[-1].charged != None and len(pokelist[-1].charged) > maxcharged and pokelist[-1].name!='MEW'): maxcharged=len(pokelist[-1].charged)
+            #except:print(data)
         
     if(re.search("^V[0-9]+_MOVE_",data["templateId"])):
         movelist.append(move(data))
@@ -282,8 +321,9 @@ for data in master:
             if(pokelist[i].name in data["templateId"]):
                 pokelist[i].ratiohandle(data["data"]["genderSettings"]["gender"])
                 noww=i; break
-        else:print("ratio error",data["templateId"]) #Didn't found, weird situation
-        
+        else:
+            print("ratio error",data["templateId"]) #Didn't found, weird situation
+
 #PVP Moves Info
 noww=-1
 for data in master:
@@ -331,7 +371,7 @@ main=rearrange(main, 'SAWSBUCK_AUTUMN', 'SAWSBUCK_SUMMER' )
 # =============================================================================
 # Main Pokemon List
 # =============================================================================
-maindb=main.drop(["id","name","chi","eng","quick","charged","mega","mega2"], axis=1)
+maindb=main.drop(["id","name","chi","eng","quick","charged","shadowstardust","shadowcandy","mega","mega2"], axis=1)
 mainheader=main[["id","name","chi","eng"]]
 maindb.to_csv('Pokemon Data/Pokemondb.csv' , encoding='utf_8_sig', header=False, index=False)
 mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', header=False, index=False)
@@ -351,17 +391,18 @@ shadow.to_csv('Pokemon Data/Shadows.csv' , encoding='utf_8_sig', header=False, i
 # =============================================================================
 # Mega Pokemon List
 # =============================================================================
-mega1= main[~ main["mega"].isnull()]
-pokename1=mega1[["chi","eng"]].reset_index()
+mega1= main[~ main["mega"].isnull()].drop_duplicates(subset ="chi") 
+pokename1=mega1[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
 megainfo1=pd.DataFrame(list(mega1["mega"]))
 megamerge1=pd.concat([pokename1,megainfo1],axis=1)
 
 mega2= main[~ main["mega2"].isnull()]
-pokename2=mega2[["chi","eng"]].reset_index()
+pokename2=mega2[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
+megainfo2=pd.DataFrame(list(mega1["mega"]))
 megainfo2=pd.DataFrame(list(mega2["mega2"]))
 megamerge2=pd.concat([pokename2, megainfo2], axis=1)
 
-megaout=pd.concat([megamerge1,megamerge2]).sort_values("index")
+megaout=pd.concat([megamerge1,megamerge2]).sort_values("id")
 megaout.insert(3, "Empty", "", True) 
 megaout.insert(15, "Empty", "", True) 
 megaout.to_csv('Pokemon Data/Mega.csv' , encoding='utf_8_sig', header=False, index=False)
