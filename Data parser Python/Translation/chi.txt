@@ -29,7 +29,7 @@ It’s violent or prohibited
 Thank you for your contribution! Your feedback has been submitted for review.
 感謝你的編輯！
 I want more from this category
-I want more Sponsored Gifts in general
+我想要更多贊助商禮物
 其他
 I want more from this advertiser
 We care about your Pokémon GO experience and appreciate your feedback. <b><a href="https://www.nianticlabs.com">Learn more</a></b>.
@@ -269,6 +269,7 @@ GO火箭隊即將統治這整個世界。你就認命吧，我或許還能賞你
 葉子包包
 蓋諾賽克特背包
 耿鬼背包
+The North Face x Gucci 背包
 城都包包
 Longchamp 背包
 謎擬Ｑ背包
@@ -300,6 +301,7 @@ Verizon口罩
 等級41 太陽眼鏡
 神祕面具
 2020派對眼鏡
+2021派對眼鏡
 淚滴型墨鏡
 黑粗框眼鏡
 精英訓練家手套
@@ -340,6 +342,7 @@ HF設計師聯名款棒球帽
 蓋諾賽克特棒球帽
 耿鬼針織帽
 皮卡丘遮陽帽
+The North Face x Gucci 帽子
 暴鯉龍帽子
 城都帽
 冬季針織帽
@@ -353,6 +356,7 @@ HF設計師聯名款棒球帽
 超夢款帽
 謎擬Ｑ的畫皮帽
 夢妖魔帽
+新年派對帽
 皮卡丘帽
 皮卡丘頭飾
 面罩摔角手皮卡丘 面罩
@@ -373,6 +377,7 @@ Samsung Galaxy紮染帽
 火箭隊帽
 GO火箭隊棒球帽
 禮帽
+風妖精耳罩
 維羅博士的眼鏡
 滾滾蝙蝠耳環
 哭哭面具大禮帽
@@ -437,7 +442,9 @@ GO FEST 2020 T恤
 亞洛組合
 克里夫組合
 希爾拉組合
+藏飽栗鼠毛衣
 青綠風皮衣
+The North Face x Gucci T恤
 道館館主上衣
 靈犀隊日式法被
 叡智隊日式法被
@@ -459,6 +466,7 @@ Ingress Prime / Blue
 夢幻T恤
 超夢款背心
 小霞背心
+武藏2020電影套裝
 Pokémon Shirt - 霸王花
 Pokémon Shirt - 大舌頭
 Pokémon Shirt - 鯉魚王
@@ -510,6 +518,7 @@ Verizon上衣
 資深訓練家大衣
 比克提尼T恤
 比克提尼T恤
+排釦大衣 白
 精英訓練家長靴
 精英訓練家運動鞋
 小豪的鞋子
@@ -548,6 +557,10 @@ N風運動鞋
 彩虹火箭隊長靴
 史帕克風休閒鞋
 資深訓練家長靴
+冬季短靴
+冬季短靴
+冬季短靴
+冬季短靴
 內搭褲
 不穿襪子
 城都過膝長襪
@@ -572,6 +585,7 @@ N風運動鞋
 火焰背包
 蓋諾賽克特背包
 耿鬼背包
+The North Face x Gucci 背包
 城都郵差包
 Longchamp 背包
 謎擬Ｑ背包
@@ -598,6 +612,7 @@ Verizon口罩
 等級41 太陽眼鏡
 神祕面具
 2020派對眼鏡
+2021派對眼鏡
 黑粗框眼鏡
 精英訓練家手套
 N風吊飾
@@ -637,6 +652,7 @@ HF設計師聯名款棒球帽
 蓋諾賽克特棒球帽
 耿鬼針織帽
 皮卡丘遮陽帽
+The North Face x Gucci 帽子
 暴鯉龍帽子
 城都棒球帽
 冬季針織帽
@@ -649,6 +665,7 @@ HF設計師聯名款棒球帽
 超夢款帽
 謎擬Ｑ的畫皮帽
 夢妖魔帽
+新年派對帽
 皮卡丘帽
 皮卡丘頭飾
 面罩摔角手皮卡丘 面罩
@@ -669,6 +686,7 @@ Samsung Galaxy紮染帽
 火箭隊帽
 GO火箭隊棒球帽
 禮帽
+風妖精耳罩
 維羅博士的眼鏡
 滾滾蝙蝠耳環
 哭哭面具大禮帽
@@ -732,7 +750,9 @@ GO FEST 2020 T恤
 亞洛組合
 克里夫組合
 希爾拉組合
+藏飽栗鼠毛衣
 青綠風皮衣
+The North Face x Gucci T恤
 道館館主上衣
 靈犀隊日式法被
 叡智隊日式法被
@@ -756,6 +776,7 @@ Ingress Prime / Blue
 美錄坦長袖上衣
 夢幻T恤
 超夢款上衣
+小次郎2020電影套裝
 Pokémon Shirt - 霸王花
 Pokémon Shirt - 大舌頭
 Pokémon Shirt - 鯉魚王
@@ -805,6 +826,7 @@ Verizon上衣
 資深訓練家褲襪
 比克提尼T恤
 比克提尼T恤
+排釦大衣 白
 精英訓練家短靴
 精英訓練家運動鞋
 小豪的鞋子
@@ -844,6 +866,10 @@ N風運動鞋
 彩虹火箭隊長靴
 史帕克風休閒鞋
 資深訓練家長靴
+冬季短靴
+冬季短靴
+冬季短靴
+冬季短靴
 內搭褲
 不穿襪子
 熔岩隊長襪
@@ -853,11 +879,12 @@ N風運動鞋
 姿勢
 大吾
 姿勢
+冬季
 鞋子
 新品上架！
 膚色
 襪子
-Longchamp
+SPONSORED
 有新服飾囉！
 上衣
 UNIQLO
@@ -961,6 +988,8 @@ Busan, November 22, 2020
 City Spotlight 2020
 Tainan, November 22, 2020
 City Spotlight 2020
+2020年12月19～20日
+踢、踢、踢踏踢……
 讓 {0} 隻寶可夢進化
 研究員
 N0
@@ -1044,6 +1073,10 @@ Pokémon GO Fest - 提前入場
 Pokémon GO Fest
 全球，2020年7月25日・26日
 Pokémon GO Fest
+全球 2021年2月20日
+Pokémon GO Tour：關都地區
+全球 2021年2月20日
+Pokémon GO Tour：關都地區
 在超級聯盟的訓練家對戰中獲勝 {0} 次
 在超級聯盟的訓練家對戰中獲勝1次
 超級聯盟資深訓練家
@@ -1065,6 +1098,8 @@ N0
 和 {0} 名訓練家成為正港好朋友
 偶像
 N0
+完成收藏家挑戰
+傑出收藏家
 日本 2018年4月6日
 Pokémon GO Special Weekend 2019/4/6
 日本 2019年4月7日
@@ -1446,7 +1481,7 @@ LOADING...
 夥伴現在不能吃點心！
 {0}！就決定是你了！
 一起玩
-Your buddy brought you a Gift.
+你的夥伴為你找到了一個禮物！
 提升友誼等級後，將可獲得來自夥伴的謝禮！點擊心型圖示，確認細節。
 和寶可夢建立深厚的感情後，牠就更能在對戰中發揮實力。
 正港好夥伴獎章
@@ -1488,7 +1523,7 @@ CP加成
 夥伴會更常找到樹果和道具
 夥伴帶來的道具種類變多
 你的夥伴帶了紀念品要給你！
-Buddy will bring you Gifts more often
+夥伴會更常找到禮物
 歷代夥伴
 替換夥伴
 {0} 天
@@ -1677,6 +1712,7 @@ CP加成
 拜訪新地點
 和你的夥伴一起走路吧！
 {0} 找到1顆糖果！
+{0} 找到1顆糖果XL！
 一起走路
 和夥伴作伴！
 夥伴比較容易變得欣喜若狂
@@ -1870,12 +1906,14 @@ Safari Zone禮盒
 為岩石屬性的寶可夢拍攝1張GO Snapshot照片
 為鋼屬性的寶可夢拍攝1張GO Snapshot照片
 為水屬性的寶可夢拍攝1張GO Snapshot照片
+稍後上傳
 變更貼圖
 變更代碼
 確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
 變更自己的訓練家代碼
 無法對暗影寶可夢使用特殊招式學習器
 Pokémon GO Fest
+無法選擇版本，請稍後再試一次
 阿波美卡拉維
 阿布達比
 阿克拉
@@ -2382,9 +2420,11 @@ GO火箭隊幹部
 社群日：電擊獸
 社群日
 社群日：鬼斯
+社群日：腕力
 社群日：鯉魚王
 社群日：鴨嘴火獸
 社群日：多邊獸
+Community Day: Roselia
 社群日：橡實果
 社群日：獨角蟲
 完成1個AR Mapping課題
@@ -2411,6 +2451,7 @@ GO火箭隊幹部
 yyyy年 M月 d日
 d
 {0}日{1}小時
+十二月社群日入場券
 拒絕
 確定要刪除這個朋友申請嗎？
 刪除此朋友申請後，對方將再也無法傳送朋友申請給你
@@ -2487,6 +2528,7 @@ Disable Gifts from Sponsors
 開始孵蛋
 哦？
 得到了1顆蛋！你真是太幸運了！
+可孵出的寶可夢
 走 {0} 公里來孵化這顆蛋！
 活動主題10公里蛋
 活動主題2公里蛋
@@ -2631,14 +2673,23 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 進入團體戰時出現錯誤
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
-友情12天
+12 Days of Friendship
+豐緣慶典
+城都慶典
 卡洛斯慶典
+關都慶典
+捕捉到和超級進化寶可夢同屬性的寶可夢時，能獲得更多糖果
 讓勇基拉進化成胡地後，牠就能學會雙倍奉還
+讓茸茸羊進化成電龍，牠就能學會龍之波動
 成功登入 {0} 了！
 慶祝的季節
+神奧慶典
 卡通動畫週
 嫻熟技巧派：幽靈屬性
-Pokémon the Movie: Secrets of the Jungle Event
+寶可夢電影上映紀念
+伽勒爾魔牆人偶活動
+小心烏波！
+合眾慶典
 參加活動
 進化週：捕捉 {0} 墨海馬
 進化週：捕捉 {0} 隻大岩蛇
@@ -2666,6 +2717,7 @@ Pokémon the Movie: Secrets of the Jungle Event
 登入
 已註冊的玩家
 Explore Responsibly
+探險家皮卡丘將出現在地圖上
 GO Time!
 左側
 右手扠腰
@@ -2692,6 +2744,7 @@ GO Time!
 N的姿勢
 等級43 姿勢
 等級43 姿勢
+魔牆人偶的姿勢
 閒著
 究極之月 包包
 等級41 太陽眼鏡
@@ -2751,6 +2804,7 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 阿羅拉
 只限蛋
 交換進化
+糖果XL
 特殊
 防禦者
 距離
@@ -2925,7 +2979,7 @@ Other Niantic Games to Share
 朋友節：和朋友交換1隻寶可夢
 朋友節：在訓練家對戰中和其他訓練家對戰，並獲勝1次
 Lv {0}
-友誼等級提升速度加快
+Friendship levels increase more quickly
 攻擊獎勵
 +{0} 顆球
 +{0} 顆球
@@ -2982,11 +3036,13 @@ GDC 2019: Catch {0} Pokemon
 123456789
 雌性
 雄性
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年7月25日、26日的10:00～20:00參加遊戲裡的Pokémon GO Fest。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
-入場券：GO Fest 2020
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年12月19日10:00～2020年12月20日20:00參加遊戲裡的「踢、踢、踢踏踢……」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+伽勒爾魔牆人偶活動入場券
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年1月16日11:00～17:00領取腕力社群日「腕力衝衝衝」的特殊調查。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
-「燃燒吧！鴨嘴火獸！」入場券
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年2月7日11:00～17:00領取毒薔薇社群日的特殊調查「好一朵美麗的毒薔薇」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+「好一朵美麗的毒薔薇」入場券
+「腕力衝衝衝」入場券
 「燃燒吧！鴨嘴火獸！」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年7月25日、26日的10:00～20:00參加遊戲裡的Pokémon GO Fest。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 Pokémon GO Fest 2020
@@ -3013,6 +3069,7 @@ GO
 前往商店
 HP
 kg
+公里
 m
 More
 網路錯誤
@@ -3272,7 +3329,19 @@ GO Fest Global：在團體戰中獲勝1次
 GO Fest Global：在道館對戰中獲勝 {0} 次
 無法進行認證，請再試一次。
 Google
-Holiday
+選擇綠版
+選擇紅版
+版本只能選擇一次，之後無法變更。
+要選擇綠版嗎？
+要選擇紅版嗎？
+在社群網站上分享照片時記得加上 #PokemonGOTour 標籤，我們會分享我們的最愛喔！
+你選擇的是綠版
+你選擇的是紅版
+在社群網站上分享照片時記得加上 #PokemonGOTour 標籤，我們會分享我們的最愛喔！
+一起來挑戰「Pokémon GO Tour：關都地區」吧！在時間截止前捕捉到下列寶可夢！
+歡迎來到Pokémon GO Tour：關都地區！
+歡迎來到Pokémon GO Tour：關都地區！
+冬季
 我一定會贏……畢竟這可是出人意料的突擊啊！
 我一定會贏……只要我出其不意！
 本姑娘3秒就能解決你！
@@ -3639,6 +3708,7 @@ GO FEST
 孵蛋的XP增為3倍
 https://pokemongo.nianticlabs.com/support/friends
 https://niantic.helpshift.com/a/pokemon-go/
+豐緣收藏家挑戰
 豐緣活動
 歡慶假期：捕捉 {0} 隻冰屬性寶可夢
 歡慶假期：捕捉 {0} 隻信使鳥或雪笠怪
@@ -3695,6 +3765,7 @@ h
 此商品已下架
 薰香日
 薰香可吸引利牙魚
+薰香可吸引咩利羊
 尾立將會被薰香吸引
 薰香日：屬性大洗牌
 薰香時間加倍
@@ -3802,11 +3873,15 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 墨莓果
 又硬又堅固的鱗片，可讓特定寶可夢進化。
 龍之麟片
+只要擁有這張入場券，不論你在何處都能在當地時間2021年1月16日11:00～17:00挑戰特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
-只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
+只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年1月16日活動時間內領取特殊調查。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
-入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
+入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
 入場券
+只要擁有這張入場券，不論你身在何處，都能在當地時間2021年2月7日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟用，不論你在何處，都能在當地時間2021年2月7日11:00～17:00領取特殊調查的課題。
 參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。
 團體戰入場券
 只有收到的人才能打開的禮物。裡面裝滿了許多方便的道具。
@@ -3817,8 +3892,10 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 合眾之石
 你可以用這個來追蹤GO火箭隊總部。或許GO火箭隊老大就在那裡！
 超級火箭隊雷達
-A ticket to access a special event on February 20, 2021, from 9:00 a.m. to 9:00 p.m. local time, wherever you are.
+只要擁有這張入場券，不論你身在何處，都能在當地時間2021年2月20日9:00～21:00獲得特殊調查的課題。
 入場券將會在當地時間2021年2月20日9:00自動啟用。
+這張入場券將會自動啟用。你可以使用這張入場券來參加當地時間2021年2月20日的活動。參加活動前，請選擇遊戲版本。你可以考慮和朋友分別選擇不同的版本，讓「收藏家挑戰」更容易完成。
+這張入場券將會自動啟用。你可以使用這張入場券來參加當地時間2021年2月20日的活動。你可以在個人檔案畫面的獎牌一覽中確認自己選擇的版本。
 入場券
 寶可夢吃下這種樹果後，會變得更容易捕捉，而且會掉更多糖果。
 銀色凰梨果
@@ -3931,6 +4008,8 @@ VIP團體戰入場券
 火箭隊雷達
 讓你可攜帶的道具數量增加 {0} 。
 升級包包
+武藏和小次郎將會乘著喵喵熱氣球出現
+城都收藏家挑戰
 城都活動
 將寶可夢傳送至GO Park，獲得 {0} 個道具！
 拒絕了 {0} 的邀請
@@ -3941,6 +4020,8 @@ VIP團體戰入場券
 暗影 {0} 逃走了
 成功淨化暗影 {0} ！
 邀請 {0} 一起參加VIP團體戰
+卡洛斯收藏家挑戰
+關都收藏家挑戰
 關都盃
 關都活動
 湖之神話活動
@@ -3969,11 +4050,16 @@ VIP團體戰入場券
 {0} 級升級條件
 {0} 級換裝道具
 完成課題後，將能自動獲得獎勵！
+捉到的寶可夢
+拜訪過的寶可補給站
+團體戰獲勝次數
+上一級活動總結
 開放新道具了
 升級！
 限定調查
 喵喵期間限定調查
 尼多蘭和尼多朗的期間限定調查
+狃拉限定調查
 布魯限定調查
 無法綁定此帳號
 <size=32>{0}發生錯誤</size>無法綁定此帳號
@@ -4005,6 +4091,7 @@ Google
 此帳號已綁定至其他玩家
 輸入用戶名稱
 用戶名稱
+愛情盃
 幸運蛋效果延長為1小時
 下次和這位朋友交換寶可夢時將可獲得亮晶晶寶可夢！
 亮晶晶好朋友
@@ -4055,6 +4142,7 @@ GO Time!
 N的姿勢
 等級43 姿勢
 等級43 姿勢
+魔牆人偶的姿勢
 閒著
 究極之日 包包
 慢跑者墨鏡
@@ -4105,7 +4193,7 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 蓮葉童子研究：在道館對戰中使出1次「效果絕佳」的特殊招式
 大師聯盟經典賽
 紀念盃
-Cannot create more than {0} tags.
+最多只可建立 {0} 個標籤
 噴霧式傷藥。能讓1隻寶可夢的HP完全回復。一組10個。
 全滿藥 × 10
 讓瀕死的寶可夢重獲生機，並回復所有HP的活力塊。一組6個。
@@ -4126,7 +4214,7 @@ Cannot create more than {0} tags.
 {0} 已加入對戰！
 在{0}超級進化的期間內，捕捉<b>{1}屬性</b>和<b>{2}屬性</b>的寶可夢或頭目寶可夢時將能獲得額外的糖果。
 在{0}超級進化的期間內，捕捉<b>{1}屬性</b>的寶可夢或頭目寶可夢時將能獲得額外的糖果。
-{0} Mega Evolution Bonus
+{0} 超級進化獎勵
 CP {0} → <color=#2ECDA8>{1}</color>
 超級進化
 超級進化
@@ -4136,7 +4224,23 @@ CP {0} → <color=#2ECDA8>{1}</color>
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2020-12-09T11:06:31.466715at SHA 3ceaf8d43cc19ad815e81cf3fa80e9a9159fe85cPipeline 523970, job 4577322
+Built at 2021-02-26T12:05:49.406370at SHA 034a4ace6ecd0247e9b13d031813f04d1418596fPipeline 570055, job 5120645
+關都收藏家挑戰
+城都收藏家挑戰
+城都慶典傳說級收藏
+豐緣收藏家挑戰
+神奧收藏家挑戰
+合眾收藏家挑戰
+城都慶典：暗影收藏
+M/dd/yyyy
+完成收藏家挑戰
+在限制時間內捕捉下列所有寶可夢，為你的傑出收藏家獎牌錦上添花！
+收藏家挑戰
+已完成的挑戰
+可以在傑出收藏家獎牌上確認已完成的收藏家挑戰。
+恭喜你完成收藏家挑戰了！
+完成收藏家挑戰！
+收藏家挑戰進度！
 m
 {0}分{1}秒
 使用實境融合前請開啟Niantic AR
@@ -4428,6 +4532,11 @@ m
 以牙還牙
 岩石炮
 氣旋攻擊
+高科技光炮
+高科技光炮
+高科技光炮
+高科技光炮
+高科技光炮
 飛翔
 Ｖ熱焰
 三重攻擊
@@ -4453,6 +4562,8 @@ m
 泡沫栗鼠研究：打敗1個GO火箭隊手下
 泡沫栗鼠研究：拜訪 {0} 個寶可補給站
 泡沫栗鼠研究：在道館對戰中使出1次「效果絕佳」的特殊招式
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年12月19日10:00～2020年12月20日20:00參加遊戲裡的「踢、踢、踢踏踢……」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+伽勒爾魔牆人偶活動入場券
 已選擇 {0} 隻寶可夢
 自己的分數
 取消
@@ -4548,6 +4659,8 @@ Pokémon GO 服務條款
 你可以透過分享上線狀態來讓朋友知道你是否可以參加訓練家對戰。
 開啟
 開啟設定
+這是來自<b>{0}</b>的禮物！
+打開禮物
 其他
 特級對戰入場券可用來參加團體戰和GO對戰聯盟的特級對戰。請至商店以寶可幣交換。
 特級對戰入場券可用來參加團體戰和GO對戰聯盟的特級對戰。請至商店以寶可幣交換。
@@ -4620,9 +4733,11 @@ Pokémon GO Plus 的配對已被解除
 小火龍將在GO Snapshot中驚喜現身5次
 電擊獸將在GO Snapshot中驚喜現身5次
 鬼斯將在GO Snapshot中驚喜現身5次
+腕力將在GO Snapshot中驚喜現身5次
 鯉魚王將在GO Snapshot中驚喜現身5次
 鴨嘴火獸將在GO Snapshot中驚喜現身5次
 多邊獸將在GO Snapshot中驚喜現身5次
+5 surprise encounters with Roselia in GO Snapshot
 橡實果將在GO Snapshot中驚喜現身5次
 獨角蟲將在GO Snapshot中驚喜現身5次
 GO Snapshot驚喜邂逅
@@ -4753,6 +4868,8 @@ OK
 目前無法使用此功能
 距離寶可補給站太遠，無法進行投稿
 將在等級 {0} 解鎖！
+謝謝你！
+上傳中 {0}/{1}
 錯誤
 無照片
 取消
@@ -5021,6 +5138,7 @@ HP
 星形寶可夢
 謎寶可夢
 屏障寶可夢
+舞蹈寶可夢
 螳螂寶可夢
 人形寶可夢
 電擊寶可夢
@@ -5625,6 +5743,7 @@ HP
 停止寶可夢
 維京寶可夢
 黃嘴鴨寶可夢
+喜劇演員寶可夢
 怨念寶可夢
 確定要傳送這隻特殊的寶可夢嗎？
 Pokémon Day
@@ -5774,6 +5893,7 @@ The Farfetch’d of the Galar region are brave warriors, and they wield thick, t
 如果在夏天快結束時的晚上到沙灘去，就能看見海星星讓身上被稱為核心的器官發出紅光，變得像天上的星星一樣。
 因為身體中央被稱為核心的部分會發出七彩光芒，所以牠被冠上了海之寶石的別名。
 能用肢體動作去表現看不見的東西，讓人相信它真的存在的默劇高手。被人信以為真的東西會真的出現。
+擅長踢踏舞。會用冷氣製造出冰之地板並將其踢起，以此作為保護自己的障壁。
 肉眼無法看清的速度讓雙臂上的鐮刀變得更加鋒利。只要一揮鐮刀，就連大樹也能一分為二。
 會用跳舞般的腰部動作跟著節奏走路。動作輕快得連看的人都會不由自主地開始扭腰。
 暴風雨來臨時，牠們會爭先恐後地爬到樹上等容易遭到雷擊的高處。有些城市會用牠來代替避雷針。
@@ -6384,6 +6504,7 @@ The Farfetch’d of the Galar region are brave warriors, and they wield thick, t
 能夠發出驚人的音量。牠在大叫的同時威嚇對手的樣子被稱為「攔堵」。
 有著十分好戰的性格。頭上像鐵頭盔一樣的東西其實是牠硬化後的體毛。
 Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
+踢踏舞的達人。會揮動手中的冰杖，向觀眾表演輕快的舞步。
 被注入了強烈詛咒的古代繪畫在吸進哭哭面具的靈魂後就開始動起來了。
 據說充足的營養和陽光 會讓花朵的顏色變得更加鮮豔。 花朵散發的香氣能夠療癒人心。
 會在空中四處飛翔尋找強大的對手。 在面對比自己弱小的對手時， 牠不會吐出那可熔化一切的高溫火焰。
@@ -6437,6 +6558,7 @@ Only Farfetch’d that have survived many battles can attain this evolution. Whe
 小碎鑽的突變種。 散發著粉紅光輝的身體 被譽為世界第一美麗。
 點擊牠來進化！
 無法將寶可夢設為我的最愛
+#PokemonGO
 你可以使用GO傳送裝置將Pokémon GO裡的寶可夢傳送至Pokémon HOME。傳送寶可夢時需使用登入Pokémon HOME的<a href="https://www.nintendo.com.hk/support/nintendo_account/">Nintendo Account</a>。使用GO傳送裝置將寶可夢傳送至Pokémon HOME時將會消耗傳送裝置的能量，而此能量需要花費一些時間才能充飽。請點選<a href="https://game.portal-pokemon.com/pokemonhome/tc/about/howto_pokemongo/index.html">此處</a>來確認如何將寶可夢傳送至Pokémon HOME。
 傳送
 {0} 需要一頓大餐！
@@ -7332,10 +7454,12 @@ UNKNOWN
 堵攔熊
 喵頭目
 蔥遊兵
+踏冰人偶
 死神板
 請輸入別的暱稱
 成功淨化 {0} ！
 確定要傳送這隻異色寶可夢嗎？
+你選擇的寶可夢中包含了傳說的寶可夢／幻之寶可夢！確定要傳送嗎？
 蟲
 惡
 龍
@@ -7388,6 +7512,7 @@ UNKNOWN
 你的包包已經滿了。請到商店擴充包包容量。
 目前無法使用此寶可補給站
 此寶可補給站即將關閉
+Please enter activation code
 若將取用位置資訊設定為「永遠允許」，遊戲關閉時仍可持續計測行走距離，讓夥伴寶可夢獲得糖果、協助孵蛋及賺取獎勵。
 隱私權政策
 隱私權
@@ -7495,6 +7620,8 @@ Let's Go：孵 {0} 顆蛋
 捕捉寶可夢時使用 {0} 個樹果
 捕捉寶可夢時使用1個樹果
 1天之內捕捉 {0} 隻寶可夢
+捕捉 {0} 隻固拉多
+捕捉 {0} 隻蓋歐卡
 連續捕捉 {0} 隻傳說的寶可夢
 捕捉 {0} 隻傳說的寶可夢
 捕捉1隻傳說的寶可夢
@@ -7646,14 +7773,17 @@ Tokyo eSports 2020：捕捉 {0} 隻名單上的寶可夢
 念力寶可夢的超能力
 時光漣漪
 火尾童話
-December Community Day
+12月社群日
 電擊獸擊電
 詭異的鬼斯
 令人毛骨悚然的怨念
+腕力衝衝衝 (1/4
 跳躍吧魚寶可夢！
-燃燒吧！鴨嘴火獸！
+No Match for Magmar
 Let’s GO！美錄坦
 幻之寶可夢現蹤！？
+完成 {0} 個收藏家挑戰
+完成1個收藏家挑戰
 解碼多邊獸
 可疑人物現蹤！
 暗影中逼近的威脅
@@ -7663,11 +7793,13 @@ Let’s GO！美錄坦
 來自暗影的威脅持續擴大
 孜孜不倦
 怪哉怪蛋
+好一朵美麗的毒薔薇
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2019
 橡實寶可夢的小秘密
 毛毛時刻
 每日獎勵
+打敗武藏或小次郎 {0} 次
 嘿，%PLAYERNAME%，你真是我做研究的最佳夥伴，我正好有事要找你呢。
 你聽我說。我昨天晚上在調查和破破袋誕生有關的化學反應的時候……
 突然看到遠方有一道閃光，所以我就前去一探究竟。
@@ -7793,12 +7925,14 @@ Let’s GO！美錄坦
 讓1隻毒屬性的寶可夢進化
 讓1隻布魯進化
 讓1隻寶可夢進化
+讓1隻狃拉進化
 讓1隻鯉魚王進化
 讓 {0} 隻波波進化
 讓1隻墨海馬進化
 讓1隻喵喵進化
 讓1隻催眠貘進化
 讓1隻醜醜魚進化
+讓1隻伽勒爾魔牆人偶進化
 讓1隻臭泥進化
 讓1隻小磁怪進化
 讓1隻飛天螳螂進化
@@ -7871,6 +8005,7 @@ GO Fest：和其他訓練家對戰
 豐緣祭典：捕捉 {0} 隻蛇紋熊或傲骨燕
 豐緣祭典：讓 {0} 隻刺尾蟲進化
 豐緣祭典：孵 {0} 顆蛋
+豐緣慶典調查
 使用 {0} 個薰香
 使用薰香
 醜醜魚研究：帶夥伴寶可夢走路，獲得1顆糖果
@@ -7914,6 +8049,9 @@ GO Fest：和其他訓練家對戰
 交換到 {0} 隻亮晶晶寶可夢
 交換到1隻亮晶晶寶可夢
 和朋友進行 {0} 次寶可夢交換
+捕捉 {0} 隻腕力
+讓 {0} 隻腕力進化
+讓 {0} 隻豪力進化
 捕捉 {0} 隻鯉魚王
 讓 {0} 隻鯉魚王進化
 捕捉 {0} 隻鴨嘴火獸
@@ -7996,6 +8134,8 @@ GO Fest：和其他訓練家對戰
 連續 {0} 天旋轉寶可補給站的轉盤
 在1場道館對戰中使出 {0} 次效果絕佳的特殊招式
 在超級聯盟訓練家對戰中和其他訓練家對戰，並獲勝 {0} 次
+捕捉 {0} 隻毒薔薇
+讓 {0} 隻毒薔薇進化
 傳送 {0} 個友情禮物
 傳送友情禮物給朋友
 為蓋諾賽克特拍攝 {0} 張照片
@@ -8079,38 +8219,38 @@ GO Fest：和其他訓練家對戰
 另一方面，對超級噴火龍Ｙ來說，與訓練家的牽絆是牠力量的泉源，牠引以為傲的飛行能力甚至凌駕於噴射機之上。
 真是太神奇了！我等不及要看看訓練家們在對戰時使用超級進化寶可夢的英姿了！
 %PLAYERNAME%，這次也很感謝你的幫忙，下次再一起做研究吧！
-Hello there, %PLAYERNAME%! It’s so great to see you. Can you believe this year is already coming to a close?
-It’s almost as if Pokémon in the wild can feel it, too. A few seem to be appearing in greater numbers than usual!
-Strangely enough, the Pokémon appearing more frequently at the moment seem to be the same as those that did so previously throughout this year.
-Seeing all these Abra, Rhyhorn, and Piplup in the wild is making me a bit nostalgic. We’ve had quite a year, haven’t we?
-As you venture out to catch these Pokémon, I think it might be nice to reminisce on some of the highlights from this year and how much you’ve grown as a Pokémon Trainer along the way.
-Who knows—you might even surprise yourself!
-Great job catching all those Abra, Rhyhorn, and Piplup, Trainer.
-As you were doing that, I was busy thinking about all we’ve accomplished together this year.
-We discovered the secrets of trade Evolution and met a vast variety of Pokémon originally discovered in the Unova region.
-We even encountered Legendary Pokémon like Tornadus, Thundurus, Reshiram, Zekrom, Landorus, and Kyurem!
-Then there were the Pokémon originally discovered in the Galar region. I was particularly excited to see Galarian Ponyta, Galarian Rapidash, and Sirfetch’d!
-Oh! And who could forget the mysterious appearance of Mega-Evolved Pokémon?
-Hard to believe we fit all that into one year, eh, %PLAYERNAME%?
-Anyway, I’ve rambled on long enough. It’s time for you to get back out there and catch some more Pokémon!
-Ah—Weedle, Gastly, and Seedot. The stars of some memorable days this past year! I still get a bit jumpy at the sight of acorns. Haha!
-Gastly gave us a bit of a fright as well. Remember?
-OOOooooOOOoooo... BOO! Haha, sorry—I couldn’t help it.
-You know, Gastly isn’t the only gaseous thing we saw in abundance this year.
-That’s right—I’m talking about Team GO Rocket taking to the sky in balloons! An almost cartoonish mode of transportation, and yet surprisingly effective.
-You know, if the members of Team GO Rocket weren’t so devoted to villainy, their assets and energy would likely make them great allies.
-I hope that world comes to be someday.
-Ah, pardon my wistfulness. I tend to get more and more pensive as the day wears on. Does that happen to you as well?
-Perhaps you can ponder that while you go out and catch more Pokémon, %PLAYERNAME%!
-It’s certainly been an interesting year, hasn’t it, %PLAYERNAME%? I can’t remember another one like it, and I’ve seen a few!
-But despite all the ways it’s challenged us, I can’t help but think that it’ll make future experiences feel even more precious and special.
-After all, no matter what happens, we’re all on this Pokémon journey together—every Trainer, regardless of where they are in the world.
-That’s truly something special.
-So when the going gets tough, remember that you’re not in this alone. And while bad days are inevitable, I like to think they make the good ones that much sweeter.
-I hope today has been one of the good ones for you!
-The world is ever changing, %PLAYERNAME%. What doesn’t change, however, is the fact that we have each other and our Pokémon.
-And as the mysterious world of Pokémon continues to grow, so do we—as Trainers, as a community, and as people.
-So here’s to a year for the books—and many more exciting ones to come!
+嘿，%PLAYERNAME%！很高興能在迎接2021年前再次見到你！是說2020年居然就要結束了！
+寶可夢們似乎也能感受到空氣中那股不一樣的氣氛，有一部分寶可夢出現得比平常還頻繁呢！
+話又說回來，這些出現得比較頻繁的寶可夢似乎是一些熟面孔……
+你有看到凱西、獨角犀牛、波加曼牠們嗎？仔細想想，今年真的過得好快啊。
+去捕捉些寶可夢，回顧你這一年的成長吧。
+也許你會發現一些驚喜也說不定。
+看來你捉到了好多凱西凱西、獨角犀牛和波加曼呢。
+你知道今年讓我印象最深刻的是什麼事嗎？
+我們先是發現了透過交換來讓寶可夢進化的可能性，然後又遇見了許多來自合眾地區的寶可夢。
+而且我們還找到了龍捲雲、雷電雲、士地雲、萊希拉姆、捷克羅姆和酋雷姆等傳說的寶可夢。
+對了，你還記得第一次見到伽勒爾地區寶可夢時的那份喜悅嗎？伽勒爾小火馬、伽勒爾烈焰馬烈焰馬和蔥遊兵讓我興奮了好久呢！
+噢！！我們當然也不能忘了寶可夢的超級進化！
+%PLAYERNAME%，你相信這不過是短短一年內發生的事嗎？
+欵你看看我這個人就是這樣，一開始聊起寶可夢就停不下來了。別聊了，我們繼續做研究吧。可以請你去捉些寶可夢嗎？
+讓我看看你捉到了哪些寶可夢……獨角蟲、鬼斯和橡實果。哈哈，我到現在看到懸在樹上的樹果時還是會怕它突然動起來呢。
+鬼斯也是差點讓我嚇破膽。你還記得嗎？
+牠們占據了我的研究室……
+說到占據，我就想到今年GO火箭隊的策略真是出人意表。
+沒想到他們居然會想出用熱氣球來四處移動的方法，而且還蠻成功的！
+如果GO火箭隊他們不是總在做壞事，我倒是覺得他們蠻多點子都新鮮有趣。
+也許有一天，我們也能和他們做朋友吧。
+人上了年紀，總是會想要在生活裡找到一些希望。你也會這樣嗎？
+你出去捉寶可夢的時候順便思考一下這個問題吧。
+%PLAYERNAME%，你不覺得這一年其實還蠻有趣、蠻有意義的嗎？
+雖然說過去的這一年裡有很多嚴峻的挑戰，但我們同時了學到了很多平常絕對無法學到的事物。
+不論發生了什麼事、不論我們身處何方，我們都是同樣踏上寶可夢冒險旅程的訓練家。
+這就是最深的羈絆。
+這世界上當然無法事事盡人意，但你要記得你並不孤單。也許一切都開始得不是順利，可是當一切都順利上了軌道時，你會覺得那份喜悅無可言喻。
+我覺得那樣也不錯！
+雖然這世界不斷在變化，但和其他訓練家們一起冒險、一起做調查的樂趣絕對不會改變。%PLAYERNAME%，真的很謝謝你過去一年來的幫忙。
+在寶可夢棲息的這個世界裡，不論是人類還是寶可夢，都會不斷地持續成長。
+珍惜你在2020年留下的每個回憶，一起來期待2021年的到來吧！
 嘿，%PLAYERNAME%，你來得正是時候！
 研究室一直斷電，我在研究到底是發生了什麼事。
 我很快就找出原因了。我找到一群電擊獸在吃我研究室的電！
@@ -8135,6 +8275,32 @@ So here’s to a year for the books—and many more exciting ones to come!
 如果你要帶牠一起去對戰的話，記得先好好學學要怎麼用牠。
 研究室的電力也恢復了，我終於可以把我的研究做完了。
 這次真的很感謝你，接下來可能也會要請你幫忙，到時候再麻煩你囉！
+%PLAYERNAME%，好久不見了！最近我身邊發生了一些不可思議的事……
+我每天早上都是凰梨果配咖啡，所以我早上也是帶著一模一樣的早餐走出我的研究室。
+可是我才剛踏出一步就踩到了一片冰，狠狠地摔倒在地上。我的凰梨果砸了、咖啡潑了，這一天就這麼毀了。
+早上是有點冷沒錯，但還沒冷到會讓路上結冰。所以我決定去調查一下冰屬性的寶可夢。
+請你幫我一起做研究，一起找出是誰砸了我的早餐……！
+%PLAYERNAME%，幹得好！看來你捉到不少冰屬性寶可夢了呢！
+看來我們就快找出害我砸了早餐的犯人了……！噢對了，有件事我忘了告訴你。
+就在我砸了早餐的那天晚上，我換上了我最舒服的一套睡衣，準備用完美的花草茶來好好安慰自己。
+可是就在我準備好要數咩利羊睡覺的時候，外面一陣陣踢踏踢踏的聲音硬是把我吵醒！
+我實在不願意離開我那舒服的床，所以我並沒有去確認那聲音是從哪來的。我就躺在床上，祈禱那踢踏踢踏的聲音可以趕快結束。
+現在一想起來，也許那道聲音跟我研究室入口的結冰事件都是同一隻寶可夢幹的好事。
+你可以幫我調查一下跟聲音有關的寶可夢嗎？我想在天氣變冷前趕快把事情解決。
+……%PLAYERNAME%！！吼你真的是要嚇死我了！
+我要跟你說，其實那踢踏舞般的聲音一直沒停……
+……？嗯？嗯嗯？噢！我想我找到答案了！！
+我們要找的寶可夢一定就是伽勒爾的魔牆人偶！！
+伽勒爾魔牆人偶是舞蹈寶可夢，牠除了很擅長跳踢踏舞，還會用冷氣製造出冰之地板。
+看來伽勒爾魔牆人偶就是我們要找的犯人了。請你去捉伽勒爾魔牆人偶，看看我的推理到底正不正確。
+噢！！你捉到伽勒爾魔牆人偶了！看來牠沒有我想像得那麼可怕嘛！
+也許牠進化之後會變得更有親和力？
+文獻上說伽勒爾魔牆人偶會進化成喜劇演員寶可夢「踏冰人偶」。這隻踢踏舞達人會揮動手中的冰杖，向觀眾表演輕快的舞步。
+不知道牠能不能教我怎麼跳踢踏舞呢……欵先別管這個了，你要想辦法讓伽勒爾魔牆人偶進化。
+天啊！牠進化成踏冰人偶了！！謝謝你，%PLAYERNAME%。
+聽說踏冰人偶的舞步很幽默，我還真想好好見識見識。
+雖然這次的調查真的很有意義，但我實在不想又跌倒又砸早餐……
+%PLAYERNAME%，下次再見囉！
 %PLAYERNAME%！你來得正好！
 我原本打算要和寶可夢們度過一個充實的週末，但正如你所見，這間公園出現了一些不尋常的地質現象！
 我們必須找出原因並解決這個問題。可以請你幫忙嗎？
@@ -8211,6 +8377,51 @@ BOO!
 你趕快去多收集些哭哭面具的糖果，讓牠進化吧。要把寶可夢登錄進圖鑑，才算是真正完成研究。
 這次的伽勒爾哭哭面具調查真是有趣。
 希望你盡情享受秋高氣爽的好天氣，千萬別被妖魔鬼怪嚇跑了啊！
+武藏「我說小次郎啊……你有聽到嗎？」
+小次郎「聽到什麼？」
+武藏「聽說附近的森林裡有一隻超級罕見的寶可夢耶！」
+小次郎「妳說什麼！？」
+武藏「他們說那隻寶可夢被奉為是『森林之神』呢！」
+小次郎「什麼？這聽起來像是老大會很喜歡的寶可夢耶！」
+武藏「可是這是我們第一次來這裡耶？我們找得到那隻寶可夢嗎？」
+小次郎「唔……我們去找人來幫忙好了。」
+武藏「欵，我說那邊那個人。對，我就是在說你！你是不是阪木老大派來的小幫手啊？沒錯！你一定就是我們的小幫手！」
+小次郎「小幫手？噢，真不愧是阪木老大！他真是太偉大了！那既然你都來了，就好好幫個忙吧！」
+武藏「幹得好、幹得非常好！！你挺厲害的嘛！！」
+小次郎「辛苦你啦！（粗重活就是要丟給別人去做啊，哈哈哈）武藏跟我可是很忙的！我們絕對沒有蹺班啊！」
+武藏「沒錯，當你在外面奔波的時候，我可是花費了不少心思在維護我的美貌呢！不過看在你也幫了不少忙的份上，我就給你一點時間休息吧！」
+小次郎「這點子真是太好了！休息可是為了走更長的路啊！」
+小次郎「跟你的夥伴出去玩玩吧！」
+武藏「真是太感謝老大派小幫手過來了！」
+小次郎「對了，我們還沒問問你是什麼來頭。你平常是哪一隊的？你是什麼時候加入火箭隊的？你最尊敬老大哪一點？」
+小次郎「喂，你到底打哪來的？」
+小次郎「……」
+武藏「你最好趕快從實招來……」
+武藏「哼！我打從一開始就知道你這傢伙不能相信！你這傢伙真是有夠可疑！你一定是別人派來的間諜！是不是！你給我說到底是不是！？」
+小次郎「我是那麼相信你……！我以為你是我們的同志啊！！」
+武藏「既然我們的作戰計劃都被你聽到了，那我們就不能讓你走出這裡！小次郎！」
+小次郎「真是膽大包天，居然敢欺騙我們！我絕對要讓你哭著回去找媽媽！」
+武藏「你說你不知道我們是誰？」
+武藏「既然你誠心誠意地發問了……」
+小次郎「那我們就大發慈悲地告訴你！」
+武藏「……」
+武藏「為了防止世界被破壞！」
+小次郎「為了守護世……吼你有在聽嗎！？」
+小次郎「喂，妳怎麼突然這麼安靜？」
+小次郎「等等，武藏。是誰跟妳說老大會派小幫手來的？」
+武藏：啥？沒有人跟我說啊？
+小次郎「也沒有人跟我說啊！」
+武藏「明明就是你說『你一定就是我們的小幫手』的啊！」
+小次郎「我才沒說過那句話！」
+小次郎「……」
+武藏「我們居然會被這樣的小毛頭打敗！不可能！」
+小次郎「不可能！絕對不可能！老大他……」
+小次郎「什麼！？」
+武藏「你後面的寶可夢是不是就是森林之神時拉比？！」
+小次郎「吼！！！我們明明就可以捉到牠的啦！！！！」
+武藏「這筆帳你給我好好記住！」
+小次郎「下次我絕對要讓你死得很難看！」
+武藏「好討厭的感覺啊～！」
 %PLAYERNAME%，你的成長讓我留下了深刻的印象。
 你真的投入了很多時間和心力。幹得好！
 你還記得我們第一次見面的那一天嗎？我拜託你去捕捉第一隻寶可夢的那一天。
@@ -8323,6 +8534,37 @@ BOO!
 你要好好記住捉住第1隻寶可夢的喜悅、和夥伴一起出門走路的喜悅、和其他訓練家一起打倒頭目訓練家的喜悅。
 請你記得我和隊長永遠都會在你身邊守護著你，當你需要我們時，我們永遠都會在這裡。而當我需要研究助手時，也請你務必要不吝幫忙！
 %PLAYERNAME%，感謝你為我們做的一切。接下來也要請你多多指教囉！！
+……
+噢，%PLAYERNAME%，你來啦。我都沒注意到呢……
+寶可夢是我最關心的，但我最近一直覺得我該有其他的興趣。
+你知道，自我探索也是很重要的。所以我決定要去看個電影，轉換一下心情。
+不過到最後，我還是去看了寶可夢的電影。你知道，所有興趣都是有關連的。
+我前幾天去看了一部動作片。在那部片裡面，腕力是主角的好夥伴。
+在腕力的協助之下，主角突破了重重困難，成為了職業拳擊手。
+你知道腕力很喜歡鍛鍊自己嗎？牠們真的很有體力，跟我這個做個田野調查就累翻的人完全不同。
+說到腕力……你有發現外面出現了很多腕力嗎？就是因為這樣，我才會想到那部動作片。
+我們去調查一下外面的腕力吧！
+嘿，%PLAYERNAME%！謝謝你的幫忙。我想你跟你的夥伴之間的羈絆一定和主角跟腕力之間的羈絆一樣強。
+在電影裡，主角好幾次都想放棄他的夢想，但腕力不斷鼓勵他，
+所以他終於決定要去參加比賽。我最喜歡的，就是腕力進化成豪力的那一幕！
+訓練家和夥伴寶可夢之間的羈絆、進化成豪力的腕力，電影裡的一切都讓我好感動！
+豪力的肉體非常強韌，所以牠甚至得戴著力量限制腰帶來控制力量。
+我想你現在應該有足夠的糖果能讓腕力進化成豪力。就像電影裡的那一幕一樣！
+哇，你的豪力看起來好強大！
+據說豪力會在山野裡鍛鍊身體。
+電影裡面也有一幕是主角帶著豪力到山野裡鍛鍊身體。
+看到他們感情越來越好的樣子，我忍不住哭出來了！尤其是豪力進化成怪力的那一幕，它讓我再次明白我有多麼熱愛寶可夢！
+天啊……我又太激動了。腕力和豪力都是很有魅力的寶可夢，但怪力完全是不同的層次。
+牠能夠迅速活動４隻手臂，從各種角度毫不停歇地使出拳擊或手刀。
+我跟你說！電影裡的怪力也能用迅雷不及掩耳的速度使出拳擊！
+不過沒看過電影的人大概不知道我在講什麼……
+你可以去幫我調查一下怪力嗎？讓你的豪力進化成怪力吧！
+噢，%PLAYERNAME%！你和怪力站在一起的模樣簡直就跟電影裡的那幕一模一樣！
+沒有怪力的幫忙，主角也無法在比賽中獲勝。
+這種描寫寶可夢和訓練家之間羈絆的電影真是賺人熱淚。
+就算你沒看過那部片，我想你一定也能理解電影主角的心情。畢竟我也是這樣。
+嘗試新事物的時候，你永遠不知道你會在其中發現什麼。就像你永遠不知道你會遇見哪隻寶可夢，哪隻寶可夢會成為你一生的夥伴。
+謝謝你陪我一起調查腕力。記得跟你的怪力好好培養感情囉！
 嘿，%PLAYERNAME%！你有聽見那個聲音嗎？
 這整個早上我一直聽到那噗唰！噗唰！的水聲。我覺得這實在不太尋常。
 在經過一番調查之後，我發現地圖上出現了一大群鯉魚王。而且牠們一直跳、一直跳……
@@ -8345,32 +8587,32 @@ BOO!
 我很期待看到你和暴鯉龍在對戰中的活躍！
 不過你要切記千萬別破壞過了頭，別像過去那樣燒了整座城市啊。
 那我回去做研究了，下次再見囉！
-嘿，%PLAYERNAME%，你來得正是時候！
-最近氣溫比較高，所以我想找個地方乘涼。只是不知道為什麼我怎麼走，每個地方都很熱……
-我很懷疑是不是有寶可夢在搞怪。
-我知道有隻寶可夢很怕寒冷的地方，牠會噴出熾熱的火焰，把周圍變成適合自己居住的環境。
-我知道全世界氣候異常，可是我相信一定是有隻寶可夢出現了，所以氣溫才會上昇這麼多。
-你想知道我在說哪隻寶可夢？我先把牠寫在這張紙上，等你回來之後，我們再來對答案。
-言下之意就是……請你出門去幫我調查一下寶可夢囉！
-嘿，你回來啦。
-好，那我們來對答案吧。我寫的寶可夢是……鴨嘴火獸！
-救人喔！牠的火花居然把我的紙片燒掉了！
-不過這證明了一切都是吐火寶可夢鴨嘴火獸搞的鬼。
-據說鴨嘴火獸深呼吸時，身體周圍會產生熱浪，使身影變得模糊難以看清。
-而這隻寶可夢居然是由可愛的鴨嘴寶寶進化而來的。這實在是太不可思議了。
-鴨嘴寶寶的體型雖小，但牠的體溫卻高達600度。每次吸氣和呼氣的時候，都會從嘴巴和鼻子裡冒出火花。
-不管怎麼說，我們先想辦法來讓鴨嘴火獸進化吧。
-%PLAYERNAME%，繼續加油！
-再過不久，你就能見到爆炎寶可夢鴨嘴炎獸了！
-不過你可千萬要小心，聽說牠能從手部前端發射出攝氏2000度的火球！
-像這樣，砰、砰、砰！
-我好像太興奮了……
-對了，你手上有神奧之石和鴨嘴火獸的糖果對吧？試著讓鴨嘴炎獸進化看看吧。
-%PLAYERNAME%，恭喜你啊！看來你終於找到鴨嘴炎獸了！
-鴨嘴炎獸跟鴨嘴寶寶、鴨嘴火獸一樣，都喜歡住在火山口
-牠除了能從手腕前端射出攝氏2000度的火球，牠的身體還因為發熱而微微發白。
-微微發白的鴨嘴火獸……喔喔我好想研究牠喔！！我決定要出門做研究！！
-%PLAYERNAME%，期待下次再見囉～
+Ah, %PLAYERNAME%! Perfect timing. I’ve just encountered something strange!
+I’ve been feeling a bit warm lately, so I walked to a nearby clearing to enjoy the cool breeze—but the temperature seemed to rise as I arrived!
+Curious, isn’t it? I suspect it’s the work of a certain Pokémon.
+There’s one that’s known to dislike cold areas so much, it’ll blow scorching flames to heat up its surroundings.
+I believe there are large groups of this particular Pokémon appearing all over the place right now.
+Ah, you’re wondering which Pokémon I’m talking about? I think I’ll keep that to myself for now. But here—I'll write it on this piece of paper, and we can check later to see if I was right!
+Can you go investigate and let me know what you find? Thanks, Trainer!
+Welcome back, %PLAYERNAME%.
+As promised, I’ll now reveal my guess as to which Pokémon is responsible for these recent temperature spikes. As you can see, I wrote down...Magmar!
+My intuition is pretty “lit,” eh? Am I using that ri—AH! Wow, that little fireball turned my paper straight to ash!
+Anyway, it seems the cause of these irregular warm fronts is indeed Magmar, the Spitfire Pokémon.
+When it breathes deeply, heat waves form around its body, making it hard to see clearly. Isn’t that just incredible?
+And to think that this intimidating Pokémon evolves from the adorable Magby, the Live Coal Pokémon!
+As adorable as Magby is, though, field studies have shown that whenever it inhales and exhales, hot embers dribble out of its mouth and nostrils. Still doesn’t stop me from trying to hug it!
+Anyway, %PLAYERNAME%, you should try evolving your Magmar! Check in with me again before you do, though—I’ll have more hot tips for you then.
+You’re almost there, %PLAYERNAME%!
+Soon, you’ll have yourself a Magmortar, the Blast Pokémon. Exciting stuff!
+Watch out for the ends of its arms, though—they can produce fireballs as hot as 3,600 degrees Fahrenheit! Yowch!
+Can you imagine if you could blast fireballs out of your arms? Fwoosh! Fwoosh! Hahaha! Hey, that’s pretty fun! Fwoosh!
+There I go getting fired up about Pokémon again. Get it? “Fired up”? Haha, my hot streak continues!
+Anyway, with this Sinnoh Stone and the Magmar Candy you’ve acquired, you should be able to evolve your Magmar into Magmortar pretty soon—so keep up the great work, %PLAYERNAME%!
+Excellent work, %PLAYERNAME%! Looks like you’ve got your very own Magmortar.
+Magmortar, like Magby and Magmar, tends to live in volcanos.
+Its body can even take on a whitish hue from the intense heat generated by the fireballs it shoots from the ends of its arms!
+Wow, learning about Magmar and its Evolutionary line has really lit a fire in my heart. I need to get back to my research, pronto!
+See you around, %PLAYERNAME%!
 嘿，%PLAYERNAME%！我覺得我找到了一個……很不得了的東西，我需要跟你分享一下。
 你記得我們最近有觀察到有一大群獨角蟲在野外出現嗎？我想要繼續追蹤一下這個現象。
 有一天我做完研究之後，在獨角蟲聚集的草叢裡發現了一個閃亮亮的東西。
@@ -8736,6 +8978,35 @@ GO火箭隊不會立刻離開，但只要有你們這些訓練家在，我想大
 %PLAYERNAME%，幹得好！你又再次打敗了GO火箭隊的手下、幹部和阪木！
 而且你還拯救了暗影超夢和這麼多暗影寶可夢！
 這或許不會是我們最後一次見到阪木和GO火箭隊，所以請你務必保持戒心，繼續拯救暗影寶可夢和收集怪蛋。
+Ahhh... Do you smell that, Trainer?
+I first caught a whiff of that curious aroma as I was out on my daily morning walk.
+Upon investigation, I discovered that the scent was being produced by an uncommonly large group of Roselia that had assembled nearby.
+Did you know you can judge a Roselia’s health by the strength of its aroma? Well, let me tell you—those were VERY healthy Roselia!
+But while they certainly smell nice and look pretty, I advise you to take care when encountering them.
+The thorns on Roselia’s head contain a vicious poison, and it can launch them at any opponent bold enough to try to steal the flowers on its arms. Every rose, as they say!
+It’s unusual to see so many Roselia in one place. Would you mind assisting me in researching this phenomenon?
+Welcome back, %PLAYERNAME%!
+While you were out in the field, I did some reading on Roselia.
+When it comes to Pokémon, new discoveries are being made all the time—so it’s important to make sure your information is up to date.
+Roselia, the Thorn Pokémon, evolves from Budew, the Bud Pokémon. Budew is sensitive to changes in temperature, and its bud is said to bloom when warmed by the sun.
+It’s also both Grass and Poison type, much like Roselia.
+In reviewing these two Pokémon, I remembered something tremendously exciting! I still need to conduct a bit more research before sharing my findings, however. Would you mind assisting me?
+As aromatic Pokémon go, we’re pretty fortunate it’s Roselia appearing en masse and not, say, Muk.
+A big group of Muk gathered under the sun... The whole place would smell like baked garbage!
+Oh! Hey there, %PLAYERNAME%. Didn’t realize you were back.
+I found that interesting bit of information I wanted to share with you.
+According to my research, Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.
+Isn’t that fascinating? Have you seen anything like that while you’ve been out doing research?
+You seem to have a lucky streak, so I wouldn’t put it past you!
+Now that you’re back, I’d like you to evolve a Roselia with the Sinnoh Stone I gave you.
+I’m excited to see the final Evolution in this line of Grass- and Poison-type Pokémon!
+Great work, Trainer! Your Roselia has evolved into the Bouquet Pokémon, Roserade!
+會用舞者般的動作揮動布滿毒刺的鞭子進行攻擊。
+Oh, and have you noticed that each of Roserade’s hands is a different color?
+Each contains a different toxin. The poison in its right hand is quick acting, while the poison in its left hand is slow acting.
+What an amazing Pokémon!
+Thanks for all your assistance today, Trainer. Documenting situations like this is essential to learning more about the Pokémon in the world around us.
+那麼，下次再見囉！
 嘿，%PLAYERNAME%！你來得正是時候。
 你聽我說。我有天晚上出去散步的時候，撿到了這顆奇妙的石頭。我的直覺叫我把它帶回研究室去做更進一步的研究，但自從我把它帶回來之後，怪事就不斷發生。
 報表到處亂跑、杯子自動倒下……
@@ -8865,16 +9136,22 @@ GO火箭隊不會立刻離開，但只要有你們這些訓練家在，我想大
 火尾童話 (3/5)
 火尾童話 (4/5)
 火尾童話 (5/5)
-December Community Day
-December Community Day (1/4)
-December Community Day (2/4)
-December Community Day (3/4)
-December Community Day (4/4)
+12月社群日
+12月社群日 (1/4)
+12月社群日 (2/4)
+12月社群日 (3/4)
+12月社群日 (4/4)
 電擊獸擊電
 電擊獸擊電 (1/4)
 電擊獸擊電 (2/4)
 電擊獸擊電 (3/4)
 電擊獸擊電 (4/4)
+踢、踢、踢踏踢……
+踢、踢、踢踏踢……(1/5)
+踢、踢、踢踏踢……(2/5)
+踢、踢、踢踏踢……(3/5)
+踢、踢、踢踏踢……(4/5)
+踢、踢、踢踏踢……(5/5)
 直擊！古生代寶可夢之謎！
 直擊！古生代寶可夢之謎！ (1/5)
 直擊！古生代寶可夢之謎！ (2/5)
@@ -8958,16 +9235,21 @@ GO Fest 2019：橫濱 (5/5)
 50級挑戰 (2/4) 
 50級挑戰 (3/4) 
 50級挑戰 (4/4) 
+腕力衝衝衝
+腕力衝衝衝 (1/4)
+腕力衝衝衝 (2/4)
+腕力衝衝衝 (3/4)
+腕力衝衝衝 (4/4)
 跳躍吧魚寶可夢！
 跳躍吧魚寶可夢！(1/4)
 跳躍吧魚寶可夢！(2/4)
 跳躍吧魚寶可夢！(3/4)
 跳躍吧魚寶可夢！(4/4)
-燃燒吧！鴨嘴火獸！
-燃燒吧！鴨嘴火獸！ (1/4)
-燃燒吧！鴨嘴火獸！ (2/4)
-燃燒吧！鴨嘴火獸！ (3/4)
-燃燒吧！鴨嘴火獸！ (4/4)
+No Match for Magmar
+No Match for Magmar (1/4)
+No Match for Magmar (2/4)
+No Match for Magmar (3/4)
+No Match for Magmar (4/4)
 超級對戰挑戰 (1/4)
 超級對戰挑戰 (2/4)
 超級對戰挑戰 (3/4)
@@ -9059,6 +9341,11 @@ Let’s GO！美錄坦 (9/9)
 怪哉怪蛋 (4/6)
 怪哉怪蛋 (5/6)
 怪哉怪蛋 (6/6)
+好一朵美麗的毒薔薇
+好一朵美麗的毒薔薇 (1/4)
+好一朵美麗的毒薔薇 (2/4)
+好一朵美麗的毒薔薇 (3/4)
+好一朵美麗的毒薔薇 (4/4)
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2018 (1/3)
 令人毛骨悚然的訊息 2019 (1/3)
@@ -9160,7 +9447,7 @@ Valentine's Day: 捕捉1隻吉利蛋
 拜訪1個從未去過的寶可補給站
 拜訪 {0} 個寶可補給站
 旋轉1次寶可補給站的轉盤
-一週步行25公里X {0} 次
+收到 {0} 次以時時刻刻冒險模式步行25公里的獎勵
 和夥伴一起走路，取得 {0} 顆糖果
 和夥伴一起走路，取得1顆糖果
 把伊布設為夥伴，並一起行走10公里
@@ -9335,7 +9622,7 @@ M月 d日
 週末特別團體戰
 拉帝亞斯和拉帝歐斯降臨5星團體戰
 參加團體戰可獲得的XP加倍
-從團體戰獲得的XP增加
+Increased XP from raids
 阿羅拉嘎啦嘎啦將現身團體戰
 活動主題頭目寶可夢
 *僅限受邀的訓練家參加
@@ -9408,6 +9695,7 @@ https://pokemongo.nianticlabs.com/support/contact/en
 獎勵換裝道具
 貼圖
 GO火箭隊熱氣球更常出現
+GO火箭隊慶典
 打敗GO火箭隊手下後可獲得2個神秘零件
 GO火箭隊活動
 喵喵熱氣球、武藏和小次郎更常出現
@@ -9594,6 +9882,8 @@ AR+
 收到友情禮物
 常見問題
 查看常見問題
+開啟此功能後，你將可以在選擇複數寶可夢時選擇傳說的寶可夢和部分幻之寶可夢。請注意，寶可夢傳送給維羅博士後將無法把寶可夢帶回來。
+你確定要開啟此功能，在選擇複數寶可夢時也可以選擇傳說的寶可夢和幻之寶可夢嗎？
 Explore Responsibly
 飢餓感
 音樂
@@ -9612,6 +9902,7 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 疑難排解
 https://tw.portal-pokemon.com/special/pika_vee/tc/20180530/
 顯示獎章
+寶可夢
 Pokémon HOME
 寶可夢回來
 時時刻刻冒險進度
@@ -9623,6 +9914,8 @@ Pokémon HOME
 回報重要問題
 回報技術性問題
 確定要更新遊戲數據嗎？
+擴展選擇範圍
+選擇複數寶可夢時也可以選擇傳說的寶可夢和部分幻之寶可夢
 Pokémon GO Plus
 關於 Pokémon GO Plus
 https://support.pokemon.com/hc/articles/360000954814
@@ -9638,6 +9931,7 @@ https://support.pokemon.com/hc/articles/360000955374
 附近的寶可補給站
 購買Pokémon GO Plus
 https://www.nintendo.co.jp/pokemongoplus/
+推播通知
 和朋友分享最近捉到的寶可夢
 音效
 Nintendo Switch
@@ -9760,6 +10054,7 @@ Sale
 神奧慶典：用神奧之石來讓1隻寶可夢進化
 神奧慶典：孵 {0} 顆蛋
 神奧慶典：在團體戰中獲得1次勝利
+神奧收藏家挑戰
 神奧活動
 春季活動
 春季活動的蛋
@@ -9801,11 +10096,14 @@ Not sharing your online status
 更多小火龍出現在地圖上
 更多電擊獸出現在地圖上
 更多鬼斯出現在地圖上
+更多腕力出現在地圖上
 更多鯉魚王出現在地圖上
 更多鴨嘴火獸出現在地圖上
 更多多邊獸出現在地圖上
+More Roselia are appearing in the wild
 更多橡實果出現在地圖上
 更多獨角蟲出現在地圖上
+更多烏波出現在地圖上
 活動主題野生寶可夢
 會場限定：捕捉 {0} 隻寶可夢
 會場限定：贈送 {0} 個友情禮物給朋友
@@ -9831,7 +10129,7 @@ Vasa
 查看優惠
 恭喜你成功取得特殊調查！
 恭喜你成功取得優惠！點擊OK來看看優惠內容吧。
-寶可夢焦點時刻
+寶可夢聚焦時刻
 更多小磁怪出現在地圖上
 更多波波出現在地圖上
 更多扒手貓出現在地圖上
@@ -9929,14 +10227,16 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 世代大挑戰2020：神奧
 「念力寶可夢的超能力」入場券已在商店上架
 特殊調查「火尾童話」的入場券在商店中上架
-Ticket for Special Research story available in the Shop: December Community Day
+12月社群日
 特殊調查「電擊獸擊電」的入場券在商店中上架
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年5月24日11:00～17:00領取橡實果社群日的特殊調查「橡實寶可夢的小秘密」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 入場券：橡實寶可夢的小秘密
 特殊調查「詭異的鬼斯」的入場券已在商店中上架
+特殊調查「腕力衝衝衝」的入場券在商店中上架
 「跳躍吧魚寶可夢！」的入場券已在商店中上架
 特殊調查「燃燒吧！鴨嘴火獸！」的入場券已在商店中上架
 特殊調查「解碼多邊獸」的入場券在商店中上架
+Tickets for Special Research available in the shop
 特殊調查「橡實寶可夢的小祕密」的入場券在商店中上架
 特殊調查「毛毛時刻」的入場券在商店中上架
 將在 {0} 天 {1} 小時後結束
@@ -9962,6 +10262,7 @@ Ticket for Special Research story available in the Shop: December Community Day
 將在1分鐘後結束
 所有訓練家必須同心協力，一起完成這項挑戰！
 現可領取限時調查
+Featured Pokémon in Timed Research
 限時調查中登場的喵喵
 尼多蘭和尼多朗的限時調查
 限時調查中登場的布魯
@@ -9976,6 +10277,7 @@ ADD PHOTO TO POKÉSTOP
 Gallery
 {0} Photos
 1 Photo
+Failed to load images. Please try again later.
 {0} {1} ago
 Walk closer to add a photo to this PokéStop.
 Walk closer to scan this PokéStop.
@@ -10076,7 +10378,7 @@ AR Mapping課題競賽特別獎勵
 若是離開此畫面，這次交換將會被取消
 確定要退出交換嗎？
 調查：
-可交換寶可夢的距離拉長
+Increased trade range
 {0} 送 {1} 來了！
 好好照顧 {0} 喔！
 {0} 的訓練家等級太低，無法使用交換功能
@@ -10247,12 +10549,15 @@ Are you sure you want to unfriend {0}?
 無法解除此帳號的綁定
 <size=36>無法解除帳號綁定！</size>目前遊戲是以此帳號登入，故無法解除帳號綁定
 <size=36>無法解除此帳號的綁定</size>你可能已經將此帳號與其他Niantic服務綁定。請先新增其他登入帳號，再解除此帳號的綁定。
+合眾收藏家挑戰
 合眾活動
 升級包包
+稍後上傳
+立刻上傳
 AR掃描：{0}
 取消上傳
 取消
-確定要刪除 {0} 嗎？（{1} MB）
+確定要刪除 {0} 嗎？
 是
 刪除
 照片：{0}
@@ -10274,6 +10579,31 @@ OK
 正在上傳（共 {0} MB）
 上傳中
 正在等待上傳
+上傳中 {0}/{1}
+取消
+是
+上傳錯誤 ({0})
+已上傳 ({0})
+上傳中 ({0})
+({0} KB)
+({0} MB)
+寶可補給站圖片
+寶可補給站申請
+寶可補給站掃描
+上傳失敗
+POKÉSTOP CONTRIBUTION
+(寶可補給站申請指南)
+Player Nominations
+現在有 {0} 個檔案在等待上傳
+Uploading Pokestop Contributions
+關於位置點數
+無法上傳 {0} 個檔案
+稍後再說
+要再次上傳嗎？
+現在就上傳
+成功上傳 {0} 個檔案！
+已完成上傳！
+已將 {0} 位置點數加至寶可補給站／道館
 使用入場券
 參加團體戰（團體戰開打時，入場券才會被收走）
 使用入場券
