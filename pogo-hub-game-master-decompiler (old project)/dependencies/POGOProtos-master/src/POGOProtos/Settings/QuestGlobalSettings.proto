@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings;
-
-message QuestGlobalSettings {
-	bool enable_quests = 1;
-	int32 max_challenge_quests = 2;
-}

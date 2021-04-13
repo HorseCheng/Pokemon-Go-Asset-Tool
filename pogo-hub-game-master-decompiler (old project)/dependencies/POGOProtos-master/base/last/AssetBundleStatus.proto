@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum AssetBundleStatus {
-	UNLOADED = 0;
-	LOADING = 1;
-	LOADED = 2;
-	FAILED = 3;
-}

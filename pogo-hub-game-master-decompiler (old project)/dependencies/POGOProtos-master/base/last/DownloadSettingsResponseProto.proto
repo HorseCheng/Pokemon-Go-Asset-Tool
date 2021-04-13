@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DownloadSettingsResponseProto {
-	string error = 1;
-	string sha1 = 2;
-	bytes values = 3;
-}

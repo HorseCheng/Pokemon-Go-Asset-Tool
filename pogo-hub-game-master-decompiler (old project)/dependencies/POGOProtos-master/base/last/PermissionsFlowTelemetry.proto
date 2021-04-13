@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PermissionsFlowTelemetry {
-	PermissionContextTelemetryIds permission_context_telemetry_ids = 1;
-	DeviceServiceTelemetryIds device_service_telemetry_ids = 2;
-	PermissionFlowStepTelemetryIds permission_flow_step_telemetry_ids = 3;
-	bool success = 4;
-}

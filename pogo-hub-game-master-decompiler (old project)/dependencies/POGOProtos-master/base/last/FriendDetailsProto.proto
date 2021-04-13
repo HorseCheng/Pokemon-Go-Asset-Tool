@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message FriendDetailsProto {
-	PlayerSummaryProto player = 1;
-	bytes friend_visible_data = 2;
-	int32 score = 3;
-	bytes data_with_me = 4;
-}

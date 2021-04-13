@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum ItemUseTelemetryIds {
-	UNDEFINED_ITEM_EVENT = 0;
-	USE_ITEM = 1;
-	RECYCLE_ITEM = 2;
-	UPDATE_ITEM_EQUIPPED = 3;
-}

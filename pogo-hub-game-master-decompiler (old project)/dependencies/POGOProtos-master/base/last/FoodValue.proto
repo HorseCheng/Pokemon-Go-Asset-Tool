@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message FoodValue {
-	float motivation_increase = 1;
-	int32 cp_increase = 2;
-	Item food_item = 3;
-}

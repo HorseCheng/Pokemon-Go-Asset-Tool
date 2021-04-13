@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaTransactionCompleteProto {
-	BelugaBleCompleteTransferRequestProto beluga_transfer = 1;
-	bytes app_signature = 2;
-	bytes firmware_signature = 3;
-}

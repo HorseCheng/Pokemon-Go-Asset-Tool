@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EggIncubatorsProto {
-	repeated EggIncubatorProto egg_incubator = 1;
-}

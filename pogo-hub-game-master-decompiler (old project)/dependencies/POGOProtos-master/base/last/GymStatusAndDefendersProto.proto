@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GymStatusAndDefendersProto {
-	PokemonFortProto pokemon_fort_proto = 1;
-	repeated GymDefenderProto gym_defender = 2;
-}

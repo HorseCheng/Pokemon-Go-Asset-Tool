@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WeatherAffinityProto {
-	GameplayWeatherProto.WeatherCondition weather_condition = 1;
-	repeated HoloPokemonType pokemon_type = 2;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SubmitPoiLocationUpdateProto {
-	string poi_id = 1;
-	LocationE6Proto location = 2;
-}

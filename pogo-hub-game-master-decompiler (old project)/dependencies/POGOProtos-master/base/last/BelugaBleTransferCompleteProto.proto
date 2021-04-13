@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaBleTransferCompleteProto {
-	string nonce = 1;
-	string beluga_id = 2;
-}

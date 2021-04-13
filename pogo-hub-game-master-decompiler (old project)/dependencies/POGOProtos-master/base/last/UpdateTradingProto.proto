@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UpdateTradingProto {
-	string player_id = 1;
-	fixed64 pokemon_id = 2;
-}

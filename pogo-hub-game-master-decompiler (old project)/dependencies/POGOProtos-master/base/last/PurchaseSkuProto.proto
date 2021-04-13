@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PurchaseSkuProto {
-	string sku_id = 1;
-}

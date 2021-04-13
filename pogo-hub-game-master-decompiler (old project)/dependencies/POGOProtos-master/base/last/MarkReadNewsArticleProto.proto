@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message MarkReadNewsArticleProto {
-	repeated string news_ids = 1;
-}

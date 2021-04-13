@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EquippedBadgeProto {
-	HoloBadgeType equipped_badge = 1;
-	int32 level = 2;
-	int64 next_equip_change_allowed_timestamp_ms = 3;
-}

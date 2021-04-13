@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetMapObjectsProto {
-	repeated uint64 cell_id = 1;
-	repeated int64 since_time_ms = 2;
-	double player_lat = 3;
-	double player_lng = 4;
-}

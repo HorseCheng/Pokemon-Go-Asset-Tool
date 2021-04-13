@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PokemonInfo {
-	PokemonProto pokemon = 1;
-	int32 current_health = 2;
-	int32 current_energy = 3;
-}

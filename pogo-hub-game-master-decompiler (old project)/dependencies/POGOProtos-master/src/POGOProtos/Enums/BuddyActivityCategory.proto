@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Enums;
-
-enum BuddyActivityCategory {
-	CATEGORY_UNSET = 0;
-	FEED = 1;
-}

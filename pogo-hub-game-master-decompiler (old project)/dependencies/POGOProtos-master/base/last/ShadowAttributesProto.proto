@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ShadowAttributesProto {
-	uint32 purification_stardust_needed = 1;
-	uint32 purification_candy_needed = 2;
-	HoloPokemonMove purified_charge_move = 3;
-	HoloPokemonMove shadow_charge_move = 4;
-}

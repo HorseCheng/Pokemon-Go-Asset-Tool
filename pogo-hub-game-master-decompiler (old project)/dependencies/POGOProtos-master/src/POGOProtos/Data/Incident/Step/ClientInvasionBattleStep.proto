@@ -1,8 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Data.Incident.Step;
-
-import "POGOProtos/Enums/InvasionCharacter.proto";
-
-message ClientInvasionBattleStep {
-	.POGOProtos.Enums.InvasionCharacter character = 1;
-}

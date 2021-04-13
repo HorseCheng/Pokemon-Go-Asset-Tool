@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum PhoneBoothPresentationMode {
-	NONE = 0;
-	PORTRAIT = 1;
-	DIALOG = 2;
-}

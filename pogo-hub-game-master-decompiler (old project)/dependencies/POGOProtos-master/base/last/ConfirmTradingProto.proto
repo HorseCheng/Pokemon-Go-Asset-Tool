@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ConfirmTradingProto {
-	string player_id = 1;
-	string transaction_log = 2;
-}

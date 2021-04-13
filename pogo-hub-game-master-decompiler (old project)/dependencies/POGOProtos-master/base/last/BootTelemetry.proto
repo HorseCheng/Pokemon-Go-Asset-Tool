@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BootTelemetry {
-	float nearest_poi_distance = 1;
-	int32 poi_within_one_km_count = 2;
-}

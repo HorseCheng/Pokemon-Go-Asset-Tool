@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EventInfoProto {
-	string image_url = 1;
-	string icon_url = 2;
-	string name_key = 3;
-}

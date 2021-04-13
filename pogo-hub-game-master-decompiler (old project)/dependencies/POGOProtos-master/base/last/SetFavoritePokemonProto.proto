@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SetFavoritePokemonProto {
-	int64 pokemon_id = 1;
-	bool is_favorite = 2;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum PresentationType {
-	UNKNOWN = 0;
-	CATEGORY = 1;
-	SORT = 2;
-	SALE = 3;
-}

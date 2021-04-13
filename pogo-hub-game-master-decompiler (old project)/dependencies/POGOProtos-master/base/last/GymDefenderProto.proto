@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GymDefenderProto {
-	MotivatedPokemonProto motivated_pokemon = 1;
-	DeploymentTotalsProto deployment_totals = 2;
-	PlayerPublicProfileProto trainer_public_profile = 3;
-}

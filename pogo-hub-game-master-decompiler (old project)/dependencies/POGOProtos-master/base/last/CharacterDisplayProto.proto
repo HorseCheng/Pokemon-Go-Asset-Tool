@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CharacterDisplayProto {
-	EnumWrapper.PokestopStyle style = 1;
-	EnumWrapper.InvasionCharacter character = 2;
-}

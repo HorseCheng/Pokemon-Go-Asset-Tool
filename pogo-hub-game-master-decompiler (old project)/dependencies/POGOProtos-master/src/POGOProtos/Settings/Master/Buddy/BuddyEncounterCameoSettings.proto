@@ -1,6 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings.Master.Buddy;
-
-message BuddyEncounterCameoSettings {
-	float buddy_encounter_cameo_chance_percent = 1;
-}

@@ -123,6 +123,9 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
+engmovedict["0343"] = "Leaf Storm"
+chimovedict["0343"] = "飛葉風暴"
+
 # Pokemon class
 class pokemon():
     def __init__(self, inn):

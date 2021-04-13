@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BattlePartiesProto {
-	repeated BattlePartyProto battle_parties = 1;
-}

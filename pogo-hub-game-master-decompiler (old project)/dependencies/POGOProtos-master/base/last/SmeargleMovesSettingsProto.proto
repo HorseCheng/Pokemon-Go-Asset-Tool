@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SmeargleMovesSettingsProto {
-	repeated HoloPokemonMove quick_moves = 1;
-	repeated HoloPokemonMove cinematic_moves = 2;
-}

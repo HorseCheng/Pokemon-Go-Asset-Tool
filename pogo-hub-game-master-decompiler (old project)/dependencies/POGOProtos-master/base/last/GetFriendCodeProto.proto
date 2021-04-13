@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetFriendCodeProto {
-	bool force_generate_code = 1;
-}

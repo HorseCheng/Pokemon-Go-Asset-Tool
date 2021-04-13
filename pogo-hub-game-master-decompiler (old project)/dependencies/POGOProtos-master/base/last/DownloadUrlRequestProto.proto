@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DownloadUrlRequestProto {
-	repeated string asset_id = 1;
-}

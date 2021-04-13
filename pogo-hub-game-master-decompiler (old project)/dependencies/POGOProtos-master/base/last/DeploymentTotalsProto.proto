@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DeploymentTotalsProto {
-	int32 times_fed = 1;
-	int32 battles_won = 2;
-	int32 battles_lost = 3;
-	int64 deployment_duration_ms = 4;
-}

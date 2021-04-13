@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message IncomingFriendInviteDisplayProto {
-	IncomingFriendInviteProto invite = 1;
-	PlayerSummaryProto player = 2;
-}

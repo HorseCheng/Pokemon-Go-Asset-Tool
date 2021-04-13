@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PoiGlobalSettingsProto {
-	bool is_enabled = 1;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DownloadUrlEntryProto {
-	string asset_id = 1;
-	string url = 2;
-	int32 size = 3;
-	fixed32 checksum = 4;
-}

@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PlayerProfileProto {
-	string player_name = 1;
-}

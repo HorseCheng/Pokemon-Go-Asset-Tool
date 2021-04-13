@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LimitedPurchaseSkuSettingsProto {
-	int32 purchase_limit = 1;
-	int32 version = 2;
-}

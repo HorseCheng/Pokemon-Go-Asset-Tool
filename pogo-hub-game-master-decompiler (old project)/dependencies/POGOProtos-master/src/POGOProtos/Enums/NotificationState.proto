@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Enums;
-
-enum NotificationState {
-	UNSET_STATE = 0;
-	VIEWED = 1;
-}

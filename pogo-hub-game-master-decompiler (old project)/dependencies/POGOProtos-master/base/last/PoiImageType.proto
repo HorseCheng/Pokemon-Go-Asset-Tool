@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum PoiImageType {
-	UNSET = 0;
-	MAIN = 1;
-	SURROUNDING = 2;
-}

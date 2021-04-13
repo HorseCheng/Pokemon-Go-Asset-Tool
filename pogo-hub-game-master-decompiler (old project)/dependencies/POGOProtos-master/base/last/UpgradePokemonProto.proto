@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UpgradePokemonProto {
-	fixed64 pokemon_id = 1;
-	bool preview = 2;
-}

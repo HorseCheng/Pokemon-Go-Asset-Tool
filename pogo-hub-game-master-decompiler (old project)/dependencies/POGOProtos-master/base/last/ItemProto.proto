@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ItemProto {
-	Item item = 1;
-	int32 count = 2;
-	bool unseen = 3;
-}

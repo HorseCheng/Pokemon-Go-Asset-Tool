@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Enums;
-
-enum BuddyActivity {
-	ACTIVITY_UNSET = 0;
-	SNACK = 1;
-}

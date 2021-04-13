@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ClientQuestProto {
-	QuestProto quest = 1;
-	QuestDisplayProto quest_display = 2;
-}

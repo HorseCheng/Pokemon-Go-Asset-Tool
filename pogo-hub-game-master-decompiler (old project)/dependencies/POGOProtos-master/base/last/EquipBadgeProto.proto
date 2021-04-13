@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EquipBadgeProto {
-	HoloBadgeType badge = 1;
-}

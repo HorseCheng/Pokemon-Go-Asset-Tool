@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CombatDefensiveInputChallengeSettings {
-	float full_rotations_for_max_score = 1;
-}

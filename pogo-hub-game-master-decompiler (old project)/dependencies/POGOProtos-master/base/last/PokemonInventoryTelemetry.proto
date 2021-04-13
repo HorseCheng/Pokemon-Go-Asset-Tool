@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PokemonInventoryTelemetry {
-	PokemonInventoryTelemetryIds pokemon_inventory_click_ids = 1;
-	string sort_id = 2;
-}

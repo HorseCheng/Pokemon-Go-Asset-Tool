@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaPokemonWhitelist {
-	int32 max_allowed_pokemon_pokedex_number = 1;
-	repeated HoloPokemonId additional_pokemon_allowed = 2;
-	repeated PokemonDisplayProto.Form forms_allowed = 3;
-	repeated PokemonDisplayProto.Costume costumes_allowed = 4;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaBleTransferProto {
-	BelugaBleTransferPrepProto server_response = 1;
-	bytes server_signature = 2;
-	repeated string localized_origins = 3;
-	string language = 4;
-}

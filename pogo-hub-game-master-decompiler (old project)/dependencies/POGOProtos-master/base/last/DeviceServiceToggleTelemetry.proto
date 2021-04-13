@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DeviceServiceToggleTelemetry {
-	DeviceServiceTelemetryIds device_service_telemetry_id = 1;
-	bool was_enabled = 2;
-	bool was_subsequent = 3;
-}

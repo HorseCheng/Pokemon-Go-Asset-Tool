@@ -2,7 +2,13 @@ A special stone originally found in the Sinnoh region that can make certain spec
 Sinnoh Stone
 A rare stone that originates from the Unova region that can make certain species of Pokémon evolve. It is known for its intertwined black-and-white appearance.
 Unova Stone
+Global, February 20, 2021
+Pokémon GO Tour: Kanto
+Global, February 20, 2021
+Pokémon GO Tour: Kanto
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
+Make sure to use attacks your opponent’s Pokémon are weak to!
+Make sure to use attacks your opponent’s Pokémon are weak to!
 About
 ©2016–2017 Niantic, Inc.
 ©2016–2017 Pokémon.
@@ -58,6 +64,7 @@ Adventure Week
 Please enter your date of birth.
 Alolan Form
 Do you want to exit Pokémon GO?
+https://pokemongolive.com/launchapp
 Pokémon GO requires location permissions in order to play. Go to your device’s settings to turn on location permissions.
 Apple
 Try again by restarting Pokémon GO.
@@ -125,7 +132,7 @@ AR
 We're not detecting your phone's orientation. Would you like to turn off AR mode?
 AR MAPPING
 This may not be a good place to play. Try playing somewhere else.
-AR+ requires ARCore to be installed. Do you want to install now? You'll need to restart Pokémon GO. 
+AR+ requires ARCore to be installed. Do you want to install it now? You'll need to restart Pokémon GO.
 ARCore Installation
 AR+ requires an updated ARCore. Do you want to update now? You'll need to restart Pokémon GO.
 ARCore Update
@@ -142,9 +149,9 @@ Catch Pokémon like never before with the all-new AR+!
 While using AR mode, make sure you’re in a safe locationand any children are supervised at all times.
 Make sure to use AR+ only while in a safe location.
 Show me!
-Tap to find the Pokémon. 
+Tap to find the Pokémon.
 Look around an open area with your device until it recognizes a flat surface.
-Tap the tall grass to find a Pokémon. 
+Tap the tall grass to find a Pokémon.
 Approach the Pokémon slowly. You'll get bonus rewards if you catch it!
 Get Directions
 What is PokéStop scanning?
@@ -289,6 +296,9 @@ No Belt
 Flat Buckle
 Team Rocket Belt
 Team Rainbow Rocket Belt
+Grass-type Mask
+Fire-type Mask
+Water-type Mask
 Banette Mask
 Simple Mask
 Pikachu Mask
@@ -334,6 +344,7 @@ Delibird Earmuffs
 Detective Pikachu Cap
 Drifloon Cap
 Eevee Cap
+Elesa-Style Headphones
 No Hat
 Felt Fedora
 H.F. Custom Cap A
@@ -346,6 +357,8 @@ The North Face x Gucci Hat
 Gyarados Hat
 Johto Cap
 Beanie Hat
+GO Tour: Green Version Hat
+GO Tour: Red Version Hat
 Power-Up Knit Cap
 Litwick Cap
 Pearl Earrings
@@ -356,7 +369,9 @@ Meltan Earrings
 Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
-New Year's Party Hat
+Pink Beret
+Gray Beret
+New Year’s Party Hat
 Pikachu Cap
 Pikachu Fan Headband
 Pikachu Libre Mask
@@ -403,6 +418,7 @@ Striped Skirt
 Turbine Skirt
 Wave Skirt
 Misty Shorts
+Munna Pants
 Liquid Leggings
 Pikachu Fan Shorts
 Pikachu Libre Leggings
@@ -431,6 +447,7 @@ Denim Jacket
 Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
+Elesa-Style Outfit
 H.F. Custom Shirt A
 LeafGreen Top
 Galarian Farfetch’d T-shirt and Bag
@@ -467,6 +484,7 @@ Mew Shirt
 Mewtwo Top
 Misty Top
 Jessie-Style Adventure Outfit
+Munna Top
 Pokémon Shirts Vileplume
 Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
@@ -488,9 +506,13 @@ Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
+Shiny Mew Shirt
 Spiritomb T-shirt
 Galar Top
 Steven-Style Top
+Blastoise Jacket
+Charizard Jacket
+Venusaur Jacket
 The Thirty
 Team Instinct Turtleneck
 Team Mystic Turtleneck
@@ -528,6 +550,7 @@ N-Style Shoes
 Level 49 Boots
 Running Shoes
 Delibird Boots
+Elesa-Style Shoes
 No Footwear
 LeafGreen Shoes
 Giovanni Shoes
@@ -572,6 +595,7 @@ Glasses
 Gloves
 Hair
 Halloween
+GO Tour Hat
 Hats
 Unlock tier {0} {1} medal
 Unlock at Level {0}
@@ -599,6 +623,9 @@ Isle of Armor Bag
 Togepi Bag
 Ultra Sun Bag
 Zubat Bag
+Grass-type Mask
+Fire-type Mask
+Water-type Mask
 Banette Mask
 Simple Mask
 Pikachu Mask
@@ -643,6 +670,7 @@ Delibird Earmuffs
 Detective Pikachu Cap
 Drifloon Cap
 Eevee Cap
+Elesa-Style Headphones
 No Hat
 Felt Fedora
 Fisher Cap
@@ -657,6 +685,8 @@ Gyarados Hat
 Johto Cap
 Beanie Hat
 Jogger Visor
+GO Tour: Green Version Hat
+GO Tour: Red Version Hat
 Litwick Cap
 Pearl Earrings
 Level 45 Hat
@@ -665,7 +695,9 @@ Meltan Cap
 Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
-New Year's Party Hat
+Pink Beret
+Gray Beret
+New Year’s Party Hat
 Pikachu Cap
 Pikachu Fan Headband
 Pikachu Libre Mask
@@ -697,6 +729,7 @@ Backpacker Capris
 Brock Pants
 N-Style Pants
 Trainer Shorts
+Elesa-Style Pants
 Fisher Pants
 FireRed Pants
 Giovanni Pants
@@ -707,6 +740,7 @@ Jogger Shorts
 Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
 Mewtwo Pants
+Munna Pants
 Pikachu Fan Shorts
 Pikachu Libre Leggings
 Skinny Jeans
@@ -738,6 +772,7 @@ Denim Jacket
 Detective Pikachu T-shirt
 Drifblim Shirt
 Surf Blue Shirt
+Elesa-Style Top
 Fisher Vest
 H.F. Custom Shirt A
 FireRed Top
@@ -777,6 +812,7 @@ Meltan Pullover
 Mew Shirt
 Mewtwo Top
 James-Style Adventure Outfit
+Munna Top
 Pokémon Shirts Vileplume
 Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
@@ -798,9 +834,13 @@ Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
+Shiny Mew Shirt
 Spiritomb T-shirt
 Galar Shirt
 Steven-Style Top
+Blastoise Jacket
+Charizard Jacket
+Venusaur Jacket
 Sports Hoodie
 Streak Hoodie
 Crown Tundra Uniform
@@ -836,6 +876,7 @@ N-Style Shoes
 Level 49 Boots
 Running Shoes
 Delibird Boots
+Elesa-Style Shoes
 No Footwear
 Fisher Boots
 FireRed Shoes
@@ -879,7 +920,8 @@ Pose
 Pose
 Steven Pose
 POSES
-Holiday
+Pokémon GO Tour: Kanto
+Shiny Mew Shirt
 Footwear
 New items available!
 Skin
@@ -1159,7 +1201,7 @@ N0
 Win {0} raids with a friend.
 Win a raid with a friend.
 Rising Star Duo
-Defeat the Team GO Rocket Boss {0} times. 
+Defeat the Team GO Rocket Boss {0} times.
 Defeat the Team GO Rocket Boss.
 Ultra Hero
 Defeat {0} Team GO Rocket members.
@@ -1376,12 +1418,740 @@ Account Termination Notice Your account has been permanently terminated for viol
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.
 Learn more
 <size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You can't undo this action once you transfer.
+<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
+<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
+<size=36><b>Only 1 of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
 Select Pokémon
 Got Candy from the professor.
+{0} Event Pokémon
+You have selected at least one Legendary, Mythical, or event Pokémon.
+{0} Legendary or Mythical Pokémon
+You have not selected any Legendary, Mythical, or event Pokémon.
+Are you sure you want to transfer these Pokémon to the professor?
+Your Selection Contains These Pokémon:
 {0} used {1}!
 GO Battle Day
+GO Battle Day: Abomasnow
+GO Battle Day: Abra
+GO Battle Day: Absol
+GO Battle Day: Accelgor
+GO Battle Day: Aegislash
+GO Battle Day: Aerodactyl
+GO Battle Day: Aggron
+GO Battle Day: Aipom
+GO Battle Day: Alakazam
+GO Battle Day: Alomomola
+GO Battle Day: Altaria
+GO Battle Day: Amaura
+GO Battle Day: Ambipom
+GO Battle Day: Amoonguss
+GO Battle Day: Ampharos
+GO Battle Day: Anorith
+GO Battle Day: Arbok
+GO Battle Day: Arcanine
+GO Battle Day: Arceus
+GO Battle Day: Archen
+GO Battle Day: Archeops
+GO Battle Day: Ariados
+GO Battle Day: Armaldo
+GO Battle Day: Aromatisse
+GO Battle Day: Aron
+GO Battle Day: Articuno
+GO Battle Day: Audino
+GO Battle Day: Aurorus
+GO Battle Day: Avalugg
+GO Battle Day: Axew
+GO Battle Day: Azelf
+GO Battle Day: Azumarill
+GO Battle Day: Azurill
+GO Battle Day: Bagon
+GO Battle Day: Baltoy
+GO Battle Day: Banette
+GO Battle Day: Barbaracle
+GO Battle Day: Barboach
+GO Battle Day: Basculin
+GO Battle Day: Bastiodon
+GO Battle Day: Bayleef
+GO Battle Day: Beartic
+GO Battle Day: Beautifly
+GO Battle Day: Beedrill
+GO Battle Day: Beheeyem
+GO Battle Day: Beldum
+GO Battle Day: Bellossom
+GO Battle Day: Bellsprout
+GO Battle Day: Bergmite
+GO Battle Day: Bibarel
+GO Battle Day: Bidoof
+GO Battle Day: Binacle
+GO Battle Day: Bisharp
+GO Battle Day: Blastoise
+GO Battle Day: Blaziken
+GO Battle Day: Blissey
+GO Battle Day: Blitzle
+GO Battle Day: Boldore
+GO Battle Day: Bonsly
+GO Battle Day: Bouffalant
+GO Battle Day: Braixen
+GO Battle Day: Braviary
+GO Battle Day: Breloom
+GO Battle Day: Bronzong
+GO Battle Day: Bronzor
+GO Battle Day: Budew
+GO Battle Day: Buizel
+GO Battle Day: Bulbasaur
+GO Battle Day: Buneary
+GO Battle Day: Bunnelby
+GO Battle Day: Burmy
+GO Battle Day: Butterfree
+GO Battle Day: Cacnea
+GO Battle Day: Cacturne
+GO Battle Day: Camerupt
+GO Battle Day: Carbink
+GO Battle Day: Carnivine
+GO Battle Day: Carracosta
+GO Battle Day: Carvanha
+GO Battle Day: Cascoon
+GO Battle Day: Castform
+GO Battle Day: Caterpie
+GO Battle Day: Celebi
+GO Battle Day: Chandelure
+GO Battle Day: Chansey
+GO Battle Day: Charizard
+GO Battle Day: Charmander
+GO Battle Day: Charmeleon
+GO Battle Day: Chatot
+GO Battle Day: Cherrim
+GO Battle Day: Cherubi
+GO Battle Day: Chesnaught
+GO Battle Day: Chespin
+GO Battle Day: Chikorita
+GO Battle Day: Chimchar
+GO Battle Day: Chimecho
+GO Battle Day: Chinchou
+GO Battle Day: Chingling
+GO Battle Day: Cinccino
+GO Battle Day: Clamperl
+GO Battle Day: Clauncher
+GO Battle Day: Clawitzer
+GO Battle Day: Claydol
+GO Battle Day: Clefable
+GO Battle Day: Clefairy
+GO Battle Day: Cleffa
+GO Battle Day: Cloyster
+GO Battle Day: Cobalion
+GO Battle Day: Cofagrigus
+GO Battle Day: Combee
+GO Battle Day: Combusken
+GO Battle Day: Conkeldurr
+GO Battle Day: Corphish
+GO Battle Day: Corsola
+GO Battle Day: Cottonee
+GO Battle Day: Cradily
+GO Battle Day: Cranidos
+GO Battle Day: Crawdaunt
+GO Battle Day: Cresselia
+GO Battle Day: Croagunk
+GO Battle Day: Crobat
+GO Battle Day: Croconaw
+GO Battle Day: Crustle
+GO Battle Day: Cryogonal
+GO Battle Day: Cubchoo
+GO Battle Day: Cubone
+GO Battle Day: Cyndaquil
+GO Battle Day: Darkrai
+GO Battle Day: Darmanitan
+GO Battle Day: Darumaka
+GO Battle Day: Dedenne
+GO Battle Day: Deerling
+GO Battle Day: Deino
+GO Battle Day: Delcatty
+GO Battle Day: Delibird
+GO Battle Day: Delphox
+GO Battle Day: Deoxys
+GO Battle Day: Dewgong
+GO Battle Day: Dewott
+GO Battle Day: Dialga
+GO Battle Day: Diancie
+GO Battle Day: Diggersby
+GO Battle Day: Diglett
+GO Battle Day: Ditto
+GO Battle Day: Dodrio
+GO Battle Day: Doduo
+GO Battle Day: Donphan
+GO Battle Day: Doublade
+GO Battle Day: Dragalge
+GO Battle Day: Dragonair
+GO Battle Day: Dragonite
+GO Battle Day: Drapion
+GO Battle Day: Dratini
+GO Battle Day: Drifblim
+GO Battle Day: Drifloon
+GO Battle Day: Drilbur
+GO Battle Day: Drowzee
+GO Battle Day: Druddigon
+GO Battle Day: Ducklett
+GO Battle Day: Dugtrio
+GO Battle Day: Dunsparce
+GO Battle Day: Duosion
+GO Battle Day: Durant
+GO Battle Day: Dusclops
+GO Battle Day: Dusknoir
+GO Battle Day: Duskull
+GO Battle Day: Dustox
+GO Battle Day: Dwebble
+GO Battle Day: Eelektrik
+GO Battle Day: Eelektross
+GO Battle Day: Eevee
+GO Battle Day: Ekans
+GO Battle Day: Electabuzz
+GO Battle Day: Electivire
+GO Battle Day: Electrike
+GO Battle Day: Electrode
+GO Battle Day: Elekid
+GO Battle Day: Elgyem
+GO Battle Day: Emboar
+GO Battle Day: Emolga
+GO Battle Day: Empoleon
+GO Battle Day: Entei
+GO Battle Day: Escavalier
+GO Battle Day: Espeon
+GO Battle Day: Espurr
+GO Battle Day: Excadrill
+GO Battle Day: Exeggcute
+GO Battle Day: Exeggutor
+GO Battle Day: Exploud
+GO Battle Day: Farfetch'd
+GO Battle Day: Fearow
+GO Battle Day: Feebas
+GO Battle Day: Fennekin
+GO Battle Day: Feraligatr
+GO Battle Day: Ferroseed
+GO Battle Day: Ferrothorn
+GO Battle Day: Finneon
+GO Battle Day: Flaaffy
+GO Battle Day: Flabébé
+GO Battle Day: Flareon
+GO Battle Day: Fletchinder
+GO Battle Day: Fletchling
+GO Battle Day: Floatzel
+GO Battle Day: Floette
+GO Battle Day: Florges
+GO Battle Day: Flygon
+GO Battle Day: Foongus
+GO Battle Day: Forretress
+GO Battle Day: Fraxure
+GO Battle Day: Frillish
+GO Battle Day: Froakie
+GO Battle Day: Frogadier
+GO Battle Day: Froslass
+GO Battle Day: Furfrou
+GO Battle Day: Furret
+GO Battle Day: Gabite
+GO Battle Day: Gallade
+GO Battle Day: Galvantula
+GO Battle Day: Garbodor
+GO Battle Day: Garchomp
+GO Battle Day: Gardevoir
+GO Battle Day: Gastly
+GO Battle Day: Gastrodon
+GO Battle Day: Genesect
+GO Battle Day: Gengar
+GO Battle Day: Geodude
+GO Battle Day: Gible
+GO Battle Day: Gigalith
+GO Battle Day: Girafarig
+GO Battle Day: Giratina
+GO Battle Day: Glaceon
+GO Battle Day: Glalie
+GO Battle Day: Glameow
+GO Battle Day: Gligar
+GO Battle Day: Gliscor
+GO Battle Day: Gloom
+GO Battle Day: Gogoat
+GO Battle Day: Golbat
+GO Battle Day: Goldeen
+GO Battle Day: Golduck
+GO Battle Day: Golem
+GO Battle Day: Golett
+GO Battle Day: Golurk
+GO Battle Day: Goodra
+GO Battle Day: Goomy
+GO Battle Day: Gorebyss
+GO Battle Day: Gothita
+GO Battle Day: Gothitelle
+GO Battle Day: Gothorita
+GO Battle Day: Gourgeist
+GO Battle Day: Granbull
+GO Battle Day: Graveler
+GO Battle Day: Greninja
+GO Battle Day: Grimer
+GO Battle Day: Grotle
+GO Battle Day: Groudon
+GO Battle Day: Grovyle
+GO Battle Day: Growlithe
+GO Battle Day: Grumpig
+GO Battle Day: Gulpin
+GO Battle Day: Gurdurr
+GO Battle Day: Gyarados
+GO Battle Day: Happiny
+GO Battle Day: Hariyama
+GO Battle Day: Haunter
+GO Battle Day: Hawlucha
+GO Battle Day: Haxorus
+GO Battle Day: Heatmor
+GO Battle Day: Heatran
+GO Battle Day: Heliolisk
+GO Battle Day: Helioptile
+GO Battle Day: Heracross
+GO Battle Day: Herdier
+GO Battle Day: Hippopotas
+GO Battle Day: Hippowdon
+GO Battle Day: Hitmonchan
+GO Battle Day: Hitmonlee
+GO Battle Day: Hitmontop
+GO Battle Day: Ho-Oh
+GO Battle Day: Honchkrow
+GO Battle Day: Honedge
+GO Battle Day: Hoopa
+GO Battle Day: Hoothoot
+GO Battle Day: Hoppip
+GO Battle Day: Horsea
+GO Battle Day: Houndoom
+GO Battle Day: Houndour
+GO Battle Day: Huntail
+GO Battle Day: Hydreigon
+GO Battle Day: Hypno
+GO Battle Day: Igglybuff
+GO Battle Day: Illumise
+GO Battle Day: Infernape
+GO Battle Day: Inkay
+GO Battle Day: Ivysaur
+GO Battle Day: Jellicent
+GO Battle Day: Jigglypuff
+GO Battle Day: Jirachi
+GO Battle Day: Jolteon
+GO Battle Day: Joltik
+GO Battle Day: Jumpluff
+GO Battle Day: Jynx
+GO Battle Day: Kabuto
+GO Battle Day: Kabutops
+GO Battle Day: Kadabra
+GO Battle Day: Kakuna
+GO Battle Day: Kangaskhan
+GO Battle Day: Karrablast
+GO Battle Day: Kecleon
+GO Battle Day: Keldeo
+GO Battle Day: Kingdra
+GO Battle Day: Kingler
+GO Battle Day: Kirlia
+GO Battle Day: Klang
+GO Battle Day: Klefki
+GO Battle Day: Klink
+GO Battle Day: Klinklang
+GO Battle Day: Koffing
+GO Battle Day: Krabby
+GO Battle Day: Kricketot
+GO Battle Day: Kricketune
+GO Battle Day: Krokorok
+GO Battle Day: Krookodile
+GO Battle Day: Kyogre
+GO Battle Day: Kyurem
+GO Battle Day: Lairon
+GO Battle Day: Lampent
+GO Battle Day: Landorus
+GO Battle Day: Lanturn
+GO Battle Day: Lapras
+GO Battle Day: Larvesta
+GO Battle Day: Larvitar
+GO Battle Day: Latias
+GO Battle Day: Latios
+GO Battle Day: Leafeon
+GO Battle Day: Leavanny
+GO Battle Day: Ledian
+GO Battle Day: Ledyba
+GO Battle Day: Lickilicky
+GO Battle Day: Lickitung
+GO Battle Day: Liepard
+GO Battle Day: Lileep
+GO Battle Day: Lilligant
+GO Battle Day: Lillipup
+GO Battle Day: Linoone
+GO Battle Day: Litleo
+GO Battle Day: Litwick
+GO Battle Day: Lombre
+GO Battle Day: Lopunny
+GO Battle Day: Lotad
+GO Battle Day: Loudred
+GO Battle Day: Lucario
+GO Battle Day: Ludicolo
+GO Battle Day: Lugia
+GO Battle Day: Lumineon
+GO Battle Day: Lunatone
+GO Battle Day: Luvdisc
+GO Battle Day: Luxio
+GO Battle Day: Luxray
+GO Battle Day: Machamp
+GO Battle Day: Machoke
+GO Battle Day: Machop
+GO Battle Day: Magby
+GO Battle Day: Magcargo
+GO Battle Day: Magikarp
+GO Battle Day: Magmar
+GO Battle Day: Magmortar
+GO Battle Day: Magnemite
+GO Battle Day: Magneton
+GO Battle Day: Magnezone
+GO Battle Day: Makuhita
+GO Battle Day: Malamar
+GO Battle Day: Mamoswine
+GO Battle Day: Manaphy
+GO Battle Day: Mandibuzz
+GO Battle Day: Manectric
+GO Battle Day: Mankey
+GO Battle Day: Mantine
+GO Battle Day: Mantyke
+GO Battle Day: Maractus
+GO Battle Day: Mareep
 GO Battle Day: Marill
+GO Battle Day: Marowak
+GO Battle Day: Marshtomp
+GO Battle Day: Masquerain
+GO Battle Day: Mawile
+GO Battle Day: Medicham
+GO Battle Day: Meditite
+GO Battle Day: Meganium
+GO Battle Day: Meloetta
+GO Battle Day: Meowstic
+GO Battle Day: Meowth
+GO Battle Day: Mesprit
+GO Battle Day: Metagross
+GO Battle Day: Metang
+GO Battle Day: Metapod
+GO Battle Day: Mew
+GO Battle Day: Mewtwo
+GO Battle Day: Mienfoo
+GO Battle Day: Mienshao
+GO Battle Day: Mightyena
+GO Battle Day: Milotic
+GO Battle Day: Miltank
+GO Battle Day: Mime Jr.
+GO Battle Day: Minccino
+GO Battle Day: Minun
+GO Battle Day: Misdreavus
+GO Battle Day: Mismagius
+GO Battle Day: Moltres
+GO Battle Day: Monferno
+GO Battle Day: Mothim
+GO Battle Day: Mr. Mime
+GO Battle Day: Mudkip
+GO Battle Day: Muk
+GO Battle Day: Munchlax
+GO Battle Day: Munna
+GO Battle Day: Murkrow
+GO Battle Day: Musharna
+GO Battle Day: Natu
+GO Battle Day: Nidoking
+GO Battle Day: Nidoqueen
+GO Battle Day: Nidoran♀
+GO Battle Day: Nidoran♂
+GO Battle Day: Nidorina
+GO Battle Day: Nidorino
+GO Battle Day: Nincada
+GO Battle Day: Ninetales
+GO Battle Day: Ninjask
+GO Battle Day: Noctowl
+GO Battle Day: Noibat
+GO Battle Day: Noivern
+GO Battle Day: Nosepass
+GO Battle Day: Numel
+GO Battle Day: Nuzleaf
+GO Battle Day: Octillery
+GO Battle Day: Oddish
+GO Battle Day: Omanyte
+GO Battle Day: Omastar
+GO Battle Day: Onix
+GO Battle Day: Oshawott
+GO Battle Day: Pachirisu
+GO Battle Day: Palkia
+GO Battle Day: Palpitoad
+GO Battle Day: Pancham
+GO Battle Day: Pangoro
+GO Battle Day: Panpour
+GO Battle Day: Pansage
+GO Battle Day: Pansear
+GO Battle Day: Paras
+GO Battle Day: Parasect
+GO Battle Day: Patrat
+GO Battle Day: Pawniard
+GO Battle Day: Pelipper
+GO Battle Day: Persian
+GO Battle Day: Petilil
+GO Battle Day: Phanpy
+GO Battle Day: Phantump
+GO Battle Day: Phione
+GO Battle Day: Pichu
+GO Battle Day: Pidgeot
+GO Battle Day: Pidgeotto
 GO Battle Day: Pidgey
+GO Battle Day: Pidove
+GO Battle Day: Pignite
+GO Battle Day: Pikachu
+GO Battle Day: Piloswine
+GO Battle Day: Pineco
+GO Battle Day: Pinsir
+GO Battle Day: Piplup
+GO Battle Day: Plusle
+GO Battle Day: Politoed
+GO Battle Day: Poliwag
+GO Battle Day: Poliwhirl
+GO Battle Day: Poliwrath
+GO Battle Day: Ponyta
+GO Battle Day: Poochyena
+GO Battle Day: Porygon
+GO Battle Day: Porygon-Z
+GO Battle Day: Porygon2
+GO Battle Day: Primeape
+GO Battle Day: Prinplup
+GO Battle Day: Probopass
+GO Battle Day: Psyduck
+GO Battle Day: Pumpkaboo
+GO Battle Day: Pupitar
+GO Battle Day: Purrloin
+GO Battle Day: Purugly
+GO Battle Day: Pyroar
+GO Battle Day: Quagsire
+GO Battle Day: Quilava
+GO Battle Day: Quilladin
+GO Battle Day: Qwilfish
+GO Battle Day: Raichu
+GO Battle Day: Raikou
+GO Battle Day: Ralts
+GO Battle Day: Rampardos
+GO Battle Day: Rapidash
+GO Battle Day: Raticate
+GO Battle Day: Rattata
+GO Battle Day: Rayquaza
+GO Battle Day: Regice
+GO Battle Day: Regigigas
+GO Battle Day: Regirock
+GO Battle Day: Registeel
+GO Battle Day: Relicanth
+GO Battle Day: Remoraid
+GO Battle Day: Reshiram
+GO Battle Day: Reuniclus
+GO Battle Day: Rhydon
+GO Battle Day: Rhyhorn
+GO Battle Day: Rhyperior
+GO Battle Day: Riolu
+GO Battle Day: Roggenrola
+GO Battle Day: Roselia
+GO Battle Day: Roserade
+GO Battle Day: Rotom
+GO Battle Day: Rufflet
+GO Battle Day: Sableye
+GO Battle Day: Salamence
+GO Battle Day: Samurott
+GO Battle Day: Sandile
+GO Battle Day: Sandshrew
+GO Battle Day: Sandslash
+GO Battle Day: Sawk
+GO Battle Day: Sawsbuck
+GO Battle Day: Scatterbug
+GO Battle Day: Sceptile
+GO Battle Day: Scizor
+GO Battle Day: Scolipede
+GO Battle Day: Scrafty
+GO Battle Day: Scraggy
+GO Battle Day: Scyther
+GO Battle Day: Seadra
+GO Battle Day: Seaking
+GO Battle Day: Sealeo
+GO Battle Day: Seedot
+GO Battle Day: Seel
+GO Battle Day: Seismitoad
+GO Battle Day: Sentret
+GO Battle Day: Serperior
+GO Battle Day: Servine
+GO Battle Day: Seviper
+GO Battle Day: Sewaddle
+GO Battle Day: Sharpedo
+GO Battle Day: Shaymin
+GO Battle Day: Shedinja
+GO Battle Day: Shelgon
+GO Battle Day: Shellder
+GO Battle Day: Shellos
+GO Battle Day: Shelmet
+GO Battle Day: Shieldon
+GO Battle Day: Shiftry
+GO Battle Day: Shinx
+GO Battle Day: Shroomish
+GO Battle Day: Shuckle
+GO Battle Day: Shuppet
+GO Battle Day: Sigilyph
+GO Battle Day: Silcoon
+GO Battle Day: Simipour
+GO Battle Day: Simisage
+GO Battle Day: Simisear
+GO Battle Day: Skarmory
+GO Battle Day: Skiddo
+GO Battle Day: Skiploom
+GO Battle Day: Skitty
+GO Battle Day: Skorupi
+GO Battle Day: Skrelp
+GO Battle Day: Skuntank
+GO Battle Day: Slaking
+GO Battle Day: Slakoth
+GO Battle Day: Sliggoo
+GO Battle Day: Slowbro
+GO Battle Day: Slowking
+GO Battle Day: Slowpoke
+GO Battle Day: Slugma
+GO Battle Day: Slurpuff
+GO Battle Day: Smeargle
+GO Battle Day: Smoochum
+GO Battle Day: Sneasel
+GO Battle Day: Snivy
+GO Battle Day: Snorlax
+GO Battle Day: Snorunt
+GO Battle Day: Snover
+GO Battle Day: Snubbull
+GO Battle Day: Solosis
+GO Battle Day: Solrock
+GO Battle Day: Spearow
+GO Battle Day: Spewpa
+GO Battle Day: Spheal
+GO Battle Day: Spinarak
+GO Battle Day: Spinda
+GO Battle Day: Spiritomb
+GO Battle Day: Spoink
+GO Battle Day: Spritzee
+GO Battle Day: Squirtle
+GO Battle Day: Stantler
+GO Battle Day: Staraptor
+GO Battle Day: Staravia
+GO Battle Day: Starly
+GO Battle Day: Starmie
+GO Battle Day: Staryu
+GO Battle Day: Steelix
+GO Battle Day: Stoutland
+GO Battle Day: Stunfisk
+GO Battle Day: Stunky
+GO Battle Day: Sudowoodo
+GO Battle Day: Suicune
+GO Battle Day: Sunflora
+GO Battle Day: Sunkern
+GO Battle Day: Surskit
+GO Battle Day: Swablu
+GO Battle Day: Swadloon
+GO Battle Day: Swalot
+GO Battle Day: Swampert
+GO Battle Day: Swanna
+GO Battle Day: Swellow
+GO Battle Day: Swinub
+GO Battle Day: Swirlix
+GO Battle Day: Swoobat
+GO Battle Day: Sylveon
+GO Battle Day: Taillow
+GO Battle Day: Talonflame
+GO Battle Day: Tangela
+GO Battle Day: Tangrowth
+GO Battle Day: Tauros
+GO Battle Day: Teddiursa
+GO Battle Day: Tentacool
+GO Battle Day: Tentacruel
+GO Battle Day: Tepig
+GO Battle Day: Terrakion
+GO Battle Day: Throh
+GO Battle Day: Thundurus
+GO Battle Day: Timburr
+GO Battle Day: Tirtouga
+GO Battle Day: Togekiss
+GO Battle Day: Togepi
+GO Battle Day: Togetic
+GO Battle Day: Torchic
+GO Battle Day: Torkoal
+GO Battle Day: Tornadus
+GO Battle Day: Torterra
+GO Battle Day: Totodile
+GO Battle Day: Toxicroak
+GO Battle Day: Tranquill
+GO Battle Day: Trapinch
+GO Battle Day: Treecko
+GO Battle Day: Trevenant
+GO Battle Day: Tropius
+GO Battle Day: Trubbish
+GO Battle Day: Turtwig
+GO Battle Day: Tympole
+GO Battle Day: Tynamo
+GO Battle Day: Typhlosion
+GO Battle Day: Tyranitar
+GO Battle Day: Tyrantrum
+GO Battle Day: Tyrogue
+GO Battle Day: Tyrunt
+GO Battle Day: Umbreon
+GO Battle Day: Unfezant
+GO Battle Day: Unown
+GO Battle Day: Ursaring
+GO Battle Day: Uxie
+GO Battle Day: Vanillish
+GO Battle Day: Vanillite
+GO Battle Day: Vanilluxe
+GO Battle Day: Vaporeon
+GO Battle Day: Venipede
+GO Battle Day: Venomoth
+GO Battle Day: Venonat
+GO Battle Day: Venusaur
+GO Battle Day: Vespiquen
+GO Battle Day: Vibrava
+GO Battle Day: Victini
+GO Battle Day: Victreebel
+GO Battle Day: Vigoroth
+GO Battle Day: Vileplume
+GO Battle Day: Virizion
+GO Battle Day: Vivillon
+GO Battle Day: Volbeat
+GO Battle Day: Volcanion
+GO Battle Day: Volcarona
+GO Battle Day: Voltorb
+GO Battle Day: Vullaby
+GO Battle Day: Vulpix
+GO Battle Day: Wailmer
+GO Battle Day: Wailord
+GO Battle Day: Walrein
+GO Battle Day: Wartortle
+GO Battle Day: Watchog
+GO Battle Day: Weavile
+GO Battle Day: Weedle
+GO Battle Day: Weepinbell
+GO Battle Day: Weezing
+GO Battle Day: Whimsicott
+GO Battle Day: Whirlipede
+GO Battle Day: Whiscash
+GO Battle Day: Whismur
+GO Battle Day: Wigglytuff
+GO Battle Day: Wingull
+GO Battle Day: Wobbuffet
+GO Battle Day: Woobat
+GO Battle Day: Wooper
+GO Battle Day: Wormadam
+GO Battle Day: Wurmple
+GO Battle Day: Wynaut
+GO Battle Day: Xatu
+GO Battle Day: Xerneas
+GO Battle Day: Yamask
+GO Battle Day: Yanma
+GO Battle Day: Yanmega
+GO Battle Day: Yveltal
+GO Battle Day: Zangoose
+GO Battle Day: Zapdos
+GO Battle Day: Zebstrika
+GO Battle Day: Zekrom
+GO Battle Day: Zigzagoon
+GO Battle Day: Zoroark
+GO Battle Day: Zorua
+GO Battle Day: Zubat
+GO Battle Day: Zweilous
+GO Battle Day: Zygarde
 Nearby Battle
 GO Battle League
 Current Season
@@ -1402,6 +2172,7 @@ Party
 Gyms & Raids
 GO Battle Night
 No Pokémon Left
+Battle {0} GO Tour Challengers
 Already selected for battle
 Select your Pokémon!
 Go battle!
@@ -1482,6 +2253,7 @@ Buddy is on cooldown!
 <b>{0}</b> is now your buddy!
 Play together
 Your buddy brought you a Gift.
+Choose a Pokémon to be your buddy, and it’ll gain Perks as your bond grows.
 If you increase your Buddy Level, you’ll earn more Perks! Tap a heart to see more.
 Establish strong bond with Buddy and exhibits strong skill during battle
 Best Buddy Ribbon
@@ -1493,6 +2265,7 @@ Find Presents
 Adventuring Buddy
 Find Locations
 Find Souvenirs
+Buddy Adventure
 Your buddy still looks hungry, so it won’t join you on the map yet.
 Are you sure you want to stop giving your buddy treats?
 You do not have enough Berries. Try visiting a PokéStop to get more.
@@ -1719,6 +2492,7 @@ Easier to get your buddy excited
 You've already applied this type of enhancement.
 You can’t use another one of those right now. Try again later.
 Bug Out!
+Type Surge: Bug
 Catch {0} Bug-type Pokémon
 Catch {0} Ledyba or Spinarak
 Catch {0} Wurmple
@@ -1778,11 +2552,17 @@ Frustration cannot be forgotten at this time.
 You can’t use the Mystery Box and an Incense at the same time.
 The Frustration Charged Attack can’t be replaced by a Charged TM.
 Can't sign in?
+Old Sea Map
+Old Sea Map (1/4)
+Old Sea Map (2/4)
+Old Sea Map (3/4)
+Old Sea Map (4/4)
 Catch a Pokémon
 2× Catch Candy
 3× Catch Candy
 Catch Cup
 2× Catch Stardust
+2× Catch Stardust for catching featured Pokémon
 2× Catch Stardust for catching Marill
 2× Catch Stardust for catching Pidgey
 3× Catch Stardust
@@ -1906,12 +2686,12 @@ Take {0} snapshots of Rock-type Pokémon
 Take a snapshot of a Rock-type Pokémon
 Take a snapshot of a Steel-type Pokémon
 Take a snapshot of a Water-type Pokémon
-UPLOAD LATER
 CHANGE STICKER
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
 Charged TMs can’t be used on Shadow Pokémon.
+Charge Up
 Pokémon GO Fest
 Failed to choose the event version. Try again later.
 Abomey-Calavi
@@ -2188,6 +2968,7 @@ You're now known as {0}.
 <size=36><b>Do you want to change your nickname?</b></size>You can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!
 If you spin the Photo Disc, you can get an AR mapping task and help collect AR mapping data for this location. You can also scan this PokéStop anytime from the PokéStop’s details screen.
 Collect AR Data
+Event-themed Collection Challenge
 A Colossal Discovery: Make a new friend
 A Colossal Discovery: Trade a Pokémon with a friend
 A Colossal Discovery: Win a Trainer Battle against another Trainer
@@ -2265,6 +3046,7 @@ You’ve made it this far. Let me see just how strong you are.
 You will never defeat Team GO Rocket.
 The Boss
 GO!
+GO Tour: Kanto Cup
 Great League
 Don’t hate us ’cause you ain’t us.
 Don’t hate us ’cause you ain’t us.
@@ -2419,6 +3201,7 @@ Community Day: Abra
 Community Day: Charmander
 Community Day: Electabuzz
 Community Day
+Community Day: Fletchling
 Community Day: Gastly
 Community Day: Machop
 Community Day: Magikarp
@@ -2441,13 +3224,14 @@ Your Trainer Code has been copied!
 Event Pokémon hatching from Eggs
 Encounter Event Pokémon after Field Research
 Event Pokémon appearing in raids
-Event Pokémon appearing in the wild 
+Event Pokémon appearing in the wild
 Failed to create tag.
 CREATE TAG
 Hey there, {0}! Recently, I’ve been working on a special kind of Incense, and I’ve gone ahead and equipped it for you. Now you’ll be sure to find a Pokémon appearing just for you every day!
 One guaranteed single-use Incubator per day by spinning a Photo Disc at a PokéStop
 Come back tomorrow to earn more PokéCoins
 Daily Research
+Type Surge: Dark
 MMM dd, yyyy
 d
 {0}D {1}H
@@ -2479,6 +3263,8 @@ Pokémon GO requires your location to find Pokémon and PokéStops near you. Ple
 3. Set Allow Location Access to Always.
 4. Set Precise Location to On.
 Missing Location Permissions
+Defeat {0} GO Tour Challengers with your buddy
+Defeat {0} GO Tour Challengers
 Collect now!
 Trainer has {0} Pokémon assigned.
 You need to assign a Pokémon to a Gym to be eligible for a Defender bonus.
@@ -2515,6 +3301,7 @@ Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
+Type Surge: Dragon
 Dragon Boat Festival
 Eggstravaganza: Hatch an Egg
 Eggstravaganza: Hatch {0} Eggs
@@ -2529,6 +3316,7 @@ INCUBATE
 Oh?
 Lucky you! You got an Egg!
 HATCHABLE POKÉMON
+Pokémon higher on this list are more likely to hatch from this Egg.
 Walk {0} km to hatch the Egg!
 Event-themed 10 km Eggs
 Event-themed 2 km Eggs
@@ -2536,6 +3324,7 @@ Event-themed 5 km Eggs
 Event-themed 7 km Eggs
 Event-themed Eggs
 Eggstravaganza
+Type Surge: Electric
 Elite Charged TM available in the Community Day Box
 Elite Fast TM available in the Community Day Box
 Teach {0}
@@ -2681,8 +3470,111 @@ Kanto Celebration Event
 Earn more Catch Candy from Pokémon of your Mega-Evolved Pokémon’s type
 Evolve Kadabra to Alakazam that know the Fast Attack Counter
 Evolve Flaaffy to get an Ampharos that knows Dragon Pulse
+Evolve Metang to get a Metagross that knows Meteor Mash
+Bonus Event
+What do you think of my outfit?
+What do you think of my outfit?
+<taunt>Hi! I like shorts! They’re comfy and easy to wear!
+Huh? How’d you do that?!
+Huh? How’d you do that?!
+LenTao9
+GO Tour Challenger
+Better luck next time!
+Better luck next time!
+Isn’t this event just the neatest?
+Isn’t this event just the neatest?
+<intimidate>Somehow, I knew we’d have to battle!
+Wow, you’re good at this!
+Wow, you’re good at this!
+oneslapguy
+GO Tour Challenger
+If you keep battling, you’re bound to win eventually!
+If you keep battling, you’re bound to win eventually!
+Did you pick Red Version or Green Version?
+Did you pick Red Version or Green Version?
+<taunt>Hey, you! Wanna see my awesome Pokémon?
+I was so sure I’d win that one, too...
+I was so sure I’d win that one, too...
+DieCurryWurst
+GO Tour Challenger
+Too bad! Wanna battle again?
+Too bad! Wanna battle again?
+Prepare to face the wrath of my Fire-type Pokémon!
+Prepare to face the wrath of my Fire-type Pokémon!
+<intimidate>GO, my fabulous Fire-type Pokémon!
+Aww, no!
+Aww, no!
+DieCurryWurst
+GO Tour Challenger
+Don’t let this discourage you—just keep trying!
+Don’t let this discourage you—just keep trying!
+Does this outfit make me look like a Pokémon?
+Does this outfit make me look like a Pokémon?
+<taunt>Our eyes have met! I’ll battle alongside my favorite Pokémon!
+Look what you did to my poor, adorable Pokémon!
+Look what you did to my poor, adorable Pokémon!
+Juanevoli
+GO Tour Challenger
+Keep battling, and victory will come eventually!
+Keep battling, and victory will come eventually!
+I wonder if I’ll get a cool shirt after the event.
+I wonder if I’ll get a cool shirt after the event.
+<intimidate>Oh, you have a Buddy Pokémon! Let me get a better look!
+Done like dinner!
+Done like dinner!
+Trainer yournameNPC05
+GO Tour Challenger
+You can do it!
+I’m sure you’ll win the next one!
+Let’s battle! Ready...GO!
+Let’s battle! Ready...GO!
+<taunt>Your Buddy Pokémon sure is cute! Let’s have a battle!
+You’re more skilled than I thought!
+You’re more skilled than I thought!
+CashmereFeline
+GO Tour Challenger
+A Pokémon Trainer never gives up. Just keep doing your best!
+A Pokémon Trainer never gives up. Just keep doing your best!
+C’mon... C’mon... Let’s go, let’s go, let’s GO!
+C’mon... C’mon... Let’s go, let’s go, let’s GO!
+<intimidate>You’re going to help me get stronger!
+Heh. I still can’t win after all my training, huh?
+Heh. I still can’t win after all my training, huh?
+enjoyryde
+GO Tour Challenger
+No hard feelings, eh?
+No hard feelings, eh?
+You look pretty gentle, so I think I can beat you. Guess we’ll see!
+You look pretty gentle, so I think I can beat you. Guess we’ll see!
+<taunt>Come at me, Trainer! Let’s GO!
+Wow! Battling with you was so fun!
+Wow! Battling with you was so fun!
+Trainer yournameNPC08
+GO Tour Challenger
+Aw, now I feel bad.
+Aw, now I feel bad.
+Somehow, I knew we’d have to battle!
+Somehow, I knew we’d have to battle!
+<intimidate>Fancy seeing you here! Now let’s battle.
+What?! I lost?!
+What?! I lost?!
+Telli997
+GO Tour Challenger
+I finally won one! I better call my mom.
+I finally won one! I better call my mom.
+A truly strong Trainer wins with style!
+A truly strong Trainer wins with style!
+<taunt>... ... ...
+Whoa, seriously?
+Whoa, seriously?
+malibuleo
+GO Tour Challenger
+Well, this was unexpected.
+Well, this was unexpected.
+Carnaval
 You have successfully registered for {0}!
 Season of Celebration
+Season of Legends
 Sinnoh Celebration Event
 Animation Week
 Catch Mastery: Ghost
@@ -2745,6 +3637,7 @@ N Pose
 Level 43 Pose
 Level 47 Pose
 Mime Pose
+Elesa Pose
 Idle
 Ultra Moon Bag
 Level 41 Glasses
@@ -2769,6 +3662,7 @@ Level 49 Boots
 Level 49 Boots
 Ultra Moon Sandals
 Facebook
+Type Surge: Fairy
 Fashion Week
 Favorite
 Please use a Facebook account that has an email address attached to it.
@@ -2787,6 +3681,7 @@ Suggestions for You
 +{0} XP
 Event-themed Field Research
 Thank you for field-testing Pokémon GO!We will be back soon!
+Type Surge: Fighting
 See More
 See Less
 giftable
@@ -2849,6 +3744,7 @@ Purified
 Shadow
 Shiny
 Traded
+Type Surge: Fire
 Maybe later
 Yes, camera on!
 Try it out. You can turn it off with the AR button anytime.
@@ -2896,6 +3792,7 @@ Receive up to five Raid Passes at no cost by spinning Photo Discs at Gyms
 Raid Day box with Remote Raid Passes available in the shop
 Flying Cup available in the GO Battle League
 Flying Cup
+Type Surge: Flying
 Altered Forme
 Aria Forme
 Attack
@@ -3027,6 +3924,7 @@ Galarian Form
 2× Stardust rewards in the GO Battle League
 The GO Battle League is down for maintenance
 The GO Battle League will be down for maintenance in {0} minute(s)
+Featured Pokémon in GO Battle League reward encounters
 Marill featured in GO Battle League reward encounters
 Pidgey featured in GO Battle League reward encounters
 3 extra sets of battles in the GO Battle League
@@ -3038,11 +3936,15 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+The Bravest Bird Ticket
+A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Straight to the Top, Machop! Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
-Straight to the Top, Machop! Ticket
+The Bravest Bird Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -3068,8 +3970,10 @@ Error
 GO
 GO TO SHOP
 HP
+TRANSFER
 kg
 km
+CANCEL
 m
 More
 Network Error
@@ -3080,12 +3984,14 @@ Paste
 Pokémon
 Your collection is full.
 QUIT
+General raid error.
 Report Issue
 SEND
 Sign Out
 Are you sure you want to sign out?
 HP
 TOTAL
+TRANSFER
 VS
 XL
 XP
@@ -3100,6 +4006,7 @@ Post photos with #PokemonGOFest2020, and we’ll share our favorites!
 Join the global event and check out live content here: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 Check out live content: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 Welcome to Pokémon GO Fest!
+Type Surge: Ghost
 Greetings from
 Open a Sponsored Gift!
 Open 2× as many Gifts
@@ -3335,12 +4242,121 @@ Once you choose your event version, you can’t change your choice.
 Do you want to choose Green Version?
 Do you want to choose Red Version?
 Post photos with #PokemonGOTour, and we’ll share our favorites!
+Now: Cerulean City hour!
+Now: Fuchsia City hour!
 You have selected Green Version
+Now: All event-featured Pokémon!
+Now: Pallet Town hour!
+Now: Pewter City hour!
+Now: Pokémon League hour!
 You have selected Red Version
 Post photos with #PokemonGOTour, and we’ll share our favorites!
 Catch, trade, or evolve to collect these Pokémon before time expires to complete your Pokémon GO Tour: Kanto Collection Challenges!
 Welcome to Pokémon GO Tour: Kanto!
 Welcome to Pokémon GO Tour: Kanto!
+Pokémon GO Tour: Kanto
+GO Tour Kanto: Cerulean City
+Catch Pokémon during the Cerulean City hour
+GO Tour Kanto: Evolve
+Evolve Pokémon first found in Kanto
+GO Tour Kanto: Fuchsia City
+Catch Pokémon during the Fuchsia City hour
+GO Tour Kanto: Green Version (Incense)
+Use Incense to attract Green Version−exclusive Pokémon
+GO Tour Kanto: Green Version (Trade)
+Trade with friends to collect these Pokémon
+GO Tour Kanto: Pallet Town
+Catch Pokémon during the Pallet Town hour
+GO Tour Kanto: Pewter City
+Catch Pokémon during the Pewter City hour
+GO Tour Kanto: Pokémon League
+Catch Pokémon during the Pokémon League hour
+GO Tour Kanto: Raid
+Complete raids against Pokémon first found in Kanto
+GO Tour Kanto: Red Version (Incense)
+Use Incense to attract Red Version−exclusive Pokémon
+GO Tour Kanto: Red Version (Trade)
+Trade with friends to collect these Pokémon
+GO Tour Kanto: Research
+Complete Kanto Special Research
+GO Tour Kanto: A Trainer’s Journey
+GO Tour Kanto: A Trainer’s Journey (1/8)
+GO Tour Kanto: A Trainer’s Journey (2/8)
+GO Tour Kanto: A Trainer’s Journey (3/8)
+GO Tour Kanto: A Trainer's Journey (4/8)
+GO Tour Kanto: A Trainer’s Journey (5/8)
+GO Tour Kanto: A Trainer’s Journey (6/8)
+GO Tour Kanto: A Trainer’s Journey (7/8)
+GO Tour Kanto: A Trainer's Journey (8/8)
+Hey there, %PLAYERNAME%! Check this out—I’ve been practicing.
+Hello there! Welcome to the world of Pokémon GO! My name is Willow. People call me the Pokémon Prof!
+This world is inhabited by creatures called Pokémon! Some people keep Pokémon as companions. Others have them do battle. Myself? I study Pokémon as a profession.
+Did that remind you of anyone? For many years, Trainers from Kanto have heard similar remarks before embarking on their journeys through the region.
+I have the honor of making them today because you’re about to head out on your own Kanto-inspired journey.
+But we can’t have you leaving unprepared! I’ve put together some supplies I think you’ll find useful.
+Berries, Potions, and Poké Balls. Looks like you’re all set!
+As you begin today’s adventure, try to imagine you’re stepping straight into the tall grass of Kanto.
+I have a feeling you’ll meet a Pokémon that will make a wonderful partner on your journey. Be sure to take some snapshots of the Pokémon you encounter along the way!
+On adventures, I find it’s helpful to document not only your findings but also your memories. And I’m sure you’ll make plenty of both!
+Now, in the words of a wise professor: Your very own Pokémon legend is about to unfold! A world of dreams and adventures with Pokémon awaits! Let's GO!
+How’s your journey going, %PLAYERNAME%? Oh! Found a partner Pokémon to join you, eh? Wonderful work.
+In the Kanto region, Trainers are often presented with three options when it comes to their first partner Pokémon.
+The first is Bulbasaur, the Seed Pokémon, #001 in the Pokédex. This Grass-type Pokémon has a plant seed on its back right from the day it’s born.
+Another option is Charmander, the Lizard Pokémon. It’s a Fire-type Pokémon, and it has a flame on its tail that shows the strength of its life force.
+Last—but certainly not least—is Squirtle, the Tiny Turtle Pokémon. After birth, this Water-type Pokémon's back swells and hardens into a shell.
+Each of these Pokémon have their strengths and weaknesses, so be sure to study up! For now, though, it’s time to get back to your adventure.
+I’d like you to spend some time with your buddy. The relationship between a Trainer and their Pokémon is of utmost importance!
+How about going on a walk together? I always enjoy exploring with my buddy!
+Wonderful work, Trainer! Glad to see you’re growing closer to your buddy. Keep it up, and you’ll become even closer in no time.
+When it comes to being a Trainer, people often talk about catching techniques or battle strategies, but I find that friendship is just as essential.
+Not only are the relationships you build with your Pokémon incredibly important, but so are the friendships you build with other Trainers.
+Your personal journeys and goals may vary, but at the end of the day, you’re all Trainers! You should do your best to connect with the other Trainers you meet on your travels.
+In that spirit, how about sending your friends some Gifts to brighten their day? I’m sure they’d love to hear from you!
+Welcome back, Trainer! Hope you enjoyed connecting with other Trainers. I see you were even able to trade a few Pokémon!
+Trading is a fabulous way to acquire Pokémon you might not have otherwise encountered.
+And not only do you get a new entry in your Pokédex, but you also get a new friend!
+You’ve already made great progress on your journey. I think it’s time to show off the skills you’ve learned along the way!
+How about showcasing your throwing expertise by catching some Pokémon? Don’t forget to make use of your Berries, too.
+I’m especially fond of Pinap Berries. They help you earn extra Candy for the Pokémon you’re catching—and they’re tasty to boot!
+I’m sure I had a stash of Pinap Berries here somewhere... Oh! Welcome back, %PLAYERNAME%! Guess my snack will have to wait.
+I’ve been checking up on your progress, and I have to say, I’m very impressed! It seems there’s no challenge you can’t overcome.
+As I’m sure you know, a well-rounded Trainer needs to have a great team of Pokémon to battle against other Trainers or even challenge Pokémon in raids.
+I think this is a great time to power up some of your Pokémon and bolster your team.
+While you focus on that, I’ll be looking into an interesting rumor I caught wind of.
+There have been reports of encounters with a Pokémon that’s able to transform into another Pokémon entirely. Fascinating stuff!
+I’ll be sure to share whatever I find when you return.
+Glad you’re back, Trainer. After looking into those reports, it certainly sounds like the work of Ditto, the Transform Pokémon.
+Ditto rearranges its cell structure to transform itself into other shapes. What an incredible Pokémon!
+However, there seems to be something more to this situation.
+Could you help me with some research so we can find out what exactly is going on?
+I’ll continue my work here to see if I can uncover some more information that might help us.
+%PLAYERNAME%! Is it true?! You encountered a Shiny Ditto?! I’m stunned!
+You’ve had quite the journey, haven’t you? It’s been a joy to follow your progress, as always.
+Believe it or not, though, there’s still another mystery that needs solving.
+You see, after looking over the research you’ve conducted, I think we might be on the trail of the New Species Pokémon, Mew.
+We've documented Mew in the past, but something’s different this time—though I can’t yet say what that is.
+Whatever the case, I think it’s safe to say this is going to be a memorable adventure!
+In the meantime, keep an eye out for another research assignment. I have a feeling this is going to be an especially challenging endeavor, but I’m sure you’re up to it!
+For now, though, I think congratulations are in order. You did a tremendous job on today’s Kanto-themed journey!
+I hope you were able to make some special memories with your Pokémon and fellow Trainers. Thanks again for all your help and hard work!
+Now, let’s GO!
+Pokémon GO Tour: Kanto
+Pokémon GO Tour: Kanto (1/8)
+Pokémon GO Tour: Kanto (2/8)
+Pokémon GO Tour: Kanto (3/8)
+Pokémon GO Tour: Kanto (4/8)
+Pokémon GO Tour: Kanto (5/8)
+Pokémon GO Tour: Kanto (6/8)
+Pokémon GO Tour: Kanto (7/8)
+Pokémon GO Tour: Kanto (8/8)
+GO Tour Kanto: Defeat All Challengers
+GO Tour Kanto: Defeat All Challengers (1/4)
+GO Tour Kanto: Defeat All Challengers (2/4)
+GO Tour Kanto: Defeat All Challengers (3/4)
+GO Tour Kanto: Defeat All Challengers (4/4)
+Type Surge: Grass
+Great League Remix
+Type Surge: Ground
 Holiday
 I’m sure to win—I have the element of surprise on my side!
 I’m sure to win—I have the element of surprise on my side!
@@ -3763,7 +4779,9 @@ PokéCoins
 Team Change
 Upgrades
 This item can no longer be purchased.
+Type Surge: Ice
 Incense Day
+Beldum attracted to Incense
 Carvanha attracted by Incense
 Mareep attracted to Incense
 Sentret lured by Incense
@@ -3873,14 +4891,16 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on January 16 from 11 a.m. to 5 p.m. local time, wherever you are.
+A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to a special research on January 16, wherever you are in the world.
+This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
+A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 Ticket
-A ticket to access  Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
@@ -4050,6 +5070,8 @@ Eligible Pokémon types:
 Level {0} Requirements
 Level {0} Style Items
 Task rewards will be awarded automatically upon completion.
+SHARE ACHIEVEMENT ({0})
+Select an achievement to share
 Pokémon Caught
 PokéStops Visited
 Raids Won
@@ -4057,10 +5079,728 @@ Previous Level’s Activity
 Items Unlocked
 Level up!
 Limited Research
+Abomasnow Limited Research
+Abra Limited Research
+Absol Limited Research
+Accelgor Limited Research
+Aegislash Limited Research
+Aerodactyl Limited Research
+Aggron Limited Research
+Aipom Limited Research
+Alakazam Limited Research
+Alomomola Limited Research
+Altaria Limited Research
+Amaura Limited Research
+Ambipom Limited Research
+Amoonguss Limited Research
+Ampharos Limited Research
+Anorith Limited Research
+Arbok Limited Research
+Arcanine Limited Research
+Arceus Limited Research
+Archen Limited Research
+Archeops Limited Research
+Ariados Limited Research
+Armaldo Limited Research
+Aromatisse Limited Research
+Aron Limited Research
+Articuno Limited Research
+Audino Limited Research
+Aurorus Limited Research
+Avalugg Limited Research
+Axew Limited Research
+Azelf Limited Research
+Azumarill Limited Research
+Azurill Limited Research
+Bagon Limited Research
+Baltoy Limited Research
+Banette Limited Research
+Barbaracle Limited Research
+Barboach Limited Research
+Basculin Limited Research
+Bastiodon Limited Research
+Bayleef Limited Research
+Beartic Limited Research
+Beautifly Limited Research
+Beedrill Limited Research
+Beheeyem Limited Research
+Beldum Limited Research
+Bellossom Limited Research
+Bellsprout Limited Research
+Bergmite Limited Research
+Bibarel Limited Research
+Bidoof Limited Research
+Binacle Limited Research
+Bisharp Limited Research
+Blastoise Limited Research
+Blaziken Limited Research
+Blissey Limited Research
+Blitzle Limited Research
+Boldore Limited Research
+Bonsly Limited Research
+Bouffalant Limited Research
+Braixen Limited Research
+Braviary Limited Research
+Breloom Limited Research
+Bronzong Limited Research
+Bronzor Limited Research
+Budew Limited Research
+Buizel Limited Research
+Bulbasaur Limited Research
+Buneary Limited Research
+Bunnelby Limited Research
+Burmy Limited Research
+Butterfree Limited Research
+Cacnea Limited Research
+Cacturne Limited Research
+Camerupt Limited Research
+Carbink Limited Research
+Carnivine Limited Research
+Carracosta Limited Research
+Carvanha Limited Research
+Cascoon Limited Research
+Castform Limited Research
+Caterpie Limited Research
+Celebi Limited Research
+Chandelure Limited Research
+Chansey Limited Research
+Charizard Limited Research
+Charmander Limited Research
+Charmeleon Limited Research
+Chatot Limited Research
+Cherrim Limited Research
+Cherubi Limited Research
+Chesnaught Limited Research
+Chespin Limited Research
+Chikorita Limited Research
+Chimchar Limited Research
+Chimecho Limited Research
+Chinchou Limited Research
+Chingling Limited Research
+Cinccino Limited Research
+Clamperl Limited Research
+Clauncher Limited Research
+Clawitzer Limited Research
+Claydol Limited Research
+Clefable Limited Research
+Clefairy Limited Research
+Cleffa Limited Research
+Cloyster Limited Research
+Cobalion Limited Research
+Cofagrigus Limited Research
+Combee Limited Research
+Combusken Limited Research
+Conkeldurr Limited Research
+Corphish Limited Research
+Corsola Limited Research
+Cottonee Limited Research
+Cradily Limited Research
+Cranidos Limited Research
+Crawdaunt Limited Research
+Cresselia Limited Research
+Croagunk Limited Research
+Crobat Limited Research
+Croconaw Limited Research
+Crustle Limited Research
+Cryogonal Limited Research
+Cubchoo Limited Research
+Cubone Limited Research
+Cyndaquil Limited Research
+Darkrai Limited Research
+Darmanitan Limited Research
+Darumaka Limited Research
+Dedenne Limited Research
+Deerling Limited Research
+Deino Limited Research
+Delcatty Limited Research
+Delibird Limited Research
+Delphox Limited Research
+Deoxys Limited Research
+Dewgong Limited Research
+Dewott Limited Research
+Dialga Limited Research
+Diancie Limited Research
+Diggersby Limited Research
+Diglett Limited Research
+Ditto Limited Research
+Dodrio Limited Research
+Doduo Limited Research
+Donphan Limited Research
+Doublade Limited Research
+Dragalge Limited Research
+Dragonair Limited Research
+Dragonite Limited Research
+Drapion Limited Research
+Dratini Limited Research
+Drifblim Limited Research
+Drifloon Limited Research
+Drilbur Limited Research
+Drowzee Limited Research
+Druddigon Limited Research
+Ducklett Limited Research
+Dugtrio Limited Research
+Dunsparce Limited Research
+Duosion Limited Research
+Durant Limited Research
+Dusclops Limited Research
+Dusknoir Limited Research
+Duskull Limited Research
+Dustox Limited Research
+Dwebble Limited Research
+Eelektrik Limited Research
+Eelektross Limited Research
+Eevee Limited Research
+Ekans Limited Research
+Electabuzz Limited Research
+Electivire Limited Research
+Electrike Limited Research
+Electrode Limited Research
+Elekid Limited Research
+Elgyem Limited Research
+Emboar Limited Research
+Emolga Limited Research
+Empoleon Limited Research
+Entei Limited Research
+Escavalier Limited Research
+Espeon Limited Research
+Espurr Limited Research
+Excadrill Limited Research
+Exeggcute Limited Research
+Exeggutor Limited Research
+Exploud Limited Research
+Farfetch'd Limited Research
+Fearow Limited Research
+Feebas Limited Research
+Fennekin Limited Research
+Feraligatr Limited Research
+Ferroseed Limited Research
+Ferrothorn Limited Research
+Finneon Limited Research
+Flaaffy Limited Research
+Flabébé Limited Research
+Flareon Limited Research
+Fletchinder Limited Research
+Fletchling Limited Research
+Floatzel Limited Research
+Floette Limited Research
+Florges Limited Research
+Flygon Limited Research
+Foongus Limited Research
+Forretress Limited Research
+Fraxure Limited Research
+Frillish Limited Research
+Froakie Limited Research
+Frogadier Limited Research
+Froslass Limited Research
+Furfrou Limited Research
+Furret Limited Research
+Gabite Limited Research
+Gallade Limited Research
+Galvantula Limited Research
+Garbodor Limited Research
+Garchomp Limited Research
+Gardevoir Limited Research
+Gastly Limited Research
+Gastrodon Limited Research
+Genesect Limited Research
+Gengar Limited Research
+Geodude Limited Research
+Gible Limited Research
+Gigalith Limited Research
+Girafarig Limited Research
+Giratina Limited Research
+Glaceon Limited Research
+Glalie Limited Research
+Glameow Limited Research
+Gligar Limited Research
+Gliscor Limited Research
+Gloom Limited Research
+Gogoat Limited Research
+Golbat Limited Research
+Goldeen Limited Research
+Golduck Limited Research
+Golem Limited Research
+Golett Limited Research
+Golurk Limited Research
+Goodra Limited Research
+Goomy Limited Research
+Gorebyss Limited Research
+Gothita Limited Research
+Gothitelle Limited Research
+Gothorita Limited Research
+Gourgeist Limited Research
+Granbull Limited Research
+Graveler Limited Research
+Greninja Limited Research
+Grimer Limited Research
+Grotle Limited Research
+Groudon Limited Research
+Grovyle Limited Research
+Growlithe Limited Research
+Grumpig Limited Research
+Gulpin Limited Research
+Gurdurr Limited Research
+Gyarados Limited Research
+Happiny Limited Research
+Hariyama Limited Research
+Haunter Limited Research
+Hawlucha Limited Research
+Haxorus Limited Research
+Heatmor Limited Research
+Heatran Limited Research
+Heliolisk Limited Research
+Helioptile Limited Research
+Heracross Limited Research
+Herdier Limited Research
+Hippopotas Limited Research
+Hippowdon Limited Research
+Hitmonchan Limited Research
+Hitmonlee Limited Research
+Hitmontop Limited Research
+Ho-Oh Limited Research
+Honchkrow Limited Research
+Honedge Limited Research
+Hoopa Limited Research
+Hoothoot Limited Research
+Hoppip Limited Research
+Horsea Limited Research
+Houndoom Limited Research
+Houndour Limited Research
+Huntail Limited Research
+Hydreigon Limited Research
+Hypno Limited Research
+Igglybuff Limited Research
+Illumise Limited Research
+Infernape Limited Research
+Inkay Limited Research
+Ivysaur Limited Research
+Jellicent Limited Research
+Jigglypuff Limited Research
+Jirachi Limited Research
+Jolteon Limited Research
+Joltik Limited Research
+Jumpluff Limited Research
+Jynx Limited Research
+Kabuto Limited Research
+Kabutops Limited Research
+Kadabra Limited Research
+Kakuna Limited Research
+Kangaskhan Limited Research
+Karrablast Limited Research
+Kecleon Limited Research
+Keldeo Limited Research
+Kingdra Limited Research
+Kingler Limited Research
+Kirlia Limited Research
+Klang Limited Research
+Klefki Limited Research
+Klink Limited Research
+Klinklang Limited Research
+Koffing Limited Research
+Krabby Limited Research
+Kricketot Limited Research
+Kricketune Limited Research
+Krokorok Limited Research
+Krookodile Limited Research
+Kyogre Limited Research
+Kyurem Limited Research
+Lairon Limited Research
+Lampent Limited Research
+Landorus Limited Research
+Lanturn Limited Research
+Lapras Limited Research
+Larvesta Limited Research
+Larvitar Limited Research
+Latias Limited Research
+Latios Limited Research
+Leafeon Limited Research
+Leavanny Limited Research
+Ledian Limited Research
+Ledyba Limited Research
+Lickilicky Limited Research
+Lickitung Limited Research
+Liepard Limited Research
+Lileep Limited Research
+Lilligant Limited Research
+Lillipup Limited Research
+Linoone Limited Research
+Litleo Limited Research
+Litwick Limited Research
+Lombre Limited Research
+Lopunny Limited Research
+Lotad Limited Research
+Loudred Limited Research
+Lucario Limited Research
+Ludicolo Limited Research
+Lugia Limited Research
+Lumineon Limited Research
+Lunatone Limited Research
+Luvdisc Limited Research
+Luxio Limited Research
+Luxray Limited Research
+Machamp Limited Research
+Machoke Limited Research
+Machop Limited Research
+Magby Limited Research
+Magcargo Limited Research
+Magikarp Limited Research
+Magmar Limited Research
+Magmortar Limited Research
+Magnemite Limited Research
+Magneton Limited Research
+Magnezone Limited Research
+Makuhita Limited Research
+Malamar Limited Research
+Mamoswine Limited Research
+Manaphy Limited Research
+Mandibuzz Limited Research
+Manectric Limited Research
+Mankey Limited Research
+Mantine Limited Research
+Mantyke Limited Research
+Maractus Limited Research
+Mareep Limited Research
+Marill Limited Research
+Marowak Limited Research
+Marshtomp Limited Research
+Masquerain Limited Research
+Mawile Limited Research
+Medicham Limited Research
+Meditite Limited Research
+Meganium Limited Research
+Meloetta Limited Research
+Meowstic Limited Research
 Meowth Limited Research
+Mesprit Limited Research
+Metagross Limited Research
+Metang Limited Research
+Metapod Limited Research
+Mew Limited Research
+Mewtwo Limited Research
+Mienfoo Limited Research
+Mienshao Limited Research
+Mightyena Limited Research
+Milotic Limited Research
+Miltank Limited Research
+Mime Jr. Limited Research
+Minccino Limited Research
+Minun Limited Research
+Misdreavus Limited Research
+Mismagius Limited Research
+Moltres Limited Research
+Monferno Limited Research
+Mothim Limited Research
+Mr. Mime Limited Research
+Mudkip Limited Research
+Muk Limited Research
+Munchlax Limited Research
+Munna Limited Research
+Murkrow Limited Research
+Musharna Limited Research
+Natu Limited Research
+Nidoking Limited Research
+Nidoqueen Limited Research
 Nidoran♀ and Nidoran♂ Limited Research
+Nidoran♀ Limited Research
+Nidoran♂ Limited Research
+Nidorina Limited Research
+Nidorino Limited Research
+Nincada Limited Research
+Ninetales Limited Research
+Ninjask Limited Research
+Noctowl Limited Research
+Noibat Limited Research
+Noivern Limited Research
+Nosepass Limited Research
+Numel Limited Research
+Nuzleaf Limited Research
+Octillery Limited Research
+Oddish Limited Research
+Omanyte Limited Research
+Omastar Limited Research
+Onix Limited Research
+Oshawott Limited Research
+Pachirisu Limited Research
+Palkia Limited Research
+Palpitoad Limited Research
+Pancham Limited Research
+Pangoro Limited Research
+Panpour Limited Research
+Pansage Limited Research
+Pansear Limited Research
+Paras Limited Research
+Parasect Limited Research
+Patrat Limited Research
+Pawniard Limited Research
+Pelipper Limited Research
+Persian Limited Research
+Petilil Limited Research
+Phanpy Limited Research
+Phantump Limited Research
+Phione Limited Research
+Pichu Limited Research
+Pidgeot Limited Research
+Pidgeotto Limited Research
+Pidgey Limited Research
+Pidove Limited Research
+Pignite Limited Research
+Pikachu Limited Research
+Piloswine Limited Research
+Pineco Limited Research
+Pinsir Limited Research
+Piplup Limited Research
+Plusle Limited Research
+Politoed Limited Research
+Poliwag Limited Research
+Poliwhirl Limited Research
+Poliwrath Limited Research
+Ponyta Limited Research
+Poochyena Limited Research
+Porygon Limited Research
+Porygon-Z Limited Research
+Porygon2 Limited Research
+Primeape Limited Research
+Prinplup Limited Research
+Probopass Limited Research
+Psyduck Limited Research
+Pumpkaboo Limited Research
+Pupitar Limited Research
+Purrloin Limited Research
+Purugly Limited Research
+Pyroar Limited Research
+Quagsire Limited Research
+Quilava Limited Research
+Quilladin Limited Research
+Qwilfish Limited Research
+Raichu Limited Research
+Raikou Limited Research
+Ralts Limited Research
+Rampardos Limited Research
+Rapidash Limited Research
+Raticate Limited Research
+Rattata Limited Research
+Rayquaza Limited Research
+Regice Limited Research
+Regigigas Limited Research
+Regirock Limited Research
+Registeel Limited Research
+Relicanth Limited Research
+Remoraid Limited Research
+Reshiram Limited Research
+Reuniclus Limited Research
+Rhydon Limited Research
+Rhyhorn Limited Research
+Rhyperior Limited Research
+Riolu Limited Research
+Roggenrola Limited Research
+Roselia Limited Research
+Roserade Limited Research
+Rotom Limited Research
+Rufflet Limited Research
+Sableye Limited Research
+Salamence Limited Research
+Samurott Limited Research
+Sandile Limited Research
+Sandshrew Limited Research
+Sandslash Limited Research
+Sawk Limited Research
+Sawsbuck Limited Research
+Scatterbug Limited Research
+Sceptile Limited Research
+Scizor Limited Research
+Scolipede Limited Research
+Scrafty Limited Research
+Scraggy Limited Research
+Scyther Limited Research
+Seadra Limited Research
+Seaking Limited Research
+Sealeo Limited Research
+Seedot Limited Research
+Seel Limited Research
+Seismitoad Limited Research
+Sentret Limited Research
+Serperior Limited Research
+Servine Limited Research
+Seviper Limited Research
+Sewaddle Limited Research
+Sharpedo Limited Research
+Shaymin Limited Research
+Shedinja Limited Research
+Shelgon Limited Research
+Shellder Limited Research
+Shellos Limited Research
+Shelmet Limited Research
+Shieldon Limited Research
+Shiftry Limited Research
+Shinx Limited Research
+Shroomish Limited Research
+Shuckle Limited Research
+Shuppet Limited Research
+Sigilyph Limited Research
+Silcoon Limited Research
+Simipour Limited Research
+Simisage Limited Research
+Simisear Limited Research
+Skarmory Limited Research
+Skiddo Limited Research
+Skiploom Limited Research
+Skitty Limited Research
+Skorupi Limited Research
+Skrelp Limited Research
+Skuntank Limited Research
+Slaking Limited Research
+Slakoth Limited Research
+Sliggoo Limited Research
+Slowbro Limited Research
+Slowking Limited Research
+Slowpoke Limited Research
+Slugma Limited Research
+Slurpuff Limited Research
+Smeargle Limited Research
+Smoochum Limited Research
 Sneasel Limited Research
+Snivy Limited Research
+Snorlax Limited Research
+Snorunt Limited Research
+Snover Limited Research
 Snubbull Limited Research
+Solosis Limited Research
+Solrock Limited Research
+Spearow Limited Research
+Spewpa Limited Research
+Spheal Limited Research
+Spinarak Limited Research
+Spinda Limited Research
+Spiritomb Limited Research
+Spoink Limited Research
+Spritzee Limited Research
+Squirtle Limited Research
+Stantler Limited Research
+Staraptor Limited Research
+Staravia Limited Research
+Starly Limited Research
+Starmie Limited Research
+Staryu Limited Research
+Steelix Limited Research
+Stoutland Limited Research
+Stunfisk Limited Research
+Stunky Limited Research
+Sudowoodo Limited Research
+Suicune Limited Research
+Sunflora Limited Research
+Sunkern Limited Research
+Surskit Limited Research
+Swablu Limited Research
+Swadloon Limited Research
+Swalot Limited Research
+Swampert Limited Research
+Swanna Limited Research
+Swellow Limited Research
+Swinub Limited Research
+Swirlix Limited Research
+Swoobat Limited Research
+Sylveon Limited Research
+Taillow Limited Research
+Talonflame Limited Research
+Tangela Limited Research
+Tangrowth Limited Research
+Tauros Limited Research
+Teddiursa Limited Research
+Tentacool Limited Research
+Tentacruel Limited Research
+Tepig Limited Research
+Terrakion Limited Research
+Throh Limited Research
+Thundurus Limited Research
+Timburr Limited Research
+Tirtouga Limited Research
+Togekiss Limited Research
+Togepi Limited Research
+Togetic Limited Research
+Torchic Limited Research
+Torkoal Limited Research
+Tornadus Limited Research
+Torterra Limited Research
+Totodile Limited Research
+Toxicroak Limited Research
+Tranquill Limited Research
+Trapinch Limited Research
+Treecko Limited Research
+Trevenant Limited Research
+Tropius Limited Research
+Trubbish Limited Research
+Turtwig Limited Research
+Tympole Limited Research
+Tynamo Limited Research
+Typhlosion Limited Research
+Tyranitar Limited Research
+Tyrantrum Limited Research
+Tyrogue Limited Research
+Tyrunt Limited Research
+Umbreon Limited Research
+Unfezant Limited Research
+Unown Limited Research
+Ursaring Limited Research
+Uxie Limited Research
+Vanillish Limited Research
+Vanillite Limited Research
+Vanilluxe Limited Research
+Vaporeon Limited Research
+Venipede Limited Research
+Venomoth Limited Research
+Venonat Limited Research
+Venusaur Limited Research
+Vespiquen Limited Research
+Vibrava Limited Research
+Victini Limited Research
+Victreebel Limited Research
+Vigoroth Limited Research
+Vileplume Limited Research
+Virizion Limited Research
+Vivillon Limited Research
+Volbeat Limited Research
+Volcanion Limited Research
+Volcarona Limited Research
+Voltorb Limited Research
+Vullaby Limited Research
+Vulpix Limited Research
+Wailmer Limited Research
+Wailord Limited Research
+Walrein Limited Research
+Wartortle Limited Research
+Watchog Limited Research
+Weavile Limited Research
+Weedle Limited Research
+Weepinbell Limited Research
+Weezing Limited Research
+Whimsicott Limited Research
+Whirlipede Limited Research
+Whiscash Limited Research
+Whismur Limited Research
+Wigglytuff Limited Research
+Wingull Limited Research
+Wobbuffet Limited Research
+Woobat Limited Research
+Wooper Limited Research
+Wormadam Limited Research
+Wurmple Limited Research
+Wynaut Limited Research
+Xatu Limited Research
+Xerneas Limited Research
+Yamask Limited Research
+Yanma Limited Research
+Yanmega Limited Research
+Yveltal Limited Research
+Zangoose Limited Research
+Zapdos Limited Research
+Zebstrika Limited Research
+Zekrom Limited Research
+Zigzagoon Limited Research
+Zoroark Limited Research
+Zorua Limited Research
+Zubat Limited Research
+Zweilous Limited Research
+Zygarde Limited Research
 Unable to link to this account.
 <size=36><b>{0} Error</b></size>Unable to link to this account.
 <size=36><b>Account Already Exists</b></size>This account is already linked to an existing player.
@@ -4094,10 +5834,12 @@ Username
 Love Cup
 2× Lucky Egg duration
 Your next trade with this friend will be Lucky!
+Increased chance to become Lucky Friends
 Lucky Friend
 {0} and you became Lucky Friends!
 New Bonus Unlocked
 Your next trade together will be Lucky! This means both Pokémon traded will become Lucky Pokémon.
+Increased chance for Lucky Pokémon in trades
 Lucky Trade
 A Lucky Egg that's filled with happiness! Earns double XP for 30 minutes.
 Lucky Egg
@@ -4143,6 +5885,7 @@ N Pose
 Level 43 Pose
 Level 47 Pose
 Mime Pose
+Elesa Pose
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -4193,6 +5936,38 @@ Lotad Research: Battle in a raid
 Lotad Research: Use a supereffective Charged Attack in a Gym battle
 Master League Classic
 Premier Cup
+Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
+Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
+I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
+I’m no sailor, but I do find myself feeling luckier after humming it! Haha!
+Anyway, we’re here to look into the strange situation we uncovered during your Kanto-themed journey.
+I’m talking, of course, about reports of encounters with Mew, the New Species Pokémon. There have been several sightings of a Shiny one recently, which is tremendously exciting!
+That means our goal on this expedition is to find not only one of the most elusive Pokémon to ever exist, but a Shiny one at that!
+You’ve experienced a lot on your journeys thus far, %PLAYERNAME%. But perhaps the most wonderful thing about Pokémon is that there’s always something new to discover.
+I hope you’re excited for what’s to come, because I have a feeling it’s going to be a real test of your skills as a Trainer!
+Let’s GO!
+Wow, %PLAYERNAME%—great work! Your knowledge of the Kanto region is beginning to rival even my own!
+Our next task is to learn more about Pokémon DNA.
+I know that sounds pretty heavy on the science, but don’t worry—I’ll take care of that part. All I need you to do is get out there and catch lots of different types of Pokémon!
+Mew’s DNA is said to contain the genetic codes of all Pokémon, so to better understand Mew, we should try to understand as much as we can about the genetics of other Pokémon.
+Incredible work, %PLAYERNAME%! Seeing you learn so much about different Pokémon reminded me of how vast the world of Pokémon truly is.
+Knowledge is funny in that the more we gain, the more realize how much we still lack. Some might find that frustrating, but for me it’s inspiring!
+You know, there’s a part in that sea shanty I mentioned before that seems applicable here.
+I don’t remember the exact words, but the gist is that we should travel across the land, searching far and wide to learn about all the amazing Pokémon there are in the world.
+Words to live by, I say! Let’s get out there and track down that Shiny Mew, Trainer!
+%PLAYERNAME%, you... You did it! You actually found and caught a Shiny Mew!
+Has it even sunk in yet? This is a monumental achievement, Trainer. Take a moment to congratulate yourself!
+Hm? It’s my achievement as well? Haha! No, no, I just hummed you a shanty and guided you like any Pokémon Professor worth their sea salt would.
+But thanks are certainly in order for the Pokémon you’ve befriended on your journey. They played a big part in your research, after all!
+The ones you’ve caught, the ones you’ve battled with, and the ones that traveled with you as your buddy—each Pokémon played a critical part in helping you achieve this goal.
+As Trainers, we owe an eternal debt to our Pokémon. After all, we can’t very well be Trainers without them!
+A Trainer’s journey is meant to be filled with amazing memories, ambitious dreams, and unexpected adventures. I think this particular journey checked all those boxes pretty handily!
+I’m sure it won’t be the last to do so, either. Now, until next time...let’s GO!
+All-in-One #151
+All-in-One #151 (1/4)
+All-in-One #151 (2/4)
+All-in-One #151 (3/4)
+All-in-One #151 (4/4)
 Cannot create more than {0} tags.
 10 Max Potions to completely restore the HP of 10 Pokémon.
 10 Max Potions
@@ -4200,6 +5975,7 @@ Cannot create more than {0} tags.
 6 Max Revives
 Mega Battle Challenge
 Mega Buddy Challenge
+Mega Bonus Hour: [Candy]
 As you walk, you can earn Candy for the Pokémon you’ve chosen to be your buddy. If your buddy is excited, the distance needed to earn Candy will be reduced! Poffins will get your buddy excited faster than other treats. You may also receive Mega Energy appropriate for your buddy!
 Candies and Mega Energy
 Mega
@@ -4220,12 +5996,14 @@ Mega Evolution
 MEGA EVOLVE
 Mega-Evolved Pokémon cannot be assigned to defend Gyms.
 Mega Raid Challenge
+Mega Raid Hour
 Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-02-26T12:05:49.406370at SHA 034a4ace6ecd0247e9b13d031813f04d1418596fPipeline 570055, job 5120645
+Built at 2021-04-06T08:36:15.605757at SHA 8f1f1038a8518d9b11e9614aed09ca0e4ca197a6Pipeline 597489, job 5457998
 Kanto Collection Challenge
+Valentine’s Day 2021 Collection
 Johto Collection Challenge
 Johto Celebration Legendary Collection
 Hoenn Collection Challenge
@@ -4605,6 +6383,7 @@ Tag must have a color.
 Tag must have a name.
 No usable items
 Unable to sign in. Please check that this Pokémon GO account exists and you have correctly selected New or Returning Player.
+Type Surge: Normal
 n/a
 Not very effective...
 Now
@@ -4732,6 +6511,7 @@ Weak signal. Get closer to the device.
 5 surprise encounters with Abra in GO Snapshot
 5 surprise encounters with Charmander in GO Snapshot
 5 surprise encounters with Electabuzz in GO Snapshot
+5 surprise encounters with Fletchling in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
 5 surprise encounters with Machop in GO Snapshot
 5 surprise encounters with Magikarp in GO Snapshot
@@ -4754,7 +6534,7 @@ We have detected activity on your account that suggests you are or someone is ac
 Warning NoticeWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our Terms of Service.You may experience degraded gameplay for approximately 7 days.We strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
 Warning NoticeWe have detected activity on your account that indicates you are using modified client software or unauthorized third-party software in violation of our  Terms of Service.This is the first Strike against your account. It will last for approximately {0} more days.We strongly encourage you to stop this activity. Any further transgressions will result in an account suspension.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
 Your Trainer level is too low to do this.
-Your suspension term has now ended and you are now able access your account.This previous suspension was a result of activity on your account that indicated the use of modified client software or unauthorized third-party software in violation of our Terms of Service.This is your last opportunity to reform your ways. Any further transgressions will result in a your account being permanently banned.Visit the <a href="three_strike_policy_url">Help Center</a> for more information. 
+Your suspension term has ended and you are now able access your account.The prior suspension was a result of activity on your account that indicated the use of modified client software or unauthorized third-party software in violation of our Terms of Service.This is your last opportunity to reform your ways. Any further transgressions will result in your account being permanently banned.Visit the <a href="three_strike_policy_url">Help Center</a> for more information.
 {0} players in lobby
 {0} and {1} other Trainers are now your friends!
 {0} and {1} other Trainers sent you Friend Requests!
@@ -4769,11 +6549,11 @@ Feed this special treat to your buddy, and it’ll happily join you on the map f
 Poffin
 LEARN MORE
 You’ll have {0} more scan contribution(s) available tomorrow.
-You have {0} scan contribution(s) available today. 
+You have {0} scan contribution(s) available today.
 You’ve reached your max daily scan contribution(s) of {0}.
 CANCEL
 You’ll have {0} more description edit(s) available tomorrow.
-You have {0} description edit(s) available today. 
+You have {0} description edit(s) available today.
 PokéStop Description
 You’ve reached your max daily description edit(s) of {0}.
 Edit Description
@@ -4868,7 +6648,10 @@ Thank you for your contribution.
 This feature is currently unavailable.
 You are too far away from this PokéStop to contribute.
 Unlocks at level {0}!
+UPLOAD LATER
 Thank you for your contribution!
+UPLOAD NOW
+Uploading {0}/{1}
 Uploading {0}/{1}
 Error
 No images found
@@ -4957,6 +6740,7 @@ Thank you for your nomination. You will receive an email with details shortly.
 Nomination submitted!
 Input may not contain URLs, game-specific references, or other disallowed content.
 You have {0} nomination(s). New nominations may be available in {1} day(s).
+Type Surge: Poison
 100 standard Poké Balls to catch wild Pokémon!
 100 Poké Balls
 200 standard Poké Balls to catch wild Pokémon!
@@ -6622,6 +8406,7 @@ You can't select Lucky Pokémon.
 You can't select Mythical Pokémon.
 This Pokémon cannot be transferred.
 You can't select Shiny Pokémon.
+None of the selected Pokémon can be transferred.
 One or more of the selected Pokémon cannot be transferred.
 Raid in progress! Your Pokémon will return to the Gym once the raid is over.
 {0} was released.
@@ -7541,6 +9326,7 @@ Success!
 PROMOS
 REDEEM
 Psychic Spectacular
+Type Surge: Psychic
 No Pokémon Trainer Club account?
 Unable to authenticate. Please try again.
 Please activate your account in order to play Pokémon GO.
@@ -7625,6 +9411,7 @@ Catch {0} Kyogre
 Catch a Legendary Pokémon in your next {0} Legendary Pokémon encounters
 Catch {0} Legendary Pokémon
 Catch a Legendary Pokémon
+Catch {0} Luvdisc
 Catch {0} Normal-, Water-, or Ice-type Pokémon
 Catch {0} different species of Pokémon
 Catch {0} Pokémon
@@ -7775,6 +9562,7 @@ A Ripple in Time
 A Tale of Tails
 December Community Day
 Electric for Electabuzz
+The Bravest Bird
 The Great Gastly
 A Spooky Message Unmasked
 Straight to the Top, Machop!
@@ -7793,6 +9581,7 @@ A Professor’s Work Is Never Done
 The Shadowy Threat Grows
 Time to Train
 An Inter-egg-sting Development
+The Higher They Fly...
 Stop and Smell the Roselia
 A Spooky Message 2018
 A Spooky Message 2019
@@ -7912,20 +9701,300 @@ Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
+Evolve one Abra
+Evolve one Aipom
+Evolve one Amaura
+Evolve one Anorith
+Evolve one Archen
+Evolve one Aron
+Evolve one Axew
+Evolve one Azurill
+Evolve one Bagon
+Evolve one Baltoy
+Evolve one Barboach
+Evolve one Bayleef
+Evolve one Beldum
+Evolve one Bellsprout
+Evolve one Bergmite
+Evolve one Bidoof
+Evolve one Binacle
+Evolve one Blitzle
+Evolve one Boldore
+Evolve one Bonsly
+Evolve one Braixen
+Evolve one Bronzor
+Evolve one Budew
+Evolve one Buizel
+Evolve a Bulbasaur
+Evolve one Bulbasaur
+Evolve one Buneary
+Evolve one Bunnelby
+Evolve one Burmy
+Evolve one Cacnea
+Evolve one Carvanha
+Evolve one Cascoon
+Evolve one Caterpie
+Evolve one Chansey
+Evolve a Charmander
+Evolve one Charmander
+Evolve one Charmeleon
+Evolve one Cherubi
+Evolve one Chespin
+Evolve one Chikorita
+Evolve one Chimchar
+Evolve one Chinchou
+Evolve one Chingling
+Evolve one Clamperl
+Evolve one Clauncher
+Evolve one Clefairy
+Evolve one Cleffa
+Evolve one Combee
+Evolve one Combusken
+Evolve one Corphish
+Evolve one Cottonee
+Evolve one Cranidos
+Evolve one Croagunk
+Evolve one Croconaw
+Evolve one Cubchoo
+Evolve one Cubone
+Evolve one Cyndaquil
 Evolve a Dark-type Pokémon
-Evolve a Dragonair
-Evolve a Dratini
+Evolve one Darumaka
+Evolve one Deerling
+Evolve one Deino
+Evolve one Dewott
+Evolve one Diglett
+Evolve one Doduo
+Evolve one Doublade
+Evolve one Dragonair
+Evolve one Dratini
+Evolve one Drifloon
+Evolve one Drilbur
+Evolve one Drowzee
+Evolve one Ducklett
+Evolve one Duosion
+Evolve one Durant
+Evolve one Dusclops
+Evolve one Duskull
+Evolve one Dwebble
+Evolve one Eelektrik
+Evolve one Eevee
 Evolve {0} Electric-, Water-, or Fire-type Pokémon
 Evolve an Electric-, Water-, or Fire-type Pokémon
+Evolve one Ekans
+Evolve one Electabuzz
+Evolve one Electrike
+Evolve one Elekid
+Evolve one Elgyem
 Evolve Eevee into Espeon during the day
+Evolve one Espurr
 Evolve an evolved Grass-type Pokémon
+Evolve one Exeggcute
+Evolve one Farfetch'd
+Evolve one Feebas
+Evolve one Fennekin
+Evolve one Ferroseed
+Evolve one Finneon
+Evolve one Flaaffy
+Evolve one Flabébé
+Evolve one Fletchinder
+Evolve one Fletchling
+Evolve one Floette
+Evolve one Foongus
+Evolve one Fraxure
+Evolve one Frillish
+Evolve one Froakie
+Evolve one Frogadier
+Evolve one Gabite
+Evolve one Gastly
+Evolve one Geodude
+Evolve one Gible
+Evolve one Glalie
+Evolve one Glameow
+Evolve one Gligar
+Evolve one Gloom
+Evolve one Golbat
+Evolve one Goldeen
+Evolve one Golett
+Evolve one Goomy
+Evolve one Gothita
+Evolve one Gothorita
+Evolve one Graveler
+Evolve one Grimer
+Evolve one Grotle
+Evolve one Grovyle
+Evolve one Growlithe
+Evolve one Gulpin
+Evolve one Gurdurr
+Evolve one Happiny
+Evolve one Haunter
+Evolve one Heatmor
+Evolve one Helioptile
+Evolve one Herdier
+Evolve one Hippopotas
+Evolve one Honedge
+Evolve one Hoothoot
+Evolve one Hoppip
+Evolve one Horsea
+Evolve one Houndour
+Evolve one Igglybuff
+Evolve one Illumise
+Evolve one Inkay
 Use items to evolve Pokémon {0} times
 Use an item to evolve a Pokémon
+Evolve one Ivysaur
+Evolve one Jigglypuff
+Evolve one Joltik
+Evolve one Kabuto
+Evolve one Kadabra
+Evolve one Kakuna
+Evolve one Karrablast
+Evolve one Kirlia
+Evolve one Klang
+Evolve one Klink
+Evolve one Koffing
+Evolve one Krabby
+Evolve one Kricketot
+Evolve one Krokorok
+Evolve one Lairon
+Evolve one Lampent
+Evolve one Larvesta
+Evolve one Larvitar
+Evolve one Ledyba
+Evolve one Lickitung
+Evolve one Lileep
+Evolve one Lillipup
+Evolve one Litleo
+Evolve one Litwick
+Evolve one Lombre
+Evolve one Lotad
+Evolve one Loudred
+Evolve one Luxio
+Evolve one Machoke
+Evolve one Machop
+Evolve one Magby
+Evolve one Magikarp
+Evolve one Magmar
+Evolve one Magnemite
+Evolve one Makuhita
+Evolve one Mankey
+Evolve one Mantyke
+Evolve one Mareep
+Evolve one Marill
+Evolve one Marshtomp
+Evolve one Meditite
+Evolve one Meowth
+Evolve one Metang
+Evolve one Metapod
+Evolve one Mienfoo
+Evolve one Mime Jr.
+Evolve one Minccino
+Evolve one Misdreavus
+Evolve one Monferno
+Evolve one Mr. Mime
+Evolve one Mudkip
+Evolve one Munchlax
+Evolve one Munna
+Evolve one Murkrow
+Evolve one Natu
+Evolve one Nidoran♀
+Evolve one Nidoran♂
+Evolve one Nidorina
+Evolve one Nidorino
+Evolve one Nincada
+Evolve one Noibat
+Evolve one Nosepass
+Evolve one Numel
+Evolve one Nuzleaf
+Evolve one Oddish
+Evolve one Omanyte
+Evolve one Onix
+Evolve one Oshawott
+Evolve one Palpitoad
+Evolve one Pancham
+Evolve one Panpour
+Evolve one Pansage
+Evolve one Pansear
+Evolve one Paras
+Evolve one Patrat
+Evolve one Pawniard
+Evolve one Petilil
+Evolve one Phanpy
+Evolve one Phantump
+Evolve one Pichu
+Evolve one Pidgeotto
+Evolve one Pidgey
+Evolve one Pidove
+Evolve one Pignite
+Evolve one Pikachu
+Evolve one Piloswine
+Evolve one Pineco
+Evolve one Piplup
 Evolve {0} Pokémon
 Evolve a Poison-type Pokémon
+Evolve one Poliwag
+Evolve one Poliwhirl
+Evolve one Ponyta
+Evolve one Poochyena
+Evolve one Porygon2
+Evolve one Prinplup
+Evolve one Psyduck
+Evolve one Pumpkaboo
+Evolve one Pupitar
+Evolve one Purrloin
+Evolve one Quilava
+Evolve one Quilladin
+Evolve one Qwilfish
+Evolve one Ralts
+Evolve one Rattata
+Evolve one Remoraid
+Evolve one Rhydon
+Evolve one Rhyhorn
+Evolve one Riolu
+Evolve one Roggenrola
+Evolve one Roselia
+Evolve one Rufflet
+Evolve one Sandile
+Evolve one Sandshrew
 Evolve a Snubbull
+Evolve one Scatterbug
+Evolve one Scraggy
+Evolve one Scyther
+Evolve one Seadra
+Evolve one Sealeo
+Evolve one Seedot
+Evolve one Seel
+Evolve one Sentret
+Evolve one Servine
+Evolve one Sewaddle
+Evolve one Shelgon
+Evolve one Shellder
+Evolve one Shellos
+Evolve one Shelmet
+Evolve one Shieldon
+Evolve one Shinx
+Evolve one Shroomish
+Evolve one Shuckle
+Evolve one Shuppet
+Evolve one Silcoon
 Evolve a Pokémon
-Evolve one Sneasel
+Evolve one Skiddo
+Evolve one Skiploom
+Evolve one Skitty
+Evolve one Skorupi
+Evolve one Skrelp
+Evolve one Slakoth
+Evolve one Sliggoo
+Evolve one Slowpoke
+Evolve one Slugma
+Evolve one Smoochum
+Evolve a Sneasel
+Evolve one Snivy
+Evolve one Snorunt
+Evolve one Snover
+Evolve one Snubbull
+Evolve one Solosis
+Evolve one Spearow
 Evolve a Magikarp
 Evolve {0} Pidgey
 Evolve a Horsea
@@ -7936,7 +10005,42 @@ Evolve a Galarian Mr. Mime
 Evolve a Grimer
 Evolve a Magnemite
 Evolve a Scyther
+Evolve one Spewpa
+Evolve one Spheal
+Evolve one Spinarak
+Evolve one Spoink
+Evolve one Spritzee
+Evolve one Squirtle
+Evolve one Staravia
+Evolve one Starly
+Evolve one Staryu
+Evolve one Steelix
+Evolve one Stunky
+Evolve one Sunkern
 Use a Sun Stone to evolve Gloom or Sunkern
+Evolve one Surskit
+Evolve one Swablu
+Evolve one Swadloon
+Evolve one Swinub
+Evolve one Swirlix
+Evolve one Taillow
+Evolve one Tangela
+Evolve one Teddiursa
+Evolve one Tentacool
+Evolve one Tepig
+Evolve one Timburr
+Evolve one Tirtouga
+Evolve one Togepi
+Evolve one Togetic
+Evolve one Torchic
+Evolve one Totodile
+Evolve one Tranquill
+Evolve one Trapinch
+Evolve one Treecko
+Evolve one Trubbish
+Evolve one Turtwig
+Evolve one Tympole
+Evolve one Tynamo
 Evolve {0} Electric-type Pokémon
 Evolve an Electric-type Pokémon
 Evolve {0} Fairy-type Pokémon
@@ -7953,7 +10057,36 @@ Evolve {0} Rock-type Pokémon
 Evolve {0} Steel-type Pokémon
 Evolve {0} Water-type Pokémon
 Evolve a Water-type Pokémon
+Evolve one Tyrogue
+Evolve one Tyrunt
 Evolve Eevee into Umbreon at night
+Evolve one Vanillish
+Evolve one Vanillite
+Evolve one Venipede
+Evolve one Venonat
+Evolve one Vibrava
+Evolve one Vigoroth
+Evolve one Volbeat
+Evolve one Voltorb
+Evolve one Vullaby
+Evolve one Vulpix
+Evolve one Wailmer
+Evolve one Wartortle
+Evolve one Weedle
+Evolve one Weepinbell
+Evolve one Whirlipede
+Evolve one Whismur
+Evolve one Wingull
+Evolve one Woobat
+Evolve one Wooper
+Evolve one Wurmple
+Evolve one Wynaut
+Evolve one Yamask
+Evolve one Yanma
+Evolve one Zigzagoon
+Evolve one Zorua
+Evolve one Zubat
+Evolve one Zweilous
 Clamperl Research: Battle in a Gym
 Clamperl Research: Battle in a raid
 Clamperl Research: Use a supereffective Charged Attack in a Gym battle
@@ -7976,6 +10109,9 @@ Complete {0} Field Research tasks
 Complete a Field Research task
 First Catch of the Day
 First PokéStop of the Day
+Catch {0} Fletchling
+Evolve {0} Fletchling
+Evolve {0} Fletchinder
 Achieve rank {0} in the GO Battle League
 Achieve rank 15 in the GO Battle League
 Achieve rank 5 in the GO Battle League
@@ -7992,6 +10128,10 @@ GO Fest: Battle another Trainer
 Earn {0} gold medals
 Earn 5 gold medals
 Earn a gold medal
+Pokémon GO Tour: Kanto - Bonus Event
+Pokémon GO Tour: Kanto - Bonus Event (1/3)
+Pokémon GO Tour: Kanto - Bonus Event (2/3)
+Pokémon GO Tour: Kanto - Bonus Event (3/3)
 Catch {0} Gastly
 Evolve {0} Gastly
 Evolve {0} Haunter
@@ -8018,6 +10158,18 @@ Johto Festival: Evolve {0} Sunkern or Natu
 Johto Festival: Make {0} Excellent Throws
 Johto Festival: Make {0} Great Curveball Throws in a row
 Johto Festival: Win a raid
+GO Tour: Catch Bellsprout
+GO Tour: Catch Meowth
+GO Tour: Catch Sandshrew
+GO Tour: Catch Vulpix
+GO Tour Kanto: Hatch {0} Eggs
+GO Tour Kanto: Hatch an Egg
+GO Tour Kanto: Defeat {0} GO Tour Challengers
+GO Tour Kanto: Defeat a GO Tour Challenger
+GO Tour: Catch Ekans
+GO Tour: Catch Growlithe
+GO Tour: Catch Mankey
+GO Tour: Catch Oddish
 Make {0} Curveball Throws on Ghost-type Pokémon
 Make {0} Curveball Throws
 Make {0} Excellent Curveball Throws
@@ -8069,6 +10221,7 @@ Win a Mega Raid
 More research requests will be coming soon!
 Make {0} new friends
 Make a new friend
+Earn the platinum Kanto medal
 Earn {0} platinum medals
 Earn 5 platinum medals
 Earn 40 platinum medals
@@ -8138,10 +10291,15 @@ Catch {0} Roselia
 Evolve {0} Roselia
 Send {0} Gifts to friends
 Send a Gift to a friend
+Take a snapshot of Bulbasaur
+Take a snapshot of Charmander
 Take {0} snapshots of Genesect
+Take a snapshot of Landorus
 Take a snapshot of Regice
 Take a snapshot of Regirock
 Take a snapshot of Registeel
+Take a snapshot of Thundurus
+Take a snapshot of Tornadus
 Take a snapshot of a Pokémon {0} days in a row
 Take {0} snapshots
 Good to see you again, %PLAYERNAME%. Have you noticed an increased number of Abra in the area?
@@ -8275,6 +10433,33 @@ When in battle, Electivire pushes the tips of its two tails against its foe, the
 Be careful with this Pokémon when battling with it—that’s a lot of power you’re dealing with!
 With the lights back on in the mobile lab, I’m going to head back and wrap up some other projects.
 Thank you again for all your help, and until next time, let’s GO!
+Hey there, %PLAYERNAME%. How’s your day?
+Personally, mine is going swimmingly. Or perhaps…flappingly? You see, an enormous flock of Fletchling has gathered nearby.
+I heard some Pokémon chirping up a storm, so I went to investigate and found Fletchling as far as the eye can see!
+Fletchling is known as the Tiny Robin Pokémon, and it’s typically quite amiable and easy to train. Send it into battle, though, and you’ll quickly see its more ferocious side!
+A fascinating little Pokémon. But as glad as I am to see it here, it’s quite odd for so many to gather in one place.
+Would you mind conducting some research so we can better understand what’s going on?
+Great work, Trainer. Looks like you’ve got your very own Fletchling to join you on your journey!
+Did you know that Fletchling’s body is always warm? In fact, Trainers who live in cold areas apparently sleep with this Pokémon in their beds. How about that?
+I’m always fascinated to learn about how Pokémon and their Trainers work and live together. And it never hurts to know how to cope on cold nights, eh?
+Anyway, Fletchling evolves into the Fire- and Flying-type Pokémon Fletchinder.
+Known as the Ember Pokémon, Fletchinder is exceedingly territorial and aggressive.
+It’s also incredibly fast. Its speed from takeoff puts it easily among the fastest of all bird Pokémon.
+When you’re ready, why don’t you try evolving your Fletchling into Fletchinder? I’d love to witness that famous speed firsthand!
+That’s a mighty fine Fletchinder you have there, %PLAYERNAME%. Congratulations!
+Naturally, I’ve been busy as well. In fact, I have some information you may find useful as you train Fletchinder.
+You see, Fletchinder is known to expel embers from its beak to set grass on fire. Then, it pounces on the bewildered prey that flee the flames.
+Pretty intense, huh? Best not to wing it during training, if you catch my draft—er, drift.
+Try not to let any fires Fletchinder starts get out of hand, too. We’re all responsible for caring for our environment, after all!
+With that said, there are still a few more tasks I’d like you to complete in aid of our research.
+Chief among those is to obtain a Talonflame, the evolution of Fletchinder. They’re said to have simply magnificent wings! Do you think you could evolve your Fletchinder, Trainer?
+Welcome back, %PLAYERNAME%—and hello, Talonflame!
+I know I’ve put you through your paces today, but it’s all paid off in the end! You’re now the proud Trainer of Talonflame, the Scorching Pokémon.
+Talonflame is known to shower embers from the gaps between its feathers during the heat of battle. It then takes to the air, reaching speeds of up to 310 mph.
+Remember how I mentioned Talonflame’s wings before? Fire can’t pass through them, so they were used to outfit firefighters way back when.
+Amazing stuff! I’m always impressed by this brave bird. The two of you will no doubt accomplish great things—and at great speeds!
+Thanks for your help today, Trainer. I hope you had as much fun as I did!
+Now, let’s GO!
 %PLAYERNAME%! It’s so great to see you! The strangest things have been happening lately.
 You see, I begin each day with a Pinap Berry and coffee for breakfast, then head outside my lab to take in the crisp morning air before starting my research.
 A couple days ago, however, I stepped outside and slipped on a sheet of ice right outside the entrance of my lab! Coffee—spilled. Pinap Berry—squished. Day—ruined.
@@ -8973,11 +11158,34 @@ First Arlo with Shadow Pokémon, and now Sierra with these Strange Eggs... I won
 This doesn’t sit well with me, %PLAYERNAME%. Let’s track down those leaders again! We have to do all we can to disrupt their plans!
 Incredible work, %PLAYERNAME%! Hopefully that’ll keep them at bay for a little while.
 I managed to craft another Super Rocket Radar for you that’ll help you track down Giovanni. But be careful—according to a field report from Blanche and Candela, he’s got Shadow Mewtwo with him!
+I managed to build another Super Rocket Radar to help you track down Giovanni. But be careful—Blanche and Candela’s reports revealed that Giovanni has got a Legendary Shadow Pokémon with him!
 You might have encountered Shadow Mewtwo the last time Giovanni appeared. We’d thought that was the last we’d see of it, but it looks like it’s back!
+You need to save it, Trainer! I have no doubt Giovanni plans on using this poor Pokémon to nefarious ends.
 You need to save Shadow Mewtwo, Trainer! I have a feeling Giovanni plans on using this poor Pokémon for nefarious ends.
 Celebrations are in order, %PLAYERNAME%. You’ve done it again—you’ve defeated Team GO Rocket’s Grunts, its leaders, and even Giovanni!
 Not to mention all the Shadow Pokémon you saved along the way, including Shadow Mewtwo!
+Not only did you stop Team GO Rocket, but you also saved several Pokémon along the way!
 This is probably not the last that we’ll see of Giovanni or Team GO Rocket, but that also means there’ll likely be more Strange Eggs to collect and Shadow Pokémon to save! Let’s get cracking, Trainer!
+Good to see you, %PLAYERNAME%. I’m sorry to call you here so suddenly, but I’m afraid there’s trouble afoot.
+That’s right—Team GO Rocket is up to no good! We’re not sure what their plan is just yet, but we know we have to stop them.
+Now, let’s GO!
+Welcome back, %PLAYERNAME%. You did a tremendous job defeating those Team GO Rocket Grunts and saving those poor Shadow Pokémon!
+While you were busy battling, I received reports that Team GO Rocket has obtained a Flying-type Legendary Pokémon.
+Blanche is doing recon as we speak in hopes of figuring out exactly which Legendary Pokémon we’re dealing with. I have no doubt we’ll have more information soon.
+While we wait, why don’t you conduct some research on Flying-type Pokémon?
+Thanks for catching all those Flying-type Pokémon, %PLAYERNAME%!
+Blanche and I have been analyzing them to help us learn more about the Legendary Pokémon that Team GO Rocket captured.
+Unfortunately, our current hypothesis points to this Pokémon being one that’s near and dear to the team leaders’ hearts.
+While we gather more information, could you head back out into the field? We can’t let Team GO Rocket continue its plan unopposed!
+Welcome back, Trainer. I see you’ve got yourself a Pidgeot and some Pidgeot Mega Energy!
+As impressive as this Pokémon is, though, it doesn’t seem to be the Flying-type Pokémon we've heard about in our reports.
+Blanche’s latest intel points to Giovanni being the one holding on to this mysterious Flying-type Legendary Pokémon, so we need to track him down.
+We believe our best bet at doing so is by first finding the Team GO Rocket Leaders—and that’s where you come in, Trainer. Let’s GO!
+Great work, %PLAYERNAME%! You’ve been a huge help in our efforts to track down Giovanni. I’m happy to report that the team leaders and I have made significant headway in our investigation.
+I’ve managed to finish building another Super Rocket Radar for you. You can use it to find and defeat Giovanni—and save that Legendary Pokémon!
+Fantastic work as always, %PLAYERNAME%!
+The fight against Team GO Rocket and their malicious machinations continues, but at least for today we can rest knowing that we’ve foiled their latest scheme.
+So, until next time—let’s GO!
 Ahhh... Do you smell that, Trainer?
 I first caught a whiff of that curious aroma as I was out on my daily morning walk.
 Upon investigation, I discovered that the scent was being produced by an uncommonly large group of Roselia that had assembled nearby.
@@ -9007,6 +11215,39 @@ Each contains a different toxin. The poison in its right hand is quick acting, w
 What an amazing Pokémon!
 Thanks for all your assistance today, Trainer. Documenting situations like this is essential to learning more about the Pokémon in the world around us.
 Until next time, let’s GO!
+Hey there, %PLAYERNAME%! It’s good to see you.
+As you know, I’ve recently been conducting research on several different regions in the world of Pokémon. Along the way, I came across some books that collected stories and legends from various regions.
+One of these tomes told of three Legendary Pokémon from the Unova region—a trio that seem to be capable of changing formes.
+Needless to say, that piqued my interest, and I became so enveloped in my research that I even began seeing those three Legendary Pokémon in my dreams!
+Which brings me to why I called you here. Can you help me with some research, Trainer? I was thinking we could start by catching some Rock-type Pokémon—you know, just to give ourselves a sturdy foundation to build from.
+...Get it? Sturdy? Because they’re...Rock-type? A-anyway, I’d appreciate the help. Let’s GO!
+Welcome back, Trainer. Now that we’ve established a foundation for our research, we need to narrow our focus.
+There are three stories I want to investigate, so I think the best approach is to focus on one story at a time and see what we can learn.
+My hope is to discover as much as we can about these Pokémon, so that when we see clues or signs of their appearance, we’re as prepared as possible!
+This first story tells of a Legendary Pokémon called Landorus. The story says that lands visited by Landorus yield such bountiful crops that it’s been hailed as “The Guardian of the Fields.”
+Landorus seems to have two formes: Incarnate Forme, and the very rarely seen Therian Forme. I haven’t been able to find any imagery depicting the latter, but every source I’ve read agrees on its existence!
+For now, why don’t we research Ground-type Pokémon? Maybe in doing so we can better equip ourselves to identify Landorus’s Therian Forme when the time comes.
+Thank you, %PLAYERNAME%. I think we’ve gained a better understanding of Landorus after studying Ground-type Pokémon.
+And is that a Drilbur you’ve got there? I dig it! ...Haha! Sorry, sorry.
+Anyway, since we’ve explored all our leads on Landorus for the moment, what do you say we move on to another Pokémon from my dream?
+Let’s focus on Tornadus next. The texts say Tornadus expels massive energy from its tail, causing severe storms, and that its power is great enough to blow houses away.
+Like Landorus, Tornadus also has both Incarnate and Therian formes. Hmm… Maybe researching Flying-type Pokémon in the area is our best bet for now? Let’s give it a shot, Trainer!
+Excellent work, Trainer! Thanks for documenting that information about Tornadus. It seems you even found yourself a darling Ducklett along the way! Is it all it’s quacked up to be? Haha!
+I think we’ve learned everything we can about Tornadus for now. Its Therian Forme is still a mystery, but hopefully not for long!
+Before we start investigating the final Legendary Pokémon from my dream, I need to share something...strange.
+You see, I’d been running myself a bit ragged with research, so I stopped for an afternoon nap. In the resulting dream, I saw those three Unovan Legendary Pokémon again, clear as crystal. But then, the whole dream just started...fading.
+It was almost like something was eating the dream itself. I’m still not sure what to make of it all, but let's stay on the lookout for anything suspicious. I have a hunch this may be the work of a Pokémon nearby.
+For now, though, let’s continue our research and turn our attention to the last of the three Unovan Legendary Pokémon detailed in those stories—Thundurus.
+Thundurus is known as the Bolt Strike Pokémon, and its story also references both Incarnate and Therian formes. The spikes on its tail are said to discharge immense bolts of lightning.
+For the sake of consistency, let’s go ahead and research Electric-type Pokémon in the area as we compile our notes on Thundurus.
+Ah, there you are, %PLAYERNAME%. I have something big to share!
+But first, I want to thank you for all your hard work collecting information on Landorus, Tornadus, and Thundurus.
+I feel confident that when the time comes, you’ll be prepared to encounter any of these amazing Legendary Pokémon—regardless of which forme they appear in.
+Now—do you remember that strange experience I had where my dream began fading inexplicably? I think I may have finally uncovered the cause.
+While consulting the Pokédex for possible culprits, I came across an entry for a Pokémon called Munna. It’s known as the Dream Eater Pokémon—so you can see why it caught my eye!
+Munna is said to eat the dreams of both people and Pokémon, expelling mist as a result. The mist is pink if the dream is pleasant, and black if it’s a nightmare.
+I was pretty pleased to be dreaming of those Unovan Legendary Pokémon again, so I suspect Munna’s mist was nice and rosy that day! 
+Munna seems like a fascinating Pokémon, and I can’t wait to research it more. I hope you’ll give me a hand when the time comes, Trainer! Now, let’s GO!
 Oh, %PLAYERNAME%! You’ve dropped by just in time.
 As I was out on my regular walk one evening, I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening.
 Papers shifting around, water glasses tipping all by themselves...
@@ -9146,6 +11387,11 @@ Electric for Electabuzz (1/4)
 Electric for Electabuzz (2/4)
 Electric for Electabuzz (3/4)
 Electric for Electabuzz (4/4)
+The Bravest Bird
+The Bravest Bird (1/4)
+The Bravest Bird (2/4)
+The Bravest Bird (3/4)
+The Bravest Bird (4/4)
 Tap... Tap... Tappity-Tap...
 Tap... Tap... Tappity-Tap... (1/5)
 Tap... Tap... Tappity-Tap... (2/5)
@@ -9341,11 +11587,24 @@ An Inter-egg-sting Development (3/6)
 An Inter-egg-sting Development (4/6)
 An Inter-egg-sting Development (5/6)
 An Inter-egg-sting Development (6/6)
+The Higher They Fly...
+The Higher They Fly... (1/6)
+The Higher They Fly... (2/6)
+The Higher They Fly... (3/6)
+The Higher They Fly... (4/6)
+The Higher They Fly... (5/6)
+The Higher They Fly... (6/6)
 Stop and Smell the Roselia
 Stop and Smell the Roselia (1/4)
 Stop and Smell the Roselia (2/4)
 Stop and Smell the Roselia (3/4)
 Stop and Smell the Roselia (4/4)
+Season of Legends
+Season of Legends (1/5)
+Season of Legends (2/5)
+Season of Legends (3/5)
+Season of Legends (4/5)
+Season of Legends (5/5)
 A Spooky Message 2018
 A Spooky Message 2018 (1/3)
 A Spooky Message 2019 (1/3)
@@ -9440,17 +11699,37 @@ Trade Pokémon {0} times
 Trade a Pokémon
 Transfer {0} Pokémon
 Transfer a Pokémon
+Transfer {0} Bug-type Pokémon
+Transfer {0} Dark-type Pokémon
+Transfer {0} Dragon-type Pokémon
+Transfer {0} Electric-type Pokémon
+Transfer {0} Fairy-type Pokémon
+Transfer {0} Fighting-type Pokémon
+Transfer {0} Fire-type Pokémon
+Transfer {0} Flying-type Pokémon
 Transfer {0} Ghost-type Pokémon
+Transfer {0} Grass-type Pokémon
+Transfer {0} Ground-type Pokémon
+Transfer {0} Ice-type Pokémon
+Transfer {0} Normal-type Pokémon
+Transfer {0} Poison-type Pokémon
+Transfer {0} Psychic-type Pokémon
+Transfer {0} Rock-type Pokémon
+Transfer {0} Steel-type Pokémon
+Transfer {0} Water-type Pokémon
 Valentine’s Day: Catch {0} Luvdisc
 Valentine’s Day: Catch a Chansey
+Spin {0} different PokéStops
 Spin {0} PokéStops you haven't visited before
 Spin a PokéStop you haven't visited before
 Spin {0} PokéStops or Gyms
 Spin a PokéStop or Gym
+Spin {0} different PokéStops or Gyms
 Walk 25 km in one week using Adventure Sync {0} times
 Earn {0} Candies walking with your buddy
 Earn a Candy walking with your buddy
 Walk 10 km with Eevee as your buddy to earn Candy
+Walk {0} km
 Water Festival: Use {0} Berries to help catch Pokémon
 Water Festival: Catch {0} Magikarp or Wailmer
 Water Festival: Catch {0} Water-type Pokémon
@@ -9499,7 +11778,7 @@ Visit PokéStops to find more Field Research!
 Field
 Special
 Research Progress
-Completed Research: {0}.
+Completed Research: {0}
 Research Breakthrough achieved.
 mobile
 New Field Research!
@@ -9545,9 +11824,729 @@ CHANGE TO PUBLIC
 Create Group
 Damage
 Raid Day
+Raid Day: Abomasnow
+Raid Day: Abra
+Raid Day: Absol
+Raid Day: Accelgor
+Raid Day: Aegislash
+Raid Day: Aerodactyl
+Raid Day: Aggron
+Raid Day: Aipom
+Raid Day: Alakazam
 Alolan Marowak Raid Day
+Raid Day: Alomomola
+Raid Day: Altaria
+Raid Day: Amaura
+Raid Day: Ambipom
+Raid Day: Amoonguss
+Raid Day: Ampharos
+Raid Day: Anorith
+Raid Day: Arbok
+Raid Day: Arcanine
+Raid Day: Arceus
+Raid Day: Archen
+Raid Day: Archeops
+Raid Day: Ariados
+Raid Day: Armaldo
+Raid Day: Aromatisse
+Raid Day: Aron
+Raid Day: Articuno
+Raid Day: Audino
+Raid Day: Aurorus
+Raid Day: Avalugg
+Raid Day: Axew
+Raid Day: Azelf
+Raid Day: Azumarill
+Raid Day: Azurill
+Raid Day: Bagon
+Raid Day: Baltoy
+Raid Day: Banette
+Raid Day: Barbaracle
+Raid Day: Barboach
+Raid Day: Basculin
+Raid Day: Bastiodon
+Raid Day: Bayleef
+Raid Day: Beartic
+Raid Day: Beautifly
+Raid Day: Beedrill
+Raid Day: Beheeyem
+Raid Day: Beldum
+Raid Day: Bellossom
+Raid Day: Bellsprout
+Raid Day: Bergmite
+Raid Day: Bibarel
+Raid Day: Bidoof
+Raid Day: Binacle
+Raid Day: Bisharp
+Raid Day: Blastoise
+Raid Day: Blaziken
+Raid Day: Blissey
+Raid Day: Blitzle
+Raid Day: Boldore
+Raid Day: Bonsly
+Raid Day: Bouffalant
+Raid Day: Braixen
+Raid Day: Braviary
+Raid Day: Breloom
+Raid Day: Bronzong
+Raid Day: Bronzor
+Raid Day: Budew
+Raid Day: Buizel
+Raid Day: Bulbasaur
+Raid Day: Buneary
+Raid Day: Bunnelby
+Raid Day: Burmy
+Raid Day: Butterfree
+Raid Day: Cacnea
+Raid Day: Cacturne
+Raid Day: Camerupt
+Raid Day: Carbink
+Raid Day: Carnivine
+Raid Day: Carracosta
+Raid Day: Carvanha
+Raid Day: Cascoon
+Raid Day: Castform
+Raid Day: Caterpie
+Raid Day: Celebi
+Raid Day: Chandelure
+Raid Day: Chansey
+Raid Day: Charizard
+Raid Day: Charmander
+Raid Day: Charmeleon
+Raid Day: Chatot
+Raid Day: Cherrim
+Raid Day: Cherubi
+Raid Day: Chesnaught
+Raid Day: Chespin
+Raid Day: Chikorita
+Raid Day: Chimchar
+Raid Day: Chimecho
+Raid Day: Chinchou
+Raid Day: Chingling
+Raid Day: Cinccino
+Raid Day: Clamperl
+Raid Day: Clauncher
+Raid Day: Clawitzer
+Raid Day: Claydol
+Raid Day: Clefable
+Raid Day: Clefairy
+Raid Day: Cleffa
+Raid Day: Cloyster
+Raid Day: Cobalion
+Raid Day: Cofagrigus
+Raid Day: Combee
+Raid Day: Combusken
+Raid Day: Conkeldurr
+Raid Day: Corphish
+Raid Day: Corsola
+Raid Day: Cottonee
+Raid Day: Cradily
+Raid Day: Cranidos
+Raid Day: Crawdaunt
+Raid Day: Cresselia
+Raid Day: Croagunk
+Raid Day: Crobat
+Raid Day: Croconaw
+Raid Day: Crustle
+Raid Day: Cryogonal
+Raid Day: Cubchoo
+Raid Day: Cubone
+Raid Day: Cyndaquil
+Raid Day: Darkrai
+Raid Day: Darmanitan
+Raid Day: Darumaka
+Raid Day: Dedenne
+Raid Day: Deerling
+Raid Day: Deino
+Raid Day: Delcatty
+Raid Day: Delibird
+Raid Day: Delphox
+Raid Day: Deoxys
+Raid Day: Dewgong
+Raid Day: Dewott
+Raid Day: Dialga
+Raid Day: Diancie
+Raid Day: Diggersby
+Raid Day: Diglett
+Raid Day: Ditto
+Raid Day: Dodrio
+Raid Day: Doduo
+Raid Day: Donphan
+Raid Day: Doublade
+Raid Day: Dragalge
+Raid Day: Dragonair
+Raid Day: Dragonite
+Raid Day: Drapion
+Raid Day: Dratini
+Raid Day: Drifblim
+Raid Day: Drifloon
+Raid Day: Drilbur
+Raid Day: Drowzee
+Raid Day: Druddigon
+Raid Day: Ducklett
+Raid Day: Dugtrio
+Raid Day: Dunsparce
+Raid Day: Duosion
+Raid Day: Durant
+Raid Day: Dusclops
+Raid Day: Dusknoir
+Raid Day: Duskull
+Raid Day: Dustox
+Raid Day: Dwebble
+Raid Day: Eelektrik
+Raid Day: Eelektross
+Raid Day: Eevee
+Raid Day: Ekans
+Raid Day: Electabuzz
+Raid Day: Electivire
+Raid Day: Electrike
+Raid Day: Electrode
+Raid Day: Elekid
+Raid Day: Elgyem
+Raid Day: Emboar
+Raid Day: Emolga
+Raid Day: Empoleon
+Raid Day: Entei
+Raid Day: Escavalier
+Raid Day: Espeon
+Raid Day: Espurr
+Raid Day: Excadrill
+Raid Day: Exeggcute
+Raid Day: Exeggutor
+Raid Day: Exploud
+Raid Day: Farfetch'd
+Raid Day: Fearow
+Raid Day: Feebas
+Raid Day: Fennekin
+Raid Day: Feraligatr
+Raid Day: Ferroseed
+Raid Day: Ferrothorn
+Raid Day: Finneon
+Raid Day: Flaaffy
+Raid Day: Flabébé
+Raid Day: Flareon
+Raid Day: Fletchinder
+Raid Day: Fletchling
+Raid Day: Floatzel
+Raid Day: Floette
+Raid Day: Florges
+Raid Day: Flygon
+Raid Day: Foongus
+Raid Day: Forretress
+Raid Day: Fraxure
+Raid Day: Frillish
+Raid Day: Froakie
+Raid Day: Frogadier
+Raid Day: Froslass
+Raid Day: Furfrou
+Raid Day: Furret
+Raid Day: Gabite
+Raid Day: Gallade
+Raid Day: Galvantula
+Raid Day: Garbodor
+Raid Day: Garchomp
+Raid Day: Gardevoir
+Raid Day: Gastly
+Raid Day: Gastrodon
+Raid Day: Genesect
+Raid Day: Gengar
+Raid Day: Geodude
+Raid Day: Gible
+Raid Day: Gigalith
+Raid Day: Girafarig
+Raid Day: Giratina
+Raid Day: Glaceon
+Raid Day: Glalie
+Raid Day: Glameow
+Raid Day: Gligar
+Raid Day: Gliscor
+Raid Day: Gloom
+Raid Day: Gogoat
+Raid Day: Golbat
+Raid Day: Goldeen
+Raid Day: Golduck
+Raid Day: Golem
+Raid Day: Golett
+Raid Day: Golurk
+Raid Day: Goodra
+Raid Day: Goomy
+Raid Day: Gorebyss
+Raid Day: Gothita
+Raid Day: Gothitelle
+Raid Day: Gothorita
+Raid Day: Gourgeist
+Raid Day: Granbull
+Raid Day: Graveler
+Raid Day: Greninja
+Raid Day: Grimer
+Raid Day: Grotle
+Raid Day: Groudon
+Raid Day: Grovyle
+Raid Day: Growlithe
+Raid Day: Grumpig
+Raid Day: Gulpin
+Raid Day: Gurdurr
+Raid Day: Gyarados
+Raid Day: Happiny
+Raid Day: Hariyama
+Raid Day: Haunter
+Raid Day: Hawlucha
+Raid Day: Haxorus
+Raid Day: Heatmor
+Raid Day: Heatran
+Raid Day: Heliolisk
+Raid Day: Helioptile
+Raid Day: Heracross
+Raid Day: Herdier
+Raid Day: Hippopotas
+Raid Day: Hippowdon
+Raid Day: Hitmonchan
+Raid Day: Hitmonlee
+Raid Day: Hitmontop
+Raid Day: Ho-Oh
+Raid Day: Honchkrow
+Raid Day: Honedge
+Raid Day: Hoopa
+Raid Day: Hoothoot
+Raid Day: Hoppip
+Raid Day: Horsea
+Raid Day: Houndoom
+Raid Day: Houndour
+Raid Day: Huntail
+Raid Day: Hydreigon
+Raid Day: Hypno
+Raid Day: Igglybuff
+Raid Day: Illumise
+Raid Day: Infernape
+Raid Day: Inkay
+Raid Day: Ivysaur
+Raid Day: Jellicent
+Raid Day: Jigglypuff
+Raid Day: Jirachi
+Raid Day: Jolteon
+Raid Day: Joltik
+Raid Day: Jumpluff
+Raid Day: Jynx
+Raid Day: Kabuto
+Raid Day: Kabutops
+Raid Day: Kadabra
+Raid Day: Kakuna
+Raid Day: Kangaskhan
+Raid Day: Karrablast
+Raid Day: Kecleon
+Raid Day: Keldeo
+Raid Day: Kingdra
+Raid Day: Kingler
+Raid Day: Kirlia
+Raid Day: Klang
+Raid Day: Klefki
+Raid Day: Klink
+Raid Day: Klinklang
+Raid Day: Koffing
+Raid Day: Krabby
+Raid Day: Kricketot
+Raid Day: Kricketune
+Raid Day: Krokorok
+Raid Day: Krookodile
+Raid Day: Kyogre
+Raid Day: Kyurem
+Raid Day: Lairon
+Raid Day: Lampent
+Raid Day: Landorus
+Raid Day: Lanturn
+Raid Day: Lapras
+Raid Day: Larvesta
+Raid Day: Larvitar
+Raid Day: Latias
+Raid Day: Latios
+Raid Day: Leafeon
+Raid Day: Leavanny
+Raid Day: Ledian
+Raid Day: Ledyba
+Raid Day: Lickilicky
+Raid Day: Lickitung
+Raid Day: Liepard
+Raid Day: Lileep
+Raid Day: Lilligant
+Raid Day: Lillipup
+Raid Day: Linoone
+Raid Day: Litleo
+Raid Day: Litwick
+Raid Day: Lombre
+Raid Day: Lopunny
+Raid Day: Lotad
+Raid Day: Loudred
+Raid Day: Lucario
+Raid Day: Ludicolo
+Raid Day: Lugia
+Raid Day: Lumineon
+Raid Day: Lunatone
+Raid Day: Luvdisc
+Raid Day: Luxio
+Raid Day: Luxray
+Raid Day: Machamp
+Raid Day: Machoke
+Raid Day: Machop
+Raid Day: Magby
+Raid Day: Magcargo
+Raid Day: Magikarp
+Raid Day: Magmar
+Raid Day: Magmortar
+Raid Day: Magnemite
+Raid Day: Magneton
+Raid Day: Magnezone
+Raid Day: Makuhita
+Raid Day: Malamar
+Raid Day: Mamoswine
+Raid Day: Manaphy
+Raid Day: Mandibuzz
+Raid Day: Manectric
+Raid Day: Mankey
+Raid Day: Mantine
+Raid Day: Mantyke
+Raid Day: Maractus
+Raid Day: Mareep
+Raid Day: Marill
+Raid Day: Marowak
+Raid Day: Marshtomp
+Raid Day: Masquerain
+Raid Day: Mawile
+Raid Day: Medicham
+Raid Day: Meditite
+Raid Day: Meganium
+Raid Day: Meloetta
+Raid Day: Meowstic
+Raid Day: Meowth
+Raid Day: Mesprit
+Raid Day: Metagross
+Raid Day: Metang
+Raid Day: Metapod
+Raid Day: Mew
+Raid Day: Mewtwo
+Raid Day: Mienfoo
+Raid Day: Mienshao
+Raid Day: Mightyena
+Raid Day: Milotic
+Raid Day: Miltank
+Raid Day: Mime Jr.
+Raid Day: Minccino
+Raid Day: Minun
+Raid Day: Misdreavus
+Raid Day: Mismagius
+Raid Day: Moltres
+Raid Day: Monferno
+Raid Day: Mothim
+Raid Day: Mr. Mime
+Raid Day: Mudkip
+Raid Day: Muk
+Raid Day: Munchlax
+Raid Day: Munna
+Raid Day: Murkrow
+Raid Day: Musharna
+Raid Day: Natu
+Raid Day: Nidoking
+Raid Day: Nidoqueen
+Raid Day: Nidoran♀
+Raid Day: Nidoran♂
+Raid Day: Nidorina
+Raid Day: Nidorino
+Raid Day: Nincada
+Raid Day: Ninetales
+Raid Day: Ninjask
+Raid Day: Noctowl
+Raid Day: Noibat
+Raid Day: Noivern
+Raid Day: Nosepass
+Raid Day: Numel
+Raid Day: Nuzleaf
+Raid Day: Octillery
+Raid Day: Oddish
+Raid Day: Omanyte
+Raid Day: Omastar
+Raid Day: Onix
+Raid Day: Oshawott
+Raid Day: Pachirisu
+Raid Day: Palkia
+Raid Day: Palpitoad
+Raid Day: Pancham
+Raid Day: Pangoro
+Raid Day: Panpour
+Raid Day: Pansage
+Raid Day: Pansear
+Raid Day: Paras
+Raid Day: Parasect
+Raid Day: Patrat
+Raid Day: Pawniard
+Raid Day: Pelipper
+Raid Day: Persian
+Raid Day: Petilil
+Raid Day: Phanpy
+Raid Day: Phantump
+Raid Day: Phione
+Raid Day: Pichu
+Raid Day: Pidgeot
+Raid Day: Pidgeotto
+Raid Day: Pidgey
+Raid Day: Pidove
+Raid Day: Pignite
+Raid Day: Pikachu
+Raid Day: Piloswine
+Raid Day: Pineco
 Raid Day: Pinsir
+Raid Day: Piplup
+Raid Day: Plusle
 Featured Pokémon appearing in all raids
+Raid Day: Politoed
+Raid Day: Poliwag
+Raid Day: Poliwhirl
+Raid Day: Poliwrath
+Raid Day: Ponyta
+Raid Day: Poochyena
+Raid Day: Porygon
+Raid Day: Porygon-Z
+Raid Day: Porygon2
+Raid Day: Primeape
+Raid Day: Prinplup
+Raid Day: Probopass
+Raid Day: Psyduck
+Raid Day: Pumpkaboo
+Raid Day: Pupitar
+Raid Day: Purrloin
+Raid Day: Purugly
+Raid Day: Pyroar
+Raid Day: Quagsire
+Raid Day: Quilava
+Raid Day: Quilladin
+Raid Day: Qwilfish
+Raid Day: Raichu
+Raid Day: Raikou
+Raid Day: Ralts
+Raid Day: Rampardos
+Raid Day: Rapidash
+Raid Day: Raticate
+Raid Day: Rattata
+Raid Day: Rayquaza
+Raid Day: Regice
+Raid Day: Regigigas
+Raid Day: Regirock
+Raid Day: Registeel
+Raid Day: Relicanth
+Raid Day: Remoraid
+Raid Day: Reshiram
+Raid Day: Reuniclus
+Raid Day: Rhydon
+Raid Day: Rhyhorn
+Raid Day: Rhyperior
+Raid Day: Riolu
+Raid Day: Roggenrola
+Raid Day: Roselia
+Raid Day: Roserade
+Raid Day: Rotom
+Raid Day: Rufflet
+Raid Day: Sableye
+Raid Day: Salamence
+Raid Day: Samurott
+Raid Day: Sandile
+Raid Day: Sandshrew
+Raid Day: Sandslash
+Raid Day: Sawk
+Raid Day: Sawsbuck
+Raid Day: Scatterbug
+Raid Day: Sceptile
+Raid Day: Scizor
+Raid Day: Scolipede
+Raid Day: Scrafty
+Raid Day: Scraggy
+Raid Day: Scyther
+Raid Day: Seadra
+Raid Day: Seaking
+Raid Day: Sealeo
+Raid Day: Seedot
+Raid Day: Seel
+Raid Day: Seismitoad
+Raid Day: Sentret
+Raid Day: Serperior
+Raid Day: Servine
+Raid Day: Seviper
+Raid Day: Sewaddle
+Raid Day: Sharpedo
+Raid Day: Shaymin
+Raid Day: Shedinja
+Raid Day: Shelgon
+Raid Day: Shellder
+Raid Day: Shellos
+Raid Day: Shelmet
+Raid Day: Shieldon
+Raid Day: Shiftry
+Raid Day: Shinx
+Raid Day: Shroomish
+Raid Day: Shuckle
+Raid Day: Shuppet
+Raid Day: Sigilyph
+Raid Day: Silcoon
+Raid Day: Simipour
+Raid Day: Simisage
+Raid Day: Simisear
+Raid Day: Skarmory
+Raid Day: Skiddo
+Raid Day: Skiploom
+Raid Day: Skitty
+Raid Day: Skorupi
+Raid Day: Skrelp
+Raid Day: Skuntank
+Raid Day: Slaking
+Raid Day: Slakoth
+Raid Day: Sliggoo
+Raid Day: Slowbro
+Raid Day: Slowking
+Raid Day: Slowpoke
+Raid Day: Slugma
+Raid Day: Slurpuff
+Raid Day: Smeargle
+Raid Day: Smoochum
+Raid Day: Sneasel
+Raid Day: Snivy
+Raid Day: Snorlax
+Raid Day: Snorunt
+Raid Day: Snover
+Raid Day: Snubbull
+Raid Day: Solosis
+Raid Day: Solrock
+Raid Day: Spearow
+Raid Day: Spewpa
+Raid Day: Spheal
+Raid Day: Spinarak
+Raid Day: Spinda
+Raid Day: Spiritomb
+Raid Day: Spoink
+Raid Day: Spritzee
+Raid Day: Squirtle
+Raid Day: Stantler
+Raid Day: Staraptor
+Raid Day: Staravia
+Raid Day: Starly
+Raid Day: Starmie
+Raid Day: Staryu
+Raid Day: Steelix
+Raid Day: Stoutland
+Raid Day: Stunfisk
+Raid Day: Stunky
+Raid Day: Sudowoodo
+Raid Day: Suicune
+Raid Day: Sunflora
+Raid Day: Sunkern
+Raid Day: Surskit
+Raid Day: Swablu
+Raid Day: Swadloon
+Raid Day: Swalot
+Raid Day: Swampert
+Raid Day: Swanna
+Raid Day: Swellow
+Raid Day: Swinub
+Raid Day: Swirlix
+Raid Day: Swoobat
+Raid Day: Sylveon
+Raid Day: Taillow
+Raid Day: Talonflame
+Raid Day: Tangela
+Raid Day: Tangrowth
+Raid Day: Tauros
+Raid Day: Teddiursa
+Raid Day: Tentacool
+Raid Day: Tentacruel
+Raid Day: Tepig
+Raid Day: Terrakion
+Raid Day: Throh
+Raid Day: Thundurus
+Raid Day: Timburr
+Raid Day: Tirtouga
+Raid Day: Togekiss
+Raid Day: Togepi
+Raid Day: Togetic
+Raid Day: Torchic
+Raid Day: Torkoal
+Raid Day: Tornadus
+Raid Day: Torterra
+Raid Day: Totodile
+Raid Day: Toxicroak
+Raid Day: Tranquill
+Raid Day: Trapinch
+Raid Day: Treecko
+Raid Day: Trevenant
+Raid Day: Tropius
+Raid Day: Trubbish
+Raid Day: Turtwig
+Raid Day: Tympole
+Raid Day: Tynamo
+Raid Day: Typhlosion
+Raid Day: Tyranitar
+Raid Day: Tyrantrum
+Raid Day: Tyrogue
+Raid Day: Tyrunt
+Raid Day: Umbreon
+Raid Day: Unfezant
+Raid Day: Unown
+Raid Day: Ursaring
+Raid Day: Uxie
+Raid Day: Vanillish
+Raid Day: Vanillite
+Raid Day: Vanilluxe
+Raid Day: Vaporeon
+Raid Day: Venipede
+Raid Day: Venomoth
+Raid Day: Venonat
+Raid Day: Venusaur
+Raid Day: Vespiquen
+Raid Day: Vibrava
+Raid Day: Victini
+Raid Day: Victreebel
+Raid Day: Vigoroth
+Raid Day: Vileplume
+Raid Day: Virizion
+Raid Day: Vivillon
+Raid Day: Volbeat
+Raid Day: Volcanion
+Raid Day: Volcarona
+Raid Day: Voltorb
+Raid Day: Vullaby
+Raid Day: Vulpix
+Raid Day: Wailmer
+Raid Day: Wailord
+Raid Day: Walrein
+Raid Day: Wartortle
+Raid Day: Watchog
+Raid Day: Weavile
+Raid Day: Weedle
+Raid Day: Weepinbell
+Raid Day: Weezing
+Raid Day: Whimsicott
+Raid Day: Whirlipede
+Raid Day: Whiscash
+Raid Day: Whismur
+Raid Day: Wigglytuff
+Raid Day: Wingull
+Raid Day: Wobbuffet
+Raid Day: Woobat
+Raid Day: Wooper
+Raid Day: Wormadam
+Raid Day: Wurmple
+Raid Day: Wynaut
+Raid Day: Xatu
+Raid Day: Xerneas
+Raid Day: Yamask
+Raid Day: Yanma
+Raid Day: Yanmega
+Raid Day: Yveltal
+Raid Day: Zangoose
+Raid Day: Zapdos
+Raid Day: Zebstrika
+Raid Day: Zekrom
+Raid Day: Zigzagoon
+Raid Day: Zoroark
+Raid Day: Zorua
+Raid Day: Zubat
+Raid Day: Zweilous
+Raid Day: Zygarde
 Boss Defeated
 All your Pokémon have fainted.
 Select new Pokémon or heal up those that fainted and get back to the battle!
@@ -9581,6 +12580,7 @@ Please try a different raid or invitation.
 This Raid Lobby Has Expired
 Please try again later.
 The Raid Lobby Is Full
+ITEMS
 RAID FULL
 Received {0} items from raid.
 Raid Members
@@ -9619,8 +12619,730 @@ You need a pass to join the battle. You can get a Raid Pass at no cost each day 
 WHAT IS A RAID?
 A raid is a battle where you and up to 19 other Trainers work together to defeat the Raid Boss—an extremely powerful Pokémon. Win to receive fantastic rewards and a chance to catch a stronger-than-normal Pokémon of your own!
 Raid Week
+Special Raid Weekend: Abomasnow
+Special Raid Weekend: Abra
+Special Raid Weekend: Absol
+Special Raid Weekend: Accelgor
+Special Raid Weekend: Aegislash
+Special Raid Weekend: Aerodactyl
+Special Raid Weekend: Aggron
+Special Raid Weekend: Aipom
+Special Raid Weekend: Alakazam
+Special Raid Weekend: Alomomola
+Special Raid Weekend: Altaria
+Special Raid Weekend: Amaura
+Special Raid Weekend: Ambipom
+Special Raid Weekend: Amoonguss
+Special Raid Weekend: Ampharos
+Special Raid Weekend: Anorith
+Special Raid Weekend: Arbok
+Special Raid Weekend: Arcanine
+Special Raid Weekend: Arceus
+Special Raid Weekend: Archen
+Special Raid Weekend: Archeops
+Special Raid Weekend: Ariados
+Special Raid Weekend: Armaldo
+Special Raid Weekend: Aromatisse
+Special Raid Weekend: Aron
+Special Raid Weekend: Articuno
+Special Raid Weekend: Audino
+Special Raid Weekend: Aurorus
+Special Raid Weekend: Avalugg
+Special Raid Weekend: Axew
+Special Raid Weekend: Azelf
+Special Raid Weekend: Azumarill
+Special Raid Weekend: Azurill
+Special Raid Weekend: Bagon
+Special Raid Weekend: Baltoy
+Special Raid Weekend: Banette
+Special Raid Weekend: Barbaracle
+Special Raid Weekend: Barboach
+Special Raid Weekend: Basculin
+Special Raid Weekend: Bastiodon
+Special Raid Weekend: Bayleef
+Special Raid Weekend: Beartic
+Special Raid Weekend: Beautifly
+Special Raid Weekend: Beedrill
+Special Raid Weekend: Beheeyem
+Special Raid Weekend: Beldum
+Special Raid Weekend: Bellossom
+Special Raid Weekend: Bellsprout
+Special Raid Weekend: Bergmite
+Special Raid Weekend: Bibarel
+Special Raid Weekend: Bidoof
+Special Raid Weekend: Binacle
+Special Raid Weekend: Bisharp
+Special Raid Weekend: Blastoise
+Special Raid Weekend: Blaziken
+Special Raid Weekend: Blissey
+Special Raid Weekend: Blitzle
+Special Raid Weekend: Boldore
+Special Raid Weekend: Bonsly
+Special Raid Weekend: Bouffalant
+Special Raid Weekend: Braixen
+Special Raid Weekend: Braviary
+Special Raid Weekend: Breloom
+Special Raid Weekend: Bronzong
+Special Raid Weekend: Bronzor
+Special Raid Weekend: Budew
+Special Raid Weekend: Buizel
+Special Raid Weekend: Bulbasaur
+Special Raid Weekend: Buneary
+Special Raid Weekend: Bunnelby
+Special Raid Weekend: Burmy
+Special Raid Weekend: Butterfree
+Special Raid Weekend: Cacnea
+Special Raid Weekend: Cacturne
+Special Raid Weekend: Camerupt
+Special Raid Weekend: Carbink
+Special Raid Weekend: Carnivine
+Special Raid Weekend: Carracosta
+Special Raid Weekend: Carvanha
+Special Raid Weekend: Cascoon
+Special Raid Weekend: Castform
+Special Raid Weekend: Caterpie
+Special Raid Weekend: Celebi
+Special Raid Weekend: Chandelure
+Special Raid Weekend: Chansey
+Special Raid Weekend: Charizard
+Special Raid Weekend: Charmander
+Special Raid Weekend: Charmeleon
+Special Raid Weekend: Chatot
+Special Raid Weekend: Cherrim
+Special Raid Weekend: Cherubi
+Special Raid Weekend: Chesnaught
+Special Raid Weekend: Chespin
+Special Raid Weekend: Chikorita
+Special Raid Weekend: Chimchar
+Special Raid Weekend: Chimecho
+Special Raid Weekend: Chinchou
+Special Raid Weekend: Chingling
+Special Raid Weekend: Cinccino
+Special Raid Weekend: Clamperl
+Special Raid Weekend: Clauncher
+Special Raid Weekend: Clawitzer
+Special Raid Weekend: Claydol
+Special Raid Weekend: Clefable
+Special Raid Weekend: Clefairy
+Special Raid Weekend: Cleffa
+Special Raid Weekend: Cloyster
+Special Raid Weekend: Cobalion
+Special Raid Weekend: Cofagrigus
+Special Raid Weekend: Combee
+Special Raid Weekend: Combusken
+Special Raid Weekend: Conkeldurr
+Special Raid Weekend: Corphish
+Special Raid Weekend: Corsola
+Special Raid Weekend: Cottonee
+Special Raid Weekend: Cradily
+Special Raid Weekend: Cranidos
+Special Raid Weekend: Crawdaunt
+Special Raid Weekend: Cresselia
+Special Raid Weekend: Croagunk
+Special Raid Weekend: Crobat
+Special Raid Weekend: Croconaw
+Special Raid Weekend: Crustle
+Special Raid Weekend: Cryogonal
+Special Raid Weekend: Cubchoo
+Special Raid Weekend: Cubone
+Special Raid Weekend: Cyndaquil
+Special Raid Weekend: Darkrai
+Special Raid Weekend: Darmanitan
+Special Raid Weekend: Darumaka
+Special Raid Weekend: Dedenne
+Special Raid Weekend: Deerling
+Special Raid Weekend: Deino
+Special Raid Weekend: Delcatty
+Special Raid Weekend: Delibird
+Special Raid Weekend: Delphox
+Special Raid Weekend: Deoxys
+Special Raid Weekend: Dewgong
+Special Raid Weekend: Dewott
+Special Raid Weekend: Dialga
+Special Raid Weekend: Diancie
+Special Raid Weekend: Diggersby
+Special Raid Weekend: Diglett
+Special Raid Weekend: Ditto
+Special Raid Weekend: Dodrio
+Special Raid Weekend: Doduo
+Special Raid Weekend: Donphan
+Special Raid Weekend: Doublade
+Special Raid Weekend: Dragalge
+Special Raid Weekend: Dragonair
+Special Raid Weekend: Dragonite
+Special Raid Weekend: Drapion
+Special Raid Weekend: Dratini
+Special Raid Weekend: Drifblim
+Special Raid Weekend: Drifloon
+Special Raid Weekend: Drilbur
+Special Raid Weekend: Drowzee
+Special Raid Weekend: Druddigon
+Special Raid Weekend: Ducklett
+Special Raid Weekend: Dugtrio
+Special Raid Weekend: Dunsparce
+Special Raid Weekend: Duosion
+Special Raid Weekend: Durant
+Special Raid Weekend: Dusclops
+Special Raid Weekend: Dusknoir
+Special Raid Weekend: Duskull
+Special Raid Weekend: Dustox
+Special Raid Weekend: Dwebble
+Special Raid Weekend: Eelektrik
+Special Raid Weekend: Eelektross
+Special Raid Weekend: Eevee
+Special Raid Weekend: Ekans
+Special Raid Weekend: Electabuzz
+Special Raid Weekend: Electivire
+Special Raid Weekend: Electrike
+Special Raid Weekend: Electrode
+Special Raid Weekend: Elekid
+Special Raid Weekend: Elgyem
+Special Raid Weekend: Emboar
+Special Raid Weekend: Emolga
+Special Raid Weekend: Empoleon
+Special Raid Weekend: Entei
+Special Raid Weekend: Escavalier
+Special Raid Weekend: Espeon
+Special Raid Weekend: Espurr
 Special Raid Weekend
+Special Raid Weekend: Excadrill
+Special Raid Weekend: Exeggcute
+Special Raid Weekend: Exeggutor
+Special Raid Weekend: Exploud
+Special Raid Weekend: Farfetch'd
+Special Raid Weekend: Fearow
+Special Raid Weekend: Feebas
+Special Raid Weekend: Fennekin
+Special Raid Weekend: Feraligatr
+Special Raid Weekend: Ferroseed
+Special Raid Weekend: Ferrothorn
+Special Raid Weekend: Finneon
+Special Raid Weekend: Flaaffy
+Special Raid Weekend: Flabébé
+Special Raid Weekend: Flareon
+Special Raid Weekend: Fletchinder
+Special Raid Weekend: Fletchling
+Special Raid Weekend: Floatzel
+Special Raid Weekend: Floette
+Special Raid Weekend: Florges
+Special Raid Weekend: Flygon
+Special Raid Weekend: Foongus
+Special Raid Weekend: Forretress
+Special Raid Weekend: Fraxure
+Special Raid Weekend: Frillish
+Special Raid Weekend: Froakie
+Special Raid Weekend: Frogadier
+Special Raid Weekend: Froslass
+Special Raid Weekend: Furfrou
+Special Raid Weekend: Furret
+Special Raid Weekend: Gabite
+Special Raid Weekend: Gallade
+Special Raid Weekend: Galvantula
+Special Raid Weekend: Garbodor
+Special Raid Weekend: Garchomp
+Special Raid Weekend: Gardevoir
+Special Raid Weekend: Gastly
+Special Raid Weekend: Gastrodon
+Special Raid Weekend: Genesect
+Special Raid Weekend: Gengar
+Special Raid Weekend: Geodude
+Special Raid Weekend: Gible
+Special Raid Weekend: Gigalith
+Special Raid Weekend: Girafarig
+Special Raid Weekend: Giratina
+Special Raid Weekend: Glaceon
+Special Raid Weekend: Glalie
+Special Raid Weekend: Glameow
+Special Raid Weekend: Gligar
+Special Raid Weekend: Gliscor
+Special Raid Weekend: Gloom
+Special Raid Weekend: Gogoat
+Special Raid Weekend: Golbat
+Special Raid Weekend: Goldeen
+Special Raid Weekend: Golduck
+Special Raid Weekend: Golem
+Special Raid Weekend: Golett
+Special Raid Weekend: Golurk
+Special Raid Weekend: Goodra
+Special Raid Weekend: Goomy
+Special Raid Weekend: Gorebyss
+Special Raid Weekend: Gothita
+Special Raid Weekend: Gothitelle
+Special Raid Weekend: Gothorita
+Special Raid Weekend: Gourgeist
+Special Raid Weekend: Granbull
+Special Raid Weekend: Graveler
+Special Raid Weekend: Greninja
+Special Raid Weekend: Grimer
+Special Raid Weekend: Grotle
+Special Raid Weekend: Groudon
+Special Raid Weekend: Grovyle
+Special Raid Weekend: Growlithe
+Special Raid Weekend: Grumpig
+Special Raid Weekend: Gulpin
+Special Raid Weekend: Gurdurr
+Special Raid Weekend: Gyarados
+Special Raid Weekend: Happiny
+Special Raid Weekend: Hariyama
+Special Raid Weekend: Haunter
+Special Raid Weekend: Hawlucha
+Special Raid Weekend: Haxorus
+Special Raid Weekend: Heatmor
+Special Raid Weekend: Heatran
+Special Raid Weekend: Heliolisk
+Special Raid Weekend: Helioptile
+Special Raid Weekend: Heracross
+Special Raid Weekend: Herdier
+Special Raid Weekend: Hippopotas
+Special Raid Weekend: Hippowdon
+Special Raid Weekend: Hitmonchan
+Special Raid Weekend: Hitmonlee
+Special Raid Weekend: Hitmontop
+Special Raid Weekend: Ho-Oh
+Special Raid Weekend: Honchkrow
+Special Raid Weekend: Honedge
+Special Raid Weekend: Hoopa
+Special Raid Weekend: Hoothoot
+Special Raid Weekend: Hoppip
+Special Raid Weekend: Horsea
+Special Raid Weekend: Houndoom
+Special Raid Weekend: Houndour
+Special Raid Weekend: Huntail
+Special Raid Weekend: Hydreigon
+Special Raid Weekend: Hypno
+Special Raid Weekend: Igglybuff
+Special Raid Weekend: Illumise
+Special Raid Weekend: Infernape
+Special Raid Weekend: Inkay
+Special Raid Weekend: Ivysaur
+Special Raid Weekend: Jellicent
+Special Raid Weekend: Jigglypuff
+Special Raid Weekend: Jirachi
+Special Raid Weekend: Jolteon
+Special Raid Weekend: Joltik
+Special Raid Weekend: Jumpluff
+Special Raid Weekend: Jynx
+Special Raid Weekend: Kabuto
+Special Raid Weekend: Kabutops
+Special Raid Weekend: Kadabra
+Special Raid Weekend: Kakuna
+Special Raid Weekend: Kangaskhan
+Special Raid Weekend: Karrablast
+Special Raid Weekend: Kecleon
+Special Raid Weekend: Keldeo
+Special Raid Weekend: Kingdra
+Special Raid Weekend: Kingler
+Special Raid Weekend: Kirlia
+Special Raid Weekend: Klang
+Special Raid Weekend: Klefki
+Special Raid Weekend: Klink
+Special Raid Weekend: Klinklang
+Special Raid Weekend: Koffing
+Special Raid Weekend: Krabby
+Special Raid Weekend: Kricketot
+Special Raid Weekend: Kricketune
+Special Raid Weekend: Krokorok
+Special Raid Weekend: Krookodile
+Special Raid Weekend: Kyogre
+Special Raid Weekend: Kyurem
+Special Raid Weekend: Lairon
+Special Raid Weekend: Lampent
+Special Raid Weekend: Landorus
+Special Raid Weekend: Lanturn
+Special Raid Weekend: Lapras
+Special Raid Weekend: Larvesta
+Special Raid Weekend: Larvitar
+Special Raid Weekend: Latias
+Special Raid Weekend: Latios
 Latias and Latios appearing in five-star raids
+Special Raid Weekend: Leafeon
+Special Raid Weekend: Leavanny
+Special Raid Weekend: Ledian
+Special Raid Weekend: Ledyba
+Special Raid Weekend: Lickilicky
+Special Raid Weekend: Lickitung
+Special Raid Weekend: Liepard
+Special Raid Weekend: Lileep
+Special Raid Weekend: Lilligant
+Special Raid Weekend: Lillipup
+Special Raid Weekend: Linoone
+Special Raid Weekend: Litleo
+Special Raid Weekend: Litwick
+Special Raid Weekend: Lombre
+Special Raid Weekend: Lopunny
+Special Raid Weekend: Lotad
+Special Raid Weekend: Loudred
+Special Raid Weekend: Lucario
+Special Raid Weekend: Ludicolo
+Special Raid Weekend: Lugia
+Special Raid Weekend: Lumineon
+Special Raid Weekend: Lunatone
+Special Raid Weekend: Luvdisc
+Special Raid Weekend: Luxio
+Special Raid Weekend: Luxray
+Special Raid Weekend: Machamp
+Special Raid Weekend: Machoke
+Special Raid Weekend: Machop
+Special Raid Weekend: Magby
+Special Raid Weekend: Magcargo
+Special Raid Weekend: Magikarp
+Special Raid Weekend: Magmar
+Special Raid Weekend: Magmortar
+Special Raid Weekend: Magnemite
+Special Raid Weekend: Magneton
+Special Raid Weekend: Magnezone
+Special Raid Weekend: Makuhita
+Special Raid Weekend: Malamar
+Special Raid Weekend: Mamoswine
+Special Raid Weekend: Manaphy
+Special Raid Weekend: Mandibuzz
+Special Raid Weekend: Manectric
+Special Raid Weekend: Mankey
+Special Raid Weekend: Mantine
+Special Raid Weekend: Mantyke
+Special Raid Weekend: Maractus
+Special Raid Weekend: Mareep
+Special Raid Weekend: Marill
+Special Raid Weekend: Marowak
+Special Raid Weekend: Marshtomp
+Special Raid Weekend: Masquerain
+Special Raid Weekend: Mawile
+Special Raid Weekend: Medicham
+Special Raid Weekend: Meditite
+Special Raid Weekend: Meganium
+Special Raid Weekend: Meloetta
+Special Raid Weekend: Meowstic
+Special Raid Weekend: Meowth
+Special Raid Weekend: Mesprit
+Special Raid Weekend: Metagross
+Special Raid Weekend: Metang
+Special Raid Weekend: Metapod
+Special Raid Weekend: Mew
+Special Raid Weekend: Mewtwo
+Special Raid Weekend: Mienfoo
+Special Raid Weekend: Mienshao
+Special Raid Weekend: Mightyena
+Special Raid Weekend: Milotic
+Special Raid Weekend: Miltank
+Special Raid Weekend: Mime Jr.
+Special Raid Weekend: Minccino
+Special Raid Weekend: Minun
+Special Raid Weekend: Misdreavus
+Special Raid Weekend: Mismagius
+Special Raid Weekend: Moltres
+Special Raid Weekend: Monferno
+Special Raid Weekend: Mothim
+Special Raid Weekend: Mr. Mime
+Special Raid Weekend: Mudkip
+Special Raid Weekend: Muk
+Special Raid Weekend: Munchlax
+Special Raid Weekend: Munna
+Special Raid Weekend: Murkrow
+Special Raid Weekend: Musharna
+Special Raid Weekend: Natu
+Special Raid Weekend: Nidoking
+Special Raid Weekend: Nidoqueen
+Special Raid Weekend: Nidoran♀
+Special Raid Weekend: Nidoran♂
+Special Raid Weekend: Nidorina
+Special Raid Weekend: Nidorino
+Special Raid Weekend: Nincada
+Special Raid Weekend: Ninetales
+Special Raid Weekend: Ninjask
+Special Raid Weekend: Noctowl
+Special Raid Weekend: Noibat
+Special Raid Weekend: Noivern
+Special Raid Weekend: Nosepass
+Special Raid Weekend: Numel
+Special Raid Weekend: Nuzleaf
+Special Raid Weekend: Octillery
+Special Raid Weekend: Oddish
+Special Raid Weekend: Omanyte
+Special Raid Weekend: Omastar
+Special Raid Weekend: Onix
+Special Raid Weekend: Oshawott
+Special Raid Weekend: Pachirisu
+Special Raid Weekend: Palkia
+Special Raid Weekend: Palpitoad
+Special Raid Weekend: Pancham
+Special Raid Weekend: Pangoro
+Special Raid Weekend: Panpour
+Special Raid Weekend: Pansage
+Special Raid Weekend: Pansear
+Special Raid Weekend: Paras
+Special Raid Weekend: Parasect
+Special Raid Weekend: Patrat
+Special Raid Weekend: Pawniard
+Special Raid Weekend: Pelipper
+Special Raid Weekend: Persian
+Special Raid Weekend: Petilil
+Special Raid Weekend: Phanpy
+Special Raid Weekend: Phantump
+Special Raid Weekend: Phione
+Special Raid Weekend: Pichu
+Special Raid Weekend: Pidgeot
+Special Raid Weekend: Pidgeotto
+Special Raid Weekend: Pidgey
+Special Raid Weekend: Pidove
+Special Raid Weekend: Pignite
+Special Raid Weekend: Pikachu
+Special Raid Weekend: Piloswine
+Special Raid Weekend: Pineco
+Special Raid Weekend: Pinsir
+Special Raid Weekend: Piplup
+Special Raid Weekend: Plusle
+Special Raid Weekend: Politoed
+Special Raid Weekend: Poliwag
+Special Raid Weekend: Poliwhirl
+Special Raid Weekend: Poliwrath
+Special Raid Weekend: Ponyta
+Special Raid Weekend: Poochyena
+Special Raid Weekend: Porygon
+Special Raid Weekend: Porygon-Z
+Special Raid Weekend: Porygon2
+Special Raid Weekend: Primeape
+Special Raid Weekend: Prinplup
+Special Raid Weekend: Probopass
+Special Raid Weekend: Psyduck
+Special Raid Weekend: Pumpkaboo
+Special Raid Weekend: Pupitar
+Special Raid Weekend: Purrloin
+Special Raid Weekend: Purugly
+Special Raid Weekend: Pyroar
+Special Raid Weekend: Quagsire
+Special Raid Weekend: Quilava
+Special Raid Weekend: Quilladin
+Special Raid Weekend: Qwilfish
+Special Raid Weekend: Raichu
+Special Raid Weekend: Raikou
+Special Raid Weekend: Ralts
+Special Raid Weekend: Rampardos
+Special Raid Weekend: Rapidash
+Special Raid Weekend: Raticate
+Special Raid Weekend: Rattata
+Special Raid Weekend: Rayquaza
+Special Raid Weekend: Regice
+Special Raid Weekend: Regigigas
+Special Raid Weekend: Regirock
+Special Raid Weekend: Registeel
+Special Raid Weekend: Relicanth
+Special Raid Weekend: Remoraid
+Special Raid Weekend: Reshiram
+Special Raid Weekend: Reuniclus
+Special Raid Weekend: Rhydon
+Special Raid Weekend: Rhyhorn
+Special Raid Weekend: Rhyperior
+Special Raid Weekend: Riolu
+Special Raid Weekend: Roggenrola
+Special Raid Weekend: Roselia
+Special Raid Weekend: Roserade
+Special Raid Weekend: Rotom
+Special Raid Weekend: Rufflet
+Special Raid Weekend: Sableye
+Special Raid Weekend: Salamence
+Special Raid Weekend: Samurott
+Special Raid Weekend: Sandile
+Special Raid Weekend: Sandshrew
+Special Raid Weekend: Sandslash
+Special Raid Weekend: Sawk
+Special Raid Weekend: Sawsbuck
+Special Raid Weekend: Scatterbug
+Special Raid Weekend: Sceptile
+Special Raid Weekend: Scizor
+Special Raid Weekend: Scolipede
+Special Raid Weekend: Scrafty
+Special Raid Weekend: Scraggy
+Special Raid Weekend: Scyther
+Special Raid Weekend: Seadra
+Special Raid Weekend: Seaking
+Special Raid Weekend: Sealeo
+Special Raid Weekend: Seedot
+Special Raid Weekend: Seel
+Special Raid Weekend: Seismitoad
+Special Raid Weekend: Sentret
+Special Raid Weekend: Serperior
+Special Raid Weekend: Servine
+Special Raid Weekend: Seviper
+Special Raid Weekend: Sewaddle
+Special Raid Weekend: Sharpedo
+Special Raid Weekend: Shaymin
+Special Raid Weekend: Shedinja
+Special Raid Weekend: Shelgon
+Special Raid Weekend: Shellder
+Special Raid Weekend: Shellos
+Special Raid Weekend: Shelmet
+Special Raid Weekend: Shieldon
+Special Raid Weekend: Shiftry
+Special Raid Weekend: Shinx
+Special Raid Weekend: Shroomish
+Special Raid Weekend: Shuckle
+Special Raid Weekend: Shuppet
+Special Raid Weekend: Sigilyph
+Special Raid Weekend: Silcoon
+Special Raid Weekend: Simipour
+Special Raid Weekend: Simisage
+Special Raid Weekend: Simisear
+Special Raid Weekend: Skarmory
+Special Raid Weekend: Skiddo
+Special Raid Weekend: Skiploom
+Special Raid Weekend: Skitty
+Special Raid Weekend: Skorupi
+Special Raid Weekend: Skrelp
+Special Raid Weekend: Skuntank
+Special Raid Weekend: Slaking
+Special Raid Weekend: Slakoth
+Special Raid Weekend: Sliggoo
+Special Raid Weekend: Slowbro
+Special Raid Weekend: Slowking
+Special Raid Weekend: Slowpoke
+Special Raid Weekend: Slugma
+Special Raid Weekend: Slurpuff
+Special Raid Weekend: Smeargle
+Special Raid Weekend: Smoochum
+Special Raid Weekend: Sneasel
+Special Raid Weekend: Snivy
+Special Raid Weekend: Snorlax
+Special Raid Weekend: Snorunt
+Special Raid Weekend: Snover
+Special Raid Weekend: Snubbull
+Special Raid Weekend: Solosis
+Special Raid Weekend: Solrock
+Special Raid Weekend: Spearow
+Special Raid Weekend: Spewpa
+Special Raid Weekend: Spheal
+Special Raid Weekend: Spinarak
+Special Raid Weekend: Spinda
+Special Raid Weekend: Spiritomb
+Special Raid Weekend: Spoink
+Special Raid Weekend: Spritzee
+Special Raid Weekend: Squirtle
+Special Raid Weekend: Stantler
+Special Raid Weekend: Staraptor
+Special Raid Weekend: Staravia
+Special Raid Weekend: Starly
+Special Raid Weekend: Starmie
+Special Raid Weekend: Staryu
+Special Raid Weekend: Steelix
+Special Raid Weekend: Stoutland
+Special Raid Weekend: Stunfisk
+Special Raid Weekend: Stunky
+Special Raid Weekend: Sudowoodo
+Special Raid Weekend: Suicune
+Special Raid Weekend: Sunflora
+Special Raid Weekend: Sunkern
+Special Raid Weekend: Surskit
+Special Raid Weekend: Swablu
+Special Raid Weekend: Swadloon
+Special Raid Weekend: Swalot
+Special Raid Weekend: Swampert
+Special Raid Weekend: Swanna
+Special Raid Weekend: Swellow
+Special Raid Weekend: Swinub
+Special Raid Weekend: Swirlix
+Special Raid Weekend: Swoobat
+Special Raid Weekend: Sylveon
+Special Raid Weekend: Taillow
+Special Raid Weekend: Talonflame
+Special Raid Weekend: Tangela
+Special Raid Weekend: Tangrowth
+Special Raid Weekend: Tauros
+Special Raid Weekend: Teddiursa
+Special Raid Weekend: Tentacool
+Special Raid Weekend: Tentacruel
+Special Raid Weekend: Tepig
+Special Raid Weekend: Terrakion
+Special Raid Weekend: Throh
+Special Raid Weekend: Thundurus
+Special Raid Weekend: Timburr
+Special Raid Weekend: Tirtouga
+Special Raid Weekend: Togekiss
+Special Raid Weekend: Togepi
+Special Raid Weekend: Togetic
+Special Raid Weekend: Torchic
+Special Raid Weekend: Torkoal
+Special Raid Weekend: Tornadus
+Special Raid Weekend: Torterra
+Special Raid Weekend: Totodile
+Special Raid Weekend: Toxicroak
+Special Raid Weekend: Tranquill
+Special Raid Weekend: Trapinch
+Special Raid Weekend: Treecko
+Special Raid Weekend: Trevenant
+Special Raid Weekend: Tropius
+Special Raid Weekend: Trubbish
+Special Raid Weekend: Turtwig
+Special Raid Weekend: Tympole
+Special Raid Weekend: Tynamo
+Special Raid Weekend: Typhlosion
+Special Raid Weekend: Tyranitar
+Special Raid Weekend: Tyrantrum
+Special Raid Weekend: Tyrogue
+Special Raid Weekend: Tyrunt
+Special Raid Weekend: Umbreon
+Special Raid Weekend: Unfezant
+Special Raid Weekend: Unown
+Special Raid Weekend: Ursaring
+Special Raid Weekend: Uxie
+Special Raid Weekend: Vanillish
+Special Raid Weekend: Vanillite
+Special Raid Weekend: Vanilluxe
+Special Raid Weekend: Vaporeon
+Special Raid Weekend: Venipede
+Special Raid Weekend: Venomoth
+Special Raid Weekend: Venonat
+Special Raid Weekend: Venusaur
+Special Raid Weekend: Vespiquen
+Special Raid Weekend: Vibrava
+Special Raid Weekend: Victini
+Special Raid Weekend: Victreebel
+Special Raid Weekend: Vigoroth
+Special Raid Weekend: Vileplume
+Special Raid Weekend: Virizion
+Special Raid Weekend: Vivillon
+Special Raid Weekend: Volbeat
+Special Raid Weekend: Volcanion
+Special Raid Weekend: Volcarona
+Special Raid Weekend: Voltorb
+Special Raid Weekend: Vullaby
+Special Raid Weekend: Vulpix
+Special Raid Weekend: Wailmer
+Special Raid Weekend: Wailord
+Special Raid Weekend: Walrein
+Special Raid Weekend: Wartortle
+Special Raid Weekend: Watchog
+Special Raid Weekend: Weavile
+Special Raid Weekend: Weedle
+Special Raid Weekend: Weepinbell
+Special Raid Weekend: Weezing
+Special Raid Weekend: Whimsicott
+Special Raid Weekend: Whirlipede
+Special Raid Weekend: Whiscash
+Special Raid Weekend: Whismur
+Special Raid Weekend: Wigglytuff
+Special Raid Weekend: Wingull
+Special Raid Weekend: Wobbuffet
+Special Raid Weekend: Woobat
+Special Raid Weekend: Wooper
+Special Raid Weekend: Wormadam
+Special Raid Weekend: Wurmple
+Special Raid Weekend: Wynaut
+Special Raid Weekend: Xatu
+Special Raid Weekend: Xerneas
+Special Raid Weekend: Yamask
+Special Raid Weekend: Yanma
+Special Raid Weekend: Yanmega
+Special Raid Weekend: Yveltal
+Special Raid Weekend: Zangoose
+Special Raid Weekend: Zapdos
+Special Raid Weekend: Zebstrika
+Special Raid Weekend: Zekrom
+Special Raid Weekend: Zigzagoon
+Special Raid Weekend: Zoroark
+Special Raid Weekend: Zorua
+Special Raid Weekend: Zubat
+Special Raid Weekend: Zweilous
+Special Raid Weekend: Zygarde
+1.25x five-star Raid XP
 2× Raid XP
 Increased XP from raids
 Alolan Marowak appearing in raids
@@ -9645,6 +13367,7 @@ Boosted damage for Trainers battling remotely in raids
 Continue to Lobby
 {0}s
 Pokémon do less damage when battling in raids remotely.
+Join raids farther away on the map or via friend invites using a Remote Raid Pass.
 Your Friends
 Invite {0} Friends
 Invite Friend
@@ -9669,6 +13392,7 @@ The max number of remote players has been reached.
 This Lobby Has Reached the Max Number of Remote Players
 Local
 You have reached the max number of Remote Raid Passes ({0}). Please try again when you have fewer Remote Raid Passes.
+Raid Remotely
 New: Raid remotely
 At your current distance from this Gym, you need a Remote Raid Pass to join this raid. You can get Remote Raid Passes in the shop.
 Remote Raid Pass
@@ -9686,18 +13410,24 @@ A pack of 5 Remote Raid Passes, used to join Raid Battles remotely.
 5 Remote Raid Passes
 Are you sure you want to remove this friend?
 Failed to remove tag.
+Failed to reorder tag
 https://pokemongo.nianticlabs.com/support/contact/en
 Would you like to rejoin your previous shared AR session?
 Pokémon GO is more fun with friends! You can get XP, Eggs, and items by sharing Gifts with your pals.
 Go for a power walk! Try using a Star Piece, a Lucky Egg, and Incense all at once.
+Retro Cup
 Returned Today
 Sign in with {0}
 Style Rewards
 STICKER
+Type Surge: Rock
 Team GO Rocket balloons appearing more often
 Team GO Rocket Celebration
 2× Mysterious Components from Team GO Rocket Grunts
+Defeat the members of Team GO Rocket you see at PokéStops and in balloons to save Shadow Pokémon.
 Team GO Rocket Event
+Team GO Rocket
+GO Rocket Hour
 Meowth balloon with Jessie and James appearing more often
 Team GO Rocket appearing more often at PokéStops
 2× Stardust from Team GO Rocket battles
@@ -9839,6 +13569,7 @@ SHOP
 TIPS
 me
 Search
+Searching for Legends
 s
 SEE DETAILS
 Select Gift to discard
@@ -9923,13 +13654,13 @@ Bluetooth is disabled. Please enable Bluetooth in the device settings menu.
 Pokémon GO Plus
 Available Devices
 Troubleshooting
-Unable to connect to Pokémon GO Plus.Would you like to view some troubleshooting tips? 
+Unable to connect to Pokémon GO Plus.Would you like to view some troubleshooting tips?
 https://support.pokemon.com/hc/articles/360000955374
 Show Pokémon GO Plus Icon
 Notifications
 Nearby Pokémon
 Nearby PokéStop
-Buy a Pokémon GO Plus 
+Buy a Pokémon GO Plus
 https://www.nintendo.co.jp/pokemongoplus/
 Push Notifications
 Share Recently Caught Pokémon with Friends
@@ -9997,7 +13728,7 @@ Sweet, thanks!
 A special gift from the professor!
 Exchange
 Exchange
- 
+
 Your {0} is fully upgraded!
 Your Item Bag is full!
 Go to Upgrades
@@ -10095,6 +13826,7 @@ We might have better luck catching them during the daytime, when Candela and I u
 More Abra are appearing in the wild
 More Charmander are appearing in the wild
 More Electabuzz are appearing in the wild
+More Fletchling are appearing in the wild
 More Gastly are appearing in the wild
 More Machop are appearing in the wild
 More Magikarp are appearing in the wild
@@ -10119,7 +13851,7 @@ Failed to save screenshot. Check photo storage permissions.
 Offer saved to your photos!
 Go to Settings
 As you explore the world around you, you may receive Sponsored Gifts along with messages from advertisers relevant to your location. Sponsored Gifts now have a fresh, new look!
-As always, we do not share your personal information with sponsors. For more information on this feature, please check out Niantic Support. 
+As always, we do not share your personal information with sponsors. For more information on this feature, please check out Niantic Support.
 You can manage Sponsored Gifts in your settings. This does not affect Gifts you exchange with friends, even if you obtain the Gifts from Sponsored Locations.
 Sponsored Gifts: Your Choice
 Starbucks
@@ -10143,6 +13875,7 @@ Star Piece
 25 Star Pieces
 8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 8 Star Pieces
+Type Surge: Steel
 Stickers can be found as rewards in Pokémon GO. Collect ’em all!
 No stickers to send. You can get stickers from Gifts or the shop.
 This sticker can be found in the shop.
@@ -10231,6 +13964,7 @@ December Community Day
 Tickets for the Electric for Electabuzz Special Research story available in the shop
 A ticket to access the Electric for Electabuzz Special Research on November 15, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Electric for Electabuzz Ticket
+Tickets for The Bravest Bird Special Research story available in the shop
 Tickets for the Special Research story The Great Gastly available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
@@ -10261,7 +13995,7 @@ A new challenge is starting!
 Ends in {0} minutes
 Ends in 1 minute
 All Trainers must work together as a global community to complete this challenge.
-Timed Research available 
+Timed Research available
 Featured Pokémon in Timed Research
 Meowth featured in Timed Research
 Nidoran♀ and Nidoran♂ featured in Timed Research
@@ -10398,7 +14132,7 @@ Daily trading limit reached. Come back tomorrow to trade more.
 Unknown Trade Error
 This trading session has expired.
 Trading service temporarily unavailable. Try again later.
-If this Pokémon is received through a trade, it can be evolved without using Candy. 
+If this Pokémon is received through a trade, it can be evolved without using Candy.
 {0} received through trades don’t require any Candy to evolve.
 This Pokémon is a favorite Pokémon.
 This Pokémon is your Buddy Pokémon.
@@ -10499,6 +14233,13 @@ It looks like you found a Candy XL! I’ve heard you can use these to help your 
 There’s a chance that you can find Candies XL after you catch Pokémon. The stronger the Pokémon, the more likely you are to find Candies XL.
 2+ days ago
 Supereffective Week: Use a supereffective Charged Attack in a Gym battle
+Featured Pokémon type hatching more often from Eggs
+Featured Pokémon type hatching more often from 10 km Eggs
+Featured Pokémon type hatching more often from 2 km Eggs
+Featured Pokémon type hatching more often from 5 km Eggs
+Featured Pokémon type hatching more often from 7 km Eggs
+Featured Pokémon type appearing more often in raids
+Featured Pokémon type appearing more often in the wild
 Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks.
 Bug-type Pokémon are weak to Fire-, Flying-, and Rock-type attacks.
 Dark-type Pokémon are weak to Fighting-, Bug-, and Fairy-type attacks.
@@ -10552,12 +14293,10 @@ Unable to unlink from this account.
 Unova Collection Challenge
 Unova Event
 Upgrade Item Bag
-UPLOAD LATER
-UPLOAD NOW
 PokéStop Scans ({0})
 CANCEL ALL
 CANCEL
-Do you want to delete this contribution ({0})?
+Do you want to delete this contribution?
 YES
 DELETE
 PokéStop Images ({0})
@@ -10579,31 +14318,52 @@ When you are ready to upload, please go to Main menu page.
 UPLOAD ({0})
 UPLOADING ({0})
 Waiting to be uploaded
-Uploading {0}/{1}
-CANCEL
+You’re about to upload {0} MB of data. If you aren’t connected to Wi-Fi, data rates may apply.
+UPLOAD LATER
+Do you want to upload now?
 YES
+CANCEL
+Do you want to delete this contribution?
+YES
+CANCEL
+DELETE
+PokéStop Images ({0})
+MANAGE CONTRIBUTIONS
+UPLOAD ERROR ({0})
 UPLOAD ERROR ({0})
 UPLOADED ({0})
 UPLOADING ({0})
+UPLOADING ({0})
+PokéStop Nominations ({0})
+RETRY
+PokéStop Scans ({0})
 ({0} KB)
 ({0} MB)
 PokéStop Image
 PokéStop Nomination
 PokéStop Scan
 Upload failed
+UPLOAD
+Waiting to be uploaded
+CANCEL ALL
 POKÉSTOP CONTRIBUTION
 (Nomination Guidelines)
 Player Nominations
+MANAGE
+You have no contributions pending upload.
 You have {0} contributions pending upload
-Uploading Pokestop Contributions
-About Location Points
+You have {0} contribution pending upload.
+UPLOAD ALL ({0} MB)
+Uploading PokéStop Contributions
+Upload failed
 {0} file(s) failed to upload.
+OK
 RETRY LATER
 Do you want to retry uploading now?
 RETRY NOW
 {0} file(s) uploaded!
 You finished uploading!
-Total {0} location point(s) added to PokéStop(s)/Gym(s).
+Thank you for your contribution.
 Use a pass to join the Raid Battle
 Join the Raid Battle(A pass will be used when the battle starts)
 Use a pass to join the Raid Battle
@@ -10697,6 +14457,7 @@ Got It
 Your rank and rating have been reset for the new season.
 New rank earned!
 Water Festival
+Type Surge: Water
 Water Festival: Earn a Candy walking with your buddy
 Water Festival: Catch {0} Water-type Pokémon
 Water Festival: Catch {0} Water-type Pokémon
@@ -10725,6 +14486,7 @@ The weather seems accurate, just not up to date.
 Snow
 Sunny
 Weather
+Weather Week
 Windy
 Cannot access your device's camera. Check camera permissions.
 Winter Event

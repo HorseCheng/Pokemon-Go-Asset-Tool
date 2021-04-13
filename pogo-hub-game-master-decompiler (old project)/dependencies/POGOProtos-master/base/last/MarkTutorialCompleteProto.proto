@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message MarkTutorialCompleteProto {
-	repeated TutorialCompletion tutorial_complete = 1;
-	bool send_marketing_emails = 2;
-	bool send_push_notifications = 3;
-}

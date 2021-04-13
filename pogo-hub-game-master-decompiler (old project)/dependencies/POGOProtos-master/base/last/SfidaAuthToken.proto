@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SfidaAuthToken {
-	bytes response_token = 1;
-	string sfida_id = 2;
-}

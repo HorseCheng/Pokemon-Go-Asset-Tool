@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum PushNotificationTelemetryIds {
-	UNDEFINED_PUSH_NOTIFICATION_EVENT = 0;
-	OPEN_APP = 1;
-}

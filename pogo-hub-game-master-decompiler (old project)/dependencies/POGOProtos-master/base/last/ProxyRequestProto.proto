@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ProxyRequestProto {
-	uint32 action = 1;
-	string host = 2;
-	bytes payload = 3;
-}

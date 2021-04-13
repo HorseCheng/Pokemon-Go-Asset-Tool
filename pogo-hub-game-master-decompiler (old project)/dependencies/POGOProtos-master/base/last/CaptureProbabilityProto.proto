@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CaptureProbabilityProto {
-	repeated Item pokeball_type = 1;
-	repeated float capture_probability = 2;
-	double reticle_difficulty_scale = 12;
-}

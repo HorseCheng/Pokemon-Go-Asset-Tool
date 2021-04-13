@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LocationE6Proto {
-	int32 latitude_e6 = 1;
-	int32 longitude_e6 = 2;
-}

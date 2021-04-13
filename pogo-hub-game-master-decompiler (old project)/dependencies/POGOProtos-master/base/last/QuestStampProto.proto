@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message QuestStampProto {
-	QuestProto.Context context = 1;
-	uint64 timestamp_ms = 2;
-}

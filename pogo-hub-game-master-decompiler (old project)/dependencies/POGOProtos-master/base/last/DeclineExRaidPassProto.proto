@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message DeclineExRaidPassProto {
-	string fort_id = 1;
-	int64 raid_seed = 2;
-}

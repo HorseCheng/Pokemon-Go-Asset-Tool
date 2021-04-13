@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CheckPhotobombProto {
-	fixed64 photo_pokemon_id = 1;
-}

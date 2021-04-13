@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum NotificationType {
-	NO_NOTIFICATIONS = 0;
-	POKEMON_NOTIFICATIONS = 1;
-	POKESTOP_NOTIFICATIONS = 2;
-	ALL_NOTIFICATIONS = 3;
-}

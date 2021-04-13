@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message OnboardingV2SettingsProto {
-	bool enable_onboarding_v2 = 1;
-	repeated HoloPokemonId pokedex_id = 2;
-	HoloPokemonId onboarding_egg_pokemon = 3;
-	int32 egg_km_until_hatch = 4;
-}

@@ -2,7 +2,13 @@
 神奧之石
 在合眾地區被發現的罕見石頭，能讓特定寶可夢進化。黑白相間的表面為其特徵。
 合眾之石
+全球 2021年2月20日
+Pokémon GO Tour：關都地區
+全球 2021年2月20日
+Pokémon GO Tour：關都地區
 厲害！看來你捉到 {1} 屬性的 {0} 了！
+Make sure to use attacks your opponent’s Pokémon are weak to!
+Make sure to use attacks your opponent’s Pokémon are weak to!
 關於 Pokémon GO
 ©2016-2017 Niantic, Inc.
 ©2016-2017 Pokémon.
@@ -21,7 +27,7 @@
 顯示更多
 冒險筆記
 I find it offensive
-It refers to a political candidate or issue
+和選舉候選人或政治議題相關
 It’s a scam or misleading
 It’s sexually inappropriate
 It’s spam
@@ -58,6 +64,7 @@ Please explain in less than 300 characters.
 請輸入你的出生年月日
 阿羅拉的樣子
 要結束Pokémon GO嗎？
+https://pokemongolive.com/launchapp
 玩Pokémon GO時需使用位置資訊。請從裝置的「設定」啟用位置資訊。
 Apple
 請重新啟動Pokémon GO並再試一次
@@ -289,6 +296,9 @@ Longchamp 背包
 方形皮帶扣
 火箭隊皮帶
 彩虹火箭隊皮帶
+草屬性口罩
+火屬性口罩
+水屬性口罩
 詛咒娃娃口罩
 口罩
 皮卡丘口罩
@@ -334,6 +344,7 @@ N風棒球帽
 名偵探皮卡丘帽子
 飄飄球帽
 伊布帽
+小菊兒耳機
 不戴帽子
 氈帽
 HF設計師聯名款棒球帽
@@ -346,6 +357,8 @@ The North Face x Gucci 帽子
 暴鯉龍帽子
 城都帽
 冬季針織帽
+GO Tour 綠版棒球帽
+GO Tour 紅版棒球帽
 針織帽
 燭光靈帽
 珍珠耳環
@@ -356,6 +369,8 @@ The North Face x Gucci 帽子
 超夢款帽
 謎擬Ｑ的畫皮帽
 夢妖魔帽
+粉紅貝雷帽
+深灰貝雷帽
 新年派對帽
 皮卡丘帽
 皮卡丘頭飾
@@ -403,6 +418,7 @@ N風長褲
 多片短裙
 雙色短裙
 小霞短褲
+食夢夢長褲
 螢光內搭褲
 皮卡丘發燒友短褲
 面罩摔角手皮卡丘 長褲
@@ -431,6 +447,7 @@ N風上衣
 名偵探皮卡丘T恤
 隨風球T恤
 藍海衝浪T
+小菊兒長上衣
 HF設計師聯名款T恤
 葉子背心
 伽勒爾大蔥鴨T恤+小包套組
@@ -467,6 +484,7 @@ Ingress Prime / Blue
 超夢款背心
 小霞背心
 武藏2020電影套裝
+食夢夢上衣
 Pokémon Shirt - 霸王花
 Pokémon Shirt - 大舌頭
 Pokémon Shirt - 鯉魚王
@@ -488,9 +506,13 @@ Pokémon Shirts 迷唇娃
 Safari Zone T恤 2020
 Safari Zone T恤 2020
 Samsung Galaxy紮染T恤
+異色夢幻T恤
 花岩怪T恤
 伽勒爾洋裝
 大吾西裝上衣
+水箭龜外套
+噴火龍外套
+妙蛙花外套
 30紀念款
 靈犀隊高領上衣
 叡智隊高領上衣
@@ -528,6 +550,7 @@ N風運動鞋
 等級49 靴子
 慢跑鞋
 信使鳥短靴
+小菊兒運動鞋
 不穿鞋子
 葉子鞋
 阪木皮鞋
@@ -572,6 +595,7 @@ N風運動鞋
 手套
 頭髮
 萬聖節
+GO Tour Hat
 帽子
 將在 {1} 獎牌的第 {0} 階段開放
 將在等級 {0} 開放
@@ -599,6 +623,9 @@ Longchamp 背包
 波克比背包
 究極之日 包包
 超音蝠背包
+草屬性口罩
+火屬性口罩
+水屬性口罩
 詛咒娃娃口罩
 口罩
 皮卡丘口罩
@@ -643,6 +670,7 @@ N風棒球帽
 名偵探皮卡丘帽子
 飄飄球帽
 伊布帽
+小菊兒耳機
 不戴帽子
 氈帽
 釣魚者帽
@@ -657,6 +685,8 @@ The North Face x Gucci 帽子
 城都棒球帽
 冬季針織帽
 慢跑者遮陽帽
+GO Tour 綠版棒球帽
+GO Tour 紅版棒球帽
 燭光靈帽
 珍珠耳環
 等級45 帽子
@@ -665,6 +695,8 @@ The North Face x Gucci 帽子
 超夢款帽
 謎擬Ｑ的畫皮帽
 夢妖魔帽
+粉紅貝雷帽
+深灰貝雷帽
 新年派對帽
 皮卡丘帽
 皮卡丘頭飾
@@ -697,6 +729,7 @@ GO火箭隊棒球帽
 小剛長褲
 N風長褲
 訓練家短褲
+小菊兒長褲
 釣魚者長褲
 火焰長褲
 阪木西裝褲
@@ -707,6 +740,7 @@ N風長褲
 點點寬褲
 愛心魚破洞牛仔褲
 超夢款長褲
+食夢夢長褲
 皮卡丘發燒友短褲
 面罩摔角手皮卡丘 長褲
 窄管牛仔褲
@@ -738,6 +772,7 @@ N風上衣
 名偵探皮卡丘T恤
 隨風球T恤
 藍海衝浪T
+小菊兒上衣
 釣魚者背心
 HF設計師聯名款T恤
 火焰上衣
@@ -777,6 +812,7 @@ Ingress Prime / Blue
 夢幻T恤
 超夢款上衣
 小次郎2020電影套裝
+食夢夢上衣
 Pokémon Shirt - 霸王花
 Pokémon Shirt - 大舌頭
 Pokémon Shirt - 鯉魚王
@@ -798,9 +834,13 @@ Pokémon Shirts 迷唇娃
 Safari Zone T恤 2020
 Safari Zone T恤 2020
 Samsung Galaxy紮染T恤
+異色夢幻T恤
 花岩怪T恤
 伽勒爾上衣
 大吾西裝上衣
+水箭龜外套
+噴火龍外套
+妙蛙花外套
 運動連帽上衣
 閃電連帽上衣
 王冠雪原 探險服
@@ -836,6 +876,7 @@ N風運動鞋
 等級49 靴子
 慢跑鞋
 信使鳥短靴
+小菊兒運動鞋
 不穿鞋子
 釣魚者長靴
 火焰鞋
@@ -879,7 +920,8 @@ N風運動鞋
 姿勢
 大吾
 姿勢
-冬季
+Pokémon GO Tour：關都地區
+Shiny Mew Shirt
 鞋子
 新品上架！
 膚色
@@ -1335,8 +1377,8 @@ N0
 捉到 {0} 隻未知圖騰
 未知圖騰
 N0
-獲得 {0} 個Wayfarer Agreement
-獲得1個Wayfarer Agreement
+Earn {0} Wayfarer Agreements
+Earn a Wayfarer Agreement
 Wayfarer
 2018年9月1日 橫須賀久里濱花國
 Pokémon GO Safari Zone
@@ -1376,12 +1418,740 @@ https://pokemongo.nianticlabs.com/support/banned/en
 帳號永久停權系統偵測到此帳號曾多次違反服務條款，故已將此帳號永久停權。
 詳細資訊
 <size=36>確定要將這 {0} 隻寶可夢傳送給博士嗎？</size>傳送開始後將無法取消。
+<size=36><b>目前選擇的寶可夢中，只有 {0} 隻能傳送給博士。</b></size>無法傳送的寶可夢將會留在盒子裡。寶可夢傳送給博士後將無法取消。
+<size=36><b>目前選擇的寶可夢中，只有 {0} 隻能傳送給博士。</b></size>無法傳送的寶可夢將會留在盒子裡。寶可夢傳送給博士後將無法取消。
+<size=36><b>Only 1 of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
 選擇寶可夢
 收到博士送來的糖果
+{0} 隻特殊寶可夢
+你選擇的寶可夢裡包含了傳說的寶可夢、幻之寶可夢或是其他活動寶可夢！
+{0} 隻傳說的寶可夢／幻之寶可夢
+你選擇的寶可夢裡未包含傳說的寶可夢、幻之寶可夢或是其他活動寶可夢。
+確定要將這些寶可夢傳送給博士嗎？
+你所選擇的寶可夢：
 {0} 使出了{1}！
 GO對戰日
+GO對戰日：暴雪王
+GO對戰日：凱西
+GO對戰日：阿勃梭魯
+GO對戰日：敏捷蟲
+GO對戰日：堅盾劍怪
+GO對戰日：化石翼龍
+GO對戰日：波士可多拉
+GO對戰日：長尾怪手
+GO對戰日：胡地
+GO對戰日：保母曼波
+GO對戰日：七夕青鳥
+GO對戰日：冰雪龍
+GO對戰日：雙尾怪手
+GO對戰日：敗露球菇
+GO對戰日：電龍
+GO對戰日：太古羽蟲
+GO對戰日：阿柏怪
+GO對戰日：風速狗
+GO對戰日：阿爾宙斯
+GO對戰日：始祖小鳥
+GO對戰日：始祖大鳥
+GO對戰日：阿利多斯
+GO對戰日：太古盔甲
+GO對戰日：芳香精
+GO對戰日：可可多拉
+GO對戰日：急凍鳥
+GO對戰日：差不多娃娃
+GO對戰日：冰雪巨龍
+GO對戰日：冰岩怪
+GO對戰日：牙牙
+GO對戰日：亞克諾姆
+GO對戰日：瑪力露麗
+GO對戰日：露力麗
+GO對戰日：寶貝龍
+GO對戰日：天秤偶
+GO對戰日：詛咒娃娃
+GO對戰日：龜足巨鎧
+GO對戰日：泥泥鰍
+GO對戰日：野蠻鱸魚
+GO對戰日：護城龍
+GO對戰日：月桂葉
+GO對戰日：凍原熊
+GO對戰日：狩獵鳳蝶
+GO對戰日：大針蜂
+GO對戰日：大宇怪
+GO對戰日：鐵啞鈴
+GO對戰日：美麗花
+GO對戰日：喇叭芽
+GO對戰日：冰寶
+GO對戰日：大尾狸
+GO對戰日：大牙狸
+GO對戰日：龜腳腳
+GO對戰日：劈斬司令
+GO對戰日：水箭龜
+GO對戰日：火焰雞
+GO對戰日：幸福蛋
+GO對戰日：斑斑馬
+GO對戰日：地幔岩
+GO對戰日：盆才怪
+GO對戰日：爆炸頭水牛
+GO對戰日：長尾火狐
+GO對戰日：勇士雄鷹
+GO對戰日：斗笠菇
+GO對戰日：青銅鐘
+GO對戰日：銅鏡怪
+GO對戰日：含羞苞
+GO對戰日：泳圈鼬
+GO對戰日：妙蛙種子
+GO對戰日：捲捲耳
+GO對戰日：掘掘兔
+GO對戰日：結草兒
+GO對戰日：巴大蝶
+GO對戰日：刺球仙人掌
+GO對戰日：夢歌仙人掌
+GO對戰日：噴火駝
+GO對戰日：小碎鑽
+GO對戰日：尖牙籠
+GO對戰日：肋骨海龜
+GO對戰日：利牙魚
+GO對戰日：盾甲繭
+GO對戰日：飄浮泡泡
+GO對戰日：綠毛蟲
+GO對戰日：時拉比
+GO對戰日：水晶燈火靈
+GO對戰日：吉利蛋
+GO對戰日：噴火龍
+GO對戰日：小火龍
+GO對戰日：火恐龍
+GO對戰日：聒噪鳥
+GO對戰日：櫻花兒
+GO對戰日：櫻花寶
+GO對戰日：布里卡隆
+GO對戰日：哈力栗
+GO對戰日：菊草葉
+GO對戰日：小火焰猴
+GO對戰日：風鈴鈴
+GO對戰日：燈籠魚
+GO對戰日：鈴鐺響
+GO對戰日：奇諾栗鼠
+GO對戰日：珍珠貝
+GO對戰日：鐵臂槍蝦
+GO對戰日：鋼炮臂蝦
+GO對戰日：念力土偶
+GO對戰日：皮可西
+GO對戰日：皮皮
+GO對戰日：皮寶寶
+GO對戰日：刺甲貝
+GO對戰日：勾帕路翁
+GO對戰日：死神棺
+GO對戰日：三蜜蜂
+GO對戰日：力壯雞
+GO對戰日：修建老匠
+GO對戰日：龍蝦小兵
+GO對戰日：太陽珊瑚
+GO對戰日：木棉球
+GO對戰日：搖籃百合
+GO對戰日：頭蓋龍
+GO對戰日：鐵螯龍蝦
+GO對戰日：克雷色利亞
+GO對戰日：不良蛙
+GO對戰日：叉字蝠
+GO對戰日：藍鱷
+GO對戰日：岩殿居蟹
+GO對戰日：幾何雪花
+GO對戰日：噴嚏熊
+GO對戰日：卡拉卡拉
+GO對戰日：火球鼠
+GO對戰日：達克萊伊
+GO對戰日：達摩狒狒
+GO對戰日：火紅不倒翁
+GO對戰日：咚咚鼠
+GO對戰日：四季鹿
+GO對戰日：單首龍
+GO對戰日：優雅貓
+GO對戰日：信使鳥
+GO對戰日：妖火紅狐
+GO對戰日：代歐奇希斯
+GO對戰日：白海獅
+GO對戰日：雙刃丸
+GO對戰日：帝牙盧卡
+GO對戰日：蒂安希
+GO對戰日：掘地兔
+GO對戰日：地鼠
+GO對戰日：百變怪
+GO對戰日：嘟嘟利
+GO對戰日：嘟嘟
+GO對戰日：頓甲
+GO對戰日：雙劍鞘
+GO對戰日：毒藻龍
+GO對戰日：哈克龍
+GO對戰日：快龍
+GO對戰日：龍王蠍
+GO對戰日：迷你龍
+GO對戰日：隨風球
+GO對戰日：飄飄球
+GO對戰日：螺釘地鼠
+GO對戰日：催眠貘
+GO對戰日：赤面龍
+GO對戰日：鴨寶寶
+GO對戰日：三地鼠
+GO對戰日：土龍弟弟
+GO對戰日：雙卵細胞球
+GO對戰日：鐵蟻
+GO對戰日：彷徨夜靈
+GO對戰日：黑夜魔靈
+GO對戰日：夜巡靈
+GO對戰日：毒粉蛾
+GO對戰日：石居蟹
+GO對戰日：麻麻鰻
+GO對戰日：麻麻鰻魚王
+GO對戰日：伊布
+GO對戰日：阿柏蛇
+GO對戰日：電擊獸
+GO對戰日：電擊魔獸
+GO對戰日：落雷獸
+GO對戰日：頑皮雷彈
+GO對戰日：電擊怪
+GO對戰日：小灰怪
+GO對戰日：炎武王
+GO對戰日：電飛鼠
+GO對戰日：帝王拿波
+GO對戰日：炎帝
+GO對戰日：騎士蝸牛
+GO對戰日：太陽伊布
+GO對戰日：妙喵
+GO對戰日：龍頭地鼠
+GO對戰日：蛋蛋
+GO對戰日：椰蛋樹
+GO對戰日：爆音怪
+GO對戰日：大蔥鴨
+GO對戰日：大嘴雀
+GO對戰日：醜醜魚
+GO對戰日：火狐狸
+GO對戰日：大力鱷
+GO對戰日：種子鐵球
+GO對戰日：堅果啞鈴
+GO對戰日：螢光魚
+GO對戰日：茸茸羊
+GO對戰日：花蓓蓓
+GO對戰日：火伊布
+GO對戰日：火箭雀
+GO對戰日：小箭雀
+GO對戰日：浮潛鼬
+GO對戰日：花葉蒂
+GO對戰日：花潔夫人
+GO對戰日：沙漠蜻蜓
+GO對戰日：哎呀球菇
+GO對戰日：佛烈托斯
+GO對戰日：斧牙龍
+GO對戰日：輕飄飄
+GO對戰日：呱呱泡蛙
+GO對戰日：呱頭蛙
+GO對戰日：雪妖女
+GO對戰日：多麗米亞
+GO對戰日：大尾立
+GO對戰日：尖牙陸鯊
+GO對戰日：艾路雷朵
+GO對戰日：電蜘蛛
+GO對戰日：灰塵山
+GO對戰日：烈咬陸鯊
+GO對戰日：沙奈朵
+GO對戰日：鬼斯
+GO對戰日：海兔獸
+GO對戰日：蓋諾賽克特
+GO對戰日：耿鬼
+GO對戰日：小拳石
+GO對戰日：圓陸鯊
+GO對戰日：龐岩怪
+GO對戰日：麒麟奇
+GO對戰日：騎拉帝納
+GO對戰日：冰伊布
+GO對戰日：冰鬼護
+GO對戰日：魅力喵
+GO對戰日：天蠍
+GO對戰日：天蠍王
+GO對戰日：臭臭花
+GO對戰日：坐騎山羊
+GO對戰日：大嘴蝠
+GO對戰日：角金魚
+GO對戰日：哥達鴨
+GO對戰日：隆隆岩
+GO對戰日：泥偶小人
+GO對戰日：泥偶巨人
+GO對戰日：黏美龍
+GO對戰日：黏黏寶
+GO對戰日：櫻花魚
+GO對戰日：哥德寶寶
+GO對戰日：哥德小姐
+GO對戰日：哥德小童
+GO對戰日：南瓜怪人
+GO對戰日：布魯皇
+GO對戰日：隆隆石
+GO對戰日：甲賀忍蛙
+GO對戰日：臭泥
+GO對戰日：樹林龜
+GO對戰日：固拉多
+GO對戰日：森林蜥蜴
+GO對戰日：卡蒂狗
+GO對戰日：噗噗豬
+GO對戰日：溶食獸
+GO對戰日：鐵骨土人
+GO對戰日：暴鯉龍
+GO對戰日：小福蛋
+GO對戰日：鐵掌力士
+GO對戰日：鬼斯通
+GO對戰日：摔角鷹人
+GO對戰日：雙斧戰龍
+GO對戰日：熔蟻獸
+GO對戰日：席多藍恩
+GO對戰日：光電傘蜥
+GO對戰日：傘電蜥
+GO對戰日：赫拉克羅斯
+GO對戰日：哈約克
+GO對戰日：沙河馬
+GO對戰日：河馬獸
+GO對戰日：快拳郎
+GO對戰日：飛腿郎
+GO對戰日：戰舞郎
+GO對戰日：鳳王
+GO對戰日：烏鴉頭頭
+GO對戰日：獨劍鞘
+GO對戰日：胡帕
+GO對戰日：咕咕
+GO對戰日：毽子草
+GO對戰日：墨海馬
+GO對戰日：黑魯加
+GO對戰日：戴魯比
+GO對戰日：獵斑魚
+GO對戰日：三首惡龍
+GO對戰日：引夢貘人
+GO對戰日：寶寶丁
+GO對戰日：甜甜螢
+GO對戰日：烈焰猴
+GO對戰日：好啦魷
+GO對戰日：妙蛙草
+GO對戰日：胖嘟嘟
+GO對戰日：胖丁
+GO對戰日：基拉祈
+GO對戰日：雷伊布
+GO對戰日：電電蟲
+GO對戰日：毽子棉
+GO對戰日：迷唇姐
+GO對戰日：化石盔
+GO對戰日：鐮刀盔
+GO對戰日：勇基拉
+GO對戰日：鐵殼蛹
+GO對戰日：袋獸
+GO對戰日：蓋蓋蟲
+GO對戰日：變隱龍
+GO對戰日：凱路迪歐
+GO對戰日：刺龍王
+GO對戰日：巨鉗蟹
+GO對戰日：奇魯莉安
+GO對戰日：齒輪組
+GO對戰日：鑰圈兒
+GO對戰日：齒輪兒
+GO對戰日：齒輪怪
+GO對戰日：瓦斯彈
+GO對戰日：大鉗蟹
+GO對戰日：圓法師
+GO對戰日：音箱蟀
+GO對戰日：混混鱷
+GO對戰日：流氓鱷
+GO對戰日：蓋歐卡
+GO對戰日：酋雷姆
+GO對戰日：可多拉
+GO對戰日：燈火幽靈
+GO對戰日：土地雲
+GO對戰日：電燈怪
+GO對戰日：拉普拉斯
+GO對戰日：燃燒蟲
+GO對戰日：幼基拉斯
+GO對戰日：拉帝亞斯
+GO對戰日：拉帝歐斯
+GO對戰日：葉伊布
+GO對戰日：保母蟲
+GO對戰日：安瓢蟲
+GO對戰日：芭瓢蟲
+GO對戰日：大舌舔
+GO對戰日：大舌頭
+GO對戰日：酷豹
+GO對戰日：觸手百合
+GO對戰日：裙兒小姐
+GO對戰日：小約克
+GO對戰日：直衝熊
+GO對戰日：小獅獅
+GO對戰日：燭光靈
+GO對戰日：蓮帽小童
+GO對戰日：長耳兔
+GO對戰日：蓮葉童子
+GO對戰日：吼爆彈
+GO對戰日：路卡利歐
+GO對戰日：樂天河童
+GO對戰日：洛奇亞
+GO對戰日：霓虹魚
+GO對戰日：月石
+GO對戰日：愛心魚
+GO對戰日：勒克貓
+GO對戰日：倫琴貓
+GO對戰日：怪力
+GO對戰日：豪力
+GO對戰日：腕力
+GO對戰日：鴨嘴寶寶
+GO對戰日：熔岩蝸牛
+GO對戰日：鯉魚王
+GO對戰日：鴨嘴火獸
+GO對戰日：鴨嘴炎獸
+GO對戰日：小磁怪
+GO對戰日：三合一磁怪
+GO對戰日：自爆磁怪
+GO對戰日：幕下力士
+GO對戰日：烏賊王
+GO對戰日：象牙豬
+GO對戰日：瑪納霏
+GO對戰日：禿鷹娜
+GO對戰日：雷電獸
+GO對戰日：猴怪
+GO對戰日：巨翅飛魚
+GO對戰日：小球飛魚
+GO對戰日：沙鈴仙人掌
+GO對戰日：咩利羊
 GO對戰日：瑪力露
+GO對戰日：嘎啦嘎啦
+GO對戰日：沼躍魚
+GO對戰日：雨翅蛾
+GO對戰日：大嘴娃
+GO對戰日：恰雷姆
+GO對戰日：瑪沙那
+GO對戰日：大竺葵
+GO對戰日：美洛耶塔
+GO對戰日：超能妙喵
+GO對戰日：喵喵
+GO對戰日：艾姆利多
+GO對戰日：巨金怪
+GO對戰日：金屬怪
+GO對戰日：鐵甲蛹
+GO對戰日：夢幻
+GO對戰日：超夢
+GO對戰日：功夫鼬
+GO對戰日：師父鼬
+GO對戰日：大狼犬
+GO對戰日：美納斯
+GO對戰日：大奶罐
+GO對戰日：魔尼尼
+GO對戰日：泡沫栗鼠
+GO對戰日：負電拍拍
+GO對戰日：夢妖
+GO對戰日：夢妖魔
+GO對戰日：火焰鳥
+GO對戰日：猛火猴
+GO對戰日：紳士蛾
+GO對戰日：魔牆人偶
+GO對戰日：水躍魚
+GO對戰日：臭臭泥
+GO對戰日：小卡比獸
+GO對戰日：食夢夢
+GO對戰日：黑暗鴉
+GO對戰日：夢夢蝕
+GO對戰日：天然雀
+GO對戰日：尼多王
+GO對戰日：尼多后
+GO對戰日：尼多蘭
+GO對戰日：尼多朗
+GO對戰日：尼多娜
+GO對戰日：尼多力諾
+GO對戰日：土居忍士
+GO對戰日：九尾
+GO對戰日：鐵面忍者
+GO對戰日：貓頭夜鷹
+GO對戰日：嗡蝠
+GO對戰日：音波龍
+GO對戰日：朝北鼻
+GO對戰日：呆火駝
+GO對戰日：長鼻葉
+GO對戰日：章魚桶
+GO對戰日：走路草
+GO對戰日：菊石獸
+GO對戰日：多刺菊石獸
+GO對戰日：大岩蛇
+GO對戰日：水水獺
+GO對戰日：帕奇利茲
+GO對戰日：帕路奇亞
+GO對戰日：藍蟾蜍
+GO對戰日：頑皮熊貓
+GO對戰日：流氓熊貓
+GO對戰日：冷水猴
+GO對戰日：花椰猴
+GO對戰日：爆香猴
+GO對戰日：派拉斯
+GO對戰日：派拉斯特
+GO對戰日：探探鼠
+GO對戰日：駒刀小兵
+GO對戰日：大嘴鷗
+GO對戰日：貓老大
+GO對戰日：百合根娃娃
+GO對戰日：小小象
+GO對戰日：小木靈
+GO對戰日：霏歐納
+GO對戰日：皮丘
+GO對戰日：大比鳥
+GO對戰日：比比鳥
 GO對戰日：波波
+GO對戰日：豆豆鴿
+GO對戰日：炒炒豬
+GO對戰日：皮卡丘
+GO對戰日：長毛豬
+GO對戰日：榛果球
+GO對戰日：凱羅斯
+GO對戰日：波加曼
+GO對戰日：正電拍拍
+GO對戰日：蚊香蛙皇
+GO對戰日：蚊香蝌蚪
+GO對戰日：蚊香君
+GO對戰日：蚊香泳士
+GO對戰日：小火馬
+GO對戰日：土狼犬
+GO對戰日：多邊獸
+GO對戰日：多邊獸Ｚ
+GO對戰日：多邊獸Ⅱ
+GO對戰日：火爆猴
+GO對戰日：波皇子
+GO對戰日：大朝北鼻
+GO對戰日：可達鴨
+GO對戰日：南瓜精
+GO對戰日：沙基拉斯
+GO對戰日：扒手貓
+GO對戰日：東施喵
+GO對戰日：火炎獅
+GO對戰日：沼王
+GO對戰日：火岩鼠
+GO對戰日：胖胖哈力
+GO對戰日：千針魚
+GO對戰日：雷丘
+GO對戰日：雷公
+GO對戰日：拉魯拉絲
+GO對戰日：戰槌龍
+GO對戰日：烈焰馬
+GO對戰日：拉達
+GO對戰日：小拉達
+GO對戰日：烈空坐
+GO對戰日：雷吉艾斯
+GO對戰日：雷吉奇卡斯
+GO對戰日：雷吉洛克
+GO對戰日：雷吉斯奇魯
+GO對戰日：古空棘魚
+GO對戰日：鐵炮魚
+GO對戰日：萊希拉姆
+GO對戰日：人造細胞卵
+GO對戰日：鑽角犀獸
+GO對戰日：獨角犀牛
+GO對戰日：超甲狂犀
+GO對戰日：利歐路
+GO對戰日：石丸子
+GO對戰日：毒薔薇
+GO對戰日：羅絲雷朵
+GO對戰日：洛托姆
+GO對戰日：毛頭小鷹
+GO對戰日：勾魂眼
+GO對戰日：暴飛龍
+GO對戰日：大劍鬼
+GO對戰日：黑眼鱷
+GO對戰日：穿山鼠
+GO對戰日：穿山王
+GO對戰日：打擊鬼
+GO對戰日：萌芽鹿
+GO對戰日：粉蝶蟲
+GO對戰日：蜥蜴王
+GO對戰日：巨鉗螳螂
+GO對戰日：蜈蚣王
+GO對戰日：頭巾混混
+GO對戰日：滑滑小子
+GO對戰日：飛天螳螂
+GO對戰日：海刺龍
+GO對戰日：金魚王
+GO對戰日：海魔獅
+GO對戰日：橡實果
+GO對戰日：小海獅
+GO對戰日：蟾蜍王
+GO對戰日：尾立
+GO對戰日：君主蛇
+GO對戰日：青藤蛇
+GO對戰日：飯匙蛇
+GO對戰日：蟲寶包
+GO對戰日：巨牙鯊
+GO對戰日：謝米
+GO對戰日：脫殼忍者
+GO對戰日：甲殼龍
+GO對戰日：大舌貝
+GO對戰日：無殼海兔
+GO對戰日：小嘴蝸
+GO對戰日：盾甲龍
+GO對戰日：狡猾天狗
+GO對戰日：小貓怪
+GO對戰日：蘑蘑菇
+GO對戰日：壺壺
+GO對戰日：怨影娃娃
+GO對戰日：象徵鳥
+GO對戰日：甲殼繭
+GO對戰日：冷水猿
+GO對戰日：花椰猿
+GO對戰日：爆香猿
+GO對戰日：盔甲鳥
+GO對戰日：坐騎小羊
+GO對戰日：毽子花
+GO對戰日：向尾喵
+GO對戰日：鉗尾蠍
+GO對戰日：垃垃藻
+GO對戰日：坦克臭鼬
+GO對戰日：請假王
+GO對戰日：懶人獺
+GO對戰日：黏美兒
+GO對戰日：呆殼獸
+GO對戰日：呆呆王
+GO對戰日：呆呆獸
+GO對戰日：熔岩蟲
+GO對戰日：胖甜妮
+GO對戰日：圖圖犬
+GO對戰日：迷唇娃
+GO對戰日：狃拉
+GO對戰日：藤藤蛇
+GO對戰日：卡比獸
+GO對戰日：雪童子
+GO對戰日：雪笠怪
+GO對戰日：布魯
+GO對戰日：單卵細胞球
+GO對戰日：太陽岩
+GO對戰日：烈雀
+GO對戰日：粉蝶蛹
+GO對戰日：海豹球
+GO對戰日：圓絲蛛
+GO對戰日：晃晃斑
+GO對戰日：花岩怪
+GO對戰日：跳跳豬
+GO對戰日：粉香香
+GO對戰日：傑尼龜
+GO對戰日：驚角鹿
+GO對戰日：姆克鷹
+GO對戰日：姆克鳥
+GO對戰日：姆克兒
+GO對戰日：寶石海星
+GO對戰日：海星星
+GO對戰日：大鋼蛇
+GO對戰日：長毛狗
+GO對戰日：泥巴魚
+GO對戰日：臭鼬噗
+GO對戰日：樹才怪
+GO對戰日：水君
+GO對戰日：向日花怪
+GO對戰日：向日種子
+GO對戰日：溜溜糖球
+GO對戰日：青綿鳥
+GO對戰日：寶包繭
+GO對戰日：吞食獸
+GO對戰日：巨沼怪
+GO對戰日：舞天鵝
+GO對戰日：大王燕
+GO對戰日：小山豬
+GO對戰日：綿綿泡芙
+GO對戰日：心蝙蝠
+GO對戰日：仙子伊布
+GO對戰日：傲骨燕
+GO對戰日：烈箭鷹
+GO對戰日：蔓藤怪
+GO對戰日：巨蔓藤
+GO對戰日：肯泰羅
+GO對戰日：熊寶寶
+GO對戰日：瑪瑙水母
+GO對戰日：毒刺水母
+GO對戰日：暖暖豬
+GO對戰日：代拉基翁
+GO對戰日：投摔鬼
+GO對戰日：雷電雲
+GO對戰日：搬運小匠
+GO對戰日：原蓋海龜
+GO對戰日：波克基斯
+GO對戰日：波克比
+GO對戰日：波克基古
+GO對戰日：火稚雞
+GO對戰日：煤炭龜
+GO對戰日：龍捲雲
+GO對戰日：土台龜
+GO對戰日：小鋸鱷
+GO對戰日：毒骷蛙
+GO對戰日：咕咕鴿
+GO對戰日：大顎蟻
+GO對戰日：木守宮
+GO對戰日：朽木妖
+GO對戰日：熱帶龍
+GO對戰日：破破袋
+GO對戰日：草苗龜
+GO對戰日：圓蝌蚪
+GO對戰日：麻麻小魚
+GO對戰日：火爆獸
+GO對戰日：班基拉斯
+GO對戰日：怪顎龍
+GO對戰日：無畏小子
+GO對戰日：寶寶暴龍
+GO對戰日：月亮伊布
+GO對戰日：高傲雉雞
+GO對戰日：未知圖騰
+GO對戰日：圈圈熊
+GO對戰日：由克希
+GO對戰日：多多冰
+GO對戰日：迷你冰
+GO對戰日：雙倍多多冰
+GO對戰日：水伊布
+GO對戰日：百足蜈蚣
+GO對戰日：摩魯蛾
+GO對戰日：毛球
+GO對戰日：妙蛙花
+GO對戰日：蜂女王
+GO對戰日：超音波幼蟲
+GO對戰日：比克提尼
+GO對戰日：大食花
+GO對戰日：過動猿
+GO對戰日：霸王花
+GO對戰日：畢力吉翁
+GO對戰日：彩粉蝶
+GO對戰日：電螢蟲
+GO對戰日：波爾凱尼恩
+GO對戰日：火神蛾
+GO對戰日：霹靂電球
+GO對戰日：禿鷹丫頭
+GO對戰日：六尾
+GO對戰日：吼吼鯨
+GO對戰日：吼鯨王
+GO對戰日：帝牙海獅
+GO對戰日：卡咪龜
+GO對戰日：步哨鼠
+GO對戰日：瑪狃拉
+GO對戰日：獨角蟲
+GO對戰日：口呆花
+GO對戰日：雙彈瓦斯
+GO對戰日：風妖精
+GO對戰日：車輪毬
+GO對戰日：鯰魚王
+GO對戰日：咕妞妞
+GO對戰日：胖可丁
+GO對戰日：長翅鷗
+GO對戰日：果然翁
+GO對戰日：滾滾蝙蝠
+GO對戰日：烏波
+GO對戰日：結草貴婦
+GO對戰日：刺尾蟲
+GO對戰日：小果然
+GO對戰日：天然鳥
+GO對戰日：哲爾尼亞斯
+GO對戰日：哭哭面具
+GO對戰日：蜻蜻蜓
+GO對戰日：遠古巨蜓
+GO對戰日：伊裴爾塔爾
+GO對戰日：貓鼬斬
+GO對戰日：閃電鳥
+GO對戰日：雷電斑馬
+GO對戰日：捷克羅姆
+GO對戰日：蛇紋熊
+GO對戰日：索羅亞克
+GO對戰日：索羅亞
+GO對戰日：超音蝠
+GO對戰日：雙首暴龍
+GO對戰日：基格爾德
 臨近對戰
 GO對戰聯盟
 本季
@@ -1402,6 +2172,7 @@ GO對戰聯盟
 道館對戰＆團體戰
 GO對戰夜
 沒有可以對戰的寶可夢
+和 {0} 個GO Tour挑戰者對戰
 已在同行隊伍中
 選擇新的寶可夢吧！
 參加對戰！
@@ -1482,6 +2253,7 @@ LOADING...
 {0}！就決定是你了！
 一起玩
 你的夥伴為你找到了一個禮物！
+選擇一隻寶可夢做為你的夥伴，當你們的感情越好，牠就會帶禮物來給你。
 提升友誼等級後，將可獲得來自夥伴的謝禮！點擊心型圖示，確認細節。
 和寶可夢建立深厚的感情後，牠就更能在對戰中發揮實力。
 正港好夥伴獎章
@@ -1493,6 +2265,7 @@ CP加成
 在地圖上一起冒險
 尋找位置
 尋找紀念品
+和夥伴一起冒險
 夥伴的肚子還是很餓，沒辦法陪你一起走路
 確定不餵夥伴吃點心了嗎？
 目前沒有足夠的樹果，請去拜訪寶可補給站
@@ -1719,6 +2492,7 @@ CP加成
 正在使用中
 目前無法再次使用此道具，請稍後再試一次。
 一起來捕蟲！
+急速上昇：蟲屬性
 捕捉 {0} 隻蟲屬性的寶可夢
 捕捉 {0} 隻芭瓢蟲或圓絲蛛
 捕捉 {0} 隻刺尾蟲
@@ -1778,11 +2552,17 @@ Safari Zone禮盒
 你不能同時使用神秘盒子和薰香
 無法用特殊招式學習器來讓寶可夢忘記特殊招式「遷怒」
 無法登入嗎？
+陳舊的海圖
+陳舊的海圖 (1/4)
+陳舊的海圖 (2/4)
+陳舊的海圖 (3/4)
+陳舊的海圖 (4/4)
 捕捉寶可夢
 捕獲寶可夢時的糖果加倍
 捕獲寶可夢時的糖果增為3倍
 速成盃
 捕獲寶可夢時的星星沙子加倍
+捉到焦點寶可夢時可獲得的星星沙子加倍
 捕捉瑪力露時的星星沙子加倍
 捕捉波波時的星星沙子加倍
 捕獲寶可夢時的星星沙子增為3倍
@@ -1906,12 +2686,12 @@ Safari Zone禮盒
 為岩石屬性的寶可夢拍攝1張GO Snapshot照片
 為鋼屬性的寶可夢拍攝1張GO Snapshot照片
 為水屬性的寶可夢拍攝1張GO Snapshot照片
-稍後上傳
 變更貼圖
 變更代碼
 確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
 變更自己的訓練家代碼
 無法對暗影寶可夢使用特殊招式學習器
+電力十足
 Pokémon GO Fest
 無法選擇版本，請稍後再試一次
 阿波美卡拉維
@@ -2188,6 +2968,7 @@ City Spotlight 2020 (1/1)
 <size=36>確定要更改暱稱嗎？</size>其他的訓練家會看到你的暱稱，而且暱稱可變更的次數有限。請好好考慮後再做決定。
 旋轉寶可補給站轉盤後，即可獲得收集AR Mapping資訊的課題。你隨時都可以從寶可補給站介紹畫面打開掃描畫面。
 收集AR資料
+活動主題收藏家挑戰
 巨大的探索：和一位訓練家成為朋友
 巨大的探索：和朋友交換1隻寶可夢
 巨大的探索：在訓練家對戰中贏過1位訓練家
@@ -2265,6 +3046,7 @@ GO火箭隊幹部
 你永遠無法打敗GO火箭隊。
 老大
 GO!
+GO Tour: Kanto Cup
 超級聯盟
 我想你也沒本事進得了GO火箭隊啊！
 你別因為進不了GO火箭隊就恨我啊！
@@ -2419,12 +3201,13 @@ GO火箭隊幹部
 社群日：小火龍
 社群日：電擊獸
 社群日
+社群日：小箭雀
 社群日：鬼斯
 社群日：腕力
 社群日：鯉魚王
 社群日：鴨嘴火獸
 社群日：多邊獸
-Community Day: Roselia
+社群日：毒薔薇
 社群日：橡實果
 社群日：獨角蟲
 完成1個AR Mapping課題
@@ -2448,10 +3231,11 @@ Community Day: Roselia
 旋轉寶可補給站轉盤時一定可以拿到1個只能使用1次的孵化器（每日限領1個）
 記得明天再回來看看喔
 每日課題
+急速上昇：惡屬性
 yyyy年 M月 d日
 d
 {0}日{1}小時
-十二月社群日入場券
+「燃燒吧！鴨嘴火獸！」入場券
 拒絕
 確定要刪除這個朋友申請嗎？
 刪除此朋友申請後，對方將再也無法傳送朋友申請給你
@@ -2479,6 +3263,8 @@ d
 3. 將「允許取用位置」設定為「永遠」
 4. 開啟「準確位置」設定
 未開放定位服務權限
+派出你的夥伴，打敗 {0} 個GO Tour挑戰者
+打敗 {0} 個GO Tour挑戰者
 領取獎勵！
 訓練家已指派 {0} 隻寶可夢
 要將寶可夢指派到道館，才可領取防禦獎勵
@@ -2503,7 +3289,7 @@ d
 Día de Muertos
 NO
 OK
-YES
+是
 停止和朋友分享最近捉到的寶可夢
 無法在朋友名單上確認彼此最近捕捉或孵化的寶可夢
 拜訪道館和寶可補給時，有機會收到附近贊助商提供的禮物和相關廣告訊息。關閉贊助商禮物功能後，附廣告訊息的禮物就不會出現在有提供贊助商禮物的地方。
@@ -2515,6 +3301,7 @@ Disable Gifts from Sponsors
 不能指派相同種類的寶可夢到道館
 不能將幻之寶可夢指派至道館
 不使用時時刻刻冒險
+急速上昇：龍屬性
 端午節
 全民找蛋大作戰：孵1顆蛋
 全民找蛋大作戰：孵 {0} 顆蛋
@@ -2529,6 +3316,7 @@ Disable Gifts from Sponsors
 哦？
 得到了1顆蛋！你真是太幸運了！
 可孵出的寶可夢
+列表上越下面的寶可夢越難孵出來，能孵出牠們代表你很幸運喔！
 走 {0} 公里來孵化這顆蛋！
 活動主題10公里蛋
 活動主題2公里蛋
@@ -2536,6 +3324,7 @@ Disable Gifts from Sponsors
 活動主題7公里蛋
 活動主題蛋
 全民找蛋大作戰
+急速上昇：電屬性
 內含厲害特殊招式學習器的社群日禮盒
 內含厲害一般招式學習器的社群日禮盒
 教 {0}
@@ -2669,7 +3458,7 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 設定暱稱時出現錯誤
 暱稱太長
 無法使用此功能
-已經開過這個禮物了
+You have already opened this Gift
 進入團體戰時出現錯誤
 抱歉，你指派到道館的寶可夢數量已達到上限。
 網路狀況不穩定，請稍後再試一次
@@ -2681,8 +3470,111 @@ GPS功能尚未開啟。玩Pokémon GO時，必須開啟GPS功能。
 捕捉到和超級進化寶可夢同屬性的寶可夢時，能獲得更多糖果
 讓勇基拉進化成胡地後，牠就能學會雙倍奉還
 讓茸茸羊進化成電龍，牠就能學會龍之波動
+Evolve Metang to get a Metagross that knows Meteor Mash
+額外獎勵活動
+我的打扮不錯吧？
+我的打扮不錯吧？
+<taunt>嗨！短褲超舒服的，你說是吧！
+什麼？你是怎麼辦到的？
+啥？你是怎麼辦到的？
+LenTao9
+GO Tour挑戰者
+下次一定會更順利！
+下次一定會更順利！
+這活動真是超級好玩！
+這活動真是超級好玩！
+<intimidate>唔……！我們要戰一場！
+哇，你真的好厲害喔！
+哇，你真的好厲害喔！
+oneslapguy
+GO Tour挑戰者
+等你抓到訣竅後，一定能贏！
+等你抓到訣竅後，一定能贏！
+你選的是紅版還是綠版呢？
+你選的是紅版還是綠版呢？
+<taunt>嘿！要瞧瞧我精采的寶可夢陣容嗎？
+我以為我會贏的說……
+我以為我會贏的說……
+DieCurryWurst
+GO Tour挑戰者
+真是太可惜了！要再戰一場嗎？
+真是太可惜了！要再戰一場嗎？
+你準備好要面對我的火屬性寶可夢了嗎？
+你準備好要面對我的火屬性寶可夢了嗎？
+<intimidate>我心愛的火屬性寶可夢，上吧！
+噢不！
+噢不！
+DieCurryWurst
+GO Tour挑戰者
+你別想太多，下次一定能贏！
+你別想太多，下次一定能贏！
+我問你喔，這套衣服會讓我看起來像隻寶可夢嗎？
+我問你喔，這套衣服會讓我看起來像隻寶可夢嗎？
+<taunt>既然我們的視線都對上了，那當然要派出我心愛的寶可夢戰一場！
+你怎麼捨得欺負我這些可愛的寶可夢！
+你怎麼捨得對我可愛的寶可夢下重手！
+Juanevoli
+GO Tour挑戰者
+繼續戰鬥，遲早有一天能獲勝！
+只要你繼續努力，遲早有一天能獲勝！
+你有聽說活動結束之後能領到一件很酷的T恤嗎？
+你有聽說活動結束之後能領到一件很酷的T恤嗎？
+<intimidate>噢！讓我好好看看你的夥伴寶可夢吧！
+輸得有夠難看！
+一敗塗地！
+Trainer yournameNPC05
+GO Tour挑戰者
+你一定可以的！
+我相信你下次一定能贏！
+來對戰吧！GO！
+來對戰吧！GO！
+<taunt>你的夥伴寶可夢真可愛！我們來對戰吧！
+你比我想像得還厲害！
+你比我想像得還厲害！
+CashmereFeline
+GO Tour挑戰者
+寶可夢訓練家永遠不會放棄！請你繼續努力！
+寶可夢訓練家永遠不會放棄！請你繼續努力！
+快啊、快啊，你趕快啊！！我想要對戰！
+快啊、快啊，你趕快啊！！我想要對戰！
+<intimidate>你是上天派來鍛鍊我的嗎！
+天啊，我都這麼努力了還是贏不了。
+天啊，我都這麼努力了還是贏不了。
+enjoyryde
+GO Tour挑戰者
+這場對戰不錯喔！
+這場對戰不錯喔！
+你看起來人很好的樣子，所以我覺得我一定不會輸給你！
+你看起來人很好，所以我覺得我一定不會輸給你！
+<taunt>來吧！我們戰一場！
+這場對戰真有趣！
+這場對戰真有趣！
+Trainer yournameNPC08
+GO Tour挑戰者
+噢，這感覺有夠糟！
+噢，這感覺有夠糟！
+唔……！我們來對戰吧！
+唔……！我們來對戰吧！
+<intimidate>嘿！你玩得還愉快嗎？一起來對戰吧！
+我輸了……怎麼會這樣！
+我輸了……怎麼會這樣！
+Telli997
+GO Tour挑戰者
+媽！你看到了嗎！我終於贏了啦！！
+媽！你看到了嗎！我終於贏了啦！！
+真正強大的訓練家不論做什麼都是很有型的！
+真正強大的訓練家不論做什麼都是很有型的！
+<taunt>……
+真的假的？！
+啥！？怎麼可能？！
+malibuleo
+GO Tour挑戰者
+噢，我倒是沒料到這個結果。
+噢，我倒是沒料到這個結果
+嘉年華
 成功登入 {0} 了！
 慶祝的季節
+傳說的季節
 神奧慶典
 卡通動畫週
 嫻熟技巧派：幽靈屬性
@@ -2745,6 +3637,7 @@ N的姿勢
 等級43 姿勢
 等級43 姿勢
 魔牆人偶的姿勢
+小菊兒
 閒著
 究極之月 包包
 等級41 太陽眼鏡
@@ -2769,6 +3662,7 @@ GO Fest T恤
 等級49 靴子
 究極之月 涼鞋
 Facebook
+急速上昇：妖精屬性
 時裝週
 我的最愛
 請使用已登錄電子郵件地址的Facebook帳號。
@@ -2787,6 +3681,7 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 +{0} XP
 活動主題田野調查
 感謝你來參加Pokémon GO的測試！我們很快就會再見面的！
+急速上昇：格鬥屬性
 展開
 關上
 禮物
@@ -2849,6 +3744,7 @@ VIP團體戰
 暗影
 異色
 交換
+急速上昇：火屬性
 等會再說
 好，打開照相機！
 試試看吧。你隨時都可以用AR鍵關閉這個功能。
@@ -2896,6 +3792,7 @@ Let's GO!
 商店中推出內含遠距團體戰入場券的禮盒
 飛行盃在GO對戰聯盟中登場
 飛行盃
+急速上昇：飛行屬性
 別種形態
 歌聲形態
 攻擊形態
@@ -3027,6 +3924,7 @@ ONLINE
 在GO對戰聯盟獲勝時的星星沙子加倍
 GO對戰聯盟系統維修中
 GO對戰聯盟的系統維修將在 {0} 分鐘後開始
+可在GO對戰聯盟獎勵中遇見焦點寶可夢
 可在GO對戰聯盟獎勵中遇見的瑪力露
 可在GO對戰聯盟獎勵中遇見的波波
 GO對戰聯盟增加3組對戰
@@ -3038,11 +3936,15 @@ GDC 2019: Catch {0} Pokemon
 雄性
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年12月19日10:00～2020年12月20日20:00參加遊戲裡的「踢、踢、踢踏踢……」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 伽勒爾魔牆人偶活動入場券
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年1月16日11:00～17:00領取腕力社群日「腕力衝衝衝」的特殊調查。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+一張可以獲得三月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年3月6日11:00～17:00時領取三月社群日特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+一張可以獲得三月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年3月6日11:00～17:00時領取三月社群日特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
+「最勇敢的小鳥」入場券
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+「燃燒吧！鴨嘴火獸！」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年2月7日11:00～17:00領取毒薔薇社群日的特殊調查「好一朵美麗的毒薔薇」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 「好一朵美麗的毒薔薇」入場券
-「腕力衝衝衝」入場券
+「最勇敢的小鳥」入場券
 「燃燒吧！鴨嘴火獸！」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年7月25日、26日的10:00～20:00參加遊戲裡的Pokémon GO Fest。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 Pokémon GO Fest 2020
@@ -3068,8 +3970,10 @@ OK
 GO
 前往商店
 HP
+傳送
 kg
 公里
+取消
 m
 More
 網路錯誤
@@ -3080,12 +3984,14 @@ OK
 寶可夢
 你的同行隊伍已經滿了
 結束
+General raid error.
 回報問題
 提交
 登出
 確定要登出嗎？
 HP
 TOTAL
+傳送
 VS
 XL
 XP
@@ -3100,6 +4006,7 @@ Yes
 一起來參加全球活動並來看看直播吧！ <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 一起來來看看直播吧： <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 歡迎加入Pokémon GO Fest！
+急速上昇：幽靈屬性
 祝你有愉快的一天！
 打開贊助商禮物！
 可打開2倍的禮物
@@ -3335,12 +4242,121 @@ Google
 要選擇綠版嗎？
 要選擇紅版嗎？
 在社群網站上分享照片時記得加上 #PokemonGOTour 標籤，我們會分享我們的最愛喔！
+Now: Cerulean City hour!
+Now: Fuchsia City hour!
 你選擇的是綠版
+Now: All event-featured Pokémon!
+Now: Pallet Town hour!
+Now: Pewter City hour!
+Now: Pokémon League hour!
 你選擇的是紅版
 在社群網站上分享照片時記得加上 #PokemonGOTour 標籤，我們會分享我們的最愛喔！
 一起來挑戰「Pokémon GO Tour：關都地區」吧！在時間截止前捕捉到下列寶可夢！
 歡迎來到Pokémon GO Tour：關都地區！
 歡迎來到Pokémon GO Tour：關都地區！
+Pokémon GO Tour：關都地區
+GO Tour 關都地區：華藍市
+在華藍市時間內捕捉寶可夢
+GO Tour 關都地區：進化
+讓來自關都地區的寶可夢進化
+GO Tour 關都地區：淺紅市
+在淺紅市時間內捕捉寶可夢
+GO Tour 關都地區：綠（薰香）
+使用薰香來吸引只會在緣版出現的寶可夢
+GO Tour 關都地區：綠（交換）
+和朋友交換，收集下列寶可夢
+GO Tour 關都地區：真新鎮
+在真新鎮時間內捕捉寶可夢
+GO Tour 關都地區：深灰市
+在深灰市時間內捕捉寶可夢
+GO Tour 關都地區：寶可夢聯盟
+在寶可夢聯盟時間內捕捉寶可夢
+GO Tour 關都地區：團體戰
+在團體戰中擊敗來自關都地區的寶可夢
+GO Tour 關都地區：紅（薰香）
+使用薰香來吸引只會在紅版出現的寶可夢
+GO Tour 關都地區：紅（交換）
+和朋友交換，收集下列寶可夢
+GO Tour 關都地區：研究
+完成關都特殊調查
+GO Tour 關都地區：一個訓練家的冒險旅程
+GO Tour 關都地區：一個訓練家的冒險旅程 (1/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (2/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (3/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (4/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (5/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (6/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (7/8)
+GO Tour 關都地區：一個訓練家的冒險旅程 (8/8)
+Hey there, %PLAYERNAME%! Check this out—I’ve been practicing.
+Hello there! Welcome to the world of Pokémon GO! My name is Willow. People call me the Pokémon Prof!
+This world is inhabited by creatures called Pokémon! Some people keep Pokémon as companions. Others have them do battle. Myself? I study Pokémon as a profession.
+Did that remind you of anyone? For many years, Trainers from Kanto have heard similar remarks before embarking on their journeys through the region.
+I have the honor of making them today because you’re about to head out on your own Kanto-inspired journey.
+But we can’t have you leaving unprepared! I’ve put together some supplies I think you’ll find useful.
+Berries, Potions, and Poké Balls. Looks like you’re all set!
+As you begin today’s adventure, try to imagine you’re stepping straight into the tall grass of Kanto.
+I have a feeling you’ll meet a Pokémon that will make a wonderful partner on your journey. Be sure to take some snapshots of the Pokémon you encounter along the way!
+On adventures, I find it’s helpful to document not only your findings but also your memories. And I’m sure you’ll make plenty of both!
+Now, in the words of a wise professor: Your very own Pokémon legend is about to unfold! A world of dreams and adventures with Pokémon awaits! Let's GO!
+How’s your journey going, %PLAYERNAME%? Oh! Found a partner Pokémon to join you, eh? Wonderful work.
+In the Kanto region, Trainers are often presented with three options when it comes to their first partner Pokémon.
+The first is Bulbasaur, the Seed Pokémon, #001 in the Pokédex. This Grass-type Pokémon has a plant seed on its back right from the day it’s born.
+Another option is Charmander, the Lizard Pokémon. It’s a Fire-type Pokémon, and it has a flame on its tail that shows the strength of its life force.
+Last—but certainly not least—is Squirtle, the Tiny Turtle Pokémon. After birth, this Water-type Pokémon's back swells and hardens into a shell.
+Each of these Pokémon have their strengths and weaknesses, so be sure to study up! For now, though, it’s time to get back to your adventure.
+I’d like you to spend some time with your buddy. The relationship between a Trainer and their Pokémon is of utmost importance!
+How about going on a walk together? I always enjoy exploring with my buddy!
+Wonderful work, Trainer! Glad to see you’re growing closer to your buddy. Keep it up, and you’ll become even closer in no time.
+When it comes to being a Trainer, people often talk about catching techniques or battle strategies, but I find that friendship is just as essential.
+Not only are the relationships you build with your Pokémon incredibly important, but so are the friendships you build with other Trainers.
+Your personal journeys and goals may vary, but at the end of the day, you’re all Trainers! You should do your best to connect with the other Trainers you meet on your travels.
+In that spirit, how about sending your friends some Gifts to brighten their day? I’m sure they’d love to hear from you!
+Welcome back, Trainer! Hope you enjoyed connecting with other Trainers. I see you were even able to trade a few Pokémon!
+Trading is a fabulous way to acquire Pokémon you might not have otherwise encountered.
+And not only do you get a new entry in your Pokédex, but you also get a new friend!
+You’ve already made great progress on your journey. I think it’s time to show off the skills you’ve learned along the way!
+How about showcasing your throwing expertise by catching some Pokémon? Don’t forget to make use of your Berries, too.
+I’m especially fond of Pinap Berries. They help you earn extra Candy for the Pokémon you’re catching—and they’re tasty to boot!
+I’m sure I had a stash of Pinap Berries here somewhere... Oh! Welcome back, %PLAYERNAME%! Guess my snack will have to wait.
+I’ve been checking up on your progress, and I have to say, I’m very impressed! It seems there’s no challenge you can’t overcome.
+As I’m sure you know, a well-rounded Trainer needs to have a great team of Pokémon to battle against other Trainers or even challenge Pokémon in raids.
+I think this is a great time to power up some of your Pokémon and bolster your team.
+While you focus on that, I’ll be looking into an interesting rumor I caught wind of.
+There have been reports of encounters with a Pokémon that’s able to transform into another Pokémon entirely. Fascinating stuff!
+I’ll be sure to share whatever I find when you return.
+Glad you’re back, Trainer. After looking into those reports, it certainly sounds like the work of Ditto, the Transformation Pokémon.
+Ditto rearranges its cell structure to transform itself into other shapes. What an incredible Pokémon!
+However, there seems to be something more to this situation.
+Could you help me with some research so we can find out what exactly is going on?
+I’ll continue my work here to see if I can uncover some more information that might help us.
+%PLAYERNAME%! Is it true?! You encountered a Shiny Ditto?! I’m stunned!
+You’ve had quite the journey, haven’t you? It’s been a joy to follow your progress, as always.
+Believe it or not, though, there’s still another mystery that needs solving.
+You see, after looking over the research you’ve conducted, I think we might be on the trail of the New Species Pokémon, Mew.
+We've documented Mew in the past, but something’s different this time—though I can’t yet say what that is.
+Whatever the case, I think it’s safe to say this is going to be a memorable adventure!
+In the meantime, keep an eye out for another research assignment. I have a feeling this is going to be an especially challenging endeavor, but I’m sure you’re up to it!
+For now, though, I think congratulations are in order. You did a tremendous job on today’s Kanto-themed journey!
+I hope you were able to make some special memories with your Pokémon and fellow Trainers. Thanks again for all your help and hard work!
+Now, let’s GO!
+Pokémon GO Tour：關都地區
+Pokémon GO Tour: Kanto (1/8)
+Pokémon GO Tour: Kanto (2/8)
+Pokémon GO Tour: Kanto (3/8)
+Pokémon GO Tour: Kanto (4/8)
+Pokémon GO Tour: Kanto (5/8)
+Pokémon GO Tour: Kanto (6/8)
+Pokémon GO Tour: Kanto (7/8)
+Pokémon GO Tour：關都地區 (8/8)
+GO Tour 關都地區：打敗所有挑戰者
+GO Tour 關都地區：打敗所有挑戰者 (1/4)
+GO Tour 關都地區：打敗所有挑戰者 (2/4)
+GO Tour 關都地區：打敗所有挑戰者 (3/4)
+GO Tour 關都地區：打敗所有挑戰者 (4/4)
+急速上昇：草屬性
+Great League Remix
+急速上昇：地面屬性
 冬季
 我一定會贏……畢竟這可是出人意料的突擊啊！
 我一定會贏……只要我出其不意！
@@ -3658,19 +4674,19 @@ XP
 同隊獎勵
 SPONSORED
 無法開始對戰
-菁英
-簡單
+ACE
+EASY
 活動
-限定
+EXCLUSIVE
 GO FEST
-超級球級
-困難
-大師球級
-普通
+GREAT
+HARD
+MASTER
+MEDIUM
 ???
-精靈球級
-特別
-高級球級
+NORMAL
+SPECIAL
+ULTRA
 旋轉道館的轉盤來取得道具。
 在我方道館點選「指派寶可夢」鍵，便可將自己的寶可夢指派去防禦道館。寶可夢被指派至道館後，頭上會出現心型的幹勁計量表。
 當寶可夢被指派至道館的時間越長、或是在道館對戰中落敗，寶可夢的幹勁將會隨之下降。若幹勁為0的寶可夢在對戰中落敗，牠將不會繼續防禦道館，而是會回到訓練家身邊。
@@ -3763,7 +4779,9 @@ h
 轉隊
 升級
 此商品已下架
+急速上昇：冰屬性
 薰香日
+Beldum attracted to Incense
 薰香可吸引利牙魚
 薰香可吸引咩利羊
 尾立將會被薰香吸引
@@ -3873,12 +4891,14 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 墨莓果
 又硬又堅固的鱗片，可讓特定寶可夢進化。
 龍之麟片
-只要擁有這張入場券，不論你在何處都能在當地時間2021年1月16日11:00～17:00挑戰特殊調查。
+只要擁有這張入場券，不論你身在何處，都能在當地時間3月6日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
-入場券將會自動啟用，不論你在何處都能在當地時間2021年1月16日活動時間內領取特殊調查。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年3月6日活動時間內領取特殊調查。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
+只要擁有這張入場券，不論你身在何處，都能在當地時間3月6日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年3月6日活動時間內領取特殊調查。
 入場券
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年2月7日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處，都能在當地時間2021年2月7日11:00～17:00領取特殊調查的課題。
@@ -4050,6 +5070,8 @@ VIP團體戰入場券
 {0} 級升級條件
 {0} 級換裝道具
 完成課題後，將能自動獲得獎勵！
+分享成就（{0}）
+選擇你要分享的成就
 捉到的寶可夢
 拜訪過的寶可補給站
 團體戰獲勝次數
@@ -4057,10 +5079,728 @@ VIP團體戰入場券
 開放新道具了
 升級！
 限定調查
-喵喵期間限定調查
+暴雪王限定調查
+凱西限定調查
+阿勃梭魯限定調查
+敏捷蟲限定調查
+堅盾劍怪限定調查
+化石翼龍限定調查
+波士可多拉限定調查
+長尾怪手限定調查
+胡地限定調查
+保母曼波限定調查
+七夕青鳥限定調查
+冰雪龍限定調查
+雙尾怪手限定調查
+敗露球菇限定調查
+電龍限定調查
+太古羽蟲限定調查
+阿柏怪限定調查
+風速狗限定調查
+阿爾宙斯限定調查
+始祖小鳥限定調查
+始祖大鳥限定調查
+阿利多斯限定調查
+太古盔甲限定調查
+芳香精限定調查
+可可多拉限定調查
+急凍鳥限定調查
+差不多娃娃限定調查
+冰雪巨龍限定調查
+冰岩怪限定調查
+牙牙限定調查
+亞克諾姆限定調查
+瑪力露麗限定調查
+露力麗限定調查
+寶貝龍限定調查
+天秤偶限定調查
+詛咒娃娃限定調查
+龜足巨鎧限定調查
+泥泥鰍限定調查
+野蠻鱸魚限定調查
+護城龍限定調查
+月桂葉限定調查
+凍原熊限定調查
+狩獵鳳蝶限定調查
+大針蜂限定調查
+大宇怪限定調查
+鐵啞鈴限定調查
+美麗花限定調查
+喇叭芽限定調查
+冰寶限定調查
+大尾狸限定調查
+大牙狸限定調查
+龜腳腳限定調查
+劈斬司令限定調查
+水箭龜限定調查
+火焰雞限定調查
+幸福蛋限定調查
+斑斑馬限定調查
+地幔岩限定調查
+盆才怪限定調查
+爆炸頭水牛限定調查
+長尾火狐限定調查
+勇士雄鷹限定調查
+斗笠菇限定調查
+青銅鐘限定調查
+銅鏡怪限定調查
+含羞苞限定調查
+泳圈鼬限定調查
+妙蛙種子限定調查
+捲捲耳限定調查
+掘掘兔限定調查
+結草兒限定調查
+巴大蝶限定調查
+刺球仙人掌限定調查
+夢歌仙人掌限定調查
+噴火駝限定調查
+小碎鑽限定調查
+尖牙籠限定調查
+肋骨海龜限定調查
+利牙魚限定調查
+盾甲繭限定調查
+飄浮泡泡限定調查
+綠毛蟲限定調查
+時拉比限定調查
+水晶燈火靈限定調查
+吉利蛋限定調查
+噴火龍限定調查
+小火龍限定調查
+火恐龍限定調查
+聒噪鳥限定調查
+櫻花兒限定調查
+櫻花寶限定調查
+布里卡隆限定調查
+哈力栗限定調查
+菊草葉限定調查
+小火焰猴限定調查
+風鈴鈴限定調查
+燈籠魚限定調查
+鈴鐺響限定調查
+奇諾栗鼠限定調查
+珍珠貝限定調查
+鐵臂槍蝦限定調查
+鋼炮臂蝦限定調查
+念力土偶限定調查
+皮可西限定調查
+皮皮限定調查
+皮寶寶限定調查
+刺甲貝限定調查
+勾帕路翁限定調查
+死神棺限定調查
+三蜜蜂限定調查
+力壯雞限定調查
+修建老匠限定調查
+龍蝦小兵限定調查
+太陽珊瑚限定調查
+木棉球限定調查
+搖籃百合限定調查
+頭蓋龍限定調查
+鐵螯龍蝦限定調查
+克雷色利亞限定調查
+不良蛙限定調查
+叉字蝠限定調查
+藍鱷限定調查
+岩殿居蟹限定調查
+幾何雪花限定調查
+噴嚏熊限定調查
+卡拉卡拉限定調查
+火球鼠限定調查
+達克萊伊限定調查
+達摩狒狒限定調查
+火紅不倒翁限定調查
+咚咚鼠限定調查
+四季鹿限定調查
+單首龍限定調查
+優雅貓限定調查
+信使鳥限定調查
+妖火紅狐限定調查
+代歐奇希斯限定調查
+白海獅限定調查
+雙刃丸限定調查
+帝牙盧卡限定調查
+蒂安希限定調查
+掘地兔限定調查
+地鼠限定調查
+百變怪限定調查
+嘟嘟利限定調查
+嘟嘟限定調查
+頓甲限定調查
+雙劍鞘限定調查
+毒藻龍限定調查
+哈克龍限定調查
+快龍限定調查
+龍王蠍限定調查
+迷你龍限定調查
+隨風球限定調查
+飄飄球限定調查
+螺釘地鼠限定調查
+催眠貘限定調查
+赤面龍限定調查
+鴨寶寶限定調查
+三地鼠限定調查
+土龍弟弟限定調查
+雙卵細胞球限定調查
+鐵蟻限定調查
+彷徨夜靈限定調查
+黑夜魔靈限定調查
+夜巡靈限定調查
+毒粉蛾限定調查
+石居蟹限定調查
+麻麻鰻限定調查
+麻麻鰻魚王限定調查
+伊布限定調查
+阿柏蛇限定調查
+電擊獸限定調查
+電擊魔獸限定調查
+落雷獸限定調查
+頑皮雷彈限定調查
+電擊怪限定調查
+小灰怪限定調查
+炎武王限定調查
+電飛鼠限定調查
+帝王拿波限定調查
+炎帝限定調查
+騎士蝸牛限定調查
+太陽伊布限定調查
+妙喵限定調查
+龍頭地鼠限定調查
+蛋蛋限定調查
+椰蛋樹限定調查
+爆音怪限定調查
+大蔥鴨限定調查
+大嘴雀限定調查
+醜醜魚限定調查
+火狐狸限定調查
+大力鱷限定調查
+種子鐵球限定調查
+堅果啞鈴限定調查
+螢光魚限定調查
+茸茸羊限定調查
+花蓓蓓限定調查
+火伊布限定調查
+火箭雀限定調查
+小箭雀限定調查
+浮潛鼬限定調查
+花葉蒂限定調查
+花潔夫人限定調查
+沙漠蜻蜓限定調查
+哎呀球菇限定調查
+佛烈托斯限定調查
+斧牙龍限定調查
+輕飄飄限定調查
+呱呱泡蛙限定調查
+呱頭蛙限定調查
+雪妖女限定調查
+多麗米亞限定調查
+大尾立限定調查
+尖牙陸鯊限定調查
+艾路雷朵限定調查
+電蜘蛛限定調查
+灰塵山限定調查
+烈咬陸鯊限定調查
+沙奈朵限定調查
+鬼斯限定調查
+海兔獸限定調查
+蓋諾賽克特限定調查
+耿鬼限定調查
+小拳石限定調查
+圓陸鯊限定調查
+龐岩怪限定調查
+麒麟奇限定調查
+騎拉帝納限定調查
+冰伊布限定調查
+冰鬼護限定調查
+魅力喵限定調查
+天蠍限定調查
+天蠍王限定調查
+臭臭花限定調查
+坐騎山羊限定調查
+大嘴蝠限定調查
+角金魚限定調查
+哥達鴨限定調查
+隆隆岩限定調查
+泥偶小人限定調查
+泥偶巨人限定調查
+黏美龍限定調查
+黏黏寶限定調查
+櫻花魚限定調查
+哥德寶寶限定調查
+哥德小姐限定調查
+哥德小童限定調查
+南瓜怪人限定調查
+布魯皇限定調查
+隆隆石限定調查
+甲賀忍蛙限定調查
+臭泥限定調查
+樹林龜限定調查
+固拉多限定調查
+森林蜥蜴限定調查
+卡蒂狗限定調查
+噗噗豬限定調查
+溶食獸限定調查
+鐵骨土人限定調查
+暴鯉龍限定調查
+小福蛋限定調查
+鐵掌力士限定調查
+鬼斯通限定調查
+摔角鷹人限定調查
+雙斧戰龍限定調查
+熔蟻獸限定調查
+席多藍恩限定調查
+光電傘蜥限定調查
+傘電蜥限定調查
+赫拉克羅斯限定調查
+哈約克限定調查
+沙河馬限定調查
+河馬獸限定調查
+快拳郎限定調查
+飛腿郎限定調查
+戰舞郎限定調查
+鳳王限定調查
+烏鴉頭頭限定調查
+獨劍鞘限定調查
+胡帕限定調查
+咕咕限定調查
+毽子草限定調查
+墨海馬限定調查
+黑魯加限定調查
+戴魯比限定調查
+獵斑魚限定調查
+三首惡龍限定調查
+引夢貘人限定調查
+寶寶丁限定調查
+甜甜螢限定調查
+烈焰猴限定調查
+好啦魷限定調查
+妙蛙草限定調查
+胖嘟嘟限定調查
+胖丁限定調查
+基拉祈限定調查
+雷伊布限定調查
+電電蟲限定調查
+毽子棉限定調查
+迷唇姐限定調查
+化石盔限定調查
+鐮刀盔限定調查
+勇基拉限定調查
+鐵殼蛹限定調查
+袋獸限定調查
+蓋蓋蟲限定調查
+變隱龍限定調查
+凱路迪歐限定調查
+刺龍王限定調查
+巨鉗蟹限定調查
+奇魯莉安限定調查
+齒輪組限定調查
+鑰圈兒限定調查
+齒輪兒限定調查
+齒輪怪限定調查
+瓦斯彈限定調查
+大鉗蟹限定調查
+圓法師限定調查
+音箱蟀限定調查
+混混鱷限定調查
+流氓鱷限定調查
+蓋歐卡限定調查
+酋雷姆限定調查
+可多拉限定調查
+燈火幽靈限定調查
+土地雲限定調查
+電燈怪限定調查
+拉普拉斯限定調查
+燃燒蟲限定調查
+幼基拉斯限定調查
+拉帝亞斯限定調查
+拉帝歐斯限定調查
+葉伊布限定調查
+保母蟲限定調查
+安瓢蟲限定調查
+芭瓢蟲限定調查
+大舌舔限定調查
+大舌頭限定調查
+酷豹限定調查
+觸手百合限定調查
+裙兒小姐限定調查
+小約克限定調查
+直衝熊限定調查
+小獅獅限定調查
+燭光靈限定調查
+蓮帽小童限定調查
+長耳兔限定調查
+蓮葉童子限定調查
+吼爆彈限定調查
+路卡利歐限定調查
+樂天河童限定調查
+洛奇亞限定調查
+霓虹魚限定調查
+月石限定調查
+愛心魚限定調查
+勒克貓限定調查
+倫琴貓限定調查
+怪力限定調查
+豪力限定調查
+腕力限定調查
+鴨嘴寶寶限定調查
+熔岩蝸牛限定調查
+鯉魚王限定調查
+鴨嘴火獸限定調查
+鴨嘴炎獸限定調查
+小磁怪限定調查
+三合一磁怪限定調查
+自爆磁怪限定調查
+幕下力士限定調查
+烏賊王限定調查
+象牙豬限定調查
+瑪納霏限定調查
+禿鷹娜限定調查
+雷電獸限定調查
+猴怪限定調查
+巨翅飛魚限定調查
+小球飛魚限定調查
+沙鈴仙人掌限定調查
+咩利羊限定調查
+瑪力露限定調查
+嘎啦嘎啦限定調查
+沼躍魚限定調查
+雨翅蛾限定調查
+大嘴娃限定調查
+恰雷姆限定調查
+瑪沙那限定調查
+大竺葵限定調查
+美洛耶塔限定調查
+超能妙喵限定調查
+喵喵限定調查
+艾姆利多限定調查
+巨金怪限定調查
+金屬怪限定調查
+鐵甲蛹限定調查
+夢幻限定調查
+超夢限定調查
+功夫鼬限定調查
+師父鼬限定調查
+大狼犬限定調查
+美納斯限定調查
+大奶罐限定調查
+魔尼尼限定調查
+泡沫栗鼠限定調查
+負電拍拍限定調查
+夢妖限定調查
+夢妖魔限定調查
+火焰鳥限定調查
+猛火猴限定調查
+紳士蛾限定調查
+魔牆人偶限定調查
+水躍魚限定調查
+臭臭泥限定調查
+小卡比獸限定調查
+食夢夢限定調查
+黑暗鴉限定調查
+夢夢蝕限定調查
+天然雀限定調查
+尼多王限定調查
+尼多后限定調查
 尼多蘭和尼多朗的期間限定調查
+尼多蘭限定調查
+尼多朗限定調查
+尼多娜限定調查
+尼多力諾限定調查
+土居忍士限定調查
+九尾限定調查
+鐵面忍者限定調查
+貓頭夜鷹限定調查
+嗡蝠限定調查
+音波龍限定調查
+朝北鼻限定調查
+呆火駝限定調查
+長鼻葉限定調查
+章魚桶限定調查
+走路草限定調查
+菊石獸限定調查
+多刺菊石獸限定調查
+大岩蛇限定調查
+水水獺限定調查
+帕奇利茲限定調查
+帕路奇亞限定調查
+藍蟾蜍限定調查
+頑皮熊貓限定調查
+流氓熊貓限定調查
+冷水猴限定調查
+花椰猴限定調查
+爆香猴限定調查
+派拉斯限定調查
+派拉斯特限定調查
+探探鼠限定調查
+駒刀小兵限定調查
+大嘴鷗限定調查
+貓老大限定調查
+百合根娃娃限定調查
+小小象限定調查
+小木靈限定調查
+霏歐納限定調查
+皮丘限定調查
+大比鳥限定調查
+比比鳥限定調查
+波波限定調查
+豆豆鴿限定調查
+炒炒豬限定調查
+皮卡丘限定調查
+長毛豬限定調查
+榛果球限定調查
+凱羅斯限定調查
+波加曼限定調查
+正電拍拍限定調查
+蚊香蛙皇限定調查
+蚊香蝌蚪限定調查
+蚊香君限定調查
+蚊香泳士限定調查
+小火馬限定調查
+土狼犬限定調查
+多邊獸限定調查
+多邊獸Ｚ限定調查
+多邊獸Ⅱ限定調查
+火爆猴限定調查
+波皇子限定調查
+大朝北鼻限定調查
+可達鴨限定調查
+南瓜精限定調查
+沙基拉斯限定調查
+扒手貓限定調查
+東施喵限定調查
+火炎獅限定調查
+沼王限定調查
+火岩鼠限定調查
+胖胖哈力限定調查
+千針魚限定調查
+雷丘限定調查
+雷公限定調查
+拉魯拉絲限定調查
+戰槌龍限定調查
+烈焰馬限定調查
+拉達限定調查
+小拉達限定調查
+烈空坐限定調查
+雷吉艾斯限定調查
+雷吉奇卡斯限定調查
+雷吉洛克限定調查
+雷吉斯奇魯限定調查
+古空棘魚限定調查
+鐵炮魚限定調查
+萊希拉姆限定調查
+人造細胞卵限定調查
+鑽角犀獸限定調查
+獨角犀牛限定調查
+超甲狂犀限定調查
+利歐路限定調查
+石丸子限定調查
+毒薔薇限定調查
+羅絲雷朵限定調查
+洛托姆限定調查
+毛頭小鷹限定調查
+勾魂眼限定調查
+暴飛龍限定調查
+大劍鬼限定調查
+黑眼鱷限定調查
+穿山鼠限定調查
+穿山王限定調查
+打擊鬼限定調查
+萌芽鹿限定調查
+粉蝶蟲限定調查
+蜥蜴王限定調查
+巨鉗螳螂限定調查
+蜈蚣王限定調查
+頭巾混混限定調查
+滑滑小子限定調查
+飛天螳螂限定調查
+海刺龍限定調查
+金魚王限定調查
+海魔獅限定調查
+橡實果限定調查
+小海獅限定調查
+蟾蜍王限定調查
+尾立限定調查
+君主蛇限定調查
+青藤蛇限定調查
+飯匙蛇限定調查
+蟲寶包限定調查
+巨牙鯊限定調查
+謝米限定調查
+脫殼忍者限定調查
+甲殼龍限定調查
+大舌貝限定調查
+無殼海兔限定調查
+小嘴蝸限定調查
+盾甲龍限定調查
+狡猾天狗限定調查
+小貓怪限定調查
+蘑蘑菇限定調查
+壺壺限定調查
+怨影娃娃限定調查
+象徵鳥限定調查
+甲殼繭限定調查
+冷水猿限定調查
+花椰猿限定調查
+爆香猿限定調查
+盔甲鳥限定調查
+坐騎小羊限定調查
+毽子花限定調查
+向尾喵限定調查
+鉗尾蠍限定調查
+垃垃藻限定調查
+坦克臭鼬限定調查
+請假王限定調查
+懶人獺限定調查
+黏美兒限定調查
+呆殼獸限定調查
+呆呆王限定調查
+呆呆獸限定調查
+熔岩蟲限定調查
+胖甜妮限定調查
+圖圖犬限定調查
+迷唇娃限定調查
 狃拉限定調查
+藤藤蛇限定調查
+卡比獸限定調查
+雪童子限定調查
+雪笠怪限定調查
 布魯限定調查
+單卵細胞球限定調查
+太陽岩限定調查
+烈雀限定調查
+粉蝶蛹限定調查
+海豹球限定調查
+圓絲蛛限定調查
+晃晃斑限定調查
+花岩怪限定調查
+跳跳豬限定調查
+粉香香限定調查
+傑尼龜限定調查
+驚角鹿限定調查
+姆克鷹限定調查
+姆克鳥限定調查
+姆克兒限定調查
+寶石海星限定調查
+海星星限定調查
+大鋼蛇限定調查
+長毛狗限定調查
+泥巴魚限定調查
+臭鼬噗限定調查
+樹才怪限定調查
+水君限定調查
+向日花怪限定調查
+向日種子限定調查
+溜溜糖球限定調查
+青綿鳥限定調查
+寶包繭限定調查
+吞食獸限定調查
+巨沼怪限定調查
+舞天鵝限定調查
+大王燕限定調查
+小山豬限定調查
+綿綿泡芙限定調查
+心蝙蝠限定調查
+仙子伊布限定調查
+傲骨燕限定調查
+烈箭鷹限定調查
+蔓藤怪限定調查
+巨蔓藤限定調查
+肯泰羅限定調查
+熊寶寶限定調查
+瑪瑙水母限定調查
+毒刺水母限定調查
+暖暖豬限定調查
+代拉基翁限定調查
+投摔鬼限定調查
+雷電雲限定調查
+搬運小匠限定調查
+原蓋海龜限定調查
+波克基斯限定調查
+波克比限定調查
+波克基古限定調查
+火稚雞限定調查
+煤炭龜限定調查
+龍捲雲限定調查
+土台龜限定調查
+小鋸鱷限定調查
+毒骷蛙限定調查
+咕咕鴿限定調查
+大顎蟻限定調查
+木守宮限定調查
+朽木妖限定調查
+熱帶龍限定調查
+破破袋限定調查
+草苗龜限定調查
+圓蝌蚪限定調查
+麻麻小魚限定調查
+火爆獸限定調查
+班基拉斯限定調查
+怪顎龍限定調查
+無畏小子限定調查
+寶寶暴龍限定調查
+月亮伊布限定調查
+高傲雉雞限定調查
+未知圖騰限定調查
+圈圈熊限定調查
+由克希限定調查
+多多冰限定調查
+迷你冰限定調查
+雙倍多多冰限定調查
+水伊布限定調查
+百足蜈蚣限定調查
+摩魯蛾限定調查
+毛球限定調查
+妙蛙花限定調查
+蜂女王限定調查
+超音波幼蟲限定調查
+比克提尼限定調查
+大食花限定調查
+過動猿限定調查
+霸王花限定調查
+畢力吉翁限定調查
+彩粉蝶限定調查
+電螢蟲限定調查
+波爾凱尼恩限定調查
+火神蛾限定調查
+霹靂電球限定調查
+禿鷹丫頭限定調查
+六尾限定調查
+吼吼鯨限定調查
+吼鯨王限定調查
+帝牙海獅限定調查
+卡咪龜限定調查
+步哨鼠限定調查
+瑪狃拉限定調查
+獨角蟲限定調查
+口呆花限定調查
+雙彈瓦斯限定調查
+風妖精限定調查
+車輪毬限定調查
+鯰魚王限定調查
+咕妞妞限定調查
+胖可丁限定調查
+長翅鷗限定調查
+果然翁限定調查
+滾滾蝙蝠限定調查
+烏波限定調查
+結草貴婦限定調查
+刺尾蟲限定調查
+小果然限定調查
+天然鳥限定調查
+哲爾尼亞斯限定調查
+哭哭面具限定調查
+蜻蜻蜓限定調查
+遠古巨蜓限定調查
+伊裴爾塔爾限定調查
+貓鼬斬限定調查
+閃電鳥限定調查
+雷電斑馬限定調查
+捷克羅姆限定調查
+蛇紋熊限定調查
+索羅亞克限定調查
+索羅亞限定調查
+超音蝠限定調查
+雙首暴龍限定調查
+基格爾德限定調查
 無法綁定此帳號
 <size=32>{0}發生錯誤</size>無法綁定此帳號
 <size=32>帳號已存在</size>此帳號已被綁定至其他玩家的帳號
@@ -4094,10 +5834,12 @@ Google
 愛情盃
 幸運蛋效果延長為1小時
 下次和這位朋友交換寶可夢時將可獲得亮晶晶寶可夢！
+成為亮晶晶好朋友的機率提高
 亮晶晶好朋友
 和 {0} 成為亮晶晶好朋友了！
 解鎖新獎勵
 下一次交換將會是亮晶晶交換！也就是說，拿去交換的寶可夢和透過交換獲得的寶可夢都會是亮晶晶寶可夢。
+在交換時獲得亮晶晶寶可夢的機率提高
 亮晶晶交換
 裝了滿滿歡樂的幸運蛋！30分鐘之內XP加倍。
 幸運蛋
@@ -4143,6 +5885,7 @@ N的姿勢
 等級43 姿勢
 等級43 姿勢
 魔牆人偶的姿勢
+小菊兒
 閒著
 究極之日 包包
 慢跑者墨鏡
@@ -4193,6 +5936,38 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 蓮葉童子研究：在道館對戰中使出1次「效果絕佳」的特殊招式
 大師聯盟經典賽
 紀念盃
+Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
+Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
+I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
+I’m no sailor, but I do find myself feeling luckier after humming it! Haha!
+Anyway, we’re here to look into the strange situation we uncovered during your Kanto-themed journey.
+I’m talking, of course, about reports of encounters with Mew, the New Species Pokémon. There have been several sightings of a Shiny one recently, which is tremendously exciting!
+That means our goal on this expedition is to find not only one of the most elusive Pokémon to ever exist, but a Shiny one at that!
+You’ve experienced a lot on your journeys thus far, %PLAYERNAME%. But perhaps the most wonderful thing about Pokémon is that there’s always something new to discover.
+I hope you’re excited for what’s to come, because I have a feeling it’s going to be a real test of your skills as a Trainer!
+Let’s GO!
+Wow, %PLAYERNAME%—great work! Your knowledge of the Kanto region is beginning to rival even my own!
+Our next task is to learn more about Pokémon DNA.
+I know that sounds pretty heavy on the science, but don’t worry—I’ll take care of that part. All I need you to do is get out there and catch lots of different types of Pokémon!
+Mew’s DNA is said to contain the genetic codes of all Pokémon, so to better understand Mew, we should try to understand as much as we can about the genetics of other Pokémon.
+Incredible work, %PLAYERNAME%! Seeing you learn so much about different Pokémon reminded me of how vast the world of Pokémon truly is.
+Knowledge is funny in that the more we gain, the more realize how much we still lack. Some might find that frustrating, but for me it’s inspiring!
+You know, there’s a part in that sea shanty I mentioned before that seems applicable here.
+I don’t remember the exact words, but the gist is that we should travel across the land, searching far and wide to learn about all the amazing Pokémon there are in the world.
+Words to live by, I say! Let’s get out there and track down that Shiny Mew, Trainer!
+%PLAYERNAME%, you... You did it! You actually found and caught a Shiny Mew!
+Has it even sunk in yet? This is a monumental achievement, Trainer. Take a moment to congratulate yourself!
+Hm? It’s my achievement as well? Haha! No, no, I just hummed you a shanty and guided you like any Pokémon Professor worth their sea salt would.
+But thanks are certainly in order for the Pokémon you’ve befriended on your journey. They played a big part in your research, after all!
+The ones you’ve caught, the ones you’ve battled with, and the ones that traveled with you as your buddy—each Pokémon played a critical part in helping you achieve this goal.
+As Trainers, we owe an eternal debt to our Pokémon. After all, we can’t very well be Trainers without them!
+A Trainer’s journey is meant to be filled with amazing memories, ambitious dreams, and unexpected adventures. I think this particular journey checked all those boxes pretty handily!
+I’m sure it won’t be the last to do so, either. Now, until next time...let’s GO!
+All-in-One #151
+All-in-One #151 (1/4)
+All-in-One #151 (2/4)
+All-in-One #151 (3/4)
+All-in-One #151 (4/4)
 最多只可建立 {0} 個標籤
 噴霧式傷藥。能讓1隻寶可夢的HP完全回復。一組10個。
 全滿藥 × 10
@@ -4200,6 +5975,7 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 活力塊 × 6
 超級對戰挑戰
 超級夥伴挑戰
+超級獎勵時間：[糖果]
 步行距離越遠，夥伴就能找到更多糖果。當你的夥伴心情為「欣喜若狂」時，找到糖果所需的步行距離就會減少。此外，有些夥伴還能為你找到超級能量喔！
 糖果和超級能量
 超級
@@ -4216,16 +5992,18 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 在{0}超級進化的期間內，捕捉<b>{1}屬性</b>的寶可夢或頭目寶可夢時將能獲得額外的糖果。
 {0} 超級進化獎勵
 CP {0} → <color=#2ECDA8>{1}</color>
-超級進化
+Mega Evolution
 超級進化
 不能將超級進化後的寶可夢指派至道館。
 超級團體戰挑戰
+超級團體戰時間
 超級團體戰場次增加
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2021-02-26T12:05:49.406370at SHA 034a4ace6ecd0247e9b13d031813f04d1418596fPipeline 570055, job 5120645
+Built at 2021-04-06T08:36:15.605757at SHA 8f1f1038a8518d9b11e9614aed09ca0e4ca197a6Pipeline 597489, job 5457998
 關都收藏家挑戰
+2021情人節收藏家挑戰
 城都收藏家挑戰
 城都慶典傳說級收藏
 豐緣收藏家挑戰
@@ -4605,11 +6383,12 @@ Niantic Social has arrived! With this new social feature, you can now do the fol
 請輸入標籤名
 沒有可用的道具
 無法登入。請再次確認帳號資訊是否正確。
+急速上昇：一般屬性
 n/a
 效果不太好……
 現在
 正在參加此挑戰：
-允許和其他裝置配對
+Allows pairing to devices, including peripherals and consoles.
 已開啟實境融合
 橫置模式下無法使用實境融合
 已關閉實境融合
@@ -4732,12 +6511,13 @@ Pokémon GO Plus 的配對已被解除
 凱西將在GO Snapshot中驚喜現身5次
 小火龍將在GO Snapshot中驚喜現身5次
 電擊獸將在GO Snapshot中驚喜現身5次
+小箭雀將在GO Snapshot中驚喜現身5次
 鬼斯將在GO Snapshot中驚喜現身5次
 腕力將在GO Snapshot中驚喜現身5次
 鯉魚王將在GO Snapshot中驚喜現身5次
 鴨嘴火獸將在GO Snapshot中驚喜現身5次
 多邊獸將在GO Snapshot中驚喜現身5次
-5 surprise encounters with Roselia in GO Snapshot
+毒薔薇將在GO Snapshot中驚喜現身5次
 橡實果將在GO Snapshot中驚喜現身5次
 獨角蟲將在GO Snapshot中驚喜現身5次
 GO Snapshot驚喜邂逅
@@ -4868,7 +6648,10 @@ OK
 目前無法使用此功能
 距離寶可補給站太遠，無法進行投稿
 將在等級 {0} 解鎖！
+稍後上傳
 謝謝你！
+立刻上傳
+上傳中 {0}/{1}
 上傳中 {0}/{1}
 錯誤
 無照片
@@ -4957,6 +6740,7 @@ https://pokemongo.nianticlabs.com/support/high-quality-pokestops
 完成申請！
 請勿輸入網址、特定遊戲用語或其他不恰當的內容。
 尚可申請 {0} 個候補地點。{1} 天後將可進行新申請。
+急速上昇：毒屬性
 用來捕捉野生寶可夢的精靈球。一組100個。
 精靈球 × 100
 用來捕捉野生寶可夢的精靈球。一組200個。
@@ -4992,10 +6776,10 @@ https://pokemongo.nianticlabs.com/support/high-quality-pokestops
 ーーー
 體重：
 ？？？
-所有：{0}
-超級：{0}
-所有
-超級
+All: {0}
+Mega: {0}
+All
+Mega
 還沒遇見的寶可夢
 所有
 已捕捉：
@@ -6609,10 +8393,10 @@ Couldn’t evolve {0} due to an unknown error.
 身高
 地點
 地點不明
-你要讓 {0} 進行超級進化嗎？
-{0} 將無法繼續超級進化
-一次只能有1隻寶可夢進行超級進化。
-超級進化將持續 {0} 小時
+Do you want to Mega Evolve {0}?
+Your {0} will no longer be Mega Evolved.
+Only one Pokémon may be Mega Evolved at a time.
+Mega Evolution lasts for {0} hours.
 需要更多{0}的超級能量
 {0} 個超級能量
 無法選擇特殊的寶可夢！
@@ -6622,6 +8406,7 @@ Couldn’t evolve {0} due to an unknown error.
 無法選擇幻之寶可夢
 不能傳送這隻寶可夢
 不能選擇異色寶可夢
+你所選的寶可夢全都不能傳送
 所選的寶可夢中有部分不能傳送
 團體戰開打中！你的寶可夢會在團體戰結束後回到同行隊伍。
 {0} 再見！
@@ -6681,27 +8466,27 @@ UNKNOWN
 妙蛙種子
 妙蛙草
 妙蛙花
-超級妙蛙花
+Mega Venusaur
 小火龍
 火恐龍
 噴火龍
-超級噴火龍Ｘ
-超級噴火龍Ｙ
+Mega Charizard X
+Mega Charizard Y
 傑尼龜
 卡咪龜
 水箭龜
-超級水箭龜
+Mega Blastoise
 綠毛蟲
 鐵甲蛹
 巴大蝶
 獨角蟲
 鐵殼蛹
 大針蜂
-超級大針蜂
+Mega Beedrill
 波波
 比比鳥
 大比鳥
-超級大比鳥
+Mega Pidgeot
 小拉達
 拉達
 烈雀
@@ -6749,7 +8534,7 @@ UNKNOWN
 凱西
 勇基拉
 胡地
-超級胡地
+Mega Alakazam
 腕力
 豪力
 怪力
@@ -6780,7 +8565,7 @@ UNKNOWN
 鬼斯
 鬼斯通
 耿鬼
-超級耿鬼
+Mega Gengar
 大岩蛇
 催眠貘
 引夢貘人
@@ -6802,7 +8587,7 @@ UNKNOWN
 吉利蛋
 蔓藤怪
 袋獸
-超級袋獸
+Mega Kangaskhan
 墨海馬
 海刺龍
 角金魚
@@ -6815,11 +8600,11 @@ UNKNOWN
 電擊獸
 鴨嘴火獸
 凱羅斯
-超級凱羅斯
+Mega Pinsir
 肯泰羅
 鯉魚王
 暴鯉龍
-超級暴鯉龍
+Mega Gyarados
 拉普拉斯
 百變怪
 伊布
@@ -6832,7 +8617,7 @@ UNKNOWN
 化石盔
 鐮刀盔
 化石翼龍
-超級化石翼龍
+Mega Aerodactyl
 卡比獸
 急凍鳥
 閃電鳥
@@ -6841,8 +8626,8 @@ UNKNOWN
 哈克龍
 快龍
 超夢
-超級超夢Ｘ
-超級超夢Ｙ
+Mega Mewtwo X
+Mega Mewtwo Y
 夢幻
 菊草葉
 月桂葉
@@ -6874,7 +8659,7 @@ UNKNOWN
 咩利羊
 茸茸羊
 電龍
-超級電龍
+Mega Ampharos
 美麗花
 瑪力露
 瑪力露麗
@@ -6902,15 +8687,15 @@ UNKNOWN
 土龍弟弟
 天蠍
 大鋼蛇
-超級大鋼蛇
+Mega Steelix
 布魯
 布魯皇
 千針魚
 巨鉗螳螂
-超級巨鉗螳螂
+Mega Scizor
 壺壺
 赫拉克羅斯
-超級赫拉克羅斯
+Mega Heracross
 狃拉
 熊寶寶
 圈圈熊
@@ -6926,7 +8711,7 @@ UNKNOWN
 盔甲鳥
 戴魯比
 黑魯加
-超級黑魯加
+Mega Houndoom
 刺龍王
 小小象
 頓甲
@@ -6946,22 +8731,22 @@ UNKNOWN
 幼基拉斯
 沙基拉斯
 班基拉斯
-超級班基拉斯
+Mega Tyranitar
 洛奇亞
 鳳王
 時拉比
 木守宮
 森林蜥蜴
 蜥蜴王
-超級蜥蜴王
+Mega Sceptile
 火稚雞
 力壯雞
 火焰雞
-超級火焰雞
+Mega Blaziken
 水躍魚
 沼躍魚
 巨沼怪
-超級巨沼怪
+Mega Swampert
 土狼犬
 大狼犬
 蛇紋熊
@@ -6984,7 +8769,7 @@ UNKNOWN
 拉魯拉絲
 奇魯莉安
 沙奈朵
-超級沙奈朵
+Mega Gardevoir
 溜溜糖球
 雨翅蛾
 蘑蘑菇
@@ -7005,19 +8790,19 @@ UNKNOWN
 向尾喵
 優雅貓
 勾魂眼
-超級勾魂眼
+Mega Sableye
 大嘴娃
-超級大嘴娃
+Mega Mawile
 可可多拉
 可多拉
 波士可多拉
-超級波士可多拉
+Mega Aggron
 瑪沙那
 恰雷姆
-超級恰雷姆
+Mega Medicham
 落雷獸
 雷電獸
-超級雷電獸
+Mega Manectric
 正電拍拍
 負電拍拍
 電螢蟲
@@ -7027,12 +8812,12 @@ UNKNOWN
 吞食獸
 利牙魚
 巨牙鯊
-超級巨牙鯊
+Mega Sharpedo
 吼吼鯨
 吼鯨王
 呆火駝
 噴火駝
-超級噴火駝
+Mega Camerupt
 煤炭龜
 跳跳豬
 噗噗豬
@@ -7044,7 +8829,7 @@ UNKNOWN
 夢歌仙人掌
 青綿鳥
 七夕青鳥
-超級七夕青鳥
+Mega Altaria
 貓鼬斬
 飯匙蛇
 月石
@@ -7065,17 +8850,17 @@ UNKNOWN
 變隱龍
 怨影娃娃
 詛咒娃娃
-超級詛咒娃娃
+Mega Banette
 夜巡靈
 彷徨夜靈
 熱帶龍
 風鈴鈴
 阿勃梭魯
-超級阿勃梭魯
+Mega Absol
 小果然
 雪童子
 冰鬼護
-超級冰鬼護
+Mega Glalie
 海豹球
 海魔獅
 帝牙海獅
@@ -7087,24 +8872,24 @@ UNKNOWN
 寶貝龍
 甲殼龍
 暴飛龍
-超級暴飛龍
+Mega Salamence
 鐵啞鈴
 金屬怪
 巨金怪
-超級巨金怪
+Mega Metagross
 雷吉洛克
 雷吉艾斯
 雷吉斯奇魯
 拉帝亞斯
-超級拉帝亞斯
+Mega Latias
 拉帝歐斯
-超級拉帝歐斯
+Mega Latios
 蓋歐卡
-原始蓋歐卡
+Primal Kyogre
 固拉多
-原始固拉多
+Primal Groudon
 烈空坐
-超級烈空坐
+Mega Rayquaza
 基拉祈
 代歐奇希斯
 草苗龜
@@ -7149,7 +8934,7 @@ UNKNOWN
 隨風球
 捲捲耳
 長耳兔
-超級長耳兔
+Mega Lopunny
 夢妖魔
 烏鴉頭頭
 魅力喵
@@ -7167,11 +8952,11 @@ UNKNOWN
 圓陸鯊
 尖牙陸鯊
 烈咬陸鯊
-超級烈咬陸鯊
+Mega Garchomp
 小卡比獸
 利歐路
 路卡利歐
-超級路卡利歐
+Mega Lucario
 沙河馬
 河馬獸
 鉗尾蠍
@@ -7184,7 +8969,7 @@ UNKNOWN
 小球飛魚
 雪笠怪
 暴雪王
-超級暴雪王
+Mega Abomasnow
 瑪狃拉
 自爆磁怪
 大舌舔
@@ -7200,7 +8985,7 @@ UNKNOWN
 象牙豬
 多邊獸Ｚ
 艾路雷朵
-超級艾路雷朵
+Mega Gallade
 大朝北鼻
 黑夜魔靈
 雪妖女
@@ -7257,7 +9042,7 @@ UNKNOWN
 螺釘地鼠
 龍頭地鼠
 差不多娃娃
-超級差不多娃娃
+Mega Audino
 搬運小匠
 鐵骨土人
 修建老匠
@@ -7446,7 +9231,7 @@ UNKNOWN
 伊裴爾塔爾
 基格爾德
 蒂安希
-超級蒂安希
+Mega Diancie
 胡帕
 波爾凱尼恩
 美錄坦
@@ -7541,6 +9326,7 @@ https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 促銷活動
 兌換
 超能力週
+急速上昇：超能力屬性
 沒有寶可夢訓練家俱樂部的帳號嗎？
 無法進行認證，請再試一次。
 請先啟動你的帳號
@@ -7625,6 +9411,7 @@ Let's Go：孵 {0} 顆蛋
 連續捕捉 {0} 隻傳說的寶可夢
 捕捉 {0} 隻傳說的寶可夢
 捕捉1隻傳說的寶可夢
+捕捉 {0} 隻愛心魚
 捕捉 {0} 隻一般、水或冰屬性的寶可夢
 捕捉 {0} 種不同的寶可夢
 捕捉 {0} 隻寶可夢
@@ -7775,6 +9562,7 @@ Tokyo eSports 2020：捕捉 {0} 隻名單上的寶可夢
 火尾童話
 12月社群日
 電擊獸擊電
+最勇敢的小鳥
 詭異的鬼斯
 令人毛骨悚然的怨念
 腕力衝衝衝 (1/4
@@ -7793,6 +9581,7 @@ Let’s GO！美錄坦
 來自暗影的威脅持續擴大
 孜孜不倦
 怪哉怪蛋
+遠走高飛……
 好一朵美麗的毒薔薇
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2019
@@ -7912,20 +9701,300 @@ Let’s GO！美錄坦
 捕捉 {0} 隻草屬性的寶可夢
 讓 {0} 隻草屬性的寶可夢進化
 讓 {0} 隻草屬性的寶可夢進化
+讓1隻凱西進化
+讓1隻長尾怪手進化
+讓1隻冰雪龍進化
+讓1隻太古羽蟲進化
+讓1隻始祖小鳥進化
+讓1隻可可多拉進化
+讓1隻牙牙進化
+讓1隻露力麗進化
+讓1隻寶貝龍進化
+讓1隻天秤偶進化
+讓1隻泥泥鰍進化
+讓1隻月桂葉進化
+讓1隻鐵啞鈴進化
+讓1隻喇叭芽進化
+讓1隻冰寶進化
+讓1隻大牙狸進化
+讓1隻龜腳腳進化
+讓1隻斑斑馬進化
+讓1隻地幔岩進化
+讓1隻盆才怪進化
+讓1隻長尾火狐進化
+讓1隻銅鏡怪進化
+讓1隻含羞苞進化
+讓1隻泳圈鼬進化
+讓1隻妙蛙種子進化
+讓1隻妙蛙種子進化
+讓1隻捲捲耳進化
+讓1隻掘掘兔進化
+讓1隻結草兒進化
+讓1隻刺球仙人掌進化
+讓1隻利牙魚進化
+讓1隻盾甲繭進化
+讓1隻綠毛蟲進化
+讓1隻吉利蛋進化
+讓1隻小火龍進化
+讓1隻小火龍進化
+讓1隻火恐龍進化
+讓1隻櫻花寶進化
+讓1隻哈力栗進化
+讓1隻菊草葉進化
+讓1隻小火焰猴進化
+讓1隻燈籠魚進化
+讓1隻鈴鐺響進化
+讓1隻珍珠貝進化
+讓1隻鐵臂槍蝦進化
+讓1隻皮皮進化
+讓1隻皮寶寶進化
+讓1隻三蜜蜂進化
+讓1隻力壯雞進化
+讓1隻龍蝦小兵進化
+讓1隻木棉球進化
+讓1隻頭蓋龍進化
+讓1隻不良蛙進化
+讓1隻藍鱷進化
+讓1隻噴嚏熊進化
+讓1隻卡拉卡拉進化
+讓1隻火球鼠進化
 讓1隻惡屬性的寶可夢進化
+讓1隻火紅不倒翁進化
+讓1隻四季鹿進化
+讓1隻單首龍進化
+讓1隻雙刃丸進化
+讓1隻地鼠進化
+讓1隻嘟嘟進化
+讓1隻雙劍鞘進化
 讓1隻哈克龍進化
 讓1隻迷你龍進化
+讓1隻飄飄球進化
+讓1隻螺釘地鼠進化
+讓1隻催眠貘進化
+讓1隻鴨寶寶進化
+讓1隻雙卵細胞球進化
+讓1隻鐵蟻進化
+讓1隻彷徨夜靈進化
+讓1隻夜巡靈進化
+讓1隻石居蟹進化
+讓1隻麻麻鰻進化
+讓1隻伊布進化
 讓 {0} 隻電、水或火屬性的寶可夢進化
 讓1隻電、水或火屬性的寶可夢進化
+讓1隻阿柏蛇進化
+讓1隻電擊獸進化
+讓1隻落雷獸進化
+讓1隻電擊怪進化
+讓1隻小灰怪進化
 在白天讓伊布進化成太陽伊布
+讓1隻妙喵進化
 讓1隻已經進化過的草屬性寶可夢進一步進化
+讓1隻蛋蛋進化
+讓1隻大蔥鴨進化
+讓1隻醜醜魚進化
+讓1隻火狐狸進化
+讓1隻種子鐵球進化
+讓1隻螢光魚進化
+讓1隻茸茸羊進化
+讓1隻花蓓蓓進化
+讓1隻火箭雀進化
+讓1隻小箭雀進化
+讓1隻花葉蒂進化
+讓1隻哎呀球菇進化
+讓1隻斧牙龍進化
+讓1隻輕飄飄進化
+讓1隻呱呱泡蛙進化
+讓1隻呱頭蛙進化
+讓1隻尖牙陸鯊進化
+讓1隻鬼斯進化
+讓1隻小拳石進化
+讓1隻圓陸鯊進化
+讓1隻冰鬼護進化
+讓1隻魅力喵進化
+讓1隻天蠍進化
+讓1隻臭臭花進化
+讓1隻大嘴蝠進化
+讓1隻角金魚進化
+讓1隻泥偶小人進化
+讓1隻黏黏寶進化
+讓1隻哥德寶寶進化
+讓1隻哥德小童進化
+讓1隻隆隆石進化
+讓1隻臭泥進化
+讓1隻樹林龜進化
+讓1隻森林蜥蜴進化
+讓1隻卡蒂狗進化
+讓1隻溶食獸進化
+讓1隻鐵骨土人進化
+讓1隻小福蛋進化
+讓1隻鬼斯通進化
+讓1隻熔蟻獸進化
+讓1隻傘電蜥進化
+讓1隻哈約克進化
+讓1隻沙河馬進化
+讓1隻獨劍鞘進化
+讓1隻咕咕進化
+讓1隻毽子草進化
+讓1隻墨海馬進化
+讓1隻戴魯比進化
+讓1隻寶寶丁進化
+讓1隻甜甜螢進化
+讓1隻好啦魷進化
 用道具讓 {0} 隻寶可夢進化
 用道具來讓1隻寶可夢進化
+讓1隻妙蛙草進化
+讓1隻胖丁進化
+讓1隻電電蟲進化
+讓1隻化石盔進化
+讓1隻勇基拉進化
+讓1隻鐵殼蛹進化
+讓1隻蓋蓋蟲進化
+讓1隻奇魯莉安進化
+讓1隻齒輪組進化
+讓1隻齒輪兒進化
+讓1隻瓦斯彈進化
+讓1隻大鉗蟹進化
+讓1隻圓法師進化
+讓1隻混混鱷進化
+讓1隻可多拉進化
+讓1隻燈火幽靈進化
+讓1隻燃燒蟲進化
+讓1隻幼基拉斯進化
+讓1隻芭瓢蟲進化
+讓1隻大舌頭進化
+讓1隻觸手百合進化
+讓1隻小約克進化
+讓1隻小獅獅進化
+讓1隻燭光靈進化
+讓1隻蓮帽小童進化
+讓1隻蓮葉童子進化
+讓1隻吼爆彈進化
+讓1隻勒克貓進化
+讓1隻豪力進化
+讓1隻腕力進化
+讓1隻鴨嘴寶寶進化
+讓1隻鯉魚王進化
+讓1隻鴨嘴火獸進化
+讓1隻小磁怪進化
+讓1隻幕下力士進化
+讓1隻猴怪進化
+讓1隻小球飛魚進化
+讓1隻咩利羊進化
+讓1隻瑪力露進化
+讓1隻沼躍魚進化
+讓1隻瑪沙那進化
+讓1隻喵喵進化
+讓1隻金屬怪進化
+讓1隻鐵甲蛹進化
+讓1隻功夫鼬進化
+讓1隻魔尼尼進化
+讓1隻泡沫栗鼠進化
+讓1隻夢妖進化
+讓1隻猛火猴進化
+讓1隻魔牆人偶進化
+讓1隻水躍魚進化
+讓1隻小卡比獸進化
+讓1隻食夢夢進化
+讓1隻黑暗鴉進化
+讓1隻天然雀進化
+讓1隻尼多蘭進化
+讓1隻尼多朗進化
+讓1隻尼多娜進化
+讓1隻尼多力諾進化
+讓1隻土居忍士進化
+讓1隻嗡蝠進化
+讓1隻朝北鼻進化
+讓1隻呆火駝進化
+讓1隻長鼻葉進化
+讓1隻走路草進化
+讓1隻菊石獸進化
+讓1隻大岩蛇進化
+讓1隻水水獺進化
+讓1隻藍蟾蜍進化
+讓1隻頑皮熊貓進化
+讓1隻冷水猴進化
+讓1隻花椰猴進化
+讓1隻爆香猴進化
+讓1隻派拉斯進化
+讓1隻探探鼠進化
+讓1隻駒刀小兵進化
+讓1隻百合根娃娃進化
+讓1隻小小象進化
+讓1隻小木靈進化
+讓1隻皮丘進化
+讓1隻比比鳥進化
+讓1隻波波進化
+讓1隻豆豆鴿進化
+讓1隻炒炒豬進化
+讓1隻皮卡丘進化
+讓1隻長毛豬進化
+讓1隻榛果球進化
+讓1隻波加曼進化
 讓 {0} 隻寶可夢進化
 讓1隻毒屬性的寶可夢進化
+讓1隻蚊香蝌蚪進化
+讓1隻蚊香君進化
+讓1隻小火馬進化
+讓1隻土狼犬進化
+讓1隻多邊獸Ⅱ進化
+讓1隻波皇子進化
+讓1隻可達鴨進化
+讓1隻南瓜精進化
+讓1隻沙基拉斯進化
+讓1隻扒手貓進化
+讓1隻火岩鼠進化
+讓1隻胖胖哈力進化
+讓1隻千針魚進化
+讓1隻拉魯拉絲進化
+讓1隻小拉達進化
+讓1隻鐵炮魚進化
+讓1隻鑽角犀獸進化
+讓1隻獨角犀牛進化
+讓1隻利歐路進化
+讓1隻石丸子進化
+讓1隻毒薔薇進化
+讓1隻毛頭小鷹進化
+讓1隻黑眼鱷進化
+讓1隻穿山鼠進化
 讓1隻布魯進化
+讓1隻粉蝶蟲進化
+讓1隻滑滑小子進化
+讓1隻飛天螳螂進化
+讓1隻海刺龍進化
+讓1隻海魔獅進化
+讓1隻橡實果進化
+讓1隻小海獅進化
+讓1隻尾立進化
+讓1隻青藤蛇進化
+讓1隻蟲寶包進化
+讓1隻甲殼龍進化
+讓1隻大舌貝進化
+讓1隻無殼海兔進化
+讓1隻小嘴蝸進化
+讓1隻盾甲龍進化
+讓1隻小貓怪進化
+讓1隻蘑蘑菇進化
+讓1隻壺壺進化
+讓1隻怨影娃娃進化
+讓1隻甲殼繭進化
 讓1隻寶可夢進化
+讓1隻坐騎小羊進化
+讓1隻毽子花進化
+讓1隻向尾喵進化
+讓1隻鉗尾蠍進化
+讓1隻垃垃藻進化
+讓1隻懶人獺進化
+讓1隻黏美兒進化
+讓1隻呆呆獸進化
+讓1隻熔岩蟲進化
+讓1隻迷唇娃進化
 讓1隻狃拉進化
+讓1隻藤藤蛇進化
+讓1隻雪童子進化
+讓1隻雪笠怪進化
+讓1隻布魯進化
+讓1隻單卵細胞球進化
+讓1隻烈雀進化
 讓1隻鯉魚王進化
 讓 {0} 隻波波進化
 讓1隻墨海馬進化
@@ -7936,7 +10005,42 @@ Let’s GO！美錄坦
 讓1隻臭泥進化
 讓1隻小磁怪進化
 讓1隻飛天螳螂進化
+讓1隻粉蝶蛹進化
+讓1隻海豹球進化
+讓1隻圓絲蛛進化
+讓1隻跳跳豬進化
+讓1隻粉香香進化
+讓1隻傑尼龜進化
+讓1隻姆克鳥進化
+讓1隻姆克兒進化
+讓1隻海星星進化
+讓1隻大鋼蛇進化
+讓1隻臭鼬噗進化
+讓1隻向日種子進化
 用日之石來讓臭臭花或向日種子進化
+讓1隻溜溜糖球進化
+讓1隻青綿鳥進化
+讓1隻寶包繭進化
+讓1隻小山豬進化
+讓1隻綿綿泡芙進化
+讓1隻傲骨燕進化
+讓1隻蔓藤怪進化
+讓1隻熊寶寶進化
+讓1隻瑪瑙水母進化
+讓1隻暖暖豬進化
+讓1隻搬運小匠進化
+讓1隻原蓋海龜進化
+讓1隻波克比進化
+讓1隻波克基古進化
+讓1隻火稚雞進化
+讓1隻小鋸鱷進化
+讓1隻咕咕鴿進化
+讓1隻大顎蟻進化
+讓1隻木守宮進化
+讓1隻破破袋進化
+讓1隻草苗龜進化
+讓1隻圓蝌蚪進化
+讓1隻麻麻小魚進化
 讓 {0} 隻電屬性的寶可夢進化
 讓1隻電屬性的寶可夢進化
 讓 {0} 隻妖精屬性的寶可夢進化
@@ -7953,7 +10057,36 @@ Let’s GO！美錄坦
 讓 {0} 隻鋼屬性的寶可夢進化
 讓 {0} 隻水屬性的寶可夢進化
 讓1隻水屬性的寶可夢進化
+讓1隻無畏小子進化
+讓1隻寶寶暴龍進化
 在晚上讓伊布進化成月亮伊布
+讓1隻多多冰進化
+讓1隻迷你冰進化
+讓1隻百足蜈蚣進化
+讓1隻毛球進化
+讓1隻超音波幼蟲進化
+讓1隻過動猿進化
+讓1隻電螢蟲進化
+讓1隻霹靂電球進化
+讓1隻禿鷹丫頭進化
+讓1隻六尾進化
+讓1隻吼吼鯨進化
+讓1隻卡咪龜進化
+讓1隻獨角蟲進化
+讓1隻口呆花進化
+讓1隻車輪毬進化
+讓1隻咕妞妞進化
+讓1隻長翅鷗進化
+讓1隻滾滾蝙蝠進化
+讓1隻烏波進化
+讓1隻刺尾蟲進化
+讓1隻小果然進化
+讓1隻哭哭面具進化
+讓1隻蜻蜻蜓進化
+讓1隻蛇紋熊進化
+讓1隻索羅亞進化
+讓1隻超音蝠進化
+讓1隻雙首暴龍進化
 珍珠貝研究：參加1次道館對戰
 珍珠貝研究：參加1次團體戰
 珍珠貝研究：在道館對戰中使出1次「效果絕佳」的特殊招式
@@ -7976,6 +10109,9 @@ Let’s GO！美錄坦
 完成1個田野調查課題
 今天捉到的第1隻
 今天拜訪的第1個寶可補給站
+捕捉 {0} 隻小箭雀
+讓 {0} 隻小箭雀進化
+讓 {0} 隻火箭雀進化
 在GO對戰聯盟升上 {0} 級
 在GO對戰聯盟升上 15 級
 在GO對戰聯盟升上 5 級
@@ -7992,6 +10128,10 @@ GO Fest：和其他訓練家對戰
 獲得 {0} 面金色獎牌
 獲得 5 面金色獎牌
 獲得1面金色獎牌
+Pokémon GO Tour：關都地區 - 額外獎勵活動
+Pokémon GO Tour：關都地區 - 額外獎勵活動 (1/3)
+Pokémon GO Tour：關都地區 - 額外獎勵活動 (2/3)
+Pokémon GO Tour：關都地區 - 額外獎勵活動 (3/3)
 捕捉 {0} 隻鬼斯
 讓 {0} 隻鬼斯進化
 讓 {0} 隻鬼斯通進化
@@ -8018,6 +10158,18 @@ GO Fest：和其他訓練家對戰
 城都週：投出 {0} 次Excellent
 城都週：連續用曲球投出 {0} 次Great
 城都週：在1場團體戰中獲勝
+GO Tour：捕捉喇叭芽
+GO Tour：捕捉喵喵
+GO Tour：捕捉穿山鼠
+GO Tour：捕捉六尾
+GO Tour 關都地區：孵 {0} 顆蛋
+GO Tour 關都地區：孵1顆蛋
+GO Tour 關都地區：打敗 {0} 個GO Tour挑戰者
+GO Tour 關都地區：打敗1個GO Tour挑戰者
+GO Tour：捕捉阿柏蛇
+GO Tour：捕捉卡蒂狗
+GO Tour：捕捉猴怪
+GO Tour：捕捉走路草
 捕捉幽靈屬性寶可夢時投出 {0} 次曲球
 投出 {0} 次曲球
 用曲球投出 {0} 次Excellent
@@ -8069,6 +10221,7 @@ GO Fest：和其他訓練家對戰
 敬請期待下次的調查！
 和 {0} 位訓練家成為朋友
 結交1位新朋友
+獲得關都地區的白金獎牌
 獲得 {0} 面白金獎牌
 獲得 5 面白金獎牌
 獲得 40 面白金獎牌
@@ -8138,10 +10291,15 @@ GO Fest：和其他訓練家對戰
 讓 {0} 隻毒薔薇進化
 傳送 {0} 個友情禮物
 傳送友情禮物給朋友
+為妙蛙種子拍攝1張GO Snapshot照片
+為小火龍拍攝1張GO Snapshot照片
 為蓋諾賽克特拍攝 {0} 張照片
+為土地雲拍攝1張照片
 為雷吉艾斯拍攝1張GO Snapshot照片
 為雷吉洛克拍攝1張GO Snapshot照片
 為雷吉斯奇魯拍攝1張GO Snapshot照片
+為雷電雲拍攝1張照片
+為龍捲雲拍攝1張照片
 連續 {0} 天為寶可夢拍攝GO Snapshot照片
 拍攝 {0} 張GO Snapshot照片
 嘿，%PLAYERNAME%，好久不見了。你有發現附近出現了好多隻凱西嗎？
@@ -8275,6 +10433,33 @@ GO Fest：和其他訓練家對戰
 如果你要帶牠一起去對戰的話，記得先好好學學要怎麼用牠。
 研究室的電力也恢復了，我終於可以把我的研究做完了。
 這次真的很感謝你，接下來可能也會要請你幫忙，到時候再麻煩你囉！
+嗨，%PLAYERNAME%！你最近還好嗎？
+你知道嗎？最近我研究室附近出現了一大群小箭雀。
+所以我想請你去幫我調查一下這些寶可夢。
+知更鳥寶可夢小箭雀雖然是種容易與人親近的寶可夢，而且也很易於訓練，但只要一旦進入戰鬥，就會變得非常兇猛。
+這些小巧的寶可夢不知道為什麼會突然出現在這附近，
+我想等你的調查結果報告出爐後好好確認一下，所以萬事拜託啦！
+辛苦了！看來你跟小箭雀相處地不錯嘛！
+你知道嗎？據說小箭雀身體總是很溫暖。寒冷地區的訓練家似乎會和牠一起睡覺呢。
+寶可夢跟人類之間的合作關係總是耐人尋味，不過我倒是從來沒想過能夠在睡覺時用寶可夢取暖！我還真想試試看呢。
+擁有一般屬性和飛行屬性的小箭雀在進化成火箭雀之後，會擁有火屬性和飛行屬性。
+火花寶可夢火箭雀地盤意識很強，且性情好戰。
+牠剛起飛時的速度在所有的鳥寶可夢之中是數一數二的。
+等你準備好之後，就讓小箭雀進化成火箭雀吧。我很想親眼見識一下牠的速度呢！
+%PLAYERNAME%！你的火箭雀看起來真是精悍啊！
+是說我忘了事先提醒你，
+火箭雀從會鳥嘴裡噴出火花來燒焦草叢，
+然後捕捉受到驚嚇而逃出來的獵物。
+所以你千萬要小心，別讓牠把整片草原都燒焦了。
+我們繼續去做調查吧，你還有一些課題沒完成。
+其中最重要的，就是找到一隻由火箭雀進化而成的烈箭鷹。牠的羽毛是我們研究的重點。
+%PLAYERNAME%，你回來啦！噢，歡迎你加入啊，烈箭鷹！
+感謝你今天幫了我這麼多忙！你也終於找到烈火寶可夢烈箭鷹了呢！
+據說烈箭鷹會從翅膀的縫隙裡噴出火花，同時以500公里的時速直線衝向獵物。
+你還記得我之前有提到烈箭鷹的羽毛嗎？牠的羽毛很結實而且能夠防火，在過去消防隊員的制服是用烈箭鷹的羽毛製成的。
+你的烈箭鷹看起來是如此勇猛，所以我想那消防服一定很美！
+謝謝你今天的幫忙，我希望你和我一樣樂在其中！
+Let's GO!
 %PLAYERNAME%，好久不見了！最近我身邊發生了一些不可思議的事……
 我每天早上都是凰梨果配咖啡，所以我早上也是帶著一模一樣的早餐走出我的研究室。
 可是我才剛踏出一步就踩到了一片冰，狠狠地摔倒在地上。我的凰梨果砸了、咖啡潑了，這一天就這麼毀了。
@@ -8973,40 +11158,96 @@ GO火箭隊不會立刻離開，但只要有你們這些訓練家在，我想大
 %PLAYERNAME%，你知道我想說什麼吧？我們絕對不能放任他們在外面為非作歹。
 這真是太驚人了，%PLAYERNAME%！看來這多少能讓他們安份一下了。
 我做了一台新的超級火箭隊雷達，你就拿它去追蹤阪木吧。不過你千萬要小心……布蘭雪和坎迪拉跟我說他手上有暗影超夢！
+我幫你做了另一個超級火箭隊雷達，你可以用它來追蹤阪木。不過你在外面做調查的時候千萬要小心，布蘭雪和坎迪拉的報告都指出阪木找到了另一隻傳說暗影寶可夢！
 以前阪木也曾帶著暗影超夢出現，但我做夢也沒想到他會捲土重來！
+請你務必救出牠，別讓牠被阪木拿去做壞事！
 請你務必救出暗影超夢，別讓牠被阪木拿去做壞事！
 %PLAYERNAME%，幹得好！你又再次打敗了GO火箭隊的手下、幹部和阪木！
 而且你還拯救了暗影超夢和這麼多暗影寶可夢！
+你不僅成功阻止了GO火箭隊，而且還拯救了暗影寶可夢！
 這或許不會是我們最後一次見到阪木和GO火箭隊，所以請你務必保持戒心，繼續拯救暗影寶可夢和收集怪蛋。
-Ahhh... Do you smell that, Trainer?
-I first caught a whiff of that curious aroma as I was out on my daily morning walk.
-Upon investigation, I discovered that the scent was being produced by an uncommonly large group of Roselia that had assembled nearby.
-Did you know you can judge a Roselia’s health by the strength of its aroma? Well, let me tell you—those were VERY healthy Roselia!
-But while they certainly smell nice and look pretty, I advise you to take care when encountering them.
-The thorns on Roselia’s head contain a vicious poison, and it can launch them at any opponent bold enough to try to steal the flowers on its arms. Every rose, as they say!
-It’s unusual to see so many Roselia in one place. Would you mind assisting me in researching this phenomenon?
-Welcome back, %PLAYERNAME%!
-While you were out in the field, I did some reading on Roselia.
-When it comes to Pokémon, new discoveries are being made all the time—so it’s important to make sure your information is up to date.
-Roselia, the Thorn Pokémon, evolves from Budew, the Bud Pokémon. Budew is sensitive to changes in temperature, and its bud is said to bloom when warmed by the sun.
-It’s also both Grass and Poison type, much like Roselia.
-In reviewing these two Pokémon, I remembered something tremendously exciting! I still need to conduct a bit more research before sharing my findings, however. Would you mind assisting me?
-As aromatic Pokémon go, we’re pretty fortunate it’s Roselia appearing en masse and not, say, Muk.
-A big group of Muk gathered under the sun... The whole place would smell like baked garbage!
-Oh! Hey there, %PLAYERNAME%. Didn’t realize you were back.
-I found that interesting bit of information I wanted to share with you.
-According to my research, Roselia that drink nutritionally rich springwater are said to reveal rare coloration when they bloom.
-Isn’t that fascinating? Have you seen anything like that while you’ve been out doing research?
-You seem to have a lucky streak, so I wouldn’t put it past you!
-Now that you’re back, I’d like you to evolve a Roselia with the Sinnoh Stone I gave you.
-I’m excited to see the final Evolution in this line of Grass- and Poison-type Pokémon!
-Great work, Trainer! Your Roselia has evolved into the Bouquet Pokémon, Roserade!
-會用舞者般的動作揮動布滿毒刺的鞭子進行攻擊。
-Oh, and have you noticed that each of Roserade’s hands is a different color?
-Each contains a different toxin. The poison in its right hand is quick acting, while the poison in its left hand is slow acting.
-What an amazing Pokémon!
-Thanks for all your assistance today, Trainer. Documenting situations like this is essential to learning more about the Pokémon in the world around us.
+嘿，%PLAYERNAME%！你好嗎？抱歉突然打擾，不過我這邊發生了一點問題。
+沒錯……就是GO火箭隊。他們最近的行蹤可疑，我想你應該很清楚我們接下來要做什麼。
+Let's GO!
+%PLAYERNAME%，你回來啦。感謝你收拾了這麼多GO火箭隊手下並救出暗影寶可夢！
+你在外面收拾那些手下的時候，我收到線報指出GO火箭隊找到了一隻飛行屬性的傳說的寶可夢。
+布蘭雪正在偵察他們目前的動靜，我想我們很快就會知道到底發生了什麼事。
+在等布蘭雪回報的這段時間，我們也繼續去調查飛行屬性寶可夢吧。
+%PLAYERNAME%，感謝你幫我捕捉了這麼多飛行屬性寶可夢！
+布蘭雪跟我一直忙著分析你帶回來的數據，希望能找出GO火箭隊究竟捉到了哪隻傳說的寶可夢。
+不幸的是，我們認為他們找到的寶可夢似乎跟隊長們有密切的關係。
+我覺得事情不太對勁，看來勢必要做更進一步的調查。你在外面做調查的時候務必小心！
+大比鳥和大比鳥超級能量！
+也許他們捉到的是超級進化的大比鳥？呃，不對，除了飛行屬性這點之外似乎沒有其他共通之處。
+布蘭雪收集到的最新情報顯示，阪木正是帶著那隻飛行屬性的傳說的寶可夢四處神出鬼沒的人。
+我們認為現在的首要之務就是找出GO火箭隊幹部。我相信你一定可以的，加油！
+%PLAYERNAME%，真是辛苦你了！你真的幫了我一個大忙！
+我火速幫你組了一個超級火箭隊雷達，希望你能用它找出阪木並打倒牠，救出那隻傳說的寶可夢！
+真是驚人的表現，%PLAYERNAME%！
+你永遠都不知道GO火箭隊他們有什麼鬼點子，所以時時都不能鬆下戒心。不過至少我們今天成功打倒了他們！真的很感謝你！
 那麼，下次再見囉！
+噢……你有聞到那股香氣嗎？
+早上去散步的時候，我就已經聞到了那個味道。
+經過一番調查，我發現那道香氣來自聚集在附近的毒薔薇。
+據說濃郁的香味是毒薔薇有活力的證明，所以想必那些毒薔薇一定是活力十足。
+牠們的確是又香又美，不過你務必要小心。
+聽說牠會射出頭上那有毒的尖刺，去攻擊那些盯上自己手上花朵的對手。
+我很少看到這麼多毒薔薇聚在一起。你可以去幫我調查一下這個現象嗎？
+%PLAYERNAME%，你回來啦。
+你在外面做調查的時候，我也去研究了一下毒薔薇的文獻。
+你知道寶可夢的世界裡總是有很多新消息，所以我都會定期整理、回顧一下。
+荊棘寶可夢毒薔薇是從花苞寶可夢含羞苞進化而來的。含羞苞對氣溫的變化很敏感。當牠開始打開花苞，便是冬去春來之時。
+牠跟毒薔薇一樣，同時擁有草屬性和毒屬性。
+是說我想起了一件很有趣的事情！但在分享這件事情之前，還是要請你幫我繼續做調查。
+你要想想還好我們碰上的是香香的毒薔薇，而不是臭氣衝天的臭臭泥。
+要是有一大群臭臭泥聚集在陽光下……我大概會被臭死吧。
+噢，%PLAYERNAME%你回來啦。
+我說我想要跟你分享的那件事啊……
+據說毒薔薇在喝了充滿營養的泉水後，會綻放出有著罕見色彩的花朵。
+你不覺得很有趣嗎？你有在路上看到有拿著罕見色彩花朵的毒薔薇嗎？
+如果你有看到，那就表示你今天很幸運喔！
+既然你都回來了，那就試著用神奧之石來讓毒薔薇進化吧。
+我很期待看到牠的進化形態呢！
+辛苦了！你的毒薔薇進化成花束寶可夢羅絲雷朵了！
+會用舞者般的動作揮動布滿毒刺的鞭子進行攻擊。
+噢！你有發現牠兩隻手顏色不一樣嗎？
+牠兩隻手都有毒，右手的毒是速效的，左手的毒則是慢性的。而無論哪邊的毒性都能致命。
+真是一隻值得好好研究的寶可夢！
+感謝你今天的幫忙！我們今後也要繼續努力觀察身邊的事物，更深入了解寶可夢的世界！
+那麼，下次再見囉！
+嘿，%PLAYERNAME%，你最近還好嗎？
+你知道我最近一直在擴展調查範圍，所以最近也有機會接觸到一些當地的神話或是傳說。
+其中一個是合眾地區的神話，裡面提到了三隻能改變形態的傳說的寶可夢。
+你也知道我最喜歡這種值得深究的調查主題，我甚至連作夢都會夢到牠們呢！
+所以我想請你幫我一起做研究！可以請你先去幫我捉一些岩石屬性的寶可夢嗎？
+你知道，做研究總是需要腳踏實地的。那就麻煩你囉！
+辛苦了！接下來我們要做更進一步的研究。
+我想要一一解開這些神話的謎團。
+畢竟要是牠們突然出現了，我可不想慌了手腳。所以我們現在就要做好充分的準備。
+第一個是關於土地雲的神話。據說只要是土地雲造訪過的土地，作物都會結實纍纍，所以牠被稱為農田之神。
+土地雲擁有兩種形態，一是化身形態，一是極為罕見的靈獸形態。我非常確定靈獸形態存在，但我從來沒見過牠的圖片……
+但既然牠跟大地有密切的關係，我們就先來研究地面屬性的寶可夢吧。
+%PLAYERNAME%，真是太感謝你了！我研究地面屬性的寶可夢後，對土地雲有更進一步的了解。
+你說你捉到螺釘地鼠了！？我是有說要研究大地，但可沒說要鑽進大地啊……
+看來目前能找到的土地雲相關線索就這樣了，我們接著研究下一隻寶可夢吧。
+接下來，我們來看看龍捲雲吧。文獻上說從龍捲雲尾部噴出的能量會引起暴風雨，威力甚至足以將整棟房屋吹走。
+牠和土地雲一樣，擁有化身形態和靈獸形態。不過龍捲雲是飛行屬性的寶可夢，所以我想我們這次應該去研究飛行屬性的寶可夢？
+你的調查真是太出色了！什麼？你在路上還捉到了鴨寶寶？看來這趟旅程真是越來越有趣了呢。
+我們目前能找到的龍捲雲資料就這麼多了。雖然牠的靈獸形態仍然是個謎，不過我們還是繼續往前吧。
+在研究我夢中最後一隻傳說的寶可夢前，有件事我得先跟你說一下。
+其實我之前睡午覺得時候，我又夢到了那三隻合眾地區的傳說的寶可夢，而且牠們的身影極為清晰……但牠們轉眼就消失了。你不知道這狀況很弔詭嗎？
+我覺得牠們似乎侵蝕了我的夢境……我想你最好也小心一點，不知道其他寶可夢是不是會突然出現。
+不過我們現在就先來調查最後一隻傳說的寶可夢「雷電雲」吧。
+雷擊寶可夢雷電雲同樣也擁有化身形態和靈獸形態，據說牠會從尾部的尖刺發出電擊、製造落雷呢。
+我們就先去調查電屬性的寶可夢，然後來完成雷電雲的報告吧。
+%PLAYERNAME%，你回來啦。我有件事要告訴你！
+我要先謝謝你幫我收集土地雲、龍捲雲和雷電雲的相關情報。
+我相信不論牠們接下來以任何一種形態出現，我們都能穩住陣腳，不至於驚慌失措。
+對了，你還記得我之前睡午覺時發生的事嗎？
+看來那似乎跟食夢寶可夢食夢夢有關。
+據說食夢夢在吃掉人類或寶可夢的夢之後會吐出煙霧。吃了快樂的夢時，煙霧是粉紅色的；如果是惡夢，煙霧則是黑灰色的。
+我想牠吃了我的夢之後，一定能吐出超美的粉紅煙霧。
+我要進一步研究食夢夢這隻不可思議的寶可夢。之後也要請你多多幫忙囉！
 嘿，%PLAYERNAME%！你來得正是時候。
 你聽我說。我有天晚上出去散步的時候，撿到了這顆奇妙的石頭。我的直覺叫我把它帶回研究室去做更進一步的研究，但自從我把它帶回來之後，怪事就不斷發生。
 報表到處亂跑、杯子自動倒下……
@@ -9146,6 +11387,11 @@ Thanks for all your assistance today, Trainer. Documenting situations like this 
 電擊獸擊電 (2/4)
 電擊獸擊電 (3/4)
 電擊獸擊電 (4/4)
+最勇敢的小鳥
+最勇敢的小鳥 (1/4)
+最勇敢的小鳥 (2/4)
+最勇敢的小鳥 (3/4)
+最勇敢的小鳥 (4/4)
 踢、踢、踢踏踢……
 踢、踢、踢踏踢……(1/5)
 踢、踢、踢踏踢……(2/5)
@@ -9341,11 +11587,24 @@ Let’s GO！美錄坦 (9/9)
 怪哉怪蛋 (4/6)
 怪哉怪蛋 (5/6)
 怪哉怪蛋 (6/6)
+遠走高飛……
+遠走高飛……(1/6)
+遠走高飛……(2/6)
+遠走高飛……(3/6)
+遠走高飛……(4/6)
+遠走高飛……(5/6)
+遠走高飛……(6/6)
 好一朵美麗的毒薔薇
 好一朵美麗的毒薔薇 (1/4)
 好一朵美麗的毒薔薇 (2/4)
 好一朵美麗的毒薔薇 (3/4)
 好一朵美麗的毒薔薇 (4/4)
+傳說的季節
+傳說的季節 (1/5)
+傳說的季節 (2/5)
+傳說的季節 (3/5)
+傳說的季節 (4/5)
+傳說的季節 (5/5)
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2018 (1/3)
 令人毛骨悚然的訊息 2019 (1/3)
@@ -9440,17 +11699,37 @@ Pokémon GO Safari Zone in YOKOSUKA
 交換1隻寶可夢
 傳送 {0} 隻寶可夢
 傳送1隻寶可夢
+傳送 {0} 隻蟲屬性的寶可夢
+傳送 {0} 隻惡屬性的寶可夢
+傳送 {0} 隻龍屬性的寶可夢
+傳送 {0} 隻電屬性的寶可夢
+傳送 {0} 隻妖精屬性的寶可夢
+傳送 {0} 隻格鬥屬性的寶可夢
+傳送 {0} 隻火屬性的寶可夢
+傳送 {0} 隻飛行屬性的寶可夢
  傳送 {0} 隻幽靈屬性的寶可夢
+傳送 {0} 隻草屬性的寶可夢
+傳送 {0} 隻地面屬性的寶可夢
+傳送 {0} 隻冰屬性的寶可夢
+傳送 {0} 隻一般屬性的寶可夢
+傳送 {0} 隻毒屬性的寶可夢
+傳送 {0} 隻超能力屬性的寶可夢
+傳送 {0} 隻岩石屬性的寶可夢
+傳送 {0} 隻鋼屬性的寶可夢
+傳送 {0} 隻水屬性的寶可夢
 Valentine's Day: 捕捉 {0} 隻愛心魚
 Valentine's Day: 捕捉1隻吉利蛋
+拜訪 {0} 個不同的寶可補給站
 拜訪 {0} 個從未去過的寶可補給站
 拜訪1個從未去過的寶可補給站
 拜訪 {0} 個寶可補給站
 旋轉1次寶可補給站的轉盤
+拜訪 {0} 個不同的寶可補給站或道館
 收到 {0} 次以時時刻刻冒險模式步行25公里的獎勵
 和夥伴一起走路，取得 {0} 顆糖果
 和夥伴一起走路，取得1顆糖果
 把伊布設為夥伴，並一起行走10公里
+步行 {0} km
 潑水節：捕捉寶可夢時使用 {0} 顆樹果來輔助
 潑水節：捕捉 {0} 隻鯉魚王或吼吼鯨
 潑水節：捕捉 {0} 隻水屬性的寶可夢
@@ -9544,10 +11823,730 @@ M月 d日
 公開小組
 建立小組
 傷害量
-團體戰日
+Raid Day
+團體戰日：暴雪王
+團體戰日：凱西
+團體戰日：阿勃梭魯
+團體戰日：敏捷蟲
+團體戰日：堅盾劍怪
+團體戰日：化石翼龍
+團體戰日：波士可多拉
+團體戰日：長尾怪手
+團體戰日：胡地
 團體戰日：阿羅拉嘎啦嘎啦
+團體戰日：保母曼波
+團體戰日：七夕青鳥
+團體戰日：冰雪龍
+團體戰日：雙尾怪手
+團體戰日：敗露球菇
+團體戰日：電龍
+團體戰日：太古羽蟲
+團體戰日：阿柏怪
+團體戰日：風速狗
+團體戰日：阿爾宙斯
+團體戰日：始祖小鳥
+團體戰日：始祖大鳥
+團體戰日：阿利多斯
+團體戰日：太古盔甲
+團體戰日：芳香精
+團體戰日：可可多拉
+團體戰日：急凍鳥
+團體戰日：差不多娃娃
+團體戰日：冰雪巨龍
+團體戰日：冰岩怪
+團體戰日：牙牙
+團體戰日：亞克諾姆
+團體戰日：瑪力露麗
+團體戰日：露力麗
+團體戰日：寶貝龍
+團體戰日：天秤偶
+團體戰日：詛咒娃娃
+團體戰日：龜足巨鎧
+團體戰日：泥泥鰍
+團體戰日：野蠻鱸魚
+團體戰日：護城龍
+團體戰日：月桂葉
+團體戰日：凍原熊
+團體戰日：狩獵鳳蝶
+團體戰日：大針蜂
+團體戰日：大宇怪
+團體戰日：鐵啞鈴
+團體戰日：美麗花
+團體戰日：喇叭芽
+團體戰日：冰寶
+團體戰日：大尾狸
+團體戰日：大牙狸
+團體戰日：龜腳腳
+團體戰日：劈斬司令
+團體戰日：水箭龜
+團體戰日：火焰雞
+團體戰日：幸福蛋
+團體戰日：斑斑馬
+團體戰日：地幔岩
+團體戰日：盆才怪
+團體戰日：爆炸頭水牛
+團體戰日：長尾火狐
+團體戰日：勇士雄鷹
+團體戰日：斗笠菇
+團體戰日：青銅鐘
+團體戰日：銅鏡怪
+團體戰日：含羞苞
+團體戰日：泳圈鼬
+團體戰日：妙蛙種子
+團體戰日：捲捲耳
+團體戰日：掘掘兔
+團體戰日：結草兒
+團體戰日：巴大蝶
+團體戰日：刺球仙人掌
+團體戰日：夢歌仙人掌
+團體戰日：噴火駝
+團體戰日：小碎鑽
+團體戰日：尖牙籠
+團體戰日：肋骨海龜
+團體戰日：利牙魚
+團體戰日：盾甲繭
+團體戰日：飄浮泡泡
+團體戰日：綠毛蟲
+團體戰日：時拉比
+團體戰日：水晶燈火靈
+團體戰日：吉利蛋
+團體戰日：噴火龍
+團體戰日：小火龍
+團體戰日：火恐龍
+團體戰日：聒噪鳥
+團體戰日：櫻花兒
+團體戰日：櫻花寶
+團體戰日：布里卡隆
+團體戰日：哈力栗
+團體戰日：菊草葉
+團體戰日：小火焰猴
+團體戰日：風鈴鈴
+團體戰日：燈籠魚
+團體戰日：鈴鐺響
+團體戰日：奇諾栗鼠
+團體戰日：珍珠貝
+團體戰日：鐵臂槍蝦
+團體戰日：鋼炮臂蝦
+團體戰日：念力土偶
+團體戰日：皮可西
+團體戰日：皮皮
+團體戰日：皮寶寶
+團體戰日：刺甲貝
+團體戰日：勾帕路翁
+團體戰日：死神棺
+團體戰日：三蜜蜂
+團體戰日：力壯雞
+團體戰日：修建老匠
+團體戰日：龍蝦小兵
+團體戰日：太陽珊瑚
+團體戰日：木棉球
+團體戰日：搖籃百合
+團體戰日：頭蓋龍
+團體戰日：鐵螯龍蝦
+團體戰日：克雷色利亞
+團體戰日：不良蛙
+團體戰日：叉字蝠
+團體戰日：藍鱷
+團體戰日：岩殿居蟹
+團體戰日：幾何雪花
+團體戰日：噴嚏熊
+團體戰日：卡拉卡拉
+團體戰日：火球鼠
+團體戰日：達克萊伊
+團體戰日：達摩狒狒
+團體戰日：火紅不倒翁
+團體戰日：咚咚鼠
+團體戰日：四季鹿
+團體戰日：單首龍
+團體戰日：優雅貓
+團體戰日：信使鳥
+團體戰日：妖火紅狐
+團體戰日：代歐奇希斯
+團體戰日：白海獅
+團體戰日：雙刃丸
+團體戰日：帝牙盧卡
+團體戰日：蒂安希
+團體戰日：掘地兔
+團體戰日：地鼠
+團體戰日：百變怪
+團體戰日：嘟嘟利
+團體戰日：嘟嘟
+團體戰日：頓甲
+團體戰日：雙劍鞘
+團體戰日：毒藻龍
+團體戰日：哈克龍
+團體戰日：快龍
+團體戰日：龍王蠍
+團體戰日：迷你龍
+團體戰日：隨風球
+團體戰日：飄飄球
+團體戰日：螺釘地鼠
+團體戰日：催眠貘
+團體戰日：赤面龍
+團體戰日：鴨寶寶
+團體戰日：三地鼠
+團體戰日：土龍弟弟
+團體戰日：雙卵細胞球
+團體戰日：鐵蟻
+團體戰日：彷徨夜靈
+團體戰日：黑夜魔靈
+團體戰日：夜巡靈
+團體戰日：毒粉蛾
+團體戰日：石居蟹
+團體戰日：麻麻鰻
+團體戰日：麻麻鰻魚王
+團體戰日：伊布
+團體戰日：阿柏蛇
+團體戰日：電擊獸
+團體戰日：電擊魔獸
+團體戰日：落雷獸
+團體戰日：頑皮雷彈
+團體戰日：電擊怪
+團體戰日：小灰怪
+團體戰日：炎武王
+團體戰日：電飛鼠
+團體戰日：帝王拿波
+團體戰日：炎帝
+團體戰日：騎士蝸牛
+團體戰日：太陽伊布
+團體戰日：妙喵
+團體戰日：龍頭地鼠
+團體戰日：蛋蛋
+團體戰日：椰蛋樹
+團體戰日：爆音怪
+團體戰日：大蔥鴨
+團體戰日：大嘴雀
+團體戰日：醜醜魚
+團體戰日：火狐狸
+團體戰日：大力鱷
+團體戰日：種子鐵球
+團體戰日：堅果啞鈴
+團體戰日：螢光魚
+團體戰日：茸茸羊
+團體戰日：花蓓蓓
+團體戰日：火伊布
+團體戰日：火箭雀
+團體戰日：小箭雀
+團體戰日：浮潛鼬
+團體戰日：花葉蒂
+團體戰日：花潔夫人
+團體戰日：沙漠蜻蜓
+團體戰日：哎呀球菇
+團體戰日：佛烈托斯
+團體戰日：斧牙龍
+團體戰日：輕飄飄
+團體戰日：呱呱泡蛙
+團體戰日：呱頭蛙
+團體戰日：雪妖女
+團體戰日：多麗米亞
+團體戰日：大尾立
+團體戰日：尖牙陸鯊
+團體戰日：艾路雷朵
+團體戰日：電蜘蛛
+團體戰日：灰塵山
+團體戰日：烈咬陸鯊
+團體戰日：沙奈朵
+團體戰日：鬼斯
+團體戰日：海兔獸
+團體戰日：蓋諾賽克特
+團體戰日：耿鬼
+團體戰日：小拳石
+團體戰日：圓陸鯊
+團體戰日：龐岩怪
+團體戰日：麒麟奇
+團體戰日：騎拉帝納
+團體戰日：冰伊布
+團體戰日：冰鬼護
+團體戰日：魅力喵
+團體戰日：天蠍
+團體戰日：天蠍王
+團體戰日：臭臭花
+團體戰日：坐騎山羊
+團體戰日：大嘴蝠
+團體戰日：角金魚
+團體戰日：哥達鴨
+團體戰日：隆隆岩
+團體戰日：泥偶小人
+團體戰日：泥偶巨人
+團體戰日：黏美龍
+團體戰日：黏黏寶
+團體戰日：櫻花魚
+團體戰日：哥德寶寶
+團體戰日：哥德小姐
+團體戰日：哥德小童
+團體戰日：南瓜怪人
+團體戰日：布魯皇
+團體戰日：隆隆石
+團體戰日：甲賀忍蛙
+團體戰日：臭泥
+團體戰日：樹林龜
+團體戰日：固拉多
+團體戰日：森林蜥蜴
+團體戰日：卡蒂狗
+團體戰日：噗噗豬
+團體戰日：溶食獸
+團體戰日：鐵骨土人
+團體戰日：暴鯉龍
+團體戰日：小福蛋
+團體戰日：鐵掌力士
+團體戰日：鬼斯通
+團體戰日：摔角鷹人
+團體戰日：雙斧戰龍
+團體戰日：熔蟻獸
+團體戰日：席多藍恩
+團體戰日：光電傘蜥
+團體戰日：傘電蜥
+團體戰日：赫拉克羅斯
+團體戰日：哈約克
+團體戰日：沙河馬
+團體戰日：河馬獸
+團體戰日：快拳郎
+團體戰日：飛腿郎
+團體戰日：戰舞郎
+團體戰日：鳳王
+團體戰日：烏鴉頭頭
+團體戰日：獨劍鞘
+團體戰日：胡帕
+團體戰日：咕咕
+團體戰日：毽子草
+團體戰日：墨海馬
+團體戰日：黑魯加
+團體戰日：戴魯比
+團體戰日：獵斑魚
+團體戰日：三首惡龍
+團體戰日：引夢貘人
+團體戰日：寶寶丁
+團體戰日：甜甜螢
+團體戰日：烈焰猴
+團體戰日：好啦魷
+團體戰日：妙蛙草
+團體戰日：胖嘟嘟
+團體戰日：胖丁
+團體戰日：基拉祈
+團體戰日：雷伊布
+團體戰日：電電蟲
+團體戰日：毽子棉
+團體戰日：迷唇姐
+團體戰日：化石盔
+團體戰日：鐮刀盔
+團體戰日：勇基拉
+團體戰日：鐵殼蛹
+團體戰日：袋獸
+團體戰日：蓋蓋蟲
+團體戰日：變隱龍
+團體戰日：凱路迪歐
+團體戰日：刺龍王
+團體戰日：巨鉗蟹
+團體戰日：奇魯莉安
+團體戰日：齒輪組
+團體戰日：鑰圈兒
+團體戰日：齒輪兒
+團體戰日：齒輪怪
+團體戰日：瓦斯彈
+團體戰日：大鉗蟹
+團體戰日：圓法師
+團體戰日：音箱蟀
+團體戰日：混混鱷
+團體戰日：流氓鱷
+團體戰日：蓋歐卡
+團體戰日：酋雷姆
+團體戰日：可多拉
+團體戰日：燈火幽靈
+團體戰日：土地雲
+團體戰日：電燈怪
+團體戰日：拉普拉斯
+團體戰日：燃燒蟲
+團體戰日：幼基拉斯
+團體戰日：拉帝亞斯
+團體戰日：拉帝歐斯
+團體戰日：葉伊布
+團體戰日：保母蟲
+團體戰日：安瓢蟲
+團體戰日：芭瓢蟲
+團體戰日：大舌舔
+團體戰日：大舌頭
+團體戰日：酷豹
+團體戰日：觸手百合
+團體戰日：裙兒小姐
+團體戰日：小約克
+團體戰日：直衝熊
+團體戰日：小獅獅
+團體戰日：燭光靈
+團體戰日：蓮帽小童
+團體戰日：長耳兔
+團體戰日：蓮葉童子
+團體戰日：吼爆彈
+團體戰日：路卡利歐
+團體戰日：樂天河童
+團體戰日：洛奇亞
+團體戰日：霓虹魚
+團體戰日：月石
+團體戰日：愛心魚
+團體戰日：勒克貓
+團體戰日：倫琴貓
+團體戰日：怪力
+團體戰日：豪力
+團體戰日：腕力
+團體戰日：鴨嘴寶寶
+團體戰日：熔岩蝸牛
+團體戰日：鯉魚王
+團體戰日：鴨嘴火獸
+團體戰日：鴨嘴炎獸
+團體戰日：小磁怪
+團體戰日：三合一磁怪
+團體戰日：自爆磁怪
+團體戰日：幕下力士
+團體戰日：烏賊王
+團體戰日：象牙豬
+團體戰日：瑪納霏
+團體戰日：禿鷹娜
+團體戰日：雷電獸
+團體戰日：猴怪
+團體戰日：巨翅飛魚
+團體戰日：小球飛魚
+團體戰日：沙鈴仙人掌
+團體戰日：咩利羊
+團體戰日：瑪力露
+團體戰日：嘎啦嘎啦
+團體戰日：沼躍魚
+團體戰日：雨翅蛾
+團體戰日：大嘴娃
+團體戰日：恰雷姆
+團體戰日：瑪沙那
+團體戰日：大竺葵
+團體戰日：美洛耶塔
+團體戰日：超能妙喵
+團體戰日：喵喵
+團體戰日：艾姆利多
+團體戰日：巨金怪
+團體戰日：金屬怪
+團體戰日：鐵甲蛹
+團體戰日：夢幻
+團體戰日：超夢
+團體戰日：功夫鼬
+團體戰日：師父鼬
+團體戰日：大狼犬
+團體戰日：美納斯
+團體戰日：大奶罐
+團體戰日：魔尼尼
+團體戰日：泡沫栗鼠
+團體戰日：負電拍拍
+團體戰日：夢妖
+團體戰日：夢妖魔
+團體戰日：火焰鳥
+團體戰日：猛火猴
+團體戰日：紳士蛾
+團體戰日：魔牆人偶
+團體戰日：水躍魚
+團體戰日：臭臭泥
+團體戰日：小卡比獸
+團體戰日：食夢夢
+團體戰日：黑暗鴉
+團體戰日：夢夢蝕
+團體戰日：天然雀
+團體戰日：尼多王
+團體戰日：尼多后
+團體戰日：尼多蘭
+團體戰日：尼多朗
+團體戰日：尼多娜
+團體戰日：尼多力諾
+團體戰日：土居忍士
+團體戰日：九尾
+團體戰日：鐵面忍者
+團體戰日：貓頭夜鷹
+團體戰日：嗡蝠
+團體戰日：音波龍
+團體戰日：朝北鼻
+團體戰日：呆火駝
+團體戰日：長鼻葉
+團體戰日：章魚桶
+團體戰日：走路草
+團體戰日：菊石獸
+團體戰日：多刺菊石獸
+團體戰日：大岩蛇
+團體戰日：水水獺
+團體戰日：帕奇利茲
+團體戰日：帕路奇亞
+團體戰日：藍蟾蜍
+團體戰日：頑皮熊貓
+團體戰日：流氓熊貓
+團體戰日：冷水猴
+團體戰日：花椰猴
+團體戰日：爆香猴
+團體戰日：派拉斯
+團體戰日：派拉斯特
+團體戰日：探探鼠
+團體戰日：駒刀小兵
+團體戰日：大嘴鷗
+團體戰日：貓老大
+團體戰日：百合根娃娃
+團體戰日：小小象
+團體戰日：小木靈
+團體戰日：霏歐納
+團體戰日：皮丘
+團體戰日：大比鳥
+團體戰日：比比鳥
+團體戰日：波波
+團體戰日：豆豆鴿
+團體戰日：炒炒豬
+團體戰日：皮卡丘
+團體戰日：長毛豬
+團體戰日：榛果球
 團體戰日：凱羅斯
+團體戰日：波加曼
+團體戰日：正電拍拍
 特殊寶可夢將在所有團體戰中出現
+團體戰日：蚊香蛙皇
+團體戰日：蚊香蝌蚪
+團體戰日：蚊香君
+團體戰日：蚊香泳士
+團體戰日：小火馬
+團體戰日：土狼犬
+團體戰日：多邊獸
+團體戰日：多邊獸Ｚ
+團體戰日：多邊獸Ⅱ
+團體戰日：火爆猴
+團體戰日：波皇子
+團體戰日：大朝北鼻
+團體戰日：可達鴨
+團體戰日：南瓜精
+團體戰日：沙基拉斯
+團體戰日：扒手貓
+團體戰日：東施喵
+團體戰日：火炎獅
+團體戰日：沼王
+團體戰日：火岩鼠
+團體戰日：胖胖哈力
+團體戰日：千針魚
+團體戰日：雷丘
+團體戰日：雷公
+團體戰日：拉魯拉絲
+團體戰日：戰槌龍
+團體戰日：烈焰馬
+團體戰日：拉達
+團體戰日：小拉達
+團體戰日：烈空坐
+團體戰日：雷吉艾斯
+團體戰日：雷吉奇卡斯
+團體戰日：雷吉洛克
+團體戰日：雷吉斯奇魯
+團體戰日：古空棘魚
+團體戰日：鐵炮魚
+團體戰日：萊希拉姆
+團體戰日：人造細胞卵
+團體戰日：鑽角犀獸
+團體戰日：獨角犀牛
+團體戰日：超甲狂犀
+團體戰日：利歐路
+團體戰日：石丸子
+團體戰日：毒薔薇
+團體戰日：羅絲雷朵
+團體戰日：洛托姆
+團體戰日：毛頭小鷹
+團體戰日：勾魂眼
+團體戰日：暴飛龍
+團體戰日：大劍鬼
+團體戰日：黑眼鱷
+團體戰日：穿山鼠
+團體戰日：穿山王
+團體戰日：打擊鬼
+團體戰日：萌芽鹿
+團體戰日：粉蝶蟲
+團體戰日：蜥蜴王
+團體戰日：巨鉗螳螂
+團體戰日：蜈蚣王
+團體戰日：頭巾混混
+團體戰日：滑滑小子
+團體戰日：飛天螳螂
+團體戰日：海刺龍
+團體戰日：金魚王
+團體戰日：海魔獅
+團體戰日：橡實果
+團體戰日：小海獅
+團體戰日：蟾蜍王
+團體戰日：尾立
+團體戰日：君主蛇
+團體戰日：青藤蛇
+團體戰日：飯匙蛇
+團體戰日：蟲寶包
+團體戰日：巨牙鯊
+團體戰日：謝米
+團體戰日：脫殼忍者
+團體戰日：甲殼龍
+團體戰日：大舌貝
+團體戰日：無殼海兔
+團體戰日：小嘴蝸
+團體戰日：盾甲龍
+團體戰日：狡猾天狗
+團體戰日：小貓怪
+團體戰日：蘑蘑菇
+團體戰日：壺壺
+團體戰日：怨影娃娃
+團體戰日：象徵鳥
+團體戰日：甲殼繭
+團體戰日：冷水猿
+團體戰日：花椰猿
+團體戰日：爆香猿
+團體戰日：盔甲鳥
+團體戰日：坐騎小羊
+團體戰日：毽子花
+團體戰日：向尾喵
+團體戰日：鉗尾蠍
+團體戰日：垃垃藻
+團體戰日：坦克臭鼬
+團體戰日：請假王
+團體戰日：懶人獺
+團體戰日：黏美兒
+團體戰日：呆殼獸
+團體戰日：呆呆王
+團體戰日：呆呆獸
+團體戰日：熔岩蟲
+團體戰日：胖甜妮
+團體戰日：圖圖犬
+團體戰日：迷唇娃
+團體戰日：狃拉
+團體戰日：藤藤蛇
+團體戰日：卡比獸
+團體戰日：雪童子
+團體戰日：雪笠怪
+團體戰日：布魯
+團體戰日：單卵細胞球
+團體戰日：太陽岩
+團體戰日：烈雀
+團體戰日：粉蝶蛹
+團體戰日：海豹球
+團體戰日：圓絲蛛
+團體戰日：晃晃斑
+團體戰日：花岩怪
+團體戰日：跳跳豬
+團體戰日：粉香香
+團體戰日：傑尼龜
+團體戰日：驚角鹿
+團體戰日：姆克鷹
+團體戰日：姆克鳥
+團體戰日：姆克兒
+團體戰日：寶石海星
+團體戰日：海星星
+團體戰日：大鋼蛇
+團體戰日：長毛狗
+團體戰日：泥巴魚
+團體戰日：臭鼬噗
+團體戰日：樹才怪
+團體戰日：水君
+團體戰日：向日花怪
+團體戰日：向日種子
+團體戰日：溜溜糖球
+團體戰日：青綿鳥
+團體戰日：寶包繭
+團體戰日：吞食獸
+團體戰日：巨沼怪
+團體戰日：舞天鵝
+團體戰日：大王燕
+團體戰日：小山豬
+團體戰日：綿綿泡芙
+團體戰日：心蝙蝠
+團體戰日：仙子伊布
+團體戰日：傲骨燕
+團體戰日：烈箭鷹
+團體戰日：蔓藤怪
+團體戰日：巨蔓藤
+團體戰日：肯泰羅
+團體戰日：熊寶寶
+團體戰日：瑪瑙水母
+團體戰日：毒刺水母
+團體戰日：暖暖豬
+團體戰日：代拉基翁
+團體戰日：投摔鬼
+團體戰日：雷電雲
+團體戰日：搬運小匠
+團體戰日：原蓋海龜
+團體戰日：波克基斯
+團體戰日：波克比
+團體戰日：波克基古
+團體戰日：火稚雞
+團體戰日：煤炭龜
+團體戰日：龍捲雲
+團體戰日：土台龜
+團體戰日：小鋸鱷
+團體戰日：毒骷蛙
+團體戰日：咕咕鴿
+團體戰日：大顎蟻
+團體戰日：木守宮
+團體戰日：朽木妖
+團體戰日：熱帶龍
+團體戰日：破破袋
+團體戰日：草苗龜
+團體戰日：圓蝌蚪
+團體戰日：麻麻小魚
+團體戰日：火爆獸
+團體戰日：班基拉斯
+團體戰日：怪顎龍
+團體戰日：無畏小子
+團體戰日：寶寶暴龍
+團體戰日：月亮伊布
+團體戰日：高傲雉雞
+團體戰日：未知圖騰
+團體戰日：圈圈熊
+團體戰日：由克希
+團體戰日：多多冰
+團體戰日：迷你冰
+團體戰日：雙倍多多冰
+團體戰日：水伊布
+團體戰日：百足蜈蚣
+團體戰日：摩魯蛾
+團體戰日：毛球
+團體戰日：妙蛙花
+團體戰日：蜂女王
+團體戰日：超音波幼蟲
+團體戰日：比克提尼
+團體戰日：大食花
+團體戰日：過動猿
+團體戰日：霸王花
+團體戰日：畢力吉翁
+團體戰日：彩粉蝶
+團體戰日：電螢蟲
+團體戰日：波爾凱尼恩
+團體戰日：火神蛾
+團體戰日：霹靂電球
+團體戰日：禿鷹丫頭
+團體戰日：六尾
+團體戰日：吼吼鯨
+團體戰日：吼鯨王
+團體戰日：帝牙海獅
+團體戰日：卡咪龜
+團體戰日：步哨鼠
+團體戰日：瑪狃拉
+團體戰日：獨角蟲
+團體戰日：口呆花
+團體戰日：雙彈瓦斯
+團體戰日：風妖精
+團體戰日：車輪毬
+團體戰日：鯰魚王
+團體戰日：咕妞妞
+團體戰日：胖可丁
+團體戰日：長翅鷗
+團體戰日：果然翁
+團體戰日：滾滾蝙蝠
+團體戰日：烏波
+團體戰日：結草貴婦
+團體戰日：刺尾蟲
+團體戰日：小果然
+團體戰日：天然鳥
+團體戰日：哲爾尼亞斯
+團體戰日：哭哭面具
+團體戰日：蜻蜻蜓
+團體戰日：遠古巨蜓
+團體戰日：伊裴爾塔爾
+團體戰日：貓鼬斬
+團體戰日：閃電鳥
+團體戰日：雷電斑馬
+團體戰日：捷克羅姆
+團體戰日：蛇紋熊
+團體戰日：索羅亞克
+團體戰日：索羅亞
+團體戰日：超音蝠
+團體戰日：雙首暴龍
+團體戰日：基格爾德
 擊敗頭目
 所有寶可夢都陷入瀕死狀態了
 選擇新的寶可夢，或是回復瀕死寶可夢的HP後再來挑戰！
@@ -9565,9 +12564,9 @@ M月 d日
 團體戰場次增加
 五星團體戰增加
 四星團體戰增加
-一星團體戰增加
-三星團體戰增加
-二星團體戰增加
+Increased number of one-star raids
+Increased number of three-star raids
+Increased number of two-star raids
 玩法
 參加
 輸入小組代碼
@@ -9581,6 +12580,7 @@ M月 d日
 此團體戰大廳已過期
 請稍後再試一次
 此團體戰參戰人數已滿
+道具
 名額已滿
 在團體戰中得到 {0} 個道具！
 團體戰成員
@@ -9619,8 +12619,730 @@ M月 d日
 團體戰是什麼？
 在團體戰中，你將會和其他訓練家（最多19名）一起挑戰強大的頭目寶可夢。同心協力擊敗頭目寶可夢後，將可獲得超棒的獎品和捕捉強大寶可夢的機會！
 團體戰週
+週末特別團體戰：暴雪王
+週末特別團體戰：凱西
+週末特別團體戰：阿勃梭魯
+週末特別團體戰：敏捷蟲
+週末特別團體戰：堅盾劍怪
+週末特別團體戰：化石翼龍
+週末特別團體戰：波士可多拉
+週末特別團體戰：長尾怪手
+週末特別團體戰：胡地
+週末特別團體戰：保母曼波
+週末特別團體戰：七夕青鳥
+週末特別團體戰：冰雪龍
+週末特別團體戰：雙尾怪手
+週末特別團體戰：敗露球菇
+週末特別團體戰：電龍
+週末特別團體戰：太古羽蟲
+週末特別團體戰：阿柏怪
+週末特別團體戰：風速狗
+週末特別團體戰：阿爾宙斯
+週末特別團體戰：始祖小鳥
+週末特別團體戰：始祖大鳥
+週末特別團體戰：阿利多斯
+週末特別團體戰：太古盔甲
+週末特別團體戰：芳香精
+週末特別團體戰：可可多拉
+週末特別團體戰：急凍鳥
+週末特別團體戰：差不多娃娃
+週末特別團體戰：冰雪巨龍
+週末特別團體戰：冰岩怪
+週末特別團體戰：牙牙
+週末特別團體戰：亞克諾姆
+週末特別團體戰：瑪力露麗
+週末特別團體戰：露力麗
+週末特別團體戰：寶貝龍
+週末特別團體戰：天秤偶
+週末特別團體戰：詛咒娃娃
+週末特別團體戰：龜足巨鎧
+週末特別團體戰：泥泥鰍
+週末特別團體戰：野蠻鱸魚
+週末特別團體戰：護城龍
+週末特別團體戰：月桂葉
+週末特別團體戰：凍原熊
+週末特別團體戰：狩獵鳳蝶
+週末特別團體戰：大針蜂
+週末特別團體戰：大宇怪
+週末特別團體戰：鐵啞鈴
+週末特別團體戰：美麗花
+週末特別團體戰：喇叭芽
+週末特別團體戰：冰寶
+週末特別團體戰：大尾狸
+週末特別團體戰：大牙狸
+週末特別團體戰：龜腳腳
+週末特別團體戰：劈斬司令
+週末特別團體戰：水箭龜
+週末特別團體戰：火焰雞
+週末特別團體戰：幸福蛋
+週末特別團體戰：斑斑馬
+週末特別團體戰：地幔岩
+週末特別團體戰：盆才怪
+週末特別團體戰：爆炸頭水牛
+週末特別團體戰：長尾火狐
+週末特別團體戰：勇士雄鷹
+週末特別團體戰：斗笠菇
+週末特別團體戰：青銅鐘
+週末特別團體戰：銅鏡怪
+週末特別團體戰：含羞苞
+週末特別團體戰：泳圈鼬
+週末特別團體戰：妙蛙種子
+週末特別團體戰：捲捲耳
+週末特別團體戰：掘掘兔
+週末特別團體戰：結草兒
+週末特別團體戰：巴大蝶
+週末特別團體戰：刺球仙人掌
+週末特別團體戰：夢歌仙人掌
+週末特別團體戰：噴火駝
+週末特別團體戰：小碎鑽
+週末特別團體戰：尖牙籠
+週末特別團體戰：肋骨海龜
+週末特別團體戰：利牙魚
+週末特別團體戰：盾甲繭
+週末特別團體戰：飄浮泡泡
+週末特別團體戰：綠毛蟲
+週末特別團體戰：時拉比
+週末特別團體戰：水晶燈火靈
+週末特別團體戰：吉利蛋
+週末特別團體戰：噴火龍
+週末特別團體戰：小火龍
+週末特別團體戰：火恐龍
+週末特別團體戰：聒噪鳥
+週末特別團體戰：櫻花兒
+週末特別團體戰：櫻花寶
+週末特別團體戰：布里卡隆
+週末特別團體戰：哈力栗
+週末特別團體戰：菊草葉
+週末特別團體戰：小火焰猴
+週末特別團體戰：風鈴鈴
+週末特別團體戰：燈籠魚
+週末特別團體戰：鈴鐺響
+週末特別團體戰：奇諾栗鼠
+週末特別團體戰：珍珠貝
+週末特別團體戰：鐵臂槍蝦
+週末特別團體戰：鋼炮臂蝦
+週末特別團體戰：念力土偶
+週末特別團體戰：皮可西
+週末特別團體戰：皮皮
+週末特別團體戰：皮寶寶
+週末特別團體戰：刺甲貝
+週末特別團體戰：勾帕路翁
+週末特別團體戰：死神棺
+週末特別團體戰：三蜜蜂
+週末特別團體戰：力壯雞
+週末特別團體戰：修建老匠
+週末特別團體戰：龍蝦小兵
+週末特別團體戰：太陽珊瑚
+週末特別團體戰：木棉球
+週末特別團體戰：搖籃百合
+週末特別團體戰：頭蓋龍
+週末特別團體戰：鐵螯龍蝦
+週末特別團體戰：克雷色利亞
+週末特別團體戰：不良蛙
+週末特別團體戰：叉字蝠
+週末特別團體戰：藍鱷
+週末特別團體戰：岩殿居蟹
+週末特別團體戰：幾何雪花
+週末特別團體戰：噴嚏熊
+週末特別團體戰：卡拉卡拉
+週末特別團體戰：火球鼠
+週末特別團體戰：達克萊伊
+週末特別團體戰：達摩狒狒
+週末特別團體戰：火紅不倒翁
+週末特別團體戰：咚咚鼠
+週末特別團體戰：四季鹿
+週末特別團體戰：單首龍
+週末特別團體戰：優雅貓
+週末特別團體戰：信使鳥
+週末特別團體戰：妖火紅狐
+週末特別團體戰：代歐奇希斯
+週末特別團體戰：白海獅
+週末特別團體戰：雙刃丸
+週末特別團體戰：帝牙盧卡
+週末特別團體戰：蒂安希
+週末特別團體戰：掘地兔
+週末特別團體戰：地鼠
+週末特別團體戰：百變怪
+週末特別團體戰：嘟嘟利
+週末特別團體戰：嘟嘟
+週末特別團體戰：頓甲
+週末特別團體戰：雙劍鞘
+週末特別團體戰：毒藻龍
+週末特別團體戰：哈克龍
+週末特別團體戰：快龍
+週末特別團體戰：龍王蠍
+週末特別團體戰：迷你龍
+週末特別團體戰：隨風球
+週末特別團體戰：飄飄球
+週末特別團體戰：螺釘地鼠
+週末特別團體戰：催眠貘
+週末特別團體戰：赤面龍
+週末特別團體戰：鴨寶寶
+週末特別團體戰：三地鼠
+週末特別團體戰：土龍弟弟
+週末特別團體戰：雙卵細胞球
+週末特別團體戰：鐵蟻
+週末特別團體戰：彷徨夜靈
+週末特別團體戰：黑夜魔靈
+週末特別團體戰：夜巡靈
+週末特別團體戰：毒粉蛾
+週末特別團體戰：石居蟹
+週末特別團體戰：麻麻鰻
+週末特別團體戰：麻麻鰻魚王
+週末特別團體戰：伊布
+週末特別團體戰：阿柏蛇
+週末特別團體戰：電擊獸
+週末特別團體戰：電擊魔獸
+週末特別團體戰：落雷獸
+週末特別團體戰：頑皮雷彈
+週末特別團體戰：電擊怪
+週末特別團體戰：小灰怪
+週末特別團體戰：炎武王
+週末特別團體戰：電飛鼠
+週末特別團體戰：帝王拿波
+週末特別團體戰：炎帝
+週末特別團體戰：騎士蝸牛
+週末特別團體戰：太陽伊布
+週末特別團體戰：妙喵
 週末特別團體戰
+週末特別團體戰：龍頭地鼠
+週末特別團體戰：蛋蛋
+週末特別團體戰：椰蛋樹
+週末特別團體戰：爆音怪
+週末特別團體戰：大蔥鴨
+週末特別團體戰：大嘴雀
+週末特別團體戰：醜醜魚
+週末特別團體戰：火狐狸
+週末特別團體戰：大力鱷
+週末特別團體戰：種子鐵球
+週末特別團體戰：堅果啞鈴
+週末特別團體戰：螢光魚
+週末特別團體戰：茸茸羊
+週末特別團體戰：花蓓蓓
+週末特別團體戰：火伊布
+週末特別團體戰：火箭雀
+週末特別團體戰：小箭雀
+週末特別團體戰：浮潛鼬
+週末特別團體戰：花葉蒂
+週末特別團體戰：花潔夫人
+週末特別團體戰：沙漠蜻蜓
+週末特別團體戰：哎呀球菇
+週末特別團體戰：佛烈托斯
+週末特別團體戰：斧牙龍
+週末特別團體戰：輕飄飄
+週末特別團體戰：呱呱泡蛙
+週末特別團體戰：呱頭蛙
+週末特別團體戰：雪妖女
+週末特別團體戰：多麗米亞
+週末特別團體戰：大尾立
+週末特別團體戰：尖牙陸鯊
+週末特別團體戰：艾路雷朵
+週末特別團體戰：電蜘蛛
+週末特別團體戰：灰塵山
+週末特別團體戰：烈咬陸鯊
+週末特別團體戰：沙奈朵
+週末特別團體戰：鬼斯
+週末特別團體戰：海兔獸
+週末特別團體戰：蓋諾賽克特
+週末特別團體戰：耿鬼
+週末特別團體戰：小拳石
+週末特別團體戰：圓陸鯊
+週末特別團體戰：龐岩怪
+週末特別團體戰：麒麟奇
+週末特別團體戰：騎拉帝納
+週末特別團體戰：冰伊布
+週末特別團體戰：冰鬼護
+週末特別團體戰：魅力喵
+週末特別團體戰：天蠍
+週末特別團體戰：天蠍王
+週末特別團體戰：臭臭花
+週末特別團體戰：坐騎山羊
+週末特別團體戰：大嘴蝠
+週末特別團體戰：角金魚
+週末特別團體戰：哥達鴨
+週末特別團體戰：隆隆岩
+週末特別團體戰：泥偶小人
+週末特別團體戰：泥偶巨人
+週末特別團體戰：黏美龍
+週末特別團體戰：黏黏寶
+週末特別團體戰：櫻花魚
+週末特別團體戰：哥德寶寶
+週末特別團體戰：哥德小姐
+週末特別團體戰：哥德小童
+週末特別團體戰：南瓜怪人
+週末特別團體戰：布魯皇
+週末特別團體戰：隆隆石
+週末特別團體戰：甲賀忍蛙
+週末特別團體戰：臭泥
+週末特別團體戰：樹林龜
+週末特別團體戰：固拉多
+週末特別團體戰：森林蜥蜴
+週末特別團體戰：卡蒂狗
+週末特別團體戰：噗噗豬
+週末特別團體戰：溶食獸
+週末特別團體戰：鐵骨土人
+週末特別團體戰：暴鯉龍
+週末特別團體戰：小福蛋
+週末特別團體戰：鐵掌力士
+週末特別團體戰：鬼斯通
+週末特別團體戰：摔角鷹人
+週末特別團體戰：雙斧戰龍
+週末特別團體戰：熔蟻獸
+週末特別團體戰：席多藍恩
+週末特別團體戰：光電傘蜥
+週末特別團體戰：傘電蜥
+週末特別團體戰：赫拉克羅斯
+週末特別團體戰：哈約克
+週末特別團體戰：沙河馬
+週末特別團體戰：河馬獸
+週末特別團體戰：快拳郎
+週末特別團體戰：飛腿郎
+週末特別團體戰：戰舞郎
+週末特別團體戰：鳳王
+週末特別團體戰：烏鴉頭頭
+週末特別團體戰：獨劍鞘
+週末特別團體戰：胡帕
+週末特別團體戰：咕咕
+週末特別團體戰：毽子草
+週末特別團體戰：墨海馬
+週末特別團體戰：黑魯加
+週末特別團體戰：戴魯比
+週末特別團體戰：獵斑魚
+週末特別團體戰：三首惡龍
+週末特別團體戰：引夢貘人
+週末特別團體戰：寶寶丁
+週末特別團體戰：甜甜螢
+週末特別團體戰：烈焰猴
+週末特別團體戰：好啦魷
+週末特別團體戰：妙蛙草
+週末特別團體戰：胖嘟嘟
+週末特別團體戰：胖丁
+週末特別團體戰：基拉祈
+週末特別團體戰：雷伊布
+週末特別團體戰：電電蟲
+週末特別團體戰：毽子棉
+週末特別團體戰：迷唇姐
+週末特別團體戰：化石盔
+週末特別團體戰：鐮刀盔
+週末特別團體戰：勇基拉
+週末特別團體戰：鐵殼蛹
+週末特別團體戰：袋獸
+週末特別團體戰：蓋蓋蟲
+週末特別團體戰：變隱龍
+週末特別團體戰：凱路迪歐
+週末特別團體戰：刺龍王
+週末特別團體戰：巨鉗蟹
+週末特別團體戰：奇魯莉安
+週末特別團體戰：齒輪組
+週末特別團體戰：鑰圈兒
+週末特別團體戰：齒輪兒
+週末特別團體戰：齒輪怪
+週末特別團體戰：瓦斯彈
+週末特別團體戰：大鉗蟹
+週末特別團體戰：圓法師
+週末特別團體戰：音箱蟀
+週末特別團體戰：混混鱷
+週末特別團體戰：流氓鱷
+週末特別團體戰：蓋歐卡
+週末特別團體戰：酋雷姆
+週末特別團體戰：可多拉
+週末特別團體戰：燈火幽靈
+週末特別團體戰：土地雲
+週末特別團體戰：電燈怪
+週末特別團體戰：拉普拉斯
+週末特別團體戰：燃燒蟲
+週末特別團體戰：幼基拉斯
+週末特別團體戰：拉帝亞斯
+週末特別團體戰：拉帝歐斯
 拉帝亞斯和拉帝歐斯降臨5星團體戰
+週末特別團體戰：葉伊布
+週末特別團體戰：保母蟲
+週末特別團體戰：安瓢蟲
+週末特別團體戰：芭瓢蟲
+週末特別團體戰：大舌舔
+週末特別團體戰：大舌頭
+週末特別團體戰：酷豹
+週末特別團體戰：觸手百合
+週末特別團體戰：裙兒小姐
+週末特別團體戰：小約克
+週末特別團體戰：直衝熊
+週末特別團體戰：小獅獅
+週末特別團體戰：燭光靈
+週末特別團體戰：蓮帽小童
+週末特別團體戰：長耳兔
+週末特別團體戰：蓮葉童子
+週末特別團體戰：吼爆彈
+週末特別團體戰：路卡利歐
+週末特別團體戰：樂天河童
+週末特別團體戰：洛奇亞
+週末特別團體戰：霓虹魚
+週末特別團體戰：月石
+週末特別團體戰：愛心魚
+週末特別團體戰：勒克貓
+週末特別團體戰：倫琴貓
+週末特別團體戰：怪力
+週末特別團體戰：豪力
+週末特別團體戰：腕力
+週末特別團體戰：鴨嘴寶寶
+週末特別團體戰：熔岩蝸牛
+週末特別團體戰：鯉魚王
+週末特別團體戰：鴨嘴火獸
+週末特別團體戰：鴨嘴炎獸
+週末特別團體戰：小磁怪
+週末特別團體戰：三合一磁怪
+週末特別團體戰：自爆磁怪
+週末特別團體戰：幕下力士
+週末特別團體戰：烏賊王
+週末特別團體戰：象牙豬
+週末特別團體戰：瑪納霏
+週末特別團體戰：禿鷹娜
+週末特別團體戰：雷電獸
+週末特別團體戰：猴怪
+週末特別團體戰：巨翅飛魚
+週末特別團體戰：小球飛魚
+週末特別團體戰：沙鈴仙人掌
+週末特別團體戰：咩利羊
+週末特別團體戰：瑪力露
+週末特別團體戰：嘎啦嘎啦
+週末特別團體戰：沼躍魚
+週末特別團體戰：雨翅蛾
+週末特別團體戰：大嘴娃
+週末特別團體戰：恰雷姆
+週末特別團體戰：瑪沙那
+週末特別團體戰：大竺葵
+週末特別團體戰：美洛耶塔
+週末特別團體戰：超能妙喵
+週末特別團體戰：喵喵
+週末特別團體戰：艾姆利多
+週末特別團體戰：巨金怪
+週末特別團體戰：金屬怪
+週末特別團體戰：鐵甲蛹
+週末特別團體戰：夢幻
+週末特別團體戰：超夢
+週末特別團體戰：功夫鼬
+週末特別團體戰：師父鼬
+週末特別團體戰：大狼犬
+週末特別團體戰：美納斯
+週末特別團體戰：大奶罐
+週末特別團體戰：魔尼尼
+週末特別團體戰：泡沫栗鼠
+週末特別團體戰：負電拍拍
+週末特別團體戰：夢妖
+週末特別團體戰：夢妖魔
+週末特別團體戰：火焰鳥
+週末特別團體戰：猛火猴
+週末特別團體戰：紳士蛾
+週末特別團體戰：魔牆人偶
+週末特別團體戰：水躍魚
+週末特別團體戰：臭臭泥
+週末特別團體戰：小卡比獸
+週末特別團體戰：食夢夢
+週末特別團體戰：黑暗鴉
+週末特別團體戰：夢夢蝕
+週末特別團體戰：天然雀
+週末特別團體戰：尼多王
+週末特別團體戰：尼多后
+週末特別團體戰：尼多蘭
+週末特別團體戰：尼多朗
+週末特別團體戰：尼多娜
+週末特別團體戰：尼多力諾
+週末特別團體戰：土居忍士
+週末特別團體戰：九尾
+週末特別團體戰：鐵面忍者
+週末特別團體戰：貓頭夜鷹
+週末特別團體戰：嗡蝠
+週末特別團體戰：音波龍
+週末特別團體戰：朝北鼻
+週末特別團體戰：呆火駝
+週末特別團體戰：長鼻葉
+週末特別團體戰：章魚桶
+週末特別團體戰：走路草
+週末特別團體戰：菊石獸
+週末特別團體戰：多刺菊石獸
+週末特別團體戰：大岩蛇
+週末特別團體戰：水水獺
+週末特別團體戰：帕奇利茲
+週末特別團體戰：帕路奇亞
+週末特別團體戰：藍蟾蜍
+週末特別團體戰：頑皮熊貓
+週末特別團體戰：流氓熊貓
+週末特別團體戰：冷水猴
+週末特別團體戰：花椰猴
+週末特別團體戰：爆香猴
+週末特別團體戰：派拉斯
+週末特別團體戰：派拉斯特
+週末特別團體戰：探探鼠
+週末特別團體戰：駒刀小兵
+週末特別團體戰：大嘴鷗
+週末特別團體戰：貓老大
+週末特別團體戰：百合根娃娃
+週末特別團體戰：小小象
+週末特別團體戰：小木靈
+週末特別團體戰：霏歐納
+週末特別團體戰：皮丘
+週末特別團體戰：大比鳥
+週末特別團體戰：比比鳥
+週末特別團體戰：波波
+週末特別團體戰：豆豆鴿
+週末特別團體戰：炒炒豬
+週末特別團體戰：皮卡丘
+週末特別團體戰：長毛豬
+週末特別團體戰：榛果球
+週末特別團體戰：凱羅斯
+週末特別團體戰：波加曼
+週末特別團體戰：正電拍拍
+週末特別團體戰：蚊香蛙皇
+週末特別團體戰：蚊香蝌蚪
+週末特別團體戰：蚊香君
+週末特別團體戰：蚊香泳士
+週末特別團體戰：小火馬
+週末特別團體戰：土狼犬
+週末特別團體戰：多邊獸
+週末特別團體戰：多邊獸Ｚ
+週末特別團體戰：多邊獸Ⅱ
+週末特別團體戰：火爆猴
+週末特別團體戰：波皇子
+週末特別團體戰：大朝北鼻
+週末特別團體戰：可達鴨
+週末特別團體戰：南瓜精
+週末特別團體戰：沙基拉斯
+週末特別團體戰：扒手貓
+週末特別團體戰：東施喵
+週末特別團體戰：火炎獅
+週末特別團體戰：沼王
+週末特別團體戰：火岩鼠
+週末特別團體戰：胖胖哈力
+週末特別團體戰：千針魚
+週末特別團體戰：雷丘
+週末特別團體戰：雷公
+週末特別團體戰：拉魯拉絲
+週末特別團體戰：戰槌龍
+週末特別團體戰：烈焰馬
+週末特別團體戰：拉達
+週末特別團體戰：小拉達
+週末特別團體戰：烈空坐
+週末特別團體戰：雷吉艾斯
+週末特別團體戰：雷吉奇卡斯
+週末特別團體戰：雷吉洛克
+週末特別團體戰：雷吉斯奇魯
+週末特別團體戰：古空棘魚
+週末特別團體戰：鐵炮魚
+週末特別團體戰：萊希拉姆
+週末特別團體戰：人造細胞卵
+週末特別團體戰：鑽角犀獸
+週末特別團體戰：獨角犀牛
+週末特別團體戰：超甲狂犀
+週末特別團體戰：利歐路
+週末特別團體戰：石丸子
+週末特別團體戰：毒薔薇
+週末特別團體戰：羅絲雷朵
+週末特別團體戰：洛托姆
+週末特別團體戰：毛頭小鷹
+週末特別團體戰：勾魂眼
+週末特別團體戰：暴飛龍
+週末特別團體戰：大劍鬼
+週末特別團體戰：黑眼鱷
+週末特別團體戰：穿山鼠
+週末特別團體戰：穿山王
+週末特別團體戰：打擊鬼
+週末特別團體戰：萌芽鹿
+週末特別團體戰：粉蝶蟲
+週末特別團體戰：蜥蜴王
+週末特別團體戰：巨鉗螳螂
+週末特別團體戰：蜈蚣王
+週末特別團體戰：頭巾混混
+週末特別團體戰：滑滑小子
+週末特別團體戰：飛天螳螂
+週末特別團體戰：海刺龍
+週末特別團體戰：金魚王
+週末特別團體戰：海魔獅
+週末特別團體戰：橡實果
+週末特別團體戰：小海獅
+週末特別團體戰：蟾蜍王
+週末特別團體戰：尾立
+週末特別團體戰：君主蛇
+週末特別團體戰：青藤蛇
+週末特別團體戰：飯匙蛇
+週末特別團體戰：蟲寶包
+週末特別團體戰：巨牙鯊
+週末特別團體戰：謝米
+週末特別團體戰：脫殼忍者
+週末特別團體戰：甲殼龍
+週末特別團體戰：大舌貝
+週末特別團體戰：無殼海兔
+週末特別團體戰：小嘴蝸
+週末特別團體戰：盾甲龍
+週末特別團體戰：狡猾天狗
+週末特別團體戰：小貓怪
+週末特別團體戰：蘑蘑菇
+週末特別團體戰：壺壺
+週末特別團體戰：怨影娃娃
+週末特別團體戰：象徵鳥
+週末特別團體戰：甲殼繭
+週末特別團體戰：冷水猿
+週末特別團體戰：花椰猿
+週末特別團體戰：爆香猿
+週末特別團體戰：盔甲鳥
+週末特別團體戰：坐騎小羊
+週末特別團體戰：毽子花
+週末特別團體戰：向尾喵
+週末特別團體戰：鉗尾蠍
+週末特別團體戰：垃垃藻
+週末特別團體戰：坦克臭鼬
+週末特別團體戰：請假王
+週末特別團體戰：懶人獺
+週末特別團體戰：黏美兒
+週末特別團體戰：呆殼獸
+週末特別團體戰：呆呆王
+週末特別團體戰：呆呆獸
+週末特別團體戰：熔岩蟲
+週末特別團體戰：胖甜妮
+週末特別團體戰：圖圖犬
+週末特別團體戰：迷唇娃
+週末特別團體戰：狃拉
+週末特別團體戰：藤藤蛇
+週末特別團體戰：卡比獸
+週末特別團體戰：雪童子
+週末特別團體戰：雪笠怪
+週末特別團體戰：布魯
+週末特別團體戰：單卵細胞球
+週末特別團體戰：太陽岩
+週末特別團體戰：烈雀
+週末特別團體戰：粉蝶蛹
+週末特別團體戰：海豹球
+週末特別團體戰：圓絲蛛
+週末特別團體戰：晃晃斑
+週末特別團體戰：花岩怪
+週末特別團體戰：跳跳豬
+週末特別團體戰：粉香香
+週末特別團體戰：傑尼龜
+週末特別團體戰：驚角鹿
+週末特別團體戰：姆克鷹
+週末特別團體戰：姆克鳥
+週末特別團體戰：姆克兒
+週末特別團體戰：寶石海星
+週末特別團體戰：海星星
+週末特別團體戰：大鋼蛇
+週末特別團體戰：長毛狗
+週末特別團體戰：泥巴魚
+週末特別團體戰：臭鼬噗
+週末特別團體戰：樹才怪
+週末特別團體戰：水君
+週末特別團體戰：向日花怪
+週末特別團體戰：向日種子
+週末特別團體戰：溜溜糖球
+週末特別團體戰：青綿鳥
+週末特別團體戰：寶包繭
+週末特別團體戰：吞食獸
+週末特別團體戰：巨沼怪
+週末特別團體戰：舞天鵝
+週末特別團體戰：大王燕
+週末特別團體戰：小山豬
+週末特別團體戰：綿綿泡芙
+週末特別團體戰：心蝙蝠
+週末特別團體戰：仙子伊布
+週末特別團體戰：傲骨燕
+週末特別團體戰：烈箭鷹
+週末特別團體戰：蔓藤怪
+週末特別團體戰：巨蔓藤
+週末特別團體戰：肯泰羅
+週末特別團體戰：熊寶寶
+週末特別團體戰：瑪瑙水母
+週末特別團體戰：毒刺水母
+週末特別團體戰：暖暖豬
+週末特別團體戰：代拉基翁
+週末特別團體戰：投摔鬼
+週末特別團體戰：雷電雲
+週末特別團體戰：搬運小匠
+週末特別團體戰：原蓋海龜
+週末特別團體戰：波克基斯
+週末特別團體戰：波克比
+週末特別團體戰：波克基古
+週末特別團體戰：火稚雞
+週末特別團體戰：煤炭龜
+週末特別團體戰：龍捲雲
+週末特別團體戰：土台龜
+週末特別團體戰：小鋸鱷
+週末特別團體戰：毒骷蛙
+週末特別團體戰：咕咕鴿
+週末特別團體戰：大顎蟻
+週末特別團體戰：木守宮
+週末特別團體戰：朽木妖
+週末特別團體戰：熱帶龍
+週末特別團體戰：破破袋
+週末特別團體戰：草苗龜
+週末特別團體戰：圓蝌蚪
+週末特別團體戰：麻麻小魚
+週末特別團體戰：火爆獸
+週末特別團體戰：班基拉斯
+週末特別團體戰：怪顎龍
+週末特別團體戰：無畏小子
+週末特別團體戰：寶寶暴龍
+週末特別團體戰：月亮伊布
+週末特別團體戰：高傲雉雞
+週末特別團體戰：未知圖騰
+週末特別團體戰：圈圈熊
+週末特別團體戰：由克希
+週末特別團體戰：多多冰
+週末特別團體戰：迷你冰
+週末特別團體戰：雙倍多多冰
+週末特別團體戰：水伊布
+週末特別團體戰：百足蜈蚣
+週末特別團體戰：摩魯蛾
+週末特別團體戰：毛球
+週末特別團體戰：妙蛙花
+週末特別團體戰：蜂女王
+週末特別團體戰：超音波幼蟲
+週末特別團體戰：比克提尼
+週末特別團體戰：大食花
+週末特別團體戰：過動猿
+週末特別團體戰：霸王花
+週末特別團體戰：畢力吉翁
+週末特別團體戰：彩粉蝶
+週末特別團體戰：電螢蟲
+週末特別團體戰：波爾凱尼恩
+週末特別團體戰：火神蛾
+週末特別團體戰：霹靂電球
+週末特別團體戰：禿鷹丫頭
+週末特別團體戰：六尾
+週末特別團體戰：吼吼鯨
+週末特別團體戰：吼鯨王
+週末特別團體戰：帝牙海獅
+週末特別團體戰：卡咪龜
+週末特別團體戰：步哨鼠
+週末特別團體戰：瑪狃拉
+週末特別團體戰：獨角蟲
+週末特別團體戰：口呆花
+週末特別團體戰：雙彈瓦斯
+週末特別團體戰：風妖精
+週末特別團體戰：車輪毬
+週末特別團體戰：鯰魚王
+週末特別團體戰：咕妞妞
+週末特別團體戰：胖可丁
+週末特別團體戰：長翅鷗
+週末特別團體戰：果然翁
+週末特別團體戰：滾滾蝙蝠
+週末特別團體戰：烏波
+週末特別團體戰：結草貴婦
+週末特別團體戰：刺尾蟲
+週末特別團體戰：小果然
+週末特別團體戰：天然鳥
+週末特別團體戰：哲爾尼亞斯
+週末特別團體戰：哭哭面具
+週末特別團體戰：蜻蜻蜓
+週末特別團體戰：遠古巨蜓
+週末特別團體戰：伊裴爾塔爾
+週末特別團體戰：貓鼬斬
+週末特別團體戰：閃電鳥
+週末特別團體戰：雷電斑馬
+週末特別團體戰：捷克羅姆
+週末特別團體戰：蛇紋熊
+週末特別團體戰：索羅亞克
+週末特別團體戰：索羅亞
+週末特別團體戰：超音蝠
+週末特別團體戰：雙首暴龍
+週末特別團體戰：基格爾德
+參加五星團體戰可獲得的XP增為1.25倍
 參加團體戰可獲得的XP加倍
 Increased XP from raids
 阿羅拉嘎啦嘎啦將現身團體戰
@@ -9645,6 +13367,7 @@ Increased XP from raids
 前往入口
 {0} 秒
 使用遠距團體戰入場券時，寶可夢造成的傷害將會被降低
+Join raids farther away on the map or via friend invites using a Remote Raid Pass.
 朋友
 邀請 {0} 位朋友
 邀請朋友
@@ -9669,6 +13392,7 @@ Increased XP from raids
 此團體戰的遠距訓練家已達上限
 附近
 目前持有的遠距團體戰入場券已達上限（{0}張）。請先至少使用一張後再來購買。
+Raid Remotely
 New！遠距團體戰
 若要從目前所在的地點參加此道館的團體戰，請使用遠距團體戰入場券。遠距團體戰入場券可在商店中購買。
 遠距團體戰入場券
@@ -9686,18 +13410,24 @@ Now
 遠距團體戰入場券 x5
 確定要刪除這個朋友嗎？
 無法移除標籤
+無法重新排列標籤
 https://pokemongo.nianticlabs.com/support/contact/en
 要重新參與上一次的AR共享時光嗎？
 跟朋友一起玩Pokémon GO會更好玩！和朋友交換禮物時不只能獲得道具，還能獲得XP喔！
 帶夥伴一起去走走吧！出門時別忘了用星星碎片、幸運蛋和薰香喔！
+Retro Cup
 今天回到身邊的寶可夢
 以 {0} 登入
 獎勵換裝道具
 貼圖
+急速上昇：岩石屬性
 GO火箭隊熱氣球更常出現
 GO火箭隊慶典
 打敗GO火箭隊手下後可獲得2個神秘零件
+打到乘坐熱氣球出現或是在寶可補給站出沒的GO火箭隊成員，拯救暗影寶可夢。
 GO火箭隊活動
+GO火箭隊
+GO火箭隊時間
 喵喵熱氣球、武藏和小次郎更常出現
 GO火箭隊更常在寶可補給站出沒
 和GO火箭隊對戰時可獲得的星星沙子加倍
@@ -9838,7 +13568,8 @@ VIP團體戰入場券
 商店
 小秘訣
 自己
-Search
+搜尋
+天地神話
 s
 查看詳情
 選擇要丟棄的友情禮物
@@ -9881,7 +13612,7 @@ AR+
 收到朋友申請時
 收到友情禮物
 常見問題
-查看常見問題
+常見問題＆聯絡客服
 開啟此功能後，你將可以在選擇複數寶可夢時選擇傳說的寶可夢和部分幻之寶可夢。請注意，寶可夢傳送給維羅博士後將無法把寶可夢帶回來。
 你確定要開啟此功能，在選擇複數寶可夢時也可以選擇傳說的寶可夢和幻之寶可夢嗎？
 Explore Responsibly
@@ -9997,7 +13728,7 @@ Show Gifts from Sponsors
 博士送來了特別的禮物！
 交換
 以寶可幣交換
- 
+
 你的 {0} 已經升到最高等級了！
 你的包包已經滿了！
 前往升級選單
@@ -10082,7 +13813,7 @@ Not sharing your online status
 輸入訓練家代碼，傳送朋友申請
 分享訓練家代碼
 月石和太陽岩將在不同的地區出沒
-季節活動
+Solstice
 你一定可以的！
 就是這樣！
 這是場讓人熱血沸騰的對戰！
@@ -10095,12 +13826,13 @@ Not sharing your online status
 更多凱西出現在地圖上
 更多小火龍出現在地圖上
 更多電擊獸出現在地圖上
+更多小箭雀出現在地圖上
 更多鬼斯出現在地圖上
 更多腕力出現在地圖上
 更多鯉魚王出現在地圖上
 更多鴨嘴火獸出現在地圖上
 更多多邊獸出現在地圖上
-More Roselia are appearing in the wild
+更多毒薔薇出現在地圖上
 更多橡實果出現在地圖上
 更多獨角蟲出現在地圖上
 更多烏波出現在地圖上
@@ -10116,10 +13848,10 @@ More Roselia are appearing in the wild
 請不要在開車時玩Pokémon GO
 你移動的速度太快了！
 無法儲存螢幕截圖。請確認照片存取權限。
-圖片已儲存！
- 開啟設定
+Offer saved to your photos!
+Go to Settings
 拜訪道館和寶可補給時，你有機會收到附近贊助商提供的禮物和相關廣告訊息。
-即使你選擇接收這份禮物，我們也不會將你的個人資訊分享給贊助商。更多關於贊助商禮物功能的詳細資訊，請至Niantic協助中心確認。
+As always, we do not share your personal information with sponsors. For more information on this feature, please check out Niantic Support.
 You can manage Gifts from sponsors in your settings. This option allows you to receive Gifts from sponsors when available. This does not affect Gifts you send or receive that came from Sponsored PokéStop Locations.
 Gifts from Sponsors: Your Choice
 Starbucks
@@ -10143,6 +13875,7 @@ Vasa
 星星碎片 × 25
 8個星星碎片。使用後可獲得1.5倍的星星沙子，效果將持續30分鐘。
 星星碎片 × 8
+急速上昇：鋼屬性
 你有機會可以在活動獎勵中獲得貼圖
 沒有可傳送的貼圖。你可以從友誼禮物或從商店中獲得貼圖。
 可以在商店中購買此貼圖
@@ -10231,12 +13964,13 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 特殊調查「電擊獸擊電」的入場券在商店中上架
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年5月24日11:00～17:00領取橡實果社群日的特殊調查「橡實寶可夢的小秘密」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 入場券：橡實寶可夢的小秘密
+特殊調查「最勇敢的小鳥」的入場券在商店中上架
 特殊調查「詭異的鬼斯」的入場券已在商店中上架
 特殊調查「腕力衝衝衝」的入場券在商店中上架
 「跳躍吧魚寶可夢！」的入場券已在商店中上架
 特殊調查「燃燒吧！鴨嘴火獸！」的入場券已在商店中上架
 特殊調查「解碼多邊獸」的入場券在商店中上架
-Tickets for Special Research available in the shop
+特殊調查入場券已在商店中上架
 特殊調查「橡實寶可夢的小祕密」的入場券在商店中上架
 特殊調查「毛毛時刻」的入場券在商店中上架
 將在 {0} 天 {1} 小時後結束
@@ -10262,7 +13996,7 @@ Tickets for Special Research available in the shop
 將在1分鐘後結束
 所有訓練家必須同心協力，一起完成這項挑戰！
 現可領取限時調查
-Featured Pokémon in Timed Research
+焦點寶可夢在限時調查
 限時調查中登場的喵喵
 尼多蘭和尼多朗的限時調查
 限時調查中登場的布魯
@@ -10273,11 +14007,11 @@ https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning
 這裡太暗了，請在明亮的環境中進行掃描。
 你的動作太快了，請緩慢地繞寶可補給站一圈。
 未偵側到動作。請緩慢地繞寶可補給站一圈。
-ADD PHOTO TO POKÉSTOP
-Gallery
-{0} Photos
-1 Photo
-Failed to load images. Please try again later.
+新增寶可補給站照片
+照片一覽
+{0} 張照片
+1張照片
+無法讀取照片，請稍後再試一次
 {0} {1} ago
 Walk closer to add a photo to this PokéStop.
 Walk closer to scan this PokéStop.
@@ -10499,6 +14233,13 @@ Match {0}
 捕捉寶可夢的時候有機會獲得糖果XL。只要寶可夢越強，獲得糖果XL的機率就越高。
 2天前
 效果絕佳週：在道館對戰中使出1次「效果絕佳」的特殊招式
+從蛋中孵出焦點寶可夢的機率提高
+從10km蛋中孵出焦點寶可夢的機率提高
+從2km蛋中孵出焦點寶可夢的機率提高
+從5km蛋中孵出焦點寶可夢的機率提高
+從7km蛋中孵出焦點寶可夢的機率提高
+焦點寶可夢在團體戰中出現的機率提高
+焦點寶可夢在野外出現的機率提高
 蟲屬性寶可夢的弱點是火、飛行和岩石屬性的攻擊。
 蟲屬性寶可夢的弱點是火、飛行和岩石屬性的攻擊。
 惡屬性寶可夢的弱點是格鬥、蟲和妖精屬性的攻擊。
@@ -10552,12 +14293,10 @@ Are you sure you want to unfriend {0}?
 合眾收藏家挑戰
 合眾活動
 升級包包
-稍後上傳
-立刻上傳
 AR掃描：{0}
 取消上傳
 取消
-確定要刪除 {0} 嗎？
+確定要刪除這次的投稿嗎？
 是
 刪除
 照片：{0}
@@ -10579,31 +14318,52 @@ OK
 正在上傳（共 {0} MB）
 上傳中
 正在等待上傳
-上傳中 {0}/{1}
-取消
+接下來將上傳 {0} MB的檔案。若未連接至Wi-Fi，將使用行動數據上傳。
+稍後上傳
+要立刻上傳嗎？
 是
+取消
+確定要刪除這次的投稿嗎？
+是
+取消
+刪除
+寶可補給站圖片（{0}）
+編輯投稿
+上傳錯誤 ({0})
 上傳錯誤 ({0})
 已上傳 ({0})
 上傳中 ({0})
+上傳中 ({0})
+寶可補給站申請：{0}
+重試
+AR掃描：{0}
 ({0} KB)
 ({0} MB)
 寶可補給站圖片
 寶可補給站申請
 寶可補給站掃描
 上傳失敗
-POKÉSTOP CONTRIBUTION
+上傳
+正在等待上傳
+取消上傳
+寶可補給站投稿
 (寶可補給站申請指南)
-Player Nominations
+玩家申請
+編輯
+現在沒有任何等待上傳的檔案
 現在有 {0} 個檔案在等待上傳
-Uploading Pokestop Contributions
-關於位置點數
+現在有 {0} 個檔案在等待上傳
+全部上傳（{0} MB）
+正在上傳寶可補給站投稿
+上傳失敗
 無法上傳 {0} 個檔案
+OK
 稍後再說
 要再次上傳嗎？
 現在就上傳
 成功上傳 {0} 個檔案！
 已完成上傳！
-已將 {0} 位置點數加至寶可補給站／道館
+感謝你的編輯
 使用入場券
 參加團體戰（團體戰開打時，入場券才會被收走）
 使用入場券
@@ -10697,6 +14457,7 @@ OK
 上一季的級別和積分已被重置
 新級別出爐！
 潑水節
+急速上昇：水屬性
 潑水節：和夥伴寶可夢一起走路，獲得1顆糖果
 潑水節：捕捉 {0} 隻水屬性的寶可夢
 潑水節：捕捉 {0} 隻水屬性的寶可夢
@@ -10725,6 +14486,7 @@ OK
 下雪
 出太陽
 天氣
+氣象週
 強風
 無法啟動照相機
 寒冬活動

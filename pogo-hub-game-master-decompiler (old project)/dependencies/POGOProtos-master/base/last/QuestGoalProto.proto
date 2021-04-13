@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message QuestGoalProto {
-	repeated QuestConditionProto condition = 1;
-	int32 target = 2;
-}

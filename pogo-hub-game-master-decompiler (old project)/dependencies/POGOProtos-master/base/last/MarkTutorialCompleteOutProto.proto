@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message MarkTutorialCompleteOutProto {
-	bool success = 1;
-	ClientPlayerProto player = 2;
-}

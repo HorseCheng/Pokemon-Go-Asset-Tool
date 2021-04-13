@@ -1,6 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings;
-
-message ThirdMoveGlobalSettings {
-	bool unlock_enabled = 1;
-}

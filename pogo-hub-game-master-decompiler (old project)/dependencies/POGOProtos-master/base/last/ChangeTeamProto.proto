@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ChangeTeamProto {
-	Item item = 1;
-	Team team = 2;
-}

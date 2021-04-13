@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithPokemonCpLimitProto {
-	int32 min_cp = 1;
-	int32 max_cp = 2;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaTransactionStartProto {
-	repeated int64 pokemon_id = 1;
-	string nonce = 2;
-	string beluga_id = 3;
-}

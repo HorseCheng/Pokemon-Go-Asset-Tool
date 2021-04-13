@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message NicknamePokemonTelemetry {
-	PokemonTelemetry pokemon = 1;
-	string nickname = 2;
-}

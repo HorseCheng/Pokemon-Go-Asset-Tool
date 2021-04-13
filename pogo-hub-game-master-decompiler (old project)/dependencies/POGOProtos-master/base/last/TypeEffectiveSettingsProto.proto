@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message TypeEffectiveSettingsProto {
-	repeated float attack_scalar = 1;
-	HoloPokemonType attack_type = 2;
-}

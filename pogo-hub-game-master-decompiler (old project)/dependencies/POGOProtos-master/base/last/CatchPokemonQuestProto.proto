@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CatchPokemonQuestProto {
-	repeated HoloPokemonId unique_pokemon_id = 1;
-}

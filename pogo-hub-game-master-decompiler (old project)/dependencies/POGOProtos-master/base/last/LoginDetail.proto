@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LoginDetail {
-	IdentityProvider identity_provider = 1;
-	string email = 2;
-}

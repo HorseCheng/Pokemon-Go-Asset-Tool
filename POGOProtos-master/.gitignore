@@ -1,0 +1,17 @@
+# Project files
+.idea/
+*.iml
+*_single*
+
+# Protoc files
+out/
+
+*.pyc
+*.DS_Store
+
+# Backup files
+*~
+raw_protos.proto
+/base/last/
+/GM/v2_GAME_MASTER
+/GM/ASSET_DIGEST

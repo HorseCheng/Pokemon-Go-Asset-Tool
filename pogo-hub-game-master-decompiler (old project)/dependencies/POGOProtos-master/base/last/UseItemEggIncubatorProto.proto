@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UseItemEggIncubatorProto {
-	string item_id = 1;
-	int64 pokemond_id = 2;
-}

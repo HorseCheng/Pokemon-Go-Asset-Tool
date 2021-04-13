@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PushNotificationTelemetry {
-	PushNotificationTelemetryIds notification_id = 1;
-	string category = 2;
-}

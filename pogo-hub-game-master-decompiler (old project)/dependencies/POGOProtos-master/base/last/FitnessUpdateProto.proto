@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message FitnessUpdateProto {
-	repeated FitnessSample fitness_samples = 1;
-}

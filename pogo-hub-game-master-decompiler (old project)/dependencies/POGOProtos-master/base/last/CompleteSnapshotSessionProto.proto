@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CompleteSnapshotSessionProto {
-	fixed64 photo_pokemon_id = 1;
-	int32 num_photos_taken = 2;
-}

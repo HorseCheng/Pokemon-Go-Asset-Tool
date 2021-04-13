@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message IncidentTicketAttributesProto {
-	bool ignore_full_inventory = 1;
-	int32 upgrade_requirement_count = 2;
-	Item upgraded_item = 3;
-}

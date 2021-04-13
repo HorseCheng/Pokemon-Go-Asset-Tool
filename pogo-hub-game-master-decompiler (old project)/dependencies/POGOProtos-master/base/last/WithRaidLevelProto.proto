@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithRaidLevelProto {
-	repeated RaidLevel raid_level = 1;
-}

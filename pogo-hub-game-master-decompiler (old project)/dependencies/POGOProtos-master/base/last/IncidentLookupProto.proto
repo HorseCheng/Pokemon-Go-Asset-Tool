@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message IncidentLookupProto {
-	string incident_id = 1;
-	string fort_id = 2;
-	double fort_lat = 3;
-	double fort_lng = 4;
-}

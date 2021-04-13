@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message RpcSocketResponseTelemetry {
-	float window_duration = 1;
-	repeated RpcSocketResponseTime response_timings = 2;
-}

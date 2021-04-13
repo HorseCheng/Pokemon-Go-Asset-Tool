@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ShoppingPageClickTelemetry {
-	ShoppingPageTelemetryIds shopping_page_click_id = 1;
-	ShoppingPageTelemetrySource shopping_page_click_source = 2;
-	string item_sku = 3;
-	bool has_item = 4;
-}

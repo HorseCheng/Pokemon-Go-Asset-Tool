@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GoogleToken {
-	string id_token = 1;
-}

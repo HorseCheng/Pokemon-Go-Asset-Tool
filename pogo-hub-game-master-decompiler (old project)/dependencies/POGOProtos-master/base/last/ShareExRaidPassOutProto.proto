@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ShareExRaidPassOutProto {
-	ShareExRaidPassResult result = 1;
-	FriendshipLevelDataProto updated_friendship_data = 2;
-	PlayerPublicProfileProto friend_profile = 3;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithPvpCombatProto {
-	bool requires_win = 1;
-	repeated string combat_league_template_id = 2;
-}

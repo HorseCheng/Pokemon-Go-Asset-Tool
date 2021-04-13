@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetInventoryResponseProto {
-	bool success = 1;
-	InventoryDeltaProto inventory_delta = 2;
-}

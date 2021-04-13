@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithNpcCombatProto {
-	bool requires_win = 1;
-	repeated string combat_npc_trainer_id = 2;
-}

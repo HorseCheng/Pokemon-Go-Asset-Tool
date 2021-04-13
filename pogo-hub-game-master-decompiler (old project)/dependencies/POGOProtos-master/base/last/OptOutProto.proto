@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message OptOutProto {
-	repeated string categories = 1;
-}

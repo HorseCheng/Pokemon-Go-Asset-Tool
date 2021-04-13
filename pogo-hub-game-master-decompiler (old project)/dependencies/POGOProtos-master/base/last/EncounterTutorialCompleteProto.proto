@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EncounterTutorialCompleteProto {
-	int32 pokedex_id = 1;
-}

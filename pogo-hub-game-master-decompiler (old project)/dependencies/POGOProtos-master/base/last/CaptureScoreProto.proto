@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CaptureScoreProto {
-	repeated HoloActivityType activity_type = 1;
-	repeated int32 exp = 2;
-	repeated int32 candy = 3;
-	repeated int32 stardust = 4;
-}

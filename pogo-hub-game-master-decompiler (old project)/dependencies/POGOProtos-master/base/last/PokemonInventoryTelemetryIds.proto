@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum PokemonInventoryTelemetryIds {
-	UNDEFINED_POKEMON_INVENTORY_EVENT = 0;
-	OPEN = 1;
-	SORTING_CHANGE = 2;
-	FILTER = 3;
-}

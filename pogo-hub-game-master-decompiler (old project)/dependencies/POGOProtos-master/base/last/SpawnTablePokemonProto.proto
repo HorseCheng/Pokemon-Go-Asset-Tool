@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SpawnTablePokemonProto {
-	HoloPokemonId pokemon_id = 1;
-	float weight = 2;
-	PokemonDisplayProto.Form form = 3;
-}

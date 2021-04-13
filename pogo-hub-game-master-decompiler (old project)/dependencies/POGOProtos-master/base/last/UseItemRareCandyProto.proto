@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UseItemRareCandyProto {
-	Item item = 1;
-	HoloPokemonId pokemon_id = 2;
-	int32 candy_count = 3;
-}

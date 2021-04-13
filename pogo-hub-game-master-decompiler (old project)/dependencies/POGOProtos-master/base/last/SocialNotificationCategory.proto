@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum SocialNotificationCategory {
-	unset__social_notification_category = 0;
-	FRIEND_INVITE_RECEIVED = 1;
-	FRIEND_INVITE_ACCEPTED = 2;
-}

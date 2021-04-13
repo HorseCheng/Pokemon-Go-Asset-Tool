@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CheckAwardedBadgesOutProto {
-	bool success = 1;
-	repeated HoloBadgeType awarded_badges = 2;
-	repeated int32 awarded_badge_levels = 3;
-	repeated string avatar_template_ids = 4;
-}

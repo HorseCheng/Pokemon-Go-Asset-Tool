@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithPokemonCategoryProto {
-	string category_name = 1;
-	repeated HoloPokemonId pokemon_ids = 2;
-}

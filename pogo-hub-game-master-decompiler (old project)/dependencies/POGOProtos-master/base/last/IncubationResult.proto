@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum IncubationResult {
-	SUCCESS = 0;
-	FAILURE = 1;
-}

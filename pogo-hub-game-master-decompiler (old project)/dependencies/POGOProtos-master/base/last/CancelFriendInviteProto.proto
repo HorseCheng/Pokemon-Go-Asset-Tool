@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CancelFriendInviteProto {
-	string player_id = 1;
-}

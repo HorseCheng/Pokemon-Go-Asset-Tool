@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CompleteQuestProto {
-	string quest_id = 1;
-	string sub_quest_id = 2;
-}

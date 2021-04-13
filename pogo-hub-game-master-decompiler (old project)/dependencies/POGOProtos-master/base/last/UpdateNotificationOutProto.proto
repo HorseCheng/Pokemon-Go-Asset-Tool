@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UpdateNotificationOutProto {
-	repeated string notification_ids = 1;
-	repeated int64 create_timestamp_ms = 2;
-	NotificationState state = 3;
-}

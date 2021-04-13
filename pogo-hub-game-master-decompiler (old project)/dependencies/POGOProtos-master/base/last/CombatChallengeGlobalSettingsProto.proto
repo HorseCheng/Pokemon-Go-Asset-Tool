@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CombatChallengeGlobalSettingsProto {
-	FriendshipLevelMilestone distance_check_override_friendship_level = 1;
-	int32 get_combat_challenge_polling_interval_sec = 2;
-	bool enable_downstream_dispatch = 3;
-	bool enable_challenge_notifications = 4;
-}

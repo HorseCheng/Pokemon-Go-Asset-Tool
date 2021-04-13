@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum GenericClickTelemetryIds {
-	UNDEFINED_GENERIC_EVENT = 0;
-	SPEED_WARNING_SHOW = 1;
-	SPEED_WARNING_PASSENGER = 2;
-}

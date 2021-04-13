@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CheckChallengeOutProto {
-	bool show_challenge = 1;
-	string challenge_url = 2;
-}

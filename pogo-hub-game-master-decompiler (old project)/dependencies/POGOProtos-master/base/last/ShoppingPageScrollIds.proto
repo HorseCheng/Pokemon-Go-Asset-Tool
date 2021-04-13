@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum ShoppingPageScrollIds {
-	UNDEFINED_SHOPPING_PAGE_SCROLL_TYPE = 0;
-	LAST_SCROLL = 1;
-	MAX_SCROLL = 2;
-}

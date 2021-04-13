@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AssetStreamCacheCulledTelemetry {
-	AssetTelemetryIds asset_event_id = 1;
-	uint32 space_released = 2;
-}

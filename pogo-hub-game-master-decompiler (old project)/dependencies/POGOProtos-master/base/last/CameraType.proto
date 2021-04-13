@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum CameraType {
-	DEFAULT = 0;
-	SHOULDER = 1;
-	ENEMY_POKEMON_FOCUS = 2;
-	MY_POKEMON_FOCUS = 3;
-}

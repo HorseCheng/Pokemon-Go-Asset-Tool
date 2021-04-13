@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Data;
-
-message BeaconScan {
-	string beacon_id  = 1;
-	double accuracy_m = 2;
-}

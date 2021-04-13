@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SfidaUpdateRequest {
-	double player_lat = 1;
-	double player_lng = 2;
-}

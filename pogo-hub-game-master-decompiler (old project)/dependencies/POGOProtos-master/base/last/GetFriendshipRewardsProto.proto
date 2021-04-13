@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetFriendshipRewardsProto {
-	string friend_id = 1;
-}

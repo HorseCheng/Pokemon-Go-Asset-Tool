@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CombatTypeProto {
-	HoloPokemonType type = 1;
-	float nice_level_threshold = 2;
-	float great_level_threshold = 3;
-	float excellent_level_threshold = 4;
-}

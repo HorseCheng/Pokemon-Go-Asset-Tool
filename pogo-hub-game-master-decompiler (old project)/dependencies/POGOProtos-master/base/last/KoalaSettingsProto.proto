@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message KoalaSettingsProto {
-	string app_id = 1;
-	bool use_sandbox = 2;
-	bool use_koala = 3;
-}

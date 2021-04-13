@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetGiftBoxDetailsProto {
-	repeated fixed64 giftbox_id = 1;
-	string player_id = 2;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SubmitPoiTakedownRequestProto {
-	string poi_id = 1;
-	PoiInvalidReason invalid_reason = 2;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GymStateProto {
-	PokemonFortProto fort_map_data = 1;
-	repeated GymMembershipProto gym_membership = 2;
-	bool deploy_lockout = 3;
-}

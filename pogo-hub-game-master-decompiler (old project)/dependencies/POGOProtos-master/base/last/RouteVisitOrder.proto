@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum RouteVisitOrder {
-	ROUTE_VISIT_ORDER_UNSPECIFIED = 0;
-	IN_ORDER = 1;
-	UNORDERED = 2;
-}

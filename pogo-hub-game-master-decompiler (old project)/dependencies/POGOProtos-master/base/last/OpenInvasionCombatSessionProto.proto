@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message OpenInvasionCombatSessionProto {
-	IncidentLookupProto incident_lookup = 1;
-	int32 step = 2;
-	repeated fixed64 attacking_pokemon_id = 3;
-}

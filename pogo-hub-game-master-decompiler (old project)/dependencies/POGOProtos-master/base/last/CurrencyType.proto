@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum CurrencyType {
-	UNKNOWN = 0;
-	POKECOIN = 1;
-	STARDUST = 2;
-}

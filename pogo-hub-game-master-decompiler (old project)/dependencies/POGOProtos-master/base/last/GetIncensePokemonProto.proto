@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetIncensePokemonProto {
-	double player_lat_degrees = 1;
-	double player_lng_degrees = 2;
-}

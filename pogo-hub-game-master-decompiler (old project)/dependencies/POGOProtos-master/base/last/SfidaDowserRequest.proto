@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SfidaDowserRequest {
-	int64 encounter_id = 1;
-}

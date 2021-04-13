@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithQuestContextProto {
-	QuestProto.Context context = 1;
-}

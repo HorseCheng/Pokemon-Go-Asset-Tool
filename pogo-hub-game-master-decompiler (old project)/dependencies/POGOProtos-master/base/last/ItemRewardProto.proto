@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ItemRewardProto {
-	Item item = 1;
-	int32 amount = 2;
-}

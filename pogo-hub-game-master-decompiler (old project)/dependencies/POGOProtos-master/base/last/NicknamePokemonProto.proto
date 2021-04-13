@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message NicknamePokemonProto {
-	fixed64 pokemon_id = 1;
-	string nickname = 2;
-}

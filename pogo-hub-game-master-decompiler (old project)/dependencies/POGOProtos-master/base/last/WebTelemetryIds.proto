@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum WebTelemetryIds {
-	UNDEFINED_WEB_EVENT = 0;
-	POINT_OF_INTEREST_DESCRIPTION_WEB_CLICK = 1;
-}

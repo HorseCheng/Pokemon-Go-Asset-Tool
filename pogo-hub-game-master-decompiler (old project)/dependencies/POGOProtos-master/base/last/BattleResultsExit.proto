@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum BattleResultsExit {
-	LEAVE_GYM = 0;
-	LEAVE_BATTLE = 1;
-	CONTINUE_BATTLE = 2;
-}

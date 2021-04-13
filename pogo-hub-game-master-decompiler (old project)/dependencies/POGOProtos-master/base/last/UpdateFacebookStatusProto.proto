@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UpdateFacebookStatusProto {
-	string fb_access_token = 1;
-	bool force_update = 2;
-}

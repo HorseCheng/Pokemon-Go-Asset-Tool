@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message JournalVersionProto {
-	int32 version = 1;
-}

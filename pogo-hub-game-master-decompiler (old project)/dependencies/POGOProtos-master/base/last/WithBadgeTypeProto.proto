@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithBadgeTypeProto {
-	repeated HoloBadgeType badge_type = 1;
-	int32 badge_rank = 2;
-	int32 amount = 3;
-}

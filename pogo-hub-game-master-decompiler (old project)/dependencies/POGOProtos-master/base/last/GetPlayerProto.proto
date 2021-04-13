@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetPlayerProto {
-	PlayerLocaleProto player_locale = 1;
-	bool prevent_creation = 2;
-}

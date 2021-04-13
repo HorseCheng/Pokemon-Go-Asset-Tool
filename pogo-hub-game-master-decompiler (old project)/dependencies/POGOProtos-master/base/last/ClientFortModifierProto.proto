@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ClientFortModifierProto {
-	Item modifier_type = 1;
-	int64 expiration_time_ms = 2;
-	string deploying_player_codename = 3;
-}

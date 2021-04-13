@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ShoppingPageScrollTelemetry {
-	ShoppingPageScrollIds scroll_type = 1;
-	int32 scroll_row = 2;
-	int32 total_rows = 3;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AppliedItemProto {
-	Item item = 1;
-	HoloItemType item_type = 2;
-	int64 expiration_ms = 3;
-	int64 applied_ms = 4;
-}

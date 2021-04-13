@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message CompleteInvasionDialogueProto {
-	IncidentLookupProto incident_lookup = 1;
-	int32 step = 2;
-}

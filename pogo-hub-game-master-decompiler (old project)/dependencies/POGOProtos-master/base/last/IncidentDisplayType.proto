@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum IncidentDisplayType {
-	NONE = 0;
-	INVASION_GRUNT = 1;
-	INVASION_LEADER = 2;
-	INVASION_GIOVANNI = 3;
-}

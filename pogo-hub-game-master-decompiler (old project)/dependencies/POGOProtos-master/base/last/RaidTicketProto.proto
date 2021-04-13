@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message RaidTicketProto {
-	string ticket_id = 1;
-	Item item = 2;
-	ExclusiveTicketInfoProto exclusive_info = 4;
-}

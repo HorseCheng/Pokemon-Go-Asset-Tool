@@ -1,9 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Data.Routes;
-
-message WaypointDraft {
-	double latitude = 1;
-	double longitude = 2;
-	string fort_id = 3;
-	bool visited = 4;
-}

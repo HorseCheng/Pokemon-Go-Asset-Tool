@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ClientWeatherProto {
-	int64 s2_cell_id = 1;
-	DisplayWeatherProto display_weather = 2;
-	GameplayWeatherProto gameplay_weather = 3;
-	repeated WeatherAlertProto alerts = 4;
-}

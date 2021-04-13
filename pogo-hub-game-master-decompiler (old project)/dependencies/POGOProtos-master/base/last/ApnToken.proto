@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ApnToken {
-	string registration_id = 1;
-	string bundle_identifier = 2;
-	int32 payload_byte_size = 3;
-}

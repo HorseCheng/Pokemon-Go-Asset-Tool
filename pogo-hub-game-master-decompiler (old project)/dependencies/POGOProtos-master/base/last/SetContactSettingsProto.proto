@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SetContactSettingsProto {
-	ContactSettingsProto contact_settings_proto = 1;
-}

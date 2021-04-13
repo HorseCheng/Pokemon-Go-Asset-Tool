@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PotionAttributesProto {
-	float sta_percent = 1;
-	int32 sta_amount = 2;
-}

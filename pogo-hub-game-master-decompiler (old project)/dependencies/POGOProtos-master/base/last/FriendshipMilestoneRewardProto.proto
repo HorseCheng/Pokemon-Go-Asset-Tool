@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message FriendshipMilestoneRewardProto {
-	string friend_id = 1;
-	FriendshipLevelMilestone friendship_milestone = 2;
-}

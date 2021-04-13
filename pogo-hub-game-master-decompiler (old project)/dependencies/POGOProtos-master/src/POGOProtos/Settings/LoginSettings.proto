@@ -1,6 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings;
-
-message LoginSettings {
-	bool enable_multi_login_linking = 1;
-}

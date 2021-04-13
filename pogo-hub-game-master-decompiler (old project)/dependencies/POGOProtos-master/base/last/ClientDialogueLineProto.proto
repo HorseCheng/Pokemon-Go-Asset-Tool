@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ClientDialogueLineProto {
-	string text = 1;
-	EnumWrapper.InvasionCharacter character = 2;
-	EnumWrapper.InvasionCharacterExpression expression = 3;
-}

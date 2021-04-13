@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message QuestEncounterProto {
-	fixed64 pokemon_id = 1;
-	string quest_id = 2;
-}

@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum CalendarAddResult {
-	UNKNOWN = 0;
-	PERMISSION_DENIED = -2;
-	NOT_ADDED = -1;
-	ADDED = 1;
-}

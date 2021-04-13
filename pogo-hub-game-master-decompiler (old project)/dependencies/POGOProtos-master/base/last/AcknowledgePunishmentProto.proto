@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AcknowledgePunishmentProto {
-	bool is_warn = 1;
-	bool is_suspended = 2;
-}

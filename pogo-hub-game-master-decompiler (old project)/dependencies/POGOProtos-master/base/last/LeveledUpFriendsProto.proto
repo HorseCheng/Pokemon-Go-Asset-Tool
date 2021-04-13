@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LeveledUpFriendsProto {
-	repeated PlayerPublicProfileProto friend_profiles = 1;
-	repeated FriendshipLevelDataProto friend_milestone_levels = 2;
-}

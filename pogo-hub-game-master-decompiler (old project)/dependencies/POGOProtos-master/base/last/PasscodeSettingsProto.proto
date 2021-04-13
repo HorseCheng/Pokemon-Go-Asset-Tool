@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PasscodeSettingsProto {
-	bool show_passcode_in_store = 1;
-	bool use_passcode_v2 = 2;
-}

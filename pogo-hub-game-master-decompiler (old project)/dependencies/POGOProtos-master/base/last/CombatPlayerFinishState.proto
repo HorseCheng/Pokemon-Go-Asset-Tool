@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-enum CombatPlayerFinishState {
-	WINNER = 0;
-	LOSER = 1;
-	DRAW = 2;
-}

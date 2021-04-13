@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EncounterPokemonTelemetry {
-	PokemonTelemetry pokemon = 1;
-	string map_pokemon_type = 2;
-	bool ar_enabled = 3;
-	bool ar_plus_enabled = 4;
-}

@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AwardItemProto {
-	Item item = 1;
-	int32 item_count = 2;
-	int32 bonus_count = 3;
-}

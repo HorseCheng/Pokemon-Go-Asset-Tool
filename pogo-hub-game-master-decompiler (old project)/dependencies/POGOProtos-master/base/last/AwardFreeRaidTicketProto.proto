@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AwardFreeRaidTicketProto {
-	string gym_id = 1;
-	double player_lat_degrees = 2;
-	double player_lng_degrees = 3;
-}

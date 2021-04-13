@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message PlayerLocaleProto {
-	string country = 1;
-	string language = 2;
-	string timezone = 3;
-}

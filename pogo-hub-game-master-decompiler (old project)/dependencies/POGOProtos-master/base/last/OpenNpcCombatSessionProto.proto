@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message OpenNpcCombatSessionProto {
-	repeated fixed64 attacking_pokemon_id = 1;
-	string combat_npc_template_id = 2;
-}

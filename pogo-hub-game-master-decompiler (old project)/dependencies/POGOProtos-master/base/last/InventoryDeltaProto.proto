@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message InventoryDeltaProto {
-	int64 original_timestamp = 1;
-	int64 new_timestamp = 2;
-	repeated InventoryItemProto inventory_item = 3;
-}

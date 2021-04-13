@@ -1,7 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Settings;
-
-message NotificationSettings {
-	bool pull_notifications = 1;
-	bool show_notifications = 2;
-}

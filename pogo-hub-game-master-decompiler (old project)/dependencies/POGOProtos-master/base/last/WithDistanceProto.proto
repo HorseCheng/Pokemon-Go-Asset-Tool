@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message WithDistanceProto {
-	double distance_km = 1;
-}

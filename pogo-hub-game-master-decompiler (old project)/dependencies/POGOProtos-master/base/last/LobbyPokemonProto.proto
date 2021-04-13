@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LobbyPokemonProto {
-	int64 id = 1;
-	HoloPokemonId pokedex_id = 2;
-	int32 cp = 3;
-	float percent_health = 4;
-}

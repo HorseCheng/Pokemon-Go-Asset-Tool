@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GeofenceUpdateOutProto {
-	repeated GeofenceMetadata geofence = 1;
-}

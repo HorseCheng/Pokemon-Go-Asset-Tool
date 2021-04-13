@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message LootProto {
-	repeated LootItemProto loot_item = 1;
-}

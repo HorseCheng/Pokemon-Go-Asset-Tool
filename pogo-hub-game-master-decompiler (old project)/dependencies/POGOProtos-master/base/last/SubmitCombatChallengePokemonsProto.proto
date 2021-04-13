@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SubmitCombatChallengePokemonsProto {
-	string challenge_id = 1;
-	repeated fixed64 attacking_pokemon_id = 2;
-}

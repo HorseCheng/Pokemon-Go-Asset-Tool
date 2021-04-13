@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ReplaceLoginActionProto {
-	IdentityProvider existing_identity_provider = 1;
-	AddLoginActionProto new_login = 2;
-}

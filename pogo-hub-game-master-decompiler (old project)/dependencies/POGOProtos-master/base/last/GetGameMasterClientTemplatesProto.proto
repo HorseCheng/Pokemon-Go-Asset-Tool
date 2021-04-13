@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetGameMasterClientTemplatesProto {
-	bool paginate = 1;
-	int32 page_offset = 2;
-	uint64 page_timestamp = 3;
-}

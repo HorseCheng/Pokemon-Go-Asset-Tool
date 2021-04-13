@@ -1,9 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AddFortModifierProto {
-	Item modifier_type = 1;
-	string fort_id = 2;
-	double player_lat_degrees = 3;
-	double player_lng_degrees = 4;
-}

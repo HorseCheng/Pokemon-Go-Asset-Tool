@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SearchPlayerProto {
-	string friend_code = 1;
-}

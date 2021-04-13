@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message QuestSettingsProto {
-	QuestType quest_type = 1;
-	DailyQuestSettings daily_quest = 2;
-}

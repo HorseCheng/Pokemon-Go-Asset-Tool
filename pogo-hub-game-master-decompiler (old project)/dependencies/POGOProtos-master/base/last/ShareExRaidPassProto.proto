@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ShareExRaidPassProto {
-	string friend_id = 1;
-	string fort_id = 2;
-	int64 raid_seed = 3;
-}

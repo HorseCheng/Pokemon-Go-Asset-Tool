@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ReleasePokemonTelemetry {
-	PokemonTelemetry pokemon = 1;
-}

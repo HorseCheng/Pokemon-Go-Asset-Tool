@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaGlobalSettingsProto {
-	bool enable_beluga_transfer = 1;
-	int32 max_num_pokemon_per_transfer = 2;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message AddLoginActionProto {
-	IdentityProvider identity_provider = 1;
-	bytes inner_message = 2;
-}

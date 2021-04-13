@@ -1,9 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Map.Fort;
-
-message PokestopIncidentDisplay {
-	int64 incident_start_ms = 1;
-	int64 incident_expiration_ms = 2;
-	bool hide_incident = 3;
-	bool incident_completed = 4;
-}

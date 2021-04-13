@@ -1,8 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Enums;
-
-enum PoiImageType {
-	POI_IMAGE_TYPE_UNSET = 0;
-	MAIN = 1;
-	SURROUNDING = 2;
-}

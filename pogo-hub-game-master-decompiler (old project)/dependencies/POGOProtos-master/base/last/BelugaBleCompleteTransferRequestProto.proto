@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BelugaBleCompleteTransferRequestProto {
-	int64 transaction_id = 1;
-	int32 beluga_requested_item_id = 2;
-	string nonce = 3;
-}

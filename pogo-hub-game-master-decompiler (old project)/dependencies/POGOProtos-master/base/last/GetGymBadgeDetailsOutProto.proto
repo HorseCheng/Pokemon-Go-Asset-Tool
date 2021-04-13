@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GetGymBadgeDetailsOutProto {
-	AwardedGymBadge gym_badge = 1;
-	GymDefenderProto gym_defender = 2;
-	bool success = 3;
-}

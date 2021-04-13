@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message EncounterPhotobombProto {
-	fixed64 encounter_id = 1;
-	string encounter_location = 2;
-}

@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message NpcPokemonProto {
-	HoloPokemonId pokemon_type = 1;
-	PokemonDisplayProto pokemon_display = 2;
-}

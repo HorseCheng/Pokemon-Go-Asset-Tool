@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SubmitPoiTextMetadataUpdateProto {
-	string poi_id = 1;
-	string title = 2;
-	string description = 3;
-}

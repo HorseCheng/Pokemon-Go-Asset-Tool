@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message UploadPoiPhotoByUrlProto {
-	string request_id = 1;
-	string image_url = 2;
-}

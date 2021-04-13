@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ProfilePageTelemetry {
-	ProfilePageTelemetryIds profile_page_click_id = 1;
-}

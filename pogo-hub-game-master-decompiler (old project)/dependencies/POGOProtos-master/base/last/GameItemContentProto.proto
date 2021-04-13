@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message GameItemContentProto {
-	string type = 1;
-	int32 quantity = 2;
-}

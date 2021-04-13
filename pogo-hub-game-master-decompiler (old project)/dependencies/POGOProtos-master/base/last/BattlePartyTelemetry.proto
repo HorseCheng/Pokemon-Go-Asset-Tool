@@ -1,8 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message BattlePartyTelemetry {
-	BattlePartyTelemetryIds battle_party_click_id = 1;
-	int32 battle_party_count = 2;
-	int32 battle_party_number = 3;
-}

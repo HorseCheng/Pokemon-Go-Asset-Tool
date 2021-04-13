@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message TranslationSettingsProto {
-	repeated string translation_bundle_ids = 1;
-}

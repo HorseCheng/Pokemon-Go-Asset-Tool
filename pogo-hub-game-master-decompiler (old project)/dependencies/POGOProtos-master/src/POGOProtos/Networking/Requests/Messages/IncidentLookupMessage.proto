@@ -1,9 +1,0 @@
-syntax = "proto3";
-package POGOProtos.Networking.Requests.Messages;
-
-message IncidentLookupMessage {
-	string incident_id = 1;
-	string fort_id = 2;
-	double fort_lat = 3;
-	double fort_lng = 4;
-}

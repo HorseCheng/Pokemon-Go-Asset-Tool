@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message SetAvatarProto {
-	PlayerAvatarProto player_avatar_proto = 2;
-}

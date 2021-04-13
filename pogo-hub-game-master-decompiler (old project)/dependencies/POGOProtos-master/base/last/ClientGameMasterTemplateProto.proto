@@ -1,7 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ClientGameMasterTemplateProto {
-	string template_id = 1;
-	bytes data = 2;
-}

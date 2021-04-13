@@ -1,6 +1,0 @@
-syntax = "proto3";
-package DumpProtos;
-
-message ChannelAuthEventParams {
-	uint32 status = 1;
-}
