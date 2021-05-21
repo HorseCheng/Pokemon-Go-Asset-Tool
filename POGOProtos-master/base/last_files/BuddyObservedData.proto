@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "BuddyStats.proto";
 import "BuddyGiftProto.proto";
+import "SouvenirProto.proto";
 import "BuddyStatsShownHearts.proto";
 
 message BuddyObservedData {

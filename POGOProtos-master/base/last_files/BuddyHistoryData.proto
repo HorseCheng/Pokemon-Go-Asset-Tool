@@ -25,6 +25,7 @@ import "HoloPokemonId.proto";
 import "PokemonDisplayProto.proto";
 import "Item.proto";
 import "BuddyStats.proto";
+import "SouvenirProto.proto";
 
 message BuddyHistoryData {
 	fixed64 pokemon_id = 1;

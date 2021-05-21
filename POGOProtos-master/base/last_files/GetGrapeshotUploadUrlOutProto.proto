@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "GrapeshotUploadingDataProto.proto";
+
 message GetGrapeshotUploadUrlOutProto {
 	enum Status {
 		UNSET = 0;

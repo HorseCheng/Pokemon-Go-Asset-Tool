@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "PlayerCombatBadgeStatsProto.proto";
+
 message PlayerCombatStatsProto {
 	map<int32, PlayerCombatBadgeStatsProto> badges = 1;
 }

@@ -30,4 +30,6 @@ message EventBannerSectionProto {
 	string image_overlay_text = 6;
 	string link_from_image = 7;
 	string image_sub_text = 8;
+	repeated string image_urls = 9;
+	int64 image_auto_scroll_ms = 10;
 }

@@ -68,9 +68,9 @@ for value,char in enumerate(chi):
     if(x):
         key=re.findall("[0-9]+", char)
         if MEGAintrodict.get(str(key[0])+"_1") == None:
-            MEGAintrodict[str(key[0])+"_1"]=chi[value+1]
+            MEGAintrodict[str(key[0])+"_1"]=chi[value+1].replace("_x000D_"," ")
         else:  
-            MEGAintrodict[str(key[0])+"_2"]=chi[value+1]
+            MEGAintrodict[str(key[0])+"_2"]=chi[value+1].replace("_x000D_"," ")
 
 #New Pokemon, still don't have description
 #introdict["0562_GALARIAN"] = ""
@@ -375,7 +375,7 @@ for i in pokelist:
 # Output file
 origin=pd.DataFrame([i.__dict__ for i in pokelist])
 
-main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|SHADOW|PURIFIED') ].reset_index(drop=True)
+main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|SHADOW|PURIFIED') ].reset_index(drop=True)
 main=main.sort_values(by=['id'],kind='mergesort')
 
 #Rearange for DEERLING AUTUMN

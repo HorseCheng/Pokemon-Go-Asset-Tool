@@ -48,6 +48,27 @@ I see it too often
 Please explain in less than 300 characters.
 Send a Friend Request to {0}?
 Friends will see your Trainer profile, achievements, and Pokémon you have caught. Friends may also find out about your location when you send them a Gift or you trade Pokémon.
+If you add this friend in this game, you’ll add them as a friend in all Niantic games you both play.
+You have a pending Friend Request from this Trainer. Confirm your friendship to continue receiving referral rewards. You may enter another referral code, if you wish.
+You’re already friends in Pokémon GO, so you’ll continue receiving referral rewards. You may enter another referral code, if you wish.
+You must become friends in Pokémon GO to continue receiving referral rewards. You may enter another referral code, if you wish.
+If you aren’t already friends in Pokémon GO, you must become friends to continue receiving referral rewards. You may enter another referral code, if you wish.
+A Friend Request has been sent. Once your friendship is confirmed, you’ll be able to earn referral rewards as you continue your journey. You may enter another referral code, if you wish.
+A referral connection has already been established with this Trainer
+A connection could not be established.
+A referral connection could not be established, but a Friend Request was sent.
+You may no longer redeem a referral code.
+You may no longer redeem a referral code, but a Friend Request was sent.
+The referral period has ended
+Failed to establish a referral connection.
+A Friend Request has been sent, but a referral connection could not be established.
+This person has already sent you a Friend Request. Once you confirm your friendship, you’ll be able to earn referral rewards as you progress on your journey.
+You’re already friends with this person in Pokémon GO, so you’ll be able to earn referral rewards as you progress on your journey.
+Remember to become friends in Pokémon GO later to receive more referral rewards.
+A Friend Request will be sent. Once your friendship is confirmed, you'll be able to earn referral rewards.
+If you’re not already friends in Pokémon GO, remember to become friends later to receive more referral rewards.
+A Friend Request has been sent. Once your friendship is confirmed, you’ll be able to earn referral rewards as you continue your journey.
+Referral Code Confirmed
 ADD STICKER
 Learn what information is shared with friends.
 Please enter a different nickname.
@@ -128,6 +149,7 @@ This {0} was caught around {1}.
 This {0} was caught
 around {0}.
 The origin of this {0} is unknown!
+Tricky Pokémon
 AR
 We're not detecting your phone's orientation. Would you like to turn off AR mode?
 AR MAPPING
@@ -284,6 +306,7 @@ Seed Backpack
 Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
+GO Snapshot Camera
 Galar Bag
 Crown Tundra Bag
 Isle of Armor Bag
@@ -364,6 +387,7 @@ Litwick Cap
 Pearl Earrings
 Level 45 Hat
 Magikarp Hat
+Mega Lopunny Ears
 Meltan Cap
 Meltan Earrings
 Mewtwo Hat
@@ -468,6 +492,8 @@ Team Mystic Happi Coat
 Team Valor Happi Coat
 Team Instinct Happi Coat
 Johto Top
+Festival of Colors T-Shirt
+Festival of Colors T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
@@ -477,6 +503,7 @@ Latias & Latios Shirt
 Luvdisc Top
 Level 50 Jacket
 Level 50 Jacket
+Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
 Meltan Pullover
@@ -508,11 +535,14 @@ Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
 Spiritomb T-shirt
+Gulpin Romper
+Minun Romper
 Galar Top
 Steven-Style Top
 Blastoise Jacket
 Charizard Jacket
 Venusaur Jacket
+Sustainability T-shirt
 The Thirty
 Team Instinct Turtleneck
 Team Mystic Turtleneck
@@ -559,6 +589,7 @@ Gym Leader Shoes
 Johto Shoes
 2020 Sandals
 Luvdisc Shoes
+Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
 Misty Shoes
@@ -617,6 +648,7 @@ Seed Backpack
 Flame Backpack
 Shell Backpack
 Ruin Maniac Backpack
+GO Snapshot Camera
 Galar Bag
 Crown Tundra Bag
 Isle of Armor Bag
@@ -691,6 +723,7 @@ Litwick Cap
 Pearl Earrings
 Level 45 Hat
 Magikarp Hat
+Mega Lopunny Ears
 Meltan Cap
 Mewtwo Hat
 Mimikyu's Disguise Hat
@@ -794,6 +827,8 @@ Team Mystic Happi Coat
 Team Valor Happi Coat
 Team Instinct Happi Coat
 Johto Top
+Festival of Colors T-Shirt
+Festival of Colors T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
@@ -806,6 +841,7 @@ Pikachu Pullover
 Luvdisc Top
 Level 50 Jacket
 Level 50 Jacket
+Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
 Meltan Pullover
@@ -836,11 +872,14 @@ Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
 Spiritomb T-shirt
+Gulpin Hoodie Set
+Minun Sweater Set
 Galar Shirt
 Steven-Style Top
 Blastoise Jacket
 Charizard Jacket
 Venusaur Jacket
+Sustainability T-shirt
 Sports Hoodie
 Streak Hoodie
 Crown Tundra Uniform
@@ -887,6 +926,7 @@ Johto Shoes
 Jogger Shoes
 2020 Sandals
 Luvdisc Shoes
+Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
 Pikachu Fan Shoes
@@ -1304,6 +1344,9 @@ Pilot
 N0
 Gentleman
 N0
+Refer {0} Trainers
+Refer a Trainer
+Friend Finder
 Walk {0:0.#} km.
 Jogger
 N1
@@ -1418,7 +1461,6 @@ Account Termination Notice Your account has been permanently terminated for viol
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.
 Learn more
 <size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You can't undo this action once you transfer.
-<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
 <size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
 <size=36><b>Only 1 of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
 Select Pokémon
@@ -2224,6 +2266,7 @@ There are currently no active hideouts in the vicinity. Let’s search a differe
 There are no hideouts here, but my reports do confirm that there are more out there. Let’s head to other locations.
 No signals... I see. Perhaps their activities have ceased for the day. Let’s try again tomorrow.
 Let’s wait until morning. I doubt they’ll show themselves again for a while.
+BONUS MILESTONE REWARDS
 Mega Abomasnow is temporarily more powerful!
 Mega Beedrill is temporarily more powerful!
 Mega Blastoise is temporarily more powerful!
@@ -2449,7 +2492,7 @@ Press {0} and give treats to your buddy so it can join you on your adventures. T
 You’ll earn a heart for each {0} km you walk with your buddy up to {1} times per day. Walking distance is counted only while your buddy is walking with you on the map.
 When your buddy is hungry, give it a treat. You can earn a heart once your buddy is full.
 Playing with your buddy in AR mode will increase its happiness and can earn you a heart.
-Battling in Gyms, in raids, against other Trainers, or against Team GO Rocket while your buddy is walking with you on the map will strengthen your bond and can earn you a heart.
+Battling in Gyms, in raids, against other Trainers, or against Team GO Rocket with your buddy in your battle party will strengthen your bond and can earn you a heart.
 Capturing memories with your buddy by taking snapshots will strengthen your bond and can earn you a heart. Be sure to take your snapshot via the buddy screen!
 While your buddy is following you, spin a PokéStop or Gym you haven’t visited before, and you can earn a heart.
 Your buddy will give you presents and Souvenirs and discover various things during your adventure together. As a result, your bond will grow, and you can earn hearts as a bonus.
@@ -3209,6 +3252,7 @@ Community Day: Magmar
 Community Day: Porygon
 Community Day: Roselia
 Community Day: Seedot
+Community Day: Snivy
 Community Day: Weedle
 Complete an AR Mapping task
 Please open Pokémon HOME and finish moving your Pokémon.
@@ -3221,6 +3265,7 @@ Use your {0}?
 Continue to Battle
 COPY MY TRAINER CODE
 Your Trainer Code has been copied!
+Your referral code has been copied.
 Event Pokémon hatching from Eggs
 Encounter Event Pokémon after Field Research
 Event Pokémon appearing in raids
@@ -3303,9 +3348,12 @@ Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
 Type Surge: Dragon
 Dragon Boat Festival
+Sustainability Day
+Sustainability Week
 Eggstravaganza: Hatch an Egg
 Eggstravaganza: Hatch {0} Eggs
 Eggstravaganza: Hatch {0} Eggs
+Eggstravaganza
 Failed to edit tag.
 EDIT TAG
 What's inside?!
@@ -3315,8 +3363,8 @@ Use an incubator to hatch this Egg.
 INCUBATE
 Oh?
 Lucky you! You got an Egg!
-HATCHABLE POKÉMON
-Pokémon higher on this list are more likely to hatch from this Egg.
+Hatchable Pokémon
+Groups of Pokémon that are higher on the list are more likely to hatch from this Egg.
 Walk {0} km to hatch the Egg!
 Event-themed 10 km Eggs
 Event-themed 2 km Eggs
@@ -3436,6 +3484,7 @@ This Trainer has too many pending Friend Requests.
 Your Friend List is full.
 Your Friend List is full.
 Failed to get your Trainer Code.
+Failed to locate your referral code.
 Failed to get Friend List. Try again later.
 Failed to get Friend Requests. Try again later.
 Cannot send Gift due to an error.
@@ -3453,6 +3502,8 @@ You're already friends with this Trainer.
 Invalid Trainer Code; Trainer not found.
 An error occurred in trying to update your battle party.
 A Raid Boss has taken control of the Gym!
+Your referral code could not be refreshed.
+Your referral code cannot be refreshed right now. Please try again later.
 Failed to send a Friend Request to {0}.
 {0}'s Friend List is full.
 Error setting nickname.
@@ -3472,6 +3523,7 @@ Evolve Kadabra to Alakazam that know the Fast Attack Counter
 Evolve Flaaffy to get an Ampharos that knows Dragon Pulse
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
+New Pokémon Snap Celebration
 What do you think of my outfit?
 What do you think of my outfit?
 <taunt>Hi! I like shorts! They’re comfy and easy to wear!
@@ -3572,6 +3624,7 @@ GO Tour Challenger
 Well, this was unexpected.
 Well, this was unexpected.
 Carnaval
+Festival of Colors
 You have successfully registered for {0}!
 Season of Celebration
 Season of Legends
@@ -3747,7 +3800,7 @@ Traded
 Type Surge: Fire
 Maybe later
 Yes, camera on!
-Try it out. You can turn it off with the AR button anytime.
+While using AR mode, make sure you’re in a safe location and any children are supervised at all times.
 Use your camera to find Pokémon in the real world!
 There’s a Pokémon nearby!
 Here are some Poké Balls. These will help you catch one!
@@ -3840,6 +3893,7 @@ Wash Rotom
 West Sea
 White Kyurem
 Winter Form
+The referral code was found!
 You found a Mysterious Component!
 Collect more to assemble a Rocket Radar, which can locate Team GO Rocket Hideouts!
 It looks like it’s part of some larger device...
@@ -3877,6 +3931,7 @@ Friend Fest: Trade a Pokémon with a friend
 Friend Fest: Win a Trainer Battle against another Trainer
 Lv {0}
 Friendship levels increase more quickly
+Friendship Day
 Attack bonus
 +{0} Balls
 +{0} Ball
@@ -3936,7 +3991,7 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 The Bravest Bird Ticket
@@ -3944,7 +3999,9 @@ A ticket to access the Straight to the Top, Machop! Special Research on January 
 Straight to the Top, Machop! Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
-The Bravest Bird Ticket
+A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Snivy in the Sunshine Ticket
+Snivy in the Sunshine Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -3970,10 +4027,10 @@ Error
 GO
 GO TO SHOP
 HP
-TRANSFER
+INCLUDE
 kg
 km
-CANCEL
+LEAVE OUT
 m
 More
 Network Error
@@ -3984,7 +4041,7 @@ Paste
 Pokémon
 Your collection is full.
 QUIT
-General raid error.
+There was an error with the raid.
 Report Issue
 SEND
 Sign Out
@@ -4822,7 +4879,10 @@ Egg Incubator
 A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
 Super Incubator
 Privacy Control: Your safety is our priority, so you can control what features are turned on.
+You have {0} hours left to enter a referral code. Your own referral code will become available here after you enter another Trainer’s referral code or after {0} hours have elapsed.
+You have {0} hour left to enter a referral code. Your own referral code will become available here after you enter another Trainer’s referral code or after {0} hour has elapsed.
 This name contains an invalid character.
+Invalid referral code
 {0} was defeated.
 Curious... Upon their defeat, your opponent seems to have abandoned the Pokémon they battled with. It has a strange and ominous aura.
 I have a hypothesis about what kind of Pokémon it is... Could you catch it so we can examine it more closely?
@@ -4891,10 +4951,10 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -4902,6 +4962,8 @@ This ticket will automatically activate to give you access to Special Research o
 Ticket
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
 A box that you can send to a friend. Contains a variety of useful items.
@@ -4912,8 +4974,8 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access a special event on February 20, 2021, from 9:00 a.m. to 9:00 p.m. local time, wherever you are.
-This ticket will automatically activate on February 20, 2021, at 9:00 a.m. local time.
+This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
+A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
 This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 Ticket
@@ -5009,6 +5071,8 @@ Magnetic Lure Module
 A natural Lure Module that attracts Pokémon for 30 minutes, especially ones that love mossy scents. It can also cause some Pokémon to evolve.
 Mossy Lure Module
 Lure Module
+A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that love the rain. It can also cause some Pokémon to evolve.
+Rainy Lure Module
 An ultra-performance ball with a higher catch rate than a Great Ball.
 Ultra Ball
 A transparent device that can make certain species of Pokémon evolve. It was produced by Silph Co.
@@ -6001,7 +6065,10 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-04-06T08:36:15.605757at SHA 8f1f1038a8518d9b11e9614aed09ca0e4ca197a6Pipeline 597489, job 5457998
+Built at 2021-05-10T09:39:22.653119at SHA 8372edcefd33c684488080226eca993f7fbbd9f7Pipeline 621442, job 5745887
+MILESTONE REWARDS
+Spring into Spring 2021 Collection
+Friendship Day Collection Challenge
 Kanto Collection Challenge
 Valentine’s Day 2021 Collection
 Johto Collection Challenge
@@ -6317,6 +6384,7 @@ Techno Blast
 Techno Blast
 Fly
 V-create
+Leaf Storm
 Tri Attack
 Gust
 Incinerate
@@ -6374,7 +6442,8 @@ Niantic Social has arrived! With this new social feature, you can now do the fol
 Set Nickname
 Please link your Nintendo Account to Pokémon GO again.
 No limit
-Tell your friends to join you in the Pokémon GO Fest 2020 global challenges!
+
+Tell your friends to join you in the global challenge!
 View Friend List
 No news.
 No notifications.
@@ -6519,6 +6588,7 @@ Weak signal. Get closer to the device.
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
+5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
 Event-themed surprise encounters in GO Snapshot
 Welcome to Team Mystic!
@@ -6764,6 +6834,14 @@ Type Surge: Poison
 Earned Today
 {0} PokéCoins daily limit reached.
 All Types
+Shiny 3 Stars
+You can now keep track of {0} in your Pokédex.
+You can now keep track of {0} Pokémon in your Pokédex.
+You can now keep track of {0}, and {1} Pokémon in your Pokédex.
+You can now keep track of {0} and {1} Pokémon in your Pokédex. 
+View Pokédex
+Pokédex Classification Unlocked!
+Pokédex Classifications Unlocked!
 ??? Pokémon
 Caught:
 Evolution
@@ -7653,7 +7731,7 @@ Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beache
 Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.
 Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.
 Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.
-This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to Evolution.
+This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.
 Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.
 It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.
 Cubone pines for the mother it will never see again. Seeing a likeness of its mother in the full moon, it cries. The stains on the skull the Pokémon wears are made by the tears it sheds.
@@ -8212,7 +8290,7 @@ When it is resolute, its body fills with power and it becomes swifter. Its jumps
 Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.
 This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
 The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock.
-It relies on its sturdy shell to deflect predators’ attacks. It counterattacks with its sharp quills.
+It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills.
 Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body.
 Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit.
 It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle.
@@ -8236,7 +8314,7 @@ It claims exquisite flower gardens as its territory, and it obtains power from b
 Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition.
 It can tell how its Trainer is feeling by subtle shifts in the grip on its horns. This empathic sense lets them run as if one being.
 It does its best to be taken seriously by its enemies, but its glare is not sufficiently intimidating. Chewing on a leaf is its trademark.
-Although it possesses a violent temperament, it won’t put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
+Although it possesses a violent temperament, it won't put up with bullying. It uses the leaf in its mouth to sense the movements of its enemies.
 Trimming its fluffy fur not only makes it more elegant but also increases the swiftness of its movements.
 The organ that emits its intense psychic power is sheltered by its ears to keep power from leaking out.
 When in danger, it raises its ears and releases enough psychic power to grind a 10-ton truck into dust.
@@ -8260,35 +8338,35 @@ They flare their frills and generate energy. A single Heliolisk can generate suf
 This Pokémon was restored from a fossil. If something happens that it doesn't like, it throws a tantrum and runs wild.
 Thanks to its gargantuan jaws, which could shred thick metal plates as if they were paper, it was invincible in the ancient world it once inhabited.
 This ancient Pokémon was restored from part of its body that had been frozen in ice for over 100 million years.
-The diamond-shaped crystals on its body expel air as cold as –240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.
+The diamond-shaped crystals on its body expel air as cold as -240 degrees Fahrenheit, surrounding its enemies and encasing them in ice.
 It sends a soothing aura from its ribbonlike feelers to calm fights.
 Although its body is small, its proficient fighting skills enable it to keep up with big bruisers like Machamp and Hariyama.
 Its whiskers serve as antennas. By sending and receiving electrical waves, it can communicate with others over vast distances.
 Born from the temperatures and pressures deep underground, it fires beams from the stone in its head.
-The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn’t dry out.
-It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can’t see anything.
+The weakest Dragon-type Pokémon, it lives in damp, shady places, so its body doesn't dry out.
+It drives away opponents by excreting a sticky liquid that can dissolve anything. Its eyes devolved, so it can't see anything.
 This very friendly Dragon-type Pokémon will hug its beloved Trainer, leaving that Trainer covered in sticky slime.
 These key collectors threaten any attackers by fiercely jingling their keys at them.
 These Pokémon are created when spirits possess rotten tree stumps. They prefer to live in abandoned forests.
 It can control trees at will. It will trap people who harm the forest, so they can never leave.
 The pumpkin body is inhabited by a spirit trapped in this world. As the sun sets, it becomes restless and active.
 Singing in eerie voices, they wander town streets on the night of the new moon. Anyone who hears their song is cursed.
-It blocks opponents’ attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.
+It blocks opponents' attacks with the ice that shields its body. It uses cold air to repair any cracks with new ice.
 Its ice-covered body is as hard as steel. Its cumbersome frame crushes anything that stands in its way.
 They live in pitch-black caves. Their enormous ears can emit ultrasonic waves of 200,000 hertz.
 They fly around on moonless nights and attack careless prey. Nothing can beat them in a battle in the dark.
 Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.
-When this legendary Pokémon’s wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.
-When the Kalos region’s ecosystem falls into disarray, it appears and reveals its secret power.
+When this legendary Pokémon's wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.
+When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.
 A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.
-In its true form, it possesses a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
-It lets out billows of steam and disappears into the dense fog. It’s said to live in mountains where humans do not tread.
+In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
+It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.
 It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.
 Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
 Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.
 What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
 Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
-It’s highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.
+It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.
 A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.
 In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
 The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
@@ -8356,6 +8434,7 @@ CAUGHT
 CAUGHT AFTER DEFEATING {0}
 CAUGHT AFTER A SURPRISE ENCOUNTER
 CAUGHT DURING FIELD RESEARCH
+CAUGHT AFTER COMPLETING A REFERRAL MILESTONE
 CAUGHT AFTER A RESEARCH BREAKTHROUGH
 CAUGHT DURING SPECIAL RESEARCH
 CAUGHT DURING TIMED RESEARCH
@@ -8406,6 +8485,7 @@ You can't select Lucky Pokémon.
 You can't select Mythical Pokémon.
 This Pokémon cannot be transferred.
 You can't select Shiny Pokémon.
+The selected Pokémon cannot be transferred.
 None of the selected Pokémon can be transferred.
 One or more of the selected Pokémon cannot be transferred.
 Raid in progress! Your Pokémon will return to the Gym once the raid is over.
@@ -9297,7 +9377,6 @@ Daily PokéStop Spin
 Your Item Bag is full. You can buy more space for items in the shop.
 This PokéStop is currently closed.
 This PokéStop is closing soon.
-Please enter activation code
 Turn on Always Allow to earn Candies, hatch Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Privacy Policy
 Privacy
@@ -9488,6 +9567,7 @@ Catch {0} Natu
 Catch {0} Omanyte or Kabuto
 Catch {0} Slugma or Gulpin
 Catch {0} Voltorb
+Catch {0} Trubbish
 Catch {0} Bug-type Pokémon
 Catch {0} different species of Bug-type Pokémon
 Catch a Bug-type Pokémon
@@ -9583,6 +9663,7 @@ Time to Train
 An Inter-egg-sting Development
 The Higher They Fly...
 Stop and Smell the Roselia
+Snivy in the Sunshine
 A Spooky Message 2018
 A Spooky Message 2019
 Seeing Double
@@ -10300,8 +10381,38 @@ Take a snapshot of Regirock
 Take a snapshot of Registeel
 Take a snapshot of Thundurus
 Take a snapshot of Tornadus
+Take {0} snapshots of wild Bug-type Pokémon
+Take {0} snapshots of wild Dark-type Pokémon
+Take {0} snapshots of wild Dragon-type Pokémon
+Take a snapshot of Chinchou, Finneon, or Ducklett in the wild
+Take {0} snapshots of wild Electric-type Pokémon
+Take {0} snapshots of wild Fairy-type Pokémon
+Take {0} snapshots of wild Fighting-type Pokémon
+Take {0} snapshots of wild Fire-type Pokémon
+Take {0} snapshots of wild Flying-type Pokémon
+Take a snapshot of Sandshrew, Geodude, or Cacnea in the wild
+Take {0} snapshots of wild Ghost-type Pokémon
+Take {0} snapshots of wild Grass-type Pokémon
+Take {0} snapshots of wild Ground-type Pokémon
+Take a snapshot of Hoothoot in the wild
+Take {0} snapshots of wild Ice-type Pokémon
+Take a snapshot of Metapod, Aipom, or Lotad in the wild
+Take a snapshot of Chinchou, Luvdisc, or Finneon in the wild
+Take {0} snapshots of wild Normal-type Pokémon
+Take {0} snapshots of wild Pokémon
+Take {0} snapshots of wild Poison-type Pokémon
+Take {0} snapshots of wild Psychic-type Pokémon
+Take {0} snapshots of wild Rock-type Pokémon
+Take a snapshot of a wild Pokémon
+Take a snapshot of Dodrio, Mantine, or Skarmory in the wild
+Take {0} snapshots of wild Steel-type Pokémon
+Take a snapshot of Sandshrew, Trapinch, or Cacnea in the wild
+Take {0} snapshots of wild Water-type Pokémon
 Take a snapshot of a Pokémon {0} days in a row
 Take {0} snapshots
+Catch {0} Snivy
+Evolve {0} Snivy
+Evolve {0} Servine
 Good to see you again, %PLAYERNAME%. Have you noticed an increased number of Abra in the area?
 Yes, so did I. I originally thought this strange phenomenon was happening due to Abra’s ability to teleport.
 When Abra decides to teleport randomly, it creates the illusion that it’s made copies of itself.
@@ -11231,14 +11342,14 @@ Thank you, %PLAYERNAME%. I think we’ve gained a better understanding of Landor
 And is that a Drilbur you’ve got there? I dig it! ...Haha! Sorry, sorry.
 Anyway, since we’ve explored all our leads on Landorus for the moment, what do you say we move on to another Pokémon from my dream?
 Let’s focus on Tornadus next. The texts say Tornadus expels massive energy from its tail, causing severe storms, and that its power is great enough to blow houses away.
-Like Landorus, Tornadus also has both Incarnate and Therian formes. Hmm… Maybe researching Flying-type Pokémon in the area is our best bet for now? Let’s give it a shot, Trainer!
+Like Landorus, Tornadus also has both Incarnate and Therian Formes. Hmm... Maybe researching Flying-type Pokémon in the area is our best bet for now? Let’s give it a shot, Trainer!
 Excellent work, Trainer! Thanks for documenting that information about Tornadus. It seems you even found yourself a darling Ducklett along the way! Is it all it’s quacked up to be? Haha!
 I think we’ve learned everything we can about Tornadus for now. Its Therian Forme is still a mystery, but hopefully not for long!
 Before we start investigating the final Legendary Pokémon from my dream, I need to share something...strange.
 You see, I’d been running myself a bit ragged with research, so I stopped for an afternoon nap. In the resulting dream, I saw those three Unovan Legendary Pokémon again, clear as crystal. But then, the whole dream just started...fading.
 It was almost like something was eating the dream itself. I’m still not sure what to make of it all, but let's stay on the lookout for anything suspicious. I have a hunch this may be the work of a Pokémon nearby.
 For now, though, let’s continue our research and turn our attention to the last of the three Unovan Legendary Pokémon detailed in those stories—Thundurus.
-Thundurus is known as the Bolt Strike Pokémon, and its story also references both Incarnate and Therian formes. The spikes on its tail are said to discharge immense bolts of lightning.
+Thundurus is known as the Bolt Strike Pokémon, and its story also references both Incarnate and Therian Formes. The spikes on its tail are said to discharge immense bolts of lightning.
 For the sake of consistency, let’s go ahead and research Electric-type Pokémon in the area as we compile our notes on Thundurus.
 Ah, there you are, %PLAYERNAME%. I have something big to share!
 But first, I want to thank you for all your hard work collecting information on Landorus, Tornadus, and Thundurus.
@@ -11246,8 +11357,31 @@ I feel confident that when the time comes, you’ll be prepared to encounter any
 Now—do you remember that strange experience I had where my dream began fading inexplicably? I think I may have finally uncovered the cause.
 While consulting the Pokédex for possible culprits, I came across an entry for a Pokémon called Munna. It’s known as the Dream Eater Pokémon—so you can see why it caught my eye!
 Munna is said to eat the dreams of both people and Pokémon, expelling mist as a result. The mist is pink if the dream is pleasant, and black if it’s a nightmare.
-I was pretty pleased to be dreaming of those Unovan Legendary Pokémon again, so I suspect Munna’s mist was nice and rosy that day! 
+I was pretty pleased to be dreaming of those Unovan Legendary Pokémon again, so I suspect Munna’s mist was nice and rosy that day!
 Munna seems like a fascinating Pokémon, and I can’t wait to research it more. I hope you’ll give me a hand when the time comes, Trainer! Now, let’s GO!
+Hey there, %PLAYERNAME%! Perfect timing.
+I just got back from a lengthy stroll in the sunshine. It’s incredible how much a bit of fresh air can affect your energy and mood!
+But that’s not the only thing that’s got me feeling chipper. You see, I witnessed something quite interesting while I was out and about.
+Perhaps in response to the abundant sunlight, a congregation of Snivy appears to have formed nearby.
+I don’t know about you, but this seems to me like a golden opportunity to research the Grass Snake Pokémon. Could you lend me a hand?
+They’re known to be fairly calm, so you shouldn’t have much trouble observing them.
+Good luck out there!
+Welcome back, Trainer! Great work.
+I have some information for you on why Snivy are so fond of the sun.
+These Grass-type Pokémon photosynthesize by bathing their tails in sunlight. Much like the sunshine they crave, Snivy are quite bright!
+They were first encountered in the Unova region, where they were known for their intelligence and calm demeanor. Fascinating!
+While we continue researching their sudden appearance, could you evolve a Snivy for me? I’d like to document its Evolution, Servine.
+Take care when you do, however—Servine is known for its masterful whipping techniques.
+Wonderful work, %PLAYERNAME%! That’s a mighty fine Servine.
+Like Snivy, Servine is known as the Grass Snake Pokémon. It moves along the ground as if sliding. Though it’s far from sluggish, it won’t hesitate to seek out the shadows of thick foliage to avoid attacks.
+Now that we’ve properly documented Snivy and Servine, I’d like to move on to Serperior, Snivy’s final Evolution.
+Serperior is known as the Regal Pokémon, and much like Snivy and Servine, it also has a penchant for sunlight. It takes in solar energy and boosts it internally.
+Could you evolve your Servine into Serperior for me, Trainer? It’ll be a great boon to my research, and you’ll have a powerful Grass-type Pokémon to join your journey as well!
+Fantastic work, Trainer! I have no doubt Serperior will prove a potent asset on your adventures.
+It has an incredible ability to stop its opponents’ movements with a single glare. Should the opponent prove bold enough to continue, Serperior will give its all in battle.
+Having a Pokémon like that by your side would be pretty inspiring, I’d say!
+Anyway, thanks again for all your help in this sun-soaked endeavor. I think I’ll take one more walk before the day’s done—can’t let weather like this go to waste!
+Until next time, let’s GO!
 Oh, %PLAYERNAME%! You’ve dropped by just in time.
 As I was out on my regular walk one evening, I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening.
 Papers shifting around, water glasses tipping all by themselves...
@@ -11605,6 +11739,11 @@ Season of Legends (2/5)
 Season of Legends (3/5)
 Season of Legends (4/5)
 Season of Legends (5/5)
+Snivy in the Sunshine
+Snivy in the Sunshine (1/4)
+Snivy in the Sunshine (2/4)
+Snivy in the Sunshine (3/4)
+Snivy in the Sunshine (4/4)
 A Spooky Message 2018
 A Spooky Message 2018 (1/3)
 A Spooky Message 2019 (1/3)
@@ -13342,7 +13481,7 @@ Special Raid Weekend: Zorua
 Special Raid Weekend: Zubat
 Special Raid Weekend: Zweilous
 Special Raid Weekend: Zygarde
-1.25x five-star Raid XP
+1.25× five-star Raid XP
 2× Raid XP
 Increased XP from raids
 Alolan Marowak appearing in raids
@@ -13360,8 +13499,48 @@ Recent
 Recommended
 Discard
 {0}?
+{0} Has Completed a Milestone!
+Copy Referral Code
+Share Referral Code
+If you refer someone who’s already started their Pokémon GO adventure, you’ll only be eligible for rewards if the referred Trainer hasn't logged in for over {0} days.
+You can receive referral codes from friends who play Pokémon GO.
+Have a referral code?
+FILL
+You can also enter a referral code in the Friends menu up to 72 hours after starting your journey.
+Skip
+Enter referral code:
+Would you like to try adding this person as a referrer anyway? You’ll still receive a reward for signing in, but to earn more referral rewards, you’ll need to become friends in Pokémon GO with the person who referred you.
+You’ll still receive a reward for signing in, but to earn more referral rewards, you’ll need to become friends in Pokémon GO with the person who referred you.
+This Trainer has too many pending Friend Requests.
+You cannot send any more Friend Requests at this time.
+This Trainer’s account may have been deleted.
+You cannot refer yourself.
+Your Friend Can’t Add Any More Friends
+Unable to send Friend Request
+Your Friend List Is Full
+Unable to send Friend Request to the Trainer who invited you. 
+Your Friend
+Your friend has joined Pokémon GO!
+You earned the following:
+Your friend has returned to Pokémon GO!
+Your friend welcomes you to Pokémon GO!
+Your friend welcomes you back to Pokémon GO!
+Invite
+Invite Your Friends to Pokémon GO and Earn Rewards
+Invite to Pokémon GO
+Completed Referral Milestone: {0}.
+Here are some rewards you can earn when a friend you’ve invited hits certain milestones in Pokémon GO. Your friend will earn rewards as well, like 100 Poké Balls for starting their journey!
+The referral feature is currently disabled.
+Welcome!
+Welcome Back!
+A lot has changed since you last played. Here are some of the new features that have been added.
+Your Pokémon GO journey is about to begin!
+Your Referral Code
 Region
 Please select an account to register with.
+The raid details could not be obtained. IID: {0}
+The Raid Battle no longer exists. IID: {0}
+The lobby no longer exists. IID: {0}
 using a Remote Raid Pass
 Boosted damage for Trainers battling remotely in raids
 Continue to Lobby
@@ -13420,6 +13599,7 @@ Returned Today
 Sign in with {0}
 Style Rewards
 STICKER
+Rivals’ Week
 Type Surge: Rock
 Team GO Rocket balloons appearing more often
 Team GO Rocket Celebration
@@ -13664,7 +13844,8 @@ Buy a Pokémon GO Plus
 https://www.nintendo.co.jp/pokemongoplus/
 Push Notifications
 Share Recently Caught Pokémon with Friends
-Sound Effects
+Sound
+Sound
 Nintendo Switch
 About
 https://www.nintendo.co.jp/pika_vee/about/country_selecter/index.html
@@ -13697,6 +13878,7 @@ You invited {0}.
 Invitation sent!
 EX Raid Pass at {0} sent to {1}!
 Let's be friends in Pokémon GO! My Trainer Code is {0}!
+If you join or return to Pokémon GO using my referral code {0}, you’ll instantly get 100 Poké Balls, be able to earn special bonus items, and more. {1}
 Share
 If you're unable to attend:
 You and one {0} are invited to an EX Raid.
@@ -13834,11 +14016,36 @@ More Magmar are appearing in the wild
 More Porygon are appearing in the wild
 More Roselia are appearing in the wild
 More Seedot are appearing in the wild
+More Snivy are appearing in the wild
 More Weedle are appearing in the wild
+More Bug-type Pokémon are appearing in the wild
+More Dark-type Pokémon are appearing in the wild
+More Dragon-type Pokémon are appearing in the wild
+More Electric-type Pokémon are appearing in the wild
+More Fairy-type Pokémon are appearing in the wild
+More Fighting-type Pokémon are appearing in the wild
+More Fire-type Pokémon are appearing in the wild
+More Flying-type Pokémon are appearing in the wild
+More Ghost-type Pokémon are appearing in the wild
+More Grass-type Pokémon are appearing in the wild
+More Ground-type Pokémon are appearing in the wild
+More Ice-type Pokémon are appearing in the wild
+More Normal-type Pokémon are appearing in the wild
+More Poison-type Pokémon are appearing in the wild
+More Psychic-type Pokémon are appearing in the wild
+More Rock-type Pokémon are appearing in the wild
+More Steel-type Pokémon are appearing in the wild
+More Water-type Pokémon are appearing in the wild
 More Wooper are appearing in the wild
 Event-themed wild Pokémon
 Special event: Catch {0} Pokémon
 Special event: Send {0} Gifts to friends
+Special Evolution
+{0} can evolve only during the daytime.
+{0} can evolve only if you’re near a {1}. Meet this condition to evolve {0}.
+{0} can evolve only during the nighttime.
+{0} can evolve only if it’s raining outside or if you’re near a {1}. Meet either of these conditions to evolve {0}.
+{0} needs some help evolving! Can you find out how to help {0}?
 Special
 Which attack should {0} forget?
 Do you want to teach {0} a new Charged Attack?
@@ -13972,6 +14179,7 @@ Tickets for the No Match for Magmar Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
+Ticket for Special Research available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
@@ -13986,7 +14194,8 @@ Ends in {0} minute
 Challenge bonus:{0}
 BONUS ACTIVE:
 TIMED BONUS
-All Trainers participating in a global challenge will contribute to a global goal. Once Trainers achieve the goal, a timed bonus will activate for all participants and remain active until the next global challenge starts.
+All Trainers must work together as a global community to complete this challenge.
+All Trainers participating in a global challenge will contribute to a global goal. Once Trainers achieve the goal, a timed bonus will activate for all participants.
 Global Challenges
 Challenge complete! Bonus active!
 Ended
@@ -14047,6 +14256,9 @@ UPLOAD NOW
 ({0}MB)
 You are about to upload {0} MB of data. If you are not connected to Wi-Fi, data rates may apply.
 Would you like to upload? The upload size is {0} MB.
+{0} more scanning contribution(s) will be added tomorrow.
+You have {0} scanning contribution(s) available today.
+You have reached your max daily scanning contribution(s) of {0}.
 Scan Failed
 Too dark. Please scan again, ensuring your camera is unobstructed and there is adequate lighting.
 Too fast. Please scan again, ensuring you move slowly around the PokéStop.
@@ -14285,6 +14497,7 @@ https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center </a> for more information.
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center</a> for more information.
+If you remove this friend in this game, you’ll remove them as a friend in all Niantic games you both play.
 Are you sure you want to unfriend {0}?
 <size=36><b>Unlink this account?</b></size>You won’t be able to sign in with this method.
 Unable to unlink from this account.
@@ -14456,6 +14669,7 @@ Rating
 Got It
 Your rank and rating have been reset for the new season.
 New rank earned!
+Searching for the referral code associated with your link.
 Water Festival
 Type Surge: Water
 Water Festival: Earn a Candy walking with your buddy
@@ -14483,8 +14697,10 @@ Partly Cloudy
 Rain
 The weather is not accurate at all!
 The weather seems accurate, just not up to date.
+Weather
 Snow
 Sunny
+Weather
 Weather
 Weather Week
 Windy
@@ -14498,9 +14714,12 @@ World Tourism Day: Make a new friend
 World Tourism Day: Send {0} Gifts to friends
 World Tourism Day: Trade Pokémon caught 10,000 km apart
 World Tourism Day: Trade Pokémon caught 10,000 km apart
+20,000 XP
 Yesterday
+You’ve completed a milestone! Claim it on {0}’s Trainer page in the Friends menu.
 You May See This Later
 You might see this message later. In order to receive credit for Adventure Sync, “Change to Always Allow” must be selected.
 Trainer Code has been changed.
 Others can input this Trainer Code to add you as a friend.
+Your referral code has been changed.
 Your Trainer Code
