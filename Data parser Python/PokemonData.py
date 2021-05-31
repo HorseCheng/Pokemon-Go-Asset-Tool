@@ -109,7 +109,7 @@ for value,char in enumerate(eng):
 #New Move or replace move name
 chimovedict["0292"] = "氣象球 (火)"
 chimovedict["0293"] = "氣象球 (冰)"
-chimovedict["0294"] = "氣象球 (一般)"
+chimovedict["0294"] = "氣象球 (岩石)"
 chimovedict["0295"] = "氣象球 (水)"
 
 engmovedict["0336"] = "Techno Blast"
