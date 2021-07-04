@@ -9,6 +9,22 @@ Pokémon GO Tour: Kanto
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
+CONTACTS LIST
+Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
+https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
+You choose which contacts to be friends with.
+FIND FRIENDS ON CONTACTS LIST
+You can disable this feature anytime in the Settings menu. You can choose which contacts to send Friend Requests to.
+Trade Pokémon
+Send Gifts
+Join raids
+Take snapshots
+Battle each other
+Send Friend Requests to Trainers on your contacts list! With friends, you can...
+Let others send me Friend Requests if I am in their imported Contacts.
+This can be disabled anytime in Niantic Account Settings.
+Pokémon GO Is Better with Friends!
+Easily Find Friends Using Your Contact List in Your Phone
 About
 ©2016–2017 Niantic, Inc.
 ©2016–2017 Pokémon.
@@ -346,6 +362,7 @@ No Gloves
 LeafGreen Wristbands
 Giovanni Gloves
 Gym Leader Gloves
+Korrina-Style Gloves
 GO Mega Bracelet
 Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
@@ -383,6 +400,7 @@ Beanie Hat
 GO Tour: Green Version Hat
 GO Tour: Red Version Hat
 Power-Up Knit Cap
+Korrina-Style Helmet
 Litwick Cap
 Pearl Earrings
 Level 45 Hat
@@ -402,6 +420,9 @@ Pikachu Libre Mask
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Regice Hat
+Regirock Hat
+Registeel Hat
 Ruin Maniac Hat
 Sableye Goggles
 Samsung Galaxy Tie-Dye Hat
@@ -409,6 +430,7 @@ Galar Beret
 Stantler Headband
 Red-Ribboned Straw Hat
 Crown Tundra Helmet
+Sylveon Bow
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -446,6 +468,9 @@ Munna Pants
 Liquid Leggings
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Regice Pants
+Regirock Pants
+Registeel Pants
 Track Shorts
 Skinny Jeans
 Steven-Style Pants
@@ -499,6 +524,7 @@ Ingress Prime / Green
 Ingress Prime / Blue
 Jessie-Style Outfit
 Jirachi T-shirt
+Korrina-Style Outfit
 Latias & Latios Shirt
 Luvdisc Top
 Level 50 Jacket
@@ -529,6 +555,9 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Regice Jacket
+Regirock Jacket
+Registeel Jacket
 Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
@@ -549,6 +578,7 @@ Team Mystic Turtleneck
 Team Valor Turtleneck
 Crown Tundra Uniform
 Isle of Armor Uniform
+Sylveon Hoodie
 Trainer Tank
 Charizard Tank
 Pikachu Tank
@@ -587,6 +617,7 @@ Giovanni Shoes
 Blue-Style Shoes
 Gym Leader Shoes
 Johto Shoes
+Korrina-Style Shoes
 2020 Sandals
 Luvdisc Shoes
 Mega Lopunny Shoes
@@ -595,6 +626,9 @@ Mewtwo Shoes
 Misty Shoes
 Pikachu Fan Shoes
 Pikachu Libre Boots
+Regice Shoes
+Regirock Shoes
+Registeel Shoes
 Ruin Maniac Footwear
 Sandals
 Sandals
@@ -603,6 +637,7 @@ Galar Shoes
 Steven-Style Shoes
 Crown Tundra Boots
 Isle of Armor Shoes
+Sylveon Shoes
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -682,6 +717,7 @@ FireRed Wristbands
 Giovanni Gloves
 Gym Leader Gloves
 Jogger Watch
+Korrina-Style Gloves
 GO Mega Bracelet
 Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
@@ -719,6 +755,7 @@ Beanie Hat
 Jogger Visor
 GO Tour: Green Version Hat
 GO Tour: Red Version Hat
+Korrina-Style Helmet
 Litwick Cap
 Pearl Earrings
 Level 45 Hat
@@ -737,6 +774,9 @@ Pikachu Libre Mask
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Regice Hat
+Regirock Hat
+Registeel Hat
 Ruin Maniac Hat
 Sableye Goggles
 Samsung Galaxy Tie-Dye Hat
@@ -744,6 +784,7 @@ Galar Knit Hat
 Stantler Headband
 Red-Ribboned Straw Hat
 Crown Tundra Helmet
+Sylveon Headband
 Team Aqua Bandanna
 Team Valor Cap
 Team Instinct Cap
@@ -770,12 +811,16 @@ Blue-Style Pants
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
+Korrina-Style Pants
 Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
 Mewtwo Pants
 Munna Pants
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Regice Pants
+Regirock Pants
+Registeel Pants
 Skinny Jeans
 Galar Pants
 Steven-Style Pants
@@ -835,6 +880,7 @@ Ingress Prime / Blue
 James-Style Outfit
 Jirachi T-shirt
 Jogger Tank Top
+Korrina-Style Top
 Latias & Latios Shirt
 Charizard Pullover
 Pikachu Pullover
@@ -866,6 +912,9 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Regice Jacket
+Regirock Jacket
+Registeel Jacket
 Ruin Maniac Outfit
 Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
@@ -884,6 +933,7 @@ Sports Hoodie
 Streak Hoodie
 Crown Tundra Uniform
 Isle of Armor Uniform
+Sylveon Hoodie
 Team Aqua Top
 Blanche-Style Coat
 Candela-Style Jacket
@@ -924,6 +974,7 @@ Blue-Style Shoes
 Gym Leader Shoes
 Johto Shoes
 Jogger Shoes
+Korrina-Style Shoes
 2020 Sandals
 Luvdisc Shoes
 Mega Lopunny Shoes
@@ -931,6 +982,9 @@ Melmetal Shoes
 Mewtwo Shoes
 Pikachu Fan Shoes
 Pikachu Libre Boots
+Regice Shoes
+Regirock Shoes
+Registeel Shoes
 Ruin Maniac Footwear
 Sandals
 Sandals
@@ -939,6 +993,7 @@ Galar Shoes
 Steven-Style Shoes
 Crown Tundra Boots
 Isle of Armor Shoes
+Sylveon Shoes
 Team Aqua Boots
 Blanche-Style Shoes
 Candela-Style Shoes
@@ -1072,6 +1127,13 @@ Tainan, November 22, 2020
 City Spotlight 2020
 December 19, 2020 – December 20, 2020
 Tap... Tap... Tappity-Tap...
+May 2021: Yoshinoya
+Special Weekend
+May 2021: 7-Eleven México
+Special Weekend
+May 2021: Verizon
+Special Weekend
+May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
 N0
@@ -1220,11 +1282,14 @@ N0
 Kanto
 Unknown
 N0
-Use a Lure Module to help another Trainer catch {0} Pokémon.
-Use a Lure Module to help another Trainer catch a Pokémon.
+Use a Lure Module to help any Trainer catch {0} Pokémon.
+Use a Lure Module to help any Trainer catch a Pokémon.
 Picnicker
 Purify {0} Shadow Pokémon.
 Purifier
+Scan {0} Pokéstop and Gym.
+Scan 1 Pokéstop or Gym.
+Scanner
 Visit {0} PokéStops.
 Backpacker
 N0
@@ -2267,6 +2332,9 @@ There are no hideouts here, but my reports do confirm that there are more out th
 No signals... I see. Perhaps their activities have ceased for the day. Let’s try again tomorrow.
 Let’s wait until morning. I doubt they’ll show themselves again for a while.
 BONUS MILESTONE REWARDS
++100 Catch XP
++200 Catch XP
++3 Catch Candy
 Mega Abomasnow is temporarily more powerful!
 Mega Beedrill is temporarily more powerful!
 Mega Blastoise is temporarily more powerful!
@@ -2284,6 +2352,8 @@ Do not trespass while playing Pokémon GO.
 Do not enter dangerous areas while playing Pokémon GO.
 Be courteous to members of real-world communities as you play Pokémon GO.
 Community Day Box available in the shop
+Remote Raid Pass from Research Breakthroughs
+2× XP from Research Breakthroughs
 1/2 distance to earn a heart with your buddy
 Your buddy found an interesting location nearby!
 Battle together
@@ -2603,6 +2673,8 @@ Old Sea Map (4/4)
 Catch a Pokémon
 2× Catch Candy
 3× Catch Candy
+2× chance to obtain Candy XL
+3× chance to obtain Candy XL
 Catch Cup
 2× Catch Stardust
 2× Catch Stardust for catching featured Pokémon
@@ -2614,6 +2686,7 @@ Increased XP for catching Pokémon with Curveball Throws
 Increased XP for catching Pokémon with Excellent Throws
 Increased XP for catching Pokémon with Great Throws
 Increased XP for catching Pokémon with Nice Throws
+4× Catch XP
 3× Catch XP
 Battle a team leader {0} times
 Battle another Trainer
@@ -3246,6 +3319,7 @@ Community Day: Electabuzz
 Community Day
 Community Day: Fletchling
 Community Day: Gastly
+Community Day: Gible
 Community Day: Machop
 Community Day: Magikarp
 Community Day: Magmar
@@ -3253,6 +3327,7 @@ Community Day: Porygon
 Community Day: Roselia
 Community Day: Seedot
 Community Day: Snivy
+Community Day: Swablu
 Community Day: Weedle
 Complete an AR Mapping task
 Please open Pokémon HOME and finish moving your Pokémon.
@@ -3373,6 +3448,7 @@ Event-themed 7 km Eggs
 Event-themed Eggs
 Eggstravaganza
 Type Surge: Electric
+Element Cup
 Elite Charged TM available in the Community Day Box
 Elite Fast TM available in the Community Day Box
 Teach {0}
@@ -3495,6 +3571,7 @@ An error occurred during the presentation of the raid.
 You've sent all the Friend Requests you can right now.
 No groups found with that code.
 You have no Gifts in your inventory. Visit a PokéStop to look for them!
+You don’t currently have any {0}.
 Please make space or upgrade your Item Bag before opening the Gift.
 Daily limit reached. Come back tomorrow to open more Gifts.
 You are out of this type of sticker.
@@ -3628,6 +3705,7 @@ Festival of Colors
 You have successfully registered for {0}!
 Season of Celebration
 Season of Legends
+Season of Discovery
 Sinnoh Celebration Event
 Animation Week
 Catch Mastery: Ghost
@@ -3663,6 +3741,7 @@ Sign In
 Returning player
 Explore Responsibly
 Explorer Pikachu appearing in the wild
+Extreme weather
 GO Time!
 Left-Hip Stance
 Right-Hip Stance
@@ -3691,6 +3770,7 @@ Level 43 Pose
 Level 47 Pose
 Mime Pose
 Elesa Pose
+Korrina Pose
 Idle
 Ultra Moon Bag
 Level 41 Glasses
@@ -3991,17 +4071,21 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 The Bravest Bird Ticket
+A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Just a Nibble Ticket
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Snivy in the Sunshine Ticket
-Snivy in the Sunshine Ticket
+A ticket to access the Cotton-Winged Bird Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Cotton-Winged Bird Ticket
+Just a Nibble Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -4009,6 +4093,8 @@ Ticket: GO Fest 2020
 A ticket to access Pokémon GO Tour: Kanto on February 20, 2021, from 9:00 a.m. to 9:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Tour: Kanto
 Ticket: Pokémon GO Tour: Kanto
+A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. Discounted for this year in celebration of the fifth anniversary of Pokémon GO. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Pokémon GO Fest 2021 Ticket
 Accept
 Allow
 & {0}
@@ -4063,6 +4149,7 @@ Post photos with #PokemonGOFest2020, and we’ll share our favorites!
 Join the global event and check out live content here: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 Check out live content: <a href="https://pokemongolive.com/gofest">pokemongolive.com/gofest</a>
 Welcome to Pokémon GO Fest!
+Post photos with #PokemonGOFest2021, and we’ll share our favorites!
 Type Surge: Ghost
 Greetings from
 Open a Sponsored Gift!
@@ -4781,6 +4868,7 @@ Halloween
 3× Hatch XP
 https://pokemongo.nianticlabs.com/support/friends
 https://pokemongo.nianticlabs.com/support/contact/en
+https://niantic.helpshift.com/a/pokemon-go/?s=troubleshooting&f=raid-troubleshooting-guide
 Hoenn Collection Challenge
 Hoenn Event
 Holiday Event: Catch {0} Ice-type Pokémon
@@ -4951,19 +5039,23 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on June 6, 2021 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
+This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on June 6 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
 Ticket
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
+A ticket to access Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on May 15, 2021, wherever you are in the world.
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
 A box that you can send to a friend. Contains a variety of useful items.
@@ -4974,8 +5066,8 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
-A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Pokémon GO Fest on July 17 and 18, 2021, wherever you are.
+A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are.
 This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
 This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 Ticket
@@ -4999,6 +5091,7 @@ A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 use
 Super Incubator
 Increases the size of your Item Bag.
 Item Pack
+Item Bag
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
 You can use this to track down Team GO Rocket Hideouts!
@@ -5040,6 +5133,7 @@ A device for catching wild Pokémon. It's thrown like a ball, comfortably encaps
 Poké Ball
 Increases the size of your Pokémon collection.
 Pokémon Box Upgrade
+Pokémon Storage
 A spray-type medicine that restores the HP of one Pokémon by {1} points.
 Potion
 A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
@@ -5881,6 +5975,25 @@ Failed to load tags.
 Please log in to Pokémon HOME.
 {0} accepted your Friend Request!
 {0} sent you a Friend Request!
+A raid’s data will be stored for 24 hours or until your next raid, and you can upload it at any time before then in the Settings menu.
+With the Raid Logging feature, you can upload data from raids you participate in, which will help Niantic improve future raids.
+To learn more,
+visit this website.
+If you disable Raid Logging, any raid logs that you haven’t uploaded will be deleted.
+Do you want to disable Raid Logging?
+Help Improve Raids!
+You’re about to upload {0} MB of data. If you aren’t connected to Wi-Fi, data rates may apply.
+Do you want to upload now?
+Your raid log is ready to upload. (Upload size: {0} MB)
+Upload Complete!
+You don’t have a raid log stored.
+Your raid log has been uploaded. Thank you for your contribution!
+Uploading Raid Log
+Enable Raid Logging
+Enable Raid Logging
+Current Raid Log
+Raid Logging
+Upload
 Sign up with
 Create One Here
 Create player with:
@@ -5913,6 +6026,8 @@ Lucky Egg
 5 Lucky Eggs
 8 Lucky Eggs filled with happiness! Earns double XP for 30 minutes.
 8 Lucky Eggs
+Luminous Legends X
+Luminous Legends Y
 Lunar New Year
 2× Lure Module duration
 3-hour Lure Module duration
@@ -5922,6 +6037,8 @@ An electronic Lure Module that attracts more Pokémon than usual for 30 minutes.
 Magnetic Lure Module
 A natural Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
 Mossy Lure Module
+A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that love the rain. It can also cause some Pokémon to evolve.
+Rainy Lure Module
 Power Pose
 Ready Stance
 Keen Stance
@@ -5950,6 +6067,7 @@ Level 43 Pose
 Level 47 Pose
 Mime Pose
 Elesa Pose
+Korrina Pose
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -6065,7 +6183,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-05-10T09:39:22.653119at SHA 8372edcefd33c684488080226eca993f7fbbd9f7Pipeline 621442, job 5745887
+Built at 2021-06-25T09:27:02.299233at SHA 5f93ad9471a4d34120a962c06129e6b8b59ce0bePipeline 658243, job 6202076
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -6582,6 +6700,7 @@ Weak signal. Get closer to the device.
 5 surprise encounters with Electabuzz in GO Snapshot
 5 surprise encounters with Fletchling in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
+5 surprise encounters with Gible in GO Snapshot
 5 surprise encounters with Machop in GO Snapshot
 5 surprise encounters with Magikarp in GO Snapshot
 5 surprise encounters with Magmar in GO Snapshot
@@ -6589,6 +6708,7 @@ Weak signal. Get closer to the device.
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
+5 surprise encounters with Swablu in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
 Event-themed surprise encounters in GO Snapshot
 Welcome to Team Mystic!
@@ -6838,7 +6958,7 @@ Shiny 3 Stars
 You can now keep track of {0} in your Pokédex.
 You can now keep track of {0} Pokémon in your Pokédex.
 You can now keep track of {0}, and {1} Pokémon in your Pokédex.
-You can now keep track of {0} and {1} Pokémon in your Pokédex. 
+You can now keep track of {0} and {1} Pokémon in your Pokédex.
 View Pokédex
 Pokédex Classification Unlocked!
 Pokédex Classifications Unlocked!
@@ -9459,6 +9579,8 @@ Use a supereffective Charged Attack in {0} Gym battles
 Use a supereffective Charged Attack in a Gym battle
 Win {0} Trainer Battles in the Ultra League
 Win a Trainer Battle in the Ultra League
+Win a raid in under {0} minutes
+Win a raid in under {0} seconds
 Pokémon Day: Catch {0} Pidgey or Rattata
 Pokémon Day: Evolve 1 Meowth
 Let’s Go: Evolve {0} Anorith
@@ -9495,6 +9617,7 @@ Catch {0} Normal-, Water-, or Ice-type Pokémon
 Catch {0} different species of Pokémon
 Catch {0} Pokémon
 Catch a Pokémon
+Catch Pokémon
 Catch {0} Psychic- or Steel-type Pokémon
 Catch a Regirock, Regice, or Registeel from a raid
 Catch a Regice from a raid
@@ -9643,6 +9766,7 @@ A Tale of Tails
 December Community Day
 Electric for Electabuzz
 The Bravest Bird
+Just A Nibble
 The Great Gastly
 A Spooky Message Unmasked
 Straight to the Top, Machop!
@@ -9667,6 +9791,7 @@ Snivy in the Sunshine
 A Spooky Message 2018
 A Spooky Message 2019
 Seeing Double
+Cotton-Winged Bird
 A Hairy Situation
 Daily Bonus
 Defeat Jessie or James {0} times
@@ -10066,6 +10191,7 @@ Evolve one Skorupi
 Evolve one Skrelp
 Evolve one Slakoth
 Evolve one Sliggoo
+Evolve {0} Slowpoke
 Evolve one Slowpoke
 Evolve one Slugma
 Evolve one Smoochum
@@ -10198,6 +10324,9 @@ Achieve rank 15 in the GO Battle League
 Achieve rank 5 in the GO Battle League
 Achieve rank 10 in the GO Battle League
 Achieve rank 20 in the GO Battle League
+Catch {0} Gible
+Evolve {0} Gible
+Evolve {0} Gabite
 GO Fest: Catch {0} Pokémon
 GO Fest: Visit {0} PokéStops
 GO Fest: Earn a Buddy Candy
@@ -10385,6 +10514,7 @@ Take {0} snapshots of wild Bug-type Pokémon
 Take {0} snapshots of wild Dark-type Pokémon
 Take {0} snapshots of wild Dragon-type Pokémon
 Take a snapshot of Chinchou, Finneon, or Ducklett in the wild
+Take a snapshot of Eevee in the wild
 Take {0} snapshots of wild Electric-type Pokémon
 Take {0} snapshots of wild Fairy-type Pokémon
 Take {0} snapshots of wild Fighting-type Pokémon
@@ -10597,6 +10727,31 @@ What a fascinating Pokémon Mr. Rime is! Thank you for evolving your Galarian Mr
 I've heard stories of Mr. Rime’s amusing movements, and you know what? Color me amused. What a COOL discovery this was!
 This has definitely been an unforgettable adventure, but I’m not sure I can say I’d do it again, given the chilling way it started. My poor breakfast...
 Until next time, %PLAYERNAME%. Let’s GO!
+%PLAYERNAME%! Excellent timing.
+I just made a tremendously exciting discovery!
+Earlier today, I was exploring a nearby cave to collect some samples when I noticed a peculiar warmth along one of the walls.
+Suddenly, something jumped out and tried to bite me!
+I quickly realized I had stumbled upon a nest of Gible, the Land Shark Pokémon. Gible is known to react to anything that moves, so sometimes it leaps out and chomps passersby.
+I know it just wanted a nibble, but that’s a nibble too much in my book!
+Anyway, it’s not every day you run into a gaggle of Gible. Do you think you could head out and do some research on their appearance here?
+Welcome back, Trainer.
+While you were out tracking down the Land Shark Pokémon, I took a closer look at the cave I was telling you about earlier.
+I was reminded of an interesting tidbit about Gible. It nests inside small, horizontal holes in cave walls warmed by geothermal heat.
+Gible seems to love warm places, and that cave certainly fits the bill.
+We’ve learned a lot about this Dragon- and Ground-type Pokémon, but there’s always more to discover!
+When you’re ready, how about you try evolving your Gible into Gabite?
+Nice job evolving your Gible into Gabite, %PLAYERNAME%!
+Gabite is known as the Cave Pokémon, and it loves sparkly things.
+It emits ultrasonic waves from protrusions on either side of its head to probe pitch-dark caves.
+What a useful ability! Maybe it could help me avoid bumping into lab equipment in the middle of the night...
+We’ve seen Gible and Gabite, but there’s still one more Evolution we need to document. Come see me when you’ve evolved your Gabite, Trainer!
+Ah! Fantastic work, %PLAYERNAME%. That’s an admirable Garchomp!
+Known as the Mach Pokémon, its body is covered in fine scales that reduce drag, enabling it to fly at high speeds.
+Those scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent that touches them. Pretty spiffy, eh?
+I think you’ll find Garchomp to be a powerful companion on your adventures.
+And I can’t wait to see how your relationship develops along the way!
+Thanks for all your help today, Trainer. I hope you had a fin-tastic time!
+Now, let’s GO!
 %PLAYERNAME%! Thank goodness you made it.
 I was ready for a fun-filled day of playing with Pokémon, but as you may have seen, the park has all sorts of unusual geological phenomena occurring!
 We need to figure out what’s happening and set it right, so I'm asking for your help.
@@ -11409,6 +11564,35 @@ So...your Nuzleaf has evolved into Shiftry, the Wicked Pokémon. Unfortunately, 
 Using its leafy fan, Shiftry can create wind gusts with speeds of up to one hundred feet per second. That’s strong enough to level houses! I think I need to go tie my mobile lab down!
 I’d rather be surprised by a Seedot than blown away by a Shiftry! Hah...lesson learned—stay up-to-date with Pokémon, even familiar ones!
 Thank you for your help researching this odd occurrence. Once these winds die down, I’ll be in touch about our next research adventure!
+Hello there, %PLAYERNAME%! I was just taking a moment to admire the weather here. Blue skies abound, with the fluffiest of clouds floating by.
+I’d love to just kick back and enjoy the tranquility of it all, but I’ve observed some of the clouds moving rather...strangely.
+Believe it or not, I believe some of them are actually flapping—yes, like birds!
+The first few times I saw it, I thought my eyes were playing tricks on me, but as the motions grew more frequent, I began to suspect a Pokémon was involved. 
+Mind going on a little jaunt to see what you can discover?
+Welcome back, Trainer! What have you discovered?
+Ah—Swablu! The Cotton Bird Pokémon. Hmm... It’s all beginning to make sense.
+Swablu’s cotton-like wings are so fluffy and white that, alongside their sky-blue bodies, Swablu can be easily mistaken for clouds in the sky.
+At least until you catch them flapping, eh? Haha!
+Swablu apparently love to sit on people’s heads. They look like fluffy hats!
+Ah, and there it goes! Right on your head. Good timing, Swablu!
+Fond as they are of their human perches, Swablu will take flight right away if their wings get dirty. Cleanliness begets comfort, after all.
+A fascinating Pokémon through and through, don’t you think?
+Evolving Swablu takes some effort, but I assure you—it’s well worth it! I’m sure a Trainer of your talent could gather the necessary Candy in no time.
+I’d love to see its Evolution in person, so could you evolve your Swablu for me? Be sure to use Pinap Berries to earn even more Candy!
+Incredible work, %PLAYERNAME%! Looks like you’ve been hard at work catching Swablu.
+Evolving Swablu is truly an act of patience, isn’t it?
+Patience is often called a virtue in a broad sense, but it really is an integral part of being a great Trainer.
+As the saying goes: good things come to those who wait!
+All your hard work will feel justified once you witness your darling Swablu evolve. Of that, you have my word!
+Just one more leg of this journey left to go, %PLAYERNAME%. Let's go!
+Welcome back, Trainer! I see your efforts have paid off. Well done!
+Swablu’s Evolution, Altaria, is called the Humming Pokémon.
+It’s known to wrap its wings around the people it’s bonded with—much like yours is doing with you now.
+And humming all the while! You know, people say that Altaria’s humming could enrapture an entire audience with its beauty, and it’s not hard to see why.
+Between Altaria’s song and your remarkable bond, I have to say I’m feeling quite moved!
+You truly are an incredible Trainer.
+Thanks for your help on this latest adventure, %PLAYERNAME%. I’ll never get tired of learning more about Pokémon!
+Now, let’s GO!
 Hi there, %PLAYERNAME%. I can’t help but be impressed by your progress. You’ve done fantastic work in researching Pokémon originally discovered in the Kanto, Johto, Hoenn, and Sinnoh regions.
 Now that we’ve researched Pokémon that were found in those regions...
 let’s take a closer look at Pokémon originally discovered in the Unova region!
@@ -11488,6 +11672,8 @@ Jump-Start Research (5/6)
 Jump-Start Research (6/6)
 Use {0} supereffective Charged Attacks
 Use a supereffective Charged Attack
+Catch {0} Swablu
+Evolve {0} Swablu
 {0} days left to complete this Special Research
 {0} day left to complete this Special Research
 Animation Week Research
@@ -11538,6 +11724,11 @@ A Drive to Investigate (2/5)
 A Drive to Investigate (3/5)
 A Drive to Investigate (4/5)
 A Drive to Investigate (5/5)
+Just a Nibble
+Just a Nibble (1/4)
+Just a Nibble (2/4)
+Just a Nibble (3/4)
+Just a Nibble (4/4)
 A Colossal Discovery
 A Colossal Discovery (1/4)
 A Colossal Discovery (2/4)
@@ -11590,6 +11781,20 @@ Distracted by Something Shiny (1/4)
 Distracted by Something Shiny (2/4)
 Distracted by Something Shiny (3/4)
 Distracted by Something Shiny (4/4)
+Luminous Legends X (1/7)
+Luminous Legends X (2/7)
+Luminous Legends X (3/7)
+Luminous Legends X (4/7)
+Luminous Legends X (5/7)
+Luminous Legends X (6/7)
+Luminous Legends X (7/7)
+Luminous Legends Y (1/7)
+Luminous Legends Y (2/7)
+Luminous Legends Y (3/7)
+Luminous Legends Y (4/7)
+Luminous Legends Y (5/7)
+Luminous Legends Y (6/7)
+Luminous Legends Y (7/7)
 Legacy 40 Challenge
 Legacy 40 Challenge (1/4)
 Legacy 40 Challenge (2/4)
@@ -11761,11 +11966,17 @@ Special Weekend (Grubhub)
 Special Weekend (Matsumoto Kiyoshi)
 Special Weekend (SoftBank & 7-Eleven Japan)
 Special Weekend (Verizon)
+Special Weekend (Yoshinoya)
 Seeing Double
 Seeing Double (1/4)
 Seeing Double (2/4)
 Seeing Double (3/4)
 Seeing Double (4/4)
+Cotton-Winged Bird
+Cotton-Winged Bird (1/4)
+Cotton-Winged Bird (2/4)
+Cotton-Winged Bird (3/4)
+Cotton-Winged Bird (4/4)
 Throwback Challenge Champion 2020
 Throwback Challenge Champion 2020 (1/5)
 Throwback Challenge Champion 2020 (2/5)
@@ -12817,6 +13028,7 @@ Special Raid Weekend: Blissey
 Special Raid Weekend: Blitzle
 Special Raid Weekend: Boldore
 Special Raid Weekend: Bonsly
+Bonus Candy Raid Weekend
 Special Raid Weekend: Bouffalant
 Special Raid Weekend: Braixen
 Special Raid Weekend: Braviary
@@ -13507,6 +13719,7 @@ You can receive referral codes from friends who play Pokémon GO.
 Have a referral code?
 FILL
 You can also enter a referral code in the Friends menu up to 72 hours after starting your journey.
+You can also enter a referral code in the Friends menu up to {0} hours after starting your journey.
 Skip
 Enter referral code:
 Would you like to try adding this person as a referrer anyway? You’ll still receive a reward for signing in, but to earn more referral rewards, you’ll need to become friends in Pokémon GO with the person who referred you.
@@ -13537,6 +13750,8 @@ A lot has changed since you last played. Here are some of the new features that 
 Your Pokémon GO journey is about to begin!
 Your Referral Code
 Region
+Regional Catch Challenge
+Regional Catch Challenge Rewards
 Please select an account to register with.
 The raid details could not be obtained. IID: {0}
 The Raid Battle no longer exists. IID: {0}
@@ -13702,6 +13917,12 @@ Caught {0} Fire-, Water-, or Grass-type Pokémon
 Caught {0} Fire-type Pokémon
 Caught {0} Water-type Pokémon
 Caught {0} Grass-type Pokémon
+Caught 0 Pokémon
+Caught {0} Pokémon
+Caught 1 Pokémon
+Caught 0 Pokémon
+Caught {0} Pokémon
+Caught 1 Pokémon
 Completed 0 battles with team leaders
 Completed {0} battles with team leaders
 Completed 1 battle with a team leader
@@ -13728,9 +13949,13 @@ Battled in 1 raid
 Used 0 Berries
 Used {0} Berries
 Used 1 Berry
+Caught {0} Pokémon
 Sent 0 Gifts to friends
 Sent {0} Gifts to friends
 Sent 1 Gift to a friend
+Spun 0 PokéStops
+Spun {0} PokéStops
+Spun 1 PokéStop
 friends
 Gym Badges
 Battle
@@ -13793,6 +14018,7 @@ Friend Request Received
 Gift Received
 Help Center
 Get Support
+Help
 Enabling this setting will allow you to transfer Legendary Pokémon and certain Mythical Pokémon when selecting multiple Pokémon in your Pokémon storage. Transferring Pokémon to Professor Willow cannot be undone.
 Are you sure you want to be able to transfer Legendary and Mythical Pokémon when selecting multiple Pokémon?
 Explore Responsibly
@@ -13972,6 +14198,8 @@ Sinnoh Event
 Spring into Spring
 Spring into Spring event Eggs
 Spring into Spring event wild Pokémon
+A Very Slow Discovery Challenge
+A Very Slow Discovery
 Import friends from Facebook
 QR Code
 Add Friend
@@ -14010,6 +14238,7 @@ More Charmander are appearing in the wild
 More Electabuzz are appearing in the wild
 More Fletchling are appearing in the wild
 More Gastly are appearing in the wild
+More Gible are appearing in the wild
 More Machop are appearing in the wild
 More Magikarp are appearing in the wild
 More Magmar are appearing in the wild
@@ -14017,6 +14246,7 @@ More Porygon are appearing in the wild
 More Roselia are appearing in the wild
 More Seedot are appearing in the wild
 More Snivy are appearing in the wild
+More Swablu are appearing in the wild
 More Weedle are appearing in the wild
 More Bug-type Pokémon are appearing in the wild
 More Dark-type Pokémon are appearing in the wild
@@ -14173,6 +14403,7 @@ A ticket to access the Electric for Electabuzz Special Research on November 15, 
 Electric for Electabuzz Ticket
 Tickets for The Bravest Bird Special Research story available in the shop
 Tickets for the Special Research story The Great Gastly available in the shop
+Tickets for the Just a Nibble Special Research story available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
@@ -14180,6 +14411,7 @@ Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
 Ticket for Special Research available in the shop
+Ticket for the Cotton-Winged Bird Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
@@ -14256,9 +14488,9 @@ UPLOAD NOW
 ({0}MB)
 You are about to upload {0} MB of data. If you are not connected to Wi-Fi, data rates may apply.
 Would you like to upload? The upload size is {0} MB.
-{0} more scanning contribution(s) will be added tomorrow.
-You have {0} scanning contribution(s) available today.
-You have reached your max daily scanning contribution(s) of {0}.
+You’ll have {0} more scan contribution(s) available tomorrow.
+You have {0} scan contribution(s) available today.
+You’ve reached your max daily scan contribution(s) of {0}.
 Scan Failed
 Too dark. Please scan again, ensuring your camera is unobstructed and there is adequate lighting.
 Too fast. Please scan again, ensuring you move slowly around the PokéStop.
@@ -14287,6 +14519,7 @@ This raid has ended.
 Cannot learn any other attacks!
 One...two...and...ta-da! {0} learned {1}!
 Today
+Regional Catch Competition
 Citywide AR Mapping task rewards
 AR Mapping task city competition
 Citywide Timed Research
@@ -14436,6 +14669,8 @@ An electronic Lure Module that attracts Pokémon for 30 minutes—especially one
 Magnetic Lure Module
 A natural Lure Module that attracts Pokémon for 30 minutes—especially ones that love mossy scents. It can also cause some Pokémon to evolve.
 Mossy Lure Module
+A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that love the rain. It can also cause some Pokémon to evolve.
+Rainy Lure Module
 TURN ON BACKGROUND LOCATION
 Your buddy went exploring and brought back some Gifts. Try sending them to your friends!
 Your buddy found some Gifts!
@@ -14700,7 +14935,7 @@ The weather seems accurate, just not up to date.
 Weather
 Snow
 Sunny
-Weather
+Weather warning
 Weather
 Weather Week
 Windy

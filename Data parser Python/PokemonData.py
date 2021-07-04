@@ -350,14 +350,17 @@ for data in master:
 
 
     
-#Special condition: make DEOXYS's moves the same as DEOXYS_NOMARL's
+#Special condition: make DEOXYS's and CASTFORM's moves the same as DEOXYS_NOMARL and CASTFORM_NOMARL have
 for x in pokelist:
-    if x.name== 'DEOXYS':
+    if x.name == 'CASTFORM':
         for y in pokelist:
-            if y.name== 'DEOXYS_NORMAL':
+            if y.name == 'CASTFORM_NORMAL' :
                 x.quick=y.quick; x.charged=y.charged
-                break
-        break
+
+    elif x.name == 'DEOXYS':
+        for y in pokelist:
+            if y.name == 'DEOXYS_NORMAL':
+                x.quick=y.quick; x.charged=y.charged
     
 #Pokemon Moves Translation
 for i in pokelist:
@@ -376,7 +379,7 @@ for i in pokelist:
 origin=pd.DataFrame([i.__dict__ for i in pokelist])
 
 main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|SHADOW|PURIFIED') ].reset_index(drop=True)
-main=main.sort_values(by=['id'],kind='mergesort')
+main=main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 #Rearange for DEERLING AUTUMN
 main=rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
