@@ -32,9 +32,9 @@ for i in range(1,len(eng),2):
     engw+=eng[i].replace('\n','').replace('\r','')+'\n'
 
 for i in range(0,len(patch),2):
-    patchkey+=chi[i].replace('\n','').replace('\r','')+'\n'
+    patchkey+=patch[i].replace('\n','').replace('\r','')+'\n'
 for i in range(1,len(patch),2):
-    patchchi+=chi[i].replace('\n','').replace('\r','').replace("_x000D_ "," ")+'\n'
+    patchchi+=patch[i].replace('\n','').replace('\r','').replace("_x000D_ "," ")+'\n'
 
 
 # output data

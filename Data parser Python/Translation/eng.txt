@@ -9,10 +9,10 @@ Pokémon GO Tour: Kanto
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
-CONTACTS LIST
-Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
+ADD FRIENDS FROM CONTACTS
 https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
-You choose which contacts to be friends with.
+You choose which contacts to send Friend Requests to.
+Easily connect with friends by letting Pokémon GO access your contacts list periodically. You can turn off this feature in your device’s settings at any time.
 FIND FRIENDS ON CONTACTS LIST
 You can disable this feature anytime in the Settings menu. You can choose which contacts to send Friend Requests to.
 Trade Pokémon
@@ -21,10 +21,10 @@ Join raids
 Take snapshots
 Battle each other
 Send Friend Requests to Trainers on your contacts list! With friends, you can...
-Let others send me Friend Requests if I am in their imported Contacts.
-This can be disabled anytime in Niantic Account Settings.
+Let others send me Friend Requests if I am in their contacts list.
+This can be disabled anytime in the Niantic Social Account Settings menu.
 Pokémon GO Is Better with Friends!
-Easily Find Friends Using Your Contact List in Your Phone
+Find Friends Using Your Contacts List
 About
 ©2016–2017 Niantic, Inc.
 ©2016–2017 Pokémon.
@@ -100,6 +100,7 @@ Enable Adventure Sync in Settings for more rewards!
 Adventure Week
 Please enter your date of birth.
 Alolan Form
+Fifth-Anniversary Collection
 Do you want to exit Pokémon GO?
 https://pokemongolive.com/launchapp
 Pokémon GO requires location permissions in order to play. Go to your device’s settings to turn on location permissions.
@@ -375,6 +376,8 @@ Team Rocket Gloves
 Spark-Style Gloves
 Ace Visor
 Expedition Hat
+Samsung 2021 Cap
+Bidoof Hat
 N-Style Cap
 Newsy Cap
 Cubone Cap
@@ -426,6 +429,7 @@ Registeel Hat
 Ruin Maniac Hat
 Sableye Goggles
 Samsung Galaxy Tie-Dye Hat
+Slowpoke Hat
 Galar Beret
 Stantler Headband
 Red-Ribboned Straw Hat
@@ -484,6 +488,7 @@ Veteran Leggings
 Ace Vest
 Ace Long Top
 Goh-Style Top
+Samsung 2021 T-shirt
 Backpacker Top
 Battle Girl Tank Top
 Fitted Shirt
@@ -563,6 +568,8 @@ Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
+Slowpoke Forever Shirt
+Slowpoke Tail Shirt
 Spiritomb T-shirt
 Gulpin Romper
 Minun Romper
@@ -730,6 +737,8 @@ Team Rocket Gloves
 Spark-Style Gloves
 Ace Earbud
 Expedition Hat
+Samsung 2021 Cap
+Bidoof Hat
 N-Style Cap
 Newsy Cap
 Cubone Cap
@@ -780,6 +789,7 @@ Registeel Hat
 Ruin Maniac Hat
 Sableye Goggles
 Samsung Galaxy Tie-Dye Hat
+Slowpoke Hat
 Galar Knit Hat
 Stantler Headband
 Red-Ribboned Straw Hat
@@ -835,6 +845,7 @@ Veteran Pants
 Ace Vest
 Ace Top
 Goh-Style Top
+Samsung 2021 T-shirt
 Backpacker Top
 Business Blazer
 Brock Shirt
@@ -920,6 +931,8 @@ Safari Zone T-shirt 2020
 Safari Zone T-shirt 2020
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
+Slowpoke Forever Shirt
+Slowpoke Tail Shirt
 Spiritomb T-shirt
 Gulpin Hoodie Set
 Minun Sweater Set
@@ -1015,7 +1028,7 @@ Pose
 Pose
 Steven Pose
 POSES
-Pokémon GO Tour: Kanto
+GO Fest 2021
 Shiny Mew Shirt
 Footwear
 New items available!
@@ -1217,6 +1230,10 @@ Dortmund, July 7, 2019
 Pokémon GO Fest
 Global, July 25–26, 2020
 Pokémon GO Fest
+Global, July 17–18, 2021
+Global, July 17–18, 2021
+Pokémon GO Fest—Early Access
+Pokémon GO Fest
 Global, February 20, 2021
 Pokémon GO Tour: Kanto
 Global, February 20, 2021
@@ -1244,6 +1261,8 @@ Idol
 N0
 Complete Collection Challenges.
 Elite Collector
+Made the Raid Battle Trainer Achievements screen {0} times.
+Raid Expert
 Japan, April 6, 2019
 Pokémon GO Special Weekend April 6, 2019
 Japan, April 7, 2019
@@ -1300,6 +1319,9 @@ Raise {0} total Gym Prestige!
 Prestige Raised
 N0
 Badge Progress
+Made the Raid Battle Trainer Achievements screen {0} times.
+Make the Raid Battle Trainer Achievements screen 1 time.
+Raid Expert
 Win {0} raids.
 Champion
 N0
@@ -1404,6 +1426,8 @@ Mega Evolve a Pokémon {0} times.
 Mega Evolve a Pokémon {0} time.
 Successor
 Trade {0} Pokémon.
+Obtained the exclusive Professor Willow trading card
+Professor's Research
 Earn {0} km across the distance of all Pokémon trades.
 Pilot
 N0
@@ -2321,6 +2345,8 @@ Open the Mystery Box in your Item Bag for a mysterious effect.
 Open
 MYSTERY BOX
 Looking for nearby Pokémon!
+Bidoof Breakout
+Bidoof Day
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
 Don’t give up.
 Keep your cool, Trainer.
@@ -2333,8 +2359,24 @@ No signals... I see. Perhaps their activities have ceased for the day. Let’s t
 Let’s wait until morning. I doubt they’ll show themselves again for a while.
 BONUS MILESTONE REWARDS
 +100 Catch XP
++200 Catch Stardust
 +200 Catch XP
++200 XP for spinning PokéStops
++300 Catch Stardust
++300 Catch XP
++300 XP for spinning PokéStops
 +3 Catch Candy
+3× XP for Nice, Great, Excellent, and Curveball Throws
++400 Catch Stardust
++400 Catch XP
++4 Catch Candy
+4× XP for Nice, Great, Excellent, and Curveball Throws
+500 Catch Stardust
+500 XP for spinning PokéStops
++5 Catch Candy
+5× XP for Nice, Great, Excellent, and Curveball Throws
+1/2 Hatch Distance
+1/4 Hatch Distance
 Mega Abomasnow is temporarily more powerful!
 Mega Beedrill is temporarily more powerful!
 Mega Blastoise is temporarily more powerful!
@@ -2352,6 +2394,21 @@ Do not trespass while playing Pokémon GO.
 Do not enter dangerous areas while playing Pokémon GO.
 Be courteous to members of real-world communities as you play Pokémon GO.
 Community Day Box available in the shop
+By choosing this Bidoof, you’ll begin to encounter more Bidoof than normal. You’ll also receive research tasks that involve catching Bidoof. So many Bidoof!
+Choose Bidoof!
+By choosing this Bidoof, you’ll encounter the Plump Mouse Pokémon, Bidoof, more often in the wild. There’ll probably be other Bidoof around, too. Yay!
+Choose the Plump Mouse Pokémon!
+Bidoof...?
+By choosing this Bidoof, you’ll encounter countless Bidoof and all the fun that comes with them.
+Choose a Pokémon with nerves of steel!
+Nerves of steel
+By choosing this Bidoof, you’ll basically become a Bidoof magnet.
+Choose a Pokémon that nests alongside water!
+Nests near water
+Choose wisely! You can select only one path below, and you’ll remain on that path until the end of the research.
+Choose a Path
+Choose a Path
+Some Special Research stories now present choices to personalize your experience. Different choices can lead to different challenges and rewards. Your experience might change based on choices made earlier in the story, so choose thoughtfully!
 Remote Raid Pass from Research Breakthroughs
 2× XP from Research Breakthroughs
 1/2 distance to earn a heart with your buddy
@@ -2673,8 +2730,8 @@ Old Sea Map (4/4)
 Catch a Pokémon
 2× Catch Candy
 3× Catch Candy
-2× chance to obtain Candy XL
-3× chance to obtain Candy XL
+2× chance to get Candy XL from catching Pokémon
+3× chance to get Candy XL from catching Pokémon
 Catch Cup
 2× Catch Stardust
 2× Catch Stardust for catching featured Pokémon
@@ -2774,6 +2831,7 @@ Vote for Caterpie Community Day! Catch {0} Pokémon
 Vote for Charmander Community Day! Catch {0} Pokémon
 Vote for Grimer Community Day! Catch {0} Pokémon
 Vote for Porygon Community Day! Catch {0} Pokémon
+Take a snapshot of Bidoof
 Take a snapshot of Dratini
 Take a snapshot of Eevee
 Take {0} snapshots of Bug-type Pokémon
@@ -3328,6 +3386,7 @@ Community Day: Roselia
 Community Day: Seedot
 Community Day: Snivy
 Community Day: Swablu
+Community Day: Tepig
 Community Day: Weedle
 Complete an AR Mapping task
 Please open Pokémon HOME and finish moving your Pokémon.
@@ -3598,6 +3657,11 @@ Kanto Celebration Event
 Earn more Catch Candy from Pokémon of your Mega-Evolved Pokémon’s type
 Evolve Kadabra to Alakazam that know the Fast Attack Counter
 Evolve Flaaffy to get an Ampharos that knows Dragon Pulse
+Evolve Bidoof to get a Bibarel that knows Hyper Beam
+Encounter Bidoof that know Ice Beam
+Encounter Bidoof that know Shadow Ball
+Encounter Bidoof that know Superpower
+Encounter Bidoof that know Thunderbolt
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
 New Pokémon Snap Celebration
@@ -3927,40 +3991,83 @@ Flying Cup available in the GO Battle League
 Flying Cup
 Type Surge: Flying
 Altered Forme
+Amped Form
+Antique Form
 Aria Forme
 Attack
 Autumn Form
+Baile Style
 Black Kyurem
 Blue-Striped
 Burn Drive
+Busted Form
 Normal Form
 Chill Drive
+Blue Core
+Green Core
+Indigo Core
+Orange Core
+Red Core
+Violet Core
+Yellow Core
+Caramel Swirl
+Lemon Cream
+Matcha Cream
+Mint Cream
+Rainbow Swirl
+Ruby Swirl
+Salted Cream
+Vanilla Cream
+Crowned Shield
+Crowned Sword
 Defense
 Normal
+Disguised Form
 Douse Drive
+Dusk Form
 East Sea
 Fan Rotom
+Female
 Frost Rotom
+Fully Belly Mode
 Altered Forme
 Origin Forme
+Gorging Form
+Gulping Form
+Hangry Mode
 Heat Rotom
+Hero of Many Battles
+Ice Face
 Incarnate Forme
 Land Forme
+Low Key Form
+Male
+Meteor Form
+Midday Form
+Midnight Form
 Mow Rotom
 Normal
 driveless form
+Noice Face
 Normal
 Ordinary Form
 Origin Forme
 Overcast Form
+Pa'u Style
+Phony Form
 Plant Cloak
+Pom-Pom Style
 Rainy
 Red-Striped
+Regular Form
 Sandy Cloak
+School Form
+Sensu Style
 Shiny Arceus
 Shock Drive
 Sky Forme
 Snowy
+Solo Form
 Speed
 Spring Form
 Standard Mode
@@ -3969,6 +4076,24 @@ Sunny
 Sunshine Form
 Therian Forme
 Trash Cloak
+Type: Bug
+Type: Dark
+Type: Dragon
+Type: Electric
+Type: Fairy
+Type: Fighting
+Type: Fire
+Type: Flying
+Type: Ghost
+Type: Grass
+Type: Ground
+Type: Ice
+Type: Normal
+Type: Poison
+Type: Psychic
+Type: Rock
+Type: Steel
+Type: Water
 Wash Rotom
 West Sea
 White Kyurem
@@ -4071,7 +4196,7 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 The Bravest Bird Ticket
@@ -4085,7 +4210,9 @@ A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021,
 Snivy in the Sunshine Ticket
 A ticket to access the Cotton-Winged Bird Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Cotton-Winged Bird Ticket
-Just a Nibble Ticket
+A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Roasted Berries Ticket
+Roasted Berries Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -4140,7 +4267,7 @@ XL
 XP
 XS
 Yes
-Special bonuses
+Special Bonuses
 Your account has been suspended for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
 Scan {0}
 Get directions
@@ -4310,6 +4437,35 @@ GO Fest 2020: Rocket Straight to Victory (4/6)
 GO Fest 2020: Rocket Straight to Victory (5/6)
 GO Fest 2020: Rocket Straight to Victory (6/6)
 Take a snapshot of Victini
+GO Fest 2021
+Pokémon GO Fest 2021 Day 1: Catch!
+Pokémon GO Fest 2021 Day 2: Raid!
+Now: Cave habitat!
+Now: Desert Mountain habitat!
+Now live: Frost Hour!
+Now: Jungle habitat!
+Now live: Lava Hour!
+Now: Ocean Beach habitat!
+Now live: Thunder Hour!
+Now live: Wind Hour!
+Take a snapshot of Meloetta
+Welcome to Pokémon GO Fest 2021!
+GO Fest 2021: Boisterous
+GO Fest 2021: Cheerful
+GO Fest 2021: Stylish
+GO Fest 2021: Emotional
+GO Fest 2021: Energetic
+GO Fest 2021: Extravagant
+GO Fest 2021: Lively
+GO Fest 2021: Spirited
+GO Fest 2021: Cave Habitat
+Catch Pokémon during the Cave habitat hour!
+GO Fest 2021: Desert Mountain Habitat
+Catch Pokémon during the Desert Mountain habitat hour!
+GO Fest 2021: Jungle Habitat
+Catch Pokémon during the Jungle habitat hour!
+GO Fest 2021: Ocean Beach Habitat
+Catch Pokémon during the Ocean Beach habitat hour!
 We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
 Your festival is in the hands of Team GO Rocket now. You cannot defeat us.
 I’ll defeat you quickly so I can return to the take-over festivities.
@@ -5039,10 +5195,10 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on June 6, 2021 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
+This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -5056,6 +5212,8 @@ A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p
 This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
 A ticket to access Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on May 15, 2021, wherever you are in the world.
+A ticket to access Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
 A box that you can send to a friend. Contains a variety of useful items.
@@ -5092,6 +5250,7 @@ Super Incubator
 Increases the size of your Item Bag.
 Item Pack
 Item Bag
+King's Rock
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
 You can use this to track down Team GO Rocket Hideouts!
@@ -6183,7 +6342,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-06-25T09:27:02.299233at SHA 5f93ad9471a4d34120a962c06129e6b8b59ce0bePipeline 658243, job 6202076
+Built at 2021-07-30T04:47:08.706910at SHA 07ef195b02dac5e03d0d6b4857b93fb50da9a30cPipeline 684800, job 6529275
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -6198,6 +6357,13 @@ Johto Celebration: Rocket Collection
 M/dd/yyyy
 Collection Challenge complete!
 Collect all these Pokémon before time expires to add to your Elite Collector medal!
+Collection Challenge
+Catch Pokémon in raids.
+Catch featured Pokémon wherever they appear.
+Evolve Pokémon.
+Rescue Shadow Pokémon from Team GO Rocket.
+Catch Shiny Pokémon wherever they appear.
+Trade Pokémon with friends.
 Collection Challenge
 Completed Challenges
 See your Elite Collector medal to view all completed Collection Challenges.
@@ -6529,6 +6695,53 @@ Minccino Research: Use a supereffective Charged Attack in a Gym battle
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
 {0} Pokémon Selected
+Featured:
+Go to Summary
+Dressed to Impress
+Style Savant
+Dressed to Impress
+Style Savant
+Dealt {0} damage
+Hardest Hitter
+Dealt {0} damage
+Hardest Hitter
+Delivered the final attack
+Final Strike
+Delivered the final attack
+Final Strike
+Performed {0} Charged Attacks
+Charged and Ready
+Performed {0} Charged Attacks
+Charged and Ready
+Battled with {0} friends in the raid
+Flush with Friends
+Battled with {0} friends in the raid
+Flush with Friends
+Brought the largest Pokémon into battle
+The Big One
+Brought the largest Pokémon into battle
+The Big One
+Walked {0} km yesterday before the raid
+Walk Star
+Walked {0} km yesterday before the raid
+Walk Star
+Joined from {0} km away
+Traveler
+Joined from {0} km away
+Traveler
+Battled for {0} seconds
+Stamina Specialist
+Battled for {0} seconds
+Stamina Specialist
+Brought a Buddy Pokémon into battle
+Raid Buddy
+Brought a Buddy Pokémon into battle
+Raid Buddy
+Used a Mega-Evolved Pokémon in battle
+Mega Master
+Used a Mega-Evolved Pokémon in battle
+Mega Master
+Trainer Achievements
 MY SCORE
 Clear
 Find these Pokémon in the wild!
@@ -6695,6 +6908,8 @@ Got it
 Next
 Pokémon GO Plus unpaired.
 Weak signal. Get closer to the device.
+Photo saved
+The photo could not be saved.
 5 surprise encounters with Abra in GO Snapshot
 5 surprise encounters with Charmander in GO Snapshot
 5 surprise encounters with Electabuzz in GO Snapshot
@@ -6709,6 +6924,7 @@ Weak signal. Get closer to the device.
 5 surprise encounters with Seedot in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Swablu in GO Snapshot
+5 surprise encounters with Tepig in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
 Event-themed surprise encounters in GO Snapshot
 Welcome to Team Mystic!
@@ -7143,8 +7359,11 @@ Shellfish Pokémon
 Fossil Pokémon
 Sleeping Pokémon
 Freeze Pokémon
+Cruel Pokémon
 Electric Pokémon
+Strong Legs Pokémon
 Flame Pokémon
+Malevolent Pokémon
 Dragon Pokémon
 Dragon Pokémon
 Dragon Pokémon
@@ -7198,6 +7417,7 @@ Sun Pokémon
 Moonlight Pokémon
 Darkness Pokémon
 Royal Pokémon
+Hexpert Pokémon
 Screech Pokémon
 Symbol Pokémon
 Patient Pokémon
@@ -7719,14 +7939,187 @@ Destruction Pokémon
 Order Pokémon
 Jewel Pokémon
 Mischief Pokémon
+Djinn Pokémon
 Steam Pokémon
+Grass Quill Pokémon
+Blade Quill Pokémon
+Arrow Quill Pokémon
+Fire Cat Pokémon
+Fire Cat Pokémon
+Heel Pokémon
+Sea Lion Pokémon
+Pop Star Pokémon
+Soloist Pokémon
+Woodpecker Pokémon
+Bugle Beak Pokémon
+Cannon Pokémon
+Loitering Pokémon
+Stakeout Pokémon
+Larva Pokémon
+Battery Pokémon
+Stag Beetle Pokémon
+Boxing Pokémon
+Woolly Crab Pokémon
+Dancing Pokémon
+Bee Fly Pokémon
+Bee Fly Pokémon
+Puppy Pokémon
+Wolf Pokémon
+Small Fry Pokémon
+Brutal Star Pokémon
+Brutal Star Pokémon
+Donkey Pokémon
+Draft Horse Pokémon
+Water Bubble Pokémon
+Water Bubble Pokémon
+Sickle Grass Pokémon
+Bloom Sickle Pokémon
+Illuminating Pokémon
+Illuminating Pokémon
+Toxic Lizard Pokémon
+Toxic Lizard Pokémon
+Flailing Pokémon
+Strong Arm Pokémon
+Fruit Pokémon
+Fruit Pokémon
+Fruit Pokémon
+Posy Picker Pokémon
+Sage Pokémon
+Teamwork Pokémon
+Turn Tail Pokémon
+Hard Scale Pokémon
+Sand Heap Pokémon
+Sand Castle Pokémon
+Sea Cucumber Pokémon
+Synthetic Pokémon
+Synthetic Pokémon
+Meteor Pokémon
+Drowsing Pokémon
+Blast Turtle Pokémon
+Roly-Poly Pokémon
+Disguise Pokémon
+Gnash Teeth Pokémon
+Placid Pokémon
+Sea Creeper Pokémon
+Scaly Pokémon
+Scaly Pokémon
+Scaly Pokémon
+Land Spirit Pokémon
+Land Spirit Pokémon
+Land Spirit Pokémon
+Land Spirit Pokémon
+Nebula Pokémon
+Protostar Pokémon
+Sunne Pokémon
+Moone Pokémon
+Parasite Pokémon
+Swollen Pokémon
+Lissome Pokémon
+Glowing Pokémon
+Launch Pokémon
+Drawn Sword Pokémon
+Junkivore Pokémon
+Prism Pokémon
+Artificial Pokémon
+Gloomdweller Pokémon
+Poison Pin Pokémon
+Poison Pin Pokémon
+Rampart Pokémon
+Fireworks Pokémon
+Thunderclap Pokémon
 Hex Nut Pokémon
 Hex Nut Pokémon
+Chimp Pokémon
+Beat Pokémon
+Drummer Pokémon
+Rabbit Pokémon
+Rabbit Pokémon
+Striker Pokémon
+Water Lizard Pokémon
+Water Lizard Pokémon
+Secret Agent Pokémon
+Cheeky Pokémon
+Greedy Pokémon
+Tiny Bird Pokémon
+Raven Pokémon
+Raven Pokémon
+Larva Pokémon
+Radome Pokémon
+Seven Spot Pokémon
+Fox Pokémon
+Fox Pokémon
+Flowering Pokémon
+Cotton Bloom Pokémon
+Sheep Pokémon
+Sheep Pokémon
+Snapping Pokémon
+Bite Pokémon
+Puppy Pokémon
+Dog Pokémon
+Coal Pokémon
+Coal Pokémon
+Coal Pokémon
+Apple Core Pokémon
+Apple Wing Pokémon
+Apple Nectar Pokémon
+Sand Snake Pokémon
+Sand Snake Pokémon
+Gulp Pokémon
+Rush Pokémon
+Skewer Pokémon
+Baby Pokémon
+Punk Pokémon
+Radiator Pokémon
+Radiator Pokémon
+Tantrum Pokémon
+Jujitsu Pokémon
+Black Tea Pokémon
+Black Tea Pokémon
+Calm Pokémon
+Serene Pokémon
+Silent Pokémon
+Wily Pokémon
+Devious Pokémon
+Bulk Up Pokémon
 Blocking Pokémon
 Viking Pokémon
+Coral Pokémon
 Wild Duck Pokémon
 Comedian Pokémon
 Grudge Pokémon
+Cream Pokémon
+Cream Pokémon
+Formation Pokémon
+Sea Urchin Pokémon
+Worm Pokémon
+Frost Moth Pokémon
+Big Rock Pokémon
+Penguin Pokémon
+Emotion Pokémon
+Two-Sided Pokémon
+Copperderm Pokémon
+Copperderm Pokémon
+Fossil Pokémon
+Fossil Pokémon
+Fossil Pokémon
+Fossil Pokémon
+Alloy Pokémon
+Lingering Pokémon
+Caretaker Pokémon
+Stealth Pokémon
+Warrior Pokémon
+Warrior Pokémon
+Gigantic Pokémon
+Wushu Pokémon
+Wushu Pokémon
+Rogue Monkey Pokémon
+Electron Pokémon
+Dragon Orb Pokémon
+Wild Horse Pokémon
+Swift Horse Pokémon
+King Pokémon
+High King Pokémon
+High King Pokémon
 Do you really want to transfer this Event Pokémon?
 Pokémon Day
 --
@@ -7826,7 +8219,9 @@ Its small horn hides a healing power. With a few rubs from this Pokémon’s hor
 Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.
 Little can stand up to its psycho cut. Unleashed from this Pokémon’s horn, the move will punch a hole right through a thick metal sheet.
 Slowpoke uses its tail to catch prey by dipping it in water at the side of a river. However, this Pokémon often forgets what it's doing and often spends entire days just loafing at water's edge.
+Although this Pokémon is normally zoned out, its expression abruptly sharpens on occasion. The cause for this seems to lie in Slowpoke's diet.
 Slowbro's tail has a Shellder firmly attached with a bite. As a result, the tail can't be used for fishing anymore. This causes Slowbro to grudgingly swim and catch prey instead.
+A Shellder bite set off a chemical reaction with the spices inside Slowbro's body, causing Slowbro to become a Poison-type Pokémon.
 Magnemite attaches itself to power lines to feed on electricity. If your house has a power outage, check your circuit breakers. You may find a large number of this Pokémon clinging to the breaker box.
 Magneton emits a powerful magnetic force that is fatal to mechanical devices. As a result, large cities sound sirens to warn citizens of large-scale outbreaks of this Pokémon.
 Farfetch'd is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.
@@ -7898,8 +8293,11 @@ Kabutops swam underwater to hunt for its prey in ancient times. The Pokémon was
 Aerodactyl is a Pokémon from the age of dinosaurs. It was regenerated from genetic material extracted from amber. It is imagined to have been the king of the skies in ancient times.
 Snorlax's typical day consists of nothing more than eating and sleeping. It is such a docile Pokémon that there are children who use its expansive belly as a place to play.
 Articuno is a Legendary Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.
+Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper.
 Zapdos is a Legendary Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.
+When its feathers rub together, they produce a crackling sound like the zapping of electricity. That’s why this Pokémon is called Zapdos.
 Moltres is a Legendary Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.
+This Pokémon’s sinister, flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
 Dratini continually molts and sloughs off its old skin. It does so because the life energy within its body steadily builds to reach uncontrollable levels.
 Dragonair stores an enormous amount of energy inside its body. It is said to alter weather conditions in its vicinity by discharging energy from the crystals on its neck and tail.
 Dragonite is capable of circling the globe in just 16 hours. It is a kindhearted Pokémon that leads lost and foundering ships in a storm to the safety of land.
@@ -7953,6 +8351,7 @@ Espeon is extremely loyal to any Trainer it considers to be worthy. It is said t
 Umbreon evolved as a result of exposure to the moon's waves. It hides silently in darkness and waits for its foes to make a move. The rings on its body glow when it leaps to attack.
 Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women.
 Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off.
+A combination of toxins and the shock of evolving has increased Shellder’s intelligence to the point that Shellder now controls Slowking.
 Misdreavus frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition.
 This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.
 If two or more Wobbuffet meet, they will turn competitive and try to outdo each other's endurance. However, they may try to see which one can endure the longest without food. Trainers need to beware of this habit.
@@ -7976,6 +8375,7 @@ Magcargo's shell is actually its skin that hardened as a result of cooling. Its 
 Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.
 Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.
 Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night.
+Watch your step when wandering areas oceans once covered. What looks like a stone could be this Pokémon, and it will curse you if you kick it.
 Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers.
 Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape.
 Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food.
@@ -8480,14 +8880,231 @@ When this legendary Pokémon's wings and tail feathers spread wide and glow red,
 When the Kalos region's ecosystem falls into disarray, it appears and reveals its secret power.
 A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.
 In its true form, it possess a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.
+It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.
 It lets out billows of steam and disappears into the dense fog. It's said to live in mountains where humans do not tread.
+It feels relaxed in tight, dark places and has been known to use its Trainer's pocket or bag as a nest.
+Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.
+Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.
+Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.
+When its mane is standing on end, you can tell it's feeling good. When it isn't feeling well, its fur will lie down flat.
+When its fighting spirit is set alight, the flames around its waist become especially intense.
+Popplio gets on top of its bouncy water balloons to jump higher. It's quite the acrobatic fighter!
+It attacks by smacking its enemies with the exploding water balloons that it creates.
+Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.
+It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!
+From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.
+Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.
+Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.
+Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!
+It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.
+Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.
+Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.
+Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.
+Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.
+This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.
+This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.
+This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.
+This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
+This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.
+Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.
+It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.
+When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!
+The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.
+This strange form is the result of its evolving at dusk. It’s very rare in Alola.
+The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.
+It has no problem ignoring orders it doesn’t like. It doesn’t seem to mind getting hurt at all—as long as it can finish off its opponent.
+When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.
+Called “demon of the sea” by some, when Wishiwashi are injured in battle and their numbers dwindle, they become a regular school.
+When it's in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.
+Aside from its head, its body parts regenerate quickly if they're cut off. After a good night's sleep, Mareanie is back to normal.
+With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn't affect Toxapex in there, so it's very comfortable.
+Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.
+It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load.
+It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.
+It has a habit of storing things it values in its water bubble. If its Trainer doesn't watch out, Araquanid will try to put them in its bubble!
+It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.
+As it slashes into its enemies, it looks like it's dancing. Its elegant appearance has led some to call it the most glamorous Grass Pokémon.
+It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.
+When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!
+It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn't deal well with Spinda, since it's always reeling.
+It punishes Salandit that couldn't bring it food with a fierce slap of its flame-spewing palm.
+Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.
+It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.
+It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It's usually a fruitless attempt.
+It bounces around, swinging the sepals on its head with abandon. They're quite painful when they smack you!
+A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.
+It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.
+Oranguru don't get along with each other, so they're always engaging in battles of wits to decide which one is superior.
+Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.
+An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.
+Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.
+If you build sand mounds when you're playing, destroy them before you go home, or they may get possessed and become Sandygast.
+Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.
+Its entire body is covered in its own slime. If you accidentally step on one, you'll slip, and it will get mad and smack you!
+There's danger of its going on a rampage, so its true power is sealed away beneath its control mask.
+Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.
+Its capacity to change types unleashed, it shines silver due to the energy springing forth from within.
+Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.
+Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.
+This is its form when its shell has fallen off. The color of its core depends on the materials that made up the food it ate.
+Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.
+It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.
+Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.
+Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!
+A gust of wind revealed what hides under this Pokémon's rag to a passing Trainer, who went home and died painfully that very night.
+Its skin is thick enough to fend off Mareanie's spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.
+Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge on any opponent that breaks its neck.
+Its skin is thick enough to fend off Mareanie's spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.
+It appears in towns and plays with the children. Drampa will protect kids when they're in danger, so their moms don't have to worry.
+Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.
+It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.
+The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they're a popular item.
+It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.
+The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.
+Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.
+It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula'ula controls plants.
+Although it's called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.
+Whether or not it's a Pokémon from this world is a mystery. When it's in a jam, it warps away to a safe place to hide.
+As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.
+In writings from the distant past, it's called by the name “the beast that devours the sun."
+It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.
+It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.
+Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.
+A life-form that lives in another world, its body is thin and supple, but it also possesses great power.
+They've been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.
+One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.
+This Ultra Beast's body, which is as thin as paper, is like a sharpened sword.
+An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.
+Light is the source of its energy. If it isn't devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.
+Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.
+It sinks into the shadows of people and Pokémon, where it can understand their feelings and copy their capabilities.
+An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.
+One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.
+When stone walls started moving and attacking, the brute's true identity was this mysterious life-form, which brings to mind an Ultra Beast.
+A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents' surprise to rob them of their vitality.
+It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.
 It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.
 Revered long ago for its capacity to create iron from nothing, for some reason it has come back to life after 3,000 years.
+When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area.
+The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers.
+By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle.
+A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power.
+Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves.
+It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched.
+When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping.
+A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms.
+It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.
+Found throughout the Galar region, this Pokémon becomes uneasy if its cheeks are ever completely empty of berries.
+It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.
+It will bravely challenge any opponent, no matter how powerful. This Pokémon benefits from every battle—even a defeat increases its strength a bit.
+Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.
+This Pokémon reigns supreme in the skies of the Galar region. The black luster of its steel body could drive terror into the heart of any foe.
+A constant collector of information, this Pokémon is very smart. Very strong is what it isn't.
+It barely moves, but it's still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.
+It's famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.
+Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.
+It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.
+It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.
+The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.
+Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.
+Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.
+Apparently the itch of its teething impels it to snap its jaws at anything in front of it.
+With jaws that can shear through steel rods, this highly aggressive Pokémon chomps down on its unfortunate prey.
+This Pokémon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.
+This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.
+Most of its body has the same composition as coal. Fittingly, this Pokémon was first discovered in coal mines about 400 years ago.
+It forms coal inside its body. Coal dropped by this Pokémon once helped fuel the lives of people in the Galar region.
+It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.
+It spends its entire life inside an apple. It hides from its natural enemies, bird Pokémon, by pretending it's just an apple and nothing more.
+It ate a sour apple, and that induced its evolution. In its cheeks, it stores an acid capable of causing chemical burns.
+Eating a sweet apple caused its evolution. A nectarous scent wafts from its body, luring in the bug Pokémon it preys on.
+As it digs, it swallows sand and stores it in its neck pouch. The pouch can hold more than 17 pounds of sand.
+When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.
+It's so strong that it can knock out some opponents in a single hit, but it also may forget what it's battling midfight.
+This Cramorant has accidentally gotten a Pikachu lodged in its gullet. Cramorant is choking a little, but it isn't really bothered.
+Cramorant's gluttony led it to try to swallow an Arrokuda whole, which in turn led to Cramorant getting an Arrokuda stuck in its throat.
+It's so strong that it can knock out some opponents in a single hit, but it also may forget what it's battling midfight.
+If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.
+This Pokémon has a jaw that's as sharp as a spear and as strong as steel. Apparently Barraskewda's flesh is surprisingly tasty, too.
+It stores poison in an internal poison sac and secretes that poison through its skin. If you touch this Pokémon, a tingling sensation follows.
+When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
+When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
+Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
+It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.
+When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.
+It's very curious, but its means of investigating things is to try to punch them with its tentacles. The search for food is what brings it onto land.
+A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.
+This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.
+The swirl pattern in this Pokémon's body is its weakness. If it gets stirred, the swirl loses its shape, and Sinistea gets dizzy.
+This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.
+This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.
+Trainers Polteageist trusts will be allowed to experience its distinctive flavor and aroma firsthand by sampling just a tiny bit of its tea.
+This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.
+Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.
+No matter who you are, if you bring strong emotions near this Pokémon, it will silence you violently.
+It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.
+Through its nose, it sucks in the emanations produced by people and Pokémon when they feel annoyed. It thrives off this negative energy.
+When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.
+With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.
 Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout—this move is known as Obstruct.
 What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
-Only Farfetch’d that have survived many battles can attain this evolution. When this Pokémon’s leek withers, it will retire from combat.
+Its shell is overflowing with its heightened otherworldly energy. The ectoplasm serves as protection for this Pokémon's core spirit.
+Only Farfetch'd that have survived many battles can attain this evolution. When this Pokémon's leek withers, it will retire from combat.
 It's highly skilled at tap-dancing. It waves its cane of ice in time with its graceful movements.
 A powerful curse was woven into an ancient painting. After absorbing the spirit of a Yamask, the painting began to move.
+This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.
+When it trusts a Trainer, it will treat them to berries it's decorated with cream.
+The moment it evolved, it took on a bitter flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a sour flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on an aromatic flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a refreshing flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a complex flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a salty flavor. This is because of the way its cells spontaneously shifted during evolution.
+When it trusts a Trainer, it will treat them to berries it's decorated with cream.
+Five of them are troopers, and one is the brass. The brass's orders are absolute.
+It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.
+It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
+Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than −290 degrees Fahrenheit.
+It stands in grasslands, watching the sun's descent from zenith to horizon. This Pokémon has a talent for delivering dynamic kicks.
+It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.
+It drifted in on the flow of ocean waters from a frigid place. It keeps its head iced constantly to make sure it stays nice and cold.
+The ice covering this Pokémon's face has shattered, revealing a slightly worried expression that many people are enamored with.
+It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.
+These intelligent Pokémon touch horns with each other to share information between them.
+It uses the horns on its head to sense the emotions of others. Males will act as valets for those they serve, looking after their every need.
+As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.
+As it eats the seeds stored up in its pocket-like pouches, this Pokémon is not just satisfying its constant hunger. It's also generating electricity.
+Intense hunger drives it to extremes of violence, and the electricity in its cheek sacs has converted into a Dark-type energy.
+It digs up the ground with its trunk. It's also very strong, being able to carry loads of over five tons without any problem at all.
+They came over from another region long ago and worked together with humans. Their green skin is resistant to water.
+In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.
+The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.
+Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.
+Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.
+Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.
+After being reborn as a ghost Pokémon, Dreepy wanders the areas it used to inhabit back when it was alive in prehistoric seas.
+It's capable of flying faster than 120 mph. It battles alongside Dreepy and dotes on them until they successfully evolve.
+When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.
+Now armed with a weapon it used in ancient times, this Pokémon needs only a single strike to fell even Gigantamax Pokémon.
+Known as a legendary hero, this Pokémon absorbs metal particles, transforming them into a weapon it uses to battle.
+In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.
+Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.
+In times past, it worked together with a king of the people to save the Galar region. It absorbs metal that it then uses in battle.
+The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.
+Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.
+This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
+It's believed that this Pokémon modeled its fighting style on the flow of a river—sometimes rapid, sometimes calm.
+This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
+Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.
+This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.
+An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.
+Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force.
+It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.
+Calyrex is a merciful Pokémon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.
+According to lore, this Pokémon showed no mercy to those who got in its way, yet it would heal its opponents’ wounds after battle.
+It’s said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.
 In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
 The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
 Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
@@ -9434,13 +10051,183 @@ Diancie
 Mega Diancie
 Hoopa
 Volcanion
+Rowlet
+Dartrix
+Decidueye
+Litten
+Torracat
+Incineroar
+Popplio
+Brionne
+Primarina
+Pikipek
+Trumbeak
+Toucannon
+Yungoos
+Gumshoos
+Grubbin
+Charjabug
+Vikavolt
+Crabrawler
+Crabominable
+Oricorio
+Cutiefly
+Ribombee
+Rockruff
+Lycanroc
+Wishiwashi
+Mareanie
+Toxapex
+Mudbray
+Mudsdale
+Dewpider
+Araquanid
+Fomantis
+Lurantis
+Morelull
+Shiinotic
+Salandit
+Salazzle
+Stufful
+Bewear
+Bounsweet
+Steenee
+Tsareena
+Comfey
+Oranguru
+Passimian
+Wimpod
+Golisopod
+Sandygast
+Palossand
+Pyukumuku
+Type: Null
+Silvally
+Minior
+Komala
+Turtonator
+Togedemaru
+Mimikyu
+Bruxish
+Drampa
+Dhelmise
+Jangmo-o
+Hakamo-o
+Kommo-o
+Tapu Koko
+Tapu Lele
+Tapu Bulu
+Tapu Fini
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Nihilego
+Buzzwole
+Pheromosa
+Xurkitree
+Celesteela
+Kartana
+Guzzlord
+Necrozma
+Magearna
+Marshadow
+Poipole
+Naganadel
+Stakataka
+Blacephalon
+Zeraora
 Meltan
 Melmetal
+Grookey
+Thwackey
+Rillaboom
+Scorbunny
+Raboot
+Cinderace
+Sobble
+Drizzile
+Inteleon
+Skwovet
+Greedent
+Rookidee
+Corvisquire
+Corviknight
+Blipbug
+Dottler
+Orbeetle
+Nickit
+Thievul
+Gossifleur
+Eldegoss
+Wooloo
+Dubwool
+Chewtle
+Drednaw
+Yamper
+Boltund
+Rolycoly
+Carkol
+Coalossal
+Applin
+Flapple
+Appletun
+Silicobra
+Sandaconda
+Cramorant
+Arrokuda
+Barraskewda
+Toxel
+Toxtricity
+Sizzlipede
+Centiskorch
+Clobbopus
+Grapploct
+Sinistea
+Polteageist
+Hatenna
+Hattrem
+Hatterene
+Impidimp
+Morgrem
+Grimmsnarl
 Obstagoon
 Perrserker
-Sirfetch’d
+Cursola
+Sirfetch'd
 Mr. Rime
 Runerigus
+Milcery
+Alcremie
+Falinks
+Pincurchin
+Snom
+Frosmoth
+Stonjourner
+Eiscue
+Indeedee
+Morpeko
+Cufant
+Copperajah
+Dracozolt
+Arctozolt
+Dracovish
+Arctovish
+Duraludon
+Dreepy
+Drakloak
+Dragapult
+Zacian
+Zamazenta
+Eternatus
+Kubfu
+Urshifu
+Zarude
+Regieleki
+Regidrago
+Glastrier
+Spectrier
+Calyrex
 Please enter a different nickname.
 You have purified {0}!
 Do you really want to transfer this Shiny Pokémon?
@@ -9579,6 +10366,8 @@ Use a supereffective Charged Attack in {0} Gym battles
 Use a supereffective Charged Attack in a Gym battle
 Win {0} Trainer Battles in the Ultra League
 Win a Trainer Battle in the Ultra League
+Win a raid in under 10 minutes
+Win a raid in under 60 seconds
 Win a raid in under {0} minutes
 Win a raid in under {0} seconds
 Pokémon Day: Catch {0} Pidgey or Rattata
@@ -9612,6 +10401,7 @@ Catch {0} Kyogre
 Catch a Legendary Pokémon in your next {0} Legendary Pokémon encounters
 Catch {0} Legendary Pokémon
 Catch a Legendary Pokémon
+Catch {0} Lunatone
 Catch {0} Luvdisc
 Catch {0} Normal-, Water-, or Ice-type Pokémon
 Catch {0} different species of Pokémon
@@ -9623,6 +10413,7 @@ Catch a Regirock, Regice, or Registeel from a raid
 Catch a Regice from a raid
 Catch a Regirock from a raid
 Catch a Registeel from a raid
+Catch {0} Solrock
 Catch {0} Ditto
 Tokyo eSports 2020: Catch the {0} Pokémon on the event list
 Catch a Ditto
@@ -9676,6 +10467,7 @@ Catch {0} Charmander
 Catch {0} Larvitar
 Catch {0} Unown
 Catch an Aerodactyl
+Catch {0} Bidoof
 Catch a Chespin
 Catch a Cubone
 Catch {0} Exeggcute
@@ -9761,6 +10553,7 @@ Catch {0} Charmeleon
 Evolve {0} Charmander
 Evolve {0} Charmeleon
 Investigating Illusions
+BIDOOF
 A Ripple in Time
 A Tale of Tails
 December Community Day
@@ -9786,12 +10579,14 @@ The Shadowy Threat Grows
 Time to Train
 An Inter-egg-sting Development
 The Higher They Fly...
+A Seven-Colored Shadow
 Stop and Smell the Roselia
 Snivy in the Sunshine
 A Spooky Message 2018
 A Spooky Message 2019
 Seeing Double
 Cotton-Winged Bird
+Roasted Berries
 A Hairy Situation
 Daily Bonus
 Defeat Jessie or James {0} times
@@ -10260,6 +11055,8 @@ Evolve {0} Grass-type Pokémon
 Evolve a Grass-type Pokémon
 Evolve {0} Ice-type Pokémon
 Evolve an Ice-type Pokémon
+Evolve {0} Psychic-type Pokémon
+Evolve a Psychic-type Pokémon
 Evolve {0} Rock-type Pokémon
 Evolve {0} Steel-type Pokémon
 Evolve {0} Water-type Pokémon
@@ -10457,6 +11254,7 @@ Earn a Gold Johto medal
 Earn a gold Kanto medal
 Earn a silver Kanto medal
 Reach level {0}
+Logged in to Pokémon GO
 You’ll receive another task tomorrow.
 Collect stamps to unlock Research Breakthroughs from Professor Willow!
 Next Breakthrough in
@@ -10559,6 +11357,29 @@ Thank you again, %PLAYERNAME%, for all your help today. It was incredible resear
 We learned so much about this Psychic-type Pokémon. Rumor has it that some lucky Trainers even encountered Shiny Abra in the wild!
 Pokémon are truly amazing creatures. There’s always something to discover.
 Until next time, %PLAYERNAME%!
+Hey there, %PLAYERNAME%! Just who I wanted to see. I just received a unique research request regarding a particular Pokémon, and I think you’re the perfect Trainer to help me with it.
+Let’s warm up with a few tasks first, and then we can dive into the meat of it!
+Welcome back, Trainer. I have a few more details to share about the research request I received.
+A favorite of new and experienced Trainers alike, Bidoof, the Plump Mouse Pokémon, has been appearing more often of late. Intriguing, no?
+Now, before we continue, I have a very important choice for you to make. Will you focus your research on Bidoof or the Plump Mouse Pokémon?
+Is this a trick question? Who could say! My only advice is to follow your heart. Besides, it’s hard to go wrong when Bidoof is your only option!
+Great choice, Trainer! For some reason, I just knew you’d pick Bidoof. Don’t ask me how!
+Bidoof is known for its two large front teeth. Much like Rattata’s teeth, Bidoof’s teeth are continually growing.
+Speaking of teeth, I have a few tasks that you can sink yours into now!
+Wonderful choice, Trainer! I had a feeling you’d pick the Plump Mouse Pokémon. Don’t ask me why!
+Otherwise known as Bidoof, this Normal-type Pokémon is far from ordinary! While only about a foot tall, Bidoof is powerful. It can chew through boulders with its incisors—a feat that makes my jaw hurt to even think about.
+Welcome back, %PLAYERNAME%. Hopefully you got a few good snapshots of Bidoof while conducting your research! I always enjoy seeing the snapshots Trainers take of Pokémon, and I can never get enough of Bidoof!
+Now—according to the research request we received, we must choose to focus our efforts on a Pokémon that has nerves of steel or a Pokémon that nests alongside water.
+I know what you’re thinking: choosing between Bidoof and Bidoof isn’t easy. But, then again, the most important research rarely is!
+You’re going with Bidoof, huh? I like your style, %PLAYERNAME%.
+Bidoof isn’t just cute to look at—it’s more agile and active than it appears! Nothing can perturb it, making it an excellent member of your team. 
+I think we could all learn from that steadiness. Channel your inner Bidoof so you can steel your nerves, too!
+You choose Bidoof, eh? I never doubted it for a second.
+Bidoof often live in groups by the water where they make their nests. I recall that Bibarel, Bidoof’s Evolution, makes its nest by damming streams with bark and mud.
+A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby. Fascinating, don’t you think?
+Thank you, %PLAYERNAME%, for assisting me with this special assignment. I think we all learned that there’s more than meets the eye when it comes to Pokémon—especially Bidoof!
+As a thank-you for your hard work, the team leaders and I prepared a gift for you to help show the world your love and knowledge of the indelible Bidoof. I hope you wear it with the pride it deserves.
+Why don’t you put it on and enjoy a nice walk with your Bidoof? You never know what you might discover! Now, let’s GO!
 %PLAYERNAME%, you’ve been such a help in conducting Field Research and Special Research!
 I have a feeling that there’s so much more about this world that we’ve yet to discover, and I’m glad I can count on you to see it through.
 I’ve been doing some experiments of my own, and I suspect that I’m onto a further exciting discovery about another Mythical Pokémon that’s rarely seen.
@@ -11452,6 +12273,23 @@ I’ve managed to finish building another Super Rocket Radar for you. You can us
 Fantastic work as always, %PLAYERNAME%!
 The fight against Team GO Rocket and their malicious machinations continues, but at least for today we can rest knowing that we’ve foiled their latest scheme.
 So, until next time—let’s GO!
+Hey there, %PLAYERNAME%. Have you looked up at the sky lately? I thought I’d been staring at reports for too long, but no, there are rainbows everywhere!
+That’s not all—I’ve also heard rumors that a mysterious Pokémon has been sighted wherever these rainbows appear. They say rainbows bring good luck, so why not follow one to the end? Haha!
+In all seriousness, why don’t you go for a stroll and see for yourself? You never know what we might find!
+Keep your eye on the sky, and good luck!
+Welcome back, %PLAYERNAME%. I’m afraid I have some dire news... It sounds like Team GO Rocket’s gotten wind of these sightings and have set out to catch the mysterious Pokémon for themselves.
+Perhaps they're looking for a bit of good luck as well! Haha! Well, whatever their motive, we can’t have them creating more powerful Shadow Pokémon. It’s time to do some investigating.
+Knowing how large Team GO Rocket’s forces are, I fear they may have already found it, no doubt leaving Shadow Pokémon in their wake. Let’s go catch some Shadow Pokémon and see where they lead us!
+Great job rescuing all those Shadow Pokémon, %PLAYERNAME%! I wish we had time to celebrate, but I just discovered that Team GO Rocket caught up to our mysterious Pokémon...
+...and that it’s none other than Ho-Oh, the Rainbow Pokémon! But don’t be discouraged! I truly believe that with enough determination, we can save it, just as we have in the past.
+Let’s prep for the gauntlet of battles ahead and gather more information about Ho-Oh’s whereabouts by pursuing more Shadow Pokémon.
+Great job saving even more Shadow Pokémon, %PLAYERNAME%! Through your efforts, we’ve learned that Ho-Oh has been handed off to Giovanni and made into a Shadow Pokémon.
+For now, I want you to find and defeat Arlo, Cliff, and Sierra! Doing so will help us build a Super Rocket Radar that’ll lead us right to Giovanni...and to Ho-Oh! Good luck!
+Incredible work, %PLAYERNAME%! With a Super Rocket Radar in hand, we’ll have no problem finding Giovanni. Defeating him in battle, however, is another story entirely...
+Still! Seeing how you were able to beat his underlings, I’m certain you’ll come out on top—and save Ho-Oh to boot!
+What a magnificent battle, %PLAYERNAME%! Congrats on defeating Giovanni and saving Ho-Oh from his clutches.
+Team GO Rocket never rests, so we should continue to be vigilant. In the meantime, why not get to know your newly saved Ho-Oh?
+With the right care and a little luck, any Shadow Pokémon can be purified! I wish you the best, %PLAYERNAME%, and I’ll see you next time!
 Ahhh... Do you smell that, Trainer?
 I first caught a whiff of that curious aroma as I was out on my daily morning walk.
 Upon investigation, I discovered that the scent was being produced by an uncommonly large group of Roselia that had assembled nearby.
@@ -11617,6 +12455,75 @@ You’re a natural, %PLAYERNAME%. I’m so glad we could research some of the am
 I can’t thank you enough for your hard work. I hope you put this Charged TM and Fast TM to good use!
 By the way, I literally stumbled across a mysterious Pokémon I’ve never encountered before.
 I think you’re the perfect Trainer to take this Pokémon and help it reach its potential. Best of luck, and I’ll be in touch soon!
+Hey there, %PLAYERNAME%! Glad to see you.
+I was just thinking that it’d be interesting to research more about my Buddy Pokémon and the team leaders’ buddies. 
+The four of us have powerful bonds with our buddies. Blanche has formed a wonderful relationship with Lapras, Candela has had Rapidash since it was a Ponyta, and Spark has developed an electrifying bond with Elekid.
+My buddy is the Mythical Pokémon Meltan. Since Meltan and I met, I’ve been documenting everything I learn about it. And trust me—there’s a lot to learn!
+I’ve actually heard some reports of Meltan sightings recently. Maybe you’ll run into one on your adventures?
+Definitely something to keep an eye out for as we begin our research. But first, let’s stock up on some supplies!
+Welcome back, Trainer! Seems like you’re all set to head out on this research adventure. Why don’t we start by looking at the cool pair that is Blanche and Lapras?
+Known as the Transport Pokémon, Lapras is both Water- and Ice-type. A smart and kindhearted Pokémon, it glides across the surface of the sea while its beautiful song echoes around it.
+Lapras are known to have gentle hearts and can even understand human speech. I completely understand why Blanche chose Lapras as a buddy.
+That said, Blanche clearly feels a special connection to Lapras.
+Blanche got Lapras by trading with a fellow Team Mystic Trainer. I wonder if that has something to do with it.
+At any rate, let’s focus our research on Water- and Ice-type Pokémon to learn more about the Pokémon that Blanche holds dear.
+Excellent work, %PLAYERNAME%. It looks like you have your very own Lapras, just like Blanche! 
+Be sure to tell your Lapras I said hi! I never miss a chance to greet new Pokémon. Now, let’s move on to our next dynamic duo: Spark and Elekid.
+The leader of Team Instinct has always had a soft spot for Pokémon that hatch from Eggs, so it’s only natural that he’d have a buddy like Elekid.
+But don’t let this Pokémon’s small stature fool you! Spark’s Elekid is incredibly powerful, making it a fitting buddy for the energetic team leader.
+Why hasn’t Spark evolved his Elekid? Well, Evolution should be approached with care.
+I’m sure Spark will know when Elekid is ready to evolve.
+Spark may seem pretty carefree, but few are more committed to the care and training of Pokémon than him.
+What do you say we research some Electric-type Pokémon that Spark tends to work with?
+How did your research go, Trainer? I think it’s time to turn our attention to some Fire-type Pokémon—specifically the Fire Horse Pokémon Rapidash.
+This Pokémon has a competitive streak, making it a great match for Candela, the leader of Team Valor.
+Candela has had her Rapidash since it was a Ponyta, so you can be sure the two of them have been on more than a few adventures.
+Rapidash loves to run and gallop, so Candela always makes sure her Buddy Pokémon has plenty of time and space to do just that.
+That kind of care is critical for building strong, lasting relationships with your Pokémon.
+Candela’s passion and dedication make her a great role model for her fellow Team Valor members—and everyone, really.
+Maybe researching Fire-type Pokémon will help you learn more about Candela’s fiery spirit?
+Welcome back, %PLAYERNAME%! Thanks for conducting that research on Fire-type Pokémon.
+Now that we’ve learned more about the Pokémon that Blanche, Spark, and Candela call their buddies, it’s time to do some research on my Buddy Pokémon: Meltan.
+I remember when I first met my Meltan. I was out doing some research when I stumbled upon a group of them. I’d never seen a Pokémon like it before, and I wanted to share my findings with my mentor, Professor Oak.
+The group of Meltan eventually departed, but one Meltan stuck around, and we’ve been together ever since!
+At first, I assumed Meltan only stayed to snack on all the metal knickknacks in my mobile lab. But as time passed, our bond grew stronger, and now we’re practically inseparable.
+Our favorite thing is to go on long walks and look for metallic snacks for Meltan. Which reminds me—we still need to look into those reports of Meltan appearing nearby!
+Let’s do some investigating and see if we can find any Meltan, Trainer!
+Well done, Trainer! Thanks to your hard work, you have your very own Meltan!
+I’m sure that if you take the time to build up your relationship, Meltan will evolve into Melmetal in no time!
+Melmetal stands over eight feet tall. By using centrifugal force, Melmetal can use its heavy hex-nut arms to deliver the strongest punches of all Pokémon.
+But I’m getting ahead of myself. Now is the time to focus on the friendship between you and your Buddy Pokémon—whether it be Meltan or any other Pokémon that you feel a special bond with.
+After studying the bonds the team leaders and I have with our Buddy Pokémon, I hope you feel inspired to find a buddy you can grow with as well.
+I’ve no doubt you and your Buddy Pokémon will achieve some incredible things—and Meltan and I will be cheering you on!
+Thank again for your assistance. Until next time, let’s GO!
+Hey there, %PLAYERNAME%! Good to see you. Do have anything fun planned for today?
+I’ll be attending a picnic with the team leaders, myself.
+I must say, though, I was having a pretty hard time deciding what I should bring. Candela’s in charge of sandwiches, Spark is handling refreshments, and Blanche is bringing shaved ice, so the bases are all pretty well covered.
+Walking always clears my head, so I took a stroll and ended up spotting a large group of Tepig near where I normally pick my go-to snack, Pinap Berries.
+And suddenly—inspiration! Did you know Tepig loves to eat roasted Berries, Trainer?
+The Fire Pig Pokémon blows fire balls through its nose and roasts the berries before it eats them.
+Roasted Berries sound like a great picnic snack, don’t you think? And speaking of, I need to start getting them ready. Why don’t you go check out the Tepig in the meantime?
+Welcome back, Trainer.
+Ah, I see you’ve caught a Tepig of your own! They make terrific companions in all aspects of life.
+Tepig evolves into Pignite, which, like Tepig, is known as the Fire Pig Pokémon.
+When Pignite’s internal fire flares up, its movements grow sharper and faster. Whatever it eats becomes fuel for the flame in its stomach. Must do wonders for digestion!
+Oh! That reminds me—I need to check on my roasted Berries.
+While I finish up my picnic preparations, why don’t you see about evolving your Tepig into Pignite?
+Hello again, %PLAYERNAME%. The Berry-roasting process is going swimmingly, and the whole place smells delicious!
+Just when I thought Pokémon couldn’t inspire me any more than they already do, here I am taking cooking tips from Tepig. Haha!
+Nice Pignite, by the way! Very round. Did you know that Pignite can evolve? Its Evolution is a Pokémon called Emboar.
+Emboar is known to heat up its punches by setting its fists ablaze with its fiery chin. It’s also known to care deeply about its friends.
+Speaking of friends, I should let the team leaders know that I’ll be on my way soon.
+How about evolving your Pignite into Emboar, Trainer? I’d love to see its fiery beard firsthand.
+Fantastic work, %PLAYERNAME%! Your Emboar is truly a sight to see!
+This powerful Fire- and Fighting-type Pokémon is known as the Mega Fire Pig Pokémon.
+According to my research, Emboar is a master of fast and powerful Fighting-type attacks.
+And wow... Look at that beard of fire. What do you think, Trainer? Could you see me with one of those?
+Haha, only joking! I’m sure I’d find it far too itchy.
+Anyway, I should let you get back to exploring. And I should get to that picnic!
+Have a wonderful weekend, and keep up all the hard work. It’s always a joy to see how much you’ve grown as a Trainer each time we meet.
+I’ll be in touch soon with some more research opportunities. Or who knows—maybe even some recipes!
+Now, let’s GO!
 Hey there, %PLAYERNAME%! I stepped out of my mobile lab this morning only to see needlelike horns poking out of the grass all around me.
 Luckily, I also saw big red noses poking out of the grass and realized they belonged to Weedle, the Hairy Bug Pokémon. I guess you could say we’re in a...hairy situation!
 ...Uh, moving along...
@@ -11674,6 +12581,9 @@ Use {0} supereffective Charged Attacks
 Use a supereffective Charged Attack
 Catch {0} Swablu
 Evolve {0} Swablu
+Catch {0} Tepig
+Evolve {0} Tepig
+Evolve {0} Pignite
 {0} days left to complete this Special Research
 {0} day left to complete this Special Research
 Animation Week Research
@@ -11682,6 +12592,11 @@ Investigating Illusions (1/4)
 Investigating Illusions (2/4)
 Investigating Illusions (3/4)
 Investigating Illusions (4/4)
+BIDOOF
+BIDOOF (1/4)
+BIDOOF (2/4)
+BIDOOF (3/4)
+BIDOOF (4/4)
 A Ripple in Time
 A Ripple in Time (1/8)
 A Ripple in Time (2/8)
@@ -11933,6 +12848,13 @@ The Higher They Fly... (3/6)
 The Higher They Fly... (4/6)
 The Higher They Fly... (5/6)
 The Higher They Fly... (6/6)
+A Seven-Colored Shadow
+A Seven-Colored Shadow (1/6)
+A Seven-Colored Shadow (2/6)
+A Seven-Colored Shadow (3/6)
+A Seven-Colored Shadow (4/6)
+A Seven-Colored Shadow (5/6)
+A Seven-Colored Shadow (6/6)
 Stop and Smell the Roselia
 Stop and Smell the Roselia (1/4)
 Stop and Smell the Roselia (2/4)
@@ -11989,6 +12911,18 @@ Throwback Challenge Celebration 2020 (2/5)
 Throwback Challenge Celebration 2020 (3/5)
 Throwback Challenge Celebration 2020 (4/5)
 Throwback Challenge Celebration 2020 (5/5)
+Professor’s Research
+Professor’s Research (1/6)
+Professor’s Research (2/6)
+Professor’s Research (3/6)
+Professor’s Research (4/6)
+Professor’s Research (5/6)
+Professor’s Research (6/6)
+Roasted Berries
+Roasted Berries (1/4)
+Roasted Berries (2/4)
+Roasted Berries (3/4)
+Roasted Berries (4/4)
 Celebrate 2019
 Throwback Challenge
 Throwback Challenge: Hoenn (1/9)
@@ -12092,6 +13026,7 @@ Win a Gym battle
 Win a level 2 or higher raid
 Win {0} level 3 or higher raids
 Win a level 3 or higher raid
+Win a raid with your buddy
 Win {0} raids using only Pokémon with 1,500 CP or less
 Win a raid using only Pokémon with 1,500 CP or less
 Win {0} three-star raids using only Pokémon with 1,500 CP or less
@@ -13731,7 +14666,7 @@ You cannot refer yourself.
 Your Friend Can’t Add Any More Friends
 Unable to send Friend Request
 Your Friend List Is Full
-Unable to send Friend Request to the Trainer who invited you. 
+Unable to send Friend Request to the Trainer who invited you.
 Your Friend
 Your friend has joined Pokémon GO!
 You earned the following:
@@ -14025,8 +14960,8 @@ Explore Responsibly
 Low Motivation
 Music
 Nearby Trainer Battles
-Niantic AR
-Update Niantic AR
+Niantic AR (AR+)
+Update Niantic AR (AR+)
 Nintendo Account
 Poké Ball Plus
 About
@@ -14247,6 +15182,7 @@ More Roselia are appearing in the wild
 More Seedot are appearing in the wild
 More Snivy are appearing in the wild
 More Swablu are appearing in the wild
+More Tepig are appearing in the wild
 More Weedle are appearing in the wild
 More Bug-type Pokémon are appearing in the wild
 More Dark-type Pokémon are appearing in the wild
@@ -14412,6 +15348,7 @@ Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
 Ticket for Special Research available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
+Ticket for the Roasted Berries Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
@@ -14723,6 +15660,7 @@ Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
+Ultra League Remix
 Ultra Unlock 2020
 Ultra Bonus Unlock
 Ultra Bonus Unlock: Part 1
