@@ -10,6 +10,7 @@ Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 ADD FRIENDS FROM CONTACTS
+Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
 https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
 You choose which contacts to send Friend Requests to.
 Easily connect with friends by letting Pokémon GO access your contacts list periodically. You can turn off this feature in your device’s settings at any time.
@@ -316,6 +317,7 @@ LeafGreen Bag
 Genesect Bag
 Gengar Backpack
 The North Face x Gucci Backpack
+GO Fest 2021 Guitar Case
 Johto Bag
 Longchamp Backpack
 Mimikyu Bag
@@ -341,6 +343,8 @@ Fire-type Mask
 Water-type Mask
 Banette Mask
 Simple Mask
+Pikachu Face Sticker
+Poké Ball Face Sticker
 Pikachu Mask
 Sableye Mask
 Verizon Mask
@@ -510,6 +514,7 @@ Gengar Onesie
 Giovanni Shirt
 GO Fest 2019 Tee
 GO Fest 2020 Tee
+GO Fest 2021 Tee
 Arlo-Style Outfit
 Cliff-Style Outfit
 Sierra-Style Outfit
@@ -537,6 +542,7 @@ Level 50 Jacket
 Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
+Meloetta T-shirt
 Meltan Pullover
 Mew Shirt
 Mewtwo Top
@@ -553,6 +559,9 @@ Pikachu Onesie
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
+Pokémon Shirts Whismur
+Pokémon Shirts Loudred
+Pokémon Shirts Exploud
 Pokémon Shirts Ledyba
 Pokémon Shirts Skiploom
 Pokémon Shirts Unown
@@ -683,6 +692,7 @@ FireRed Backpack
 Genesect Bag
 Gengar Backpack
 The North Face x Gucci Backpack
+GO Fest 2021 Guitar Case
 Johto Bag
 Longchamp Backpack
 Mimikyu Bag
@@ -702,6 +712,8 @@ Fire-type Mask
 Water-type Mask
 Banette Mask
 Simple Mask
+Pikachu Face Sticker
+Poké Ball Face Sticker
 Pikachu Mask
 Sableye Mask
 Verizon Mask
@@ -871,6 +883,7 @@ Gengar Onesie
 Giovanni Shirt
 GO Fest 2019 Tee
 GO Fest 2020 Tee
+GO Fest 2021 Tee
 Arlo-Style Outfit
 Cliff-Style Outfit
 Sierra-Style Outfit
@@ -901,6 +914,7 @@ Level 50 Jacket
 Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
+Meloetta T-shirt
 Meltan Pullover
 Mew Shirt
 Mewtwo Top
@@ -916,6 +930,9 @@ Pikachu Onesie
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
+Pokémon Shirts Whismur
+Pokémon Shirts Loudred
+Pokémon Shirts Exploud
 Pokémon Shirts Ledyba
 Pokémon Shirts Skiploom
 Pokémon Shirts Unown
@@ -1231,9 +1248,9 @@ Pokémon GO Fest
 Global, July 25–26, 2020
 Pokémon GO Fest
 Global, July 17–18, 2021
+Pokémon GO Fest
 Global, July 17–18, 2021
 Pokémon GO Fest—Early Access
-Pokémon GO Fest
 Global, February 20, 2021
 Pokémon GO Tour: Kanto
 Global, February 20, 2021
@@ -2405,6 +2422,24 @@ Nerves of steel
 By choosing this Bidoof, you’ll basically become a Bidoof magnet.
 Choose a Pokémon that nests alongside water!
 Nests near water
+Evolve your duo into a trio with Flygon! You’ll encounter a special costumed Flygon.
+Choose Flygon!
+Flygon
+Evolve your duo into a trio with Gardevoir! You’ll encounter a special costumed Gardevoir.
+Choose Gardevoir!
+Gardevoir
+Add Galarian Ponyta to your band! You’ll encounter a special costumed Galarian Ponyta.
+Choose Galarian Ponyta!
+Ponyta
+Pikachu will dress up as a pop star for your show. You’ll encounter Pikachu Pop Star and hear special pop-inspired music during Pokémon GO Fest 2021.
+Choose Pikachu Pop Star!
+Pikachu Pop Star
+Pikachu will dress up as a rock star for your show. You’ll encounter Pikachu Rock Star and hear special rock-inspired music during Pokémon GO Fest 2021.
+Choose Pikachu Rock Star!
+Pikachu Rock Star
+Add Galarian Zigzagoon to your band! You’ll encounter a special costumed Galarian Zigzagoon.
+Choose Galarian Zigzagoon!
+Zigzagoon
 Choose wisely! You can select only one path below, and you’ll remain on that path until the end of the research.
 Choose a Path
 Choose a Path
@@ -3792,10 +3827,13 @@ Evolution Event: Win {0} raids
 Evolution Event: Win {0} times against the Team GO Rocket Leaders
 Evolution Event
 Use this item on your Pokémon!
+Do you want to evolve your Best Buddy {0}?
 Evolution Options
 Would you like to evolve {0} using Candies anyway?
 Evolving {0} without trading will require {1} Candies.
 2× XP for evolving Pokémon
+This Pokémon might exceed the CP limit for some Battle Leagues.
+This Pokémon will exceed the CP limit for some Battle Leagues
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
 EX Raid scheduled for {0}, {1} at {2} has been canceled.
@@ -3835,6 +3873,8 @@ Level 47 Pose
 Mime Pose
 Elesa Pose
 Korrina Pose
+Pop Pose
+Rock Pose
 Idle
 Ultra Moon Bag
 Level 41 Glasses
@@ -5245,7 +5285,7 @@ A device that incubates an Egg as you walk until it is ready to hatch. Breaks af
 Egg Incubator
 A device that incubates an Egg as you walk until it's ready to hatch. Unlimited use!
 Egg Incubator ∞
-A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
+A more powerful Egg Incubator that helps Eggs hatch quickly. Breaks after 3 uses.
 Super Incubator
 Increases the size of your Item Bag.
 Item Pack
@@ -6227,6 +6267,8 @@ Level 47 Pose
 Mime Pose
 Elesa Pose
 Korrina Pose
+Pop Pose
+Rock Pose
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -6342,7 +6384,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-07-30T04:47:08.706910at SHA 07ef195b02dac5e03d0d6b4857b93fb50da9a30cPipeline 684800, job 6529275
+Built at 2021-08-17T09:59:29.720636at SHA 43eee1aef96e957ed0bd4ffa213fe068be8e4dadPipeline 697933, job 6700206
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -6954,6 +6996,22 @@ Feed this special treat to your buddy, and it’ll happily join you on the map f
 2× Poffin duration
 Poffin
 LEARN MORE
+Add Another
+ADD LOCATION CATEGORY
+Please categorize this location
+Categorize this location
+Category is already selected
+BACK
+PokéStop Category
+OK
+Enter comma separated suggestions here
+Category suggestion (optional)
+{0} doesn't exist in our category list
+Select or type here
+Selected
+Selected (up to three)
+SUBMIT
+Thank you for your contribution!
 You’ll have {0} more scan contribution(s) available tomorrow.
 You have {0} scan contribution(s) available today.
 You’ve reached your max daily scan contribution(s) of {0}.
@@ -7070,6 +7128,7 @@ Error Loading Map
 Device has no camera
 Removed per the request of the property owner
 Removed upon request
+ 
 NEW POKÉSTOP
 PLAYER NOMINATIONS
 Tutorial
@@ -9059,9 +9118,10 @@ The moment it evolved, it took on a sour flavor. This is because of the way its 
 The moment it evolved, it took on an aromatic flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a refreshing flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a complex flavor. This is because of the way its cells spontaneously shifted during evolution.
+The moment it evolved, it took on a sweet and tart flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a salty flavor. This is because of the way its cells spontaneously shifted during evolution.
-When it trusts a Trainer, it will treat them to berries it's decorated with cream.
+When it trusts a Trainer, it will treat them to berries it’s decorated with cream.
 Five of them are troopers, and one is the brass. The brass's orders are absolute.
 It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.
 It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
@@ -9210,7 +9270,8 @@ Height
 LOCATION
 Location unknown
 Do you want to Mega Evolve {0}?
-Your {0} will no longer be Mega Evolved.
+Do you really want to Mega Evolve {0}?
+Your {0} will no longer be Mega Evolved!
 Only one Pokémon may be Mega Evolved at a time.
 Mega Evolution lasts for {0} hours.
 Need more {0} Mega Energy
@@ -11124,9 +11185,126 @@ Achieve rank 20 in the GO Battle League
 Catch {0} Gible
 Evolve {0} Gible
 Evolve {0} Gabite
+Strange Rings
+Strange Rings (1/2)
+Strange Rings (2/2)
+Ah, %PLAYERNAME%! Just the Trainer I was hoping to see. Have you been enjoying the festival?
+I was just out on a stroll and witnessed the most incredible sight. Several rings had appeared in the sky, and as I stared up at them, something truly remarkable occurred.
+Legendary Pokémon began emerging from the rings as if by magic!
+Naturally, I rushed back to my laboratory and began frantically searching through every book I thought might shed some light on what had happened—but I’ve yet to find anything.
+I’m going to keep looking, but in the meantime, I could really use your help investigating in the field.
+We have to find out what’s going on here!
+Thanks for collecting that information, Trainer. I’m going to send it over to Blanche for analysis. Unfortunately, the rings in the sky have yet to disappear.
+I did have some luck in my search for an explanation, however. Look here—it’s the Mythical Pokémon Hoopa.
+Known as the Mischief Pokémon, Hoopa enjoys sending things to faraway places using its rings, which can warp space.
+That explains why those Legendary Pokémon appeared the way they did. Hoopa uses those rings to move things from place to place—including itself. It won’t be easy to catch.
+Based on reports from the team leaders, it doesn’t seem like Hoopa is in the area at the moment. Let’s use this time to prepare to catch it, hm?
+Mischievous though Hoopa may be, you have to admit that its rings are quite fascinating, eh, %PLAYERNAME%?
+Moments like this remind me of why I became a Pokémon Professor in the first place. The world of Pokémon is endlessly exciting!
+For now, why don’t you go challenge some raids with other Trainers and catch some Pokémon? You’ll need your skills at their sharpest to catch Hoopa. Now, let’s GO!
 GO Fest: Catch {0} Pokémon
 GO Fest: Visit {0} PokéStops
 GO Fest: Earn a Buddy Candy
+The Melody Pokémon
+The Melody Pokémon (1/11)
+The Melody Pokémon (10/11)
+The Melody Pokémon (11/11)
+The Melody Pokémon (2/11)
+The Melody Pokémon (3/11)
+The Melody Pokémon (4/11)
+The Melody Pokémon (5/11)
+The Melody Pokémon (6/11)
+The Melody Pokémon (7/11)
+The Melody Pokémon (8/11)
+The Melody Pokémon (9/11)
+The music was so boisterous that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Zigzagoon, and Gardevoir—your band is assembled and ready for a boisterous performance!
+The music was so cheerful that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Ponyta, and Gardevoir—your band is assembled and ready for a cheerful performance!
+The music was so stylish that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Ponyta, and Flygon—your band is assembled and ready for a stylish performance!
+The music was so emotional that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Excellent choice, %PLAYERNAME%!
+Gardevoir is a fascinating Pokémon. Did you know it can read the future? I bet it can tell we’re about to witness a performance for the ages!
+Gardevoir probably needs a few moments to do a sound check. Have to make sure those levels are all where they should be!
+Why don’t you let Blanche— Oh, no.
+Pikachu, Galarian Zigzagoon, and Gardevoir—your band is assembled and ready for an emotional performance!
+What an amazing performance, %PLAYERNAME%! The Pokémon you gathered for your band really know how to rock out!
+The music was so energetic that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+You should feel incredibly proud of what you’ve accomplished today, Trainer. Or should I say...Director? Haha!
+Now, get out there and enjoy the festivities! Until next time—let’s GO!
+Excellent choice, %PLAYERNAME%!
+Flygon has a distinct look, with red covers that shield its eyes from sand—but did you know that the flapping of its wings sounds almost like singing?
+I can’t wait to hear what sort of dynamic it brings to the band’s sound! 
+Flygon probably needs a few moments to get warmed up. Why don’t you let Blanche— Oh, no.
+Looks like Team GO Rocket is trying to disrupt the celebrations! Must they really try to ruin everything?
+Sorry to interrupt your preparations, Director, but it looks like we’ll be needing your battling skills today as well. Let’s power up and evolve some Pokémon to prepare!
+We can’t let some troublemakers spoil everyone’s hard work!
+Great job taking care of those Grunts, %PLAYERNAME%!
+Pikachu, Galarian Zigzagoon, and Flygon—your band is assembled and ready for an energetic performance!
+Candela has been working closely with the events team to make sure everything is perfect. The staging and decorations are going to blow you away!
+I believe all we need now is an audience.
+Why don’t you go spread the word about the show? It’s bound to appeal to people and Pokémon alike!
+Wow, this turnout is incredible, %PLAYERNAME%!
+You really have a knack for making friends—the crowd is full of people and Pokémon here to support you!
+In fact, I’ve been hearing reports of a Mythical Pokémon that’s been spotted nearby. I bet it wants to join the festivities, too!
+It’s known as the Melody Pokémon, and the melodies it sings have inspired many famous songs.
+That’s all I’ll share for now—I’m sure that Pokémon will introduce itself if it decides to swing by!
+All we can do now is sit back and enjoy the music.
+The music was so extravagant that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Ponyta, and Gardevoir—your band is assembled and ready for an extravagant performance!
+What an amazing performance, %PLAYERNAME%! The Pokémon you gathered for your band are true pop stars.
+The music was so lively that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Zigzagoon, and Flygon—your band is assembled and ready for a lively performance!
+Welcome to Pokémon GO Fest 2021, %PLAYERNAME%! Everyone seems pretty excited for this year’s event—Trainers and Pokémon alike!
+Isn’t it lovely that when we have a good time, our Pokémon do, too? The good vibes go round and round.
+Now that you’re here, I actually have an important job I need your help with. Pardon the short notice, but I think you’ll really enjoy it!
+What you see around you is the makings of a music festival. We’re still getting things set up, but that’ll speed up a bit now that the show’s director is here—that’s you!
+I’ve got some things to prep before you get started, so why not take your buddy out for a stroll and enjoy the festivities for a while? You might even make a few more Pokémon friends along the way.
+The theme of this year’s Pokémon GO Fest is music, so let’s try our best to put on a good show! The team leaders are hard at work setting up a top-class stage.
+With a director like you, I know we’re in for a performance we won’t soon forget.
+But for that, you’ll need a talented act! And with that in mind, there’s a certain Pikachu backstage that’s buzzing to meet you.
+It’s got makeup and wardrobe standing by to help tailor its look to match your vision for the festival. Do you think you’d rather put on a rock show or a pop show?
+Pikachu’s ready to dazzle either way, so it’s really up to you! For now, I’d suggest you go for a stroll and give your decision some thought. Maybe you could pick a genre that matches one of your favorite songs?
+Fabulous choice, %PLAYERNAME%! The glitter, the glam—Pikachu looks ready to electrify the crowd!
+There’s still lots of prep to take care of before the show, though.
+Blanche is overseeing rehearsal, so let’s leave Pikachu to help out.
+In the meantime, we need to find Pikachu some accompaniment.
+While concert prep continues, think about which Pokémon you’d like backing up Pikachu on stage. I can’t wait to see your vision come to life!
+Its cute presence is a great addition to Pikachu’s pop-star energy.
+But before all that, I’d say Pikachu and Galarian Ponyta are going to need one last member to fill out the band.
+Galarian Zigzagoon it is! A fierce choice. I’ll let the team leaders know so they can start getting everything in place for the show.
+Did you know that Galarian Zigzagoon tends to be incredibly restless? That kind of boundless energy is sure to bring an exciting edge to the show!
+A Pikachu onstage with a Galarian Zigzagoon sounds like a really fun show!
+Rockin’ choice, %PLAYERNAME%! You know, there was a time when I dreamed of being in a rock band myself—but that’s a story for another time.
+Now that you’ve chosen a theme for the show, Pikachu’s got a lot of prep to do before it takes the stage.
+Blanche is overseeing rehearsal, so let’s leave Pikachu to help out. In the meantime, we need to find Pikachu some accompaniment.
+I’ve already scouted a couple promising candidates: Galarian Ponyta and Galarian Zigzagoon. They’re both sporting festive headwear, so you really can’t go wrong!
+While concert prep continues, think about which Pokémon you’d like backing up Pikachu on stage. I can’t wait to see your vision come to life!
+Galarian Ponyta, eh? Wonderful choice, %PLAYERNAME%! I’ll let the team leaders know so they can start getting everything in place for the show.
+Galarian Ponyta is known to look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
+A calming presence like that is a great complement to Pikachu’s electric energy. Rock on!
+Spark is in charge of choreography, so we can turn our attention elsewhere for the time being.
+When your prancing Pokémon is ready, why not take a snapshot of it to commemorate the moment? So long as it doesn’t find any evil in your heart, that is. Haha!
+But before all that, I’d say Pikachu and Galarian Ponyta are going to need one last member to fill out the band.
+Galarian Zigzagoon it is! I’ll let the team leaders know so they can start getting everything in place for the show.
+Did you know that Galarian Zigzagoon tends to be incredibly restless? That kind of energy is sure to keep the atmosphere rockin’!
+I can’t wait to hear Pikachu and Galarian Zigzagoon bring the house down!
+Spark is in charge of choreography, so we can turn our attention elsewhere for the time being.
+When your zigzagging Pokémon is ready, why not take a snapshot of it to commemorate the moment? If you can get it to sit still, that is!
+But before all that, I’d say Pikachu and Galarian Zigzagoon are going to need one last member to fill out the band.
+Two Pokémon really wowed me during their auditions: Flygon and Gardevoir. Which do you prefer?
+The music was so spirited that Meloetta not only came to listen, but actually joined the performance! I’d call that a success.
+Pikachu, Galarian Ponyta, and Flygon—your band is assembled and ready for a spirited performance!
+GO Fest 2021: Raid Day
+GO Fest 2021: Raid Day (1/8)
+GO Fest 2021: Raid Day (2/8)
+GO Fest 2021: Raid Day (3/8)
+GO Fest 2021: Raid Day (4/8)
+GO Fest 2021: Raid Day (5/8)
+GO Fest 2021: Raid Day (6/8)
+GO Fest 2021: Raid Day (7/8)
+GO Fest 2021: Raid Day (8/8)
 GO Fest: Hatch an Egg
 GO Fest: Make a new friend
 Niantic Crew: Friend 3 new coworkers!
@@ -12496,7 +12674,7 @@ But I’m getting ahead of myself. Now is the time to focus on the friendship be
 After studying the bonds the team leaders and I have with our Buddy Pokémon, I hope you feel inspired to find a buddy you can grow with as well.
 I’ve no doubt you and your Buddy Pokémon will achieve some incredible things—and Meltan and I will be cheering you on!
 Thank again for your assistance. Until next time, let’s GO!
-Hey there, %PLAYERNAME%! Good to see you. Do have anything fun planned for today?
+Hey there, %PLAYERNAME%! Good to see you. Do you have anything fun planned for today?
 I’ll be attending a picnic with the team leaders, myself.
 I must say, though, I was having a pretty hard time deciding what I should bring. Candela’s in charge of sandwiches, Spark is handling refreshments, and Blanche is bringing shaved ice, so the bases are all pretty well covered.
 Walking always clears my head, so I took a stroll and ended up spotting a large group of Tepig near where I normally pick my go-to snack, Pinap Berries.
@@ -15378,6 +15556,25 @@ Featured Pokémon in Timed Research
 Meowth featured in Timed Research
 Nidoran♀ and Nidoran♂ featured in Timed Research
 Snubbull featured in Timed Research
+Switch out Pokémon during battle for more charge moves.
+Throwing a Curveball increases the chance of catching the Pokémon. 
+Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
+Quickly discard all items from your inventory by tapping on the (-) button once. 
+Evolving knocked out Pokémon returns them to full health.
+Maximize the XP you earn when leveling up your Friendship Level with a Lucky Egg.
+Feeding a Golden Razz to your Pokémon in a gym will fully heal your Pokémon.
+For difficult Raids, it is more likely for players to gather at the moment the Raid Egg hatches.
+Prepare a Battle Party in advance to best battle with different Raid Bosses.
+Create Tags
+Evolve
+Gym Attacker
+Gym Defender
+Trades
+As your Pokémon collection grows, you can now use tags to categorize and easily access your Pokémon based on characteristics you are most interested in.
+You can use tags in many ways. Here are some examples.
+Tagging
+Tag Ideas
+Stay Aware of Your Surroundings 
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
 Scan cancelled
 Be respectful of others while scanning.Remember to stay safe and be aware of your surroundings.
@@ -15672,6 +15869,7 @@ This device, OS, or software is not compatible with Pokémon GO.<a href="unautho
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center</a> for more information.
 If you remove this friend in this game, you’ll remove them as a friend in all Niantic games you both play.
 Are you sure you want to unfriend {0}?
+Unlimited
 <size=36><b>Unlink this account?</b></size>You won’t be able to sign in with this method.
 Unable to unlink from this account.
 <size=36><b>Can't unlink this account!</b></size>This account is linked to your active game session.
@@ -15853,6 +16051,11 @@ Water Festival: Hatch {0} Eggs
 Water Festival: Win {0} raids
 Water Festival: Defeat a Team GO Rocket Grunt
 Water Festival: Take {0} snapshots of Water-type Pokémon
+Congratulations on reaching eligibility! Complete your Wayfarer onboarding to unlock PokéStop nomination and editing features.
+GO TO WAYFARER
+MAYBE LATER
+You're Eligible for Wayfarer!
+Unlock by onboarding to Wayfarer!
 I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!

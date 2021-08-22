@@ -4,19 +4,48 @@ https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=fr
 GO Fest 2021 吉他袋
 皮卡丘紋身貼紙
 精靈球紋身貼紙
+尖釘鎮競技服 手套
+競技服 手套
+拳關市競技服 手套
+尖釘鎮競技服 內搭褲
+競技服 短褲
+拳關市競技服 短褲
 GO Fest 2021 T恤
 美洛耶塔 T恤
 POKÉMON SHIRTS 咕妞妞
 POKÉMON SHIRTS 吼爆彈
 POKÉMON SHIRTS 爆音怪
+尖釘鎮競技服 上衣
+競技服 上衣
+拳關市競技服 上衣
+尖釘鎮競技服 運動鞋
+競技服 運動鞋
+拳關市競技服 運動鞋
+競技服 長襪
+拳關市競技服 長襪
 GO Fest 2021 吉他袋
 皮卡丘紋身貼紙
 精靈球紋身貼紙
+尖釘鎮競技服 手套
+競技服 手套
+拳關市競技服 手套
+尖釘鎮競技服 內搭褲
+競技服 短褲
+拳關市競技服 短褲
 GO Fest 2021 T恤
 美洛耶塔 T恤
 POKÉMON SHIRTS 咕妞妞
 POKÉMON SHIRTS 吼爆彈
 POKÉMON SHIRTS 爆音怪
+尖釘鎮競技服 上衣
+競技服 上衣
+拳關市競技服 上衣
+尖釘鎮競技服 運動鞋
+競技服 運動鞋
+拳關市競技服 運動鞋
+競技服 長襪
+拳關市競技服 長襪
+Pokémon GO Tour：關都地區
 全球，2021年7月17日・18日
 Pokémon GO Fest
 捕獲寶可夢時的星星沙子 +200
@@ -58,9 +87,13 @@ Pokémon GO Fest
 蛇紋熊
 你的選擇將會影響接下來的研究走向，請謹慎選擇。
 做出你的選擇
+Hi, Trainer! There seems to be an issue with your nickname. Please choose a new one.
 社群日：伊布
 社群日：暖暖豬
 否
+Unable to retrieve more suggestions. Please try again.
+This name is no longer available.
+無法使用
 你要讓正港好夥伴 {0} 進化嗎？
 這隻寶可夢可能會超過部分聯盟的參賽CP限制
 這隻寶可夢將超過部分聯盟的參賽CP限制
@@ -193,13 +226,13 @@ Solo Form
 Complete Forme
 50% Forme
 10% Forme
-4× Stardust rewards in the GO Battle League
-一張可以獲得七月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年7月3日11:00～17:00時領取七月社群日特殊調查「火烤樹果」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
+在GO對戰聯盟獲勝時的星星沙子增為4倍
+一張可以獲得八月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年8月14～15日11:00～17:00時領取八月社群日特殊調查「 你的選擇」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 一張可以獲得八月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年8月14～15日11:00～17:00時領取八月社群日特殊調查「 你的選擇」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 「你的選擇」入場券
 一張可以獲得七月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年7月3日11:00～17:00時領取七月社群日特殊調查「火烤樹果」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 火烤樹果入場券
-火烤樹果入場券
+「你的選擇」入場券
 XXL
 XXS
 旋轉寶可夢轉盤時一定可以獲得禮物
@@ -235,18 +268,18 @@ GO Fest 2021：海洋/沙灘
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 步行時薰香的效果將會增強
-只要擁有這張入場券，不論你身在何處，都能在當地時間7月3日11:00～17:00獲得特殊調查的課題。
-入場券將會自動啟用，不論你在何處都能在當地時間2021年7月3日活動時間內領取特殊調查。
+只要擁有這張入場券，不論你身在何處，都能在當地時間8月14~15日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年8月14 ~15日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間8月14~15日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2021年8月14 ~15日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間7月3日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2021年7月3日活動時間內領取特殊調查。
 收集神秘零件，拼湊成火箭隊雷達！用它來找出GO火箭隊藏身之處吧！
-Little Jungle Cup
+叢林小小盃
 流行姿勢
 搖滾姿勢
-Master Premier Classic
-Built at 2021-08-04T22:14:58.120195at SHA 1d0ea0806101a1480d64a48a2f1234caa064d3fdPatch from: 0.215.0-SHA-0abb5206
+ML紀念經典賽
+Built at 2021-08-13T16:56:06.199737at SHA cacdd4a10f911bc1ff680170cb7630ce56907e8cPatch from: 0.215.1-SHA-5faae38f, 0.215.1-SHA-07ef195b, 0.217.0-SHA-c6d9d393
 伊布將在GO Snapshot中驚喜現身5次
 暖暖豬將在GO Snapshot中驚喜現身5次
 追加
@@ -255,7 +288,7 @@ Built at 2021-08-04T22:14:58.120195at SHA 1d0ea0806101a1480d64a48a2f1234caa064d3
 場所類別
 已選擇類別
 返回
-寶可補給站類別
+Wayspot類別
 OK
 輸入複數類別時請以逗號隔開
 類別提案（選填）
@@ -511,45 +544,45 @@ GO Fest 2021：團體戰日 (6/8)
 GO Fest 2021：團體戰日 (7/8)
 GO Fest 2021：團體戰日 (8/8)
 %PLAYERNAME%，你好嗎？
-Not sure if you’ve noticed, but there seems to be a huge influx of Eevee, the Evolution Pokémon!
-Some theorize that the key to the mysteries of Pokémon Evolution lies within Eevee’s genetics.
-I can understand that hypothesis—after all, Eevee can evolve into EIGHT Pokémon!
-I sure wish I were as adaptable as Eevee!
-I don’t even have eight different outfits. I basically wear this lab coat all the time—even to formal events!
-Anyway, perhaps by researching Eevee, we’ll unravel even more mysteries of Pokémon Evolution!
-I can’t wait to get started! Let’s GO learn about Eevee!
-Great work with your research on Eevee, %PLAYERNAME%!
-According to my findings, Eevee’s irregular DNA gives it the ability to evolve into many different Pokémon.
-For example, it has three Evolutions originally discovered in the Kanto region: the Water-type Vaporeon, the Electric-type Jolteon, and the Fire-type Flareon.
-Isn’t it fascinating that Eevee can evolve into Pokémon of such different types?
-As you work on your Eevee research, perhaps you might learn more about these Pokémon. Good luck!
-Great work, %PLAYERNAME%! I see you’ve gotten a Vaporeon, a Jolteon, and a Flareon!
-These incredible creatures are capable of some impressive feats.
-Did you know that Vaporeon can melt away into water?
-Or that Jolteon can blast out 10,000-volt lightning bolts?
-And that Flareon breathes fire that is over 3,000 degrees Fahrenheit?
-Isn’t it amazing that all three of these Pokémon evolve from Eevee?
-Perhaps there’s something besides genetics that gives Eevee so much potential.
-Let’s do some more research to learn more about Eevee. At certain times of the day, this Pokémon can evolve into Pokémon originally discovered in the Johto region: the Psychic-type Espeon and the Dark-type Umbreon.
-If you keep up your research, you might find them as well!
-Great work, %PLAYERNAME%! Looks like you’ve gotten yourself an Espeon and an Umbreon!
-The Psychic-type Espeon can use the fine hair on its body to sense air currents and predict its enemies’ next move. It usually evolves from Eevee during the daytime.
-As for the Dark-type Umbreon, it evolves from Eevee during the nighttime. It’s said that Umbreon’s rings glow yellow under the full moon.
-Who would’ve thought that something like the time of day could affect Pokémon Evolution!
-It’s wonderful to delve even deeper into the mysteries of Pokémon.
-Let’s keep it up by researching Eevee’s Evolutions that were originally discovered in the Sinnoh region.
-The Grass-type Leafeon and Ice-type Glaceon seem to have evolved in order to adapt to their environment.
-Why don’t you research these Pokémon next?
-%PLAYERNAME%, welcome back!
-I see you’ve managed to get a Leafeon and a Glaceon! Congratulations!
-The vastly different environments in the Sinnoh region appear to have caused the adaptable Eevee to evolve into a Grass-type Pokémon and an Ice-type Pokémon. It’s inspiring to see how resilient this little Pokémon can be!
-We might not uncover all the secrets of Pokémon Evolution today, but I think we can learn a lot about ourselves through Pokémon.
-Researching Eevee today has taught me there are so many paths in life to choose from.
-I hope that Eevee can inspire you to find the one that suits you best.
-But enough of this professor’s ramblings. Eevee is known to have just one more Evolution—the Fairy-type Sylveon, which was originally discovered in the Kalos region.
-This Pokémon has ribbonlike feelers that it uses to calm others. Sylveon evolves from Eevee when it reaches a certain level of friendship and trust with its beloved Trainer. Knowing that almost brings a tear to my eye!
-I hope you have the good fortune of crossing paths with a wonderful Pokémon like Sylveon sometime soon.
-Until then, let’s GO!
+你有看到進化寶可夢伊布大量出現嗎！？
+有些研究者認為解開寶可夢進化之謎的關鍵，就是伊布的基因。
+我覺得這是可以理解的，畢竟伊布牠能進化成8種形態！
+跟伊布比起來，
+我只有一套白袍，去哪裡都是這個打扮……
+欸別管我怎樣了，我們要好好觀察伊布，搞不好能從中找到寶可夢進化的祕密也說不定！
+現在就出門去做調查吧！
+%PLAYERNAME%，辛苦你了！
+接下來要調查的，是在關都地區找到的
+水屬性水伊布、電屬性雷伊布和火屬性火伊布。
+伊布居然能進化成這麼多種形，真是太驚人了！
+我也想跟你一起好好觀察觀察伊布呢！
+%PLAYERNAME%，做得好！看來你找到水伊布、雷伊布和火伊布了呢！
+牠們都是很了不得的寶可夢，
+你知道水伊布的身體細胞結構與水分子相似，所以牠能和水融為一體嗎？
+不然你知道雷伊布能吐出約10000伏特的高壓電嗎？
+還是你知道火伊布能將吸入的空氣轉化成攝式1700度的火焰嗎？
+而且牠們全都是從伊布進化而來的！
+也許除了基因之外，還有其他因素讓牠能進化成這麼多種形態？
+來自城都地區的超能力屬性太陽伊布和惡屬性月亮伊布只會在特定時間進化。
+希望你能在做調查的路上遇見牠們！
+%PLAYERNAME%，你真是太棒了！你找到太陽伊布和月亮伊布了！
+超能力屬性太陽伊布能透過感受空氣的流動，準確地預測出接下來的天氣和對手的行動。伊布通常會在白天進化成太陽伊布。
+到了晚上，伊布有機會進化成惡屬性月亮伊布。據說在滿月的夜裡，月亮伊布身上圈圈一樣的花紋會發出金黃色的光芒。
+居然會有寶可夢只能在特定時間進化成特定形態！
+寶可夢的世界真是博大精深，充滿了秘密！
+我們繼續去探索伊布的進化形態吧，接下來是神奧地區。
+草屬性葉伊布和冰屬性冰伊布來自神奧地區，據說牠們是為了適應特定的環境而進化。
+接下來就拜託你去調查牠們了。
+%PLAYERNAME%，歡迎回來！
+看來你已經找到葉伊布和冰伊布了呢！恭喜！
+神奧地區的環境讓適應能力極高的伊布進化成草屬性和冰屬性的寶可夢。這隻寶可夢的適應能力真是太強大了！
+也許我們今天無法解開寶可夢進化的秘密，但我們從牠身上學到了很多事情！
+從牠身上，我們能學到我們所做的每一個選擇都是很重要的。
+我希望你能從伊布身上學到如何做出最適合自己的選擇。
+不過我這個老傢伙的嘮叨就到此為止，接下來要請你去調查妖精屬性的仙子伊布。牠來自卡洛斯地區。
+這隻寶可夢會從蝴蝶結般的觸角裡釋放能夠消除敵意的波動，藉此平息紛爭。據說伊布和訓練家的友情和彼此之間的信賴超越某個等級時，牠就會進化成仙子伊布。這真是太感人了！
+我希望你很快就能見到仙子伊布！
+期待下次再見囉！
 嘿，%PLAYERNAME%。你來得正好！你今天有什麼計劃嗎？
 我打算跟隊長們去野餐。
 只是我實在不知道我該帶什麼東西去。坎迪拉要帶吃的、史帕克帶喝的，然後布蘭雪負責帶刨冰。
@@ -600,6 +633,15 @@ Until then, let’s GO!
 究極解鎖2021：空間 (3/5)
 究極解鎖2021：空間 (4/5)
 究極解鎖2021：空間 (5/5)
+究極解鎖2021：劍盾 (1/5)
+究極解鎖2021：劍盾 (2/5)
+究極解鎖2021：劍盾 (3/5)
+究極解鎖2021：劍盾 (4/5)
+究極解鎖2021：劍盾 (5/5)
+Use any Potion on a Pokémon
+Use a Hyper Potion on a Pokémon
+Use a Max Potion on a Pokémon
+Use a Super Potion on a Pokémon
 和夥伴在1場團體戰中獲勝
 更多伊布出現在地圖上
 更多暖暖豬出現在地圖上
@@ -625,13 +667,20 @@ Until then, let’s GO!
 標籤範例
 注意周遭環境
 每天旋轉道館轉盤最多可獲得兩張免費團體戰入場券
-Ultra Premier Classic
+UL紀念經典賽
 究極解鎖Part 2：空間
+究極解鎖Part 3：劍盾
 究極解鎖Part 1：時間
 無上限
 關於位置點數
-恭喜你獲得了參加Niantic Wayfarer的資格！Niantic Wayfarer這個功能將能讓你把世界各地的名勝景點加入寶可補給站的行列。趕快完成Wayfarer的訓練課程，解鎖申請新寶可補給站及編輯寶可補給站的功能吧！
-現在就去確認
+You can change your name only once.
+You can change your name later.
+Looks good!
+Looks good!You can change your name once.
+Looks good!You can change your name later.
+Available Nicknames
+恭喜你獲得了參加Niantic Wayfarer的資格！你可以透過Niantic Wayfarer提供世界各地名勝景點資訊，讓Niantic的遊戲更加有趣。趕快完成Wayfarer的訓練課程，解鎖申請新寶可補給站及編輯寶可補給站的功能吧！
+前往WAYFARER
 稍後再說
 現在可以參加Niantic Wayfarer囉！
 完成Wayfarer的訓練課程來解鎖吧！

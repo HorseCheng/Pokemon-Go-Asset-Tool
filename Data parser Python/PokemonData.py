@@ -26,7 +26,7 @@ typeeform = open("Coefficient/Type.txt", "r", encoding="UTF-8")
 weatherform = open("Coefficient/Weather.txt", "r", encoding="UTF-8")
 
 #Pokemon Go Home Pokemon
-forbiddenlist=["V0351_POKEMON_CASTFORM_HOME_FORM_REVERSION","V0487_POKEMON_GIRATINA_HOME_REVERSION","V0555_POKEMON_DARMANITAN_HOME_FORM_REVERSION","V0647_POKEMON_KELDEO_HOME_FORM_REVERSION","V0648_POKEMON_MELOETTA_HOME_FORM_REVERSION","V0649_POKEMON_GENESECT_HOME_FORM_REVERSION"]
+forbiddenlist=["V0351_POKEMON_CASTFORM_HOME_FORM_REVERSION","V0421_CHERRIM_HOME_FORM_REVERSION", "V0487_POKEMON_GIRATINA_HOME_REVERSION","V0555_POKEMON_DARMANITAN_HOME_FORM_REVERSION","V0647_POKEMON_KELDEO_HOME_FORM_REVERSION","V0648_POKEMON_MELOETTA_HOME_FORM_REVERSION","V0649_POKEMON_GENESECT_HOME_FORM_REVERSION"]
 
 
 #Preprocess
@@ -129,41 +129,46 @@ chimovedict["0343"] = "飛葉風暴"
 # Pokemon class
 class pokemon():
     def __init__(self, inn):
-     settings=inn["data"]["pokemon"]
-     self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
-     self.name = re.findall("POKEMON_(\S+)",inn['templateId'])[0]
-     self.chi = chinamedict[self.id]
-     self.eng = engnamedict[self.id]
-     self.type = self.typehandle(settings["type1"])
-     self.type2 = self.typehandle(settings.get("type2",""))
-     self.weather1= self.weatherhandle(self.type)
-     self.weather2= self.weatherhandle(self.type2, self.weather1)
-     self.capture = self.capturehandle(settings["encounter"].get("baseCaptureRate","")) 
-     self.flee = settings["encounter"].get("baseFleeRate","")
-     self.atk = settings["stats"].get("baseAttack",0)
-     self.deff= settings["stats"].get("baseDefense",0)
-     self.hp= settings["stats"].get("baseStamina",0)
-     self.height= settings.get("pokedexHeightM",0)
-     self.weight= settings.get("pokedexWeightKg",0)
-     self.candy= self.candyhandle(settings.get("evolutionBranch",""))
-     self.thirdstardust= settings["thirdMove"].get("stardustToUnlock","")
-     self.thirdcandy= settings["thirdMove"].get("candyToUnlock","")
+        settings=inn["data"]["pokemon"]
+        self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
+        self.name = re.findall("POKEMON_(\S+)",inn['templateId'])[0]
+        self.chi = chinamedict[self.id]
+        self.eng = engnamedict[self.id]
+        self.type = self.typehandle(settings["type1"])
+        self.type2 = self.typehandle(settings.get("type2",""))
+        self.weather1= self.weatherhandle(self.type)
+        self.weather2= self.weatherhandle(self.type2, self.weather1)
+        self.capture = self.capturehandle(settings["encounter"].get("baseCaptureRate","")) 
+        self.flee = settings["encounter"].get("baseFleeRate","")
+        self.atk = settings["stats"].get("baseAttack",0)
+        self.deff= settings["stats"].get("baseDefense",0)
+        self.hp= settings["stats"].get("baseStamina",0)
+        self.height= settings.get("pokedexHeightM",0)
+        self.weight= settings.get("pokedexWeightKg",0)
+        self.candy= self.candyhandle(settings.get("evolutionBranch",""))
+        self.thirdstardust= settings["thirdMove"].get("stardustToUnlock","")
+        self.thirdcandy= settings["thirdMove"].get("candyToUnlock","")
 
-     self.shadowstardust=self.shadowhandle(settings, "shadowstardust")
-     self.shadowcandy=self.shadowhandle(settings, "shadowcandy")
+        self.shadowstardust=self.shadowhandle(settings, "shadowstardust")
+        self.shadowcandy=self.shadowhandle(settings, "shadowcandy")
 
-     self.buddy= settings["kmBuddyDistance"]
-     self.camdist= round(settings["encounter"].get("cameraDistance",0), 3)
-     self.camrad= round(settings["encounter"]["collisionRadiusM"], 3)
-     self.camheight= round(settings["encounter"]["collisionHeightM"], 3)
-     self.ratio=""
-     self.desccat=self.descripthandle("cat")
-     self.descintro=self.descripthandle("intro")
-     self.quick=settings.get("quickMoves")
-     self.charged=settings.get("cinematicMoves")
+        self.buddy = settings["kmBuddyDistance"]
+        self.camdist = round(settings["encounter"].get("cameraDistance",0), 3)
+        self.camrad = ""
+        self.camheight = "" 
+        try: 
+            self.camrad = round(settings["encounter"]["collisionRadiusM"], 3)
+            self.camheight = round(settings["encounter"]["collisionHeightM"], 3)
+        except: 
+            pass
+        self.ratio=""
+        self.desccat=self.descripthandle("cat")
+        self.descintro=self.descripthandle("intro")
+        self.quick=settings.get("quickMoves")
+        self.charged=settings.get("cinematicMoves")
 
-     self.mega= self.megahandle(settings, 1)
-     self.mega2= self.megahandle(settings, 2)
+        self.mega= self.megahandle(settings, 1)
+        self.mega2= self.megahandle(settings, 2)
      
     def typehandle(self, inn):
         if(inn==""): return ""
@@ -218,7 +223,7 @@ class pokemon():
         else: self.ratio=inn["malePercent"]
 
     def shadowhandle(self, settings, inn):
-        if "SHADOW" in self.name:
+        if self.name[-6:]=="SHADOW":
             if inn=="shadowstardust":
                 return settings["shadow"].get("purificationStardustNeeded", "-")
             else:
@@ -369,8 +374,8 @@ for i in pokelist:
             for z in movelist:
                 if z.name==char:
                     i.quick[value]=z.chi
-    if i.quick != None:
-        for value,char in enumerate(i.charged):
+    if i.charged != None:
+        for value, char in enumerate(i.charged):
             for z in movelist:
                 if z.name==char:
                     i.charged[value]=z.chi  
@@ -378,10 +383,10 @@ for i in pokelist:
 # Output file
 origin=pd.DataFrame([i.__dict__ for i in pokelist])
 
-main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|SHADOW|PURIFIED') ].reset_index(drop=True)
+main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|URSHIFU$|SHADOW$|PURIFIED$') ].reset_index(drop=True)
 main=main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
-#Rearange for DEERLING AUTUMN
+# Rearange for DEERLING AUTUMN
 main=rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
 main=rearrange(main, 'SAWSBUCK_AUTUMN', 'SAWSBUCK_SUMMER' )
 

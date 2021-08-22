@@ -10,6 +10,7 @@ Pokémon GO Tour：關都地區
 使出招式時記得要選擇能剋住對手的屬性！
 使出招式時記得要選擇能剋住對手的屬性！
 從聯絡人一覽表中追加朋友
+你認識的人開始玩Pokémon GO囉！傳送朋友申請給他吧！
 https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
 你可以選擇要向誰傳送朋友申請
 讓Pokémon GO定期上傳你的聯絡人一覽表，就能輕鬆邀請朋友一起玩遊戲。你隨時都可以從「設定」關閉此功能。
@@ -316,6 +317,7 @@ GO火箭隊即將統治這整個世界。你就認命吧，我或許還能賞你
 蓋諾賽克特背包
 耿鬼背包
 The North Face x Gucci 背包
+GO Fest 2021 吉他袋
 城都包包
 Longchamp 背包
 謎擬Ｑ背包
@@ -341,6 +343,8 @@ GO Snapshot 相機
 水屬性口罩
 詛咒娃娃口罩
 口罩
+皮卡丘紋身貼紙
+精靈球紋身貼紙
 皮卡丘口罩
 勾魂眼口罩
 Verizon口罩
@@ -510,6 +514,7 @@ HF設計師聯名款T恤
 阪木西裝
 GO FEST 2019 T恤
 GO FEST 2020 T恤
+GO Fest 2021 T恤
 亞洛組合
 克里夫組合
 希爾拉組合
@@ -537,6 +542,7 @@ Ingress Prime / Blue
 超級長耳兔吊帶褲
 美錄梅塔 羽絨外套
 美錄梅塔 羽絨背心
+美洛耶塔 T恤
 美錄坦長袖上衣
 夢幻T恤
 超夢款背心
@@ -553,6 +559,9 @@ Pokémon Shirt - 卡比獸
 妙蛙種子帽T
 小火龍帽T
 傑尼龜帽T
+POKÉMON SHIRTS 咕妞妞
+POKÉMON SHIRTS 吼爆彈
+POKÉMON SHIRTS 爆音怪
 Pokémon Shirts 芭瓢蟲
 Pokémon Shirts 毽子花
 Pokémon Shirts 未知圖騰
@@ -683,6 +692,7 @@ GO Tour棒球帽
 蓋諾賽克特背包
 耿鬼背包
 The North Face x Gucci 背包
+GO Fest 2021 吉他袋
 城都郵差包
 Longchamp 背包
 謎擬Ｑ背包
@@ -702,6 +712,8 @@ GO Snapshot 相機
 水屬性口罩
 詛咒娃娃口罩
 口罩
+皮卡丘紋身貼紙
+精靈球紋身貼紙
 皮卡丘口罩
 勾魂眼口罩
 Verizon口罩
@@ -871,6 +883,7 @@ HF設計師聯名款T恤
 阪木西裝
 GO FEST 2019 T恤
 GO FEST 2020 T恤
+GO Fest 2021 T恤
 亞洛組合
 克里夫組合
 希爾拉組合
@@ -901,6 +914,7 @@ Ingress Prime / Blue
 超級長耳兔吊帶褲
 美錄梅塔 羽絨外套
 美錄梅塔 羽絨背心
+美洛耶塔 T恤
 美錄坦長袖上衣
 夢幻T恤
 超夢款上衣
@@ -916,6 +930,9 @@ Pokémon Shirt - 卡比獸
 妙蛙種子帽T
 小火龍帽T
 傑尼龜帽T
+POKÉMON SHIRTS 咕妞妞
+POKÉMON SHIRTS 吼爆彈
+POKÉMON SHIRTS 爆音怪
 Pokémon Shirts 芭瓢蟲
 Pokémon Shirts 毽子花
 Pokémon Shirts 未知圖騰
@@ -1231,8 +1248,8 @@ Pokémon GO Fest
 全球，2020年7月25日・26日
 Pokémon GO Fest
 全球，2021年7月17日・18日
-全球，2021年7月17日・18日
 Pokémon GO Fest
+全球，2021年7月17日・18日
 Pokémon GO Fest
 全球 2021年2月20日
 Pokémon GO Tour：關都地區
@@ -2359,24 +2376,24 @@ https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 等早上再看看吧。我想他們短暫時間內是不會現身的。
 加成里程碑獎勵
 捕獲寶可夢時的XP +100
-+200 Catch Stardust
-+200 Catch XP
-+200 XP for spinning PokéStops
-+300 Catch Stardust
-+300 Catch XP
-+300 XP for spinning PokéStops
-+3 Catch Candy
-3× XP for Nice, Great, Excellent, and Curveball Throws
-+400 Catch Stardust
-+400 Catch XP
-+4 Catch Candy
-4× XP for Nice, Great, Excellent, and Curveball Throws
-500 Catch Stardust
-500 XP for spinning PokéStops
-+5 Catch Candy
-5× XP for Nice, Great, Excellent, and Curveball Throws
-1/2 Hatch Distance
-1/4 Hatch Distance
+捕獲寶可夢時的星星沙子 +200
+捕獲寶可夢時的XP +200
+旋轉寶可補給站轉盤可獲得的XP +200
+捕獲寶可夢時的星星沙子 +300
+捕獲寶可夢時的XP +300
+旋轉寶可補給站轉盤可獲得的XP +300
+捕獲寶可夢時的糖果 +3
+投出Nice、Great、Excellent和曲球時的XP增為3倍
+捕獲寶可夢時的星星沙子 +400
+捕獲寶可夢時的XP +400
+捕獲寶可夢時的糖果 +4
+投出Nice、Great、Excellent和曲球時的XP增為4倍
+捕獲寶可夢時可獲得500星星沙子
+旋轉寶可補給站轉盤可獲得500XP
+捕獲寶可夢時的糖果 +5
+投出Nice、Great、Excellent和曲球時的XP增為5倍
+孵蛋所需的行走距離減為1/2
+孵蛋所需的行走距離減為1/4
 超級暴雪王變得更加強大！
 超級大針蜂變得更加強大！
 超級水箭龜變得更加強大！
@@ -2398,15 +2415,33 @@ LOADING...
 選擇大牙狸！
 選擇這隻大牙狸後，你將能遇見大牙狸。噢對了，還能遇見圓鼠寶可夢。
 就是要選擇圓鼠寶可夢！
-大牙狸...?
+要選大牙狸…？
 選擇這隻大牙狸後，你除了能遇見許多大牙狸，還能體驗到遇見大牙狸的喜悅。
 選擇神經很大條的傢伙！
 大條神經
 選擇這隻大牙狸後，你將會成為專門吸引大牙狸的誘餌模組。
 選擇在水邊築巢生活的寶可夢！
 水邊築巢
-Choose wisely! You can select only one path below, and you’ll remain on that path until the end of the research.
-Choose a Path
+讓沙漠蜻蜓加入，你就能遇見戴著帽子的特別沙漠蜻蜓！
+選擇沙漠蜻蜓！
+沙漠蜻蜓
+讓沙奈朵加入，你就能遇見戴著帽子的特別沙奈朵！
+選擇沙奈朵！
+沙奈朵
+讓伽勒爾小火馬加入你的band，就能遇見戴著帽子的特別伽勒爾小火馬！
+選擇伽勒爾小火馬！
+小火馬
+偶像皮卡丘將參加Pokémon GO Fest 2021，遇到牠的時候可以聽見流行音樂喔！
+選擇偶像皮卡丘！
+偶像皮卡丘
+硬搖滾皮卡丘將參加Pokémon GO Fest 2021，遇到牠的時候可以聽見搖滾樂喔！
+選擇硬搖滾皮卡丘！
+硬搖滾皮卡丘
+讓伽勒爾蛇紋熊加入你的band，就能遇見戴著帽子的特別伽勒爾蛇紋熊！
+選擇伽勒爾蛇紋熊！
+蛇紋熊
+你的選擇將會影響接下來的研究走向，請謹慎選擇。
+做出你的選擇
 做出你的選擇
 特定的特殊調查中將會要求你做出決定研究走向的選擇。你的選擇將會影響課題及獎勵的內容，請謹慎選擇。
 完成突破性進展，獲得遠距團體戰入場券
@@ -3386,7 +3421,7 @@ GO火箭隊幹部
 社群日：橡實果
 社群日：藤藤蛇
 社群日：青綿鳥
-Community Day: Tepig
+社群日：暖暖豬
 社群日：獨角蟲
 完成1個AR Mapping課題
 請開啟Pokémon HOME，完成上次的傳送
@@ -3792,10 +3827,13 @@ GO Tour挑戰者
 進化週：在與GO火箭隊幹部的對戰中獲勝 {0} 次
 進化活動
 對寶可夢用用看這個道具吧！
+Do you want to evolve your Best Buddy {0}?
 進化方法
 確定要使用糖果來讓 {0} 進化嗎？
 如果不進行交換，則需要使用 {1} 顆糖果才能讓 {0} 進化。
 進化寶可夢時的XP加倍
+This Pokémon might exceed the CP limit for some Battle Leagues.
+This Pokémon will exceed the CP limit for some Battle Leagues
 你還沒有任何 {0} ！
 邀請一位朋友參加VIP團體戰
 原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
@@ -3835,6 +3873,8 @@ N的姿勢
 魔牆人偶的姿勢
 小菊兒
 可爾妮的姿勢
+流行姿勢
+搖滾姿勢
 閒著
 究極之月 包包
 等級41 太陽眼鏡
@@ -4196,7 +4236,7 @@ GDC 2019: Catch {0} Pokemon
 雄性
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年12月19日10:00～2020年12月20日20:00參加遊戲裡的「踢、踢、踢踏踢……」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 伽勒爾魔牆人偶活動入場券
-A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+一張可以獲得七月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年7月3日11:00～17:00時領取七月社群日特殊調查「火烤樹果」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 一張可以獲得三月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年3月6日11:00～17:00時領取三月社群日特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 「最勇敢的小鳥」入場券
@@ -4210,9 +4250,9 @@ A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11
 「藤藤蛇的日光浴」入場券
 一張可以獲得五月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年5月15日11:00～17:00時領取五月社群日特殊調查「綿翼小鳥」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 「綿翼小鳥」入場券
-A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
-Roasted Berries Ticket
-Roasted Berries Ticket
+一張可以獲得七月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年7月3日11:00～17:00時領取七月社群日特殊調查「火烤樹果」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
+火烤樹果入場券
+火烤樹果入場券
 「燃燒吧！鴨嘴火獸！」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年7月25日、26日的10:00～20:00參加遊戲裡的Pokémon GO Fest。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 Pokémon GO Fest 2020
@@ -4438,34 +4478,34 @@ GO Fest 2020: 旗開得勝！ (5/6)
 GO Fest 2020: 旗開得勝！ (6/6)
 為比克提尼拍攝1張GO Snapshot照片
 GO Fest 2021
-Pokémon GO Fest 2021 Day 1: Catch!
-Pokémon GO Fest 2021 Day 2: Raid!
-Now: Cave habitat!
-Now: Desert Mountain habitat!
-Now live: Frost Hour!
-Now: Jungle habitat!
-Now live: Lava Hour!
-Now: Ocean Beach habitat!
-Now live: Thunder Hour!
-Now live: Wind Hour!
-Take a snapshot of Meloetta
-Welcome to Pokémon GO Fest 2021!
-GO Fest 2021: Boisterous
-GO Fest 2021: Cheerful
-GO Fest 2021: Stylish
-GO Fest 2021: Emotional
-GO Fest 2021: Energetic
-GO Fest 2021: Extravagant
-GO Fest 2021: Lively
-GO Fest 2021: Spirited
-GO Fest 2021: Cave Habitat
-Catch Pokémon during the Cave habitat hour!
-GO Fest 2021: Desert Mountain Habitat
-Catch Pokémon during the Desert Mountain habitat hour!
-GO Fest 2021: Jungle Habitat
-Catch Pokémon during the Jungle habitat hour!
-GO Fest 2021: Ocean Beach Habitat
-Catch Pokémon during the Ocean Beach habitat hour!
+Pokémon GO Fest 2021 Day 1：捕捉寶可夢！
+Pokémon GO Fest 2021 Day 1: 團體戰！
+目前環境：洞窟！
+目前環境：沙漠/群山！
+目前團體戰：冰霜時刻！
+目前環境：叢林！
+目前團體戰：熔岩時刻！
+目前環境：海洋/沙灘！
+目前團體戰：雷鳴時刻！
+目前團體戰：風起時刻！
+為美洛耶塔拍攝1張照片
+歡迎加入Pokémon GO Fest 2021！
+GO Fest 2021：歡騰喧鬧
+GO Fest 2021：歡天喜地
+GO Fest 2021：時尚尖端
+GO Fest 2021：情感起伏
+GO Fest 2021：元氣十足
+GO Fest 2021：高貴奢華
+GO Fest 2021：精力充沛
+GO Fest 2021：生氣蓬勃
+GO Fest 2021：洞窟
+在洞窟時間內捕捉寶可夢!
+GO Fest 2021：沙漠/群山
+在沙漠/群山時間內捕捉寶可夢!
+GO Fest 2021：叢林
+在叢林時間內捕捉寶可夢!
+GO Fest 2021：海洋/沙灘
+在海洋/沙灘時間內捕捉寶可夢!
 我們已經成功占領了這場活動，但你還是想跟我打嗎？小心你輸得一敗塗地！
 這場活動現在是GO火箭隊的了，你再怎麼掙扎抵抗都是沒有用的GO火箭隊
 我就速速把你打敗，速速回去跟大家慶祝這場勝利吧。
@@ -5195,10 +5235,10 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 墨莓果
 又硬又堅固的鱗片，可讓特定寶可夢進化。
 龍之麟片
-A ticket to access Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+只要擁有這張入場券，不論你身在何處，都能在當地時間7月3日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
-This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
+入場券將會自動啟用，不論你在何處都能在當地時間2021年7月3日活動時間內領取特殊調查。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間3月6日11:00～17:00獲得特殊調查的課題。
@@ -5212,8 +5252,8 @@ This ticket will automatically activate to give you access to Special Research o
 入場券將會自動啟用，不論你在何處都能在當地時間2021年4月11日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間5月15日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2021年5月15日活動時間內領取特殊調查。
-A ticket to access Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
+只要擁有這張入場券，不論你身在何處，都能在當地時間7月3日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年7月3日活動時間內領取特殊調查。
 參加團體戰所需的入場券。如果你手上沒有入場券，你每天都可以在道館獲得一張免費的入場券。
 團體戰入場券
 只有收到的人才能打開的禮物。裡面裝滿了許多方便的道具。
@@ -6227,6 +6267,8 @@ N的姿勢
 魔牆人偶的姿勢
 小菊兒
 可爾妮的姿勢
+流行姿勢
+搖滾姿勢
 閒著
 究極之日 包包
 慢跑者墨鏡
@@ -6342,7 +6384,7 @@ CP {0} → <color=#2ECDA8>{1}</color>
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2021-07-30T04:47:08.706910at SHA 07ef195b02dac5e03d0d6b4857b93fb50da9a30cPipeline 684800, job 6529275
+Built at 2021-08-17T09:59:29.720636at SHA 43eee1aef96e957ed0bd4ffa213fe068be8e4dadPipeline 697933, job 6700206
 里程碑獎勵
 春季活動：2021收藏家挑戰
 友誼日收藏家挑戰
@@ -6924,7 +6966,7 @@ Pokémon GO Plus 的配對已被解除
 橡實果將在GO Snapshot中驚喜現身5次
 藤藤蛇將在GO Snapshot中驚喜現身5次
 青綿鳥將在GO Snapshot中驚喜現身5次
-5 surprise encounters with Tepig in GO Snapshot
+暖暖豬將在GO Snapshot中驚喜現身5次
 獨角蟲將在GO Snapshot中驚喜現身5次
 GO Snapshot驚喜邂逅
 歡迎加入叡智隊！
@@ -6954,6 +6996,22 @@ Pokémon GO STADIUM
 寶芬效果持續時間加倍
 寶芬
 瞭解詳情
+Add Another
+ADD LOCATION CATEGORY
+Please categorize this location
+Categorize this location
+Category is already selected
+BACK
+PokéStop Category
+OK
+Enter comma separated suggestions here
+Category suggestion (optional)
+{0} doesn't exist in our category list
+Select or type here
+Selected
+Selected (up to three)
+SUBMIT
+Thank you for your contribution!
 明天可投稿 {0} 次掃描
 今天可投稿 {0} 次掃描
 已達到每天可投稿的掃描上限（{0} 次）
@@ -7070,6 +7128,7 @@ OK
 此裝置沒有照相機
 依所有人要求刪除
 依用戶要求刪除
+ 
 新寶可補給站
 玩家推薦
 教學
@@ -9059,7 +9118,8 @@ Sad that its true identity may be exposed, Mimikyu will mercilessly seek revenge
 體內細胞在進化的瞬間 產生了不穩定的變化， 形成了芳香的風味。
 體內細胞在進化的瞬間 產生了不穩定的變化， 形成了清爽的風味。
 體內細胞在進化的瞬間 產生了不穩定的變化， 形成了複雜的風味。
-The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution.
+體內細胞在進化的瞬間 產生了不穩定的變化，形成了酸甜的風味。
+體內細胞在進化的瞬間 產生了不穩定的變化， 形成了繽紛的風味。
 體內細胞在進化的瞬間 產生了不穩定的變化， 形成了鹹鹹的風味。
 牠會把自己用鮮奶油 裝飾過的樹果送給 自己信任的訓練家。
 列陣兵由１個頭頭 和５個跟班組成。 頭頭的命令不可違抗。
@@ -9210,6 +9270,7 @@ Couldn’t evolve {0} due to an unknown error.
 地點
 地點不明
 你要讓 {0} 進行超級進化嗎？
+Do you really want to Mega Evolve {0}?
 {0} 將無法繼續超級進化
 一次只能有1隻寶可夢進行超級進化。
 超級進化將持續 {0} 小時
@@ -10586,7 +10647,7 @@ Let’s GO！美錄坦
 令人毛骨悚然的訊息 2019
 橡實寶可夢的小秘密
 綿翼小鳥
-Roasted Berries
+火烤樹果
 毛毛時刻
 每日獎勵
 打敗武藏或小次郎 {0} 次
@@ -11124,9 +11185,126 @@ Roasted Berries
 捕捉 {0} 隻圓陸鯊
 讓 {0} 隻圓陸鯊進化
 讓 {0} 隻尖牙陸鯊進化
+神秘的圓環
+神秘的圓環 (1/2)
+神秘的圓環 (2/2)
+啊，%PLAYERNAME%，你來得正好！
+我剛出門的時候，看見天空上出現了好幾個神秘的圓環。
+沒想到才一轉眼就看到傳說的寶可夢從中現身！
+我趕忙回到實驗室、瘋狂尋找文獻，但卻沒能找到任何能說明那個現象的資料。
+我會繼續找文獻，在此同時，可以請你去外面幫我做一些調查嗎？
+我們得趕快找出到底發生了什麼事！
+謝謝你幫我收集數據，我會把它傳給布蘭雪分析。是說天空上的圓環還沒消失呢……
+不過幸好我有找到一些資料……看來那些圓環跟幻之寶可夢胡帕有關！
+頑童寶可夢胡帕會用可以扭曲空間的圓環將各種東西扔到遠處。
+這也就說明了傳說的寶可夢為什麼會從圓環中出現，畢竟胡帕自己也會鑽進圓環裡瞬間移動。
+隊長們跟我回報說牠們還沒有看見胡帕……
+也許胡帕是個頑童，但能扭曲空間的圓環聽起來真的超厲害！%PLAYERNAME%，你說是吧？
+這就是寶可夢研究迷人的地方。從我立志要成為寶可夢學者的那一天開始，我的好奇心從來沒有停下來過！
+今天要請你和其他訓練家努力參加團體戰，磨鍊對戰技巧。畢竟要是胡帕出現了，牠可能會是一個非常棘手的對手啊！
 GO Fest：捕捉 {0} 隻寶可夢
 GO Fest：拜訪 {0} 個寶可補給站
 GO Fest：和夥伴一起走路，獲得1顆糖果
+旋律寶可夢之旅
+旋律寶可夢之旅 (1/11)
+旋律寶可夢之旅 (10/11)
+旋律寶可夢之旅 (11/11)
+旋律寶可夢之旅 (2/11)
+旋律寶可夢之旅 (3/11)
+旋律寶可夢之旅 (4/11)
+旋律寶可夢之旅 (5/11)
+旋律寶可夢之旅 (6/11)
+旋律寶可夢之旅 (7/11)
+旋律寶可夢之旅 (8/11)
+旋律寶可夢之旅 (9/11)
+沒想到美洛耶塔居然會因為你們這鬧的演奏而出現！這真是太成功了！
+皮卡丘、伽勒爾蛇紋熊和沙奈朵組成的這支團想必會很吵鬧吧！
+沒想到美洛耶塔居然會因為你們這歡樂的演奏而出現！這真是太成功了！
+皮卡丘、伽勒爾小火馬和沙奈朵組成的這支團真是歡樂啊！
+沒想到美洛耶塔居然會因為你們這時尚的演奏而出現！這真是太成功了！
+皮卡丘、伽勒爾小火馬和沙漠蜻蜓組成的這支團真是時尚啊！
+沒想到美洛耶塔居然會因為你們演奏的優美旋律而出現！這真是太成功了！
+%PLAYERNAME%，你真有品味！
+據說沙奈朵擁有預知未來的能力，不知道牠現在看見什麼樣的未來了呢。
+沙奈朵還需要一些時間做準備，我想你就把牠交給布蘭雪吧。
+喔不！GO火箭隊出現了！
+皮卡丘、伽勒爾蛇紋熊和沙奈朵組成的這支團一定能讓觀眾們情感劇烈起伏！
+%PLAYERNAME%，你們的表演真是太棒、太搖滾了！
+沒想到美洛耶塔居然會因為你們這活力十足的演奏而出現！這真是太成功了！
+你應該對你今天的表現感到自豪！
+音樂祭所剩的時間不多了，你就好好享受一下這歡樂的氣氛吧！期待下次再見！
+%PLAYERNAME%，你真有品味！
+沙漠蜻蜓眼睛上的紅色護罩可以保護眼睛不受沙子傷害。對了，你知道牠揮動翅膀的聲音好似女性優美的歌聲，因此被稱為沙漠精靈嗎？
+我很期待牠們演奏的音樂呢。
+我想沙漠蜻蜓還需要一點時間熱身，你就讓布蘭雪…喔不！
+看來GO火箭隊打算要大舉進攻！
+看來我們只能暫時先放下手邊的工作，去收拾一下那些傢伙吧！
+我們不能讓我們的心血毀於一夕。
+%PLAYERNAME%，謝謝你幫我們打倒那些手下。
+皮卡丘、伽勒爾蛇紋熊和沙漠蜻蜓組成的這支團真是元氣十足啊！
+坎迪拉她那邊的準備也快要完成了。
+我相信接下來我們需要的就是觀眾了。
+如果你身邊的人還不知道我們要舉辦音樂祭，可以請你幫忙宣傳一下嗎？
+%PLAYERNAME%，這場表演真是太驚人了！
+你真是打動人心和寶可夢心的天才啊！
+事實上，我收到消息指出有隻幻之寶可夢被這場音樂祭的氣氛吸引而來……
+據說許多名曲的靈感都來自這隻旋律寶可夢演奏的旋律。
+接下來我就不多說了，請你靜待牠的現身吧。
+我們就先坐下來好好欣賞音樂吧。
+沒想到美洛耶塔居然會因為你們演奏的奢華旋律而出現！這真是太成功了！
+皮卡丘、伽勒爾小火馬和沙奈朵組成的這支團真是奢華啊！
+%PLAYERNAME%，你們的表演有十足的偶像氣勢啊！
+沒想到美洛耶塔居然會因為你們這精力充沛的演奏而出現！這真是太成功了！
+皮卡丘、伽勒爾蛇紋熊和沙漠蜻蜓組成的這支團真是精力充沛啊！
+%PLAYERNAME%，歡迎來到Pokémon GO Fest 2021！看來訓練家們跟寶可夢們都很開心呢！
+看到訓練家開心的時候，寶可夢也會覺得開心呢。
+為了讓更多人體驗這歡樂的氣氛，我有件事想拜託你。
+既然現在都有音樂祭的氣氛了，那就請你當一天音樂製作人，讓大家樂在音樂之中吧！
+我也得去做一些準備，所以你就先帶夥伴去附近走走，享受一下這歡樂的氣氛吧。
+今年Pokémon GO Fest的主題是音樂！隊長們也幫了很多忙。
+而你就是我們的音樂製作人。
+看來我們得先從決定表演者開始。先請皮卡丘上場吧？
+牠準備了各式各樣的打扮，就看你想打造什麼樣的氣氛。你想走搖滾風還是偶像風？
+你可以去外面走走，決定你要打造什麼樣的風格。邊走邊聽音樂也是個不錯的選擇？
+%PLAYERNAME%，你選了偶像風啊！閃亮華麗的皮卡丘已經準備好要電暈一片人囉！
+表演開始前還有很多事要做。
+布蘭雪他負責監督彩排，所以就把皮卡丘交給他吧。
+在此同時，我們得幫皮卡丘找些夥伴。
+彩排還要持續一段時間，你就先想想要選哪隻寶可夢吧。我很期待看到牠們的表演呢。
+看來這場音樂祭會有很多偶像上場呢！
+話又說回來，我想為皮卡丘和伽勒爾小火馬添個夥伴。
+伽勒爾蛇紋熊！這真叫人興奮，我來去跟隊長們說一聲。
+你知道伽勒爾蛇紋熊永遠靜不下來嗎？我們來讓牠好好發揮牠元氣十足的那一面吧。
+皮卡丘和伽勒爾蛇紋熊的組合聽起來就很有趣！
+%PLAYERNAME%，你選了搖滾風啊！其實我年輕的時候也想過要組團……這件事我們就下次再說吧。
+既然你已經決定好音樂祭的走向，那我們就開始做準備吧。
+布蘭雪他負責監督彩排，所以就把皮卡丘交給他吧。我們得去幫皮卡丘找個夥伴。
+其實呢，我心裡已經有個底了……戴著帽子的伽勒爾小火馬和伽勒爾蛇紋熊，你覺得如何？
+彩排還要持續一段時間，你就先想想要選哪隻寶可夢吧。我很期待看到牠們的表演呢。
+伽勒爾小火馬嗎？%PLAYERNAME%，選得好！我去跟隊長們說一聲。
+伽勒爾小火馬能從眼神中讀取對方的內心。如果發現了邪惡的想法，就會在轉眼間消失不見。
+溫柔的小火馬和搖滾皮卡丘或許會是完美的搭檔呢。
+史帕克負責編舞，所以我們可趁這個時間去準備別的事情。
+等寶可夢們準備好之後，就先來拍張GO Snapshot照片吧。偶像們總是很愛拍照的呢。
+話又說回來，我想為皮卡丘和伽勒爾小火馬添個夥伴。
+伽勒爾蛇紋熊啊！好，我去知會隊長們。
+你知道伽勒爾蛇紋熊永遠靜不下來嗎？我們來讓牠好好發揮牠元氣十足的那一面吧。
+我非常期待看到皮卡丘和伽勒爾蛇紋熊在舞台上活躍的表演呢！
+史帕克負責編舞，所以我們可趁這個時間去準備別的事情。
+等蛇紋熊牠們準備好之後，就先來拍張GO Snapshot照片吧。雖然牠們也不會乖乖站著就是了。
+對了，我想為皮卡丘和伽勒爾蛇紋熊添個夥伴。
+沙漠蜻蜓和沙奈朵看起來很想參加的樣子。你想選哪一隻呢？
+沒想到美洛耶塔居然會因為你們這生氣蓬勃的演奏而出現！這真是太成功了！
+皮卡丘、伽勒爾小火馬和沙漠蜻蜓組成的這支團真是生氣蓬勃啊！
+GO Fest 2021：團體戰日
+GO Fest 2021：團體戰日 (1/8)
+GO Fest 2021：團體戰日 (2/8)
+GO Fest 2021：團體戰日 (3/8)
+GO Fest 2021：團體戰日 (4/8)
+GO Fest 2021：團體戰日 (5/8)
+GO Fest 2021：團體戰日 (6/8)
+GO Fest 2021：團體戰日 (7/8)
+GO Fest 2021：團體戰日 (8/8)
 GO Fest：孵化1顆蛋
 GO Fest：交1位新朋友
 Niantic Crew: Friend 3 new coworkers!
@@ -12496,33 +12674,33 @@ Now, let’s GO!
 拉普拉斯、電擊怪、烈焰馬、美錄坦。牠們都是完美的夥伴寶可夢。
 不過最重要的，是選擇一隻你能打從心底信賴的寶可夢，我和美錄坦會為大聲會你加油的。
 這次真的很感謝你，接下來可能也會要請你幫忙，到時候再麻煩你囉！
-Hey there, %PLAYERNAME%! Good to see you. Do have anything fun planned for today?
-I’ll be attending a picnic with the team leaders, myself.
-I must say, though, I was having a pretty hard time deciding what I should bring. Candela’s in charge of sandwiches, Spark is handling refreshments, and Blanche is bringing shaved ice, so the bases are all pretty well covered.
-Walking always clears my head, so I took a stroll and ended up spotting a large group of Tepig near where I normally pick my go-to snack, Pinap Berries.
-And suddenly—inspiration! Did you know Tepig loves to eat roasted Berries, Trainer?
-The Fire Pig Pokémon blows fire balls through its nose and roasts the berries before it eats them.
-Roasted Berries sound like a great picnic snack, don’t you think? And speaking of, I need to start getting them ready. Why don’t you go check out the Tepig in the meantime?
+嘿，%PLAYERNAME%。你來得正好！你今天有什麼計劃嗎？
+我打算跟隊長們去野餐。
+只是我實在不知道我該帶什麼東西去。坎迪拉要帶吃的、史帕克帶喝的，然後布蘭雪負責帶刨冰。
+所以我決定去散個步，讓腦袋清醒一下。就在那時候，我發現了一大群暖暖豬。
+就在那一瞬間我靈機一動！你知道暖暖豬愛吃火烤樹果嗎？
+這隻火豬寶可夢會從鼻孔中噴出火焰烤樹果來吃。
+我決定要來試試看用火烤樹果。你就趁這個時間去看看暖暖豬吧。
 歡迎回來！
-Ah, I see you’ve caught a Tepig of your own! They make terrific companions in all aspects of life.
-Tepig evolves into Pignite, which, like Tepig, is known as the Fire Pig Pokémon.
-When Pignite’s internal fire flares up, its movements grow sharper and faster. Whatever it eats becomes fuel for the flame in its stomach. Must do wonders for digestion!
-Oh! That reminds me—I need to check on my roasted Berries.
-While I finish up my picnic preparations, why don’t you see about evolving your Tepig into Pignite?
-Hello again, %PLAYERNAME%. The Berry-roasting process is going swimmingly, and the whole place smells delicious!
-Just when I thought Pokémon couldn’t inspire me any more than they already do, here I am taking cooking tips from Tepig. Haha!
-Nice Pignite, by the way! Very round. Did you know that Pignite can evolve? Its Evolution is a Pokémon called Emboar.
-Emboar is known to heat up its punches by setting its fists ablaze with its fiery chin. It’s also known to care deeply about its friends.
-Speaking of friends, I should let the team leaders know that I’ll be on my way soon.
-How about evolving your Pignite into Emboar, Trainer? I’d love to see its fiery beard firsthand.
-Fantastic work, %PLAYERNAME%! Your Emboar is truly a sight to see!
-This powerful Fire- and Fighting-type Pokémon is known as the Mega Fire Pig Pokémon.
-According to my research, Emboar is a master of fast and powerful Fighting-type attacks.
-And wow... Look at that beard of fire. What do you think, Trainer? Could you see me with one of those?
-Haha, only joking! I’m sure I’d find it far too itchy.
-Anyway, I should let you get back to exploring. And I should get to that picnic!
-Have a wonderful weekend, and keep up all the hard work. It’s always a joy to see how much you’ve grown as a Trainer each time we meet.
-I’ll be in touch soon with some more research opportunities. Or who knows—maybe even some recipes!
+噢，看來你捉到很多暖暖豬了呢。
+暖暖豬會進化成炒炒豬，牠們都是火豬寶可夢。
+牠吃得越多，可供燃燒的東西就越多。胃裡的火焰會因此變強，力量也會源源不絕地湧出。
+噢對了！我得去看一下我的樹果烤得怎樣！
+我要回去準備野餐要用的東西，你可以趁這個時間讓暖暖豬進化成炒炒豬。
+嘿，%PLAYERNAME%。你快來看看我烤的樹果，這真是太香了！
+沒想到我居然能從寶可夢身上找到料理的靈感！
+你的炒炒豬看起來好厲害！你知道炒炒豬也可以進化嗎？牠可以進化成炎武王喔。
+炎武王會用下顎的火焰燃燒拳頭，接連使出火焰拳擊。是非常關心夥伴的寶可夢。
+唉呀，我真是個不會掌握時間的人，總不能讓隊長他們久等。
+試著讓炒炒豬進化成炎武王吧，我也很有興趣呢。
+%PLAYERNAME%，你真是太厲害了！你的炎武王看起來真強！
+這隻大火豬寶可夢擁有火屬性和格鬥屬性。
+炎武王能使出兼顧力量與速度的格鬥招式。
+哇……牠的火焰鬍鬚看起來好猛……
+不過那想必不好整理。
+是說你就繼續去冒險吧，我得去參加野餐了。
+祝你週末愉快！
+下次有調查要拜託你的時候，我會立刻跟你聯絡的！
 Now, let’s GO!
 %PLAYERNAME%，你聽我說！我早上走出實驗室的時候……
 發現附近草地上是滿滿的獨角蟲！真是太毛了……
@@ -12581,9 +12759,9 @@ Now, let’s GO!
 在戰中使出1次效果絕佳的特殊招式
 捕捉 {0} 隻青綿鳥
 讓 {0} 隻青綿鳥進化
-Catch {0} Tepig
-Evolve {0} Tepig
-Evolve {0} Pignite
+捕捉 {0} 隻暖暖豬
+讓 {0} 隻暖暖豬進化
+讓 {0} 隻炒炒豬進化
 請在  {0} 天內完成此特殊調查
 請在  {0} 天內完成此特殊調查
 卡通動畫週研究
@@ -12918,11 +13096,11 @@ Special Weekend (吉野家)
 博士的研究 (4/6)
 博士的研究 (5/6)
 博士的研究 (6/6)
-Roasted Berries
-Roasted Berries (1/4)
-Roasted Berries (2/4)
-Roasted Berries (3/4)
-Roasted Berries (4/4)
+火烤樹果
+火烤樹果 (1/4)
+火烤樹果 (2/4)
+火烤樹果 (3/4)
+火烤樹果 (4/4)
 歡慶2019年年終
 世代大挑戰
 世代大挑戰：豐緣 (1/9)
@@ -13026,7 +13204,7 @@ Wayfarer bonus：捕捉 {0} 隻寶可夢
 在等級2以上的團體戰中獲勝1次
 在等級3以上的團體戰中獲勝 {0} 次
 在等級3以上的團體戰中獲勝1次
-Win a raid with your buddy
+和夥伴在1場團體戰中獲勝
 用CP低於1500的寶可夢在團體戰中獲勝 {0} 次
 用CP低於1,500的寶可夢在團體戰中獲勝
 用CP低於1,500的寶可夢在3星團體戰中獲勝 {0} 次
@@ -15182,7 +15360,7 @@ Not sharing your online status
 更多橡實果出現在地圖上
 更多藤藤蛇出現在地圖上
 更多青綿鳥出現在地圖上
-More Tepig are appearing in the wild
+更多暖暖豬出現在地圖上
 更多獨角蟲出現在地圖上
 更多蟲屬性寶可夢出現在地圖上
 更多惡屬性寶可夢出現在地圖上
@@ -15348,7 +15526,7 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 特殊調查「橡實寶可夢的小祕密」的入場券在商店中上架
 特殊調查入場券將在商店中上架
 特殊調查「綿翼小鳥」的入場券在商店中上架
-Ticket for the Roasted Berries Special Research story available in the shop
+特殊調查「火烤樹果」的入場券在商店中上架
 特殊調查「毛毛時刻」的入場券在商店中上架
 將在 {0} 天 {1} 小時後結束
 將在 {0} 天 {1} 小時後結束
@@ -15378,6 +15556,25 @@ Ticket for the Roasted Berries Special Research story available in the shop
 限時調查中登場的喵喵
 尼多蘭和尼多朗的限時調查
 限時調查中登場的布魯
+Switch out Pokémon during battle for more charge moves.
+Throwing a Curveball increases the chance of catching the Pokémon. 
+Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
+Quickly discard all items from your inventory by tapping on the (-) button once. 
+Evolving knocked out Pokémon returns them to full health.
+Maximize the XP you earn when leveling up your Friendship Level with a Lucky Egg.
+Feeding a Golden Razz to your Pokémon in a gym will fully heal your Pokémon.
+For difficult Raids, it is more likely for players to gather at the moment the Raid Egg hatches.
+Prepare a Battle Party in advance to best battle with different Raid Bosses.
+Create Tags
+Evolve
+Gym Attacker
+Gym Defender
+Trades
+As your Pokémon collection grows, you can now use tags to categorize and easily access your Pokémon based on characteristics you are most interested in.
+You can use tags in many ways. Here are some examples.
+Tagging
+Tag Ideas
+Stay Aware of Your Surroundings 
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
 已取消掃描
 進行掃描時請務必注意周遭狀況，小心安全。
@@ -15672,6 +15869,7 @@ https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 你的裝置、作業系統或軟體與Pokémon GO不相容. <a href="unauthorized_device_help_center_link">訪問幫助中心 </a> 以獲取更多信息。
 從此Niantic遊戲中刪除此朋友後，在雙方的所有遊戲中的該朋友都將被刪除。
 Are you sure you want to unfriend {0}?
+Unlimited
 <size=36>確定要解除帳號綁定嗎？</size>解除綁定後，將無法以此帳號登入遊戲
 無法解除此帳號的綁定
 <size=36>無法解除帳號綁定！</size>目前遊戲是以此帳號登入，故無法解除帳號綁定
@@ -15853,6 +16051,11 @@ OK
 潑水節：在 {0} 場團體戰中獲勝
 潑水節：打敗1個GO火箭隊手下
 潑水節：為水屬性的寶可夢拍攝 {0} 張GO Snapshot照片
+Congratulations on reaching eligibility! Complete your Wayfarer onboarding to unlock PokéStop nomination and editing features.
+GO TO WAYFARER
+MAYBE LATER
+You're Eligible for Wayfarer!
+Unlock by onboarding to Wayfarer!
 已確認安全
 請確認目前所在地的氣象情報
 {0} 的 {1} 獲得天氣優勢！
