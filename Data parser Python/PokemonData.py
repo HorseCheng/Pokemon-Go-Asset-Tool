@@ -111,6 +111,8 @@ chimovedict["0292"] = "氣象球 (火)"
 chimovedict["0293"] = "氣象球 (冰)"
 chimovedict["0294"] = "氣象球 (岩石)"
 chimovedict["0295"] = "氣象球 (水)"
+chimovedict["0352"] = "氣象球 (一般)"
+engmovedict["0352"] = "Weather Ball"
 
 engmovedict["0336"] = "Techno Blast"
 chimovedict["0336"] = "高科技光炮 (一般)"
@@ -122,9 +124,6 @@ engmovedict["0339"] = "Techno Blast"
 chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
-
-engmovedict["0343"] = "Leaf Storm"
-chimovedict["0343"] = "飛葉風暴"
 
 # Pokemon class
 class pokemon():

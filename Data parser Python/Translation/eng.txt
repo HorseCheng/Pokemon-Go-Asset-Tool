@@ -11,7 +11,7 @@ Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 ADD FRIENDS FROM CONTACTS
 Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
-https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 You choose which contacts to send Friend Requests to.
 Easily connect with friends by letting Pokémon GO access your contacts list periodically. You can turn off this feature in your device’s settings at any time.
 FIND FRIENDS ON CONTACTS LIST
@@ -3408,6 +3408,7 @@ Ultra League
 USE THIS PARTY
 Community Day: Abra
 Community Day: Charmander
+Community Day: Eevee
 Community Day: Electabuzz
 Community Day
 Community Day: Fletchling
@@ -3833,7 +3834,7 @@ Would you like to evolve {0} using Candies anyway?
 Evolving {0} without trading will require {1} Candies.
 2× XP for evolving Pokémon
 This Pokémon might exceed the CP limit for some Battle Leagues.
-This Pokémon will exceed the CP limit for some Battle Leagues
+This Pokémon will exceed the CP limit for some Battle Leagues.
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
 EX Raid scheduled for {0}, {1} at {2} has been canceled.
@@ -4030,18 +4031,47 @@ Raid Day box with Remote Raid Passes available in the shop
 Flying Cup available in the GO Battle League
 Flying Cup
 Type Surge: Flying
+Blade Forme
+Shield Forme
 Altered Forme
 Amped Form
 Antique Form
+Bug-Type
+Dark-Type
+Dragon-Type
+Electric-Type
+Fairy-Type
+Fighting-Type
+Fire-Type
+Flying-Type
+Ghost-Type
+Grass-Type
+Ground-Type
+Ice-Type
+Normal-Type
+Poison-Type
+Psychic-Type
+Rock-Type
+Steel-Type
+Water-Type
 Aria Forme
 Attack
 Autumn Form
 Baile Style
 Black Kyurem
 Blue-Striped
+Plant Cloak
+Sandy Cloak
+Trash Cloak
 Burn Drive
 Busted Form
 Normal Form
+Normal Form
+Rainy Form
+Snowy Form
+Sunny Form
+Overcast Form
+Sunshine Form
 Chill Drive
 Blue Core
 Green Core
@@ -4060,8 +4090,13 @@ Salted Cream
 Vanilla Cream
 Crowned Shield
 Crowned Sword
+Standard Mode
+Zen Mode
 Defense
+Attack Forme
+Defense Forme
 Normal
+Speed Forme
 Disguised Form
 Douse Drive
 Dusk Form
@@ -4069,23 +4104,56 @@ East Sea
 Fan Rotom
 Female
 Frost Rotom
-Fully Belly Mode
+Full Belly Mode
+Dandy Trim
+Debutante Trim
+Diamond Trim
+Heart Trim
+Kabuki Trim
+La Reine Trim
+Matron Trim
+Natural Form
+Pharaoh Trim
+Star Trim
+Burn Drive
+Chill Drive
+Douse Drive
+Normal
+Shock Drive
 Altered Forme
 Origin Forme
 Gorging Form
+Ash-Greninja
 Gulping Form
 Hangry Mode
 Heat Rotom
 Hero of Many Battles
+Hoopa Confined
+Hoopa Unbound
 Ice Face
 Incarnate Forme
+Ordinary Form
+Resolute Form
+Black Kyurem
+Kyurem
+White Kyurem
 Land Forme
+Incarnate Forme
+Therian Forme
 Low Key Form
 Male
+Aria Forme
+Pirouette Forme
 Meteor Form
 Midday Form
 Midnight Form
+Busted Form
+Disguised Form
 Mow Rotom
+Dawn Wings
+Dusk Mane
+Necrozma
+Ultra Necrozma
 Normal
 driveless form
 Noice Face
@@ -4095,27 +4163,26 @@ Origin Forme
 Overcast Form
 Pa'u Style
 Phony Form
+Pirouette Forme
 Plant Cloak
 Pom-Pom Style
+Primal Reversion
 Rainy
 Red-Striped
 Regular Form
+Fan Rotom
+Frost Rotom
+Heat Rotom
+Mow Rotom
+Rotom
+Wash Rotom
 Sandy Cloak
 School Form
 Sensu Style
+Land Forme
+Sky Forme
 Shiny Arceus
 Shock Drive
-Sky Forme
-Snowy
-Solo Form
-Speed
-Spring Form
-Standard Mode
-Summer Form
-Sunny
-Sunshine Form
-Therian Forme
-Trash Cloak
 Type: Bug
 Type: Dark
 Type: Dragon
@@ -4134,10 +4201,50 @@ Type: Psychic
 Type: Rock
 Type: Steel
 Type: Water
+Sky Forme
+Snowy
+Solo Form
+Speed
+Spring Form
+Standard Mode
+Summer Form
+Sunny
+Sunshine Form
+Therian Forme
+Incarnate Forme
+Therian Forme
+Incarnate Forme
+Therian Forme
+Trash Cloak
+Archipelago Pattern
+Continental Pattern
+Elegant Pattern
+Fancy Pattern
+Garden Pattern
+High Plains Pattern
+Icy Snow Pattern
+Jungle Pattern
+Marine Pattern
+Meadow Pattern
+Modern Pattern
+Monsoon Pattern
+Ocean Pattern
+Poké Ball Pattern
+Polar Pattern
+River Pattern
+Sandstorm Pattern
+Savanna Pattern
+Sun Pattern
+Tundra Pattern
 Wash Rotom
 West Sea
 White Kyurem
 Winter Form
+School Form
+Solo Form
+Complete Forme
+50% Forme
+10% Forme
 The referral code was found!
 You found a Mysterious Component!
 Collect more to assemble a Rocket Radar, which can locate Team GO Rocket Hideouts!
@@ -4227,6 +4334,7 @@ The GO Battle League will be down for maintenance in {0} minute(s)
 Featured Pokémon in GO Battle League reward encounters
 Marill featured in GO Battle League reward encounters
 Pidgey featured in GO Battle League reward encounters
+4× Stardust rewards in the GO Battle League
 3 extra sets of battles in the GO Battle League
 20 total sets of battles in the GO Battle League
 No walking requirement for the GO Battle League
@@ -4238,6 +4346,8 @@ A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 
 Galarian Mr. Mime Event Ticket
 A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the What You Choose to Be Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+What You Choose to Be Ticket
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 The Bravest Bird Ticket
 A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -4306,6 +4416,8 @@ VS
 XL
 XP
 XS
+XXL
+XXS
 Yes
 Special Bonuses
 Your account has been suspended for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
@@ -4322,6 +4434,7 @@ Greetings from
 Open a Sponsored Gift!
 Open 2× as many Gifts
 Open 1.5× as many Gifts
+Guaranteed Gifts from PokéStop spins
 Gifts may contain Rare Candies
 Gift sent!
 Hold 2× as many Gifts in your Item Bag
@@ -4986,6 +5099,7 @@ This Pokémon doesn't want any more Berries. Try again later.
 Walk closer to interact with this Gym.
 The Gym Leader has been defeated!
 Gym level
+Gym Power-Up
 Please come back when you've reached level {0}!
 Prestige decreased by {0}.
 Battle
@@ -5062,9 +5176,9 @@ Halloween
 2× Hatch Stardust
 2× Hatch XP
 3× Hatch XP
-https://pokemongo.nianticlabs.com/support/friends
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279&l=en
 https://pokemongo.nianticlabs.com/support/contact/en
-https://niantic.helpshift.com/a/pokemon-go/?s=troubleshooting&f=raid-troubleshooting-guide
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 Hoenn Collection Challenge
 Hoenn Event
 Holiday Event: Catch {0} Ice-type Pokémon
@@ -5133,6 +5247,7 @@ Incense Day: Type Shuffle
 2× Incense effectiveness
 Increased Incense effectiveness
 3× Incense effectiveness
+Increased Incense effectiveness while walking
 Discounted Incense in the shop
 Featured Pokémon lured by Incense
 Incense with a mysterious fragrance that lures wild Pokémon to your location for 60 minutes. Its appearance changes when attracting specific Pokémon.
@@ -5160,7 +5275,7 @@ Incubators
 {0} use
 A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.
 Egg Incubator
-A more powerful Egg Incubator that helps Eggs hatch quickly.  Breaks after 3 uses.
+A more powerful Egg Incubator that helps Eggs hatch quickly. Breaks after 3 uses.
 Super Incubator
 Privacy Control: Your safety is our priority, so you can control what features are turned on.
 You have {0} hours left to enter a referral code. Your own referral code will become available here after you enter another Trainer’s referral code or after {0} hours have elapsed.
@@ -5241,6 +5356,8 @@ A ticket to access a special event from December 19, 2020, at 10:00 a.m. to Dece
 This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
+A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
+This ticket will automatically activate to give you access to Special Research on August 14 and 15, 2021, wherever you are.
 A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on June 6 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -5294,7 +5411,7 @@ King's Rock
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
 You can use this to track down Team GO Rocket Hideouts!
-This appears to be what Team GO Rocket uses to hack PokéStops. Does it have another use?
+When you defeat a Team GO Rocket Grunt, you can get a Mysterious Component. Collect six Mysterious Components to combine them!
 Mysterious Component
 Rocket Radar
 EX Raid Pass to join a special Raid Battle. You can use this pass only at the specified limited-time event.
@@ -5408,7 +5525,7 @@ Last Played: Today
 Last Played: 2+ days ago
 Last Played: Yesterday
 You’ve assembled a Rocket Radar!
-Use the Rocket Radar to locate Team GO Rocket Hideouts!
+Your Mysterious Components have combined into a Rocket Radar! Use it to locate Team GO Rocket Hideouts.
 But...what does it do?
 You’ve assembled a mysterious device!
 You can use this to track down Team GO Rocket Hideouts!
@@ -6162,6 +6279,7 @@ Unable to link to this account.
 <size=36><b>{0} Error</b></size>Unable to link to this account.
 <size=36><b>Account Already Exists</b></size>This account is already linked to an existing player.
 Little Cup
+Little Jungle Cup
 Learn More
 Join a special event
 Add to Calendar
@@ -6319,6 +6437,7 @@ Lotad Research: Battle in a raid
 Lotad Research: Use a supereffective Charged Attack in a Gym battle
 Master League Classic
 Premier Cup
+Master Premier Classic
 Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
 Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
 I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
@@ -6384,7 +6503,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-08-17T09:59:29.720636at SHA 43eee1aef96e957ed0bd4ffa213fe068be8e4dadPipeline 697933, job 6700206
+Built at 2021-09-06T10:29:18.296089at SHA 5d4715b68ef9633fbce8575b9da57a272946f2a5Pipeline 712579, job 6897949
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -6954,6 +7073,7 @@ Photo saved
 The photo could not be saved.
 5 surprise encounters with Abra in GO Snapshot
 5 surprise encounters with Charmander in GO Snapshot
+5 surprise encounters with Eevee in GO Snapshot
 5 surprise encounters with Electabuzz in GO Snapshot
 5 surprise encounters with Fletchling in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
@@ -6998,20 +7118,21 @@ Poffin
 LEARN MORE
 Add Another
 ADD LOCATION CATEGORY
-Please categorize this location
-Categorize this location
+Please categorize this location.
+Categorize this location.
 Category is already selected
 BACK
-PokéStop Category
+Location Category
 OK
-Enter comma separated suggestions here
+Enter comma-separated suggestions here.
 Category suggestion (optional)
-{0} doesn't exist in our category list
-Select or type here
+{0} isn’t on the category list.
+Select or type here.
 Selected
 Selected (up to three)
 SUBMIT
 Thank you for your contribution!
+This PokéStop will close at {0: hh:mm tt}
 You’ll have {0} more scan contribution(s) available tomorrow.
 You have {0} scan contribution(s) available today.
 You’ve reached your max daily scan contribution(s) of {0}.
@@ -7113,8 +7234,10 @@ This feature is currently unavailable.
 You are too far away from this PokéStop to contribute.
 Unlocks at level {0}!
 UPLOAD LATER
+When you are ready to upload, please go to Main menu page. 
 Thank you for your contribution!
 UPLOAD NOW
+You will receive a confirmation email shortly.
 Uploading {0}/{1}
 Uploading {0}/{1}
 Error
@@ -7126,6 +7249,39 @@ Error Loading Map
 Set location
 Error Loading Map
 Device has no camera
+Thank you for your contribution!
+Thank you for your contributions! You and nearby trainers can get a bonus from this Gym.
+Thank you for your contribution! You and other Trainers can get bonuses at this Gym.
+Gym Power-Up Complete!
+Level {0}
+When you’re ready to upload your scan, please go to the main menu.
+Thank you for your contributions! You and nearby trainers can get a bonus from this PokeStop.
+Thank you for your contribution! You and other Trainers can get bonuses at this PokéStop.
+PokéStop Power-Up Complete!
+If you scan this PokéStop or add a photo, PokeStop points will increase. When it levels up it will provide more bonuses depending on its level.
+When you level up a PokeStop, you can get these bonus and benefits.
+LEVEL 1
+LEVEL 2
+LEVEL 3
+Get bonus items!
+When you visit the location with your buddy and spin the Photo disk, your buddy gets a heart!
+At a PokéStop, wild Pokémon will appear more frequently. At a Gym, you’ll have bonus Premier Balls in the Pokémon encounter after you win a Raid Battle.
+If you scan this location or add a photo, the location will gain location points. When the location is powered up, it will provide bonuses depending on its level.
+Power up a location to get these bonuses.
+LEVEL 1
+LEVEL 2
+LEVEL 3
+Get bonus items!
+When you spin the location’s Photo Disc while your buddy is walking with you, your buddy will get a heart!
+At a PokéStop, wild Pokémon will appear more frequently. At a Gym, you’ll have bonus Premier Balls in the Pokémon encounter after you win a Raid Battle.
+{0} file(s) uploaded!
+{0} file upload(s) failed.
+UPLOAD LATER
+Total of {0} location point(s) added to a PokéStop or Gym
+UPLOAD REQUIRED
+Uploading {0}/{1}
+VIEW ON MAP ({0})
+Power-up active until {0:ddd hh:mm tt}
 Removed per the request of the property owner
 Removed upon request
  
@@ -9121,7 +9277,7 @@ The moment it evolved, it took on a complex flavor. This is because of the way i
 The moment it evolved, it took on a sweet and tart flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a mixed flavor. This is because of the way its cells spontaneously shifted during evolution.
 The moment it evolved, it took on a salty flavor. This is because of the way its cells spontaneously shifted during evolution.
-When it trusts a Trainer, it will treat them to berries it’s decorated with cream.
+When it trusts a Trainer, it will treat them to berries it's decorated with cream.
 Five of them are troopers, and one is the brass. The brass's orders are absolute.
 It feeds on seaweed, using its teeth to scrape it off rocks. Electric current flows from the tips of its spines.
 It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
@@ -10340,6 +10496,7 @@ Try again later.
 Collect more PokéStop modules!
 Walk closer to interact with this PokéStop.
 Daily PokéStop Spin
+10× XP for visiting PokéStops for the first time
 2× XP for spinning PokéStops
 10× XP for spinning PokéStops
 Your Item Bag is full. You can buy more space for items in the shop.
@@ -10385,6 +10542,14 @@ Sign in
 Pokémon Trainer Club
 Trainer Club
 Register
+If you scan a location, its location points will increase. When the location is powered up, it’ll provide bonuses to nearby Trainers depending on its level.
+Location Power-Up
+Get bonuses from powered-up PokéStops and Gyms! Each level has different bonuses.
+Power-Up Bonus
+While spinning a Photo Disc at a PokéStop or Gym, stop the Photo Disc where it started to add a location point!
+Lucky Photo Disc Spin
+With this feature, you can scan PokéStops and Gyms by walking around their real-world locations and recording videos with your smart device. These scans will contribute to the creation of 3D maps of those locations.
+What Is PokéStop Scanning?
 ONE TIME ONLY
 {0} REMAINING
 {0} REMAINING
@@ -10618,6 +10783,7 @@ BIDOOF
 A Ripple in Time
 A Tale of Tails
 December Community Day
+What You Choose to Be
 Electric for Electabuzz
 The Bravest Bird
 Just A Nibble
@@ -10757,6 +10923,8 @@ Together, we took on Team GO Rocket, uncovered the Wish Pokémon, Jirachi, and b
 I want to make sure you know how proud I am of how much you and all the other Trainers have grown this last year!
 And now with 2020 on the horizon, there are sure to be many more adventures awaiting! Until then, let’s get up and GO!
 Evolve Eevee into each of its unique Evolutions
+Catch {0} Eevee
+Evolve {0} Eevee
 Catch {0} Electabuzz
 Evolve {0} Electabuzz
 Catch {0} Bulbasaur or Chikorita
@@ -11649,6 +11817,46 @@ I hope today has been one of the good ones for you!
 The world is ever changing, %PLAYERNAME%. What doesn’t change, however, is the fact that we have each other and our Pokémon.
 And as the mysterious world of Pokémon continues to grow, so do we—as Trainers, as a community, and as people.
 So here’s to a year for the books—and many more exciting ones to come!
+Hey there, %PLAYERNAME%!
+Not sure if you’ve noticed, but there seems to be a huge influx of Eevee, the Evolution Pokémon!
+Some theorize that the key to the mysteries of Pokémon Evolution lies within Eevee’s genetics.
+I can understand that hypothesis—after all, Eevee can evolve into EIGHT Pokémon!
+I sure wish I were as adaptable as Eevee!
+I don’t even have eight different outfits. I basically wear this lab coat all the time—even to formal events!
+Anyway, perhaps by researching Eevee, we’ll unravel even more mysteries of Pokémon Evolution!
+I can’t wait to get started! Let’s GO learn about Eevee!
+Great work with your research on Eevee, %PLAYERNAME%!
+According to my findings, Eevee’s irregular DNA gives it the ability to evolve into many different Pokémon.
+For example, it has three Evolutions originally discovered in the Kanto region: the Water-type Vaporeon, the Electric-type Jolteon, and the Fire-type Flareon.
+Isn’t it fascinating that Eevee can evolve into Pokémon of such different types?
+As you work on your Eevee research, perhaps you might learn more about these Pokémon. Good luck!
+Great work, %PLAYERNAME%! I see you’ve gotten a Vaporeon, a Jolteon, and a Flareon!
+These incredible creatures are capable of some impressive feats.
+Did you know that Vaporeon can melt away into water?
+Or that Jolteon can blast out 10,000-volt lightning bolts?
+And that Flareon breathes fire that is over 3,000 degrees Fahrenheit?
+Isn’t it amazing that all three of these Pokémon evolve from Eevee?
+Perhaps there’s something besides genetics that gives Eevee so much potential.
+Let’s do some more research to learn more about Eevee. At certain times of the day, this Pokémon can evolve into Pokémon originally discovered in the Johto region: the Psychic-type Espeon and the Dark-type Umbreon.
+If you keep up your research, you might find them as well!
+Great work, %PLAYERNAME%! Looks like you’ve gotten yourself an Espeon and an Umbreon!
+The Psychic-type Espeon can use the fine hair on its body to sense air currents and predict its enemies’ next move. It usually evolves from Eevee during the daytime.
+As for the Dark-type Umbreon, it evolves from Eevee during the nighttime. It’s said that Umbreon’s rings glow yellow under the full moon.
+Who would’ve thought that something like the time of day could affect Pokémon Evolution!
+It’s wonderful to delve even deeper into the mysteries of Pokémon.
+Let’s keep it up by researching Eevee’s Evolutions that were originally discovered in the Sinnoh region.
+The Grass-type Leafeon and Ice-type Glaceon seem to have evolved in order to adapt to their environment.
+Why don’t you research these Pokémon next?
+%PLAYERNAME%, welcome back!
+I see you’ve managed to get a Leafeon and a Glaceon! Congratulations!
+The vastly different environments in the Sinnoh region appear to have caused the adaptable Eevee to evolve into a Grass-type Pokémon and an Ice-type Pokémon. It’s inspiring to see how resilient this little Pokémon can be!
+We might not uncover all the secrets of Pokémon Evolution today, but I think we can learn a lot about ourselves through Pokémon.
+Researching Eevee today has taught me there are so many paths in life to choose from.
+I hope that Eevee can inspire you to find the one that suits you best.
+But enough of this professor’s ramblings. Eevee is known to have just one more Evolution—the Fairy-type Sylveon, which was originally discovered in the Kalos region.
+This Pokémon has ribbonlike feelers that it uses to calm others. Sylveon evolves from Eevee when it reaches a certain level of friendship and trust with its beloved Trainer. Knowing that almost brings a tear to my eye!
+I hope you have the good fortune of crossing paths with a wonderful Pokémon like Sylveon sometime soon.
+Until then, let’s GO!
 Hey there, %PLAYERNAME%! I’m really glad to see you.
 I’ve been dealing with some strange power outages in my mobile lab and wanted to investigate what could be causing them.
 It didn’t take me long to find the cause. Seems as though a group of Electabuzz decided that the mobile lab’s electricity would make an excellent snack.
@@ -12795,6 +13003,12 @@ December Community Day (1/4)
 December Community Day (2/4)
 December Community Day (3/4)
 December Community Day (4/4)
+What You Choose to Be
+What You Choose to Be (1/5)
+What You Choose to Be (2/5)
+What You Choose to Be (3/5)
+What You Choose to Be (4/5)
+What You Choose to Be (5/5)
 Electric for Electabuzz
 Electric for Electabuzz (1/4)
 Electric for Electabuzz (2/4)
@@ -13144,6 +13358,16 @@ Ultra Unlock 2020 (2/5)
 Ultra Unlock 2020 (3/5)
 Ultra Unlock 2020 (4/5)
 Ultra Unlock 2020 (5/5)
+Ultra Unlock 2021: Time (1/5)
+Ultra Unlock 2021: Time (2/5)
+Ultra Unlock 2021: Time (3/5)
+Ultra Unlock 2021: Time (4/5)
+Ultra Unlock 2021: Time (5/5)
+Ultra Unlock 2021: Space (1/5)
+Ultra Unlock 2021: Space (2/5)
+Ultra Unlock 2021: Space (3/5)
+Ultra Unlock 2021: Space (4/5)
+Ultra Unlock 2021: Space (5/5)
 A Hairy Situation
 A Hairy Situation (1/4)
 A Hairy Situation (2/4)
@@ -15348,6 +15572,7 @@ No signals? Well, it is getting pretty late...and I need to go meet up with Will
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 More Abra are appearing in the wild
 More Charmander are appearing in the wild
+More Eevee are appearing in the wild
 More Electabuzz are appearing in the wild
 More Fletchling are appearing in the wild
 More Gastly are appearing in the wild
@@ -15512,6 +15737,7 @@ Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
 Tickets for the A Tale of Tails Special Research story available in the shop
 December Community Day
+Tickets for an exclusive Special Research story available in the shop
 Tickets for the Electric for Electabuzz Special Research story available in the shop
 A ticket to access the Electric for Electabuzz Special Research on November 15, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Electric for Electabuzz Ticket
@@ -15556,22 +15782,22 @@ Featured Pokémon in Timed Research
 Meowth featured in Timed Research
 Nidoran♀ and Nidoran♂ featured in Timed Research
 Snubbull featured in Timed Research
-Switch out Pokémon during battle for more charge moves.
-Throwing a Curveball increases the chance of catching the Pokémon. 
+Switch out Pokémon during battle to utilize your Battle Party’s different Charged Attacks.
+A Curveball Throw will increase your chances of catching a Pokémon.
 Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
-Quickly discard all items from your inventory by tapping on the (-) button once. 
-Evolving knocked out Pokémon returns them to full health.
-Maximize the XP you earn when leveling up your Friendship Level with a Lucky Egg.
-Feeding a Golden Razz to your Pokémon in a gym will fully heal your Pokémon.
-For difficult Raids, it is more likely for players to gather at the moment the Raid Egg hatches.
-Prepare a Battle Party in advance to best battle with different Raid Bosses.
+Quickly discard your entire stock of any one item in your Item Bag by tapping the − button on the discard screen.
+When you evolve a Pokémon that’s been knocked out in battle, that Pokémon will automatically return to full health.
+Use a Lucky Egg to double the XP you earn by increasing your Friendship level with other Trainers.
+Feeding a Golden Razz Berry to a Pokémon defending a Gym will fully heal that Pokémon.
+It’s common for Trainers to challenge difficult raids the moment the Raid Egg hatches.
+Prepare a Battle Party in advance to lock in your strategy before challenging a Raid Boss.
 Create Tags
 Evolve
-Gym Attacker
+Gym Challenger
 Gym Defender
 Trades
-As your Pokémon collection grows, you can now use tags to categorize and easily access your Pokémon based on characteristics you are most interested in.
-You can use tags in many ways. Here are some examples.
+As your Pokémon collection grows, try using tags to easily categorize and sort your Pokémon based on specific characteristics.
+Here are some examples of ways you can utilize tags.
 Tagging
 Tag Ideas
 Stay Aware of Your Surroundings 
@@ -15812,6 +16038,7 @@ Now that you’ve reached level 40, you’ll have some new challenges you’ll h
 Congratulations on your remarkable progress, Trainer!
 It looks like you found a Candy XL! I’ve heard you can use these to help your Pokémon become even stronger than what ordinary Candies alone can achieve!
 There’s a chance that you can find Candies XL after you catch Pokémon. The stronger the Pokémon, the more likely you are to find Candies XL.
+Up to two free Raid Passes per day by spinning Gym Photo Discs
 2+ days ago
 Supereffective Week: Use a supereffective Charged Attack in a Gym battle
 Featured Pokémon type hatching more often from Eggs
@@ -15858,11 +16085,14 @@ Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Ultra League Remix
+Ultra Premier Classic
 Ultra Unlock 2020
 Ultra Bonus Unlock
 Ultra Bonus Unlock: Part 1
 Ultra Bonus Unlock: Part 2
 Ultra Bonus Unlock: Part 3
+Ultra Unlock Part 2: Space
+Ultra Unlock Part 1: Time
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center </a> for more information.
@@ -15939,6 +16169,7 @@ You have {0} contributions pending upload
 You have {0} contribution pending upload.
 UPLOAD ALL ({0} MB)
 Uploading PokéStop Contributions
+About Location Points
 Upload failed
 {0} file(s) failed to upload.
 OK
@@ -16051,11 +16282,11 @@ Water Festival: Hatch {0} Eggs
 Water Festival: Win {0} raids
 Water Festival: Defeat a Team GO Rocket Grunt
 Water Festival: Take {0} snapshots of Water-type Pokémon
-Congratulations on reaching eligibility! Complete your Wayfarer onboarding to unlock PokéStop nomination and editing features.
-GO TO WAYFARER
+Congratulations! You’ve become eligible for Niantic Wayfarer, a feature that allows you to nominate interesting and unique places in the world around you as points of interest in Niantic games. Complete your Wayfarer training to unlock PokéStop nomination and editing features.
+CHECK IT OUT
 MAYBE LATER
-You're Eligible for Wayfarer!
-Unlock by onboarding to Wayfarer!
+You’re eligible for Niantic Wayfarer!
+Complete Wayfarer training to unlock!
 I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!

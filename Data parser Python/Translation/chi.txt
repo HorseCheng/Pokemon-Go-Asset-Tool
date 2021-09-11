@@ -11,9 +11,9 @@ Pokémon GO Tour：關都地區
 使出招式時記得要選擇能剋住對手的屬性！
 從聯絡人一覽表中追加朋友
 你認識的人開始玩Pokémon GO囉！傳送朋友申請給他吧！
-https://niantic.helpshift.com/a/pokemon-go/?s=friends-gifting-trading&f=adding-friends
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 你可以選擇要向誰傳送朋友申請
-讓Pokémon GO定期上傳你的聯絡人一覽表，就能輕鬆邀請朋友一起玩遊戲。你隨時都可以從「設定」關閉此功能。
+讓Pokémon GO定期確認你的聯絡人一覽表，就能輕鬆邀請朋友一起玩遊戲。你隨時都可以從「設定」關閉此功能。
 從聯絡人一覽表中尋找朋友
 你可以從聯絡人一覽表中選擇要向誰傳送朋友申請。此外，你隨時都可以從「設定」關閉這個功能。
 交換寶可夢
@@ -3408,6 +3408,7 @@ GO火箭隊幹部
 確定
 凱西社群日
 社群日：小火龍
+社群日：伊布
 社群日：電擊獸
 社群日
 社群日：小箭雀
@@ -3501,7 +3502,7 @@ d
 開始使用！
 很抱歉，Pokémon GO不再支援你所使用的裝置。請至常見問題確認Pokémon GO支援的裝置。
 Día de Muertos
-NO
+否
 OK
 是
 停止和朋友分享最近捉到的寶可夢
@@ -3827,13 +3828,13 @@ GO Tour挑戰者
 進化週：在與GO火箭隊幹部的對戰中獲勝 {0} 次
 進化活動
 對寶可夢用用看這個道具吧！
-Do you want to evolve your Best Buddy {0}?
+你要讓正港好夥伴 {0} 進化嗎？
 進化方法
 確定要使用糖果來讓 {0} 進化嗎？
 如果不進行交換，則需要使用 {1} 顆糖果才能讓 {0} 進化。
 進化寶可夢時的XP加倍
-This Pokémon might exceed the CP limit for some Battle Leagues.
-This Pokémon will exceed the CP limit for some Battle Leagues
+這隻寶可夢可能會超過部分聯盟的參賽CP限制
+這隻寶可夢將超過部分聯盟的參賽CP限制
 你還沒有任何 {0} ！
 邀請一位朋友參加VIP團體戰
 原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
@@ -4030,18 +4031,47 @@ Let's GO!
 飛行盃在GO對戰聯盟中登場
 飛行盃
 急速上昇：飛行屬性
+Blade Forme
+Shield Forme
 別種形態
 Amped Form
 Antique Form
+Bug-Type
+Dark-Type
+Dragon-Type
+Electric-Type
+Fairy-Type
+Fighting-Type
+Fire-Type
+Flying-Type
+Ghost-Type
+Grass-Type
+Ground-Type
+Ice-Type
+Normal-Type
+毒屬性
+Psychic-Type
+Rock-Type
+Steel-Type
+Water-Type
 歌聲形態
 攻擊形態
 秋天的樣子
 Baile Style
 闇黑酋雷姆
 藍條紋的樣子
+草木蓑衣
+砂土蓑衣
+垃圾蓑衣
 攜帶火焰卡帶
 Busted Form
 飄浮泡泡的樣子
+飄浮泡泡的樣子
+Rainy Form
+Snowy Form
+Sunny Form
+陰天形態
+晴天形態
 攜帶冰凍卡帶
 Blue Core
 Green Core
@@ -4060,32 +4090,70 @@ Salted Cream
 Vanilla Cream
 Crowned Shield
 Crowned Sword
+普通模式
+Zen Mode
 防禦形態
+Attack Forme
+Defense Forme
 普通形態
+Speed Forme
 Disguised Form
 攜帶水流卡帶
 Dusk Form
 東海
 旋轉洛托姆
-Female
+雌性
 結冰洛托姆
-Fully Belly Mode
+Full Belly Mode
+Dandy Trim
+Debutante Trim
+Diamond Trim
+Heart Trim
+Kabuki Trim
+La Reine Trim
+Matron Trim
+Natural Form
+Pharaoh Trim
+Star Trim
+攜帶火焰卡帶
+攜帶冰凍卡帶
+攜帶水流卡帶
+取下卡帶
+攜帶閃電卡帶
 別種形態
 起源形態
 Gorging Form
+小智版甲賀忍蛙
 Gulping Form
 Hangry Mode
 加熱洛托姆
 Hero of Many Battles
+Hoopa Confined
+Hoopa Unbound
 Ice Face
 化身形態
+平常的樣子
+Resolute Form
+闇黑酋雷姆
+酋雷姆
+焰白酋雷姆
 陸上形態
+化身形態
+靈獸形態
 Low Key Form
-Male
+雄性
+歌聲形態
+Pirouette Forme
 Meteor Form
 Midday Form
 Midnight Form
+Busted Form
+Disguised Form
 切割洛托姆
+Dawn Wings
+Dusk Mane
+奈克洛茲瑪
+Ultra Necrozma
 取下卡帶
 取下卡帶
 Noice Face
@@ -4095,27 +4163,26 @@ Noice Face
 陰天形態
 Pa'u Style
 Phony Form
+Pirouette Forme
 草木蓑衣
 Pom-Pom Style
+Primal Reversion
 雨水的樣子
 紅條紋的樣子
 Regular Form
+旋轉洛托姆
+結冰洛托姆
+加熱洛托姆
+切割洛托姆
+洛托姆
+清洗洛托姆
 砂土蓑衣
 School Form
 Sensu Style
+陸上形態
+天空形態
 異色阿爾宙斯
 攜帶閃電卡帶
-天空形態
-雪雲的樣子
-Solo Form
-速度形態
-春天的樣子
-普通模式
-夏天的樣子
-太陽的樣子
-晴天形態
-靈獸形態
-垃圾蓑衣
 Type: Bug
 Type: Dark
 Type: Dragon
@@ -4129,15 +4196,55 @@ Type: Grass
 Type: Ground
 Type: Ice
 Type: Normal
-Type: Poison
+屬性：毒
 Type: Psychic
 Type: Rock
 Type: Steel
 Type: Water
+天空形態
+雪雲的樣子
+Solo Form
+速度形態
+春天的樣子
+普通模式
+夏天的樣子
+太陽的樣子
+晴天形態
+靈獸形態
+化身形態
+靈獸形態
+化身形態
+靈獸形態
+垃圾蓑衣
+Archipelago Pattern
+Continental Pattern
+Elegant Pattern
+Fancy Pattern
+Garden Pattern
+High Plains Pattern
+Icy Snow Pattern
+Jungle Pattern
+Marine Pattern
+Meadow Pattern
+Modern Pattern
+Monsoon Pattern
+Ocean Pattern
+Poké Ball Pattern
+Polar Pattern
+River Pattern
+Sandstorm Pattern
+Savanna Pattern
+Sun Pattern
+Tundra Pattern
 清洗洛托姆
 西海
 焰白酋雷姆
 冬天的樣子
+School Form
+Solo Form
+Complete Forme
+50% Forme
+10% Forme
 找到推薦代碼了！
 你找到了一個神祕零件！
 收集更多以組裝火箭隊雷達，定位出GO火箭隊的藏身之處！
@@ -4227,6 +4334,7 @@ GO對戰聯盟的系統維修將在 {0} 分鐘後開始
 可在GO對戰聯盟獎勵中遇見焦點寶可夢
 可在GO對戰聯盟獎勵中遇見的瑪力露
 可在GO對戰聯盟獎勵中遇見的波波
+4× Stardust rewards in the GO Battle League
 GO對戰聯盟增加3組對戰
 GO對戰聯盟20組對戰
 參加GO對戰聯盟前毋需事先完成步行距離
@@ -4238,6 +4346,8 @@ GDC 2019: Catch {0} Pokemon
 伽勒爾魔牆人偶活動入場券
 一張可以獲得七月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年7月3日11:00～17:00時領取七月社群日特殊調查「火烤樹果」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年11月21日11:00～17:00領取鴨嘴火獸社群日的特殊調查「燃燒吧！鴨嘴火獸！」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+一張可以獲得八月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年8月14～15日11:00～17:00時領取八月社群日特殊調查「 你的選擇」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
+「你的選擇」入場券
 一張可以獲得三月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年3月6日11:00～17:00時領取三月社群日特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 「最勇敢的小鳥」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年6月6日11:00～17:00領取圓陸鯊社群日的特殊調查「大口咬住」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
@@ -4306,6 +4416,8 @@ VS
 XL
 XP
 XS
+XXL
+XXS
 Yes
 特別獎勵
 系統偵測到違反服務條款的行為，故已將此帳號停權。請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
@@ -4322,6 +4434,7 @@ Yes
 打開贊助商禮物！
 可打開2倍的禮物
 可打開1.5倍的禮物
+旋轉寶可夢轉盤時一定可以獲得禮物
 友情禮物可能內含神奇糖果
 成功送出友情禮物！
 包包裡可存放的禮物加倍
@@ -4479,7 +4592,7 @@ GO Fest 2020: 旗開得勝！ (6/6)
 為比克提尼拍攝1張GO Snapshot照片
 GO Fest 2021
 Pokémon GO Fest 2021 Day 1：捕捉寶可夢！
-Pokémon GO Fest 2021 Day 1: 團體戰！
+Pokémon GO Fest 2021 Day 2: 團體戰！
 目前環境：洞窟！
 目前環境：沙漠/群山！
 目前團體戰：冰霜時刻！
@@ -4986,6 +5099,7 @@ BATTLES WIN：
 這間道館太遠了
 道館館主被打敗了！
 道館等級
+道館強化
 先把等級提升到 {0} 再回來對戰吧！
 聲望值下降了 {0}
 對戰
@@ -5062,9 +5176,9 @@ GO FEST
 孵蛋時可獲得的星星沙子加倍
 孵蛋的XP加倍
 孵蛋的XP增為3倍
-https://pokemongo.nianticlabs.com/support/friends
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
 https://niantic.helpshift.com/a/pokemon-go/
-https://niantic.helpshift.com/a/pokemon-go/?s=troubleshooting&f=raid-troubleshooting-guide
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 豐緣收藏家挑戰
 豐緣活動
 歡慶假期：捕捉 {0} 隻冰屬性寶可夢
@@ -5133,6 +5247,7 @@ h
 薰香的效果增強2倍
 薰香效果增強
 薰香的效果增強3倍
+步行時薰香的效果將會增強
 商店內薰香打折
 特定寶可夢將會被薰香吸引
 擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續30分鐘。當它吸引到特定寶可夢時，它的顏色將會改變。
@@ -5241,6 +5356,8 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 入場券將會自動啟用，不論你在何處都能在當地時間2021年7月3日活動時間內領取特殊調查。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
+只要擁有這張入場券，不論你身在何處，都能在當地時間8月14~15日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟用，不論你在何處都能在當地時間2021年8月14 ~15日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間3月6日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2021年3月6日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間6月6日11:00～17:00獲得特殊調查的課題。
@@ -5408,7 +5525,7 @@ VIP團體戰入場券
 上次玩遊戲：2天前
 上次玩遊戲：昨天
 你組裝了一個火箭隊雷達！
-使用火箭隊雷達定位出GO火箭隊的藏身之處！
+收集神秘零件，拼湊成火箭隊雷達！用它來找出GO火箭隊藏身之處吧！
 但是……這是用來做什麼的？
 成功組裝了一個神祕的裝置！
 你可以用它來追蹤GO火箭隊的藏身之處！
@@ -6162,6 +6279,7 @@ VIP團體戰入場券
 <size=32>{0}發生錯誤</size>無法綁定此帳號
 <size=32>帳號已存在</size>此帳號已被綁定至其他玩家的帳號
 小小盃
+Little Jungle Cup
 詳細資訊
 參加特別活動
 新增到行事曆
@@ -6319,6 +6437,7 @@ Niantic將傳送有關活動、優惠及遊戲更新等通知
 蓮葉童子研究：在道館對戰中使出1次「效果絕佳」的特殊招式
 大師聯盟經典賽
 紀念盃
+Master Premier Classic
 嘿，%PLAYERNAME%！很高興你能來參與這場冒險。對了，你有聽過這個旋律嗎？
 噠噠噠嘟、噠迪噠咚……每當我回想起年輕時去豐緣地區旅行時遇見的那個水手和他的長翅鷗，
 腦內就會浮現這段旋律。我想這是他們在航海時會哼的旋律。
@@ -6384,7 +6503,7 @@ CP {0} → <color=#2ECDA8>{1}</color>
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2021-08-17T09:59:29.720636at SHA 43eee1aef96e957ed0bd4ffa213fe068be8e4dadPipeline 697933, job 6700206
+Built at 2021-09-06T10:29:18.296089at SHA 5d4715b68ef9633fbce8575b9da57a272946f2a5Pipeline 712579, job 6897949
 里程碑獎勵
 春季活動：2021收藏家挑戰
 友誼日收藏家挑戰
@@ -6954,6 +7073,7 @@ Pokémon GO Plus 的配對已被解除
 無法儲存照片
 凱西將在GO Snapshot中驚喜現身5次
 小火龍將在GO Snapshot中驚喜現身5次
+伊布將在GO Snapshot中驚喜現身5次
 電擊獸將在GO Snapshot中驚喜現身5次
 小箭雀將在GO Snapshot中驚喜現身5次
 鬼斯將在GO Snapshot中驚喜現身5次
@@ -6996,22 +7116,23 @@ Pokémon GO STADIUM
 寶芬效果持續時間加倍
 寶芬
 瞭解詳情
-Add Another
-ADD LOCATION CATEGORY
-Please categorize this location
-Categorize this location
-Category is already selected
-BACK
-PokéStop Category
+追加
+新增類別
+請選擇這場所的類別
+場所類別
+已選擇類別
+返回
+寶可補給站類別
 OK
-Enter comma separated suggestions here
-Category suggestion (optional)
-{0} doesn't exist in our category list
-Select or type here
-Selected
-Selected (up to three)
-SUBMIT
-Thank you for your contribution!
+輸入複數類別時請以逗號隔開
+類別提案（選填）
+{0} 不在類別一覽表內
+選擇類別或直接輸入
+確定
+已選擇（最多3個）
+申請
+謝謝你！
+此寶可夢將會在 {0: hh:mm tt} 關閉
 明天可投稿 {0} 次掃描
 今天可投稿 {0} 次掃描
 已達到每天可投稿的掃描上限（{0} 次）
@@ -7113,8 +7234,10 @@ OK
 距離寶可補給站太遠，無法進行投稿
 將在等級 {0} 解鎖！
 稍後上傳
+做好上傳的準備後，請前往主選單畫面
 謝謝你！
 立刻上傳
+稍後你將會收到一封確認信
 上傳中 {0}/{1}
 上傳中 {0}/{1}
 錯誤
@@ -7126,6 +7249,39 @@ OK
 指定地點
 載入地圖時發生錯誤
 此裝置沒有照相機
+謝謝你！
+謝謝你的投稿！你和鄰近的訓練家將能從此道館獲得獎勵。
+謝謝你的投稿！你和鄰近的訓練家將能從此道館獲得獎勵。
+完成道館強化！
+等級 {0}
+做好上傳的準備後，請開啟主選單。
+謝謝你的投稿！你和鄰近的訓練家將能從此寶可補給站獲得獎勵。
+謝謝你的投稿！你和鄰近的訓練家將能從此寶可補給站獲得獎勵。
+完成寶可補給站強化！
+只要掃描此寶可補給站或提供其照片，就能增加位置點數。等級提升後，就能獲得更多獎勵。
+寶可補給站等級提升後，將可獲得以下獎勵。
+LEVEL 1
+LEVEL 2
+LEVEL 3
+領取獎勵！
+和夥伴一起拜訪該地點並旋轉轉盤時，你的夥伴將能獲得一顆心心！
+野生寶可夢在寶可補給站附近出現的機率將會提高；在團體戰中獲勝時，將能獲得更多紀念球。
+只要掃描此地點或提供其照片，就能增加位置點數。等級提升後，就能獲得更多獎勵。
+進行強化，以獲得獎勵。
+LEVEL 1
+LEVEL 2
+LEVEL 3
+領取獎勵！
+當你帶著夥伴一起拜訪該地點並旋轉轉盤時，你的夥伴將能獲得一顆心心！
+野生寶可夢在寶可補給站附近出現的機率將會提高；在團體戰中獲勝時，將能獲得更多紀念球。
+成功上傳 {0} 個檔案！
+{0} 個檔案上傳失敗
+稍後上傳
+已將 {0} 位置點數加至寶可補給站／道館
+需要上傳
+上傳中 {0}/{1}
+在地圖上查看 ({0})
+強化將持續到 {0:ddd hh:mm tt}
 依所有人要求刪除
 依用戶要求刪除
  
@@ -9270,7 +9426,7 @@ Couldn’t evolve {0} due to an unknown error.
 地點
 地點不明
 你要讓 {0} 進行超級進化嗎？
-Do you really want to Mega Evolve {0}?
+你真的要讓 {0} 進行超級進化嗎？
 {0} 將無法繼續超級進化
 一次只能有1隻寶可夢進行超級進化。
 超級進化將持續 {0} 小時
@@ -10340,6 +10496,7 @@ UNKNOWN
 去收集更多寶可補給站模組吧！
 這個寶可補給站太遠了
 每天拜訪寶可補給站
+第一次訪問的寶可補給站可獲得的XP增為10倍
 旋轉寶可補給站轉盤可獲得的XP加倍
 旋轉寶可補給站轉盤可獲得的XP增為10倍
 你的包包已經滿了。請到商店擴充包包容量。
@@ -10385,6 +10542,14 @@ https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 寶可夢訓練家俱樂部
 訓練家俱樂部
 註冊
+掃描地點後就能增加其位置點數。強化該地點、讓它的等級提升後，它就能為鄰近訓練家提供更多獎勵。
+Location Power-Up
+Get bonuses from powered-up PokéStops and Gyms! Each level has different bonuses.
+Power-Up Bonus
+旋轉寶可補給站或道館的轉盤時，有機會為該寶可補給站或道館增加位置點數。
+Lucky Photo Disc Spin
+With this feature, you can scan PokéStops and Gyms by walking around their real-world locations and recording videos with your smart device. These scans will contribute to the creation of 3D maps of those locations.
+What Is PokéStop Scanning?
 限購1次
 可再買 {0} 個
 可再買 {0} 個
@@ -10618,6 +10783,7 @@ Tokyo eSports 2020：捕捉 {0} 隻名單上的寶可夢
 時光漣漪
 火尾童話
 12月社群日
+ 你的選擇
 電擊獸擊電
 最勇敢的小鳥
 大口咬住
@@ -10757,6 +10923,8 @@ Let’s GO！美錄坦
 這一年真的發生了很多事，你的成長讓我刮目相看！
 我想2020年一定也會有很多冒險在等待著我們，一起出門去探險吧！
 讓伊布完成所有形態的進化
+捕捉 {0} 隻伊布
+讓 {0} 隻伊布進化
 捕捉 {0} 隻電擊獸
 讓 {0} 隻電擊獸進化
 捕捉 {0} 隻妙蛙種子或菊草葉
@@ -11649,6 +11817,46 @@ GO Tour：捕捉走路草
 雖然這世界不斷在變化，但和其他訓練家們一起冒險、一起做調查的樂趣絕對不會改變。%PLAYERNAME%，真的很謝謝你過去一年來的幫忙。
 在寶可夢棲息的這個世界裡，不論是人類還是寶可夢，都會不斷地持續成長。
 珍惜你在2020年留下的每個回憶，一起來期待2021年的到來吧！
+%PLAYERNAME%，你好嗎？
+Not sure if you’ve noticed, but there seems to be a huge influx of Eevee, the Evolution Pokémon!
+Some theorize that the key to the mysteries of Pokémon Evolution lies within Eevee’s genetics.
+I can understand that hypothesis—after all, Eevee can evolve into EIGHT Pokémon!
+I sure wish I were as adaptable as Eevee!
+I don’t even have eight different outfits. I basically wear this lab coat all the time—even to formal events!
+Anyway, perhaps by researching Eevee, we’ll unravel even more mysteries of Pokémon Evolution!
+I can’t wait to get started! Let’s GO learn about Eevee!
+Great work with your research on Eevee, %PLAYERNAME%!
+According to my findings, Eevee’s irregular DNA gives it the ability to evolve into many different Pokémon.
+For example, it has three Evolutions originally discovered in the Kanto region: the Water-type Vaporeon, the Electric-type Jolteon, and the Fire-type Flareon.
+Isn’t it fascinating that Eevee can evolve into Pokémon of such different types?
+As you work on your Eevee research, perhaps you might learn more about these Pokémon. Good luck!
+Great work, %PLAYERNAME%! I see you’ve gotten a Vaporeon, a Jolteon, and a Flareon!
+These incredible creatures are capable of some impressive feats.
+Did you know that Vaporeon can melt away into water?
+Or that Jolteon can blast out 10,000-volt lightning bolts?
+And that Flareon breathes fire that is over 3,000 degrees Fahrenheit?
+Isn’t it amazing that all three of these Pokémon evolve from Eevee?
+Perhaps there’s something besides genetics that gives Eevee so much potential.
+Let’s do some more research to learn more about Eevee. At certain times of the day, this Pokémon can evolve into Pokémon originally discovered in the Johto region: the Psychic-type Espeon and the Dark-type Umbreon.
+If you keep up your research, you might find them as well!
+Great work, %PLAYERNAME%! Looks like you’ve gotten yourself an Espeon and an Umbreon!
+The Psychic-type Espeon can use the fine hair on its body to sense air currents and predict its enemies’ next move. It usually evolves from Eevee during the daytime.
+As for the Dark-type Umbreon, it evolves from Eevee during the nighttime. It’s said that Umbreon’s rings glow yellow under the full moon.
+Who would’ve thought that something like the time of day could affect Pokémon Evolution!
+It’s wonderful to delve even deeper into the mysteries of Pokémon.
+Let’s keep it up by researching Eevee’s Evolutions that were originally discovered in the Sinnoh region.
+The Grass-type Leafeon and Ice-type Glaceon seem to have evolved in order to adapt to their environment.
+Why don’t you research these Pokémon next?
+%PLAYERNAME%, welcome back!
+I see you’ve managed to get a Leafeon and a Glaceon! Congratulations!
+The vastly different environments in the Sinnoh region appear to have caused the adaptable Eevee to evolve into a Grass-type Pokémon and an Ice-type Pokémon. It’s inspiring to see how resilient this little Pokémon can be!
+We might not uncover all the secrets of Pokémon Evolution today, but I think we can learn a lot about ourselves through Pokémon.
+Researching Eevee today has taught me there are so many paths in life to choose from.
+I hope that Eevee can inspire you to find the one that suits you best.
+But enough of this professor’s ramblings. Eevee is known to have just one more Evolution—the Fairy-type Sylveon, which was originally discovered in the Kalos region.
+This Pokémon has ribbonlike feelers that it uses to calm others. Sylveon evolves from Eevee when it reaches a certain level of friendship and trust with its beloved Trainer. Knowing that almost brings a tear to my eye!
+I hope you have the good fortune of crossing paths with a wonderful Pokémon like Sylveon sometime soon.
+Until then, let’s GO!
 嘿，%PLAYERNAME%，你來得正是時候！
 研究室一直斷電，我在研究到底是發生了什麼事。
 我很快就找出原因了。我找到一群電擊獸在吃我研究室的電！
@@ -12795,6 +13003,12 @@ Now, let’s GO!
 12月社群日 (2/4)
 12月社群日 (3/4)
 12月社群日 (4/4)
+ 你的選擇
+ 你的選擇 (1/5)
+ 你的選擇 (2/5)
+ 你的選擇 (3/5)
+ 你的選擇 (4/5)
+ 你的選擇 (5/5)
 電擊獸擊電
 電擊獸擊電 (1/4)
 電擊獸擊電 (2/4)
@@ -13144,6 +13358,16 @@ Special Weekend (吉野家)
 究極解鎖2020 (3/5)
 究極解鎖2020 (4/5)
 究極解鎖2020 (5/5)
+究極解鎖2021：時間 (1/5)
+究極解鎖2021：時間 (2/5)
+究極解鎖2021：時間 (3/5)
+究極解鎖2021：時間 (4/5)
+究極解鎖2021：時間 (5/5)
+究極解鎖2021：空間 (1/5)
+究極解鎖2021：空間 (2/5)
+究極解鎖2021：空間 (3/5)
+究極解鎖2021：空間 (4/5)
+究極解鎖2021：空間 (5/5)
 毛毛時刻
 毛毛時刻 (1/4)
 毛毛時刻 (2/4)
@@ -15348,6 +15572,7 @@ Not sharing your online status
 白天或許能更順利地抓住他們。通常我和坎迪拉也會在那時候完成大部分的研究工作。
 更多凱西出現在地圖上
 更多小火龍出現在地圖上
+更多伊布出現在地圖上
 更多電擊獸出現在地圖上
 更多小箭雀出現在地圖上
 更多鬼斯出現在地圖上
@@ -15512,6 +15737,7 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 「念力寶可夢的超能力」入場券已在商店上架
 特殊調查「火尾童話」的入場券在商店中上架
 12月社群日
+特殊調查「你的選擇」的入場券在商店中上架
 特殊調查「電擊獸擊電」的入場券在商店中上架
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年5月24日11:00～17:00領取橡實果社群日的特殊調查「橡實寶可夢的小秘密」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 入場券：橡實寶可夢的小秘密
@@ -15556,25 +15782,25 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 限時調查中登場的喵喵
 尼多蘭和尼多朗的限時調查
 限時調查中登場的布魯
-Switch out Pokémon during battle for more charge moves.
-Throwing a Curveball increases the chance of catching the Pokémon. 
-Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
-Quickly discard all items from your inventory by tapping on the (-) button once. 
-Evolving knocked out Pokémon returns them to full health.
-Maximize the XP you earn when leveling up your Friendship Level with a Lucky Egg.
-Feeding a Golden Razz to your Pokémon in a gym will fully heal your Pokémon.
-For difficult Raids, it is more likely for players to gather at the moment the Raid Egg hatches.
-Prepare a Battle Party in advance to best battle with different Raid Bosses.
-Create Tags
-Evolve
-Gym Attacker
-Gym Defender
-Trades
-As your Pokémon collection grows, you can now use tags to categorize and easily access your Pokémon based on characteristics you are most interested in.
-You can use tags in many ways. Here are some examples.
-Tagging
-Tag Ideas
-Stay Aware of Your Surroundings 
+你可以試著在對戰時替換寶可夢，使出有效的特殊攻擊
+曲球將讓捕捉寶可夢變得更簡單
+只要旋轉道館轉盤，每天都能獲得一張免費的團體戰入場券
+開啟包包畫面，點擊垃圾桶圖示＞彈跳視窗畫面左方的「-」後，便可將該道具全數丟棄
+如果讓瀕死的寶可夢進化，牠的HP將在進化後完全恢復
+提升友誼等級可獲得的XP將可透過使用幸運蛋來加倍
+餵道館的寶可夢吃金色蔓莓果，讓牠們的體力完全回復。
+通常團體戰的參賽者數會在道館上的蛋剛孵化的那一瞬間衝上高峰
+列出你的對戰小組陣容，為團體戰做好準備
+新增標籤
+進化
+挑戰道館
+防禦道館
+交換
+你可以為你的寶可夢加上標籤，整理寶可夢盒時將更有效率。
+譬如說你可以用這樣的標籤
+標籤
+標籤範例
+注意周遭環境
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
 已取消掃描
 進行掃描時請務必注意周遭狀況，小心安全。
@@ -15812,6 +16038,7 @@ Match {0}
 真是辛苦你了！
 看來你找到糖果XL了呢。聽說這種糖果能讓強化寶可夢變得更簡單。
 捕捉寶可夢的時候有機會獲得糖果XL。只要寶可夢越強，獲得糖果XL的機率就越高。
+每天旋轉道館轉盤最多可獲得兩張免費團體戰入場券
 2天前
 效果絕佳週：在道館對戰中使出1次「效果絕佳」的特殊招式
 從蛋中孵出焦點寶可夢的機率提高
@@ -15858,18 +16085,21 @@ Match {0}
 水屬性寶可夢的弱點是草和電屬性的攻擊。
 水屬性寶可夢的弱點是草和電屬性的攻擊。
 高級聯盟Remix
+Ultra Premier Classic
 究極解鎖2020
 究極獎勵解鎖
 究極獎勵解鎖：Part 1
 究極獎勵解鎖：Part 2
 究極獎勵解鎖：Part 3
+究極解鎖Part 2：空間
+究極解鎖Part 1：時間
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 你的裝置、作業系統或軟體與Pokémon GO不相容
 你的裝置、作業系統或軟體與Pokémon GO不相容. <a href="unauthorized_device_help_center_link">訪問幫助中心 </a> 以獲取更多信息。
 你的裝置、作業系統或軟體與Pokémon GO不相容. <a href="unauthorized_device_help_center_link">訪問幫助中心 </a> 以獲取更多信息。
 從此Niantic遊戲中刪除此朋友後，在雙方的所有遊戲中的該朋友都將被刪除。
 Are you sure you want to unfriend {0}?
-Unlimited
+無上限
 <size=36>確定要解除帳號綁定嗎？</size>解除綁定後，將無法以此帳號登入遊戲
 無法解除此帳號的綁定
 <size=36>無法解除帳號綁定！</size>目前遊戲是以此帳號登入，故無法解除帳號綁定
@@ -15939,6 +16169,7 @@ AR掃描：{0}
 現在有 {0} 個檔案在等待上傳
 全部上傳（{0} MB）
 正在上傳寶可補給站投稿
+關於位置點數
 上傳失敗
 無法上傳 {0} 個檔案
 OK
@@ -16051,11 +16282,11 @@ OK
 潑水節：在 {0} 場團體戰中獲勝
 潑水節：打敗1個GO火箭隊手下
 潑水節：為水屬性的寶可夢拍攝 {0} 張GO Snapshot照片
-Congratulations on reaching eligibility! Complete your Wayfarer onboarding to unlock PokéStop nomination and editing features.
-GO TO WAYFARER
-MAYBE LATER
-You're Eligible for Wayfarer!
-Unlock by onboarding to Wayfarer!
+恭喜你獲得了參加Niantic Wayfarer的資格！Niantic Wayfarer這個功能將能讓你把世界各地的名勝景點加入寶可補給站的行列。趕快完成Wayfarer的訓練課程，解鎖申請新寶可補給站及編輯寶可補給站的功能吧！
+現在就去確認
+稍後再說
+現在可以參加Niantic Wayfarer囉！
+完成Wayfarer的訓練課程來解鎖吧！
 已確認安全
 請確認目前所在地的氣象情報
 {0} 的 {1} 獲得天氣優勢！
