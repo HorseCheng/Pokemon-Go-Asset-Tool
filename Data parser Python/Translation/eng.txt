@@ -374,6 +374,10 @@ Team Valor GO Mega Bracelet
 Team Instinct GO Mega Bracelet
 Crown Tundra Gloves
 Isle of Armor Gloves
+Reigning Champion Sport Glove
+Dark-Type Sport Glove
+Challenger Kit Sport Glove
+Dragon-Type Sport Glove
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
@@ -438,6 +442,7 @@ Galar Beret
 Stantler Headband
 Red-Ribboned Straw Hat
 Crown Tundra Helmet
+Leon’s Look Sport Cap
 Sylveon Bow
 Team Aqua Bandanna
 Team Valor Cap
@@ -482,6 +487,10 @@ Registeel Pants
 Track Shorts
 Skinny Jeans
 Steven-Style Pants
+Reigning Champion Sport Shorts
+Dark-Type Sport Legwear
+Challenger Kit Sport Shorts
+Dragon-Type Sport Shorts
 Team Aqua Shorts
 Blanche-Style Pants
 Candela-Style Skirt
@@ -594,6 +603,10 @@ Team Mystic Turtleneck
 Team Valor Turtleneck
 Crown Tundra Uniform
 Isle of Armor Uniform
+Reigning Champion Sport Top
+Dark-Type Sport Top
+Challenger Kit Sport Top
+Dragon-Type Sport Top
 Sylveon Hoodie
 Trainer Tank
 Charizard Tank
@@ -653,6 +666,9 @@ Galar Shoes
 Steven-Style Shoes
 Crown Tundra Boots
 Isle of Armor Shoes
+Dark-Type Sport High-Tops
+Challenger Kit Sport High-Tops
+Dragon-Type Sport High-Tops
 Sylveon Shoes
 Team Aqua Boots
 Blanche-Style Shoes
@@ -669,6 +685,8 @@ Winter Boots 4
 Long Leg Warmers
 No Socks
 Johto Socks
+Challenger Kit Sport Legwear
+Dragon-Type Sport Legwear
 Team Aqua Tights
 Team Magma Socks
 Wool Leg Warmers
@@ -743,6 +761,10 @@ Team Valor GO Mega Bracelet
 Team Instinct GO Mega Bracelet
 Crown Tundra Gloves
 Isle of Armor Gloves
+Reigning Champion Sport Glove
+Dark-Type Sport Glove
+Challenger Kit Sport Glove
+Dragon-Type Sport Glove
 Team Aqua Gloves
 Team Magma Gloves
 Team Rocket Gloves
@@ -806,6 +828,7 @@ Galar Knit Hat
 Stantler Headband
 Red-Ribboned Straw Hat
 Crown Tundra Helmet
+Leon’s Look Sport Cap
 Sylveon Headband
 Team Aqua Bandanna
 Team Valor Cap
@@ -847,6 +870,10 @@ Skinny Jeans
 Galar Pants
 Steven-Style Pants
 Active Sweatpants
+Reigning Champion Sport Shorts
+Dark-Type Sport Legwear
+Challenger Kit Sport Shorts
+Dragon-Type Sport Shorts
 Team Aqua Shorts
 Blanche-Style Pants
 Candela-Style Pants
@@ -963,6 +990,10 @@ Sports Hoodie
 Streak Hoodie
 Crown Tundra Uniform
 Isle of Armor Uniform
+Reigning Champion Sport Top
+Dark-Type Sport Top
+Challenger Kit Sport Top
+Dragon-Type Sport Top
 Sylveon Hoodie
 Team Aqua Top
 Blanche-Style Coat
@@ -1023,6 +1054,9 @@ Galar Shoes
 Steven-Style Shoes
 Crown Tundra Boots
 Isle of Armor Shoes
+Dark-Type Sport High-Tops
+Challenger Kit Sport High-Tops
+Dragon-Type Sport High-Tops
 Sylveon Shoes
 Team Aqua Boots
 Blanche-Style Shoes
@@ -1038,6 +1072,8 @@ Winter Boots 3
 Winter Boots 4
 Leggings
 No Socks
+Challenger Kit Sport Legwear
+Dragon-Type Sport Legwear
 Team Magma Socks
 Necklaces
 Outfits
@@ -2402,6 +2438,7 @@ Mega Charizard Y is temporarily more powerful!
 Mega Gengar is temporarily more powerful!
 Mega Houndoom is temporarily more powerful!
 Mega Pidgeot is temporarily more powerful!
+Mega Slowbro is temporarily more powerful!
 Mega Venusaur is temporarily more powerful!
 This software is under development and is confidential. Please do not share, display, or distribute it to others.
 LOADING...
@@ -2895,6 +2932,7 @@ Take {0} snapshots of Rock-type Pokémon
 Take a snapshot of a Rock-type Pokémon
 Take a snapshot of a Steel-type Pokémon
 Take a snapshot of a Water-type Pokémon
+Hi, Trainer! There seems to be an issue with your nickname. Please choose a new one.
 CHANGE STICKER
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
@@ -3417,6 +3455,7 @@ Community Day: Gible
 Community Day: Machop
 Community Day: Magikarp
 Community Day: Magmar
+Community Day: Oshawott
 Community Day: Porygon
 Community Day: Roselia
 Community Day: Seedot
@@ -3645,6 +3684,7 @@ You can't add yourself to your own Friend List!
 You don’t have a Team Medallion in your inventory.
 You’re already a member of this team.
 This name contains inappropriate text.
+Unable to retrieve more suggestions. Please try again.
 Unsupported Device
 You've changed nicknames as many times as you can for now. You can try again later.
 Fitness metrics are not currently available. Please try again later.
@@ -3684,13 +3724,20 @@ You cannot access this feature.
 You have already opened this Gift
 An error occurred in trying to start a raid.
 Sorry. You've reached the limit of Pokémon you can assign to Gyms.
+This nickname is no longer available.
+Not Available
 Currently, your network connection is unstable. Please try again later.
 12 Days of Friendship
 Hoenn Celebration Event
+Hoopa’s Arrival
+Now: Psychic Hour!
+Now: Spooky Hour!
 Johto Celebration Event
 Kalos Celebration Event
 Kanto Celebration Event
 Earn more Catch Candy from Pokémon of your Mega-Evolved Pokémon’s type
+Mischief Hour
+There’s mischief starting soon...
 Evolve Kadabra to Alakazam that know the Fast Attack Counter
 Evolve Flaaffy to get an Ampharos that knows Dragon Pulse
 Evolve Bidoof to get a Bibarel that knows Hyper Beam
@@ -3800,18 +3847,27 @@ malibuleo
 GO Tour Challenger
 Well, this was unexpected.
 Well, this was unexpected.
+New Misunderstood Mischief Special Research tasks
 Carnaval
 Festival of Colors
 You have successfully registered for {0}!
 Season of Celebration
 Season of Legends
 Season of Discovery
+Season of Mischief
+Misunderstood Mischief Special Research available
+Complete the Misunderstood Mischief Special Research story to access a special end-of-season event
+Seasonal Pokémon hatching from Eggs
+Seasonal Pokémon found in the wild
 Sinnoh Celebration Event
+Surprise bonuses are now active!
+Surprise bonuses will be active soon!
 Animation Week
 Catch Mastery: Ghost
 Secrets of the Jungle Event
 Galarian Mr. Mime Event
 Wooper Watch
+Different Pokémon appearing more often every hour
 Unova Celebration Event
 EVENTS
 Evolution Event: Catch {0} Horsea
@@ -4271,10 +4327,10 @@ FRIEND SCORES
 Trainer Nickname
 {0} sent you a Gift!
 friend
-<b>This sorting can be used only when online-status sharing is enabled. You can enable it using the quick online-status toggle.</b><size=24>Note: Sharing your online status will share it for all Niantic games you play.</size>
-Don’t Share Online Status
-Quick Online-Status Toggle
-Share Online Status Now
+This sorting can only be used when you share your online-status.  Note: Sharing your online status will share it for all Niantic games you play.
+ No
+Do you want to share your online-status? 
+Yes
 {0} wants to Trade with you.
 Friend Fest: Catch a Nidoran♂
 Friend Fest: Catch a Nidoran♀
@@ -4344,7 +4400,7 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the What You Choose to Be Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the What You Choose to Be Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 What You Choose to Be Ticket
@@ -4354,6 +4410,8 @@ A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:0
 Just a Nibble Ticket
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
+A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+From Scalchops to Seamitars Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -4362,7 +4420,7 @@ A ticket to access the Cotton-Winged Bird Special Research on May 15, 2021, from
 Cotton-Winged Bird Ticket
 A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Roasted Berries Ticket
-Roasted Berries Ticket
+What You Choose to Be Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -5222,6 +5280,7 @@ Cost:
 GO Transporter Energy
 Are you sure you want to charge the GO Transporter?
 Charge Now
+Hoopa’s Arrival Collection Challenge
 h
 {0}H {1}M
 Styles
@@ -5350,10 +5409,10 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on July 3, 2021, wherever you are.
+This ticket will automatically activate to give you access to Special Research on August 14 and 15, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
@@ -5363,6 +5422,8 @@ This ticket will automatically activate to give you access to Special Research o
 A ticket to access Special Research on June 6 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
 Ticket
+A ticket to access Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on September 19, 2021, wherever you are.
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6348,6 +6409,7 @@ Luminous Legends Y
 Lunar New Year
 2× Lure Module duration
 3-hour Lure Module duration
+Event Pokémon attracted to Rainy Lure Modules
 A frosty Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
 Glacial Lure Module
 An electronic Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
@@ -6437,7 +6499,7 @@ Lotad Research: Battle in a raid
 Lotad Research: Use a supereffective Charged Attack in a Gym battle
 Master League Classic
 Premier Cup
-Master Premier Classic
+ML Premier Classic
 Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
 Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
 I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
@@ -6503,7 +6565,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-09-06T10:29:18.296089at SHA 5d4715b68ef9633fbce8575b9da57a272946f2a5Pipeline 712579, job 6897949
+Built at 2021-10-16T17:25:08.423110at SHA 35d284e144d5842878f487c94356efa76c193008Pipeline 744290, job 7335407
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -6834,6 +6896,7 @@ Tri Attack
 Gust
 Incinerate
 Feather Dance
+Weather Ball
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -7081,6 +7144,7 @@ The photo could not be saved.
 5 surprise encounters with Machop in GO Snapshot
 5 surprise encounters with Magikarp in GO Snapshot
 5 surprise encounters with Magmar in GO Snapshot
+5 surprise encounters with Oshawott in GO Snapshot
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
@@ -7122,7 +7186,7 @@ Please categorize this location.
 Categorize this location.
 Category is already selected
 BACK
-Location Category
+Wayspot Category
 OK
 Enter comma-separated suggestions here.
 Category suggestion (optional)
@@ -7137,6 +7201,9 @@ You’ll have {0} more scan contribution(s) available tomorrow.
 You have {0} scan contribution(s) available today.
 You’ve reached your max daily scan contribution(s) of {0}.
 CANCEL
+You’ll have {0} more category submission(s) available tomorrow.
+You have {0} category submission(s) available today.
+You’ve reached your max daily category submission(s) of {0}.
 You’ll have {0} more description edit(s) available tomorrow.
 You have {0} description edit(s) available today.
 PokéStop Description
@@ -7193,6 +7260,8 @@ Add a Photo
 TAKE PHOTO
 {0} PokéStop scans remaining
 1 PokéStop scan remaining
+{0} category submissions remaining
+1 category submission remaining
 {0} description edits remaining
 1 description edit remaining
 {0} location edits remaining
@@ -7250,7 +7319,7 @@ Set location
 Error Loading Map
 Device has no camera
 Thank you for your contribution!
-Thank you for your contributions! You and nearby trainers can get a bonus from this Gym.
+Thank you for your contributions! You and other Trainers can get bonuses at this Gym.
 Thank you for your contribution! You and other Trainers can get bonuses at this Gym.
 Gym Power-Up Complete!
 Level {0}
@@ -7281,7 +7350,7 @@ Total of {0} location point(s) added to a PokéStop or Gym
 UPLOAD REQUIRED
 Uploading {0}/{1}
 VIEW ON MAP ({0})
-Power-up active until {0:ddd hh:mm tt}
+Power-up remaining: {0:ddd hh:mm tt}
 Removed per the request of the property owner
 Removed upon request
  
@@ -10497,6 +10566,7 @@ Collect more PokéStop modules!
 Walk closer to interact with this PokéStop.
 Daily PokéStop Spin
 10× XP for visiting PokéStops for the first time
+3× XP for visiting PokéStops for the first time
 2× XP for spinning PokéStops
 10× XP for spinning PokéStops
 Your Item Bag is full. You can buy more space for items in the shop.
@@ -10796,6 +10866,7 @@ Let’s GO, Meltan
 A Mythical Discovery
 Complete {0} Collection Challenges
 Complete a Collection Challenge
+From Scalchops to Seamitars
 Decoding Porygon
 A Troubling Situation
 Looming in the Shadows
@@ -10817,6 +10888,7 @@ Roasted Berries
 A Hairy Situation
 Daily Bonus
 Defeat Jessie or James {0} times
+Defeat {0} Team GO Rocket members
 Great to see you again, %PLAYERNAME%. I always run into you when I find something exciting. Maybe you’re my Special Research good-luck charm!
 Last night, I was studying the chemical reaction that causes Trubbish to appear.
 Suddenly I saw bright flashing lights in the near distance and went to investigate.
@@ -11403,7 +11475,7 @@ You should feel incredibly proud of what you’ve accomplished today, Trainer. O
 Now, get out there and enjoy the festivities! Until next time—let’s GO!
 Excellent choice, %PLAYERNAME%!
 Flygon has a distinct look, with red covers that shield its eyes from sand—but did you know that the flapping of its wings sounds almost like singing?
-I can’t wait to hear what sort of dynamic it brings to the band’s sound! 
+I can’t wait to hear what sort of dynamic it brings to the band’s sound!
 Flygon probably needs a few moments to get warmed up. Why don’t you let Blanche— Oh, no.
 Looks like Team GO Rocket is trying to disrupt the celebrations! Must they really try to ruin everything?
 Sorry to interrupt your preparations, Director, but it looks like we’ll be needing your battling skills today as well. Let’s power up and evolve some Pokémon to prepare!
@@ -11574,6 +11646,9 @@ Win a Mega Raid
 More research requests will be coming soon!
 Make {0} new friends
 Make a new friend
+Catch {0} Oshawott
+Evolve {0} Oshawott
+Evolve a Dewott
 Earn the platinum Kanto medal
 Earn {0} platinum medals
 Earn 5 platinum medals
@@ -11718,7 +11793,7 @@ Welcome back, %PLAYERNAME%. Hopefully you got a few good snapshots of Bidoof whi
 Now—according to the research request we received, we must choose to focus our efforts on a Pokémon that has nerves of steel or a Pokémon that nests alongside water.
 I know what you’re thinking: choosing between Bidoof and Bidoof isn’t easy. But, then again, the most important research rarely is!
 You’re going with Bidoof, huh? I like your style, %PLAYERNAME%.
-Bidoof isn’t just cute to look at—it’s more agile and active than it appears! Nothing can perturb it, making it an excellent member of your team. 
+Bidoof isn’t just cute to look at—it’s more agile and active than it appears! Nothing can perturb it, making it an excellent member of your team.
 I think we could all learn from that steadiness. Channel your inner Bidoof so you can steel your nerves, too!
 You choose Bidoof, eh? I never doubted it for a second.
 Bidoof often live in groups by the water where they make their nests. I recall that Bibarel, Bidoof’s Evolution, makes its nest by damming streams with bark and mud.
@@ -12394,6 +12469,19 @@ Please carry out the following research tasks.{0}{1}{2}
 We found Mew! Awesome! This is an experience to remember forever.
 Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
 My assistants and I will request some Special Research from you in the future. Stay in touch!
+Hey there, %PLAYERNAME%! I’m hoping you can help me with something. You see, I was out for a walk recently and noticed several trees covered in slash marks—and I think I know what made them.
+There’s a Pokémon called Oshawott—the Sea Otter Pokémon—that keeps a scalchop on its stomach that it can detach and use as a blade. I’ve seen a lot of Oshawott around lately, so I’m thinking they may be our mystery tree carvers.
+Could you catch some Oshawott so we can learn more about them?
+Welcome back, %PLAYERNAME%! Did you know that Oshawott uses the scalchop on its stomach not only to fight, but also to break open hard berries? Gotta love a good multitool.
+Now that we’ve learned more about Oshawott, I was hoping we could turn our attention to its Evolution, Dewott. Don’t let its cute appearance fool you—Dewott takes itself very seriously.
+Also known as the Discipline Pokémon, Dewott uses strict training to learn its flowing double-scalchop technique. I’d love to see Dewott’s fighting in action! Can you evolve your Oshawott for me, Trainer?
+Wow, Dewott’s double-scalchop technique is incredible! Pokémon truly never cease to amaze, eh, %PLAYERNAME%?
+I barely have the coordination to rub my tummy and pat my head at the same time, and here we have Pokémon mastering bespoke battle techniques. It’s inspiring stuff!
+I think I’ve gained a better understanding of Dewott—which means we can begin studying its Evolution.
+Dewott’s Evolution, Samurott, is known to wield swords called seamitars incorporated in its armor. Apparently, Samurott can draw and sheathe its seamitars in the time it takes a foe to blink.
+Not hard to see why it’s known as the Formidable Pokémon! Why don’t you evolve Dewott so we can witness Samurott’s majesty for ourselves?
+Excellent work, Trainer! That’s a fine Samurott. Its seamitars truly are a sight to behold! Knowing how quickly it can draw and sheathe its blades, I wonder how fast it can dice up berries...
+Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them too! I’ll “sea” you next time! Haha!
 Hey there, %PLAYERNAME%! It’s great to see you again! I’m always grateful to have a helping hand with my research.
 Speaking of research, have you heard of Porygon, the Virtual Pokémon?
 Well, I’m not entirely sure why, but Porygon have been appearing more frequently in the area as of late!
@@ -12738,6 +12826,38 @@ While consulting the Pokédex for possible culprits, I came across an entry for 
 Munna is said to eat the dreams of both people and Pokémon, expelling mist as a result. The mist is pink if the dream is pleasant, and black if it’s a nightmare.
 I was pretty pleased to be dreaming of those Unovan Legendary Pokémon again, so I suspect Munna’s mist was nice and rosy that day!
 Munna seems like a fascinating Pokémon, and I can’t wait to research it more. I hope you’ll give me a hand when the time comes, Trainer! Now, let’s GO!
+Hey there, %PLAYERNAME%! I’m glad you’re here. A new adventure is about to begin!
+Not long ago, various Legendary Pokémon began emerging from mysterious rings that suddenly appeared in the sky. After some research, we discovered it was Hoopa, the Mischief Pokémon, that was responsible.
+Hoopa’s rings allow it to teleport things—including itself—wherever it wants. That power makes it hard to track down, but for some reason, Hoopa seems to keep returning to this area.
+How do I know? Well, I was doing some lab work recently when my glasses were lifted straight off my head. Spark was there assisting me, and he said he saw a small, lavender-colored hand emerge from a ring and snatch my glasses. Pretty bold, eh?
+Luckily, he and Candela managed to retrieve my spectacles by chasing down the rings that were popping up at random around my mobile lab. So, at least I can still see. Haha!
+Needless to say, I’m still not sure why Hoopa’s here. Tracking it down has been difficult, but with your help, I’m sure we’ll crack the case in no time!
+For now, why don’t you try using an Incense to see what Pokémon you can find in the area?
+As with all great mysteries, solving this will take time, patience, and trust. I’ll need to work alone at some points, but I promise I’ll return to share my findings and help propel us forward.
+You just keep exploring the world as you always do. You never know what you might find!
+I’ll report back here once I have more information on Hoopa. Thanks in advance for your help, %PLAYERNAME%!
+Hey there, %PLAYERNAME%! It’s so good to see you again. Have you managed to spot Hoopa anywhere?
+Although some think of Hoopa as a mischievous troublemaker, really all it wants to do is have fun!
+Speaking of fun, it seems Hoopa had a blast filling up my mobile lab with Pinap Berries. Maybe it spotted me happily digging into some during my lunch break and decided I could use a few more.
+It was a bit of a surprise when I opened the lab door and piles of Pinap Berries poured out! It took a while to clean everything up—but my lab did smell amazing afterward, so it wasn’t all bad.
+It was nice having an excuse to clean—not to mention I have enough Pinap Berries to last me for days. I might even make some jam...
+Anyway, Hoopa sure has seemed a lot friendlier these days, hasn’t it? I think it’s been having lots of fun interacting with us. Maybe that’s why it’s been bringing all sorts of surprises into our world.
+Who knows—you might be able to catch it now!
+Wow, %PLAYERNAME%! I can't believe you caught Hoopa!
+Normally I’d say we’re done with our research, but I wouldn’t be surprised if Hoopa continued to cause mischief.
+It seems there’s still much for us to learn about this Pokémon!
+By the way, I’ve noticed that some Psychic-type Pokémon have been appearing around my lab. Could Hoopa’s presence be the cause?
+Perhaps we’ll be able to use this as an opportunity to research Psychic-type Pokémon, including Hoopa. I’ll have to investigate this phenomenon further, and I’ll let you know when I’ve learned more. Until next time!
+Hey there, %PLAYERNAME%! I’ve noticed an increase in the number of Psychic-type Pokémon appearing around my mobile lab of late.
+Whenever something like this happens, I can’t help but get excited about researching the cause!
+As you may recall, the Mythical Pokémon Hoopa is a Psychic and Ghost type. I have a hunch its recent appearances might be causing the uptick in Psychic-type Pokémon in these parts.
+What’s more, I believe we may be able to learn more about Hoopa by researching other Psychic-type Pokémon. There’s one in particular that’s caught my attention: Inkay.
+My colleague in the Kalos region told me that Inkay is known as the Revolving Pokémon, and that it evolves in a unique way.
+I’m ashamed to say I’ve forgotten the details, but I do remember him saying “upside-down” several times during his explanation. If only I could remember why...
+Maybe it’s my one-track mind speaking, but I immediately think of Hoopa when I hear “upside-down”—because its appearance turned our world right on its head! Haha!
+Hey, Trainer! Have you noticed that Hoopa has continued to cause mischief? Its tricks are always unexpected, but I do feel like Hoopa’s brought some welcome color to our lives.
+Speaking of colorful things, I’ve heard reports that there’s a certain Pokémon nearby that’s known to have multiple appearances. Keep your eyes peeled for me, won’t you?
+In the meantime, I’m going to analyze everything we’ve learned about Psychic-type Pokémon thus far. Hopefully it’ll point us in the right direction to continue our research on Pokémon forms—and Hoopa!
 Hey there, %PLAYERNAME%! Perfect timing.
 I just got back from a lengthy stroll in the sunshine. It’s incredible how much a bit of fresh air can affect your energy and mood!
 But that’s not the only thing that’s got me feeling chipper. You see, I witnessed something quite interesting while I was out and about.
@@ -12791,7 +12911,7 @@ Thank you for your help researching this odd occurrence. Once these winds die do
 Hello there, %PLAYERNAME%! I was just taking a moment to admire the weather here. Blue skies abound, with the fluffiest of clouds floating by.
 I’d love to just kick back and enjoy the tranquility of it all, but I’ve observed some of the clouds moving rather...strangely.
 Believe it or not, I believe some of them are actually flapping—yes, like birds!
-The first few times I saw it, I thought my eyes were playing tricks on me, but as the motions grew more frequent, I began to suspect a Pokémon was involved. 
+The first few times I saw it, I thought my eyes were playing tricks on me, but as the motions grew more frequent, I began to suspect a Pokémon was involved.
 Mind going on a little jaunt to see what you can discover?
 Welcome back, Trainer! What have you discovered?
 Ah—Swablu! The Cotton Bird Pokémon. Hmm... It’s all beginning to make sense.
@@ -12842,7 +12962,7 @@ I can’t thank you enough for your hard work. I hope you put this Charged TM an
 By the way, I literally stumbled across a mysterious Pokémon I’ve never encountered before.
 I think you’re the perfect Trainer to take this Pokémon and help it reach its potential. Best of luck, and I’ll be in touch soon!
 Hey there, %PLAYERNAME%! Glad to see you.
-I was just thinking that it’d be interesting to research more about my Buddy Pokémon and the team leaders’ buddies. 
+I was just thinking that it’d be interesting to research more about my Buddy Pokémon and the team leaders’ buddies.
 The four of us have powerful bonds with our buddies. Blanche has formed a wonderful relationship with Lapras, Candela has had Rapidash since it was a Ponyta, and Spark has developed an electrifying bond with Elekid.
 My buddy is the Mythical Pokémon Meltan. Since Meltan and I met, I’ve been documenting everything I learn about it. And trust me—there’s a lot to learn!
 I’ve actually heard some reports of Meltan sightings recently. Maybe you’ll run into one on your adventures?
@@ -12853,7 +12973,7 @@ Lapras are known to have gentle hearts and can even understand human speech. I c
 That said, Blanche clearly feels a special connection to Lapras.
 Blanche got Lapras by trading with a fellow Team Mystic Trainer. I wonder if that has something to do with it.
 At any rate, let’s focus our research on Water- and Ice-type Pokémon to learn more about the Pokémon that Blanche holds dear.
-Excellent work, %PLAYERNAME%. It looks like you have your very own Lapras, just like Blanche! 
+Excellent work, %PLAYERNAME%. It looks like you have your very own Lapras, just like Blanche!
 Be sure to tell your Lapras I said hi! I never miss a chance to greet new Pokémon. Now, let’s move on to our next dynamic duo: Spark and Elekid.
 The leader of Team Instinct has always had a soft spot for Pokémon that hatch from Eggs, so it’s only natural that he’d have a buddy like Elekid.
 But don’t let this Pokémon’s small stature fool you! Spark’s Elekid is incredibly powerful, making it a fitting buddy for the energetic team leader.
@@ -13174,6 +13294,11 @@ A Mythical Discovery (5/8)
 A Mythical Discovery (6/8)
 A Mythical Discovery (7/8)
 A Mythical Discovery (8/8)
+From Scalchops to Seamitars
+From Scalchops to Seamitars (1/4)
+From Scalchops to Seamitars (2/4)
+From Scalchops to Seamitars (3/4)
+From Scalchops to Seamitars (4/4)
 Decoding Porygon
 Decoding Porygon (1/4)
 Decoding Porygon (2/4)
@@ -13258,6 +13383,23 @@ Season of Legends (2/5)
 Season of Legends (3/5)
 Season of Legends (4/5)
 Season of Legends (5/5)
+Misunderstood Mischief
+Misunderstood Mischief (1/16)
+Misunderstood Mischief (2/16)
+Misunderstood Mischief (11/16)
+Misunderstood Mischief (12/16)
+Misunderstood Mischief (13/16)
+Misunderstood Mischief (14/16)
+Misunderstood Mischief (15/16)
+Misunderstood Mischief (16/16)
+Misunderstood Mischief (3/16)
+Misunderstood Mischief (4/16)
+Misunderstood Mischief (5/16)
+Misunderstood Mischief (6/16)
+Misunderstood Mischief (7/16)
+Misunderstood Mischief (8/16)
+Misunderstood Mischief (9/16)
+Misunderstood Mischief (10/16)
 Snivy in the Sunshine
 Snivy in the Sunshine (1/4)
 Snivy in the Sunshine (2/4)
@@ -13368,6 +13510,11 @@ Ultra Unlock 2021: Space (2/5)
 Ultra Unlock 2021: Space (3/5)
 Ultra Unlock 2021: Space (4/5)
 Ultra Unlock 2021: Space (5/5)
+Ultra Unlock 2021: Sword and Shield (1/5)
+Ultra Unlock 2021: Sword and Shield (2/5)
+Ultra Unlock 2021: Sword and Shield (3/5)
+Ultra Unlock 2021: Sword and Shield (4/5)
+Ultra Unlock 2021: Sword and Shield (5/5)
 A Hairy Situation
 A Hairy Situation (1/4)
 A Hairy Situation (2/4)
@@ -13403,6 +13550,11 @@ Transfer {0} Psychic-type Pokémon
 Transfer {0} Rock-type Pokémon
 Transfer {0} Steel-type Pokémon
 Transfer {0} Water-type Pokémon
+Professor Willow is currently performing an investigation regarding this research. Check back for more details soon!
+Use any Potion on a Pokémon
+Use a Hyper Potion on a Pokémon
+Use a Max Potion on a Pokémon
+Use a Super Potion on a Pokémon
 Valentine’s Day: Catch {0} Luvdisc
 Valentine’s Day: Catch a Chansey
 Spin {0} different PokéStops
@@ -15192,6 +15344,7 @@ Thank you for coming. There are lots of interesting Pokémon appearing in the wi
 Let’s discover and study them all together!
 Wow, %PLAYERNAME%! That was such an exciting journey.
 Why not take the time to bond with the other Trainers here?
+Why not take some time to bond with your buddy?
 Let’s GO make some memories!
 Welcome to Safari Zone Goyang 2020, %PLAYERNAME%!
 Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Goyang 2020!
@@ -15580,6 +15733,7 @@ More Gible are appearing in the wild
 More Machop are appearing in the wild
 More Magikarp are appearing in the wild
 More Magmar are appearing in the wild
+More Oshawott are appearing in the wild
 More Porygon are appearing in the wild
 More Roselia are appearing in the wild
 More Seedot are appearing in the wild
@@ -15747,6 +15901,7 @@ Tickets for the Just a Nibble Special Research story available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
+Ticket for the Special Research story From Scalchops to Seamitars available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
@@ -15782,6 +15937,10 @@ Featured Pokémon in Timed Research
 Meowth featured in Timed Research
 Nidoran♀ and Nidoran♂ featured in Timed Research
 Snubbull featured in Timed Research
+You can claim a Gym controlled by a rival team by defeating the Pokémon in the Gym. If you reduce the motivation of all Pokémon in the Gym to zero, you’ll be able to claim the Gym for your team.
+Battle at Gyms
+Earn up to 50 PokéCoins per day when your Pokémon defends a Gym.You’ll earn these PokéCoins when your Pokémon returns from defending the Gym.
+Earn PokéCoins
 Switch out Pokémon during battle to utilize your Battle Party’s different Charged Attacks.
 A Curveball Throw will increase your chances of catching a Pokémon.
 Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
@@ -15792,10 +15951,30 @@ Feeding a Golden Razz Berry to a Pokémon defending a Gym will fully heal that P
 It’s common for Trainers to challenge difficult raids the moment the Raid Egg hatches.
 Prepare a Battle Party in advance to lock in your strategy before challenging a Raid Boss.
 Create Tags
+Looks like your Pokémon fainted. Here are some Potions and Revives that you can use to restore your Pokémon’s HP.
+To use these items, open your Item Bag. Hope you find them helpful, {0}! Let’s take care of our Pokémon, just like they take care of us.
+Collect more Potions and Revives by winning Raid Battles and spinning Photo Discs at PokéStops and Gyms!
+Your work doesn’t stop there. You should get your Pokémon to full HP!
+You can use Potions to restore the HP of your Pokémon.
+When using Potions, tap on a Pokémon to restore its HP.
+Just like new! Seeing a Pokémon feel better is one of my favorite things.
+Use your Potions to restore the HP of your Pokémon.
+Tap on a Pokémon to restore its HP.
+Once your attack meter is full, tap the button to perform a Charged Attack, which can deal a lot of damage.
+Charged Attacks
+The icon indicates a raid’s difficulty. Work with other Trainers to defeat more challenging Raid Bosses!If you defeat a Mega Raid Boss, you’ll get Mega Energy that you can use to Mega Evolve that Pokémon.
+Raid Difficulty
+Swipe to the left or right to dodge incoming attacks from the opponent.
+Dodge
+Use a Revive on a fainted Pokémon to restore half its maximum HP.
+Use Revives to revive fainted Pokémon.
+Tap on your fainted Pokémon to help revive them.
+TIPS
 Evolve
 Gym Challenger
 Gym Defender
 Trades
+LEARN MORE
 As your Pokémon collection grows, try using tags to easily categorize and sort your Pokémon based on specific characteristics.
 Here are some examples of ways you can utilize tags.
 Tagging
@@ -16085,13 +16264,14 @@ Steel-type Pokémon are weak to Fire-, Fighting-, and Ground-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Water-type Pokémon are weak to Grass- and Electric-type attacks.
 Ultra League Remix
-Ultra Premier Classic
+UL Premier Classic
 Ultra Unlock 2020
 Ultra Bonus Unlock
 Ultra Bonus Unlock: Part 1
 Ultra Bonus Unlock: Part 2
 Ultra Bonus Unlock: Part 3
 Ultra Unlock Part 2: Space
+Ultra Unlock Part 3: Sword and Shield
 Ultra Unlock Part 1: Time
 https://pokemongo.nianticlabs.com/support/unauthorized-device/en
 This device, OS, or software is not compatible with Pokémon GO.
@@ -16099,6 +16279,7 @@ This device, OS, or software is not compatible with Pokémon GO.<a href="unautho
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center</a> for more information.
 If you remove this friend in this game, you’ll remove them as a friend in all Niantic games you both play.
 Are you sure you want to unfriend {0}?
+H
 Unlimited
 <size=36><b>Unlink this account?</b></size>You won’t be able to sign in with this method.
 Unable to unlink from this account.
@@ -16182,6 +16363,12 @@ Thank you for your contribution.
 Use a pass to join the Raid Battle
 Join the Raid Battle(A pass will be used when the battle starts)
 Use a pass to join the Raid Battle
+You can change your nickname once.
+You can change your nickname later.
+Looks good!
+Looks good!You can change your nickname once.
+Looks good!You can change your nickname later.
+Available Nicknames
 Well done! It looks like you’ve earned some Stardust and Candy. Both of these items can be used to make your Pokémon stronger.
 Excellent! You’ve successfully put the Egg in the Incubator. Keep walking and it’ll hatch soon enough!
 Looks like you got an Egg from a PokéStop!
@@ -16282,11 +16469,11 @@ Water Festival: Hatch {0} Eggs
 Water Festival: Win {0} raids
 Water Festival: Defeat a Team GO Rocket Grunt
 Water Festival: Take {0} snapshots of Water-type Pokémon
-Congratulations! You’ve become eligible for Niantic Wayfarer, a feature that allows you to nominate interesting and unique places in the world around you as points of interest in Niantic games. Complete your Wayfarer training to unlock PokéStop nomination and editing features.
-CHECK IT OUT
+Congratulations! You’ve become eligible for Niantic Wayfarer, a program that allows you to enhance Niantic games by contributing information on unique and interesting places in the world around you. Complete the Wayfarer tutorial to unlock PokéStop nomination and editing features.
+VISIT WAYFARER
 MAYBE LATER
 You’re eligible for Niantic Wayfarer!
-Complete Wayfarer training to unlock!
+Complete the Wayfarer tutorial to unlock!
 I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!

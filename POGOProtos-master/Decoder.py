@@ -21,7 +21,7 @@ with open('GAME_MASTER.json', 'w') as out_file:
 	out_file.write(response)
 
 # Backup input and output files to the "versions" folder
-timestamp = re.findall('"batchId": "([0-9]+)"', response[-300:])[0]
+timestamp = re.findall('"batchId": "([0-9]+)"', response[-1000:])[0]
 versions_list = os.listdir("versions")
 
 if timestamp not in versions_list:
@@ -45,5 +45,5 @@ if int(timestamp) > int(versions_list[0]):
 	with open(f"versions/latest-version.txt", "w") as out_file:
 		out_file.write(timestamp)
 
-print('Success to decode as "GAME_MASTER.json" !')
+print('Success to decode as "GAME_MASTER.json"!')
 print(f"Timestamp : {timestamp}")

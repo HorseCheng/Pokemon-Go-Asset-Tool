@@ -309,7 +309,7 @@ class move():
         else: self.turnpvp = int(tempturn)+1
         
 #Rearrange poke1 to the row after poke2
-def rearrange(dataframe,poke1, poke2):
+def rearrange(dataframe, poke1, poke2):
     x=dataframe.loc[dataframe['name'].str.contains(poke1)]
     dataframe.drop(dataframe[dataframe['name'].str.contains(poke1)].index, axis=0, inplace=True)
     y=dataframe.index[dataframe['name'].str.contains(poke2)][0]
@@ -380,50 +380,40 @@ for i in pokelist:
                     i.charged[value]=z.chi  
 
 # Output file
-origin=pd.DataFrame([i.__dict__ for i in pokelist])
+origin = pd.DataFrame([i.__dict__ for i in pokelist])
 
-main=origin[ ~origin['name'].str.contains('NORMAL|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|URSHIFU$|SHADOW$|PURIFIED$') ].reset_index(drop=True)
-main=main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
+main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|URSHIFU$|SHADOW$|PURIFIED$') ].reset_index(drop=True)
+main = main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 # Rearange for DEERLING AUTUMN
-main=rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
-main=rearrange(main, 'SAWSBUCK_AUTUMN', 'SAWSBUCK_SUMMER' )
+main = rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
+main = rearrange(main, 'SAWSBUCK_AUTUMN', 'SAWSBUCK_SUMMER' )
+main = rearrange(main, 'PUMPKABOO_SMALL', 'PUMPKABOO_LARGE')
+main = rearrange(main, 'GOURGEIST_SMALL', 'GOURGEIST_LARGE')
 
 # =============================================================================
 # Main Pokemon List
 # =============================================================================
-maindb=main.drop(["id","name","chi","eng","quick","charged","shadowstardust","shadowcandy","mega","mega2"], axis=1)
-mainheader=main[["id","name","chi","eng"]]
+maindb = main.drop(["id","name","chi","eng","quick","charged","shadowstardust","shadowcandy","mega","mega2"], axis=1)
+mainheader = main[["id","name","chi","eng"]]
 maindb.to_csv('Pokemon Data/Pokemondb.csv' , encoding='utf_8_sig', header=False, index=False)
 mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', header=False, index=False)
 
 # =============================================================================
-# Shadow Pokemon List
-# =============================================================================
-shadow=origin[ origin['name'].str.contains('SHADOW|PURIFIED') ]
-shadow=shadow.drop(["name","quick","charged","desccat","descintro","mega","mega2"], axis=1)
-shadow.insert(3, "Form","",True) 
-shadow["Form"] = "暗影型態"
-shadow.loc[1::2,"Form"] = "淨化型態"
-shadow=shadow.sort_values(by=['id'],kind='mergesort')
-shadow.to_csv('Pokemon Data/Shadows.csv' , encoding='utf_8_sig', header=False, index=False)
-
-
-# =============================================================================
 # Mega Pokemon List
 # =============================================================================
-mega1= main[~ main["mega"].isnull()].drop_duplicates(subset ="chi") 
-pokename1=mega1[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
-megainfo1=pd.DataFrame(list(mega1["mega"]))
-megamerge1=pd.concat([pokename1,megainfo1],axis=1)
+mega1 = main[~ main["mega"].isnull()].drop_duplicates(subset ="chi") 
+pokename1 = mega1[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
+megainfo1 = pd.DataFrame(list(mega1["mega"]))
+megamerge1 = pd.concat([pokename1,megainfo1],axis=1)
 
-mega2= main[~ main["mega2"].isnull()]
-pokename2=mega2[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
-megainfo2=pd.DataFrame(list(mega1["mega"]))
-megainfo2=pd.DataFrame(list(mega2["mega2"]))
-megamerge2=pd.concat([pokename2, megainfo2], axis=1)
+mega2 = main[~ main["mega2"].isnull()]
+pokename2 = mega2[["chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
+megainfo2 = pd.DataFrame(list(mega1["mega"]))
+megainfo2 = pd.DataFrame(list(mega2["mega2"]))
+megamerge2 = pd.concat([pokename2, megainfo2], axis=1)
 
-megaout=pd.concat([megamerge1,megamerge2]).sort_values("id")
+megaout = pd.concat([megamerge1,megamerge2]).sort_values("id")
 megaout.insert(3, "Empty", "", True) 
 megaout.insert(15, "Empty", "", True) 
 megaout.to_csv('Pokemon Data/Mega.csv' , encoding='utf_8_sig', header=False, index=False)
@@ -432,37 +422,37 @@ megaout.to_csv('Pokemon Data/Mega.csv' , encoding='utf_8_sig', header=False, ind
 # Pokemon Move
 # =============================================================================
 # Move MEW to last line and Segment Mew
-pokename=main[["id","name","chi","eng"]]
-quickmove=main["quick"].tolist()
-chargedmove=main["charged"].tolist()
+pokename = main[["id","name","chi","eng"]]
+quickmove = main["quick"].tolist()
+chargedmove = main["charged"].tolist()
 
-mewindex=pokename[pokename['name'] =='MEW'].index[0]
-mewquick=quickmove[mewindex]
-mewcharged=chargedmove[mewindex]
-mewcharged=list(set(mewcharged))
-mewline=pokename.iloc[mewindex]
+mewindex = pokename[pokename['name'] =='MEW'].index[0]
+mewquick = quickmove[mewindex]
+mewcharged = chargedmove[mewindex]
+mewcharged = list(set(mewcharged))
+mewline = pokename.iloc[mewindex]
 del quickmove[mewindex], chargedmove[mewindex]
-pokename=pokename.drop(mewindex).append(mewline)
+pokename = pokename.drop(mewindex).append(mewline)
 
 print(f"#max quick: {maxquick}, #max charged: {maxcharged}")
-temp=[mewquick[x:x+maxquick] for x in range(0, len(mewquick),maxquick)]
+temp = [mewquick[x:x+maxquick] for x in range(0, len(mewquick),maxquick)]
 quickmove.extend(temp)
-temp=[mewcharged[x:x+maxcharged] for x in range(0, len(mewcharged),maxcharged)]
+temp = [mewcharged[x:x+maxcharged] for x in range(0, len(mewcharged),maxcharged)]
 chargedmove.extend(temp)
 
-x=pd.Series(quickmove).apply(pd.Series)
-y=pd.Series(chargedmove).apply(pd.Series)
-lenx=len(x);leny=len(y);lenpoke=len(pokename)
+x = pd.Series(quickmove).apply(pd.Series)
+y = pd.Series(chargedmove).apply(pd.Series)
+lenx = len(x);leny=len(y);lenpoke=len(pokename)
 for _ in range(leny-lenx):
-    x=x.append(pd.Series(), ignore_index=True)
+    x = x.append(pd.Series(), ignore_index=True)
 for _ in range(leny-lenpoke):
     pokename=pokename.append(pokename.iloc[-1], ignore_index=True)   
-a=[i for i in range(leny)]
+a = [i for i in range(leny)]
 y['test']=a; x['test']=a; pokename['test']=a
 
-pokemove=pokename.merge(x,on='test').merge(y,on='test').drop('test',axis=1)
-pokemoveheader=pokemove[["id","name","chi","eng"]]
-pokemovedb=pokemove.drop(["id","name","chi","eng"], axis=1)
+pokemove = pokename.merge(x,on='test').merge(y,on='test').drop('test',axis=1)
+pokemoveheader = pokemove[["id","name","chi","eng"]]
+pokemovedb = pokemove.drop(["id","name","chi","eng"], axis=1)
 pokemoveheader.to_csv('Pokemon Data/Pokemoveheader.csv' , encoding='utf_8_sig', header=False, index=False)
 pokemovedb.to_csv('Pokemon Data/Pokemovedb.csv' , encoding='utf_8_sig', header=False, index=False)
 
@@ -475,8 +465,8 @@ for i in moveorigin:
     if i["quick"]== True:
         quickdb.append(i)
     else: chargeddb.append(i)
-quickdb=pd.DataFrame(quickdb).drop(["name","quick","buff","buffchance"],axis=1)
-chargeddb=pd.DataFrame(chargeddb).drop(["name","quick","turnpvp"],axis=1)
+quickdb = pd.DataFrame(quickdb).drop(["name","quick","buff","buffchance"],axis=1)
+chargeddb = pd.DataFrame(chargeddb).drop(["name","quick","turnpvp"],axis=1)
 
 quickdb.insert(8, "split", "")
 quickdb.insert(quickdb.shape[1], "split2", "")
@@ -484,9 +474,9 @@ chargeddb.insert(8, "split", "")
 chargeddb.insert(11, "split2", "")
 
 for _ in range(len(chargeddb)-len(quickdb)):
-    quickdb=quickdb.append(pd.Series(dtype="float64"), ignore_index=True)
+    quickdb = quickdb.append(pd.Series(dtype="float64"), ignore_index=True)
     
-a=[i for i in range(len(chargeddb))]
-quickdb['test']=a; chargeddb['test']=a; 
-movesdb=quickdb.merge(chargeddb,on='test').drop('test',axis=1)
+a = [i for i in range(len(chargeddb))]
+quickdb['test'] = a; chargeddb['test'] = a; 
+movesdb = quickdb.merge(chargeddb,on='test').drop('test',axis=1)
 movesdb.to_csv('Pokemon Data/Movesdb.csv' , encoding='utf_8_sig', header=False, index=False)

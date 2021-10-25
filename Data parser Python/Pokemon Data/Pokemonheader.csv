@@ -833,8 +833,14 @@
 0707,KLEFKI,鑰圈兒,Klefki
 0708,PHANTUMP,小木靈,Phantump
 0709,TREVENANT,朽木妖,Trevenant
-0710,PUMPKABOO,南瓜精,Pumpkaboo
-0711,GOURGEIST,南瓜怪人,Gourgeist
+0710,PUMPKABOO_AVERAGE,南瓜精,Pumpkaboo
+0710,PUMPKABOO_SMALL,南瓜精,Pumpkaboo
+0710,PUMPKABOO_LARGE,南瓜精,Pumpkaboo
+0710,PUMPKABOO_SUPER,南瓜精,Pumpkaboo
+0711,GOURGEIST_AVERAGE,南瓜怪人,Gourgeist
+0711,GOURGEIST_SMALL,南瓜怪人,Gourgeist
+0711,GOURGEIST_LARGE,南瓜怪人,Gourgeist
+0711,GOURGEIST_SUPER,南瓜怪人,Gourgeist
 0712,BERGMITE,冰寶,Bergmite
 0713,AVALUGG,冰岩怪,Avalugg
 0714,NOIBAT,嗡蝠,Noibat
