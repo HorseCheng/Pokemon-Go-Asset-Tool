@@ -945,14 +945,14 @@
 格鬥,,陰天,,0.02,0.1,254,236,192,2.9,210.0,,100000,100,20.0,7.0,0.5,0.1,無性別,強者寶可夢,與眾人之王協力 拯救了伽勒爾的寶可夢。 吸收金屬來進行戰鬥。
 毒,龍,陰天,強風,0.02,0.1,278,192,268,20.0,950.0,,100000,100,20.0,4.0,,,無性別,超極巨寶可夢,會用胸部的核心吸收 伽勒爾的大地湧出的能量， 藉以保持自己的活力。
 毒,龍,陰天,強風,0.02,0.1,251,505,452,20.0,950.0,,100000,100,20.0,4.0,,,無性別,超極巨寶可夢,會用胸部的核心吸收 伽勒爾的大地湧出的能量， 藉以保持自己的活力。
-格鬥,,陰天,,0.02,0.1,170,112,155,0.6,12.0,400,100000,100,20.0,4.0,,,0.875,拳法寶可夢,Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.
-格鬥,水,陰天,雨天,0.02,0.1,254,177,225,1.9,105.0,,100000,100,20.0,4.0,,,0.875,拳法寶可夢,This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
-格鬥,惡,陰天,起霧,0.02,0.1,254,177,225,1.9,105.0,,100000,100,20.0,4.0,,,0.875,拳法寶可夢,This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
-惡,草,起霧,晴天,0.1,,242,215,233,1.8,70.0,,100000,100,20.0,5.0,0.4,0.252,無性別,惡猿寶可夢,"Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it."
-電,,雨天,,0.02,0.1,250,125,190,1.2,145.0,,100000,100,20.0,4.0,,,無性別,電子寶可夢,This Pokémon is a cluster of electrical energy. It’s said that removing the rings on Regieleki’s body will unleash the Pokémon’s latent power.
-龍,,強風,,0.02,0.1,202,101,400,2.1,200.0,,100000,100,20.0,4.0,,,無性別,龍玉寶可夢,An academic theory proposes that Regidrago’s arms were once the head of an ancient dragon Pokémon. The theory remains unproven.
-冰,,下雪,,0.02,0.1,246,223,225,2.2,800.0,,100000,100,20.0,4.0,,,無性別,烈馬寶可夢,"Glastrier emits intense cold from its hooves. It’s also a belligerent Pokémon—anything it wants, it takes by force."
-幽靈,,起霧,,0.02,0.1,273,146,205,2.0,44.5,,100000,100,20.0,4.0,,,無性別,駿馬寶可夢,It probes its surroundings with all its senses save one—it doesn’t use its sense of sight. Spectrier’s kicks are said to separate soul from body.
-超能力,草,強風,晴天,0.02,0.1,162,162,225,1.1,7.7,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,It’s said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.
-超能力,冰,強風,下雪,0.02,0.1,268,246,205,2.4,809.1,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,It’s said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.
-超能力,幽靈,強風,起霧,0.02,0.1,324,194,205,2.4,53.6,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,It’s said that Calyrex and a Pokémon that had bonded with it ran all across the Galar region to bring green to the wastelands.
+格鬥,,陰天,,0.02,0.1,170,112,155,0.6,12.0,400,100000,100,20.0,4.0,,,0.875,拳法寶可夢,藉由累積嚴苛的鍛鍊來磨練招式。進化後的樣子會根據牠領會的招式而不同。
+格鬥,水,陰天,雨天,0.02,0.1,254,177,225,1.9,105.0,,100000,100,20.0,4.0,,,0.875,拳法寶可夢,一擊必殺是牠的信念。會衝進對手的懷裡，不留情地用千錘百煉的拳頭給予一擊。
+格鬥,惡,陰天,起霧,0.02,0.1,254,177,225,1.9,105.0,,100000,100,20.0,4.0,,,0.875,拳法寶可夢,一擊必殺是牠的信念。會衝進對手的懷裡，不留情地用千錘百煉的拳頭給予一擊。
+惡,草,起霧,晴天,0.1,,242,215,233,1.8,70.0,,100000,100,20.0,5.0,0.4,0.252,無性別,惡猿寶可夢,集結成群生活在密林裡。攻擊性很強，令棲息在森林的寶可夢們畏懼不已。
+電,,雨天,,0.02,0.1,250,125,190,1.2,145.0,,100000,100,20.0,4.0,,,無性別,電子寶可夢,由電能凝聚而成的寶可夢。_x000D_據說拿下牠身上的圓環後，_x000D_就會解放牠潛藏的力量。
+龍,,強風,,0.02,0.1,202,101,400,2.1,200.0,,100000,100,20.0,4.0,,,無性別,龍玉寶可夢,有學者認為牠的手臂是_x000D_古代龍寶可夢頭部的形狀。_x000D_但這個學說尚未被證實。
+冰,,下雪,,0.02,0.1,246,223,225,2.2,800.0,,100000,100,20.0,4.0,,,無性別,烈馬寶可夢,會從蹄子釋放出強烈的寒氣。性情暴躁，只要是自己想要的東西，就會強行去搶奪。
+幽靈,,起霧,,0.02,0.1,273,146,205,2.0,44.5,,100000,100,20.0,4.0,,,無性別,駿馬寶可夢,會利用視覺之外的感官_x000D_去探測周圍的狀況。據說_x000D_被牠踢到時靈魂就會出竅。
+超能力,草,強風,晴天,0.02,0.1,162,162,225,1.1,7.7,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,據說牠為了讓荒地長出綠意，_x000D_曾與牽絆深厚的寶可夢_x000D_一同馳騁在伽勒爾的大地。
+超能力,冰,強風,下雪,0.02,0.1,268,246,205,2.4,809.1,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,據說牠為了讓荒地長出綠意，_x000D_曾與牽絆深厚的寶可夢_x000D_一同馳騁在伽勒爾的大地。
+超能力,幽靈,強風,起霧,0.02,0.1,324,194,205,2.4,53.6,,100000,100,20.0,4.0,,,無性別,帝皇寶可夢,據說牠為了讓荒地長出綠意，_x000D_曾與牽絆深厚的寶可夢_x000D_一同馳騁在伽勒爾的大地。

@@ -114,6 +114,9 @@ chimovedict["0295"] = "氣象球 (水)"
 chimovedict["0352"] = "氣象球 (一般)"
 engmovedict["0352"] = "Weather Ball"
 
+chimovedict["0353"] = "精神之牙"
+engmovedict["0353"] = "Psychic Fangs"
+
 engmovedict["0336"] = "Techno Blast"
 chimovedict["0336"] = "高科技光炮 (一般)"
 engmovedict["0337"] = "Techno Blast"

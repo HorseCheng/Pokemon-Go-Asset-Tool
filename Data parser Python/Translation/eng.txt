@@ -321,6 +321,8 @@ GO Fest 2021 Guitar Case
 Johto Bag
 Longchamp Backpack
 Mimikyu Bag
+WailmerWater Bottle
+NIKE HERITAGE Backpack
 Seed Backpack
 Flame Backpack
 Shell Backpack
@@ -343,6 +345,7 @@ Fire-type Mask
 Water-type Mask
 Banette Mask
 Simple Mask
+HalloweenFace Sticker
 Pikachu Face Sticker
 Poké Ball Face Sticker
 Pikachu Mask
@@ -356,6 +359,7 @@ Level 41 Glasses
 Mystery Mask
 2020 Specs
 2021 Specs
+Round Sunglasses
 Aviator Sunglasses
 Focus Frames
 Ace Gloves
@@ -367,6 +371,7 @@ No Gloves
 LeafGreen Wristbands
 Giovanni Gloves
 Gym Leader Gloves
+Hoopa Bangles
 Korrina-Style Gloves
 GO Mega Bracelet
 Team Mystic GO Mega Bracelet
@@ -400,6 +405,7 @@ No Hat
 Felt Fedora
 H.F. Custom Cap A
 LeafGreen Hat
+Furfrou Wig
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
@@ -408,6 +414,7 @@ The North Face x Gucci Hat
 Gyarados Hat
 Johto Cap
 Beanie Hat
+Hoopa Headband
 GO Tour: Green Version Hat
 GO Tour: Red Version Hat
 Power-Up Knit Cap
@@ -422,12 +429,14 @@ Meltan Earrings
 Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
+Adventure Hat
 Pink Beret
 Gray Beret
 New Year’s Party Hat
 Pikachu Cap
 Pikachu Fan Headband
 Pikachu Libre Mask
+PikachuPumpkin Head
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
@@ -466,6 +475,7 @@ Battle Girl Shorts
 N-Style Pants
 Sprint Suit
 LeafGreen Skirt
+Wraparound Skirt
 Giovanni Pants
 Blue-Style Pants
 Gym Leader Skirt
@@ -481,6 +491,7 @@ Munna Pants
 Liquid Leggings
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Pumpkaboo Pants
 Regice Pants
 Regirock Pants
 Registeel Pants
@@ -508,6 +519,7 @@ Fitted Shirt
 N-Style Top
 Celebi Shirt
 Stantler Sweater
+Día de Muertos T-Shirt
 Classic Longsleeve
 Delibird Sweater
 Denim Jacket
@@ -518,6 +530,7 @@ Elesa-Style Outfit
 H.F. Custom Shirt A
 LeafGreen Top
 Galarian Farfetch’d T-shirt and Bag
+Layered Jacket
 Gengar Shirt
 Gengar Onesie
 Giovanni Shirt
@@ -558,6 +571,7 @@ Mewtwo Top
 Misty Top
 Jessie-Style Adventure Outfit
 Munna Top
+NIKE AIR T-shirt
 Pokémon Shirts Vileplume
 Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
@@ -578,12 +592,13 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Pumpkaboo Top
 Regice Jacket
 Regirock Jacket
 Registeel Jacket
 Ruin Maniac Outfit
-Safari Zone T-shirt 2020
-Safari Zone T-shirt 2020
+Safari Zone T-shirt 2021
+Safari Zone T-shirt 2021
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
 Slowpoke Forever Shirt
@@ -653,6 +668,7 @@ Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
 Misty Shoes
+NIKE AIR MAX 2021
 Pikachu Fan Shoes
 Pikachu Libre Boots
 Regice Shoes
@@ -714,6 +730,8 @@ GO Fest 2021 Guitar Case
 Johto Bag
 Longchamp Backpack
 Mimikyu Bag
+WailmerWater Bottle
+NIKE HERITAGE Backpack
 Seed Backpack
 Flame Backpack
 Shell Backpack
@@ -730,6 +748,7 @@ Fire-type Mask
 Water-type Mask
 Banette Mask
 Simple Mask
+HalloweenFace Sticker
 Pikachu Face Sticker
 Poké Ball Face Sticker
 Pikachu Mask
@@ -744,6 +763,7 @@ Level 41 Glasses
 Mystery Mask
 2020 Specs
 2021 Specs
+Round Sunglasses
 Focus Frames
 Ace Gloves
 N-Style Wristband
@@ -753,6 +773,7 @@ No Gloves
 FireRed Wristbands
 Giovanni Gloves
 Gym Leader Gloves
+Hoopa Bangles
 Jogger Watch
 Korrina-Style Gloves
 GO Mega Bracelet
@@ -787,6 +808,7 @@ Felt Fedora
 Fisher Cap
 H.F. Custom Cap A
 FireRed Cap
+Furfrou Wig
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
@@ -795,6 +817,7 @@ The North Face x Gucci Hat
 Gyarados Hat
 Johto Cap
 Beanie Hat
+Hoopa Headband
 Jogger Visor
 GO Tour: Green Version Hat
 GO Tour: Red Version Hat
@@ -808,12 +831,14 @@ Meltan Cap
 Mewtwo Hat
 Mimikyu's Disguise Hat
 Mismagius Hat
+Adventure Hat
 Pink Beret
 Gray Beret
 New Year’s Party Hat
 Pikachu Cap
 Pikachu Fan Headband
 Pikachu Libre Mask
+PikachuPumpkin Head
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
@@ -851,6 +876,7 @@ Trainer Shorts
 Elesa-Style Pants
 Fisher Pants
 FireRed Pants
+Wraparound Skirt
 Giovanni Pants
 Blue-Style Pants
 Gym Leader Shorts
@@ -863,6 +889,7 @@ Mewtwo Pants
 Munna Pants
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Pumpkaboo Pants
 Regice Pants
 Regirock Pants
 Registeel Pants
@@ -891,6 +918,7 @@ Brock Shirt
 N-Style Top
 Celebi Shirt
 Stantler Sweater
+Día de Muertos T-Shirt
 Sash Hoodie
 Column Hoodie
 Classic Hoodie
@@ -905,6 +933,7 @@ Fisher Vest
 H.F. Custom Shirt A
 FireRed Top
 Galarian Farfetch’d T-shirt and Bag
+Layered Jacket
 Gengar Shirt
 Gengar Onesie
 Giovanni Shirt
@@ -947,6 +976,7 @@ Mew Shirt
 Mewtwo Top
 James-Style Adventure Outfit
 Munna Top
+NIKE AIR T-shirt
 Pokémon Shirts Vileplume
 Pokémon Shirts Lickitung
 Pokémon Shirts Magikarp
@@ -967,12 +997,13 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Pumpkaboo Top
 Regice Jacket
 Regirock Jacket
 Registeel Jacket
 Ruin Maniac Outfit
-Safari Zone T-shirt 2020
-Safari Zone T-shirt 2020
+Safari Zone T-shirt 2021
+Safari Zone T-shirt 2021
 Samsung Galaxy Tie-Dye Shirt
 Shiny Mew Shirt
 Slowpoke Forever Shirt
@@ -1041,6 +1072,7 @@ Luvdisc Shoes
 Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
+NIKE AIR MAX 2021
 Pikachu Fan Shoes
 Pikachu Libre Boots
 Regice Shoes
@@ -1081,7 +1113,7 @@ Pose
 Pose
 Steven Pose
 POSES
-GO Fest 2021
+Halloween
 Shiny Mew Shirt
 Footwear
 New items available!
@@ -1199,6 +1231,18 @@ May 2021: 7-Eleven México
 Special Weekend
 May 2021: Verizon
 Special Weekend
+December 2021: Family Mart
+Special Weekend 
+December 2021: INFORICH
+Special Weekend 
+December 2021: SoftBank
+Special Weekend 
+December 2021: 7/11 MX
+Special Weekend 
+December 2021: ItoEn
+Special Weekend 
+December 2021: Tully’s
+Special Weekend 
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -1408,53 +1452,53 @@ Montreal, September 22, 2019
 Pokémon GO Safari Zone—Early Access
 Montreal, September 22, 2019
 Pokémon GO Safari Zone
-Liverpool, April 16, 2020
+Liverpool, October 14, 2021
 Pokémon GO Safari Zone—Early Access
-Liverpool, April 16, 2020
+Liverpool, October 14, 2021
 Pokémon GO Safari Zone
-Liverpool, April 17, 2020
+Liverpool, October 15, 2021
 Pokémon GO Safari Zone—Early Access
-Liverpool, April 17, 2020
+Liverpool, October 15, 2021
 Pokémon GO Safari Zone
-Liverpool, April 18, 2020
+Liverpool, October 16, 2021
 Pokémon GO Safari Zone—Early Access
-Liverpool, April 18, 2020
+Liverpool, October 16, 2021
 Pokémon GO Safari Zone
-Liverpool, April 19, 2020
+Liverpool, October 17, 2021
 Pokémon GO Safari Zone—Early Access
-Liverpool, April 19, 2020
+Liverpool, October 17, 2021
 Pokémon GO Safari Zone
-Philadelphia, May 7, 2020
+Philadelphia, October 28, 2021
 Pokémon GO Safari Zone—Early Access
-Philadelphia, May 7, 2020
+Philadelphia, October 28, 2021
 Pokémon GO Safari Zone
-Philadelphia, May 8, 2020
+Philadelphia, October 29, 2021
 Pokémon GO Safari Zone—Early Access
-Philadelphia, May 8, 2020
+Philadelphia, October 29, 2021
 Pokémon GO Safari Zone
-Philadelphia, May 9, 2020
+Philadelphia, October 30, 2021
 Pokémon GO Safari Zone—Early Access
-Philadelphia, May 9, 2020
+Philadelphia, October 30, 2021
 Pokémon GO Safari Zone
-Philadelphia, May 10, 2020
+Philadelphia, October 31, 2021
 Pokémon GO Safari Zone—Early Access
-Philadelphia, May 10, 2020
+Philadelphia, October 31, 2021
 Pokémon GO Safari Zone
-St. Louis, March 26, 2020
+St. Louis, November 11, 2021
 Pokémon GO Safari Zone—Early Access
-St. Louis, March 26, 2020
+St. Louis, November 11, 2021
 Pokémon GO Safari Zone
-St. Louis, March 27, 2020
+St. Louis, November 12, 2021
 Pokémon GO Safari Zone—Early Access
-St. Louis, March 27, 2020
+St. Louis, November 12, 2021
 Pokémon GO Safari Zone
-St. Louis, March 28, 2020
+St. Louis, November 13, 2021
 Pokémon GO Safari Zone—Early Access
-St. Louis, March 28, 2020
+St. Louis, November 13, 2021
 Pokémon GO Safari Zone
-St. Louis, March 29, 2020
+St. Louis, November 14, 2021
 Pokémon GO Safari Zone—Early Access
-St. Louis, March 29, 2020
+St. Louis, November 14, 2021
 Pokémon GO Safari Zone
 Sentosa, Apr 18, 2019
 Pokémon GO Safari Zone
@@ -2336,6 +2380,8 @@ GO Battle Day: Zorua
 GO Battle Day: Zubat
 GO Battle Day: Zweilous
 GO Battle Day: Zygarde
+Battle {0} Fashion Challengers
+Battle a Fashion Challenger
 Nearby Battle
 GO Battle League
 Current Season
@@ -2431,6 +2477,7 @@ BONUS MILESTONE REWARDS
 1/2 Hatch Distance
 1/4 Hatch Distance
 Mega Abomasnow is temporarily more powerful!
+Mega Absol is temporarily more powerful!
 Mega Beedrill is temporarily more powerful!
 Mega Blastoise is temporarily more powerful!
 Mega Charizard X is temporarily more powerful!
@@ -2726,6 +2773,7 @@ Later
 Welcome to Buddy Adventure
 Visit a new place
 Walk with your buddy!
+Increased Candy XL when walking with your buddy
 {0} found a Candy!
 {0} found a Candy XL!
 Walk together
@@ -2799,10 +2847,736 @@ Old Sea Map (1/4)
 Old Sea Map (2/4)
 Old Sea Map (3/4)
 Old Sea Map (4/4)
+Ad Agency
+Afghan Restaurant
+African Restaurant
+Air Traffic Control Tower
+Airplane
+Airport
+American Restaurant
+Amphitheater
+Amusement Park
+Antique Store
+Apartment/Condo
+Appliance Store
+Apres Ski Bar
+Aquarium
+Arboretum
+Arcade
+Arch
+Argentinian Restaurant
+Armenian Restaurant
+Art
+Art Dealer
+Art Exhibition
+Art Gallery
+Art Museum
+Art Studio
+Art Supply Store
+Asian Fusion Restaurant
+Athletic Court
+Athletic Field
+Athletic Rink
+Auditorium
+Australian Restaurant
+Austrian Restaurant
+Auto Garage
+Auto Rental/Sales
+Auto Repair
+Baby Store
+Badminton Court
+Bagel Shop
+Bakery
+Balinese Restaurant
+Bandstand
+Bangladeshi Restaurant
+Bank
+Bar
+Barn
+Barracks
+Baseball Field
+Baseball Stadium
+Basketball Court
+Basketball Stadium
+Basque Restaurant
+Bathing Areas
+Bato Kannon
+Bavarian Restaurant
+BBQ Place
+Beach
+Beach Bar
+Beauty Salon
+Beauty Supply
+Bed & Breakfast
+Beehive
+Beer Bar
+Beer Garden
+Beijing Restaurant
+Belarusian Restaurant
+Belgian Restaurant
+Bell
+Bench
+Bengali Restaurant
+Bicycle
+Bicycle Lane
+Bicycle Rack
+Bicycle Rental
+Bicycle Shop
+Big-Box
+Biking Trail
+Billboard
+Birdhouse
+Bistro
+Boat Launch
+Boathouse
+Bollard
+Bookstore
+Borek Place
+Bosnian Restaurant
+Botanero
+Botanical Garden
+Bougatsa Shop
+Boundary
+Bowling Alley
+Brasserie
+Bratwurst Place
+Brazilian Restaurant
+Brewery/Distillery
+Bridge
+Buffet
+Building
+Bulgarian Restaurant
+Bunker
+Burger Place
+Burmese Restaurant
+Burrito Place
+Bus Terminal
+Business Campus
+Bust
+Butcher
+Cabaret
+Cabin/Lodge
+Cafeteria
+Café/Coffee Place
+Cajun/Creole Restaurant
+Cambodian Restaurant
+Campsite
+Canal
+Candy Store
+Cantonese Restaurant
+Car
+Car Charging Station
+Car Wash
+Caribbean Restaurant
+Carving
+Castle
+Catalan Restaurant
+Cave
+Cell Tower
+Cemetery
+Cemevi
+Chaat Place
+Chair
+Chalet
+Chapel
+Chilean Restaurant
+Chinese Restaurant
+Chocolate Shop
+Church
+Churrascaria
+Cigkofte Place
+Cinema
+Circus
+City Hall
+Climbing Spot
+Clock
+Clock Tower
+Clothing Store
+Cocktail Bar
+Coffee Roaster
+College
+Colombian Restaurant
+Colosseum
+Comedy Club
+Comic Book Store
+Commercial
+Community Center
+Community Garden
+Community Park
+Compass
+Confectionary & Nuts
+Consignment Shop
+Consulate
+Convention Center
+Copy/Print Center
+Corsican Restaurant
+Costa Rican Restaurant
+Costume Store
+Courthouse
+Crater
+Creperie
+Cretan Restaurant
+Cricket Pitch
+Cropland
+Cross
+Cuban Restaurant
+Cultural Center
+Cupcake Shop
+Curling Ice
+Currywurst Place
+Customs Office
+Czech Restaurant
+Dairy Store
+Dam
+Dance Studio
+Danish Restaurant
+Data Center
+Decorative Fountain
+Decorative Seating
+Deli/Bodega
+Dentist's Office
+Desert
+Designed Manhole
+Dessert Shop
+Dim Sum Restaurant
+Diner
+Directional Sign
+Dive Bar
+Dizi Place
+Do-Jo
+Do-So-Jin
+Doctor’s Office
+Dog Park
+Donburi Restaurant
+Doner Kebab Restaurant
+Donut Shop
+Door
+Doorway
+Dosa Place
+Drawing
+Drinking Fountain
+Dumpling Restaurant
+Dutch Restaurant
+E-charging Station
+Education
+Egyptian Restaurant
+Electrical Transformer Box
+Electronics Store
+Embassy
+Empanada Restaurant
+English Restaurant
+Entertainment
+Ethiopian Restaurant
+Event Hall
+Event Space
+Exercise Sign
+Fabric/Textile Shop
+Factory
+Falafel Restaurant
+Farmers Market
+Farmhouse
+Farmland
+Fast Food Restaurant
+Ferry Terminal
+Festival
+Filipino Restaurant
+Film Studio
+Financial Services
+Fire Hydrant
+Fire Temple
+Fish & Chips Shop
+Fish Market
+Fish Taverna
+Fishing Spot
+Fitness Station
+Fitness Studio
+Flagpole
+Flea Market
+Floral Shop
+Flower
+Food Court
+Food Processing Plant
+Food Retail
+Food Stand
+Food Truck
+Football Field
+Football Stadium
+Footbridge
+Forest
+Fortress
+Foundry
+French Restaurant
+Fried Chicken Place
+Friterie
+Friuli Restaurant
+Frozen Yogurt Shop
+Fujian Restaurant
+Furniture Store
+Gallery
+Gaming Store
+Garage
+Garden
+Garden Store
+Gastropub
+Gateway
+Gazebo
+Geodetic Sign
+German Restaurant
+Geyser
+Gift Store
+Glacier
+Go Kart Racing
+Golf Course
+Government Building
+Gozleme Place
+Graffiti
+Grassland
+Gravestone
+Greek Restaurant
+Greenhouse
+Guizhou Restaurant
+Gujarati Restaurant
+Gurdwara
+Gym
+Hakka Restaurant
+Halal Restaurant
+Hangar
+Harbor/Marina
+Hardware
+Hawaiian Restaurant
+Health and Medicine
+Health Food Store
+Herbs & Spices Store
+Hiking Trail
+Himalayan Restaurant
+Historic Building
+Historic Site
+Historic Structure
+Historical Sign
+History Museum
+Hobby Store
+Hockey Field
+Hockey Rink
+Hokora
+Home Improvement
+Hong Kongese Restaurant
+Hookah Bar
+Hospital
+Hot Dog Place
+Hot Springs
+Hotel
+Hotel Bar
+Hotpot Restaurant
+Hungarian Restaurant
+Ice Cream Shop
+Ice Rink
+Iconic Architecture
+Igloo
+Imambargah
+Indian Chinese Restaurant
+Indian Restaurant
+Indian Sweet Shop
+Indonesian Meatball Place
+Indonesian Restaurant
+Indoor Recreation
+Indoor Sports
+Industrial Site
+Information Center
+Informational Sign
+Inn
+Internet Café
+Iraqi Restaurant
+Irish Pub
+Irish Restaurant
+Israeli Restaurant
+Italian Restaurant
+Izakaya
+Jamaican Restaurant
+Japanese Curry Restaurant
+Japanese Restaurant
+Jazz Club
+Jewelry Store
+Jewish Restaurant
+Jizo
+Juice Bar
+Karaoke Bar
+Kayak Rental
+Kebab Restaurant
+Kerala Restaurant
+Kiosk
+Ko-Shinto Shrine
+Kofte Place
+Korean Restaurant
+Kosher Restaurant
+Kuruyemişçi
+Lake
+Landfill
+Landform
+Landmark Building
+Landmark Item
+Landscape
+Latin American Restaurant
+Laundry/Dry Cleaning
+Lebanese Restaurant
+Legal Office
+LGBTQ+ Bar
+Library
+Lighthouse
+Lighting
+Lighting Art
+Little Free Library
+Locksmith
+Lookout
+Luggage Store
+Machinery Manufacturer
+Mailbox
+Malay Restaurant
+Malaysian Restaurant
+Map
+Marina
+Market
+Materials Manufacturer
+Mediterranean Restaurant
+Memorial Bench
+Memorial Site
+Mexican Restaurant
+Meze Restaurant
+Middle Eastern Restaurant
+Milepost
+Mill
+Mine
+Mithraeum
+Monastery
+Mongolian Restaurant
+Monument Building
+Monument Object
+Moroccan Restaurant
+Mosaic Tile
+Mosque
+Motel
+Mountain
+Mountain Hut
+Mountain Peak
+Mural
+Museum
+Music Store
+Music Studio
+Music Venue
+Musical Instrument
+Nabe Restaurant
+National Forest
+National Park
+Nature Preserve
+Nature Sign
+Navigational Sign
+Nepalese Restaurant
+Newspaper Box
+Newsstand
+Nicaraguan Restaurant
+Noodle House
+North Indian Restaurant
+Northern Brazilian Restaurant
+Norwegian Restaurant
+Notary Office
+Nutritionist's Office
+Obelisk
+Object
+Observatory
+Ocean
+Office
+Office Supply Store
+Office Tower
+Okonomiyaki Restaurant
+Open Market
+Open Space
+Opera House
+Organic Food Store
+Other
+Outdoor Event Space
+Outdoor Recreation
+Outdoor Sports
+Outhouse
+Outlet Mall
+Ouzerie
+Paella Restaurant
+Pagoda
+Paintball Field
+Painting
+Pakistani Restaurant
+Palace
+Palatine Restaurant
+Palestinian Restaurant
+Park
+Parliament
+Parsi Restaurant
+Pastelaria
+Pastry Shop
+Pavement Tile Art
+Pavillion
+Pawn Shop
+Peking Duck Restaurant
+Performance Hall
+Pergola
+Persian Restaurant
+Personal
+Peruvian Restaurant
+Pet Supplies
+Pharmacy
+Photograph
+Photography Studio
+Physical Therapy Facility
+Piadineria
+Piano Bar
+Picnic Area
+Picnic Table
+Pide Place
+Pie Shop
+Piedmontese Restaurant
+Pier
+Pilav Place
+Pizza Place
+Place Name Sign
+Plains
+Planetarium
+Planter
+Plaque
+Plastic-Free Shop
+Playground Area
+Playground Set
+Plumbing
+Poke Place
+Polish Restaurant
+Political Office
+Polynesian Restaurant
+Pond
+Portuguese Restaurant
+Post Office
+Poster
+Poutine Place
+Power Plant
+Prayer Rooms
+Pub
+Puerto Rican Restaurant
+Punjabi Restaurant
+Pyramid
+Race Track
+Rafting Spots
+Ramen Restaurant
+Real Estate Office
+Recreation Center
+Religious Building
+Religious School
+Religious Sculpture
+Religious Wall Art
+Research Park
+Reservoir
+Residential Building
+Resort
+Rest Area
+Restaurant
+Retail
+River
+Road
+Rock
+Rock Climbing Spot
+Rock Garden
+Roller Rink
+Romanian Restaurant
+Row House
+Rugby Field
+Rugby Stadium
+Ruins
+Russian Restaurant
+Sake Bar
+Salad Place
+Salvadoran Restaurant
+Sandwich Place
+Sardinian Restaurant
+Sauna
+Sausage Shop
+Scandinavian Restaurant
+Scenic Lookout
+Schnitzel Restaurant
+Science Center
+Science Sign
+Scooter Charging Station
+Scottish Restaurant
+Sculpture
+Sea
+Seafood Restaurant
+Seasonal Market
+Shabu-Shabu Restaurant
+Shanghai Restaurant
+Shawarma Place
+Shed
+Ship
+Shoe Store
+Shopping Mall
+Shrine
+Sicilian Restaurant
+Sidewalk
+Sign
+Silo
+Skate Park
+Skating Rink
+Ski Area
+Ski Chairlifts
+Ski Hill
+Ski Lodge
+Skiing Spot
+Skydiving Drop Zone
+Slide
+Slovak Restaurant
+Smoothie Shop
+Snack Place
+Snow and Ice
+Soba Restaurant
+Soccer Field
+Soccer Stadium
+Soup Place
+South American Restaurant
+South Indian Restaurant
+Southern/Soul Food Restaurant
+Southern Brazilian Restaurant
+Souvlaki Shop
+Spa
+Spanish Restaurant
+Speakeasy
+Specialty School
+Sport Club
+Sporting Goods
+Sports Arena
+Sports Bar
+Sports Track
+Sports Training
+Squash Court
+Sri Lankan Restaurant
+Stable
+Stadium
+Stained Glass
+State Forest
+State Park
+Statue
+Steakhouse
+Sticker
+Stock Exchange
+Storage Building
+Storm Cellar
+Stream
+Street Food
+Street Furniture
+Street Lamp
+Street Sign
+Strip Mall
+Structure
+Subway Entrance
+Sukiyaki Restaurant
+Sundanese Restaurant
+Supermarket
+Surf Spots
+Sushi Restaurant
+Suspended Art
+Swedish Restaurant
+Swimming Pool
+Swiss Restaurant
+Synagogue
+Syrian Restaurant
+Szechuan Restaurant
+Söğüş Place
+Tabbakhi Place
+Taco Place
+Tailor
+Taiwanese Restaurant
+Takoyaki Place
+Tapas Restaurant
+Tattoo Studio
+Taverna
+Tax Office
+Taxi Stand
+Telephone Booth
+Temple
+Tempura Restaurant
+Tennis Court
+Tent
+Tex-Mex Restaurant
+Textile Shop
+Thai Restaurant
+Theater
+Tibetan Restaurant
+Ticket Agency
+Ticket Booth
+Tiki Bar
+Tonkatsu Restaurant
+Torii
+Totem Pole
+Tower
+Track Stadium
+Trade School
+Trail Marker
+Train Station
+Transit Stop
+Transportation
+Trattoria/Osteria
+Travel Agency
+Tree
+Trolley
+Truck
+Truck Stop
+Tunnel
+Turkish Coffeehouse
+Turkish Restaurant
+Turşucu Spot
+Tuscan Restaurant
+Udon Restaurant
+Ukrainian Restaurant
+University
+Urban Plaza
+Utility
+Utility Box
+Valley
+Vegan Restaurant
+Vegan Store
+Vegetarian Restaurant
+Vending Machine
+Venezuelan Restaurant
+Veterinarian
+Vietnamese Restaurant
+Vineyard
+Volcano
+Volleyball Court
+Voting Booth
+Wall
+Warehouse
+Warning Sign
+Waste Bin
+Wastewater Plant
+Watch Store
+Water Fountain
+Water Pump
+Water Tower
+Waterbody
+Waterfall
+Waterfront
+Wedding Shop
+Welcome Sign
+Well
+Well House
+Wetland
+Whisky Bar
+Windmill
+Window
+Wine Bar
+Winery
+Wood Carving
+Yakitori Restaurant
+Yemeni Restaurant
+Zoo
+Çöp Şiş Place
 Catch a Pokémon
 2× Catch Candy
 3× Catch Candy
 2× chance to get Candy XL from catching Pokémon
+4× chance to get Candy XL from catching Pokémon
 3× chance to get Candy XL from catching Pokémon
 Catch Cup
 2× Catch Stardust
@@ -3446,6 +4220,7 @@ Ultra League
 USE THIS PARTY
 Community Day: Abra
 Community Day: Charmander
+Community Day: Duskull
 Community Day: Eevee
 Community Day: Electabuzz
 Community Day
@@ -3459,6 +4234,7 @@ Community Day: Oshawott
 Community Day: Porygon
 Community Day: Roselia
 Community Day: Seedot
+Community Day: Shinx
 Community Day: Snivy
 Community Day: Swablu
 Community Day: Tepig
@@ -3489,6 +4265,7 @@ Type Surge: Dark
 MMM dd, yyyy
 d
 {0}D {1}H
+Día de Muertos 2021 Collection Challenge
 December Community Day Ticket
 Decline
 Are you sure you want to delete this Friend Request?
@@ -3570,6 +4347,7 @@ Summary
 Walk to hatch this Egg.
 Use an incubator to hatch this Egg.
 INCUBATE
+{0} Eggs ready to hatch!
 Oh?
 Lucky you! You got an Egg!
 Hatchable Pokémon
@@ -3614,8 +4392,13 @@ You're out of Berries.
 Out of Poké Balls!
 Your Pokémon storage is full.
 The Pokémon broke free!
+Are you sure you don't want to rescue the Shadow Pokémon?
+You will still be able to encounter the Raid Boss by tapping on the Gym, but only if the Raid is still active.
+Are you sure you want to leave the Raid Boss encounter?
 This Pokémon is too far away.
 Oh no! The wild {0} fled.
+By leaving this encounter, you will not be able to catch your Pokémon reward.
+You can't undo this action once you leave the encounter.
 {0} was caught!
 Bonus Challenge! Catch {0}!
 {0} Evolution Shard received!
@@ -3727,11 +4510,110 @@ Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 This nickname is no longer available.
 Not Available
 Currently, your network connection is unstable. Please try again later.
+Fashion Challenger
+Fashion Challengers stationed at PokéStops
+Discounted avatar items in the shop
+Fine, whatever.
+Hm? You want to battle me?
+Hmph.
+Cool Challenger
+No surprise.
+Which Pokémon do YOU think is most adorable?
+When I see a floofy Pokémon I just wanna hug it so tight! Eee!
+Losing’s no fun, but at least I get to battle with these cuties!
+Quirky Challenger
+Cuteness is strength! Hehe!
+Here comes my sass attack!
+Come at me! Hee hee!
+Maybe we should’ve hydrated more...?
+Sassy Challenger
+Ha ha, made you lose!
+I’m just here to get stronger.
+People keep complimenting my training uniform for some reason.
+I guess 20 miles a day isn’t gonna cut it.
+Rugged Challenger
+When you train as hard as we do, winning comes naturally.
+And believe me—mine do more than just look pretty.
+Pokémon are like fashionable clothes—they bring a spark to your life!
+But... But my Pokémon are so stylish!
+Eccentric Challenger
+Told ya! Sparks galore.
+Don’t hold back.
+Sup?
+Welp, them’s the breaks...
+Slick Challenger
+Heh, classic me!
 12 Days of Friendship
+What do you think of my outfit?
+What do you think of my outfit?
+Huh? How’d you do that?!
+Huh? How’d you do that?!
+Better luck next time!
+Better luck next time!
+Isn’t this event just the neatest?
+Isn’t this event just the neatest?
+Wow, you’re good at this!
+Wow, you’re good at this!
+If you keep battling, you’re bound to win eventually!
+If you keep battling, you’re bound to win eventually!
+Did you pick Red Version or Green Version?
+Did you pick Red Version or Green Version?
+I was so sure I’d win that one, too...
+I was so sure I’d win that one, too...
+Too bad! Wanna battle again?
+Too bad! Wanna battle again?
+Prepare to face the wrath of my Fire-type Pokémon!
+Prepare to face the wrath of my Fire-type Pokémon!
+Aww, no!
+Aww, no!
+Don’t let this discourage you—just keep trying!
+Don’t let this discourage you—just keep trying!
+Does this outfit make me look like a Pokémon?
+Does this outfit make me look like a Pokémon?
+Look what you did to my poor, adorable Pokémon!
+Look what you did to my poor, adorable Pokémon!
+Keep battling, and victory will come eventually!
+Keep battling, and victory will come eventually!
+I wonder if I’ll get a cool shirt after the event.
+I wonder if I’ll get a cool shirt after the event.
+Done like dinner!
+Done like dinner!
+You can do it!
+I’m sure you’ll win the next one!
+Let’s battle! Ready...GO!
+Let’s battle! Ready...GO!
+You’re more skilled than I thought!
+You’re more skilled than I thought!
+A Pokémon Trainer never gives up. Just keep doing your best!
+A Pokémon Trainer never gives up. Just keep doing your best!
+C’mon... C’mon... Let’s go, let’s go, let’s GO!
+C’mon... C’mon... Let’s go, let’s go, let’s GO!
+Heh. I still can’t win after all my training, huh?
+Heh. I still can’t win after all my training, huh?
+No hard feelings, eh?
+No hard feelings, eh?
+You look pretty gentle, so I think I can beat you. Guess we’ll see!
+You look pretty gentle, so I think I can beat you. Guess we’ll see!
+Wow! Battling with you was so fun!
+Wow! Battling with you was so fun!
+Aw, now I feel bad.
+Aw, now I feel bad.
+Somehow, I knew we’d have to battle!
+Somehow, I knew we’d have to battle!
+What?! I lost?!
+What?! I lost?!
+I finally won one! I better call my mom.
+I finally won one! I better call my mom.
+A truly strong Trainer wins with style!
+A truly strong Trainer wins with style!
+Whoa, seriously?
+Whoa, seriously?
+Well, this was unexpected.
+Well, this was unexpected.
 Hoenn Celebration Event
 Hoopa’s Arrival
-Now: Psychic Hour!
-Now: Spooky Hour!
+Now: Psychic hour!
+Now: Spooky hour!
 Johto Celebration Event
 Kalos Celebration Event
 Kanto Celebration Event
@@ -3748,105 +4630,105 @@ Encounter Bidoof that know Thunderbolt
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
 New Pokémon Snap Celebration
-What do you think of my outfit?
-What do you think of my outfit?
+Fine, whatever.
+Fine, whatever.
 <taunt>Hi! I like shorts! They’re comfy and easy to wear!
-Huh? How’d you do that?!
-Huh? How’d you do that?!
+Hmph.
+Hmph.
 LenTao9
 GO Tour Challenger
-Better luck next time!
-Better luck next time!
-Isn’t this event just the neatest?
-Isn’t this event just the neatest?
+No surprise.
+No surprise.
+Which Pokémon do YOU think is most adorable?
+Which Pokémon do YOU think is most adorable?
 <intimidate>Somehow, I knew we’d have to battle!
-Wow, you’re good at this!
-Wow, you’re good at this!
+Losing’s no fun, but at least I get to battle with these cuties!
+Losing’s no fun, but at least I get to battle with these cuties!
 oneslapguy
 GO Tour Challenger
-If you keep battling, you’re bound to win eventually!
-If you keep battling, you’re bound to win eventually!
-Did you pick Red Version or Green Version?
-Did you pick Red Version or Green Version?
+Cuteness is strength! Hehe!
+Cuteness is strength! Hehe!
+Here comes my sass attack!
+Here comes my sass attack!
 <taunt>Hey, you! Wanna see my awesome Pokémon?
-I was so sure I’d win that one, too...
-I was so sure I’d win that one, too...
+Maybe we should’ve hydrated more...?
+Maybe we should’ve hydrated more...?
 DieCurryWurst
 GO Tour Challenger
-Too bad! Wanna battle again?
-Too bad! Wanna battle again?
-Prepare to face the wrath of my Fire-type Pokémon!
-Prepare to face the wrath of my Fire-type Pokémon!
+Ha ha, made you lose!
+Ha ha, made you lose!
+<taunt>... ... ...
+<taunt>... ... ...
 <intimidate>GO, my fabulous Fire-type Pokémon!
-Aww, no!
-Aww, no!
+<taunt>... ... ...
+<taunt>... ... ...
 DieCurryWurst
 GO Tour Challenger
-Don’t let this discourage you—just keep trying!
-Don’t let this discourage you—just keep trying!
-Does this outfit make me look like a Pokémon?
-Does this outfit make me look like a Pokémon?
+<taunt>... ... ...
+<taunt>... ... ...
+I’m just here to get stronger.
+I’m just here to get stronger.
 <taunt>Our eyes have met! I’ll battle alongside my favorite Pokémon!
-Look what you did to my poor, adorable Pokémon!
-Look what you did to my poor, adorable Pokémon!
+I guess 20 miles a day isn’t gonna cut it.
+I guess 20 miles a day isn’t gonna cut it.
 Juanevoli
 GO Tour Challenger
-Keep battling, and victory will come eventually!
-Keep battling, and victory will come eventually!
-I wonder if I’ll get a cool shirt after the event.
-I wonder if I’ll get a cool shirt after the event.
+When you train as hard as we do, winning comes naturally.
+When you train as hard as we do, winning comes naturally.
+<taunt>... ... ...
+<taunt>... ... ...
 <intimidate>Oh, you have a Buddy Pokémon! Let me get a better look!
-Done like dinner!
-Done like dinner!
+<taunt>... ... ...
+<taunt>... ... ...
 Trainer yournameNPC05
 GO Tour Challenger
-You can do it!
-I’m sure you’ll win the next one!
-Let’s battle! Ready...GO!
-Let’s battle! Ready...GO!
+<taunt>... ... ...
+<taunt>... ... ...
+And believe me—mine do more than just look pretty.
+And believe me—mine do more than just look pretty.
 <taunt>Your Buddy Pokémon sure is cute! Let’s have a battle!
-You’re more skilled than I thought!
-You’re more skilled than I thought!
+But... But my Pokémon are so stylish!
+But... But my Pokémon are so stylish!
 CashmereFeline
 GO Tour Challenger
-A Pokémon Trainer never gives up. Just keep doing your best!
-A Pokémon Trainer never gives up. Just keep doing your best!
-C’mon... C’mon... Let’s go, let’s go, let’s GO!
-C’mon... C’mon... Let’s go, let’s go, let’s GO!
+Told ya! Sparks galore.
+Told ya! Sparks galore.
+Don’t hold back.
+Don’t hold back.
 <intimidate>You’re going to help me get stronger!
-Heh. I still can’t win after all my training, huh?
-Heh. I still can’t win after all my training, huh?
+Welp, them’s the breaks...
+Welp, them’s the breaks...
 enjoyryde
 GO Tour Challenger
-No hard feelings, eh?
-No hard feelings, eh?
-You look pretty gentle, so I think I can beat you. Guess we’ll see!
-You look pretty gentle, so I think I can beat you. Guess we’ll see!
+Heh, classic me!
+Heh, classic me!
+<taunt>... ... ...
+<taunt>... ... ...
 <taunt>Come at me, Trainer! Let’s GO!
-Wow! Battling with you was so fun!
-Wow! Battling with you was so fun!
+<taunt>... ... ...
+<taunt>... ... ...
 Trainer yournameNPC08
 GO Tour Challenger
-Aw, now I feel bad.
-Aw, now I feel bad.
-Somehow, I knew we’d have to battle!
-Somehow, I knew we’d have to battle!
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
 <intimidate>Fancy seeing you here! Now let’s battle.
-What?! I lost?!
-What?! I lost?!
+<taunt>... ... ...
+<taunt>... ... ...
 Telli997
 GO Tour Challenger
-I finally won one! I better call my mom.
-I finally won one! I better call my mom.
-A truly strong Trainer wins with style!
-A truly strong Trainer wins with style!
 <taunt>... ... ...
-Whoa, seriously?
-Whoa, seriously?
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
+<taunt>... ... ...
 malibuleo
 GO Tour Challenger
-Well, this was unexpected.
-Well, this was unexpected.
+<taunt>... ... ...
+<taunt>... ... ...
 New Misunderstood Mischief Special Research tasks
 Carnaval
 Festival of Colors
@@ -3932,6 +4814,7 @@ Elesa Pose
 Korrina Pose
 Pop Pose
 Rock Pose
+Leon Pose
 Idle
 Ultra Moon Bag
 Level 41 Glasses
@@ -4126,6 +5009,11 @@ Normal Form
 Rainy Form
 Snowy Form
 Sunny Form
+Change Form
+To change this Pokémon’s form, set it as your buddy and adventure together
+Are you sure you want to change {0} from its {1} to its {2}?
+Failed to change form. Please try again.
+Select a Form
 Overcast Form
 Sunshine Form
 Chill Drive
@@ -4151,7 +5039,7 @@ Zen Mode
 Defense
 Attack Forme
 Defense Forme
-Normal
+Normal Forme
 Speed Forme
 Disguised Form
 Douse Drive
@@ -4179,6 +5067,10 @@ Shock Drive
 Altered Forme
 Origin Forme
 Gorging Form
+Average Size
+Large Size
+Small Size
+Super Size
 Ash-Greninja
 Gulping Form
 Hangry Mode
@@ -4223,6 +5115,10 @@ Pirouette Forme
 Plant Cloak
 Pom-Pom Style
 Primal Reversion
+Average Size
+Large Size
+Small Size
+Super Size
 Rainy
 Red-Striped
 Regular Form
@@ -4400,8 +5296,10 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
-A ticket to access the What You Choose to Be Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Nothin’ Dull About Duskull Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Nothin’ Dull About Duskull Ticket
 A ticket to access the What You Choose to Be Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 What You Choose to Be Ticket
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -4410,17 +5308,19 @@ A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:0
 Just a Nibble Ticket
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
-A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 From Scalchops to Seamitars Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
+A ticket to access the "Flash, Spark, and Gleam" Special Research from November 21, 2021, at 11:00 a.m. to November 21, 2021, at 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Flash, Spark, and Gleam Ticket
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Snivy in the Sunshine Ticket
 A ticket to access the Cotton-Winged Bird Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Cotton-Winged Bird Ticket
 A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Roasted Berries Ticket
-What You Choose to Be Ticket
+From Scalchops to Seamitars Ticket
 No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
@@ -4467,6 +5367,7 @@ Report Issue
 SEND
 Sign Out
 Are you sure you want to sign out?
+Skip
 HP
 TOTAL
 TRANSFER
@@ -4490,6 +5391,7 @@ Post photos with #PokemonGOFest2021, and we’ll share our favorites!
 Type Surge: Ghost
 Greetings from
 Open a Sponsored Gift!
+Bonus rewards from opening Gifts
 Open 2× as many Gifts
 Open 1.5× as many Gifts
 Guaranteed Gifts from PokéStop spins
@@ -5223,6 +6125,7 @@ time defending
 total gym activity
 Gym Badge Earned!
 Gyms are under construction.
+Pumpkaboo Collection Challenge
 Halloween: Catch {0} Gastly or Shuppet
 Halloween: Catch {0} Ghost-type Pokémon
 Halloween: Evolve {0} Drifloon or Stunky
@@ -5230,6 +6133,8 @@ Halloween: Make {0} Excellent Throws in a row
 Halloween: Defeat a Team GO Rocket Grunt
 Halloween: Take {0} snapshots of Ghost-type Pokémon
 Halloween
+Halloween Mischief: Part 1
+Halloween Mischief: Part 2
 2× Hatch Candy
 2× Hatch Stardust
 2× Hatch XP
@@ -5301,6 +6206,8 @@ Mareep attracted to Incense
 Sentret lured by Incense
 Incense Day: Type Shuffle
 2× Incense duration
+Incense duration increased
+90-minute Incense duration
 3-hour Incense duration
 3-hour Incense duration
 2× Incense effectiveness
@@ -5409,12 +6316,14 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
+A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on August 14 and 15, 2021, wherever you are.
+This ticket will automatically activate to give you access to Special Research on October 9, 2021, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
+A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on October 9, 2021, wherever you are.
 A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
 This ticket will automatically activate to give you access to Special Research on August 14 and 15, 2021, wherever you are.
 A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -5426,6 +6335,8 @@ A ticket to access Special Research on September 19, 2021, from 11:00 a.m. to 5:
 This ticket will automatically activate to give you access to Special Research on September 19, 2021, wherever you are.
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access a special research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to a special research on November 21, wherever you are in the world.
 A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
 A ticket to access Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6408,8 +7319,11 @@ Luminous Legends X
 Luminous Legends Y
 Lunar New Year
 2× Lure Module duration
+Lure Module duration increased
+90-minute Lure Module duration
 3-hour Lure Module duration
 Event Pokémon attracted to Rainy Lure Modules
+Event Pokémon attracted to Lure Modules
 A frosty Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
 Glacial Lure Module
 An electronic Lure Module that attracts more Pokémon than usual for 30 minutes. It can also cause Evolution.
@@ -6449,6 +7363,7 @@ Elesa Pose
 Korrina Pose
 Pop Pose
 Rock Pose
+Leon Pose
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -6565,7 +7480,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-10-16T17:25:08.423110at SHA 35d284e144d5842878f487c94356efa76c193008Pipeline 744290, job 7335407
+Built at 2021-11-29T09:08:05.499961at SHA 90d34ac668e26da187a64cd61dccff6322511096Pipeline 774429, job 7804491
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7136,6 +8051,7 @@ Photo saved
 The photo could not be saved.
 5 surprise encounters with Abra in GO Snapshot
 5 surprise encounters with Charmander in GO Snapshot
+5 surprise encounters with Duskull in GO Snapshot
 5 surprise encounters with Eevee in GO Snapshot
 5 surprise encounters with Electabuzz in GO Snapshot
 5 surprise encounters with Fletchling in GO Snapshot
@@ -7148,6 +8064,7 @@ The photo could not be saved.
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
+5 Photobombs from Shinx in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Swablu in GO Snapshot
 5 surprise encounters with Tepig in GO Snapshot
@@ -10646,6 +11563,8 @@ Catch {0} Makuhita or Meditite
 Make {0} Excellent Throws in a row
 Win {0} raids
 Use a supereffective Charged Attack in {0} Gym battles
+Battle in the Halloween Cup {0} times
+Win {0} Trainer Battles in the Halloween Cup
 Battle in the GO Battle League {0} times
 Battle in GO Battle League
 Win {0} Trainer Battles in the GO Battle League
@@ -10770,12 +11689,14 @@ Catch {0} Exeggcute
 Catch a Fennekin
 Catch a Fletchling
 Catch a Froakie
+Catch a Furfrou
 Catch Jirachi!
 Catch {0} Lileep or Anorith
 Catch a Litleo
 Catch Mew!
 Catch {0} Natu
 Catch {0} Omanyte or Kabuto
+Catch {0} Pumpkaboo
 Catch {0} Slugma or Gulpin
 Catch {0} Voltorb
 Catch {0} Trubbish
@@ -10788,6 +11709,7 @@ Catch a Dark-type Pokémon
 Catch {0} Dragon-type Pokémon
 Catch a Dragon-type Pokémon
 Catch {0} Electric-type Pokémon
+Catch {0} different species of Electric-type Pokémon
 Catch an Electric-type Pokémon
 Catch {0} Fairy-type Pokémon
 Catch {0} different species of Fairy-type Pokémon
@@ -10802,6 +11724,7 @@ Catch a Flying-type Pokémon
 Catch {0} Ghost-type Pokémon
 Catch {0} different species of Ghost-type Pokémon
 Catch a Ghost-type Pokémon
+Catch {0} Grass- or Bug-type Pokémon
 Catch {0} Grass-type Pokémon
 Catch {0} different species of Grass-type Pokémon
 Catch a Grass-type Pokémon
@@ -10844,6 +11767,8 @@ Vote for Dratini Community Day! Catch {0} Pokémon
 Catch {0} Pokémon with Weather Boost
 Catch a Pokémon with Weather Boost
 Catch {0} Whismur
+Change the form of {0} Pokémon
+Change the form of a Pokémon
 Catch {0} Charmander
 Catch {0} Charmeleon
 Evolve {0} Charmander
@@ -10853,6 +11778,7 @@ BIDOOF
 A Ripple in Time
 A Tale of Tails
 December Community Day
+Nothin’ Dull About Duskull
 What You Choose to Be
 Electric for Electabuzz
 The Bravest Bird
@@ -10879,6 +11805,7 @@ An Inter-egg-sting Development
 The Higher They Fly...
 A Seven-Colored Shadow
 Stop and Smell the Roselia
+Flash, Spark, and Gleam
 Snivy in the Sunshine
 A Spooky Message 2018
 A Spooky Message 2019
@@ -10889,6 +11816,7 @@ A Hairy Situation
 Daily Bonus
 Defeat Jessie or James {0} times
 Defeat {0} Team GO Rocket members
+Defeat a Team GO Rocket member
 Great to see you again, %PLAYERNAME%. I always run into you when I find something exciting. Maybe you’re my Special Research good-luck charm!
 Last night, I was studying the chemical reaction that causes Trubbish to appear.
 Suddenly I saw bright flashing lights in the near distance and went to investigate.
@@ -10994,6 +11922,9 @@ How was 2019 for you, %PLAYERNAME%? For me, it was a fantastic year, and I want 
 Together, we took on Team GO Rocket, uncovered the Wish Pokémon, Jirachi, and began encountering Pokémon originally discovered in Unova.
 I want to make sure you know how proud I am of how much you and all the other Trainers have grown this last year!
 And now with 2020 on the horizon, there are sure to be many more adventures awaiting! Until then, let’s get up and GO!
+Catch {0} Duskull
+Evolve {0} Duskull
+Evolve {0} Dusclops
 Evolve Eevee into each of its unique Evolutions
 Catch {0} Eevee
 Evolve {0} Eevee
@@ -11305,6 +12236,7 @@ Evolve a Meowth
 Evolve a Drowzee
 Evolve a Feebas
 Evolve a Galarian Mr. Mime
+Evolve a Galarian Slowpoke
 Evolve a Grimer
 Evolve a Magnemite
 Evolve a Scyther
@@ -11720,6 +12652,9 @@ Catch {0} Roselia
 Evolve {0} Roselia
 Send {0} Gifts to friends
 Send a Gift to a friend
+Catch {0} Shinx
+Evolve {0} Shinx
+Evolve {0} Luxio
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
 Take {0} snapshots of Genesect
@@ -11729,7 +12664,9 @@ Take a snapshot of Regirock
 Take a snapshot of Registeel
 Take a snapshot of Thundurus
 Take a snapshot of Tornadus
+Take a snapshot of Shinx, Blitzle, or Furfrou in the wild
 Take {0} snapshots of wild Bug-type Pokémon
+Take a snapshot of Butterfree, Shinx, or Blitzle in the wild
 Take {0} snapshots of wild Dark-type Pokémon
 Take {0} snapshots of wild Dragon-type Pokémon
 Take a snapshot of Chinchou, Finneon, or Ducklett in the wild
@@ -11754,6 +12691,8 @@ Take {0} snapshots of wild Psychic-type Pokémon
 Take {0} snapshots of wild Rock-type Pokémon
 Take a snapshot of a wild Pokémon
 Take a snapshot of Dodrio, Mantine, or Skarmory in the wild
+Take a snapshot of Kirlia or Skitty in the wild
+Take a snapshot of Sneasel, Croagunk, or Frillish in the wild
 Take {0} snapshots of wild Steel-type Pokémon
 Take a snapshot of Sandshrew, Trapinch, or Cacnea in the wild
 Take {0} snapshots of wild Water-type Pokémon
@@ -11892,6 +12831,22 @@ I hope today has been one of the good ones for you!
 The world is ever changing, %PLAYERNAME%. What doesn’t change, however, is the fact that we have each other and our Pokémon.
 And as the mysterious world of Pokémon continues to grow, so do we—as Trainers, as a community, and as people.
 So here’s to a year for the books—and many more exciting ones to come!
+Hey there, %PLAYERNAME%! Have you noticed an increase in Ghost-type Pokémon appearing lately? Because I sure have.
+I was conducting some research in my lab recently when I felt a chill run up my spine—almost like something was watching me from the shadows.
+I whirled around to face my uninvited guest and saw a Pokémon floating eerily in the corner! Apparently startled by my gaze, it flew through the wall and escaped into the great outdoors. I haven’t seen it since.
+Based on my brief glimpse of it and its quick escape, I believe my visitor was Duskull, the Requiem Pokémon. It’s known to silently sneak up on its prey by making itself invisible. It also has the ability to slip straight through thick walls.
+Naturally, my goal now is to learn more about Duskull. Can you lend me a hand? Hopefully we can come to understand why it was sneaking around my lab!
+Hey there, %PLAYERNAME%! Great work researching Duskull. While you were out, I actually had another eerie encounter in my lab.
+I saw Duskull slipping through a wall to scare me again, so I shouted, “BOO!” before it could and turned the tables. It fled back through the wall—but then it reappeared and looked at me expectantly.
+Thus began an impromptu game of peek-a-boo! It made me realize that Duskull may not get many chances to play with others because people are so quick to startle at its appearance. Makes you a bit sad, doesn’t it?
+I wonder what else we can learn about Duskull. I know: Why don’t you try evolving your Duskull into Dusclops? Also known as the Beckon Pokémon, Dusclops apparently sucks everything in as if it were a black hole—so be careful of its mouth!
+Wait, %PLAYERNAME%, you did WHAT? I was so sure I told you NOT to feed a Berry to Dusclops... But maybe I said the opposite by mistake? Yeah, my bad on that one.
+But it just ate the Berry normally, huh? No danger of you getting sucked in as well? Fascinating... O-oh, and, er, quite relieving! Yes, glad to see you back in one piece.
+Now, let’s learn more about Dusclops’s Evolution, Dusknoir. Known as the Gripper Pokémon, it’s said to steal people and Pokémon away at the behest of transmissions from the spirit world.
+No one knows whether Dusknoir has a will of its own. Sounds like a Pokémon ripe for researching! Could you evolve your Dusclops for me so we can learn more?
+Hey there, Trai— AAAH! G-G-G-GHOST! Behind you! It’s— Wait. Is that Dusknoir? Hah, sorry about that. It’s my first time seeing one!
+No matter how spooky they may seem, we have to remember that Ghost-type Pokémon are Pokémon all the same. They’re looking for friends just like the rest of us!
+Thanks for your help today, %PLAYERNAME%. I hope to see you and your Dusknoir again soon!
 Hey there, %PLAYERNAME%!
 Not sure if you’ve noticed, but there seems to be a huge influx of Eevee, the Evolution Pokémon!
 Some theorize that the key to the mysteries of Pokémon Evolution lies within Eevee’s genetics.
@@ -12084,6 +13039,38 @@ BOO!
 Hahaha, got you, %PLAYERNAME%! I crack myself up. Although...it looked for a second like there was a ghostly hand on your shoulder... Maybe it was just my imagination.
 Anyway, I know an accomplished Trainer such as yourself has nothing to fear when it comes to training a Pokémon like Gengar. Being both Poison- and Ghost-type, it’s a fantastic Pokémon to have on your team.
 Thanks to your help, I think we all learned something today! I’ll be in touch when I have another adventure for you!
+OoOoOo... There’s a chill in the air... Can you feel it, %PLAYERNAME%?
+Seems like I’ve been getting goosebumps every few minutes lately! Is it just drafty, or are all the Ghost-type Pokémon we’ve been seeing somehow involved?
+Either way, I think we’re in for another adventure! Whatever happens, we’ll face it together.
+Speaking of faces, I’ve noticed a lot of Yamask in the area lately.
+I’ve been hoping to do some research on it and other Ghost-type Pokémon, so it seems like now’s the time.
+Mind lending me a hand, Trainer?
+Ah—a Yamask AND a Duskull!
+I recently had an encounter with a Duskull that seemed creepy at first but ended up being quite heartwarming.
+It was a lovely reminder not to judge a Pokémon by its...well, skull, I suppose!
+Now, about that Yamask.
+Known as the Spirit Pokémon, Yamask is said to wander through ruins by night carrying a mask that was once its human face.
+A rather melancholy existence, if true, wouldn’t you say?
+What must it feel like to carry around a mask of your former self? No offense to Yamask, but I hope I never have to find out firsthand.
+Did you know that Yamask found in Galar are different than those found in Unova?
+Perhaps you’ll come across one while you’re out conducting research.
+I wonder just how these Yamask differ. Let’s go find out!
+Wow, a Galarian Yamask!
+Unlike Yamask first found in Unova, Galarian Yamask carries a slab rather than a mask.
+It’s said that the slab bears cursed engravings and possesses Yamask itself. Talk about spooky!
+Oh, and you’ve encountered a Banette, too! Did you know that Banette is said to be a doll that became a Pokémon through the power of its grudge toward the child that disowned it?
+I wouldn’t want to be that kid, that’s for sure!
+Between Galarian Yamask’s slab, Banette’s puppet body, and all the Pokémon in costumes walking around, it feels like the spooky factor’s turned way up at the moment!
+Even so, I’d still like to learn more about Ghost-type Pokémon.
+Come on, Trainer—let’s get back out there!
+Looks like we’re coming up on the last stretch of our research here, Trainer. And hey, it looks like you found yourself an Alolan Marowak!
+Did you know that the bones used by some Marowak belonged to their mothers?
+In fact, Cubone—which evolves into Marowak—is even said to wear the skull of its mother.
+When Cubone evolves into Alolan Marowak, its mother’s regrets protect it like a vengeful spirit.
+Hmm. Between Alolan Marowak, Banette, and Yamask, we’ve witnessed the power of quite a few spirits, haven’t we?
+Try as I might to explain why Ghost-type Pokémon seem spooky, sometimes I just come up blank. But that won’t stop me from continuing to try!
+After all, I always feel like I learn a bit more about myself when I’m studying Pokémon. You know what I mean?
+Anyway, I think we’re more than due some rest and treats after all that research. See you next time, %PLAYERNAME%!
 BOO! Haha, hey there, %PLAYERNAME%!
 Hope I didn’t scare you too badly. I was just having a bit of fun during this spooky season.
 Say, since you’re here, I was wondering whether you could help me. I’ve heard some reports of an unusual Pokémon appearing in a nearby forest.
@@ -12267,6 +13254,38 @@ The world of Pokémon is a beautiful place, and I want you to lead by example an
 Remember how it felt the first time you caught a Pokémon, the first time you took a walk with your buddy, the first time you challenged a raid—and channel that energy into everything you do. With your strong heart and peerless determination, there’s nothing you can’t do!
 I can only hope you’re as proud of yourself as the team leaders and I are of you. Don’t worry—I’ll always be here when you need me, and you can be sure I’ll be calling on you from time to time to help me with research. There’s always something more to discover, after all!
 Thanks for everything, %PLAYERNAME%. I know I can always count on you! And I’m sure you know what I’m about to say, so before I get too choked up—let’s GO!
+Ah, %PLAYERNAME%—perfect timing!
+Come look at this. See that there, in the dirt?
+That’s right—footprints! Though not human ones, I’d wager.
+You’d be hard pressed to find shoes that would fit whatever feet made these, I think! There must be a Pokémon responsible, though I’m not sure which one...
+I’m going to stick around and see if I can’t learn a bit more from these footprints, so why don’t you follow them and see where they take you?
+Make sure to snap some photos of your findings!
+Hey there, %PLAYERNAME%! That Ground-type Pokémon you caught looks spectacular.
+Did you know that Drilbur, the Mole Pokémon, can dig through the ground at incredible speeds?
+In the Galar region, Drilbur often leave farmers in a tizzy because they damage their crops. Sounds like mole than they can handle, eh? Haha!
+Anyway, while you were out, I received reports that the Pokémon we’re looking for has vines on its body.
+How about you search the bushes nearby to see if you can find any vines? Don’t forget to snap some photos, too!
+Welcome back, %PLAYERNAME%. You got a great shot of that Bug-type Pokémon!
+I encountered a curious Bug-type Pokémon myself, actually: Combee.
+Known as the Tiny Bee Pokémon, Combee is actually a trio! The three work together to collect honey and deliver it to their colony.
+Such abundant teamwork sure is admirable!
+I’m sure our team leaders strive to achieve that same level of synergy.
+Anyway, the Combee I saw got me thinking: Maybe we’ve been searching too close to the ground. If my hypothesis is correct, we’re on the trail of a Pokémon that can sometimes be seen hopping from tree to tree.
+This time, try searching among the trees to see if you can find any leads. And don’t forget to photograph your findings!
+Welcome back, %PLAYERNAME%! Sweet Nuzleaf.
+I believe the Pokémon we’re after tends to live deep in forests—much like Nuzleaf does—so we should be on the right track.
+Ah, look—your Nuzleaf just started playing its grass flute!
+The sound of it is said to make its listeners uneasy. I wonder if it’s trying to lead the Pokémon out into the open...
+Wait, what was that?
+Look there! A dark shadow just dashed across the sky! Keep your eyes up, %PLAYERNAME%, and chase after it! Let’s GO!
+Great job out there, %PLAYERNAME%!
+The photo you sent me speaks to your efforts. And I see you made a new friend in that Rufflet!
+Did you know that Rufflet will challenge Pokémon stronger than itself, even if it might lose? That’s how it pushes itself to grow!
+Pretty brave, huh? I think bravery is exactly what we’ll need as we prepare to encounter the mysterious Pokémon we’ve been tracking.
+Thanks to all the information we’ve gathered, I’m certain that we’re dealing with Zarude, the Rogue Monkey Pokémon.
+The Mythical Pokémon Zarude tend to live in packs in the forest, but it looks like the one we’ve been following is all on its own.
+Sounds like the perfect chance to catch it, don’t you think?
+With everything we’ve learned—and all the Pokémon friends you’ve made along the way—I’m sure you’ll succeed!
 ...
 Oh! %PLAYERNAME%, you caught me by surprise. I was just thinking about some movies I’ve seen recently.
 What, you didn’t take me for a movie guy? Haha! Well, while the world of Pokémon is my greatest passion, I’ve been trying to explore my interests outside of research and Pokémon as well.
@@ -12377,6 +13396,32 @@ In other regions, Trainers use Mega Bracelets to help their Pokémon Mega Evolve
 However, I thought a Mega Bracelet would be a trendy way to show off your Mega Evolution skills.
 You can check it out when you want to change up your look. I hope you accept this gift with my sincerest thanks for a job well done.
 Until next time, let’s GO!
+Hey, %PLAYERNAME%! Have you run into any Pokémon wearing fun costumes recently? I’ve seen quite a few around my mobile lab.
+It reminded me how freeing it can be to express yourself in different ways. Personally, I’m a big fan of turning up my tunes and shredding on the air guitar!
+Others, like Spark, are really into taking snapshots of Pokémon and the world around them. I wonder how those Pokémon feel when they wear those costumes.
+Sounds to me like some research is in order!
+Welcome back, Trainer! I was digging through some old files while you were out when I began to hear a strange melody coming from somewhere nearby.
+I ran out to investigate, and in my haste, I ended up bumping straight into Blanche, who’d been sorting through some Berries.
+Blanche was none too pleased to see those Berries scattered on the ground, but the costumed Pokémon that rushed in to gobble them up sure seemed thankful. Haha!
+Seeing them relish those Berries gave me an idea. Cooking food can be a terrific way to express yourself, and giving food to those we care about is one of the most heartfelt things we do for one another.
+I wonder how different Pokémon react to different foods. While I go on a Berry run, why don’t you do some research on how Pokémon feel after eating?
+Thanks for completing those research tasks, Trainer! Reading the results of your research made my heart full—and my stomach rumbly! Haha!
+Ah, by the way! I heard that mysterious melody again while I was collecting Berries. I think it may be the product of a certain Pokémon.
+I wasn’t able to look into it further at the time—my hands were quite full with Berries—but I’m hoping we can investigate it together soon.
+For now, could you continue researching how people and Pokémon express themselves?
+For many Trainers and their Pokémon, battling is a primary outlet of self-expression. In fact, Candela believes that the feelings she shares with her Pokémon can directly influence the outcome of a battle.
+Why don’t you go out and see for yourself? I’ll be cheering you on from here!
+Welcome back, Trainer. Did you learn anything about expressing yourself in battle?
+While you were out, I managed to track that mysterious melody to a location nearby. I think the source may be none other than Meloetta, the Melody Pokémon!
+Did you know that its melodies are sung with a special vocalization method that can control the feelings of those who hear it?
+Maybe if we find a way to express ourselves through song as well, you’ll be able to catch Meloetta’s attention! What do you say, %PLAYERNAME%?
+Well done, %PLAYERNAME%! I knew you’d find a way to catch Meloetta’s attention.
+They say many famous songs have been inspired by the melodies that Meloetta produces, and it’s not hard to see why. Self-expression through song is a truly powerful thing!
+I think this would be a fine opportunity for you to partner with Meloetta and share who you are with your friends. I’m sure Meloetta would be happy to learn more about you, too!
+Da da da dooo... Da dee doo, dee da dee dum...
+Oh, %PLAYERNAME%—I didn’t see you there! I was just rocking out to one of my favorite songs. After so much research on how people express themselves, I felt compelled to indulge in a bit of self-expression myself!
+Whether it’s serving looks or serving lunch, a Pokémon battle or battle of the bands, there’s no limit to the ways you can express who you are. What’s your method of choice, %PLAYERNAME%?
+Maybe you’re still figuring it out—and that’s totally fine. Everyone’s journey is unique! Whatever the case, you have my support—and Meloetta’s, too. Now, let’s get out there and show the world who we are!
 %PLAYERNAME%, it’s always great to see you! I’m sure you know this, but your help in progressing my research has been essential to major breakthroughs in my work.
 That’s why I’ve come to talk to you again. You probably already know what I’ll be asking!
 I need your assistance in learning more about the newly discovered Pokémon that has really sent me and other Pokémon researchers into quite a tizzy.
@@ -12472,7 +13517,7 @@ My assistants and I will request some Special Research from you in the future. S
 Hey there, %PLAYERNAME%! I’m hoping you can help me with something. You see, I was out for a walk recently and noticed several trees covered in slash marks—and I think I know what made them.
 There’s a Pokémon called Oshawott—the Sea Otter Pokémon—that keeps a scalchop on its stomach that it can detach and use as a blade. I’ve seen a lot of Oshawott around lately, so I’m thinking they may be our mystery tree carvers.
 Could you catch some Oshawott so we can learn more about them?
-Welcome back, %PLAYERNAME%! Did you know that Oshawott uses the scalchop on its stomach not only to fight, but also to break open hard berries? Gotta love a good multitool.
+Welcome back, %PLAYERNAME%! Did you know that Oshawott uses the scalchop on its stomach not only to fight but also to break open hard berries? Gotta love a good multitool.
 Now that we’ve learned more about Oshawott, I was hoping we could turn our attention to its Evolution, Dewott. Don’t let its cute appearance fool you—Dewott takes itself very seriously.
 Also known as the Discipline Pokémon, Dewott uses strict training to learn its flowing double-scalchop technique. I’d love to see Dewott’s fighting in action! Can you evolve your Oshawott for me, Trainer?
 Wow, Dewott’s double-scalchop technique is incredible! Pokémon truly never cease to amaze, eh, %PLAYERNAME%?
@@ -12481,7 +13526,7 @@ I think I’ve gained a better understanding of Dewott—which means we can begi
 Dewott’s Evolution, Samurott, is known to wield swords called seamitars incorporated in its armor. Apparently, Samurott can draw and sheathe its seamitars in the time it takes a foe to blink.
 Not hard to see why it’s known as the Formidable Pokémon! Why don’t you evolve Dewott so we can witness Samurott’s majesty for ourselves?
 Excellent work, Trainer! That’s a fine Samurott. Its seamitars truly are a sight to behold! Knowing how quickly it can draw and sheathe its blades, I wonder how fast it can dice up berries...
-Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them too! I’ll “sea” you next time! Haha!
+Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them, too! I’ll “sea” you next time! Haha!
 Hey there, %PLAYERNAME%! It’s great to see you again! I’m always grateful to have a helping hand with my research.
 Speaking of research, have you heard of Porygon, the Virtual Pokémon?
 Well, I’m not entirely sure why, but Porygon have been appearing more frequently in the area as of late!
@@ -12829,10 +13874,21 @@ Munna seems like a fascinating Pokémon, and I can’t wait to research it more.
 Hey there, %PLAYERNAME%! I’m glad you’re here. A new adventure is about to begin!
 Not long ago, various Legendary Pokémon began emerging from mysterious rings that suddenly appeared in the sky. After some research, we discovered it was Hoopa, the Mischief Pokémon, that was responsible.
 Hoopa’s rings allow it to teleport things—including itself—wherever it wants. That power makes it hard to track down, but for some reason, Hoopa seems to keep returning to this area.
-How do I know? Well, I was doing some lab work recently when my glasses were lifted straight off my head. Spark was there assisting me, and he said he saw a small, lavender-colored hand emerge from a ring and snatch my glasses. Pretty bold, eh?
+How do I know? Well, I was doing some lab work recently when my glasses were lifted straight off my head. Spark was there assisting me, and he said he saw a small, lavender-colored hand emerge from a ring and snatch my glasses. Pretty cheeky, eh?
 Luckily, he and Candela managed to retrieve my spectacles by chasing down the rings that were popping up at random around my mobile lab. So, at least I can still see. Haha!
 Needless to say, I’m still not sure why Hoopa’s here. Tracking it down has been difficult, but with your help, I’m sure we’ll crack the case in no time!
 For now, why don’t you try using an Incense to see what Pokémon you can find in the area?
+... ... ...
+BOO! Haha, did I scare you? Not too badly, I hope.
+Let’s continue our investigation into these eerie events. Don’t worry—I won’t send you into any rickety mansions or foggy forests.
+I was actually doing some research near a forest myself recently, and I found a rather odd-looking tree. I’ve learned over the years to trust my gut when something seems strange in the field—chances are it’s a Pokémon!
+I couldn’t help but indulge my curiosity, and I stepped toward the tree to observe it more closely. As soon as I did, the tree pivoted on its roots and stared me down with a single red eye!
+It didn’t take long for me to realize I was standing before a Trevenant, the Elder Tree Pokémon. Trevenant will trap people who harm their forest, never allowing them to leave. 
+It must have sensed that I was just there for research because it turned back around and ignored me. Its attention then turned to the many Phantump gathered around it.
+That’s when I realized that Trevenant was harvesting Berries from the nearby trees to feed the Phantump! Trevenant is known to offer great kindness to forest-dwelling Pokémon, and it was lovely to witness it myself.
+Ghost-type Pokémon can seem frightening at first glance, but look a little closer and you’ll find they’re full of surprises. I’m sure the same goes for Hoopa! 
+I have a feeling there’s more to Hoopa than its penchant for mischief. Maybe we’ll find some answers after we conduct some more research on Ghost-type Pokémon.
+Great work, %PLAYERNAME%! As we close out our spooky investigations, I have a feeling there are some bright things on the horizon for us to explore together soon. I’ll be sure to let you know when I have something to share!
 As with all great mysteries, solving this will take time, patience, and trust. I’ll need to work alone at some points, but I promise I’ll return to share my findings and help propel us forward.
 You just keep exploring the world as you always do. You never know what you might find!
 I’ll report back here once I have more information on Hoopa. Thanks in advance for your help, %PLAYERNAME%!
@@ -12858,6 +13914,39 @@ Maybe it’s my one-track mind speaking, but I immediately think of Hoopa when I
 Hey, Trainer! Have you noticed that Hoopa has continued to cause mischief? Its tricks are always unexpected, but I do feel like Hoopa’s brought some welcome color to our lives.
 Speaking of colorful things, I’ve heard reports that there’s a certain Pokémon nearby that’s known to have multiple appearances. Keep your eyes peeled for me, won’t you?
 In the meantime, I’m going to analyze everything we’ve learned about Psychic-type Pokémon thus far. Hopefully it’ll point us in the right direction to continue our research on Pokémon forms—and Hoopa!
+Hey there, %PLAYERNAME%! I’ve noticed that some Pokémon wearing costumes have been appearing around my lab lately. Isn’t it fun to change up your look every once in a while?
+Speaking of, have you encountered any Furfrou yet? Also known as the Poodle Pokémon, Furfrou is famous for the variety of looks it can achieve when a Trainer trims its coat—10 in all!
+Why don’t we stay on the lookout for Furfrou and see if we can learn more about changing its appearance? Who knows—maybe we’ll learn more about other Pokémon along the way!
+Great job catching that Furfrou, Trainer! Did you know there are also other Pokémon that’re known to change their appearance? That includes one we’ve spent a lot of time researching lately: Hoopa.
+Hoopa is known to have two forms. So far, you and I have seen it as Hoopa Confined, but I hear its power increases astronomically when it becomes Hoopa Unbound.
+I wonder if we’ll ever get to witness it ourselves. I suppose all we can do for now is continue our research.
+In fact, Blanche has been receiving reports of some spooky occurrences out in the field. We’re not quite sure what the cause is, but like all things lately, we can’t rule out Hoopa’s involvement.
+Hoopa’s no stranger to mischief, and you never know how it’ll use its rings next, so I think further investigation is in order.
+I’ll be sure to share more details with you when I have them, %PLAYERNAME%. Now, let’s GO!
+Hey there, %PLAYERNAME%! It’s nice to see a friendly face—because I’ve been seeing a lot of spooky Pokémon staring at me lately!
+Do you think this might be Hoopa’s doing? Hoopa’s known to transport Pokémon and people to different places with its rings, so maybe that’s what’s happening here.
+After all those Legendary Pokémon appeared during this year’s GO Fest—as well as those Pokémon first found in Galar that appeared more recently—I’d say Hoopa’s involvement here is more than likely.
+Perhaps we can learn more about Hoopa by studying the Ghost-type Pokémon that have begun to show up nearby. Mind giving me a hand, Trainer?
+Thanks for conducting that research, Trainer. We certainly know more than we did, but not enough to explain why these spooky occurrences are still...well, occurring.
+Let’s do a bit more research on Ghost-type Pokémon then, shall we?
+Hey there %PLAYERNAME%! Hope you’ve been well.
+Just last night, I saw some shining lights in a nearby park, but by the time I came upon the scene, the area was empty. 
+I get a sense that this might be some interesting behavior from an Electric-type Pokémon based on the way the light flickered, but I can’t be sure!
+Can I get your help investigating? Maybe these Pokémon are still around and we just need to do some exploring to find them!
+Well would you look at that: it was Shinx, the Flash Pokémon!
+This checks out with what I’ve heard about this cute little creature.
+Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.
+It was probably a group of Shinx communicating to one another that I saw!
+While you’re here with your Shinx, let’s do some more research into its Evolutions!
+Apparently strong electricity courses through the tips of its sharp claws. Sharp and electrifying—what an interesting creature! Let’s learn more about it, shall we?
+Well done, %PLAYERNAME%, you’ve got yourself a Luxio!
+Also known as the Spark Pokémon, they collectively generate powerful electricity from their claws by gathering their tails together.
+Fascinating! Shinx can use their tails to communicate with one another and Luxio can use their tails to collectively generate powerful electric attacks.
+I wonder what else we can learn from this family of Pokémon? There’s just one Evolution left! Let’s see what else there is to learn!
+Luxray—the Gleaming Eyes Pokémon! Apparently its eyes are gleaming because it can see through solid objects.
+It will instantly spot prey trying to hide behind walls, even if the walls are thick! What a powerful and interesting use of its electric ability.
+What an electrifying day! We’ve learned so much about Shinx and its Evolutions today, and there’s still so much to discover too.
+If you’ve still got a little spark in you, why not head out there and see what else there is to learn? Let’s GO!
 Hey there, %PLAYERNAME%! Perfect timing.
 I just got back from a lengthy stroll in the sunshine. It’s incredible how much a bit of fresh air can affect your energy and mood!
 But that’s not the only thing that’s got me feeling chipper. You see, I witnessed something quite interesting while I was out and about.
@@ -13123,6 +14212,11 @@ December Community Day (1/4)
 December Community Day (2/4)
 December Community Day (3/4)
 December Community Day (4/4)
+Nothin’ Dull About Duskull
+Nothin’ Dull About Duskull (1/4)
+Nothin’ Dull About Duskull (2/4)
+Nothin’ Dull About Duskull (3/4)
+Nothin’ Dull About Duskull (4/4)
 What You Choose to Be
 What You Choose to Be (1/5)
 What You Choose to Be (2/5)
@@ -13172,6 +14266,12 @@ The Great Gastly (1/4)
 The Great Gastly (2/4)
 The Great Gastly (3/4)
 The Great Gastly (4/4)
+Halloween Cup Research
+What Lies beneath the Mask?
+What Lies beneath the Mask? (1/4)
+What Lies beneath the Mask? (2/4)
+What Lies beneath the Mask? (3/4)
+What Lies beneath the Mask? (4/4)
 A Spooky Message Unmasked
 A Spooky Message Unmasked (1/4)
 A Spooky Message Unmasked (2/4)
@@ -13247,6 +14347,12 @@ Level 50 Challenge (1/4)
 Level 50 Challenge (2/4)
 Level 50 Challenge (3/4)
 Level 50 Challenge (4/4)
+Search for Zarude!
+Search for Zarude! (1/5)
+Search for Zarude! (2/5)
+Search for Zarude! (3/5)
+Search for Zarude! (4/5)
+Search for Zarude! (5/5)
 Straight to the Top, Machop!
 Straight to the Top, Machop! (1/4)
 Straight to the Top, Machop! (2/4)
@@ -13275,6 +14381,13 @@ Mega Buddy Challenge (1/4)
 Mega Buddy Challenge (2/4)
 Mega Buddy Challenge (3/4)
 Mega Buddy Challenge (4/4)
+Finding Your Voice
+Finding Your Voice (1/6)
+Finding Your Voice (2/6)
+Finding Your Voice (3/6)
+Finding Your Voice (4/6)
+Finding Your Voice (5/6)
+Finding Your Voice (6/6)
 Let’s GO, Meltan
 Let’s GO, Meltan (1/9)
 Let’s GO, Meltan (2/9)
@@ -13400,6 +14513,11 @@ Misunderstood Mischief (7/16)
 Misunderstood Mischief (8/16)
 Misunderstood Mischief (9/16)
 Misunderstood Mischief (10/16)
+Flash, Spark, and Gleam
+Flash, Spark, and Gleam (1/4)
+Flash, Spark, and Gleam (2/4)
+Flash, Spark, and Gleam (3/4)
+Flash, Spark, and Gleam (4/4)
 Snivy in the Sunshine
 Snivy in the Sunshine (1/4)
 Snivy in the Sunshine (2/4)
@@ -13418,9 +14536,14 @@ Special Weekend (2/4)
 Special Weekend (3/4)
 Special Weekend (4/4)
 Special Weekend (7-Eleven México)
+
 Special Weekend (Grubhub)
+
+
 Special Weekend (Matsumoto Kiyoshi)
 Special Weekend (SoftBank & 7-Eleven Japan)
+
+
 Special Weekend (Verizon)
 Special Weekend (Yoshinoya)
 Seeing Double
@@ -15210,6 +16333,7 @@ FILL
 You can also enter a referral code in the Friends menu up to 72 hours after starting your journey.
 You can also enter a referral code in the Friends menu up to {0} hours after starting your journey.
 Skip
+ENTER A REFERRAL CODE
 Enter referral code:
 Would you like to try adding this person as a referrer anyway? You’ll still receive a reward for signing in, but to earn more referral rewards, you’ll need to become friends in Pokémon GO with the person who referred you.
 You’ll still receive a reward for signing in, but to earn more referral rewards, you’ll need to become friends in Pokémon GO with the person who referred you.
@@ -15221,6 +16345,9 @@ Your Friend Can’t Add Any More Friends
 Unable to send Friend Request
 Your Friend List Is Full
 Unable to send Friend Request to the Trainer who invited you.
+GET MY REFERRAL CODE
+Do you want to invite friends to play Pokémon GO?
+You will no longer be able to enter a friend’s referral code.
 Your Friend
 Your friend has joined Pokémon GO!
 You earned the following:
@@ -15351,31 +16478,31 @@ Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Goyang 20
 Safari Zone Goyang 2020
 Safari Zone Goyang 2020 (1/2)
 Safari Zone Goyang 2020 (2/2)
-Welcome to Safari Zone Liverpool 2020, %PLAYERNAME%!
-Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Liverpool 2020!
-Safari Zone Liverpool 2020
-Safari Zone Liverpool 2020 (1/2)
-Safari Zone Liverpool 2020 (2/2)
+Welcome to Safari Zone Liverpool, %PLAYERNAME%!
+Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Liverpool!
+Safari Zone Liverpool
+Safari Zone Liverpool (1/2)
+Safari Zone Liverpool (2/2)
 Welcome to Safari Zone Monterrey 2020, %PLAYERNAME%!
 Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Monterrey 2020!
 Safari Zone Monterrey 2020
 Safari Zone Monterrey 2020 (1/2)
 Safari Zone Monterrey 2020 (2/2)
-Welcome to Safari Zone Philadelphia 2020, %PLAYERNAME%!
-Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Philadelphia 2020!
-Safari Zone Philadelphia 2020
-Safari Zone Philadelphia 2020 (1/2)
-Safari Zone Philadelphia 2020 (2/2)
+Welcome to Safari Zone Philadelphia, %PLAYERNAME%!
+Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Philadelphia!
+Safari Zone Philadelphia
+Safari Zone Philadelphia (1/2)
+Safari Zone Philadelphia (2/2)
 Welcome to Safari Zone Seville 2020, %PLAYERNAME%!
 Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Seville 2020!
 Safari Zone Seville 2020
 Safari Zone Seville 2020 (1/2)
 Safari Zone Seville 2020 (2/2)
-Welcome to Safari Zone St. Louis 2020, %PLAYERNAME%!
-Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone St. Louis 2020!
-Safari Zone St. Louis 2020
-Safari Zone St. Louis 2020 (1/2)
-Safari Zone St. Louis 2020 (2/2)
+Welcome to Safari Zone St. Louis, %PLAYERNAME%!
+Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone St. Louis!
+Safari Zone St. Louis
+Safari Zone St. Louis (1/2)
+Safari Zone St. Louis (2/2)
 Safari Zone: Battle another Trainer
 Safari Zone: Use {0} Razz Berries to help catch Pokémon
 Safari Zone: Take a snapshot of your buddy
@@ -15725,6 +16852,7 @@ No signals? Well, it is getting pretty late...and I need to go meet up with Will
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 More Abra are appearing in the wild
 More Charmander are appearing in the wild
+More Duskull are appearing in the wild
 More Eevee are appearing in the wild
 More Electabuzz are appearing in the wild
 More Fletchling are appearing in the wild
@@ -15737,6 +16865,7 @@ More Oshawott are appearing in the wild
 More Porygon are appearing in the wild
 More Roselia are appearing in the wild
 More Seedot are appearing in the wild
+More Shinx are appearing in the wild
 More Snivy are appearing in the wild
 More Swablu are appearing in the wild
 More Tepig are appearing in the wild
@@ -15891,6 +17020,7 @@ Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
 Tickets for the A Tale of Tails Special Research story available in the shop
 December Community Day
+Ticket for the Nothin’ Dull About Duskull Special Research story available in the shop
 Tickets for an exclusive Special Research story available in the shop
 Tickets for the Electric for Electabuzz Special Research story available in the shop
 A ticket to access the Electric for Electabuzz Special Research on November 15, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -15901,10 +17031,11 @@ Tickets for the Just a Nibble Special Research story available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
-Ticket for the Special Research story From Scalchops to Seamitars available in the shop
+Ticket for the From Scalchops to Seamitars Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
+Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
 Ticket for Special Research available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
 Ticket for the Roasted Berries Special Research story available in the shop
@@ -15939,8 +17070,33 @@ Nidoran♀ and Nidoran♂ featured in Timed Research
 Snubbull featured in Timed Research
 You can claim a Gym controlled by a rival team by defeating the Pokémon in the Gym. If you reduce the motivation of all Pokémon in the Gym to zero, you’ll be able to claim the Gym for your team.
 Battle at Gyms
+Pokémon GO is more fun with friends! Add a friend or invite new Trainers to join.
+Add Friends
+Add friends by getting their Trainer code or scanning their QR Code. You can also add friends by connecting your account to Facebook on the Add Friend screen.
+Add Friends
+At level 10, you can battle alongside friends in Gyms and raids. You can also challenge them to Trainer Battles! Become Ultra or Best Friends to battle each other from anywhere in the world.
+Battle with Friends
+Your Friendship level will increase with each interaction, helping you unlock extra bonuses.You can raise your Friendship level with a Trainer once per day, and when you do so, that Trainer’s portrait will have a blue glow.
+Build Friendships
+You and a friend can send Gifts to each other once a day.Add a Gift Sticker to make your Gift extra special!
+Exchange Gifts
+For a chance to become Lucky Friends with a Trainer, become Best Friends with them and continue interacting with them each day.Trade with a Lucky Friend to receive a Lucky Pokémon! You can become Lucky Friends again later.
+Lucky Friends
+At level 10, you can trade Pokémon with your friends to help complete your Pokédex.You’ll need to be near a friend to trade with them.
+Trade with Friends
+Great work, {0}! Adventures will take you far and wide in this world, and the more friends you make, the better.
+Be sure to interact with them daily, and you might be rewarded for it!
+Congratulations, {0}! You’ve made your first friend in Pokémon GO!
+As you play together, you’ll increase your Friendship level and unlock extra bonuses.
+Open a Gift from a friend to increase your Friendship level!
+Now that you have a friend, you can send them Gifts that you collect from PokéStops. Do you want to learn how Gifts work?
+Send a Gift to Friends
 Earn up to 50 PokéCoins per day when your Pokémon defends a Gym.You’ll earn these PokéCoins when your Pokémon returns from defending the Gym.
 Earn PokéCoins
+Give Berries
+Get Items
+Motivation
+Defending Gyms
 Switch out Pokémon during battle to utilize your Battle Party’s different Charged Attacks.
 A Curveball Throw will increase your chances of catching a Pokémon.
 Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
@@ -15964,8 +17120,13 @@ Once your attack meter is full, tap the button to perform a Charged Attack, whic
 Charged Attacks
 The icon indicates a raid’s difficulty. Work with other Trainers to defeat more challenging Raid Bosses!If you defeat a Mega Raid Boss, you’ll get Mega Energy that you can use to Mega Evolve that Pokémon.
 Raid Difficulty
-Swipe to the left or right to dodge incoming attacks from the opponent.
+Swipe to the left or right to dodge incoming attacks from your opponent.
 Dodge
+Tap anywhere on the screen to perform a Fast Attack. Fast Attacks generate energy for your Charged Attacks.
+Fast Attacks
+Raid Lobbies
+Raid Pass
+What Is a Raid?
 Use a Revive on a fainted Pokémon to restore half its maximum HP.
 Use Revives to revive fainted Pokémon.
 Tap on your fainted Pokémon to help revive them.
@@ -15979,7 +17140,23 @@ As your Pokémon collection grows, try using tags to easily categorize and sort 
 Here are some examples of ways you can utilize tags.
 Tagging
 Tag Ideas
-Stay Aware of Your Surroundings 
+PLAY WITH BUDDY
+Spin the Poké Ball in a circular motion before you release it. Throwing a Curveball increases your chance of catching the Pokémon.
+Throwing a Curveball
+GO TO FRIENDS LIST
+Get Gifts by spinning PokéStops. To send a Gift, go to a friend’s Trainer profile.Add a Gift sticker to make it extra special!
+Sending Gifts
+To take a snapshot of your buddy, go to the buddy screen, tap PLAY! to go into AR mode, and then tap the camera button.
+Take a Snapshot of Your Buddy
+To take a snapshot of your Pokémon, go to its details page, and tap the camera button. You can also go to your Item Bag, select the Camera item, and then choose a Pokémon.
+Take a Snapshot of Your Pokémon
+When encountering a Pokémon in the wild, tap the camera button to take a snapshot.
+Take a Snapshot of a Wild Pokémon
+When you’re holding a Poké Ball, a target ring will appear around the Pokémon. If you throw the Poké Ball and it lands inside the target ring, you’ll earn a Nice, Great, or Excellent Throw.
+Nice, Great, and Excellent Throws
+You must be near a friend to trade with them. Then, go to their Trainer profile on your Friends list and tap TRADE.
+Trading Pokémon
+Stay Aware of Your Surroundings
 https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
 Scan cancelled
 Be respectful of others while scanning.Remember to stay safe and be aware of your surroundings.
@@ -16279,7 +17456,7 @@ This device, OS, or software is not compatible with Pokémon GO.<a href="unautho
 This device, OS, or software is not compatible with Pokémon GO.<a href="unauthorized_device_help_center_link">Visit the Help Center</a> for more information.
 If you remove this friend in this game, you’ll remove them as a friend in all Niantic games you both play.
 Are you sure you want to unfriend {0}?
-H
+P
 Unlimited
 <size=36><b>Unlink this account?</b></size>You won’t be able to sign in with this method.
 Unable to unlink from this account.
@@ -16411,6 +17588,10 @@ It's time to GO!
 For more information, visit the Help Center.
 Volbeat and Illumise are appearing in the wild globally
 You’ve earned entry into the GO Battle League!
+Ace
+Expert
+Legend
+Veteran
 Claim Rank Rewards!
 Error claiming rank rewards.
 Error claiming battle rewards.
