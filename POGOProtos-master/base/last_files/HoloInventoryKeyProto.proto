@@ -26,6 +26,7 @@ import "HoloPokemonId.proto";
 import "HoloPokemonFamilyId.proto";
 import "QuestType.proto";
 import "HoloBadgeType.proto";
+import "PokedexCategory.proto";
 
 message HoloInventoryKeyProto {
 	oneof Type {
@@ -55,6 +56,7 @@ message HoloInventoryKeyProto {
 		HoloBadgeType badge = 24;
 		bool player_stats_snapshot = 25;
 		int64 unknown_key = 26;
-		uint64 fake_data = 27;
+		fixed64 fake_data = 27;
+		PokedexCategory pokedex_category = 28;
 	}
 }

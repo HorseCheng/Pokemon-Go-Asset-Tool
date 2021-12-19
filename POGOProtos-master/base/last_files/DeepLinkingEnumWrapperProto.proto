@@ -39,6 +39,8 @@ message DeepLinkingEnumWrapperProto {
 		OPEN_JOURNAL = 13;
 		OPEN_TIPS = 14;
 		OPEN_ITEM_INVENTORY = 15;
+		FILL_REFERRAL_CODE = 16;
+		OPEN_ADDRESS_BOOK = 17;
 	}
 
 	enum NearbyPokemonTab {

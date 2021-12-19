@@ -46,6 +46,7 @@ import "PokemonHomeProto.proto";
 import "BadgeData.proto";
 import "PlayerStatsSnapshotsProto.proto";
 import "FakeDataProto.proto";
+import "PokedexCategoryMilestoneProto.proto";
 
 message HoloInventoryItemProto {
 	oneof Type {
@@ -74,5 +75,6 @@ message HoloInventoryItemProto {
 		BadgeData badge_data = 24;
 		PlayerStatsSnapshotsProto player_stats_snapshots = 25;
 		FakeDataProto fake_data = 26;
+		PokedexCategoryMilestoneProto pokedex_category_milestone = 27;
 	}
 }

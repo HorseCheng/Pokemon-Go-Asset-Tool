@@ -30,6 +30,7 @@ message MapProvider {
 		OSM = 2;
 		BLANK = 3;
 		GMM_BUNDLE = 4;
+		NIANTIC_BUNDLE = 5;
 	}
 
 	oneof Settings {

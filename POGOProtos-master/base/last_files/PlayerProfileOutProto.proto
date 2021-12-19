@@ -21,6 +21,7 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "AwardedGymBadge.proto";
 import "PlayerBadgeProto.proto";
 
 message PlayerProfileOutProto {

@@ -33,4 +33,6 @@ message InvasionNpcDisplaySettingsProto {
 	string model_name = 7;
 	string tutorial_on_loss_string = 8;
 	bool is_male = 9;
+	string party_selection_music = 10;
+	string combat_music = 11;
 }

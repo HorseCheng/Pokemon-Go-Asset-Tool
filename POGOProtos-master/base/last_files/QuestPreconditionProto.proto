@@ -21,6 +21,7 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "Team.proto";
 import "HoloBadgeType.proto";
 
 message QuestPreconditionProto {
@@ -32,13 +33,20 @@ message QuestPreconditionProto {
 		MonthYearBucket month_year_bucket = 6;
 		Group group = 7;
 		StorylineProgressConditionProto story_line = 8;
+		Team team = 9;
+	}
+
+	message Team {
+		Operator operator = 1;
+		Team team = 2;
 	}
 
 	enum Operator {
-		UNSET_OPERATOR = 0;
+		UNSET = 0;
 		EQUALS = 1;
 		GREATER_THAN = 2;
 		LESS_THAN = 3;
+		NOT_EQUALS = 4;
 	}
 
 	enum QuestPreconditionType {
@@ -53,6 +61,7 @@ message QuestPreconditionProto {
 		QUEST_PRECONDITION_MONTH_YEAR_BUCKET = 8;
 		QUEST_PRECONDITION_EXCLUSIVE_IN_PROGRESS_GROUP = 9;
 		QUEST_PRECONDITION_STORYLINE_PROGRESS = 10;
+		QUEST_PRECONDITION_TEAM = 11;
 	}
 
 	message Group {

@@ -24,4 +24,6 @@ package POGOProtos.Rpc;
 message DeepLinkingSettingsProto {
 	int32 min_player_level_for_external_link = 1;
 	int32 min_player_level_for_notification_link = 2;
+	repeated DeepLinkingEnumWrapperProto.DeepLinkingActionName external_action = 3;
+	repeated DeepLinkingEnumWrapperProto.DeepLinkingActionName notification_action = 4;
 }

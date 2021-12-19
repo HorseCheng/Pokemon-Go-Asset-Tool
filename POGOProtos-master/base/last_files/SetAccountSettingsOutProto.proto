@@ -26,6 +26,7 @@ message SetAccountSettingsOutProto {
 		UNSET = 0;
 		SUCCESS = 1;
 		ERROR_UNKNOWN = 2;
+		ERROR_INAPPROPRIATE_NAME = 3;
 	}
 
 	Result result = 1;

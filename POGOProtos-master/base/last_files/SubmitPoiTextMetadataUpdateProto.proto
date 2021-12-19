@@ -25,4 +25,5 @@ message SubmitPoiTextMetadataUpdateProto {
 	string poi_id = 1;
 	string title = 2;
 	string description = 3;
+	string category_suggestion = 4;
 }

@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "BattleHubSection.proto";
+import "BattleHubSubsection.proto";
 
 message BattleHubOrderSettings {
 	message SectionGroup {

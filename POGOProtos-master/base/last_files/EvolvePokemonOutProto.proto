@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "PokemonProto.proto";
+import "ObEvolePokemon1.proto";
 
 message EvolvePokemonOutProto {
 	enum Result {
@@ -38,4 +39,5 @@ message EvolvePokemonOutProto {
 	PokemonProto evolved_pokemon = 2;
 	int32 exp_awarded = 3;
 	int32 candy_awarded = 4;
+	ObEvolePokemon1 ob_evole_pokemon_1 = 5;
 }

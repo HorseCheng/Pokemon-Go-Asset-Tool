@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "Label.proto";
+
 message ListAvatarCustomizationsOutProto {
 	enum Label {
 		UNSET_LABEL = 0;

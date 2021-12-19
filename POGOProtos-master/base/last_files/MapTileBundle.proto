@@ -21,8 +21,14 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "MapTileDataProto.proto";
+import "MapTile.proto";
 
 message MapTileBundle {
-	repeated MapTileDataProto map_tile = 1;
+	int32 format_version = 1;
+	int32 tile_zoom = 2;
+	int32 bundle_zoom = 3;
+	int32 bundle_x = 4;
+	int32 bundle_y = 5;
+	int32 epoch = 6;
+	repeated MapTile tiles = 7;
 }

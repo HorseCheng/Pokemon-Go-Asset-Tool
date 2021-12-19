@@ -27,8 +27,9 @@ message FitnessReportProto {
 	oneof Window {
 		int32 day_offset_from_now = 1;
 		int32 week_offset_from_now = 2;
+		int32 hour_offset_from_now = 3;
 	}
 
-	FitnessMetricsProto metrics = 3;
-	bytes game_data = 4;
+	FitnessMetricsProto metrics = 4;
+	bytes game_data = 5;
 }

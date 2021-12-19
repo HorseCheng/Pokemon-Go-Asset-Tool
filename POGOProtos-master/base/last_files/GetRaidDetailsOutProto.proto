@@ -24,6 +24,7 @@ package POGOProtos.Rpc;
 import "LobbyProto.proto";
 import "BattleProto.proto";
 import "RaidInfoProto.proto";
+import "Item.proto";
 
 message GetRaidDetailsOutProto {
 	enum Result {
@@ -52,4 +53,5 @@ message GetRaidDetailsOutProto {
 	int32 num_friend_invites_remaining = 14;
 	bool remote_ticket_used = 15;
 	bool is_within_plfe_range = 16;
+	Item ob_item = 17;
 }

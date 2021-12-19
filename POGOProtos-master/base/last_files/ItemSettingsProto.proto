@@ -39,7 +39,7 @@ import "IncidentTicketAttributesProto.proto";
 import "GlobalEventTicketAttributesProto.proto";
 
 message ItemSettingsProto {
-	Item unique_id = 1;
+	Item item_id = 1;
 	HoloItemType item_type = 2;
 	HoloItemCategory category = 3;
 	float drop_freq = 4;

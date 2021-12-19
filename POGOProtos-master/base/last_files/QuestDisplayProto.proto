@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "QuestDialogProto.proto";
 import "QuestDisplayProto.proto";
+import "QuestBranchDisplayProto.proto";
 
 message QuestDisplayProto {
 	string quest_id = 1;
@@ -41,4 +42,11 @@ message QuestDisplayProto {
 	string background_name = 14;
 	string foreground_name = 15;
 	int32 progress_interval = 16;
+	repeated QuestBranchDisplayProto branches = 17;
+	int64 force_reshow_branching_quest_dialog_cooldown_ms = 18;
+	string branching_quest_story_view_button_key = 19;
+	string branching_quest_story_view_image_url = 20;
+	string quest_branch_choice_view_background_image_url = 21;
+	string quest_branch_choice_view_background_color = 22;
+	string prop_name = 23;
 }

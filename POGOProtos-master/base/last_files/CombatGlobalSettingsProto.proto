@@ -22,6 +22,14 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message CombatGlobalSettingsProto {
+	enum ObCombatType {
+		NONE = 0;
+		TRAINER_NPC_COMBAT = 1;
+		INVASION_GRUNT_COMBAT = 2;
+		INVASION_BOSS_COMBAT = 3;
+		FRIEND_COMBAT = 4;
+	}
+
 	bool enable_combat = 1;
 	int32 maximum_daily_rewarded_battles = 2;
 	bool enable_combat_stat_stages = 3;
@@ -46,4 +54,6 @@ message CombatGlobalSettingsProto {
 	int32 matchmaking_timeout_duration_ms = 22;
 	int64 planned_downtime_timestamp_ms = 23;
 	int32 latency_compensation_threshold_ms = 24;
+	repeated ObCombatType ob_combat_type = 25;
+	repeated string ob_string = 26;
 }

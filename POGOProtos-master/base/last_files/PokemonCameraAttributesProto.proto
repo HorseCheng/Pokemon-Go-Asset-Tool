@@ -23,8 +23,8 @@ package POGOProtos.Rpc;
 
 message PokemonCameraAttributesProto {
 	float disk_radius_m = 1;
-	float cyl_radius_m = 2;
-	float cyl_height_m = 3;
-	float cyl_ground_m = 4;
+	float cylinder_radius_m = 2;
+	float cylinder_height_m = 3;
+	float cylinder_ground_m = 4;
 	float shoulder_mode_scale = 5;
 }

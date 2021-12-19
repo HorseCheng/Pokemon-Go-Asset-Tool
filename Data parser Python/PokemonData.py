@@ -131,12 +131,12 @@ chimovedict["0340"] = "高科技光炮 (閃電)"
 # Pokemon class
 class pokemon():
     def __init__(self, inn):
-        settings=inn["data"]["pokemon"]
+        settings=inn["data"]["pokemonSettings"]
         self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
         self.name = re.findall("POKEMON_(\S+)",inn['templateId'])[0]
         self.chi = chinamedict[self.id]
         self.eng = engnamedict[self.id]
-        self.type = self.typehandle(settings["type1"])
+        self.type = self.typehandle(settings["type"])
         self.type2 = self.typehandle(settings.get("type2",""))
         self.weather1= self.weatherhandle(self.type)
         self.weather2= self.weatherhandle(self.type2, self.weather1)
@@ -150,9 +150,6 @@ class pokemon():
         self.candy= self.candyhandle(settings.get("evolutionBranch",""))
         self.thirdstardust= settings["thirdMove"].get("stardustToUnlock","")
         self.thirdcandy= settings["thirdMove"].get("candyToUnlock","")
-
-        self.shadowstardust=self.shadowhandle(settings, "shadowstardust")
-        self.shadowcandy=self.shadowhandle(settings, "shadowcandy")
 
         self.buddy = settings["kmBuddyDistance"]
         self.camdist = round(settings["encounter"].get("cameraDistance",0), 3)
@@ -171,6 +168,8 @@ class pokemon():
 
         self.mega= self.megahandle(settings, 1)
         self.mega2= self.megahandle(settings, 2)
+
+        self.shadow = self.shadowhandle(settings)
      
     def typehandle(self, inn):
         if(inn==""): return ""
@@ -224,21 +223,13 @@ class pokemon():
         elif(inn.get("genderlessPercent","")==1): self.ratio="無性別"
         else: self.ratio=inn["malePercent"]
 
-    def shadowhandle(self, settings, inn):
-        if self.name[-6:]=="SHADOW":
-            if inn=="shadowstardust":
-                return settings["shadow"].get("purificationStardustNeeded", "-")
-            else:
-                return settings["shadow"].get("purificationCandyNeeded", "-")
-        else: return "-"
-
     def megahandle(self, inn, num):
         test=inn.get("tempEvoOverrides")
         if test== None: return None
         if num==2: 
             if len(test)==1: return None
         test=test[num-1]
-        type1= self.typehandle(test.get("typeOverride1",""))
+        type1= self.typehandle(test.get("typeOverride",""))
         type2= self.typehandle(test.get("typeOverride2",""))
         weather1=self.weatherhandle(type1)
         weather2=self.weatherhandle(type2, weather1)
@@ -256,16 +247,29 @@ class pokemon():
                "candy1": candy1, "candy2": candy2, "des": des
               }
 
+    def shadowhandle(self, inn):
+        test=inn.get("shadow")
+        if test== None: return None
+        purified_stardust = test["purificationStardustNeeded"]
+        purified_candy = test["purificationCandyNeeded"]
+        capture = inn["encounter"].get("shadowFormBaseCaptureRate","")
+        flee = inn["encounter"].get("baseFleeRate","")
+        
+        return{"stardust": purified_stardust, "candy": purified_candy,
+               "capture": capture, "flee": flee
+              }
+
+
 # Move class   
 class move():
     def __init__(self, inn):
-      settings=inn["data"]["move"]
+      settings=inn["data"]["moveSettings"]
       self.id = re.findall("V([0-9]+)",inn['templateId'])[0]
-      self.name =  settings.get("uniqueId")
+      self.name =  settings.get("movementId")
       self.chi = chimovedict[self.id]
       self.eng = engmovedict[self.id]
       self.quick = True if 'FAST' in inn['templateId'] else False
-      self.type = self.typehandle(settings['type'])
+      self.type = self.typehandle(settings['pokemonType'])
       self.power= settings.get("power","")
       self.energy= self.energyhandle(settings.get("energyDelta",""))
       self.times= settings.get("durationMs","")
@@ -397,10 +401,20 @@ main = rearrange(main, 'GOURGEIST_SMALL', 'GOURGEIST_LARGE')
 # =============================================================================
 # Main Pokemon List
 # =============================================================================
-maindb = main.drop(["id","name","chi","eng","quick","charged","shadowstardust","shadowcandy","mega","mega2"], axis=1)
+maindb = main.drop(["id","name","chi","eng","quick","charged","mega","mega2"], axis=1)
 mainheader = main[["id","name","chi","eng"]]
 maindb.to_csv('Pokemon Data/Pokemondb.csv' , encoding='utf_8_sig', header=False, index=False)
 mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', header=False, index=False)
+
+# =============================================================================
+# Shadow Pokemon List
+# =============================================================================
+shadow = main[~ main["shadow"].isnull()]
+pokename = shadow[["name", "chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
+shadowinfo = pd.DataFrame(list(shadow["shadow"]))
+shadowmerge = pd.concat([pokename,shadowinfo],axis=1)
+shadow = shadowmerge.sort_values(by=['id'],kind='mergesort')
+shadow.to_csv('Pokemon Data/Shadows.csv' , encoding='utf_8_sig', header=False, index=False)
 
 # =============================================================================
 # Mega Pokemon List

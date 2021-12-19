@@ -28,6 +28,10 @@ message SocialClientGlobalSettings {
 		bool niantic_profile_codename_opt_out_enabled = 1;
 		repeated string disabled_outgoing_game_invite_app_key = 2;
 		repeated string unreleased_app_key = 3;
+		int32 contact_list_sync_page_size = 4;
+		int64 contact_list_sync_interval_ms = 5;
+		int32 max_friends = 6;
+		int32 contact_list_concurrent_rpc_size = 7;
 	}
 
 	CrossGameSocialSettingsProto cross_game_social_settings = 1;

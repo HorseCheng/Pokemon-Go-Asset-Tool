@@ -34,4 +34,5 @@ message ClientTelemetryClientSettingsProto {
 	bool disable_omni_sending = 10;
 	map<string, double> special_sampling_probability_map = 11;
 	string player_external_ua_id = 12;
+	string player_external_in_app_survey_id = 13;
 }

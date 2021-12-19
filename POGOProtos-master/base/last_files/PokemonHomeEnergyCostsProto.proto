@@ -27,7 +27,7 @@ message PokemonHomeEnergyCostsProto {
 	HoloPokemonClass pokemon_class = 1;
 	int32 base = 2;
 	int32 shiny = 3;
-	int32 cp0_to1000 = 4;
-	int32 cp1001_to2000 = 5;
-	int32 cp2001_to_inf = 6;
+	int32 cp_0_to_1000 = 4;
+	int32 cp_1001_to_2000 = 5;
+	int32 cp_2001_to_inf = 6;
 }

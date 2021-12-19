@@ -21,9 +21,16 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "PokedexCategory.proto";
 import "HoloTemporaryEvolutionId.proto";
 
 message PokedexEntryProto {
+	message PokedexCategoryStatus {
+		PokedexCategory pokedex_category = 1;
+		bool encountered = 2;
+		bool acquired = 3;
+	}
+
 	message TempEvoData {
 		HoloTemporaryEvolutionId temp_evo_id = 1;
 		int32 times_encountered = 2;
@@ -49,4 +56,6 @@ message PokedexEntryProto {
 	int32 times_purified = 15;
 	repeated TempEvoData temp_evo_data = 16;
 	repeated PokemonDisplayProto.Form captured_shiny_forms = 17;
+	map<string, PokedexCategoryStatus> pokedex_category_status = 18;
+	repeated PokemonDisplayProto.Alignment ob_alignment = 19;
 }

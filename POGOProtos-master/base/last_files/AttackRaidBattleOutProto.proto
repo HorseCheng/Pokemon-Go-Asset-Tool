@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "BattleUpdateProto.proto";
 import "AdDetails.proto";
+import "ObAttackRaidBattle.proto";
 
 message AttackRaidBattleOutProto {
 	enum Result {
@@ -38,4 +39,5 @@ message AttackRaidBattleOutProto {
 	Result result = 1;
 	BattleUpdateProto battle_update = 2;
 	AdDetails sponsored_gift = 3;
+	ObAttackRaidBattle ob_attack_raid_battle = 4;
 }

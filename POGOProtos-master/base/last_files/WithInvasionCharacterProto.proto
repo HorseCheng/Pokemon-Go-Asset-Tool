@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message WithInvasionCharacterProto {
 	repeated EnumWrapper.CharacterCategory category = 1;
+	repeated EnumWrapper.InvasionCharacter ob_invasion_character = 2;
 }

@@ -33,4 +33,6 @@ message GetGmapSettingsOutProto {
 	Result result = 1;
 	string gmap_template_url = 2;
 	int32 max_poi_distance_in_meters = 3;
+	int32 min_zoom = 4;
+	int32 max_zoom = 5;
 }

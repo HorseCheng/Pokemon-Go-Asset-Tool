@@ -28,6 +28,7 @@ import "LootProto.proto";
 import "ClientQuestProto.proto";
 import "GiftBoxProto.proto";
 import "AdDetails.proto";
+import "ObWasabiStuff.proto";
 
 message FortSearchOutProto {
 	enum Result {
@@ -56,4 +57,6 @@ message FortSearchOutProto {
 	ClientQuestProto challenge_quest = 14;
 	GiftBoxProto gift_box = 15;
 	AdDetails sponsored_gift = 16;
+	LootProto ob_loot = 17;
+	ObWasabiStuff ob_wasabi_stuff = 18;
 }

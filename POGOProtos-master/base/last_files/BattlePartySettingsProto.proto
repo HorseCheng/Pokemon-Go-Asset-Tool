@@ -25,4 +25,6 @@ message BattlePartySettingsProto {
 	bool enable_battle_party_saving = 1;
 	int32 max_battle_parties = 2;
 	int32 overall_parties_cap = 3;
+	int32 ob_int32_battle_party_settings_1 = 4;
+	int32 ob_int32_battle_party_settings_2 = 5;
 }

@@ -24,7 +24,14 @@ package POGOProtos.Rpc;
 import "BattlePartiesProto.proto";
 
 message PlayerPreferencesProto {
+	enum ShareState {
+		UNSET = 0;
+		SHARE_WITH_FRIENDS = 1;
+		DO_NOT_SHARE = 2;
+	}
+
 	bool opt_out_of_sponsored_gifts = 1;
 	BattlePartiesProto battle_parties = 2;
 	string search_filter_preference_base64 = 3;
+	ShareState share_state = 4;
 }

@@ -28,4 +28,5 @@ message MapArea {
 	int32 epoch = 2;
 	string map_provider = 3;
 	repeated BoundingRect bounding_rect = 4;
+	string minimum_client_version = 5;
 }

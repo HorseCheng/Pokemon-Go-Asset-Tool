@@ -32,5 +32,5 @@ message CombatRankingSettingsProto {
 	repeated RankLevelProto rank_level = 1;
 	RankLevelProto required_for_rewards = 2;
 	int32 min_rank_to_display_rating = 3;
-	int32 season_number = 4;
+	int32 min_rating_required = 4;
 }

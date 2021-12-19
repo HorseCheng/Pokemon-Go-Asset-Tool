@@ -23,9 +23,11 @@ package POGOProtos.Rpc;
 
 import "ReferralTelemetryIds.proto";
 import "ReferralRole.proto";
+import "ReferralTelemetrySource.proto";
 
 message ReferralTelemetry {
 	ReferralTelemetryIds referral_telemetry_id = 1;
 	ReferralRole referral_role = 2;
 	string milestone_description_string_key = 3;
+	ReferralTelemetrySource referral_telemetry_source = 4;
 }

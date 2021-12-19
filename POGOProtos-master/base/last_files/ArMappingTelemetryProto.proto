@@ -30,6 +30,8 @@ message ArMappingTelemetryProto {
 		POI_ADD_PHOTO = 4;
 		POI_EDIT_LOCATION = 5;
 		POI_NOMINATION = 6;
+		POI_FULLSCREEN_INSPECTION = 7;
+		GEOTARGETED_QUESTS = 8;
 	}
 
 	enum ArMappingEventId {

@@ -25,4 +25,5 @@ import "FriendshipLevelMilestone.proto";
 
 message ExRaidSettingsProto {
 	FriendshipLevelMilestone minimum_ex_raid_share_level = 1;
+	int32 ob_ex_raid_setting = 2;
 }

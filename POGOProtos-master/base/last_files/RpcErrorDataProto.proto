@@ -1,0 +1,48 @@
+/*
+* Copyright 2016-2021 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+import "Method.proto";
+
+message RpcErrorDataProto {
+	enum Status {
+		UNDEFINED = 0;
+		SUCCESS = 1;
+		BAD_RESPONSE = 3;
+		ACTION_ERROR = 4;
+		DISPATCH_ERROR = 5;
+		SERVER_ERROR = 6;
+		ASSIGNMENT_ERROR = 7;
+		PROTOCOL_ERROR = 8;
+		AUTHENTICATION_ERROR = 9;
+		CANCELLED_REQUEST = 10;
+		UNKNOWN_ERROR = 11;
+		NORETRIES_ERROR = 12;
+		UNAUTHORIZED_ERROR = 13;
+		PARSING_ERROR = 14;
+		ACCESS_DENIED = 15;
+		ACCESS_SUSPENDED = 16;
+	}
+
+	Method ob_method = 1;
+	Status status = 2;
+}

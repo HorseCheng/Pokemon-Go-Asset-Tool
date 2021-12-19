@@ -21,6 +21,9 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "TemplateVariable.proto";
+import "Label.proto";
+
 message ClientInbox {
 	enum Label {
 		UNSET_LABEL = 0;

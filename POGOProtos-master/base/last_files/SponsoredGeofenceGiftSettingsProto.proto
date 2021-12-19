@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "ObSponsoredBalloon.proto";
+
 message SponsoredGeofenceGiftSettingsProto {
 	message SponsoredBalloonGiftSettingsProto {
 		message SponsoredBalloonMovementSettingsProto {
@@ -40,6 +42,16 @@ message SponsoredGeofenceGiftSettingsProto {
 		SponsoredBalloonMovementSettingsProto balloon_movement_settings = 6;
 	}
 
+	message ObSponsoredBalloon1 {
+		string ob_string_1 = 1;
+		string ob_string_2 = 2;
+		string ob_string_3 = 3;
+		string ob_string_4 = 4;
+		string ob_string_5 = 5;
+		string ob_string_6 = 6;
+		string ob_string_7 = 7;
+	}
+
 	bool gift_persistence_enabled = 1;
 	int32 gift_persistence_time_ms = 2;
 	int32 map_presentation_time_ms = 3;
@@ -50,4 +62,7 @@ message SponsoredGeofenceGiftSettingsProto {
 	bool enable_incident_gift = 8;
 	int32 fullscreen_disable_exit_button_time_ms = 9;
 	SponsoredBalloonGiftSettingsProto balloon_gift_settings = 10;
+	bool ob_bool = 11;
+	ObSponsoredBalloon ob_sponsored_balloon = 12;
+	ObSponsoredBalloon1 ob_sponsored_balloon_1 = 13;
 }

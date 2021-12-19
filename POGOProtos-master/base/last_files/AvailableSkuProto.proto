@@ -33,4 +33,5 @@ message AvailableSkuProto {
 	repeated GameItemContentProto game_item_content = 5;
 	repeated SkuPresentationProto presentation_data = 6;
 	bool can_be_purchased = 7;
+	string subscription_id = 8;
 }

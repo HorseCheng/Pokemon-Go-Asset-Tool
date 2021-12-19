@@ -26,4 +26,6 @@ message AccountSettingsProto {
 	SocialSettings.ConsentStatus online_status_consent = 2;
 	SocialSettings.ConsentStatus last_played_date_consent = 3;
 	SocialSettings.ConsentStatus codename_consent = 4;
+	SocialSettings.ConsentStatus contact_list_consent = 5;
+	string full_name = 6;
 }

@@ -24,4 +24,6 @@ package POGOProtos.Rpc;
 message AdventureSyncSettingsProto {
 	bool fitness_service_enabled = 1;
 	bool awareness_service_enabled = 2;
+	bool persistent_breadcrumb_service_enabled = 3;
+	bool sensor_service_enabled = 4;
 }

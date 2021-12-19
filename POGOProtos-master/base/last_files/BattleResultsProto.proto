@@ -28,6 +28,7 @@ import "ParticipationProto.proto";
 import "LootProto.proto";
 import "RaidEncounterProto.proto";
 import "AwardedGymBadge.proto";
+import "RaidPlayerStatsProto.proto";
 
 message BattleResultsProto {
 	GymStateProto gym_state = 1;
@@ -42,4 +43,5 @@ message BattleResultsProto {
 	repeated AwardedGymBadge gym_badge = 10;
 	repeated LootProto default_raid_item_rewards = 11;
 	int64 battle_duration_ms = 12;
+	RaidPlayerStatsProto raid_player_stats = 13;
 }

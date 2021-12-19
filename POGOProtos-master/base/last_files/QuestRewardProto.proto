@@ -25,6 +25,7 @@ import "ItemRewardProto.proto";
 import "PokemonCandyRewardProto.proto";
 import "PokemonEncounterRewardProto.proto";
 import "StickerRewardProto.proto";
+import "ObQuestRewardIncident.proto";
 
 message QuestRewardProto {
 	oneof Reward {
@@ -40,6 +41,7 @@ message QuestRewardProto {
 		int32 level_cap = 11;
 		StickerRewardProto sticker = 12;
 		PokemonCandyRewardProto mega_resource = 13;
+		ObQuestRewardIncident incident = 14;
 	}
 
 	enum Type {
@@ -56,6 +58,7 @@ message QuestRewardProto {
 		LEVEL_CAP = 10;
 		STICKER = 11;
 		MEGA_RESOURCE = 12;
+		INCIDENT = 13;
 	}
 
 	Type type = 1;

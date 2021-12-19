@@ -27,4 +27,5 @@ import "ClientGenderProto.proto";
 message ClientGenderSettingsProto {
 	HoloPokemonId pokemon = 1;
 	ClientGenderProto gender = 2;
+	PokemonDisplayProto.Form form = 3;
 }

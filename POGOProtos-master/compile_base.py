@@ -1,19 +1,19 @@
-#!/usr/bin/env python
-# This Python file uses the following encoding: utf-8
+#!/usr/bin/python
 
 import argparse
 import operator
 import os
-import re
+#import re
 import shutil
 from subprocess import call
 
 # Variables
-global_version = '0.205.0'
+#global_version = '0.225.x_p_obf'
+global_version = 'base'
 protoc_executable = "protoc"
 package_name = 'POGOProtos.Rpc'
 input_file = "POGOProtos.Rpc.proto"
-base_file = os.path.abspath("base/base.proto")
+base_file = os.path.abspath("base/vbase.proto")
 protos_path = os.path.abspath("base")
 gen_last_files = os.path.abspath("base/last_files")
 
@@ -26,13 +26,12 @@ def is_blank(my_string):
 
 # args
 parser = argparse.ArgumentParser()
-parser.add_argument("-gm", "--generate_game_master", help="Generates v2_GAME_MASTER.txt form GENERATE_GAME_MASTER = PATH/MY_BINARY.")
-parser.add_argument("-ga", "--generate_asset_digest", help="Generates ASSET_DIGEST.txt form GENERATE_ASSET_DIGEST = PATH/MY_BINARY.")
+parser.add_argument("-gm", "--generate_game_master", help="Generates v2_GAME_MASTER.txt form PATH/v2_GAME_MASTER.")
+parser.add_argument("-ga", "--generate_asset_digest", help="Generates ASSET_DIGEST.txt form PATH/ASSET_DIGEST.")
 parser.add_argument("-l", "--lang", help="Language to produce proto single file.")
-parser.add_argument("-v", "--version", help="Set version out ex:. (0.195.2)")
+parser.add_argument("-v", "--version", help="Set version out ex:. (0.205.x)")
 parser.add_argument("-o", "--out_path", help="Output path for proto single file.")
-parser.add_argument("-m", "--java_multiple_files", action='store_true',
-                    help='Write each message to a separate .java file.')
+parser.add_argument("-m", "--java_multiple_files", action='store_true', help='Write each message to a separate .java file.')
 parser.add_argument("-g", "--generate_only", action='store_true', help='Generates only proto compilable.')
 parser.add_argument("-b", "--generate_new_base", action='store_true', help='Generates new proto base refs.')
 parser.add_argument("-k", "--keep_proto_file", action='store_true', help='Do not remove .proto file after compiling.')
@@ -62,6 +61,7 @@ if gen_asset_digest is not None:
         exit(0)
     commands = []
     print("Try to decode " + gen_asset_digest + ".txt....")
+    call(""""{0}" --version""".format(protoc_executable), shell=True)
     pogo_protos_path = './base'
     pogo_protos_target = 'POGOProtos.Rpc.AssetDigestOutProto'
     pogo_protos_template = './base/' + raw_name
@@ -79,7 +79,7 @@ if gen_asset_digest is not None:
     for command in commands:
         call(command, shell=True)
 
-    exit(0);
+    exit(0)
 
 if gen_game_master is not None:
     if not os.path.exists(gen_game_master):
@@ -87,6 +87,7 @@ if gen_game_master is not None:
         exit(0)
     commands = []
     print("Try to decode " + gen_game_master + ".txt....")
+    call(""""{0}" --version""".format(protoc_executable), shell=True)
     pogo_protos_path = './base'
     pogo_protos_target = 'POGOProtos.Rpc.DownloadGmTemplatesResponseProto'
     pogo_protos_template = './base/' + raw_name
@@ -104,7 +105,7 @@ if gen_game_master is not None:
     for command in commands:
         call(command, shell=True)
 
-    exit(0);
+    exit(0)
 
 # Add licenses
 head = '/*\n'
@@ -222,19 +223,10 @@ def open_proto_file(main_file, head):
     open_for_new.writelines(head)
 
     messages = ''
-    # ignored_one_of = {}
-    # is_ignored = False
     proto_name = ''
 
     with open(main_file, 'r') as proto_file:
         for proto_line in proto_file.readlines():
-            # if is_ignored and operator.contains(proto_line, "//}"):
-            #     is_ignored = False
-            # if operator.contains(proto_line, "//ignored_"):
-            #     proto_line = proto_line.replace("//ignored_", "//")
-            #     is_ignored = True
-            # if is_ignored and operator.contains(proto_line, "=") and not operator.contains(proto_line, "//none = 0;"):
-            #     ignored_one_of.setdefault(proto_line.strip().split("=")[1], proto_line.strip().split("=")[0].strip())
             if proto_line.startswith("syntax"):
                 continue
             if proto_line.startswith("package"):
@@ -540,66 +532,52 @@ def open_proto_file(main_file, head):
                 proto_line = proto_line.replace("HOLOHOLO_", "")
 
             ## Others conditions...
-            if not proto_line.startswith("enum") and not proto_line.startswith("message") and operator.contains(
-                    proto_line, "enum") or operator.contains(proto_line, "message"):
-                check_sub_message_end = False
             if operator.contains(proto_line, "enum Platform"):
                 proto_line = proto_line.replace("Platorm", "REF_PY_1")
             ##
 
-            # ## find ingored oneof's...
-            # if len(ignored_one_of) > 0 and operator.contains(proto_line,
-            #                                                  "=") and not is_ignored and not operator.contains(
-            #     proto_line, "//") and not is_one_off and not is_enum and check_sub_message_end:
-            #     if proto_line.strip().split("=")[1] in ignored_one_of:
-            #         proto_line = proto_line.replace(proto_line.strip().split("=")[0].split(" ")[1],
-            #                                         ignored_one_of[proto_line.strip().split("=")[1]]).replace("//", "")
-            #         try:
-            #             ignored_one_of.pop(proto_line.strip().split("=")[1], None)
-            #         except KeyError:
-            #             pass
-
             ## fixes int32 team, pokemon_id and others..
-            if operator.contains(proto_line, "int32 team "):
-                proto_line = proto_line.replace("int32", "Team")
-            elif operator.contains(proto_line, "int32 pokedex_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 pokedex_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 move1 "):
-                proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            elif operator.contains(proto_line, "int32 move2 "):
-                proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            elif operator.contains(proto_line, "int32 move3 "):
-                proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            elif operator.contains(proto_line, "int32 move "):
-                proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            elif operator.contains(proto_line, "int32 pokemon_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 display_pokedex_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 rarity "):
-                proto_line = proto_line.replace("int32", "HoloPokemonClass")
-            elif operator.contains(proto_line, "int32 pokemon_type_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 pokedex_entry_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 pokemon_family_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonFamilyId")
-            # elif operator.contains(proto_line, "int32 pokedex_entry_number "):
+            ## Note this is too obfuscated to use this
+            # if operator.contains(proto_line, "int32 team "):
+            #     proto_line = proto_line.replace("int32", "Team")
+            # elif operator.contains(proto_line, "int32 pokedex_id "):
             #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 guard_pokemon_id "):
-                proto_line = proto_line.replace("int32", "HoloPokemonId")
-            elif operator.contains(proto_line, "int32 item_id "):
-                proto_line = proto_line.replace("int32", "Item")
-            elif operator.contains(proto_line, "int32 pokeball "):
-                proto_line = proto_line.replace("int32", "Item")
-            elif operator.contains(proto_line, "int32 balltype "):
-                proto_line = proto_line.replace("int32", "Item")
-            elif operator.contains(proto_line, "int32 severity "):
-                proto_line = proto_line.replace("int32", "WeatherAlertProto.Severity")
-            ## others conditions
-            elif operator.contains(proto_line, "Platform "):
+            # elif operator.contains(proto_line, "int32 pokedex_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 move1 "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
+            # elif operator.contains(proto_line, "int32 move2 "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
+            # elif operator.contains(proto_line, "int32 move3 "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
+            # elif operator.contains(proto_line, "int32 move "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
+            # elif operator.contains(proto_line, "int32 pokemon_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 display_pokedex_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 rarity "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonClass")
+            # elif operator.contains(proto_line, "int32 pokemon_type_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 pokedex_entry_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 pokemon_family_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonFamilyId")
+            # # elif operator.contains(proto_line, "int32 pokedex_entry_number "):
+            # #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 guard_pokemon_id "):
+            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
+            # elif operator.contains(proto_line, "int32 item_id "):
+            #     proto_line = proto_line.replace("int32", "Item")
+            # elif operator.contains(proto_line, "int32 pokeball "):
+            #     proto_line = proto_line.replace("int32", "Item")
+            # elif operator.contains(proto_line, "int32 balltype "):
+            #     proto_line = proto_line.replace("int32", "Item")
+            # elif operator.contains(proto_line, "int32 severity "):
+            #     proto_line = proto_line.replace("int32", "WeatherAlertProto.Severity")
+            # ## others conditions
+            if operator.contains(proto_line, "Platform "):
                 proto_line = proto_line.replace("Platform", "REF_PY_1")
             ##
 
@@ -692,6 +670,14 @@ def open_proto_file(main_file, head):
         if new_base_as_data:
             new_base_data += proto_line + "\n"
 
+    ## TODO: Compare from matrix base or last full cleaned
+    for m in new_base_messages:
+        if m in base_messages:
+            proto_obf = new_base_messages[m]
+            proto_clean = base_messages[m]
+            #.....
+    ##
+
     new_base_file = ''
     head_file = None
 
@@ -742,7 +728,7 @@ def open_proto_file(main_file, head):
                     if os.path.exists(gen_last_files + "/" + v2):
                         if v2 not in includes:
                             includes.append(v2)
-                elif message.startswith('\trepeated'):
+                elif message.startswith('\trepeated') or message.startswith('\t\trepeated') or message.startswith('\t\t\trepeated'):
                     file_for_includes = message.split(" ")[1].strip() + '.proto'
                     if os.path.exists(gen_last_files + "/" + file_for_includes) and file_for_includes not in includes:
                         includes.append(file_for_includes)
@@ -859,7 +845,7 @@ if gen_base:
 
     shutil.copy(generated_file, base_file)
 
-if keep_file:
+if keep_file or lang == "proto":
     shutil.move(generated_file, out_path)
 
 if lang == 'python':

@@ -1,0 +1,79 @@
+/*
+* Copyright 2016-2021 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+import "DownstreamActionMessages.proto";
+
+message Downstream {
+	oneof Message {
+		DownstreamActionMessages downstream = 1;
+		ResponseWithStatus response = 2;
+		ProbeRequest probe = 3;
+		Drain drain = 4;
+		Connected connected = 5;
+	}
+
+	message Connected {
+		string debug_message = 1;
+		int32 ttl_seconds = 2;
+	}
+
+	message Drain {
+	}
+
+	message ProbeRequest {
+		int64 probe_start_ms = 1;
+	}
+
+	message ResponseWithStatus {
+		oneof Response {
+			SubscriptionResponse subscribe = 4;
+		}
+
+		enum Status {
+			UNSET = 0;
+			OK = 1;
+			UNKNOWN = 2;
+			UNAUTHENTICATED = 3;
+			UNAUTHORIZED = 4;
+			BAD_REQUEST = 5;
+			UNIMPLEMENTED = 6;
+			RATE_LIMITED = 7;
+			CONNECTION_LIMITED = 8;
+		}
+
+		int64 request_id = 1;
+		Status response_status = 2;
+		string debug_message = 3;
+	}
+
+	message SubscriptionResponse {
+		enum Status {
+			UNSET = 0;
+			OK = 1;
+			UNKNOWN = 2;
+			TOPIC_LIMITED = 3;
+		}
+
+		Status status = 1;
+	}
+}

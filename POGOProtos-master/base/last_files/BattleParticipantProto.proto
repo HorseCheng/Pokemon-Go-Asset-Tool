@@ -25,6 +25,7 @@ import "PokemonInfo.proto";
 import "PlayerPublicProfileProto.proto";
 import "LobbyPokemonProto.proto";
 import "FriendshipLevelMilestone.proto";
+import "PokemonSurvivalTimeInfo.proto";
 
 message BattleParticipantProto {
 	PokemonInfo active_pokemon = 1;
@@ -42,4 +43,16 @@ message BattleParticipantProto {
 	bool has_active_mega_evolved_pokemon = 13;
 	int64 lobby_join_time_ms = 14;
 	int32 super_effective_charge_attacks_used = 15;
+	PokemonSurvivalTimeInfo pokemon_survival = 16;
+	fixed64 battle_mega_pokemon_id = 17;
+	fixed64 tall_pokemon_id = 18;
+	int32 number_of_charge_attacks_used = 19;
+	int64 last_player_join_time_ms = 20;
+	int64 last_player_quit_time_ms = 21;
+	string player_id = 22;
+	repeated PokemonInfo referenced_pokemon = 23;
+	uint64 ob_battle_participant_int64 = 24;
+	uint64 ob_battle_participant_int64_1 = 25;
+	int32 ob_battle_participant_int32_1 = 26;
+	int32 ob_battle_participant_int32_2 = 27;
 }

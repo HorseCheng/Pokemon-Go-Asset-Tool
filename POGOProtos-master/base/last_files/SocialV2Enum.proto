@@ -22,6 +22,12 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message SocialV2Enum {
+	enum ContactMethod {
+		CONTACT_METHOD_UNSET = 0;
+		EMAIL = 1;
+		SMS = 2;
+	}
+
 	enum InvitationStatus {
 		INVITATION_STATUS_UNSET = 0;
 		INVITED = 1;

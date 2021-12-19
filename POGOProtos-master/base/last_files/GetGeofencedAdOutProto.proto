@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AdDetails.proto";
+import "ObWasabiStuff.proto";
 
 message GetGeofencedAdOutProto {
 	enum Result {
@@ -29,8 +30,10 @@ message GetGeofencedAdOutProto {
 		SUCCESS_AD_RECEIVED = 1;
 		SUCCESS_NO_ADS_AVAILABLE = 2;
 		ERROR_REQUEST_FAILED = 3;
+		SUCCESS_GAM_ELIGIBLE = 4;
 	}
 
 	Result result = 1;
 	AdDetails ad_details = 2;
+	ObWasabiStuff ob_wasabi = 3;
 }

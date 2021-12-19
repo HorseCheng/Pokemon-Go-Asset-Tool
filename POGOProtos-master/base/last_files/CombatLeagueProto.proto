@@ -63,8 +63,8 @@ message CombatLeagueProto {
 			WithPokemonCpLimitProto with_pokemon_cp_limit = 2;
 			WithPokemonTypeProto with_pokemon_type = 3;
 			WithPokemonCategoryProto with_pokemon_category = 4;
-			PokemonWhitelist pokemon_whitelist = 5;
-			PokemonBanlist pokemon_banlist = 6;
+			PokemonWhitelist pokemon_white_list = 5;
+			PokemonBanlist pokemon_ban_list = 6;
 			PokemonCaughtTimestamp pokemon_caught_timestamp = 7;
 			PokemonLevelRange pokemon_level_range = 8;
 		}
@@ -94,8 +94,8 @@ message CombatLeagueProto {
 			WithPokemonCpLimitProto with_pokemon_cp_limit = 4;
 			WithPokemonTypeProto with_pokemon_type = 5;
 			WithPokemonCategoryProto with_pokemon_category = 6;
-			PokemonWhitelist pokemon_whitelist = 7;
-			PokemonBanlist pokemon_banlist = 8;
+			PokemonWhitelist pokemon_white_list = 7;
+			PokemonBanlist pokemon_ban_list = 8;
 			PokemonCaughtTimestamp pokemon_caught_timestamp = 9;
 			PokemonLevelRange pokemon_level_range = 10;
 		}

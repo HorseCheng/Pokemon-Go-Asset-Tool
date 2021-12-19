@@ -32,8 +32,8 @@ message TempEvoOverrideProto {
 	PokemonStatsAttributesProto stats = 2;
 	float average_height_m = 3;
 	float average_weight_kg = 4;
-	HoloPokemonType type_override1 = 5;
-	HoloPokemonType type_override2 = 6;
+	HoloPokemonType type_override = 5;
+	HoloPokemonType type_override_2 = 6;
 	float cp_multiplier_override = 7;
 	PokemonCameraAttributesProto camera = 8;
 	PokemonEncounterAttributesProto encounter = 9;

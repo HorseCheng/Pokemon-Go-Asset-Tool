@@ -33,4 +33,5 @@ message ReferralSettingsProto {
 	int64 add_referrer_grace_period_ms = 3;
 	int64 client_get_milestone_interval_ms = 4;
 	int32 min_num_days_without_session_for_lapsed_player = 5;
+	string referral_link_url = 6;
 }

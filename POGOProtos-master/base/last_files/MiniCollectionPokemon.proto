@@ -29,10 +29,12 @@ message MiniCollectionPokemon {
 		CATCH = 0;
 		TRADE = 1;
 		EVOLVE = 2;
+		CATCH_FROM_RAID = 3;
 	}
 
 	HoloPokemonId pokedex_id = 1;
 	PokemonDisplayProto display = 2;
 	bool caught = 3;
 	CollectType collection_type = 4;
+	bool enabled = 5;
 }

@@ -27,7 +27,7 @@ import "EventBadgeSettingsProto.proto";
 
 message BadgeSettingsProto {
 	HoloBadgeType badge_type = 1;
-	int32 badge_ranks = 2;
+	int32 badge_rank = 2;
 	repeated int32 targets = 3;
 	repeated BadgeCaptureReward capture_reward = 4;
 	bool event_badge = 5;

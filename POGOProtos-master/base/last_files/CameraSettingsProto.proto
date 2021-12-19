@@ -30,15 +30,15 @@ message CameraSettingsProto {
 	repeated CameraTarget target_type = 3;
 	repeated float ease_in_speed = 4;
 	repeated float ease_out_speed = 5;
-	repeated float duration_s = 6;
-	repeated float wait_s = 7;
-	repeated float transition_s = 8;
-	repeated float angle_deg = 9;
-	repeated float angle_offset_deg = 10;
-	repeated float pitch_deg = 11;
-	repeated float pitch_offset_deg = 12;
-	repeated float roll_deg = 13;
-	repeated float distance_m = 14;
+	repeated float duration_seconds = 6;
+	repeated float wait_seconds = 7;
+	repeated float transition_seconds = 8;
+	repeated float angle_degree = 9;
+	repeated float angle_offset_degree = 10;
+	repeated float pitch_degree = 11;
+	repeated float pitch_offset_degree = 12;
+	repeated float roll_degree = 13;
+	repeated float distance_meters = 14;
 	repeated float height_percent = 15;
 	repeated float vert_ctr_ratio = 16;
 }

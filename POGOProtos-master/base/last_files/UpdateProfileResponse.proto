@@ -26,6 +26,7 @@ message UpdateProfileResponse {
 		UNSET = 0;
 		SUCCESS = 1;
 		ERROR_UNKNOWN = 2;
+		ERROR_EMPTY_PROFILE_NAME = 3;
 	}
 
 	Result result = 1;

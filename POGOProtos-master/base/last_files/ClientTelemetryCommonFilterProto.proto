@@ -28,4 +28,7 @@ message ClientTelemetryCommonFilterProto {
 	string locale_country_code = 4;
 	string locale_language_code = 5;
 	double sampling_probability = 6;
+	string quality_level = 7;
+	string network_connectivity_type = 8;
+	string game_context = 9;
 }

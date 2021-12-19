@@ -97,6 +97,17 @@ import "ReferralTelemetry.proto";
 import "UploadManagementTelemetry.proto";
 import "WayspotEditTelemetry.proto";
 import "ClientSettingsTelemetry.proto";
+import "PokedexCategorySelectedTelemetry.proto";
+import "PercentScrolledTelemetry.proto";
+import "AddressBookImportTelemetry.proto";
+import "MissingTranslationTelemetry.proto";
+import "EggHatchTelemetry.proto";
+import "PushGatewayTelemetry.proto";
+import "PushGatewayUpstreamErrorTelemetry.proto";
+import "UsernameSuggestionTelemetry.proto";
+import "TutorialTelemetry.proto";
+import "PostcardBookTelemetry.proto";
+import "SocialInboxLatencyTelemetry.proto";
 import "ServerData.proto";
 import "CommonFilterProto.proto";
 
@@ -178,6 +189,17 @@ message HoloholoClientTelemetryOmniProto {
 		UploadManagementTelemetry upload_management_telemetry = 74;
 		WayspotEditTelemetry wayspot_edit_telemetry = 75;
 		ClientSettingsTelemetry client_settings_telemetry = 76;
+		PokedexCategorySelectedTelemetry pokedex_category_selected_telemetry = 77;
+		PercentScrolledTelemetry percent_scrolled_telemetry = 78;
+		AddressBookImportTelemetry address_book_import_telemetry = 79;
+		MissingTranslationTelemetry missing_translation_telemetry = 80;
+		EggHatchTelemetry egg_hatch_telemetry = 81;
+		PushGatewayTelemetry push_gateway_telemetry = 82;
+		PushGatewayUpstreamErrorTelemetry push_gateway_upstream_error_telemetry = 83;
+		UsernameSuggestionTelemetry username_suggestion_telemetry = 84;
+		TutorialTelemetry tutorial_telemetry = 85;
+		PostcardBookTelemetry postcard_book_telemetry = 86;
+		SocialInboxLatencyTelemetry social_inbox_telemetry = 87;
 	}
 
 	ServerData server_data = 1001;

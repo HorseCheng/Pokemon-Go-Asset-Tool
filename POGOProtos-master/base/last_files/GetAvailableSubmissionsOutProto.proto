@@ -33,4 +33,8 @@ message GetAvailableSubmissionsOutProto {
 	repeated AvailableSubmissionsPerSubmissionType availability_result_per_type = 7;
 	int32 max_poi_location_edit_move_distance_meters = 8;
 	bool is_upload_later_enabled = 9;
+	string category_cloud_storage_directory_path = 10;
+	bool has_wayfarer_account = 11;
+	bool passed_wayfarer_quiz = 12;
+	bool is_poi_submission_category_enabled = 13;
 }

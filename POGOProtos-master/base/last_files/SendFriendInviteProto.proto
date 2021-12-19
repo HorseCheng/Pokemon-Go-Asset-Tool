@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message SendFriendInviteProto {
 	string player_id = 1;
 	string friend_code = 2;
+	bool read_only = 3;
 }

@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message BuddySwapSettings {
 	int32 max_swaps_per_day = 1;
+	bool ob_buddy_swap_bool = 2;
 }

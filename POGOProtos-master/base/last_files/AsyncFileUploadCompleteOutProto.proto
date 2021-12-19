@@ -31,4 +31,5 @@ message AsyncFileUploadCompleteOutProto {
 	}
 
 	string poi_id = 1;
+	bytes post_action_game_info = 2;
 }

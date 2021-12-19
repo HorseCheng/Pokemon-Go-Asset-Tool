@@ -25,6 +25,6 @@ import "HoloPokemonId.proto";
 import "TemporaryEvolutionProto.proto";
 
 message TemporaryEvolutionSettingsProto {
-	HoloPokemonId pokemon = 1;
+	HoloPokemonId pokemon_id = 1;
 	repeated TemporaryEvolutionProto temporary_evolutions = 2;
 }

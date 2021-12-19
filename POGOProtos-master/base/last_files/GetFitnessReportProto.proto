@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message GetFitnessReportProto {
 	int32 num_of_days = 1;
 	int32 num_of_weeks = 2;
+	int32 num_of_hours = 3;
 }

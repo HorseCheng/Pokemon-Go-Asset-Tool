@@ -43,4 +43,7 @@ message PokemonEncounterAttributesProto {
 	float min_pokemon_action_frequency_s = 17;
 	float max_pokemon_action_frequency_s = 18;
 	int32 bonus_xl_candy_capture_reward = 19;
+	float shadow_form_base_capture_rate = 20;
+	float shadow_form_attack_probability = 21;
+	float shadow_form_dodge_probability = 22;
 }

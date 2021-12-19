@@ -1,7 +1,7 @@
 <!-- define variables -->
 [1.1]: http://i.imgur.com/M4fJ65n.png (ATTENTION)
 
-POGOProtos [![Build Status](https://travis-ci.com/Furtif/POGOProtos.svg?branch=master)](https://travis-ci.com/Furtif/POGOProtos) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rocketbot) <!-- [![Maintainability](https://api.codeclimate.com/v1/badges/f4fbd03daa49a667d1b7/maintainability)](https://codeclimate.com/github/Furtif/POGOProtos/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/f4fbd03daa49a667d1b7/test_coverage)](https://codeclimate.com/github/Furtif/POGOProtos/test_coverage)-->
+POGOProtos [![Python script](https://github.com/Furtif/POGOProtos/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/Furtif/POGOProtos/actions) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rocketbot) [![Maintainability](https://api.codeclimate.com/v1/badges/f4fbd03daa49a667d1b7/maintainability)](https://codeclimate.com/github/Furtif/POGOProtos/maintainability)
 =========
 
 ![alt text][1.1] <strong><em>`The contents of this repo are a proof of concept and are for educational use only`</em></strong>![alt text][1.1]<br/>
@@ -13,11 +13,13 @@ This repository contains the [ProtoBuf](https://github.com/google/protobuf) `.pr
 ---
 
 ### Versioning
-We are following [semantic versioning](http://semver.org/) for POGOProtos.  Every version will be mapped to their current PokémonGo version.
+We are following [semantic versioning](http://semver.org/) for POGOProtos-Private.  Every version will be mapped to their current PokémonGo version.
 
-| Version      | Base                                                                                                      | Notes                  | Extra                           |
-|--------------|-----------------------------------------------------------------------------------------------------------|------------------------|---------------------------------|
-| [2.54.1](https://github.com/Furtif/POGOProtos/raw/master/.current-version)       |  [v0.205.1](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.0.proto)                         | **Updated** (_[/base/base.proto](https://github.com/Furtif/POGOProtos/blob/master/base/base.proto)_)  |  Protocol Buffers v3.15.8     |
+| Version                                                                    | Base                                                                                 | Notes                  | Extra                           |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------|---------------------------------|
+| [2.55.3](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.225.x](https://github.com/Furtif/POGOProtos/blob/master/base/vbase_proto2.proto) | **Proto2** Compilable (Mixed) |  Protocol Buffers v3.19.1     |
+| [2.55.3](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.225.x](https://github.com/Furtif/POGOProtos/blob/master/base/vbase.proto)        | **Proto3** Compilable (Mixed) |  Protocol Buffers v3.19.1     |
+| [2.54.1](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.205.x](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)     | **Updated** (_[/base/v0.205.x.proto](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)_)  |  Protocol Buffers v3.15.8     |
 
 ### Addons
 
@@ -35,6 +37,7 @@ We are following [semantic versioning](http://semver.org/) for POGOProtos.  Ever
 | Additional resources as *.xml files | Source                                                                               | Status
 |------------------------|--------------------------------------------------------------------------------------|--------
 | [v2_GAME_MASTER.xml](https://raw.githubusercontent.com/Furtif/POGOProtos/master/GM/v2_GAME_MASTER.xml) | [Root](https://github.com/Furtif/POGOProtos/tree/master/GM)                                   |  OK
+| [ASSET_DIGEST.xml](https://raw.githubusercontent.com/Furtif/POGOProtos/master/GM/ASSET_DIGEST.xml) | [Root](https://github.com/Furtif/POGOProtos/tree/master/GM)                                   |  OK
 
 ### Usage
 If you want to figure out the current version in an automated system, use this file.
@@ -49,14 +52,12 @@ usage: compile_base.py [-h] [-gm GENERATE_GAME_MASTER]
 optional arguments:
   -h, --help            show this help message and exit
   -gm GENERATE_GAME_MASTER, --generate_game_master GENERATE_GAME_MASTER
-                        Generates v2_GAME_MASTER.txt form GENERATE_GAME_MASTER
-                        = PATH/MY_BINARY.
+                        Generates v2_GAME_MASTER.txt form PATH/v2_GAME_MASTER.
   -ga GENERATE_ASSET_DIGEST, --generate_asset_digest GENERATE_ASSET_DIGEST
-                        Generates ASSET_DIGEST.txt form GENERATE_ASSET_DIGEST
-                        = PATH/MY_BINARY.
+                        Generates ASSET_DIGEST.txt form PATH/ASSET_DIGEST.
   -l LANG, --lang LANG  Language to produce proto single file.
   -v VERSION, --version VERSION
-                        Set version out ex:. (0.205.0)
+                        Set version out ex:. (0.205.x)
   -o OUT_PATH, --out_path OUT_PATH
                         Output path for proto single file.
   -m, --java_multiple_files
@@ -72,7 +73,7 @@ optional arguments:
 ```
 
 ### Preparation
-Current recommended protoc version: "Protocol Buffers v3.15.8".
+Current recommended protoc version: "Protocol Buffers v3.19.1".
 You can find download links [here](https://github.com/google/protobuf/releases).
 
 #### Windows
@@ -88,13 +89,13 @@ Use `homebrew` to install `protobuf ` with `brew install --devel protobuf`.
 The compilation creates output specifically for the target language, i.e. respecting naming conventions, etc.  
 This is an example of how the generated code will be organized:
 
-##### Compile vx.xxx.x.proto [depending on the version chosen](https://github.com/Furtif/POGOProtos/blob/master/compile_base.py#L12)
+##### Compile vx.xxx.x.proto [depending on the version chosen, or uses -v 0.205.x (or other version present into base folder >= 0.175.x)](https://github.com/Furtif/POGOProtos/blob/master/compile_base.py#L12)
 
  * _Note: the *.desc file is auto created in this function_
 
 ```
-python compile_base.py -l cpp -k:
- - vx.xxx.x.proto -> out/single_file/cpp/POGOProtos.Rpc.desc
+python compile_base.py -l cpp -k -v base:
+ - vbase.proto -> out/single_file/cpp/POGOProtos.Rpc.desc
  -                -> out/single_file/cpp/POGOProtos.Rpc.pb.cc
  -                -> out/single_file/cpp/POGOProtos.Rpc.pb.h
  -                -> out/single_file/cpp/POGOProtos.Rpc.proto
@@ -121,8 +122,8 @@ _* = Needs plugins_
 ##### Decode Game Master or Asset Digest:
 
 ```
-  python compile_base.py -gm [./BIN] (as txt)
-  python compile_base.py -ga [./BIN] (as txt)
+  python compile_base.py -gm [./v2_GAME_MASTER] (out as same bin name *.txt)
+  python compile_base.py -ga [./ASSET_DIGEST] (out as same bin name *.txt)
 ```
 ---
 

@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "FeatureType.proto";
+
 message SocialClientFeatures {
 	message CrossGameSocialClientSettingsProto {
 		enum AppLinkType {
@@ -39,6 +41,7 @@ message SocialClientFeatures {
 			NICKNAME = 6;
 			CROSS_GAME_ONLINE_STATUS = 7;
 			GAME_INVITE_RECEIVER = 8;
+			ADDRESS_BOOK_IMPORT = 9;
 		}
 
 		repeated FeatureType disabled_features = 1;

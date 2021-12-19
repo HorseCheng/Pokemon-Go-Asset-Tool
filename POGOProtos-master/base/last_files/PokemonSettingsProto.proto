@@ -35,6 +35,7 @@ import "AnimationOverrideProto.proto";
 import "ShadowAttributesProto.proto";
 import "TempEvoOverrideProto.proto";
 import "FormChangeProto.proto";
+import "ObPokemonSetting.proto";
 
 message PokemonSettingsProto {
 	enum BuddySize {
@@ -45,22 +46,22 @@ message PokemonSettingsProto {
 		BUDDY_BABY = 4;
 	}
 
-	HoloPokemonId unique_id = 1;
+	HoloPokemonId pokemon_id = 1;
 	float model_scale = 3;
-	HoloPokemonType type1 = 4;
-	HoloPokemonType type2 = 5;
+	HoloPokemonType type = 4;
+	HoloPokemonType type_2 = 5;
 	PokemonCameraAttributesProto camera = 6;
 	PokemonEncounterAttributesProto encounter = 7;
 	PokemonStatsAttributesProto stats = 8;
 	repeated HoloPokemonMove quick_moves = 9;
 	repeated HoloPokemonMove cinematic_moves = 10;
-	repeated float anim_time = 11;
-	repeated HoloPokemonId evolution = 12;
+	repeated float animation_time = 11;
+	repeated HoloPokemonId evolution_ids = 12;
 	int32 evolution_pips = 13;
 	HoloPokemonClass pokemon_class = 14;
 	float pokedex_height_m = 15;
 	float pokedex_weight_kg = 16;
-	HoloPokemonId parent_id = 17;
+	HoloPokemonId parent_pokemon_id = 17;
 	float height_std_dev = 18;
 	float weight_std_dev = 19;
 	float km_distance_to_hatch = 20;
@@ -101,4 +102,5 @@ message PokemonSettingsProto {
 	repeated FormChangeProto form_change = 63;
 	repeated float buddy_encounter_cameo_local_position = 64;
 	repeated float buddy_encounter_cameo_local_rotation = 65;
+	ObPokemonSetting ob_pokemon_setting = 66;
 }

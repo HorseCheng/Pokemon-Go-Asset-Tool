@@ -7480,7 +7480,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-11-29T09:08:05.499961at SHA 90d34ac668e26da187a64cd61dccff6322511096Pipeline 774429, job 7804491
+Built at 2021-12-03T09:12:14.406484at SHA d9facbeb06b209296504252b3e7d4e83d1730fa0Pipeline 778282, job 7863039
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge

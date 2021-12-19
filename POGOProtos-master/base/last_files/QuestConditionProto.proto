@@ -53,6 +53,12 @@ import "WithGblRankProto.proto";
 import "WithEncounterTypeProto.proto";
 import "WithCombatTypeProto.proto";
 import "WithItemTypeProto.proto";
+import "WithElapsedTimeProto.proto";
+import "WithFriendLevelProto.proto";
+import "WithPokemonCpProto.proto";
+import "WithRaidLocationProto.proto";
+import "WithFriendsRaidProto.proto";
+import "WithPokemonCostumeProto.proto";
 
 message QuestConditionProto {
 	oneof Condition {
@@ -88,6 +94,12 @@ message QuestConditionProto {
 		WithEncounterTypeProto with_encounter_type = 31;
 		WithCombatTypeProto with_combat_type = 32;
 		WithItemTypeProto with_item_type = 33;
+		WithElapsedTimeProto with_elapsed_time = 34;
+		WithFriendLevelProto with_friend_level = 35;
+		WithPokemonCpProto with_pokemon_cp = 36;
+		WithRaidLocationProto with_raid_location = 37;
+		WithFriendsRaidProto with_friends_raid = 38;
+		WithPokemonCostumeProto with_pokemon_costume = 39;
 	}
 
 	enum ConditionType {
@@ -135,6 +147,12 @@ message QuestConditionProto {
 		WITH_COMBAT_TYPE = 41;
 		WITH_GEOTARGETED_POI = 42;
 		WITH_ITEM_TYPE = 43;
+		WITH_RAID_ELAPSED_TIME = 44;
+		WITH_FRIEND_LEVEL = 45;
+		WITH_STICKER = 46;
+		WITH_POKEMON_CP = 47;
+		WITH_RAID_LOCATION = 48;
+		WITH_FRIENDS_RAID = 49;
 	}
 
 	ConditionType type = 1;

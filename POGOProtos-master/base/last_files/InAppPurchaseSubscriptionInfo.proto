@@ -1,0 +1,61 @@
+/*
+* Copyright 2016-2021 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+message InAppPurchaseSubscriptionInfo {
+	enum NativeStoreVendor {
+		UNKNOWN_STORE = 0;
+		GOOGLE = 1;
+		APPLE = 2;
+		DESKTOP = 3;
+	}
+
+	enum PaymentState {
+		UNKNOWN_STATE = 0;
+		SUCCESS = 1;
+		BILLING_ISSUE = 2;
+	}
+
+	enum State {
+		UNKNOWN = 0;
+		ACTIVE = 1;
+		CANCELLED = 2;
+		EXPIRED = 3;
+		GRACE_PERIOD = 4;
+		FREE_TRIAL = 5;
+		PENDING_PURCHASE = 6;
+		REVOKED = 7;
+		ON_HOLD = 8;
+	}
+
+	message PurchasePeriod {
+		int64 subscription_end_time_ms = 1;
+		int64 receipt_timestamp_ms = 2;
+		string receipt = 3;
+	}
+
+	string subscription_id = 1;
+	string sku_id = 2;
+	repeated PurchasePeriod purchase_period = 3;
+	int64 last_notification_time_ms = 4;
+	string lookup_id = 5;
+}

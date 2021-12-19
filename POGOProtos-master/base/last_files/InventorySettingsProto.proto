@@ -34,4 +34,7 @@ message InventorySettingsProto {
 	bool enable_eggs_not_inventory = 10;
 	int32 special_egg_overflow_spots = 11;
 	bool enable_overflow_spot_sliding = 12;
+	bool enable_raid_pass_overflow = 13;
+	int32 base_postcard_storage = 14;
+	int32 max_postcard_storage = 15;
 }

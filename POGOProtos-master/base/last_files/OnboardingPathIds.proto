@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 enum OnboardingPathIds {
 	ONBOARDING_PATH_IDS_V1 = 0;
 	ONBOARDING_PATH_IDS_V2 = 1;
+	ONBOARDING_PATH_IDS_VERSION_1 = 2;
 }

@@ -25,9 +25,9 @@ import "HoloPokemonMove.proto";
 import "HoloPokemonType.proto";
 
 message MoveSettingsProto {
-	HoloPokemonMove unique_id = 1;
+	HoloPokemonMove movement_id = 1;
 	int32 animation_id = 2;
-	HoloPokemonType type = 3;
+	HoloPokemonType pokemon_type = 3;
 	float power = 4;
 	float accuracy_chance = 5;
 	float critical_chance = 6;

@@ -21,11 +21,11 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "LabelGeometry.proto";
-import "LabelContent.proto";
+import "LabelContentLocalization.proto";
 
 message Label {
-	int32 priority = 1;
-	LabelGeometry geometry = 2;
-	LabelContent content = 3;
+	int32 min_zoom = 1;
+	int32 max_zoom = 2;
+	int32 priority = 3;
+	repeated LabelContentLocalization localizations = 4;
 }

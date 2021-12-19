@@ -31,4 +31,7 @@ message AvailableSubmissionsPerSubmissionType {
 	repeated string blacklisted_device_id = 7;
 	bool is_whitelisted_user = 8;
 	bool is_upload_later_enabled = 9;
+	float daily_new_submissions = 10;
+	int32 max_submissions = 11;
+	bool is_wayfarer_onboarding_enabled = 12;
 }

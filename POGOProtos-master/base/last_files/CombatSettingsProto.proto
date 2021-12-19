@@ -49,7 +49,7 @@ message CombatSettingsProto {
 	int32 swap_animation_duration_turns = 22;
 	int32 super_effective_flyout_duration_turns = 23;
 	int32 not_very_effective_flyout_duration_turns = 24;
-	int32 blocked_flyout_duration_turns = 25;
+	int32 blocked_effective_flyout_duration_turns = 25;
 	int32 normal_effective_flyout_duration_turns = 26;
 	int32 faint_animation_duration_turns = 27;
 	int32 npc_swap_delay_turns = 28;
