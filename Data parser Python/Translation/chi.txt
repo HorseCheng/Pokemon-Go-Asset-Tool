@@ -308,6 +308,7 @@ GO火箭隊即將統治這整個世界。你就認命吧，我或許還能賞你
 小豪的背包
 橘色背包
 蝴蝶結背包
+咚咚鼠側背包
 都會風背包
 蛋型背包
 蛋型背包
@@ -394,10 +395,12 @@ GO超級手鐲 靈犀隊
 N風棒球帽
 鴨舌帽
 卡拉卡拉頭套
+咚咚鼠針織帽
 精靈球棒球帽
 運動棒球帽
 信使鳥耳罩
 名偵探皮卡丘帽子
+神奧地區款 帽子
 飄飄球帽
 伊布帽
 小菊兒耳機
@@ -474,6 +477,7 @@ GO火箭隊棒球帽
 對戰少女短褲
 N風長褲
 連身褲
+神奧地區款 短裙
 葉子短裙
 一片裙套組
 阪木西裝褲
@@ -518,12 +522,15 @@ N風長褲
 貼身上衣
 N風上衣
 時拉比T恤
+小火焰猴人偶裝
 驚角鹿毛衣
 Día de Muertos T-Shirt
 經典長袖上衣
 信使鳥毛衣
 牛仔外套
 名偵探皮卡丘T恤
+光之祭典T恤
+神奧地區款 上衣組合
 隨風球T恤
 藍海衝浪T
 小菊兒長上衣
@@ -579,6 +586,7 @@ Pokémon Shirt - 卡比獸
 皮卡丘發燒友上衣
 面罩摔角手皮卡丘 背心
 皮卡丘人偶裝
+波加曼人偶裝
 妙蛙種子帽T
 小火龍帽T
 傑尼龜帽T
@@ -592,6 +600,7 @@ Pokémon Shirts 迷唇娃
 靈犀隊POLO衫
 叡智隊POLO衫
 武勇隊POLO衫
+「＝」 帽T
 南瓜精上衣
 雷吉艾斯 防風外套
 雷吉洛克 防風外套
@@ -636,6 +645,7 @@ Samsung Galaxy紮染T恤
 波克比帽T
 休閒短袖T恤
 皮卡丘短袖T恤
+草苗龜人偶裝
 UNIQLO UT 伊布
 UNIQLO UT 皮卡丘
 UNIQLO UT 百變怪
@@ -652,8 +662,10 @@ Verizon上衣
 對戰少女鞋
 N風運動鞋
 等級49 靴子
+咚咚鼠運動鞋
 慢跑鞋
 信使鳥短靴
+神奧地區款 長靴
 小菊兒運動鞋
 不穿鞋子
 葉子鞋
@@ -717,7 +729,9 @@ GO Tour棒球帽
 將在等級 {0} 開放
 小豪的背包
 黃色背包
+咚咚鼠側背包
 訓練家背包
+神奧地區款 背包
 蛋型背包
 蛋型背包
 蛋型背包
@@ -797,9 +811,11 @@ GO超級手鐲 靈犀隊
 N風棒球帽
 鴨舌帽
 卡拉卡拉頭套
+咚咚鼠針織帽
 訓練家遮陽帽
 信使鳥耳罩
 名偵探皮卡丘帽子
+神奧地區款 帽子
 飄飄球帽
 伊布帽
 小菊兒耳機
@@ -873,6 +889,7 @@ GO火箭隊棒球帽
 小剛長褲
 N風長褲
 訓練家短褲
+神奧地區款 長褲
 小菊兒長褲
 釣魚者長褲
 火焰長褲
@@ -917,6 +934,7 @@ N風長褲
 小剛上衣
 N風上衣
 時拉比T恤
+小火焰猴人偶裝
 驚角鹿毛衣
 Día de Muertos T-Shirt
 紅白連帽上衣
@@ -926,6 +944,8 @@ Día de Muertos T-Shirt
 信使鳥毛衣
 牛仔外套
 名偵探皮卡丘T恤
+光之祭典T恤
+神奧地區款 上衣組合
 隨風球T恤
 藍海衝浪T
 小菊兒上衣
@@ -984,6 +1004,7 @@ Pokémon Shirt - 卡比獸
 皮卡丘發燒友T恤
 面罩摔角手皮卡丘 背心
 皮卡丘人偶裝
+波加曼人偶裝
 妙蛙種子帽T
 小火龍帽T
 傑尼龜帽T
@@ -997,6 +1018,7 @@ Pokémon Shirts 迷唇娃
 靈犀隊POLO衫
 叡智隊POLO衫
 武勇隊POLO衫
+「＝」 帽T
 南瓜精上衣
 雷吉艾斯 防風外套
 雷吉洛克 防風外套
@@ -1039,6 +1061,7 @@ Samsung Galaxy紮染T恤
 叡智隊短袖T恤
 武勇隊短袖T恤
 30紀念款
+草苗龜人偶裝
 UNIQLO UT 伊布
 UNIQLO UT 皮卡丘
 UNIQLO UT 百變怪
@@ -1055,8 +1078,10 @@ Verizon上衣
 小剛鞋子
 N風運動鞋
 等級49 靴子
+咚咚鼠運動鞋
 慢跑鞋
 信使鳥短靴
+神奧地區款 運動鞋
 小菊兒運動鞋
 不穿鞋子
 釣魚者長靴
@@ -1484,22 +1509,28 @@ Pokémon GO Safari Zone
 Pokémon GO Safari Zone - 提前入場
 費城，2021年10月31日
 Pokémon GO Safari Zone
+2021年11月11日(四)
 聖路易，2021年11月11日
 Pokémon GO Safari Zone - 提前入場
 聖路易，2021年11月11日
 Pokémon GO Safari Zone
+2021年11月12日(五)
 聖路易，2021年11月12日
 Pokémon GO Safari Zone - 提前入場
 聖路易，2021年11月12日
 Pokémon GO Safari Zone
+2021年11月13日(六)
 聖路易，2021年11月13日
 Pokémon GO Safari Zone - 提前入場
 聖路易，2021年11月13日
 Pokémon GO Safari Zone
+2021年11月14日(日)
 聖路易，2021年11月14日
 Pokémon GO Safari Zone - 提前入場
 聖路易，2021年11月14日
 Pokémon GO Safari Zone
+9am - 5pm
+11am - 5pm
 2019年4月18日 聖淘沙
 Pokémon GO Safari Zone
 2019年4月19日 聖淘沙
@@ -2418,6 +2449,8 @@ WIN！
 上吧！{0}！
 對手派出了{0}！
 對戰週
+《寶可夢 晶燦鑽石／明亮珍珠》發售紀念活動挑戰
+《寶可夢 晶燦鑽石／明亮珍珠》發售紀念活動
 和 {0} 成為朋友了！
 完成每日獎勵田野調查後可獲得大針蜂超級能量
 完成田野調查後可獲得大針蜂超級能量
@@ -2457,6 +2490,7 @@ https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 沒有訊號……我知道了！或許今天他們的行動已經結束了。讓我們明天再試試看。
 等早上再看看吧。我想他們短暫時間內是不會現身的。
 加成里程碑獎勵
++捕獲寶可夢時可獲得100星星沙子
 捕獲寶可夢時的XP +100
 捕獲寶可夢時的星星沙子 +200
 捕獲寶可夢時的XP +200
@@ -2792,10 +2826,10 @@ CP加成
 確定要強化 {0} 嗎？
 強化這隻寶可夢之後，牠的CP將會超過{0}的上限
 每日獎勵禮盒
-高級禮盒
+Cyber Week - 高級禮盒
 超級禮盒
 GO火箭隊禮盒
-特別禮盒
+Cyber Week - 特別禮盒
 新手禮盒
 新手禮盒
 入門禮盒
@@ -2808,7 +2842,7 @@ GO火箭隊禮盒
 道具盒 (Beta)
 冬季禮盒
 高級禮盒
-冒險禮盒
+Cyber Week - 冒險禮盒
 冬季禮盒
 社群日禮盒
 活動禮盒
@@ -2819,7 +2853,7 @@ Safari Zone禮盒
 週年慶禮盒
 銀禮盒
 銅禮盒
-冒險禮盒
+Cyber Week - 冒險禮盒
 超級禮盒
 特別禮盒
 請收下這些道具，繼續訓練寶可夢們吧！
@@ -2847,736 +2881,11 @@ Safari Zone禮盒
 陳舊的海圖 (2/4)
 陳舊的海圖 (3/4)
 陳舊的海圖 (4/4)
-廣告代理商
-阿富汗餐廳
-非洲料理店
-航空管制塔
-飛機
-機場
-美式餐廳
-圓形劇場
-遊樂園
-古董店
-公寓
-電器行
-滑雪場酒吧
-水族館
-植物園
-拱廊
-拱門
-阿根廷料理店
-亞美尼亞餐廳
-藝術
-藝術品經銷商
-藝術展
-藝廊
-美術館
-藝術工作室
-美術用品店
-亞洲fusion餐廳
-運動場
-田徑場
-溜冰場
-禮堂
-澳洲餐廳
-奧地利餐廳
-汽車維修工廠
-租車店/車商
-汽車修理廠
-嬰兒用品店
-羽球場
-貝果店
-麵包店
-峇里料理店
-涼亭
-孟加拉料理店
-銀行
-酒吧
-穀倉
-軍營
-棒球場地
-棒球場
-籃球場
-籃球場
-巴斯克料理店
-沐浴區
-馬頭觀音
-巴伐利亞料理店
-BBQ場地
-海灘
-海灘酒吧
-美容院
-美容用品
-B&B
-蜂窩
-啤酒吧
-露天啤酒園
-北京料理店
-白俄羅斯料理店
-比利時餐廳
-鐘
-長椅
-孟加拉地區料理店
-腳踏車
-自行車專用道
-自行車架
-自行車出租店
-自行車店
-大型店
-自行車道
-廣告看板
-鳥屋
-小酒館
-船舶下水裝置
-船屋
-繫船柱
-書店
-土耳其酥餅店
-波斯尼亞料理店
-點心吧
-植物園
-希臘奶油派店
-邊界
-保齡球館
-法式小酒館
-德國香腸店
-巴西料理店
-啤酒廠/釀酒廠
-橋
-自助餐
-建築物
-匈牙利餐廳
-地堡
-漢堡店
-緬甸料理店
-墨西哥捲餅店
-巴士總站
-商科校區
-半身像
-肉店
-卡巴萊歌舞廳
-小木屋
-自助餐廳
-咖啡廳
-卡郡/克里歐料理店
-柬埔寨料理店
-營地
-運河
-糖果店
-粵菜館
-車
-汽車充電站
-洗車店
-加勒比海料理店
-雕刻
-城堡
-加泰羅尼亞料理店
-洞穴
-基地台
-墓地
-土耳其宗教集會所
-印度小點店
-椅子
-木屋
-教堂
-智利料理店
-中式餐廳
-巧克力店
-教會
-巴西烤肉餐廳
-土耳其生肉丸店
-電影院
-馬戲團
-市政府
-攀岩地點
-鐘
-鐘樓
-服裝店
-雞尾酒吧
-咖啡烘焙所
-大學
-哥倫比亞料理店
-羅馬競技場
-喜劇劇場
-漫畫店
-商業
-社區中心
-社區花園
-社區公園
-指南針
-堅果糖果店
-寄售店
-領事館
-會議中心
-複印/印刷中心
-科西嘉料理店
-哥斯大黎加料理店
-服裝店
-法院
-火山口
-可麗餅店
-克里特島料理店
-板球場
-農田
-十字
-古巴料理店
-文化中心
-杯子蛋糕店
-冰壺場
-咖哩香腸店
-海關
-捷克餐廳
-日用品店
-水庫
-舞蹈工作室
-丹麥餐廳
-數據中心
-裝飾噴泉
-裝飾座椅
-熟食店/西班牙酒吧
-牙醫
-沙漠
-設計人孔蓋
-甜品店
-飲茶店
-食堂
-方向標誌
-廉價酒吧
-伊朗羊肉泡饃店
-道場
-道祖神
-醫生辦公室
-遛狗公園
-丼飯餐廳
-土耳其烤肉餐廳
-甜甜圈店
-門
-門口
-南印多薩店
-畫畫
-飲水機
-餃子館
-荷蘭餐廳
-充電站
-教育
-埃及料理店
-變壓器箱
-電子用品商店
-大使館
-恩潘納達店
-英式餐廳
-娛樂
-衣索比亞料理店
-活動場地
-活動空間
-運動標誌
-布店
-工廠
-鷹嘴豆餅店
-農夫市場
-農家
-農地
-快餐店
-客輪碼頭
-節日
-菲律賓料理店
-電影工作室
-金融服務
-消防栓
-火神廟
-炸魚薯條店
-魚市
-鮮魚料理小酒館
-釣魚點
-健身站
-健身工作室
-旗桿
-跳蚤市場
-花店
-花
-美食廣場
-食品加工廠
-食品零售
-路邊攤
-餐車
-足球場
-足球競技場
-天橋
-森林
-堡壘
-鑄造廠
-法國餐廳
-炸雞店
-炸薯條店
-弗留利料理店
-冷凍優格店
-福建餐廳
-家具店
-畫廊
-遊戲店
-車庫
-庭園
-園藝店
-美食酒吧
-入口
-涼亭
-地測標誌
-德國餐廳
-間歇泉
-禮品店
-冰河
-卡丁車賽
-高爾夫球場
-政府大樓
-土耳其餡餅店
-塗鴉
-草原
-墓碑
-希臘餐廳
-溫室
-貴州餐廳
-古吉拉特料理店
-謁師所
-健身房
-客家餐廳
-清真餐廳
-機庫
-港口/碼頭
-五金
-夏威夷料理店
-醫療
-保健食品店
-香草香料店
-健行步道
-喜馬拉雅料理店
-歷史建築
-歷史景點
-具有歷史的構造
-史蹟
-歷史博物館
-嗜好用品店
-曲棍球場
-冰上曲棍球場
-祠
-家居裝修
-港式餐廳
-水菸吧
-醫院
-熱狗店
-溫泉
-旅館
-旅館酒吧
-火鍋店
-匈牙利餐廳
-冰淇淋店
-溜冰場
-具象徵性的建築物
-冰屋
-十二伊瑪目派集會所
-印度風中華料理店
-印度料理店
-印度點心店
-印尼肉丸店
-印尼料理店
-室內娛樂
-室內運動
-工業用地
-訊息中心
-情報看板
-民宿
-網咖
-伊拉克料理店
-愛爾蘭酒吧
-愛爾蘭料理店
-以色列料理店
-義大利餐廳
-居酒屋
-牙買加料理店
-日式咖哩餐廳
-日本料理店
-爵士酒吧
-珠寶店
-猶太餐廳
-地藏
-果汁吧
-卡拉OK吧
-獨木舟出租店
-土耳其烤肉捲餅店
-喀拉拉邦印度料理店
-小攤子
-庚申塔
-土耳其肉丸料理店
-韓國料理店
-遵循猶太教義的料理店
-土耳其堅果/水果乾店
-湖
-垃圾場
-地形
-地標建築物
-地標物體
-景觀
-拉丁美洲餐廳
-洗衣店
-黎巴嫩料理店
-法律事務所
-LGBTQ+ 酒吧
-圖書館
-燈塔
-照明設備
-燈光藝術
-迷你免費圖書館
-鎖匠
-展望台
-行李箱店
-機械製造商
-郵箱
-馬來族料理店
-馬來西亞料理店
-地圖
-碼頭
-市場
-材料製造商
-地中海料理店
-紀念長椅
-追悼設施
-墨西哥餐廳
-土耳其開胃菜店
-中東料理店
-里程碑
-磨坊
-炭坑
-密特拉神殿
-修道院
-蒙古料理店
-紀念館
-紀念碑
-摩洛哥料理店
-馬賽克磁磚
-清真寺
-汽車旅館
-山
-山間小屋
-山頂
-壁畫
-博物館
-音樂店
-音樂工作室
-音樂會場
-樂器
-火鍋店
-國有森林
-國家公園
-自然保護區
-自然標誌
-導航標誌
-尼泊爾餐廳
-報紙箱
-報攤
-尼加拉瓜料理店
-麵館
-北印料理店
-北巴西料理店
-挪威料理店
-公證處
-營養師辦公室
-方尖碑
-物體
-天文台
-海洋
-辦公室
-辦公用品店
-辦公大樓
-什錦燒店
-公開市場
-開放空間
-歌劇院
-有機食品店
-其他
-戶外活動場地
-室外娛樂
-戶外運動
-室外洗手間
-暢貨中心
-希臘烏佐酒店
-西班牙燉飯餐廳
-寶塔
-彩彈射擊場
-繪畫
-巴基斯坦料理店
-皇宮
-普法茲料理店
-巴勒斯坦料理店
-公園
-議會
-印度帕西料理店
-葡式酥餅店
-酥餅店
-人行道磁磚藝術
-展示館
-當舖
-北京烤鴨店
-表演廳
-藤架
-波斯料理店
-個人身邊事物
-秘魯料理店
-寵物用品
-藥局
-照片
-攝影工作室
-理療設施
-義式捲餅店
-鋼琴酒吧
-野餐區
-野餐桌
-土耳其披薩店
-餡餅店
-皮埃蒙特料理店
-碼頭
-土耳其拌飯店
-披薩店
-地名標誌
-平原
-天文館
-播種機
-牌板
-無塑料商店
-遊樂場
-遊樂場設施
-水管工程
-夏威夷蓋飯店
-波蘭料理店
-行政辦公室
-波利尼西亞料理店
-池塘
-葡萄牙餐廳
-郵局
-海報
-肉汁起司薯條店
-發電廠
-祈禱室
-酒吧
-波多黎各料理店
-旁遮普料理店
-金字塔
-賽馬場
-泛舟地
-拉麵店
-房地產辦公室
-娛樂中心
-宗教建築
-宗教學校
-宗教雕塑
-宗教壁畫
-研究公園
-儲水池
-住宅
-度假村
-休息區
-餐廳
-零售店
-河
-路
-岩石
-攀岩地點
-岩石園
-溜冰場
-羅馬尼亞料理店
-連棟住宅
-橄欖球場
-橄欖球競技場
-廢墟
-俄羅斯餐廳
-清酒吧
-沙拉店
-薩爾瓦多料理店
-三明治店
-撒丁島料理店
-桑拿浴
-香腸店
-斯堪地那維亞料理店
-觀景台
-維也納炸肉排店
-科學中心
-科學標誌
-滑板車充電站
-蘇格蘭料理店
-雕像
-海
-海鮮餐廳
-季節市場
-涮涮鍋
-上海料理店
-沙威瑪店
-棚子
-船
-鞋店
-購物中心
-神社
-西西里餐廳
-人行道
-標誌
-筒倉
-滑板公園
-滑冰場
-滑雪場
-滑雪纜車
-滑雪場山坡
-滑雪小屋
-滑雪地
-跳傘降落區
-滑溜梯
-斯洛伐克料理店
-冰沙店
-小吃店
-冰雪
-蕎麥麵店
-足球場
-足球競技場
-湯店
-南美料理店
-南印料理店
-美國南方料理店
-南巴西料理店
-烤肉串店
-Spa
-西班牙料理店
-地下酒吧
-專科學校
-運動俱樂部
-體育用品
-體育館
-運動酒吧
-運動賽道
-運動訓練
-壁球場
-斯里蘭卡料理店
-馬屋
-體育場
-彩繪玻璃
-國家森林
-國家公園
-雕像
-牛排屋
-貼圖
-股票交易所
-倉儲大樓
-避難地窖
-溪流
-街頭小吃
-街道設施
-路燈
-街道路標
-小型購物中心
-構造物
-地鐵入口
-壽喜燒餐廳
-巽他料理店
-超級市場
-衝浪景點
-壽司餐廳
-懸浮藝術
-瑞典料理店
-游泳池
-瑞士餐廳
-交會所
-敘利亞料理店
-川菜館
-土耳其三明治店
-波斯小餐館
-墨西哥玉米捲餅店
-裁縫
-台灣料理店
-章魚燒店
-西班牙小點餐廳
-紋身工作室
-希臘小酒館
-稅務局
-計程車招呼站
-電話亭
-寺廟
-天婦羅餐廳
-網球場
-帳篷
-德州墨西哥料理店
-紡織品店
-泰式料理店
-劇院
-西藏料理店
-票券商
-售票亭
-夏威夷風酒吧
-炸豬排餐廳
-鳥居
-圖騰柱
-塔
-田徑場
-專科學校
-路標
-火車站
-轉運站
-交通運輸
-義式小酒館/餐廳
-旅行社
-樹
-手推車
-卡車
-卡車休息站
-隧道
-土耳其咖啡館
-土耳其料理店
-土耳其醬瓜店
-托斯卡納料理店
-烏龍麵店
-烏克蘭料理店
-大學
-城市廣場
-公共事業
-公用設施箱
-谷
-嚴格素食餐廳
-嚴格素食店
-素食餐廳
-販賣機
-委內瑞拉料理店
-獸醫
-越南料理店
-葡萄園
-火山
-排球場
-投票亭
-牆
-倉庫
-警告牌
-垃圾桶
-污水廠
-手錶店
-噴泉
-水泵
-水塔
-水域
-瀑布
-濱水區
-婚紗店
-歡迎標誌
-井
-井屋
-濕地
-威士忌酒吧
-風車
-窗戶
-葡萄酒吧
-酒廠
-木雕
-燒鳥店
-葉門料理店
-動物園
-土耳其串燒店
 捕捉寶可夢
 捕獲寶可夢時的糖果加倍
 捕獲寶可夢時的糖果增為3倍
 獲得糖果XL的機率加倍
-4× chance to get Candy XL from catching Pokémon
+捕捉寶可夢時獲得糖果XL將提升4倍
 獲得糖果XL的機率增為3倍
 速成盃
 捕獲寶可夢時的星星沙子加倍
@@ -4234,7 +3543,7 @@ GO火箭隊幹部
 社群日：多邊獸
 社群日：毒薔薇
 社群日：橡實果
-Community Day: Shinx
+社群日：小貓怪
 社群日：藤藤蛇
 社群日：青綿鳥
 社群日：暖暖豬
@@ -4392,13 +3701,13 @@ Nice!
 沒有精靈球了！
 寶可夢盒子已經滿了！
 寶可夢逃出來了！
-Are you sure you don't want to rescue the Shadow Pokémon?
-You will still be able to encounter the Raid Boss by tapping on the Gym, but only if the Raid is still active.
-Are you sure you want to leave the Raid Boss encounter?
+你確定你不要拯救這隻暗影寶可夢嗎？
+若團體戰尚未結束，那麼只要再次進入道館，就能再次遇見寶可夢。
+你確定要逃走嗎？
 這隻寶可夢太遠了
 喔不！野生的 {0} 逃走了！
-By leaving this encounter, you will not be able to catch your Pokémon reward.
-You can't undo this action once you leave the encounter.
+如果你選擇逃走，之後將無法捕捉這隻寶可夢。
+決定後將無法重來
 捉到 {0} 了！
 額外關卡！挑戰捕捉 {0} ！
 得到了 {0} 個進化碎片！
@@ -4856,6 +4165,8 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 要向 {0} 傳送朋友申請嗎？
 推薦名單
 +{0} XP
+光之祭典
+更多斑斑馬和咚咚鼠出現在地圖上
 活動主題田野調查
 感謝你來參加Pokémon GO的測試！我們很快就會再見面的！
 急速上昇：格鬥屬性
@@ -4967,6 +4278,7 @@ Let's GO!
 獎勵
 旋轉道館轉盤時最多可獲得5張免費的團體戰入場券
 商店中推出內含遠距團體戰入場券的禮盒
+特別誘餌禮盒
 飛行盃在GO對戰聯盟中登場
 飛行盃
 急速上昇：飛行屬性
@@ -4989,7 +4301,7 @@ Ground-Type
 Ice-Type
 Normal-Type
 毒屬性
-Psychic-Type
+超能力屬性
 Rock-Type
 Steel-Type
 Water-Type
@@ -5277,6 +4589,7 @@ ONLINE
 如果你尚未啟用Niantic Online，你將無法實行上線狀態排序。
 你已經收集足夠的神秘零件來組裝火箭隊雷達！
 看起來這些零件可以組裝在一起！
+盒子已滿
 伽勒爾的樣子
 在GO對戰聯盟完成1組對戰時的星星沙子加倍
 在GO對戰聯盟升級時的星星沙子加倍
@@ -5312,8 +4625,8 @@ GDC 2019: Catch {0} Pokemon
 「從扇貝貝到足刃」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年2月7日11:00～17:00領取毒薔薇社群日的特殊調查「好一朵美麗的毒薔薇」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 「好一朵美麗的毒薔薇」入場券
-A ticket to access the "Flash, Spark, and Gleam" Special Research from November 21, 2021, at 11:00 a.m. to November 21, 2021, at 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
-Flash, Spark, and Gleam Ticket
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年11月21日11:00～17:00領取小貓怪社群日的特殊調查「電光閃光閃亮亮」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+「電光閃光閃亮亮」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2021年4月11日11:00～17:00領取藤藤蛇社群日的特殊調查「藤藤蛇的日光浴」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 「藤藤蛇的日光浴」入場券
 一張可以獲得五月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年5月15日11:00～17:00時領取五月社群日特殊調查「綿翼小鳥」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
@@ -5353,6 +4666,7 @@ kg
 公里
 除外
 m
+Month
 More
 網路錯誤
 No
@@ -5372,6 +4686,7 @@ HP
 TOTAL
 傳送
 VS
+Week
 XL
 XP
 XS
@@ -6187,6 +5502,7 @@ GO傳送裝置能量
 立刻充飽
 「胡帕的到來」收藏家挑戰
 h
+{0} hr.
 {0}小時{1}分
 服飾商店
 套組
@@ -6316,10 +5632,10 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 墨莓果
 又硬又堅固的鱗片，可讓特定寶可夢進化。
 龍之麟片
-只要擁有這張入場券，不論你身在何處，都能在當地時間2021年10月9日11:00～17:00獲得特殊調查的課題。
+只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
-入場券將會自動啟動。不論你身在何處，都可以在當地時間2021年10月9日的活動時間內領取特殊調查課題。
+入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年10月9日11:00～17:00獲得特殊調查的課題。
@@ -6335,8 +5651,8 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 入場券將會自動啟動。不論你身在何處，都可以在當地時間2021年9月19日的活動時間內領取特殊調查課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年2月7日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處，都能在當地時間2021年2月7日11:00～17:00領取特殊調查的課題。
-A ticket to access a special research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to a special research on November 21, wherever you are in the world.
+只要擁有這張入場券，不論你身在何處，都能在當地時間2021年11月21日11:00～17:00獲得特殊調查的課題。
+入場券將會自動啟動。不論你身在何處，都可以在當地時間2021年11月21日的活動時間內領取特殊調查課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年4月11日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2021年4月11日活動時間內領取特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間5月15日11:00～17:00獲得特殊調查的課題。
@@ -7480,7 +6796,7 @@ CP {0} → <color=#2ECDA8>{1}</color>
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2021-12-03T09:12:14.406484at SHA d9facbeb06b209296504252b3e7d4e83d1730fa0Pipeline 778282, job 7863039
+Built at 2021-12-21T19:15:18.046794at SHA 421632188744e78024141516df46eaac6ee664c5Pipeline 788280, job 8046534
 里程碑獎勵
 春季活動：2021收藏家挑戰
 友誼日收藏家挑戰
@@ -7502,6 +6818,7 @@ M/dd/yyyy
 從GO火箭隊手中拯救暗影寶可夢
 捕捉異色寶可夢
 和朋友交換寶可夢
+有些寶可夢並不會出現在地圖上，請透過下列圖示確認該如何找到寶可夢。
 收藏家挑戰
 已完成的挑戰
 可以在傑出收藏家獎牌上確認已完成的收藏家挑戰。
@@ -7812,6 +7129,9 @@ m
 燒盡
 羽毛舞
 氣象球
+精神之牙
+異次元猛攻
+異次元洞
 {0}會忘記{1}
 {0} 會忘記
 {0} 學會新招式了！
@@ -7834,6 +7154,7 @@ m
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2020年12月19日10:00～2020年12月20日20:00參加遊戲裡的「踢、踢、踢踏踢……」的活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 伽勒爾魔牆人偶活動入場券
 已選擇 {0} 隻寶可夢
+特殊夜間背景音樂
 精選訓練家：
 開啟成績畫面
 魅力十足的打扮
@@ -7901,6 +7222,7 @@ NEW！
 尚未註冊的玩家
 新年
 {0} 天前
+可透過遊戲內快訊開啟特別的演唱會影片
 閱讀全文
 今天
 昨天
@@ -8064,7 +7386,7 @@ Pokémon GO Plus 的配對已被解除
 多邊獸將在GO Snapshot中驚喜現身5次
 毒薔薇將在GO Snapshot中驚喜現身5次
 橡實果將在GO Snapshot中驚喜現身5次
-5 Photobombs from Shinx in GO Snapshot
+小貓怪將在GO Snapshot中驚喜現身5次
 藤藤蛇將在GO Snapshot中驚喜現身5次
 青綿鳥將在GO Snapshot中驚喜現身5次
 暖暖豬將在GO Snapshot中驚喜現身5次
@@ -8152,8 +7474,10 @@ OK
 請輸入問題內容
 回報此地點的問題
 無法提出申請，請重試一次。
+其他Niantic遊戲中使用的Wayspot
 說明文重複，請重新編輯說明文
 名稱重複，請選用其他名稱
+OK
 目前已達可掃描件數的上限
 目前沒有可新增/編輯說明文的投稿
 目前沒有可指定地點的投稿
@@ -8175,6 +7499,7 @@ OK
 現有照片
 新增照片
 拍照
+Pokémon GO裡的Wayspot
 尚可進行 {0} 次寶可補給站掃描
 尚可進行1次寶可補給站掃描
 還有 {0} 個類別待投稿
@@ -8216,6 +7541,8 @@ OK
 申請
 你的投稿已提交審查
 感謝你的編輯
+提名新寶可補給站候補時，請避開這些Wayspot（藍＝Pokémon GO、橘＝其他Niantic遊戲）。
+確認是否重覆
 目前無法使用此功能
 距離寶可補給站太遠，無法進行投稿
 將在等級 {0} 解鎖！
@@ -8292,7 +7619,7 @@ LEVEL 3
 退出
 確定要中止這次申請嗎？
 無法提出申請，請重試一次。
-https://pokemongo.nianticlabs.com/support/submitting-pokestop
+https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility&f=eligibility-criteria
 申請新寶可補給站前，請先開啟裝置的設定選單，允許Pokémon GO使用此裝置的相簿。
 知道了
 輸入寶可補給站說明
@@ -8329,7 +7656,7 @@ OK
 輸入的資訊將不會被儲存
 確認更多關於「申請新寶可補給站」的資訊！
 申請
-https://pokemongo.nianticlabs.com/support/high-quality-pokestops
+https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
 這張照片可協助我們評估周遭環境
 下一步
 請輸入寶可補給站名稱
@@ -11510,6 +10837,7 @@ https://www.nianticlabs.com/terms/pokemongo/zh_hant/
 拜訪過的寶可補給站：
 開始日
 總XP
+Ed Sheeran 合作活動
 已兌換過此代碼
 此代碼無效
 請輸入促銷代碼
@@ -11563,6 +10891,8 @@ What Is PokéStop Scanning?
 連續投出 {0} 次Excellent
 在團體戰中獲勝 {0} 次
 在 {0} 場道館對戰中使出1次效果絕佳的特殊招式
+You must complete your current battle before beginning a new battle!
+An error occurred when starting the battle
 在萬聖節盃中對戰 {0} 次
 在萬聖節盃的訓練家對戰中獲勝 {0} 次
 在GO對戰聯盟中對戰 {0} 次
@@ -11577,10 +10907,12 @@ What Is PokéStop Scanning?
 在大師聯盟的訓練家對戰中獲勝1次
 參加 {0} 場團體戰
 參加1場團體戰
+A new opponent has appeared!
 在 {0} 場對戰中使出效果絕佳的特殊招式
 在1場對戰中使出效果絕佳的特殊招式
 在高級聯盟的訓練家對戰中獲勝 {0} 次
 在高級聯盟的訓練家對戰中獲勝1次
+AN OPPONENT APPEARS!
 在 10 分內獲得團體戰勝利
 在 60 秒內獲得團體戰勝利
 在 {0} 分內獲得團體戰勝利
@@ -11792,6 +11124,7 @@ Let’s GO！美錄坦
 幻之寶可夢現蹤！？
 完成 {0} 個收藏家挑戰
 完成1個收藏家挑戰
+Welcome to Pokémon GO!
 從扇貝貝到足刃
 解碼多邊獸
 可疑人物現蹤！
@@ -11805,7 +11138,7 @@ Let’s GO！美錄坦
 遠走高飛……
 七彩暗影
 好一朵美麗的毒薔薇
-Flash, Spark, and Gleam
+電光閃光閃亮亮
 藤藤蛇的日光浴
 令人毛骨悚然的訊息 2018
 令人毛骨悚然的訊息 2019
@@ -12529,6 +11862,7 @@ GO Tour：捕捉猴怪
 GO Tour：捕捉走路草
 捕捉幽靈屬性寶可夢時投出 {0} 次曲球
 投出 {0} 次曲球
+Make a Curveball Throw
 用曲球投出 {0} 次Excellent
 用曲球投出1次Excellent
 投出 {0} 次Excellent
@@ -12588,6 +11922,7 @@ GO Tour：捕捉走路草
 獲得 10 面白金獎牌
 獲得 20 面白金獎牌
 獲得1面白金獎牌
+Play with your buddy
 寶可夢出現！
 捕捉 {0} 隻多邊獸
 捕捉 {0} 隻多邊獸Ⅱ
@@ -12652,9 +11987,9 @@ GO Tour：捕捉走路草
 讓 {0} 隻毒薔薇進化
 傳送 {0} 個友情禮物
 傳送友情禮物給朋友
-Catch {0} Shinx
-Evolve {0} Shinx
-Evolve {0} Luxio
+捕捉 {0} 隻小貓怪
+讓 {0} 隻小貓怪進化
+讓 {0} 隻勒克貓進化
 為妙蛙種子拍攝1張GO Snapshot照片
 為小火龍拍攝1張GO Snapshot照片
 為蓋諾賽克特拍攝 {0} 張照片
@@ -13514,6 +12849,84 @@ See you around, %PLAYERNAME%!
 我們找到夢幻了！太棒了！這會是我們一輩子都忘不了的回憶！
 你知道我為什麼會這麼喜歡研究寶可夢了吧！這整個世界都在等著我們去探索！一起出門去冒險吧！
 我們接下來可能還會要請你幫忙做一些特殊的調查記得保持聯絡！
+Hi there! It’s so nice to meet you, %PLAYERNAME%. My name is Professor Willow. I’m a Pokémon researcher, and I’ll be guiding you on your journey—and what a journey it shall be!
+You’ll also be helping me with my research along the way. So really, we’re more like colleagues!
+First things first—let’s go over how to catch Pokémon, make a Curveball Throw, and transfer Pokémon.
+You can catch Pokémon with Poké Balls.
+If you throw a Poké Ball at the center of the Pokémon and time your throw just right, you can even achieve a Nice, Great, or Excellent Throw!
+Curveball Throws are advanced throws that can help you grow even more as a Trainer. To make a Curveball Throw, spin the Poké Ball as you throw it.
+It’s OK if you don’t get it at first. That’s what practice is for!
+Once you’ve caught some Pokémon, you can keep them in your Pokémon storage or transfer them to my mobile lab in exchange for Candy.
+I’ll explain more about Candy later. For now, how about you go catch some Pokémon?
+Hello again, %PLAYERNAME%! How was catching Pokémon? Not too bad after the first few tries, right?
+Soon, you’ll be making Excellent Curveball Throws as easily as a Goldeen swims in water!
+Next, I’d like to talk to you about an item that I’ve created called Incense.
+It emits a fragrance that is irresistible to Pokémon, making them come to you, instead of having you go to them! Handy, eh?
+If you know you’re going to be out adventuring for a while, using Incense can really boost the amount of Pokémon you encounter. It’s one of my favorite items.
+Speaking of items, have you heard of Berries? There are several different types that Pokémon enjoy eating, and they each have different effects.
+For example, Nanab Berries calm Pokémon down, making it easier for you to aim a Poké Ball at them.
+How about you give these items a try? Go ahead and use an Incense to attract Pokémon. Then, use Nanab Berries to help you catch them!
+Hello again, %PLAYERNAME%! Great work using Incense and Berries to help you catch Pokémon.
+If you’re ever running low on Berries or Poké Balls, you can visit PokéStops to get more.
+Spinning the Photo Disc at a PokéStop can grant you those items as well as other goodies. You can also get Field Research tasks by doing so, which you can complete to encounter Pokémon or receive items.
+PokéStops are usually located at interesting places, like a monument, a public park, or a local café.
+They encourage Trainers to explore the world around them. Isn’t that exciting?
+Why don’t you go do some exploring? Who knows—you might discover some interesting places!
+Welcome back, Trainer! I just returned from a stroll myself. One thing I love about Field Research is how it always manages to take me to new and exciting locations.
+I hope you get to learn a bit more about the world around you as you seek out different PokéStops!
+And as fun as that will be, it’ll be even more fun if you bring along a Buddy Pokémon.
+Building strong relationships with your Pokémon is pivotal to being a good Trainer—and choosing a Pokémon to be your buddy is a great way to do just that!
+You can choose any Pokémon to be your Buddy Pokémon. It can even walk alongside you while you’re out exploring!
+To get your buddy to join you on your adventures, give it some treats, such as Berries.
+You can boost your friendship with your Buddy Pokémon even further by playing with it, taking photos of it, and battling with it.
+Eventually, your Buddy Pokémon can even become your Best Buddy and gain a Best Buddy ribbon! You’ll also earn additional Candy when you walk around with it.
+We’ll cover the importance of Candy later, but for now, how about you pick out a Buddy Pokémon and spend some time with it?
+Hey there, %PLAYERNAME%! Wow, your Buddy Pokémon’s looking pretty pleased! Seeing your bond grow stronger warms my heart.
+Keep taking care of your Pokémon to make your relationship flourish!
+I see you’ve earned some Candy while exploring with your buddy, too. It’s now time to learn how you can get more Candy, as well as what you can use it for.
+You can earn Candy by catching, transferring, and adventuring with Pokémon. You can then use that Candy to power up and evolve your Pokémon!
+You’ll also need Stardust, which you can earn by catching Pokémon, hatching Eggs, completing research, and opening Gifts.
+Evolving Pokémon helps you fill out your Pokédex and learn all about your Pokémon’s potential. There are even some Pokémon that evolve in unique ways.
+Be sure to check the Pokémon in your Pokémon storage to learn more about how to evolve them. You’ll also be able to power up your Pokémon there.
+If you need help figuring out which Pokémon to power up and evolve, you can ask your team leader to appraise your Pokémon.
+You should have some Candy and Stardust from completing previous research tasks. How about you use them to evolve and power up some Pokémon?
+Incredible work, %PLAYERNAME%! Your Pokémon look stronger than ever. Did you learn anything new while evolving and powering up your Pokémon?
+When I see a Pokémon discover new possibilities within itself, it makes me feel like I’m capable of anything, too!
+But as exciting as that all is, there’s just as much to learn about Pokémon in some of their earliest forms, too.
+Next, we’re going to discuss Eggs and Pokémon that can hatch from them.
+You can get 2 km, 5 km, and 10 km Eggs by spinning PokéStops, and you can get 7 km Eggs by opening Gifts from your friends.
+To hatch these Eggs, you’ll need to place them in an Incubator and travel the indicated distance.
+If you want to hatch Eggs even faster, Super Incubators decrease the distance required to hatch Eggs. Be sure to use these Incubators wisely.
+You’ll be able to get Eggs in other ways, too.
+For example, you can get Strange Eggs by defeating Team GO Rocket Leaders. As you go on your Trainer journey, you’ll have opportunities to take on Team GO Rocket and obtain these Eggs.
+You should have a handful of Eggs already. How about you get to hatching some?
+Look at all the Eggs you’ve hatched, %PLAYERNAME%! What an accomplishment.
+Being a dedicated Trainer takes quite a bit of work, wouldn’t you say? Even so, you can’t forget to have fun along the way.
+You’ll see in your Item Bag that you have a camera. You can use this camera to take snapshots of your Pokémon and commemorate all sorts of moments and memories.
+You can take a snapshot when encountering wild Pokémon, when viewing your Pokémon in your Pokémon storage, and when interacting with your buddy.
+How about you give it a shot? A...snapshot, that is. Haha!
+%PLAYERNAME%, I’ve been looking through the photos you took, and I have to say, I’m quite impressed!
+Have you considered moonlighting as a Pokémon photographer? You certainly have the chops for it!
+An important part of battling effectively is using attacks that are super effective against the Pokémon defending the Gym.
+Different Pokémon and their attacks have different types, and those types have weaknesses to other types. For example, Fire-type Pokémon are weak against Water-type attacks.
+I’d like for you to try using supereffective attacks when battling at a Gym. Try using Charged Attacks of different types to see which ones work best.
+Let’s see what you’re made of, %PLAYERNAME%! Get out there and battle in some Gyms.
+Do you recognize these structures? I’m sure you’ve come across them in your photographic forays.
+They’re called Gyms, and they’ll prove to be quite important in your Trainer journey.
+Gyms are always one of four colors, depending on which team controls them.
+Red Gyms are controlled by Team Valor, led by the headstrong Candela. Blue Gyms are controlled by Team Mystic, headed up by the analytical Blanche.
+Yellow Gyms are controlled by Team Instinct, whose proud leader is the incomparable Spark. He’s known for following his gut.
+Gray Gyms are neutral, meaning that no team controls them.
+If a Gym is controlled by your team, you can assign a Pokémon to defend it. Gyms can have up to six Pokémon defending them at a time.
+If a Gym is controlled by another team, you can battle to try to claim it. Find a Gym that’s controlled by a different team, and give battling a shot!
+How was your Gym experience, %PLAYERNAME%? A unique kind of workout, isn’t it? Haha!
+Anyhoo, did you notice that at some Gyms, you were faced with a single Pokémon instead of Gym defenders?
+Those Pokémon are called Raid Bosses, and you can challenge them in Raid Battles!
+In Raid Battles, you can battle alongside friends and other Trainers to challenge a Raid Boss.
+These Pokémon are formidable foes, indeed. Sometimes, you can find certain Pokémon only as Raid Bosses.
+Before entering a Raid Battle, make sure to power up your Pokémon! Stocking up on lots of Candy and Stardust will allow you to bring powerful teams to Raid Battles.
+Power up some Pokémon, then try taking on a raid. If you don’t succeed, you can team up with other Trainers.
+You’ll never know what you’re capable of until you try, right? 
 %PLAYERNAME%，你來得正好！我想請你幫我調查一件事。我最近去散步的時候，發現樹上有被刮過的痕跡。
 看來是海獺寶可夢水水獺用扇貝貝弄出來的……然後我就想到我最近的確有見到水水獺。
 你可以去幫我捉一些水水獺嗎？
@@ -13889,6 +13302,24 @@ GO火箭隊永遠不會停下腳步，所以我們得持續保持警戒。天知
 幽靈屬性寶可夢第一眼看上去很恐怖，但其實牠們都是充滿驚喜的寶可夢。我想胡帕一定也是一樣！
 我覺得胡帕的惡作劇一定有特別的意義。請你繼續去調查幽靈屬性的寶可夢！
 %PLAYERNAME%，辛苦你了！這次的調查就到此為止，下次再請你幫忙！
+嘿，%PLAYERNAME%你回來啦！你最近還好嗎？最近北半球的夜晚越來越長。也就是說……太陽會越來越閃亮！
+光明與黑暗，這是一個值得深究的問題。胡帕牠需要克服什麼樣的黑暗呢……？
+我聽說胡帕的力量被抑止住了，我不知道為什麼有這個必要。
+寶可夢這種生物總是充滿了謎團。不過研究者的工作就是在無限的黑暗中尋找那一道指引我們的光芒。
+對我來說，這片黑暗就是獲得新知的機會。在調查胡帕的過程中，我們也獲得了許多自省的機會。
+不過我的碎碎念就到此為止！%PLAYERNAME%，你應該出去享受一點陽光的。
+嘿，你回來啦。我正在思考胡帕的事……
+你難道不想見識一下胡帕真正的實力嗎？
+我看就讓你和胡帕先熟識彼此吧。等等再請你過來一趟。
+%PLAYERNAME%，很高興見到你！我希望我有好消息能告訴你，但GO火箭隊似乎又出現了！
+史帕克和坎迪拉出去巡邏的時候，聽到GO火箭隊手下在討論將下來的動向。他們說阪木老大下了命令，要他們去捕捉胡帕。
+我在想阪木老大他一定是躲在暗處觀察我們的調查，然後盯上了胡帕……
+我們必須阻止他們！！解放胡帕的力量非常強大，阪木一定會想拿牠去做壞事！
+%PLAYERNAME%，我想這就不需要我多說了！就算胡帕再強大，訓練家還是有責任要保護牠！
+我聽說阪木老大又把另一隻傳說的寶可夢變成暗影寶可夢了！我和隊長們會盡一切力量阻止他，但我們絕對需要你的力量！
+%PLAYERNAME%，你真是太厲害了！謝謝你幫大家打敗GO火箭隊，並救回落入阪木老大手中的傳說的寶可夢和胡帕！
+我認為胡帕一定能理解你對牠的好，也許你很快就能見到解放胡帕了？
+這次研究耗費了我們非常多的心力，不過看來我們終於能見到胡帕真正的力量了。你準備好了嗎？我們一起GO吧！
 對了，有件事要先提醒你。接下來的研究過程中，我可能會需要單獨去做一些事前調查。
 你放心去做你的調查吧。
 找到有關胡帕的消息之後，我會盡快通知你的。%PLAYERNAME%，萬事拜託囉。
@@ -13929,24 +13360,24 @@ GO火箭隊永遠不會停下腳步，所以我們得持續保持警戒。天知
 如果要解開胡帕的謎團，我們得趕快把幽靈屬性寶可夢的調查做完。
 感謝你的幫忙，看來一切都進行得很順利，而我們就只差最後一步了。
 請你繼續去調查幽靈屬性寶可夢好嗎？
-Hey there %PLAYERNAME%! Hope you’ve been well.
-Just last night, I saw some shining lights in a nearby park, but by the time I came upon the scene, the area was empty. 
-I get a sense that this might be some interesting behavior from an Electric-type Pokémon based on the way the light flickered, but I can’t be sure!
-Can I get your help investigating? Maybe these Pokémon are still around and we just need to do some exploring to find them!
-Well would you look at that: it was Shinx, the Flash Pokémon!
-This checks out with what I’ve heard about this cute little creature.
-Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.
-It was probably a group of Shinx communicating to one another that I saw!
-While you’re here with your Shinx, let’s do some more research into its Evolutions!
-Apparently strong electricity courses through the tips of its sharp claws. Sharp and electrifying—what an interesting creature! Let’s learn more about it, shall we?
-Well done, %PLAYERNAME%, you’ve got yourself a Luxio!
-Also known as the Spark Pokémon, they collectively generate powerful electricity from their claws by gathering their tails together.
-Fascinating! Shinx can use their tails to communicate with one another and Luxio can use their tails to collectively generate powerful electric attacks.
-I wonder what else we can learn from this family of Pokémon? There’s just one Evolution left! Let’s see what else there is to learn!
-Luxray—the Gleaming Eyes Pokémon! Apparently its eyes are gleaming because it can see through solid objects.
-It will instantly spot prey trying to hide behind walls, even if the walls are thick! What a powerful and interesting use of its electric ability.
-What an electrifying day! We’ve learned so much about Shinx and its Evolutions today, and there’s still so much to discover too.
-If you’ve still got a little spark in you, why not head out there and see what else there is to learn? Let’s GO!
+嘿，%PLAYERNAME%！你最近好嗎？
+我想請你去調查一下我昨天晚上在附近公園裡看見的光。我在公園裡看見無數閃爍的光芒，可是靠上前去看的時候，卻什麼都沒有。
+我的直覺告訴我，那一定跟電屬性寶可夢有關！
+可以請你去捉一些寶可夢來協助我做調查嗎？
+我就知道！原來是閃光寶可夢小貓怪啊！
+我想起小貓怪和牠的夥伴打信號的方式了。
+牠會揮動明亮發光的尾巴前端，來向夥伴打信號。
+昨天晚上也許是牠們聚在一起聊天也說不定
+我們順便調查一下牠們的進化形態吧。小貓怪會進化成勒克貓。
+勒克貓銳利的爪子尖端有強烈的電流流過。你不覺得這很驚人嗎？不僅爪子銳利，而且還有電流流過！
+%PLAYERNAME%，看來你找到勒克貓了！辛苦你了！
+電光寶可夢勒克貓會與夥伴尾巴牽尾巴，借用對方的電能，然後發出更強的電擊。
+小貓怪會用尾巴打信號，而勒克貓會牽起尾巴互相借電，你不覺得這有趣至極嗎？
+不知道這隻寶可夢和牠的進化形態還能做出什麼有趣的事情呢？讓我們繼續做調查吧。
+噢！是目光寶可夢倫琴貓！當牠的瞳孔閃現金色光芒時，就能發現躲藏在厚厚牆壁另一側的獵物。
+但是由於透視會消耗極大量的電能，因此牠會花很長的時間睡覺，藉此儲存能量。
+看來我也需要補充能量了……不過你看起來好像還好？那要繼續做點調查嗎？
+那就交給你囉，我們下次再見吧！
 嘿，%PLAYERNAME%！你來得正好！
 我剛散步回來。不是我要說，日光浴的效果真的很好。
 不過除了陽光和新鮮空氣之外，我還發現了一件新鮮事。
@@ -14147,6 +13578,7 @@ Now, let’s GO!
 讓1隻長鼻葉進化
 讓3隻橡實果進化
 獲得星星沙子x{0}
+START BATTLE!
 連續第 {0} 天！
 嘿，%PLAYERNAME%！你最近好嗎？
 夏天總是有很多活動，還有很多新寶可夢等著你去尋找呢！
@@ -14407,6 +13839,16 @@ Let’s GO！美錄坦 (9/9)
 幻之寶可夢現蹤！？ (6/8)
 幻之寶可夢現蹤！？ (7/8)
 幻之寶可夢現蹤！？ (8/8)
+Welcome to Pokémon GO!
+Welcome to Pokémon GO! (1/9)
+Welcome to Pokémon GO! (2/9)
+Welcome to Pokémon GO! (3/9)
+Welcome to Pokémon GO! (4/9)
+Welcome to Pokémon GO! (5/9)
+Welcome to Pokémon GO! (6/9)
+Welcome to Pokémon GO! (7/9)
+Welcome to Pokémon GO! (8/9)
+Welcome to Pokémon GO! (9/9)
 從扇貝貝到足刃
 從扇貝貝到足刃 (1/4)
 從扇貝貝到足刃 (2/4)
@@ -14513,11 +13955,11 @@ Let’s GO！美錄坦 (9/9)
 不被理解的光怪陸離 (8/16)
 不被理解的光怪陸離 (9/16)
 不被理解的光怪陸離 (10/16)
-Flash, Spark, and Gleam
-Flash, Spark, and Gleam (1/4)
-Flash, Spark, and Gleam (2/4)
-Flash, Spark, and Gleam (3/4)
-Flash, Spark, and Gleam (4/4)
+電光閃光閃亮亮
+電光閃光閃亮亮 (1/4)
+電光閃光閃亮亮 (2/4)
+電光閃光閃亮亮 (3/4)
+電光閃光閃亮亮 (4/4)
 藤藤蛇的日光浴
 藤藤蛇的日光浴 (1/4)
 藤藤蛇的日光浴 (2/4)
@@ -14536,14 +13978,14 @@ Special Weekend (2/4)
 Special Weekend (3/4)
 Special Weekend (4/4)
 Special Weekend (墨西哥7-11)
-
+Special Weekend（全家便利商店）
 Special Weekend (Grubhub)
-
-
+Special Weekend(INFORICH)
+Special Weekend（伊藤園）
 Special Weekend (松本清)
 Special Weekend (SoftBank & 日本7-11)
-
-
+Special Weekend (SoftBank)
+Special Weekend(Tully's)
 Special Weekend (Verizon)
 Special Weekend (吉野家)
 橡實寶可夢的小秘密
@@ -14704,6 +14146,7 @@ Wayfarer bonus：捕捉 {0} 隻寶可夢
 在等級3以上的團體戰中獲勝 {0} 次
 在等級3以上的團體戰中獲勝1次
 和夥伴在1場團體戰中獲勝
+Win a one-star raid
 用CP低於1500的寶可夢在團體戰中獲勝 {0} 次
 用CP低於1,500的寶可夢在團體戰中獲勝
 用CP低於1,500的寶可夢在3星團體戰中獲勝 {0} 次
@@ -16702,6 +16145,9 @@ Nintendo Switch
 https://tw.portal-pokemon.com/special/pika_vee/tc/howtoplay/
 重新傳送
 疑難排解
+最高更新頻率
+解鎖此裝置的最高更新頻率， 以提升畫面更新率。
+已解鎖最高更新頻率
 震動
 Show Gifts from Sponsors
 請依序點擊「主選單」＞「設定」＞「Pokémon GO Plus」，或點擊地圖上的圖示進行設定。
@@ -16865,7 +16311,7 @@ Not sharing your online status
 更多多邊獸出現在地圖上
 更多毒薔薇出現在地圖上
 更多橡實果出現在地圖上
-More Shinx are appearing in the wild
+更多小貓怪出現在地圖上
 更多藤藤蛇出現在地圖上
 更多青綿鳥出現在地圖上
 更多暖暖豬出現在地圖上
@@ -16965,6 +16411,10 @@ sponsored by {0}
 帳號停權通知系統偵測到違反服務條款的行為，故已將此帳號停權。帳號停權狀態約會持續30天，若系統持續偵測到違反服務條款的行為，此帳號將會被永久停權，敬請注意。
 連接至Nintendo Switch時，請勿關閉智慧型裝置的電源或讓裝置進入睡眠模式
 尋找寶可夢和寶可補給站時需使用位置資訊。
+所有訓練家必須同心協力，一起完成這項挑戰！
+地區內所有訓練家必須同心協力，一起完成這項挑戰！
+全球大挑戰
+地區挑戰
 顏色
 名稱
 新增標籤
@@ -17035,7 +16485,7 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 特殊調查「解碼多邊獸」的入場券在商店中上架
 特殊調查入場券已在商店中上架
 特殊調查「橡實寶可夢的小祕密」的入場券在商店中上架
-Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
+特殊調查「電光閃光閃亮亮」的入場券在商店中上架
 特殊調查入場券將在商店中上架
 特殊調查「綿翼小鳥」的入場券在商店中上架
 特殊調查「火烤樹果」的入場券在商店中上架
@@ -17106,6 +16556,14 @@ Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
 餵道館的寶可夢吃金色蔓莓果，讓牠們的體力完全回復。
 通常團體戰的參賽者數會在道館上的蛋剛孵化的那一瞬間衝上高峰
 列出你的對戰小組陣容，為團體戰做好準備
+{0}，你好！我正在開發能吸引野生寶可夢出現的誘餌模組。
+它將能幫你捕捉到更多寶可夢！
+附近有寶可補給站嗎？試著把誘餌模組插上去，看看會發生什麼事吧！
+誘餌模組會將野生寶可夢吸引至寶可補給站，效果可持續30分鐘。附近的玩家也可獲得相同效果。
+解鎖誘餌模組
+你可以把誘餌模組插在這裡，它的香氣會把附近的野生寶可夢誘出來。
+不過你得先累積一些訓練家經驗，等到你的訓練家等級升上 {0} 再來試試看吧。
+點擊誘餌模組，把它插進空著的插槽吧！
 新增標籤
 看來你手上有瀕死的寶可夢？用傷藥或活力碎片來恢復牠們的HP吧。
 你的道具都放在包包裡。{0}，請你用這些道具好好照顧寶可夢們。
@@ -17127,6 +16585,7 @@ Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
 團體戰大廳
 團體戰入場券
 什麼是團體戰？
+餵寶可夢吃蔓莓果或金色蔓莓果，牠就會變得更容易捕捉。
 活力碎片可以讓一隻瀕死的寶可夢恢復一半的HP。
 用活力碎片來恢復瀕死寶可夢的HP。
 點擊瀕死的寶可夢，協助牠恢復HP。
@@ -17157,7 +16616,7 @@ Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
 你可以和附近的朋友們交換寶可夢。請自訓練家頭像開啟朋友選單，選取朋友後點擊「交換」。
 交換寶可夢
 注意周遭環境
-https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=scanning-a-pokestop
 已取消掃描
 進行掃描時請務必注意周遭狀況，小心安全。
 請注意安全
@@ -17172,7 +16631,7 @@ https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning
 {0}{1}前
 若要為此寶可補給站追加照片，請再走近一點
 若要掃描此寶可補給站，請再走近一點
-開啟
+OK
 進行掃描時請務必周遭環境，小心安全。
 <b>感謝你的幫忙！</b>你願意告訴我們更多有關這個寶可補給站或道館的資訊嗎？
 {0:0}%
@@ -17371,6 +16830,7 @@ Lv. {0}
 Match {0}
 傳送寶可夢時的糖果加倍
 傳送寶可夢時的糖果增為3倍
+傳送寶可夢時可獲得的糖果XL將提升4倍
 不能交換超級進化的寶可夢
 傳送寶可夢
 垃圾蓑衣
@@ -17487,8 +16947,8 @@ OK
 上傳
 稍後上傳
 當你做好上傳準備時，請依序點擊精靈球＞設定＞玩家推薦
-正在上傳（共 {0} MB）
-上傳中
+正在上傳（{0}）
+上傳中 ({0})
 正在等待上傳
 接下來將上傳 {0} MB的檔案。若未連接至Wi-Fi，將使用行動數據上傳。
 稍後上傳
@@ -17499,12 +16959,12 @@ OK
 是
 取消
 刪除
-寶可補給站圖片（{0}）
+照片：{0}
 編輯投稿
 上傳錯誤 ({0})
 上傳錯誤 ({0})
 已上傳 ({0})
-上傳中 ({0})
+上傳中
 上傳中 ({0})
 寶可補給站申請：{0}
 重試
@@ -17524,9 +16984,9 @@ AR掃描：{0}
 編輯
 現在沒有任何等待上傳的檔案
 現在有 {0} 個檔案在等待上傳
-現在有 {0} 個檔案在等待上傳
+還有 {0} MB尚未完成上傳
 全部上傳（{0} MB）
-正在上傳寶可補給站投稿
+Uploading Pokestop Contributions
 關於位置點數
 上傳失敗
 無法上傳 {0} 個檔案
@@ -17536,7 +16996,7 @@ OK
 現在就上傳
 成功上傳 {0} 個檔案！
 已完成上傳！
-感謝你的編輯
+感謝你的編輯！
 使用入場券
 參加團體戰（團體戰開打時，入場券才會被收走）
 使用入場券
@@ -17659,6 +17119,7 @@ OK
 請確認目前所在地的氣象情報
 {0} 的 {1} 獲得天氣優勢！
 {0} 的 {1} 和 {2} 獲得天氣優勢！
+{0} 的 {1}、 {2} 和 {3} 獲得天氣優勢！
 優勢屬性
 這些屬性的寶可夢能力會更強，出現機率也會變高。捕捉到這些屬性的寶可夢時，將可獲得更多的星星沙子。
 請小心安全！

@@ -308,6 +308,7 @@ Eyes
 Goh-Style Backpack
 Backpacker Pack
 Bow-Tie Bag
+Dedenne Bag
 Urban Pack
 Egg Backpack
 Egg Backpack
@@ -394,10 +395,12 @@ Bidoof Hat
 N-Style Cap
 Newsy Cap
 Cubone Cap
+Dedenne Knit Cap
 Ball Cap
 Sports Cap
 Delibird Earmuffs
 Detective Pikachu Cap
+Sinnoh Hat
 Drifloon Cap
 Eevee Cap
 Elesa-Style Headphones
@@ -474,6 +477,7 @@ Backpacker Capris
 Battle Girl Shorts
 N-Style Pants
 Sprint Suit
+Sinnoh Skirt
 LeafGreen Skirt
 Wraparound Skirt
 Giovanni Pants
@@ -518,12 +522,15 @@ Battle Girl Tank Top
 Fitted Shirt
 N-Style Top
 Celebi Shirt
+Chimchar Costume
 Stantler Sweater
-Día de Muertos T-Shirt
+Día de Muertos T-shirt
 Classic Longsleeve
 Delibird Sweater
 Denim Jacket
 Detective Pikachu T-shirt
+Festival of Lights T-shirt
+Sinnoh Top Set
 Drifblim Shirt
 Surf Blue Shirt
 Elesa-Style Outfit
@@ -579,6 +586,7 @@ Pokémon Shirts Snorlax
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
+Piplup Costume
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
@@ -592,6 +600,7 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+「＝」 Sweatshirt
 Pumpkaboo Top
 Regice Jacket
 Regirock Jacket
@@ -636,6 +645,7 @@ Spark-Style Jacket
 Togepi Pattern Hoodie
 Active Tee
 Pikachu Tee
+Turtwig Costume
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -652,8 +662,10 @@ Backpacker Footwear
 Battle Girl Shoes
 N-Style Shoes
 Level 49 Boots
+Dedenne Sneakers
 Running Shoes
 Delibird Boots
+Sinnoh Boots
 Elesa-Style Shoes
 No Footwear
 LeafGreen Shoes
@@ -717,7 +729,9 @@ Unlock tier {0} {1} medal
 Unlock at Level {0}
 Goh-Style Backpack
 Backpacker Pack
+Dedenne Bag
 Trainer Backpack
+Sinnoh Backpack
 Egg Backpack
 Egg Backpack
 Egg Backpack
@@ -797,9 +811,11 @@ Bidoof Hat
 N-Style Cap
 Newsy Cap
 Cubone Cap
+Dedenne Knit Cap
 Trainer Visor
 Delibird Earmuffs
 Detective Pikachu Cap
+Sinnoh Hat
 Drifloon Cap
 Eevee Cap
 Elesa-Style Headphones
@@ -873,6 +889,7 @@ Backpacker Capris
 Brock Pants
 N-Style Pants
 Trainer Shorts
+Sinnoh Pants
 Elesa-Style Pants
 Fisher Pants
 FireRed Pants
@@ -917,6 +934,7 @@ Business Blazer
 Brock Shirt
 N-Style Top
 Celebi Shirt
+Chimchar Costume
 Stantler Sweater
 Día de Muertos T-Shirt
 Sash Hoodie
@@ -926,6 +944,8 @@ Point Hoodie
 Delibird Sweater
 Denim Jacket
 Detective Pikachu T-shirt
+Festival of Lights T-shirt
+Sinnoh Top Set
 Drifblim Shirt
 Surf Blue Shirt
 Elesa-Style Top
@@ -984,6 +1004,7 @@ Pokémon Shirts Snorlax
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
+Piplup Costume
 Bulbasaur Hoodie
 Charmander Hoodie
 Squirtle Hoodie
@@ -997,6 +1018,7 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+「＝」 Sweatshirt
 Pumpkaboo Top
 Regice Jacket
 Regirock Jacket
@@ -1039,6 +1061,7 @@ Team Instinct Tee
 Team Mystic Tee
 Team Valor Tee
 The Thirty
+Turtwig Costume
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -1055,8 +1078,10 @@ Backpacker Footwear
 Brock Shoes
 N-Style Shoes
 Level 49 Boots
+Dedenne Sneakers
 Running Shoes
 Delibird Boots
+Sinnoh Shoes
 Elesa-Style Shoes
 No Footwear
 Fisher Boots
@@ -1484,22 +1509,28 @@ Philadelphia, October 31, 2021
 Pokémon GO Safari Zone—Early Access
 Philadelphia, October 31, 2021
 Pokémon GO Safari Zone
+Thursday, November 11, 2021
 St. Louis, November 11, 2021
 Pokémon GO Safari Zone—Early Access
 St. Louis, November 11, 2021
 Pokémon GO Safari Zone
+Friday, November 12, 2021
 St. Louis, November 12, 2021
 Pokémon GO Safari Zone—Early Access
 St. Louis, November 12, 2021
 Pokémon GO Safari Zone
+Saturday, November 13, 2021
 St. Louis, November 13, 2021
 Pokémon GO Safari Zone—Early Access
 St. Louis, November 13, 2021
 Pokémon GO Safari Zone
+Sunday, November 14, 2021
 St. Louis, November 14, 2021
 Pokémon GO Safari Zone—Early Access
 St. Louis, November 14, 2021
 Pokémon GO Safari Zone
+9 a.m. – 5 p.m.
+11 a.m. – 5 p.m.
 Sentosa, Apr 18, 2019
 Pokémon GO Safari Zone
 Sentosa, Apr 19, 2019
@@ -2418,6 +2449,8 @@ Are you sure you want to give up?
 Go, {0}!
 Go, {0}!
 Battle Showdown
+Pokémon BD & SP Event Challenge
+Pokémon BD & SP Event
 You and {0} are now friends.
 Daily bonus Field Research tasks rewarding Beedrill Mega Energy
 Field Research rewarding Beedrill Mega Energy
@@ -2457,6 +2490,7 @@ There are no hideouts here, but my reports do confirm that there are more out th
 No signals... I see. Perhaps their activities have ceased for the day. Let’s try again tomorrow.
 Let’s wait until morning. I doubt they’ll show themselves again for a while.
 BONUS MILESTONE REWARDS
++100 Catch Stardust
 +100 Catch XP
 +200 Catch Stardust
 +200 Catch XP
@@ -2792,10 +2826,10 @@ This option cannot be used right now.
 Do you really want to power up {0}?
 Powering up this Pokémon will exceed the maximum CP for the {0}.
 Daily Free Box
-Ultra Box
+Cyber Week - Ultra Box
 Great Box
 GO Rocket Box
-Special Box
+Cyber Week - Special Box
 New Trainer Box
 Beginner Box
 Starter Box
@@ -2808,7 +2842,7 @@ Great Box
 Item Box (Beta)
 Winter Box
 Ultra Box
-Adventure Box
+Cyber Week - Adventure Box
 Winter Box
 Community Day Box
 Event Box
@@ -2819,7 +2853,7 @@ Creepy Crate
 Anniversary Box
 Silver Box
 Bronze Box
-Adventure Box
+Cyber Week - Adventure Box
 Great Box
 Special Box
 Please accept the following items and keep training!
@@ -2847,731 +2881,6 @@ Old Sea Map (1/4)
 Old Sea Map (2/4)
 Old Sea Map (3/4)
 Old Sea Map (4/4)
-Ad Agency
-Afghan Restaurant
-African Restaurant
-Air Traffic Control Tower
-Airplane
-Airport
-American Restaurant
-Amphitheater
-Amusement Park
-Antique Store
-Apartment/Condo
-Appliance Store
-Apres Ski Bar
-Aquarium
-Arboretum
-Arcade
-Arch
-Argentinian Restaurant
-Armenian Restaurant
-Art
-Art Dealer
-Art Exhibition
-Art Gallery
-Art Museum
-Art Studio
-Art Supply Store
-Asian Fusion Restaurant
-Athletic Court
-Athletic Field
-Athletic Rink
-Auditorium
-Australian Restaurant
-Austrian Restaurant
-Auto Garage
-Auto Rental/Sales
-Auto Repair
-Baby Store
-Badminton Court
-Bagel Shop
-Bakery
-Balinese Restaurant
-Bandstand
-Bangladeshi Restaurant
-Bank
-Bar
-Barn
-Barracks
-Baseball Field
-Baseball Stadium
-Basketball Court
-Basketball Stadium
-Basque Restaurant
-Bathing Areas
-Bato Kannon
-Bavarian Restaurant
-BBQ Place
-Beach
-Beach Bar
-Beauty Salon
-Beauty Supply
-Bed & Breakfast
-Beehive
-Beer Bar
-Beer Garden
-Beijing Restaurant
-Belarusian Restaurant
-Belgian Restaurant
-Bell
-Bench
-Bengali Restaurant
-Bicycle
-Bicycle Lane
-Bicycle Rack
-Bicycle Rental
-Bicycle Shop
-Big-Box
-Biking Trail
-Billboard
-Birdhouse
-Bistro
-Boat Launch
-Boathouse
-Bollard
-Bookstore
-Borek Place
-Bosnian Restaurant
-Botanero
-Botanical Garden
-Bougatsa Shop
-Boundary
-Bowling Alley
-Brasserie
-Bratwurst Place
-Brazilian Restaurant
-Brewery/Distillery
-Bridge
-Buffet
-Building
-Bulgarian Restaurant
-Bunker
-Burger Place
-Burmese Restaurant
-Burrito Place
-Bus Terminal
-Business Campus
-Bust
-Butcher
-Cabaret
-Cabin/Lodge
-Cafeteria
-Café/Coffee Place
-Cajun/Creole Restaurant
-Cambodian Restaurant
-Campsite
-Canal
-Candy Store
-Cantonese Restaurant
-Car
-Car Charging Station
-Car Wash
-Caribbean Restaurant
-Carving
-Castle
-Catalan Restaurant
-Cave
-Cell Tower
-Cemetery
-Cemevi
-Chaat Place
-Chair
-Chalet
-Chapel
-Chilean Restaurant
-Chinese Restaurant
-Chocolate Shop
-Church
-Churrascaria
-Cigkofte Place
-Cinema
-Circus
-City Hall
-Climbing Spot
-Clock
-Clock Tower
-Clothing Store
-Cocktail Bar
-Coffee Roaster
-College
-Colombian Restaurant
-Colosseum
-Comedy Club
-Comic Book Store
-Commercial
-Community Center
-Community Garden
-Community Park
-Compass
-Confectionary & Nuts
-Consignment Shop
-Consulate
-Convention Center
-Copy/Print Center
-Corsican Restaurant
-Costa Rican Restaurant
-Costume Store
-Courthouse
-Crater
-Creperie
-Cretan Restaurant
-Cricket Pitch
-Cropland
-Cross
-Cuban Restaurant
-Cultural Center
-Cupcake Shop
-Curling Ice
-Currywurst Place
-Customs Office
-Czech Restaurant
-Dairy Store
-Dam
-Dance Studio
-Danish Restaurant
-Data Center
-Decorative Fountain
-Decorative Seating
-Deli/Bodega
-Dentist's Office
-Desert
-Designed Manhole
-Dessert Shop
-Dim Sum Restaurant
-Diner
-Directional Sign
-Dive Bar
-Dizi Place
-Do-Jo
-Do-So-Jin
-Doctor’s Office
-Dog Park
-Donburi Restaurant
-Doner Kebab Restaurant
-Donut Shop
-Door
-Doorway
-Dosa Place
-Drawing
-Drinking Fountain
-Dumpling Restaurant
-Dutch Restaurant
-E-charging Station
-Education
-Egyptian Restaurant
-Electrical Transformer Box
-Electronics Store
-Embassy
-Empanada Restaurant
-English Restaurant
-Entertainment
-Ethiopian Restaurant
-Event Hall
-Event Space
-Exercise Sign
-Fabric/Textile Shop
-Factory
-Falafel Restaurant
-Farmers Market
-Farmhouse
-Farmland
-Fast Food Restaurant
-Ferry Terminal
-Festival
-Filipino Restaurant
-Film Studio
-Financial Services
-Fire Hydrant
-Fire Temple
-Fish & Chips Shop
-Fish Market
-Fish Taverna
-Fishing Spot
-Fitness Station
-Fitness Studio
-Flagpole
-Flea Market
-Floral Shop
-Flower
-Food Court
-Food Processing Plant
-Food Retail
-Food Stand
-Food Truck
-Football Field
-Football Stadium
-Footbridge
-Forest
-Fortress
-Foundry
-French Restaurant
-Fried Chicken Place
-Friterie
-Friuli Restaurant
-Frozen Yogurt Shop
-Fujian Restaurant
-Furniture Store
-Gallery
-Gaming Store
-Garage
-Garden
-Garden Store
-Gastropub
-Gateway
-Gazebo
-Geodetic Sign
-German Restaurant
-Geyser
-Gift Store
-Glacier
-Go Kart Racing
-Golf Course
-Government Building
-Gozleme Place
-Graffiti
-Grassland
-Gravestone
-Greek Restaurant
-Greenhouse
-Guizhou Restaurant
-Gujarati Restaurant
-Gurdwara
-Gym
-Hakka Restaurant
-Halal Restaurant
-Hangar
-Harbor/Marina
-Hardware
-Hawaiian Restaurant
-Health and Medicine
-Health Food Store
-Herbs & Spices Store
-Hiking Trail
-Himalayan Restaurant
-Historic Building
-Historic Site
-Historic Structure
-Historical Sign
-History Museum
-Hobby Store
-Hockey Field
-Hockey Rink
-Hokora
-Home Improvement
-Hong Kongese Restaurant
-Hookah Bar
-Hospital
-Hot Dog Place
-Hot Springs
-Hotel
-Hotel Bar
-Hotpot Restaurant
-Hungarian Restaurant
-Ice Cream Shop
-Ice Rink
-Iconic Architecture
-Igloo
-Imambargah
-Indian Chinese Restaurant
-Indian Restaurant
-Indian Sweet Shop
-Indonesian Meatball Place
-Indonesian Restaurant
-Indoor Recreation
-Indoor Sports
-Industrial Site
-Information Center
-Informational Sign
-Inn
-Internet Café
-Iraqi Restaurant
-Irish Pub
-Irish Restaurant
-Israeli Restaurant
-Italian Restaurant
-Izakaya
-Jamaican Restaurant
-Japanese Curry Restaurant
-Japanese Restaurant
-Jazz Club
-Jewelry Store
-Jewish Restaurant
-Jizo
-Juice Bar
-Karaoke Bar
-Kayak Rental
-Kebab Restaurant
-Kerala Restaurant
-Kiosk
-Ko-Shinto Shrine
-Kofte Place
-Korean Restaurant
-Kosher Restaurant
-Kuruyemişçi
-Lake
-Landfill
-Landform
-Landmark Building
-Landmark Item
-Landscape
-Latin American Restaurant
-Laundry/Dry Cleaning
-Lebanese Restaurant
-Legal Office
-LGBTQ+ Bar
-Library
-Lighthouse
-Lighting
-Lighting Art
-Little Free Library
-Locksmith
-Lookout
-Luggage Store
-Machinery Manufacturer
-Mailbox
-Malay Restaurant
-Malaysian Restaurant
-Map
-Marina
-Market
-Materials Manufacturer
-Mediterranean Restaurant
-Memorial Bench
-Memorial Site
-Mexican Restaurant
-Meze Restaurant
-Middle Eastern Restaurant
-Milepost
-Mill
-Mine
-Mithraeum
-Monastery
-Mongolian Restaurant
-Monument Building
-Monument Object
-Moroccan Restaurant
-Mosaic Tile
-Mosque
-Motel
-Mountain
-Mountain Hut
-Mountain Peak
-Mural
-Museum
-Music Store
-Music Studio
-Music Venue
-Musical Instrument
-Nabe Restaurant
-National Forest
-National Park
-Nature Preserve
-Nature Sign
-Navigational Sign
-Nepalese Restaurant
-Newspaper Box
-Newsstand
-Nicaraguan Restaurant
-Noodle House
-North Indian Restaurant
-Northern Brazilian Restaurant
-Norwegian Restaurant
-Notary Office
-Nutritionist's Office
-Obelisk
-Object
-Observatory
-Ocean
-Office
-Office Supply Store
-Office Tower
-Okonomiyaki Restaurant
-Open Market
-Open Space
-Opera House
-Organic Food Store
-Other
-Outdoor Event Space
-Outdoor Recreation
-Outdoor Sports
-Outhouse
-Outlet Mall
-Ouzerie
-Paella Restaurant
-Pagoda
-Paintball Field
-Painting
-Pakistani Restaurant
-Palace
-Palatine Restaurant
-Palestinian Restaurant
-Park
-Parliament
-Parsi Restaurant
-Pastelaria
-Pastry Shop
-Pavement Tile Art
-Pavillion
-Pawn Shop
-Peking Duck Restaurant
-Performance Hall
-Pergola
-Persian Restaurant
-Personal
-Peruvian Restaurant
-Pet Supplies
-Pharmacy
-Photograph
-Photography Studio
-Physical Therapy Facility
-Piadineria
-Piano Bar
-Picnic Area
-Picnic Table
-Pide Place
-Pie Shop
-Piedmontese Restaurant
-Pier
-Pilav Place
-Pizza Place
-Place Name Sign
-Plains
-Planetarium
-Planter
-Plaque
-Plastic-Free Shop
-Playground Area
-Playground Set
-Plumbing
-Poke Place
-Polish Restaurant
-Political Office
-Polynesian Restaurant
-Pond
-Portuguese Restaurant
-Post Office
-Poster
-Poutine Place
-Power Plant
-Prayer Rooms
-Pub
-Puerto Rican Restaurant
-Punjabi Restaurant
-Pyramid
-Race Track
-Rafting Spots
-Ramen Restaurant
-Real Estate Office
-Recreation Center
-Religious Building
-Religious School
-Religious Sculpture
-Religious Wall Art
-Research Park
-Reservoir
-Residential Building
-Resort
-Rest Area
-Restaurant
-Retail
-River
-Road
-Rock
-Rock Climbing Spot
-Rock Garden
-Roller Rink
-Romanian Restaurant
-Row House
-Rugby Field
-Rugby Stadium
-Ruins
-Russian Restaurant
-Sake Bar
-Salad Place
-Salvadoran Restaurant
-Sandwich Place
-Sardinian Restaurant
-Sauna
-Sausage Shop
-Scandinavian Restaurant
-Scenic Lookout
-Schnitzel Restaurant
-Science Center
-Science Sign
-Scooter Charging Station
-Scottish Restaurant
-Sculpture
-Sea
-Seafood Restaurant
-Seasonal Market
-Shabu-Shabu Restaurant
-Shanghai Restaurant
-Shawarma Place
-Shed
-Ship
-Shoe Store
-Shopping Mall
-Shrine
-Sicilian Restaurant
-Sidewalk
-Sign
-Silo
-Skate Park
-Skating Rink
-Ski Area
-Ski Chairlifts
-Ski Hill
-Ski Lodge
-Skiing Spot
-Skydiving Drop Zone
-Slide
-Slovak Restaurant
-Smoothie Shop
-Snack Place
-Snow and Ice
-Soba Restaurant
-Soccer Field
-Soccer Stadium
-Soup Place
-South American Restaurant
-South Indian Restaurant
-Southern/Soul Food Restaurant
-Southern Brazilian Restaurant
-Souvlaki Shop
-Spa
-Spanish Restaurant
-Speakeasy
-Specialty School
-Sport Club
-Sporting Goods
-Sports Arena
-Sports Bar
-Sports Track
-Sports Training
-Squash Court
-Sri Lankan Restaurant
-Stable
-Stadium
-Stained Glass
-State Forest
-State Park
-Statue
-Steakhouse
-Sticker
-Stock Exchange
-Storage Building
-Storm Cellar
-Stream
-Street Food
-Street Furniture
-Street Lamp
-Street Sign
-Strip Mall
-Structure
-Subway Entrance
-Sukiyaki Restaurant
-Sundanese Restaurant
-Supermarket
-Surf Spots
-Sushi Restaurant
-Suspended Art
-Swedish Restaurant
-Swimming Pool
-Swiss Restaurant
-Synagogue
-Syrian Restaurant
-Szechuan Restaurant
-Söğüş Place
-Tabbakhi Place
-Taco Place
-Tailor
-Taiwanese Restaurant
-Takoyaki Place
-Tapas Restaurant
-Tattoo Studio
-Taverna
-Tax Office
-Taxi Stand
-Telephone Booth
-Temple
-Tempura Restaurant
-Tennis Court
-Tent
-Tex-Mex Restaurant
-Textile Shop
-Thai Restaurant
-Theater
-Tibetan Restaurant
-Ticket Agency
-Ticket Booth
-Tiki Bar
-Tonkatsu Restaurant
-Torii
-Totem Pole
-Tower
-Track Stadium
-Trade School
-Trail Marker
-Train Station
-Transit Stop
-Transportation
-Trattoria/Osteria
-Travel Agency
-Tree
-Trolley
-Truck
-Truck Stop
-Tunnel
-Turkish Coffeehouse
-Turkish Restaurant
-Turşucu Spot
-Tuscan Restaurant
-Udon Restaurant
-Ukrainian Restaurant
-University
-Urban Plaza
-Utility
-Utility Box
-Valley
-Vegan Restaurant
-Vegan Store
-Vegetarian Restaurant
-Vending Machine
-Venezuelan Restaurant
-Veterinarian
-Vietnamese Restaurant
-Vineyard
-Volcano
-Volleyball Court
-Voting Booth
-Wall
-Warehouse
-Warning Sign
-Waste Bin
-Wastewater Plant
-Watch Store
-Water Fountain
-Water Pump
-Water Tower
-Waterbody
-Waterfall
-Waterfront
-Wedding Shop
-Welcome Sign
-Well
-Well House
-Wetland
-Whisky Bar
-Windmill
-Window
-Wine Bar
-Winery
-Wood Carving
-Yakitori Restaurant
-Yemeni Restaurant
-Zoo
-Çöp Şiş Place
 Catch a Pokémon
 2× Catch Candy
 3× Catch Candy
@@ -4323,7 +3632,7 @@ OK
 YES
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Disable this option to not receive Sponsored Gifts when available.
+During your visits to Gyms and PokeStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Disable this option to not receive Sponsored Gifts when available. <b>Please restart the app to save your choice. Tap <a href="https://niantic.helpshift.com/a/pokemon-go/?p=all&s=in-game-locations&f=sponsored-gifts">here</a> to learn more about the Sponsored Gifts</b>
 Disable Sponsored Gifts
 You can't assign your Buddy Pokémon to defend a Gym.
 Legendary Pokémon cannot be left at Gyms.
@@ -4376,7 +3685,7 @@ Create tags by tapping +
 No Tags
 Enable sharing info on recently caught Pokémon with friends
 You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokéStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Enable this option to receive Sponsored Gifts when available.
+During your visits to Gyms and PokeStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Enable this option to not receive Sponsored Gifts when available. <b>Tap <a href="https://niantic.helpshift.com/a/pokemon-go/?p=all&s=in-game-locations&f=sponsored-gifts">here</a> to learn more about the Sponsored Gifts</b>
 Enable Sponsored Gifts
 You already used a Berry.
 Oh?
@@ -4392,13 +3701,13 @@ You're out of Berries.
 Out of Poké Balls!
 Your Pokémon storage is full.
 The Pokémon broke free!
-Are you sure you don't want to rescue the Shadow Pokémon?
-You will still be able to encounter the Raid Boss by tapping on the Gym, but only if the Raid is still active.
-Are you sure you want to leave the Raid Boss encounter?
+Are you sure you don’t want to rescue the Shadow Pokémon?
+You’ll still be able to encounter this Pokémon by tapping on the Gym if the raid is still active.
+Are you sure you want to leave this encounter?
 This Pokémon is too far away.
 Oh no! The wild {0} fled.
-By leaving this encounter, you will not be able to catch your Pokémon reward.
-You can't undo this action once you leave the encounter.
+If you leave this encounter, you won’t be able to catch this Pokémon later.
+You can’t undo this action once you leave the encounter.
 {0} was caught!
 Bonus Challenge! Catch {0}!
 {0} Evolution Shard received!
@@ -4856,6 +4165,8 @@ Send Friend Request
 Send a Friend Request to {0}?
 Suggestions for You
 +{0} XP
+Festival of Lights
+More Blitzle and Dedenne are appearing in the wild
 Event-themed Field Research
 Thank you for field-testing Pokémon GO!We will be back soon!
 Type Surge: Fighting
@@ -4967,6 +4278,7 @@ EGGS
 REWARDS
 Receive up to five Raid Passes at no cost by spinning Photo Discs at Gyms
 Raid Day box with Remote Raid Passes available in the shop
+Lure Module Box
 Flying Cup available in the GO Battle League
 Flying Cup
 Type Surge: Flying
@@ -5277,6 +4589,7 @@ ONLINE
 You can’t sort friends by online status if you haven’t opted in to Niantic Online.
 You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
+FULL
 Galarian Form
 2× Stardust for completing a battle set in the GO Battle League
 2× Stardust for ranking up in the GO Battle League
@@ -5312,7 +4625,7 @@ A ticket to access the From Scalchops to Seamitars Special Research on September
 From Scalchops to Seamitars Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
-A ticket to access the "Flash, Spark, and Gleam" Special Research from November 21, 2021, at 11:00 a.m. to November 21, 2021, at 5:00 p.m. local time, wherever you are. Details can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Flash, Spark, and Gleam Special Research on November 21, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Flash, Spark, and Gleam Ticket
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Snivy in the Sunshine Ticket
@@ -5353,6 +4666,7 @@ kg
 km
 LEAVE OUT
 m
+Month
 More
 Network Error
 No
@@ -5372,6 +4686,7 @@ HP
 TOTAL
 TRANSFER
 VS
+Week
 XL
 XP
 XS
@@ -6187,6 +5502,7 @@ Are you sure you want to charge the GO Transporter?
 Charge Now
 Hoopa’s Arrival Collection Challenge
 h
+{0} hr.
 {0}H {1}M
 Styles
 Bundles
@@ -6316,10 +5632,10 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on October 9, 2021, wherever you are.
+A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6335,8 +5651,8 @@ A ticket to access Special Research on September 19, 2021, from 11:00 a.m. to 5:
 This ticket will automatically activate to give you access to Special Research on September 19, 2021, wherever you are.
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
-A ticket to access a special research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to a special research on November 21, wherever you are in the world.
+A ticket to access Special Research on November 21, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on November 21, 2021, wherever you are.
 A ticket to access Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on April 11, 2021, wherever you are.
 A ticket to access Special Research on May 15, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -7480,7 +6796,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-12-03T09:12:14.406484at SHA d9facbeb06b209296504252b3e7d4e83d1730fa0Pipeline 778282, job 7863039
+Built at 2021-12-21T19:15:18.046794at SHA 421632188744e78024141516df46eaac6ee664c5Pipeline 788280, job 8046534
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7502,6 +6818,7 @@ Evolve Pokémon.
 Rescue Shadow Pokémon from Team GO Rocket.
 Catch Shiny Pokémon wherever they appear.
 Trade Pokémon with friends.
+Some Pokémon can only be encountered in certain ways. Please refer to the symbols below to understand how to encounter the Pokémon you want.
 Collection Challenge
 Completed Challenges
 See your Elite Collector medal to view all completed Collection Challenges.
@@ -7812,6 +7129,9 @@ Gust
 Incinerate
 Feather Dance
 Weather Ball
+Psychic Fangs
+Hyperspace Fury
+Hyperspace Hole
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -7834,6 +7154,7 @@ Minccino Research: Use a supereffective Charged Attack in a Gym battle
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
 {0} Pokémon Selected
+Special in-game music at night
 Featured:
 Go to Summary
 Dressed to Impress
@@ -7901,6 +7222,7 @@ Create Account
 New player
 New Year’s
 {0} Days Ago
+In-game News featuring an exclusive musical performance
 See Details
 Today
 Yesterday
@@ -8064,7 +7386,7 @@ The photo could not be saved.
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
-5 Photobombs from Shinx in GO Snapshot
+5 surprise encounters with Shinx in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Swablu in GO Snapshot
 5 surprise encounters with Tepig in GO Snapshot
@@ -8152,8 +7474,10 @@ REPORT THIS LOCATION
 Please enter an explanation.
 Report This Location
 Submission failed. Please try again.
+Wayspot used in other Niantic games
 Identical description. Please submit an updated description.
 Identical title. Please submit an updated title.
+OK
 You have no contributions available for scanning PokéStops at this time.
 You have no contributions available for adding/editing descriptions at this time.
 You have no contributions available for editing locations at this time.
@@ -8175,6 +7499,7 @@ A great PokéStop photo is high quality, clear, compelling, and descriptive. The
 EXISTING PHOTO
 Add a Photo
 TAKE PHOTO
+Wayspot used in Pokémon GO
 {0} PokéStop scans remaining
 1 PokéStop scan remaining
 {0} category submissions remaining
@@ -8216,6 +7541,8 @@ Thank you for your contribution! Your report has been submitted for review.
 SUBMIT
 Your proposal has been submitted for review.
 Thank you for your contribution.
+A blue icon indicates an accepted Wayspot that is used in Pokémon GO. An orange icon indicates an accepted Wayspot that is used in other Niantic games. When submitting a new PokéStop nomination, please avoid submitting a duplicate of either type of Wayspot.
+Check for Duplicates
 This feature is currently unavailable.
 You are too far away from this PokéStop to contribute.
 Unlocks at level {0}!
@@ -8292,7 +7619,7 @@ Email required
 EXIT
 Exit this nomination?
 Nomination submission failed. Please try again.
-https://pokemongo.nianticlabs.com/support/submitting-pokestop
+https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility&f=eligibility-criteria&l=en
 To submit a PokéStop nomination using your image gallery, please grant relevant permissions in your device’s settings menu.
 GOT IT
 Add PokéStop Description
@@ -8329,7 +7656,7 @@ LOOKS GOOD!
 Progress will not be saved.
 Read more about nominations!
 SUBMIT
-https://pokemongo.nianticlabs.com/support/high-quality-pokestops
+https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
 This photo will be used to help assess the surrounding area.
 NEXT
 Please enter a PokéStop title.
@@ -11510,6 +10837,7 @@ Level
 PokéStops Visited:
 Start Date:
 Total XP:
+Ed Sheeran Collaboration Event
 This code has already been redeemed.
 This is not a valid code.
 Enter your promo code
@@ -11563,6 +10891,8 @@ Catch {0} Makuhita or Meditite
 Make {0} Excellent Throws in a row
 Win {0} raids
 Use a supereffective Charged Attack in {0} Gym battles
+You must complete your current battle before beginning a new battle!
+An error occurred when starting the battle
 Battle in the Halloween Cup {0} times
 Win {0} Trainer Battles in the Halloween Cup
 Battle in the GO Battle League {0} times
@@ -11577,10 +10907,12 @@ Win {0} Trainer Battles in the Master League
 Win a Trainer Battle in the Master League
 Battle in {0} raids
 Battle in a raid
+A new opponent has appeared!
 Use a supereffective Charged Attack in {0} Gym battles
 Use a supereffective Charged Attack in a Gym battle
 Win {0} Trainer Battles in the Ultra League
 Win a Trainer Battle in the Ultra League
+AN OPPONENT APPEARS!
 Win a raid in under 10 minutes
 Win a raid in under 60 seconds
 Win a raid in under {0} minutes
@@ -11614,8 +10946,8 @@ Catch {0} Pokémon in a single day
 Catch {0} Groudon
 Catch {0} Kyogre
 Catch a Legendary Pokémon in your next {0} Legendary Pokémon encounters
-Catch {0} Legendary Pokémon
-Catch a Legendary Pokémon
+Catch {0} Legendary or Mythical Pokémon
+Catch a Legendary or Mythical Pokémon
 Catch {0} Lunatone
 Catch {0} Luvdisc
 Catch {0} Normal-, Water-, or Ice-type Pokémon
@@ -11792,6 +11124,7 @@ Let’s GO, Meltan
 A Mythical Discovery
 Complete {0} Collection Challenges
 Complete a Collection Challenge
+Welcome to Pokémon GO!
 From Scalchops to Seamitars
 Decoding Porygon
 A Troubling Situation
@@ -12529,6 +11862,7 @@ GO Tour: Catch Mankey
 GO Tour: Catch Oddish
 Make {0} Curveball Throws on Ghost-type Pokémon
 Make {0} Curveball Throws
+Make a Curveball Throw
 Make {0} Excellent Curveball Throws
 Make an Excellent Curveball Throw
 Make {0} Excellent Throws
@@ -12588,13 +11922,14 @@ Earn 40 platinum medals
 Earn 10 platinum medals
 Earn 20 platinum medals
 Earn a platinum medal
+Play with your buddy
 Pokémon appears!
 Catch {0} Porygon
 Catch {0} Porygon2
 Evolve {0} Porygon
 Evolve {0} Porygon2
-Power up a Legendary Pokémon {0} times
-Power up a Legendary Pokémon
+Power up Legendary or Mythical Pokémon {0} times
+Power up a Legendary or Mythical Pokémon
 Power up {0} Pokémon to their max CP
 Power up a Pokémon to its max CP
 Power up Pokémon {0} times
@@ -13514,6 +12849,84 @@ Please carry out the following research tasks.{0}{1}{2}
 We found Mew! Awesome! This is an experience to remember forever.
 Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
 My assistants and I will request some Special Research from you in the future. Stay in touch!
+Hi there! It’s so nice to meet you, %PLAYERNAME%. My name is Professor Willow. I’m a Pokémon researcher, and I’ll be guiding you on your journey—and what a journey it shall be!
+You’ll also be helping me with my research along the way. So really, we’re more like colleagues!
+First things first—let’s go over how to catch Pokémon, make a Curveball Throw, and transfer Pokémon.
+You can catch Pokémon with Poké Balls.
+If you throw a Poké Ball at the center of the Pokémon and time your throw just right, you can even achieve a Nice, Great, or Excellent Throw!
+Curveball Throws are advanced throws that can help you grow even more as a Trainer. To make a Curveball Throw, spin the Poké Ball as you throw it.
+It’s OK if you don’t get it at first. That’s what practice is for!
+Once you’ve caught some Pokémon, you can keep them in your Pokémon storage or transfer them to my mobile lab in exchange for Candy.
+I’ll explain more about Candy later. For now, how about you go catch some Pokémon?
+Hello again, %PLAYERNAME%! How was catching Pokémon? Not too bad after the first few tries, right?
+Soon, you’ll be making Excellent Curveball Throws as easily as a Goldeen swims in water!
+Next, I’d like to talk to you about an item that I’ve created called Incense.
+It emits a fragrance that is irresistible to Pokémon, making them come to you, instead of having you go to them! Handy, eh?
+If you know you’re going to be out adventuring for a while, using Incense can really boost the amount of Pokémon you encounter. It’s one of my favorite items.
+Speaking of items, have you heard of Berries? There are several different types that Pokémon enjoy eating, and they each have different effects.
+For example, Nanab Berries calm Pokémon down, making it easier for you to aim a Poké Ball at them.
+How about you give these items a try? Go ahead and use an Incense to attract Pokémon. Then, use Nanab Berries to help you catch them!
+Hello again, %PLAYERNAME%! Great work using Incense and Berries to help you catch Pokémon.
+If you’re ever running low on Berries or Poké Balls, you can visit PokéStops to get more.
+Spinning the Photo Disc at a PokéStop can grant you those items as well as other goodies. You can also get Field Research tasks by doing so, which you can complete to encounter Pokémon or receive items.
+PokéStops are usually located at interesting places, like a monument, a public park, or a local café.
+They encourage Trainers to explore the world around them. Isn’t that exciting?
+Why don’t you go do some exploring? Who knows—you might discover some interesting places!
+Welcome back, Trainer! I just returned from a stroll myself. One thing I love about Field Research is how it always manages to take me to new and exciting locations.
+I hope you get to learn a bit more about the world around you as you seek out different PokéStops!
+And as fun as that will be, it’ll be even more fun if you bring along a Buddy Pokémon.
+Building strong relationships with your Pokémon is pivotal to being a good Trainer—and choosing a Pokémon to be your buddy is a great way to do just that!
+You can choose any Pokémon to be your Buddy Pokémon. It can even walk alongside you while you’re out exploring!
+To get your buddy to join you on your adventures, give it some treats, such as Berries.
+You can boost your friendship with your Buddy Pokémon even further by playing with it, taking photos of it, and battling with it.
+Eventually, your Buddy Pokémon can even become your Best Buddy and gain a Best Buddy ribbon! You’ll also earn additional Candy when you walk around with it.
+We’ll cover the importance of Candy later, but for now, how about you pick out a Buddy Pokémon and spend some time with it?
+Hey there, %PLAYERNAME%! Wow, your Buddy Pokémon’s looking pretty pleased! Seeing your bond grow stronger warms my heart.
+Keep taking care of your Pokémon to make your relationship flourish!
+I see you’ve earned some Candy while exploring with your buddy, too. It’s now time to learn how you can get more Candy, as well as what you can use it for.
+You can earn Candy by catching, transferring, and adventuring with Pokémon. You can then use that Candy to power up and evolve your Pokémon!
+You’ll also need Stardust, which you can earn by catching Pokémon, hatching Eggs, completing research, and opening Gifts.
+Evolving Pokémon helps you fill out your Pokédex and learn all about your Pokémon’s potential. There are even some Pokémon that evolve in unique ways.
+Be sure to check the Pokémon in your Pokémon storage to learn more about how to evolve them. You’ll also be able to power up your Pokémon there.
+If you need help figuring out which Pokémon to power up and evolve, you can ask your team leader to appraise your Pokémon.
+You should have some Candy and Stardust from completing previous research tasks. How about you use them to evolve and power up some Pokémon?
+Incredible work, %PLAYERNAME%! Your Pokémon look stronger than ever. Did you learn anything new while evolving and powering up your Pokémon?
+When I see a Pokémon discover new possibilities within itself, it makes me feel like I’m capable of anything, too!
+But as exciting as that all is, there’s just as much to learn about Pokémon in some of their earliest forms, too.
+Next, we’re going to discuss Eggs and Pokémon that can hatch from them.
+You can get 2 km, 5 km, and 10 km Eggs by spinning PokéStops, and you can get 7 km Eggs by opening Gifts from your friends.
+To hatch these Eggs, you’ll need to place them in an Incubator and travel the indicated distance.
+If you want to hatch Eggs even faster, Super Incubators decrease the distance required to hatch Eggs. Be sure to use these Incubators wisely.
+You’ll be able to get Eggs in other ways, too.
+For example, you can get Strange Eggs by defeating Team GO Rocket Leaders. As you go on your Trainer journey, you’ll have opportunities to take on Team GO Rocket and obtain these Eggs.
+You should have a handful of Eggs already. How about you get to hatching some?
+Look at all the Eggs you’ve hatched, %PLAYERNAME%! What an accomplishment.
+Being a dedicated Trainer takes quite a bit of work, wouldn’t you say? Even so, you can’t forget to have fun along the way.
+You’ll see in your Item Bag that you have a camera. You can use this camera to take snapshots of your Pokémon and commemorate all sorts of moments and memories.
+You can take a snapshot when encountering wild Pokémon, when viewing your Pokémon in your Pokémon storage, and when interacting with your buddy.
+How about you give it a shot? A...snapshot, that is. Haha!
+%PLAYERNAME%, I’ve been looking through the photos you took, and I have to say, I’m quite impressed!
+Have you considered moonlighting as a Pokémon photographer? You certainly have the chops for it!
+An important part of battling effectively is using attacks that are super effective against the Pokémon defending the Gym.
+Different Pokémon and their attacks have different types, and those types have weaknesses to other types. For example, Fire-type Pokémon are weak against Water-type attacks.
+I’d like for you to try using supereffective attacks when battling at a Gym. Try using Charged Attacks of different types to see which ones work best.
+Let’s see what you’re made of, %PLAYERNAME%! Get out there and battle in some Gyms.
+Do you recognize these structures? I’m sure you’ve come across them in your photographic forays.
+They’re called Gyms, and they’ll prove to be quite important in your Trainer journey.
+Gyms are always one of four colors, depending on which team controls them.
+Red Gyms are controlled by Team Valor, led by the headstrong Candela. Blue Gyms are controlled by Team Mystic, headed up by the analytical Blanche.
+Yellow Gyms are controlled by Team Instinct, whose proud leader is the incomparable Spark. He’s known for following his gut.
+Gray Gyms are neutral, meaning that no team controls them.
+If a Gym is controlled by your team, you can assign a Pokémon to defend it. Gyms can have up to six Pokémon defending them at a time.
+If a Gym is controlled by another team, you can battle to try to claim it. Find a Gym that’s controlled by a different team, and give battling a shot!
+How was your Gym experience, %PLAYERNAME%? A unique kind of workout, isn’t it? Haha!
+Anyhoo, did you notice that at some Gyms, you were faced with a single Pokémon instead of Gym defenders?
+Those Pokémon are called Raid Bosses, and you can challenge them in Raid Battles!
+In Raid Battles, you can battle alongside friends and other Trainers to challenge a Raid Boss.
+These Pokémon are formidable foes, indeed. Sometimes, you can find certain Pokémon only as Raid Bosses.
+Before entering a Raid Battle, make sure to power up your Pokémon! Stocking up on lots of Candy and Stardust will allow you to bring powerful teams to Raid Battles.
+Power up some Pokémon, then try taking on a raid. If you don’t succeed, you can team up with other Trainers.
+You’ll never know what you’re capable of until you try, right? 
 Hey there, %PLAYERNAME%! I’m hoping you can help me with something. You see, I was out for a walk recently and noticed several trees covered in slash marks—and I think I know what made them.
 There’s a Pokémon called Oshawott—the Sea Otter Pokémon—that keeps a scalchop on its stomach that it can detach and use as a blade. I’ve seen a lot of Oshawott around lately, so I’m thinking they may be our mystery tree carvers.
 Could you catch some Oshawott so we can learn more about them?
@@ -13889,6 +13302,24 @@ That’s when I realized that Trevenant was harvesting Berries from the nearby t
 Ghost-type Pokémon can seem frightening at first glance, but look a little closer and you’ll find they’re full of surprises. I’m sure the same goes for Hoopa! 
 I have a feeling there’s more to Hoopa than its penchant for mischief. Maybe we’ll find some answers after we conduct some more research on Ghost-type Pokémon.
 Great work, %PLAYERNAME%! As we close out our spooky investigations, I have a feeling there are some bright things on the horizon for us to explore together soon. I’ll be sure to let you know when I have something to share!
+Well hello, %PLAYERNAME%! Welcome back. It’s around this time of year that nights in the Northern Hemisphere begin growing longer and longer. The sun shines brighter while it’s up, though, so it’s a pretty fair trade!
+If you ask me, this is a prime opportunity to ponder the power of light and darkness—both literally and metaphorically. I wonder what darkness our little friend Hoopa has had to overcome? I have a feeling its mischievous reputation may hang over it like a shadow at times.
+What’s more, I can’t help but wonder how and why its power was confined.
+Pokémon are an endless source of mystery. We may never know all their secrets, but it’s a researcher’s job to shine a light into the darkest depths of the unknown and illuminate whatever answers we can!
+For me, darkness is an opportunity to learn something new. To make discoveries! We’ve learned so much about Hoopa in our research, and in some ways, I think we may have learned a bit about ourselves, too.
+But enough of my rambling! How about you head on out there and enjoy the light, %PLAYERNAME%? You’ve earned it.
+I’m glad to see you again, Trainer! I was out on a walk and got to thinking about your journey with Hoopa thus far.
+It seems that Hoopa’s really taken a shine to you. Do you think it may show us more of its power soon? A professor can dream, I suppose.
+Why don’t you check back again in a bit, %PLAYERNAME%, after you’ve spent a tad more time with Hoopa.
+I’m glad to see you, %PLAYERNAME%. I wish I had better news, but it looks like Team GO Rocket is stirring up trouble once again!
+While out on patrol, Spark and Candela overheard some Team GO Rocket Grunts discussing the organization’s next move. They want to capture Hoopa! It seems their orders came straight from Giovanni himself.
+I shudder to think that all this time Giovanni may have been lurking in the shadows just behind us, reaping the benefits of our research. Scheming as we studied Hoopa...
+There’s no time to lose—we have to stop them! Hoopa Unbound is incredibly powerful, and I have no doubt that Giovanni intends to use it for some sinister purpose.
+You know better than most, %PLAYERNAME%: Hoopa may be capable of terrifying things, but it’s still a Pokémon. It must be protected!
+We’ve also gotten word that Giovanni has turned another Legendary Pokémon into a Shadow Pokémon! The team leaders and I will do what we can, but we’ll need your help if we’re to defeat Giovanni, save the Legendary Shadow Pokémon, and keep Hoopa safe.
+Incredible work, %PLAYERNAME%! You’ve successfully defeated Team GO Rocket yet again and saved another Legendary Shadow Pokémon—and Hoopa, too!
+Speaking of Hoopa, I have a sneaking suspicion that because of your kindness, we might just be lucky enough to witness it as Hoopa Unbound someday soon. What a sight that will be, eh?
+We’ve come a long way in our research, and unlocking Hoopa’s true power may be the final trial in this mysterious saga. Are you ready, Trainer? Let’s GO!
 As with all great mysteries, solving this will take time, patience, and trust. I’ll need to work alone at some points, but I promise I’ll return to share my findings and help propel us forward.
 You just keep exploring the world as you always do. You never know what you might find!
 I’ll report back here once I have more information on Hoopa. Thanks in advance for your help, %PLAYERNAME%!
@@ -13930,23 +13361,23 @@ Perhaps we can learn more about Hoopa by studying the Ghost-type Pokémon that h
 Thanks for conducting that research, Trainer. We certainly know more than we did, but not enough to explain why these spooky occurrences are still...well, occurring.
 Let’s do a bit more research on Ghost-type Pokémon then, shall we?
 Hey there %PLAYERNAME%! Hope you’ve been well.
-Just last night, I saw some shining lights in a nearby park, but by the time I came upon the scene, the area was empty. 
-I get a sense that this might be some interesting behavior from an Electric-type Pokémon based on the way the light flickered, but I can’t be sure!
-Can I get your help investigating? Maybe these Pokémon are still around and we just need to do some exploring to find them!
-Well would you look at that: it was Shinx, the Flash Pokémon!
-This checks out with what I’ve heard about this cute little creature.
-Shinx sends signals to others of its kind by shaking the tip of its tail while the tail tip is shining brightly.
-It was probably a group of Shinx communicating to one another that I saw!
-While you’re here with your Shinx, let’s do some more research into its Evolutions!
-Apparently strong electricity courses through the tips of its sharp claws. Sharp and electrifying—what an interesting creature! Let’s learn more about it, shall we?
-Well done, %PLAYERNAME%, you’ve got yourself a Luxio!
-Also known as the Spark Pokémon, they collectively generate powerful electricity from their claws by gathering their tails together.
-Fascinating! Shinx can use their tails to communicate with one another and Luxio can use their tails to collectively generate powerful electric attacks.
-I wonder what else we can learn from this family of Pokémon? There’s just one Evolution left! Let’s see what else there is to learn!
-Luxray—the Gleaming Eyes Pokémon! Apparently its eyes are gleaming because it can see through solid objects.
-It will instantly spot prey trying to hide behind walls, even if the walls are thick! What a powerful and interesting use of its electric ability.
-What an electrifying day! We’ve learned so much about Shinx and its Evolutions today, and there’s still so much to discover too.
-If you’ve still got a little spark in you, why not head out there and see what else there is to learn? Let’s GO!
+The strangest thing happened last night: I noticed a veritable bevy of bobbing, blinking lights bouncing around at the far end of a nearby park—but by the time I’d run over, the area was empty and dark.
+I have a feeling those flickering lights may somehow be connected to an Electric-type Pokémon, but I can’t be sure!
+How about we do a little investigating, hm? Maybe those Pokémon are still nearby.
+Well, would you look at that! It’s Shinx, the Flash Pokémon!
+Considering all I’ve heard about this cute little creature, I have a theory.
+Shinx sends signals to others of its kind by shaking the tip of its lit-up tail.
+Last night’s anomaly was likely a group of Shinx having a chat!
+Now that you’ve caught a Shinx, why don’t we do some research into its Evolution, Luxio?
+Strong electricity courses through the tips of Luxio’s sharp claws. What a shocking combination! Let’s learn more about it, shall we?
+Well done, %PLAYERNAME%—you’ve got yourself a Luxio!
+Also known as the Spark Pokémon, Luxio can receive a bit of other Luxio’s electricity by joining their tails together.
+So, Shinx can use their tails to communicate with one another, and Luxio can gather their tails together to collectively generate powerful electricity. Fascinating!
+I wonder what else there is to learn about this Pokémon’s Evolutionary line. How about you evolve your Luxio and we find out for ourselves!
+Ah, Luxray, the Gleam Eyes Pokémon! When its eyes gleam gold, it can spot hidden prey—even through thick walls.
+But seeing through solid objects uses a lot of its electricity, so Luxray sleep for long periods of time to store up energy.
+What an electrifying revelation! We’ve learned a lot about Shinx and its Evolutions, but I bet there’s still much to discover.
+Despite all that hard work, it seems you’ve still got a little spark left in you—so why don’t you head back out and see what other adventures await? Let’s GO!
 Hey there, %PLAYERNAME%! Perfect timing.
 I just got back from a lengthy stroll in the sunshine. It’s incredible how much a bit of fresh air can affect your energy and mood!
 But that’s not the only thing that’s got me feeling chipper. You see, I witnessed something quite interesting while I was out and about.
@@ -14147,6 +13578,7 @@ Catch 15 Seedot
 Evolve a Nuzleaf
 Evolve 3 Seedot
 Earn {0} Stardust
+START BATTLE!
 {0} DAY STREAK!
 Ah, %PLAYERNAME%! Good to see you!
 There’s a lot to do this summer! New things to experience—new Pokémon to find!
@@ -14407,6 +13839,16 @@ A Mythical Discovery (5/8)
 A Mythical Discovery (6/8)
 A Mythical Discovery (7/8)
 A Mythical Discovery (8/8)
+Welcome to Pokémon GO!
+Welcome to Pokémon GO! (1/9)
+Welcome to Pokémon GO! (2/9)
+Welcome to Pokémon GO! (3/9)
+Welcome to Pokémon GO! (4/9)
+Welcome to Pokémon GO! (5/9)
+Welcome to Pokémon GO! (6/9)
+Welcome to Pokémon GO! (7/9)
+Welcome to Pokémon GO! (8/9)
+Welcome to Pokémon GO! (9/9)
 From Scalchops to Seamitars
 From Scalchops to Seamitars (1/4)
 From Scalchops to Seamitars (2/4)
@@ -14536,14 +13978,14 @@ Special Weekend (2/4)
 Special Weekend (3/4)
 Special Weekend (4/4)
 Special Weekend (7-Eleven México)
-
+Special Weekend (Family Mart)
 Special Weekend (Grubhub)
-
-
+Special Weekend (INFORICH)
+Special Weekend (ITO EN)
 Special Weekend (Matsumoto Kiyoshi)
 Special Weekend (SoftBank & 7-Eleven Japan)
-
-
+Special Weekend (SoftBank)
+Special Weekend (Tully’s)
 Special Weekend (Verizon)
 Special Weekend (Yoshinoya)
 Seeing Double
@@ -14704,6 +14146,7 @@ Win a level 2 or higher raid
 Win {0} level 3 or higher raids
 Win a level 3 or higher raid
 Win a raid with your buddy
+Win a one-star raid
 Win {0} raids using only Pokémon with 1,500 CP or less
 Win a raid using only Pokémon with 1,500 CP or less
 Win {0} three-star raids using only Pokémon with 1,500 CP or less
@@ -16702,6 +16145,9 @@ Quick Start
 https://www.nintendo.co.jp/pika_vee/howto/country_selecter/index.html
 Resume transfer
 Troubleshooting
+Native Refresh Rate
+Unlock your device’s native refresh rate for higher FPS.
+Native refresh rate unlocked.
 Vibration
 Show Sponsored Gifts
 Try again through settings or the Pokémon GO Plus icon.
@@ -16965,6 +16411,10 @@ Account Suspension NoticeYour account has been suspended for violating the Terms
 Account Suspension Notice Your account has been suspended for violating the Terms of Service. This suspension will last approximately 30 days. Any further transgressions will result in permanent account termination.
 While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
 Pokémon GO requires your location to find Pokémon and PokéStops near you.
+All Trainers must work together as a global community to complete this challenge.
+Trainers must work together as a regional community to complete this challenge.
+Global Challenge
+Regional Challenge
 Color
 Name
 Add New Tag
@@ -17035,7 +16485,7 @@ Ticket for the From Scalchops to Seamitars Special Research story available in t
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
-Ticket for Special Research story available in the Shop: Flash, Spark, and Gleam
+Ticket for the Flash, Spark, and Gleam Special Research story available in the shop
 Ticket for Special Research available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
 Ticket for the Roasted Berries Special Research story available in the shop
@@ -17106,6 +16556,14 @@ Use a Lucky Egg to double the XP you earn by increasing your Friendship level wi
 Feeding a Golden Razz Berry to a Pokémon defending a Gym will fully heal that Pokémon.
 It’s common for Trainers to challenge difficult raids the moment the Raid Egg hatches.
 Prepare a Battle Party in advance to lock in your strategy before challenging a Raid Boss.
+Hey there, {0}! I’ve been developing a Lure Module to attract wild Pokémon.
+Lure Modules will help you on your journey to discover and catch more Pokémon!
+Walk to a nearby PokéStop, place a Lure Module, and see what happens!
+Lure Modules attract Pokémon to a PokéStop for 30 minutes. The effect will also benefit other nearby Trainers.
+Lure Modules Unlocked
+This is where you can place a Lure Module, which will attract nearby Pokémon to this PokéStop. Aren’t Pokémon such interesting creatures?
+You’ll need more experience before you can use Lure Modules, though. Come back when you’ve reached level {0}!
+Tap a Lure Module to place it in the empty slot, and wild Pokémon should start appearing around the PokéStop soon after!
 Create Tags
 Looks like your Pokémon fainted. Here are some Potions and Revives that you can use to restore your Pokémon’s HP.
 To use these items, open your Item Bag. Hope you find them helpful, {0}! Let’s take care of our Pokémon, just like they take care of us.
@@ -17127,6 +16585,7 @@ Fast Attacks
 Raid Lobbies
 Raid Pass
 What Is a Raid?
+To make a Pokémon easier to catch, give it a Razz Berry or a Golden Razz Berry.
 Use a Revive on a fainted Pokémon to restore half its maximum HP.
 Use Revives to revive fainted Pokémon.
 Tap on your fainted Pokémon to help revive them.
@@ -17157,7 +16616,7 @@ Nice, Great, and Excellent Throws
 You must be near a friend to trade with them. Then, go to their Trainer profile on your Friends list and tap TRADE.
 Trading Pokémon
 Stay Aware of Your Surroundings
-https://niantic.helpshift.com/a/pokemon-go/?p=web&s=in-game-locations&f=scanning-a-pokestop
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=scanning-a-pokestop
 Scan cancelled
 Be respectful of others while scanning.Remember to stay safe and be aware of your surroundings.
 Scan Cautiously
@@ -17371,6 +16830,7 @@ Trainer Name
 Match {0}
 2× Transfer Candy
 3× Transfer Candy
+4× chance to get Candy XL from transferring Pokémon
 You can’t send Mega-Evolved Pokémon.
 Send Pokémon
 Trash Cloak
@@ -17659,6 +17119,7 @@ I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!
 {0}'s {1} and {2} are boosted by the weather!
+{0}’s {1}, {2}, and {3} are boosted by the weather!
 Boosted Types
 These Pokémon types are stronger, appear more frequently, and give bonus Stardust when caught.
 Careful!

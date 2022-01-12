@@ -189,7 +189,10 @@ class pokemon():
         if(type(inn)==list ): 
             for i in inn:
                 if "temporaryEvolution" not in i:
-                    return i["candyCost"]
+                    try:
+                        return i["candyCost"]
+                    except:
+                        pass
             return ""
      
     def descripthandle(self, typee):
@@ -401,7 +404,7 @@ main = rearrange(main, 'GOURGEIST_SMALL', 'GOURGEIST_LARGE')
 # =============================================================================
 # Main Pokemon List
 # =============================================================================
-maindb = main.drop(["id","name","chi","eng","quick","charged","mega","mega2"], axis=1)
+maindb = main.drop(["id","name","chi","eng","quick","charged","mega","mega2","shadow"], axis=1)
 mainheader = main[["id","name","chi","eng"]]
 maindb.to_csv('Pokemon Data/Pokemondb.csv' , encoding='utf_8_sig', header=False, index=False)
 mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', header=False, index=False)
