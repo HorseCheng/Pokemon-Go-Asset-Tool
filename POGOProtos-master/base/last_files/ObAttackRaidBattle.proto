@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -21,10 +21,10 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "ObAttackRaidBattle1.proto";
+import "AdDetails.proto";
 import "ObWasabiState.proto";
 
 message ObAttackRaidBattle {
-	ObAttackRaidBattle1 ob_attack_raid_battle_1 = 1;
+	AdDetails ad_details = 1;
 	ObWasabiState ob_wasabi_state = 2;
 }

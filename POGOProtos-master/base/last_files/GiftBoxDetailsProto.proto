@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -39,4 +39,6 @@ message GiftBoxDetailsProto {
 	fixed64 delivery_pokemon_id = 13;
 	bool is_sponsored = 14;
 	repeated StickerSentProto stickers_sent = 15;
+	PlayerPreferencesProto.ShareState share_state = 16;
+	string ob_string = 17;
 }

@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -22,7 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "PokemonProto.proto";
-import "ObMegaEvolvePokemonOutProtoField.proto";
+import "ObMegaEvolvePokemonProtoField.proto";
 
 message MegaEvolvePokemonOutProto {
 	enum Result {
@@ -39,5 +39,5 @@ message MegaEvolvePokemonOutProto {
 	Result result = 1;
 	PokemonProto evolved_pokemon = 2;
 	int32 exp_awarded = 3;
-	ObMegaEvolvePokemonOutProtoField ob_field = 4;
+	ObMegaEvolvePokemonProtoField ob_mega_evole_pokemon = 4;
 }

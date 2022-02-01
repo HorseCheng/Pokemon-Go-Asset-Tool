@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "HoloPokemonId.proto";
+import "PokemonProto.proto";
 
 message RaidProto {
 	int64 raid_seed = 1;
@@ -35,4 +36,5 @@ message RaidProto {
 	bool incremented_raid_friends = 9;
 	int64 completed_battle_ms = 10;
 	bool is_remote = 12;
+	PokemonProto pokemon = 14;
 }

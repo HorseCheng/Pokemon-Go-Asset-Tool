@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -21,15 +21,10 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "Item.proto";
 import "TutorialCompletion.proto";
+import "ItemProto.proto";
 
 message TutorialCompletRewards {
-	message TutorialReward {
-		Item item_id = 1;
-		int32 amount = 2;
-	}
-
 	TutorialCompletion tutorial_completation = 1;
-	repeated TutorialReward item_reward = 2;
+	repeated ItemProto item_reward = 2;
 }

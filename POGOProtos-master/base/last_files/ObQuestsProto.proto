@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -31,6 +31,6 @@ message ObQuestsProto {
 	}
 
 	string ob_string = 1;
-	Type ob_type = 2;
+	Type context = 2;
 	IncidentLookupProto ob_incident_quest = 3;
 }

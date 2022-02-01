@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -28,7 +28,7 @@ import "LootProto.proto";
 import "ClientQuestProto.proto";
 import "GiftBoxProto.proto";
 import "AdDetails.proto";
-import "ObWasabiStuff.proto";
+import "ObAttackRaidBattle.proto";
 
 message FortSearchOutProto {
 	enum Result {
@@ -58,5 +58,5 @@ message FortSearchOutProto {
 	GiftBoxProto gift_box = 15;
 	AdDetails sponsored_gift = 16;
 	LootProto ob_loot = 17;
-	ObWasabiStuff ob_wasabi_stuff = 18;
+	ObAttackRaidBattle ob_attack_raid_battle = 18;
 }

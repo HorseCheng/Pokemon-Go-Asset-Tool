@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -50,7 +50,7 @@ message QuestPreconditionProto {
 	}
 
 	enum QuestPreconditionType {
-		QUEST_PRECONDITION_UNSET_QUESTPRECONDITIONTYPE = 0;
+		QUEST_PRECONDITION_UNSET = 0;
 		QUEST_PRECONDITION_QUEST = 1;
 		QUEST_PRECONDITION_LEVEL = 2;
 		QUEST_PRECONDITION_MEDAL = 3;

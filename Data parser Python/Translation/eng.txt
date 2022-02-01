@@ -334,6 +334,7 @@ Crown Tundra Bag
 Isle of Armor Bag
 Togepi Bag
 Ultra Moon Bag
+Verizon Backpack
 Zubat Bag
 Ace Belt
 Ball Buckle
@@ -374,6 +375,7 @@ Giovanni Gloves
 Gym Leader Gloves
 Hoopa Bangles
 Korrina-Style Gloves
+Lysandre-Style Gloves
 GO Mega Bracelet
 Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
@@ -398,6 +400,7 @@ Cubone Cap
 Dedenne Knit Cap
 Ball Cap
 Sports Cap
+Deino Hat
 Delibird Earmuffs
 Detective Pikachu Cap
 Sinnoh Hat
@@ -413,6 +416,7 @@ Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
 Pikachu Visor
+Festive Hat
 The North Face x Gucci Hat
 Gyarados Hat
 Johto Cap
@@ -463,6 +467,7 @@ Team Mystic Cap
 Team Rocket Hat
 Team Rocket Cap
 Top Hat
+Verizon Cap
 Whimsicott Earmuffs
 Professor Willow Glasses
 Woobat Earrings
@@ -482,10 +487,12 @@ LeafGreen Skirt
 Wraparound Skirt
 Giovanni Pants
 Blue-Style Pants
+Festive Shorts
 Gym Leader Skirt
 Johto Pants
 Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
+Lysandre-Style Pants
 Mewtwo Pants
 Striped Skirt
 Turbine Skirt
@@ -549,6 +556,7 @@ Cliff-Style Outfit
 Sierra-Style Outfit
 Greedent Sweater
 Blue-Style Top
+Festive Jacket
 The North Face x Gucci T-Shirt
 Gym Leader Top
 Team Instinct Happi Coat
@@ -558,6 +566,7 @@ Team Instinct Happi Coat
 Johto Top
 Festival of Colors T-Shirt
 Festival of Colors T-Shirt
+Hoopa T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
@@ -568,6 +577,7 @@ Latias & Latios Shirt
 Luvdisc Top
 Level 50 Jacket
 Level 50 Jacket
+Lysandre-Style Jacket
 Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
@@ -676,6 +686,7 @@ Johto Shoes
 Korrina-Style Shoes
 2020 Sandals
 Luvdisc Shoes
+Lysandre-Style Shoes
 Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
@@ -756,6 +767,7 @@ Crown Tundra Bag
 Isle of Armor Bag
 Togepi Bag
 Ultra Sun Bag
+Verizon Backpack
 Zubat Bag
 Grass-type Mask
 Fire-type Mask
@@ -790,6 +802,7 @@ Gym Leader Gloves
 Hoopa Bangles
 Jogger Watch
 Korrina-Style Gloves
+Lysandre-Style Gloves
 GO Mega Bracelet
 Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
@@ -813,6 +826,7 @@ Newsy Cap
 Cubone Cap
 Dedenne Knit Cap
 Trainer Visor
+Deino Hat
 Delibird Earmuffs
 Detective Pikachu Cap
 Sinnoh Hat
@@ -829,6 +843,7 @@ Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
 Pikachu Visor
+Festive Hat
 The North Face x Gucci Hat
 Gyarados Hat
 Johto Cap
@@ -878,6 +893,7 @@ Team Mystic Cap
 Team Rocket Hat
 Team Rocket Cap
 Top Hat
+Verizon Cap
 Whimsicott Earmuffs
 Professor Willow Glasses
 Woobat Earrings
@@ -896,12 +912,14 @@ FireRed Pants
 Wraparound Skirt
 Giovanni Pants
 Blue-Style Pants
+Festive Shorts
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
 Korrina-Style Pants
 Loose Polka-Dot Pants
 Ripped Luvdisc Jeans
+Lysandre-Style Pants
 Mewtwo Pants
 Munna Pants
 Pikachu Fan Shorts
@@ -965,6 +983,7 @@ Cliff-Style Outfit
 Sierra-Style Outfit
 Greedent Sweater
 Blue-Style Top
+Festive Jacket
 The North Face x Gucci T-Shirt
 Gym Leader Top
 Team Instinct Happi Coat
@@ -974,6 +993,7 @@ Team Instinct Happi Coat
 Johto Top
 Festival of Colors T-Shirt
 Festival of Colors T-Shirt
+Hoopa T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
 Ingress Prime / Blue
@@ -987,6 +1007,7 @@ Pikachu Pullover
 Luvdisc Top
 Level 50 Jacket
 Level 50 Jacket
+Lysandre-Style Jacket
 Mega Lopunny Outfit
 Melmetal Down Jacket
 Melmetal Down Vest
@@ -1094,6 +1115,7 @@ Jogger Shoes
 Korrina-Style Shoes
 2020 Sandals
 Luvdisc Shoes
+Lysandre-Style Shoes
 Mega Lopunny Shoes
 Melmetal Shoes
 Mewtwo Shoes
@@ -1262,12 +1284,14 @@ December 2021: INFORICH
 Special Weekend 
 December 2021: SoftBank
 Special Weekend 
-December 2021: 7/11 MX
+December 2021: 7-Eleven México
 Special Weekend 
 December 2021: ItoEn
 Special Weekend 
 December 2021: Tully’s
 Special Weekend 
+Pokémon GO
+Pokémon GO
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -2826,10 +2850,10 @@ This option cannot be used right now.
 Do you really want to power up {0}?
 Powering up this Pokémon will exceed the maximum CP for the {0}.
 Daily Free Box
-Cyber Week - Ultra Box
+Ultra Box
 Great Box
 GO Rocket Box
-Cyber Week - Special Box
+Special Box
 New Trainer Box
 Beginner Box
 Starter Box
@@ -2842,7 +2866,7 @@ Great Box
 Item Box (Beta)
 Winter Box
 Ultra Box
-Cyber Week - Adventure Box
+Adventure Box
 Winter Box
 Community Day Box
 Event Box
@@ -2853,7 +2877,7 @@ Creepy Crate
 Anniversary Box
 Silver Box
 Bronze Box
-Cyber Week - Adventure Box
+Adventure Box
 Great Box
 Special Box
 Please accept the following items and keep training!
@@ -3529,6 +3553,8 @@ Ultra League
 USE THIS PARTY
 Community Day: Abra
 Community Day: Charmander
+December Community Day 2021
+December Community Day 2021 Weekend
 Community Day: Duskull
 Community Day: Eevee
 Community Day: Electabuzz
@@ -3574,6 +3600,8 @@ Type Surge: Dark
 MMM dd, yyyy
 d
 {0}D {1}H
+Dragonspiral Descent Collection Challenge
+Dragonspiral Descent
 Día de Muertos 2021 Collection Challenge
 December Community Day Ticket
 Decline
@@ -3632,7 +3660,7 @@ OK
 YES
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokeStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Disable this option to not receive Sponsored Gifts when available. <b>Please restart the app to save your choice. Tap <a href="https://niantic.helpshift.com/a/pokemon-go/?p=all&s=in-game-locations&f=sponsored-gifts">here</a> to learn more about the Sponsored Gifts</b>
+When you visit PokéStops or Gyms, you may receive Sponsored Gifts along with a sponsored message relevant to your location. By disabling this option, you are opting out of receiving Sponsored Gifts. Please restart the app to save your selection.
 Disable Sponsored Gifts
 You can't assign your Buddy Pokémon to defend a Gym.
 Legendary Pokémon cannot be left at Gyms.
@@ -3667,6 +3695,8 @@ Event-themed 2 km Eggs
 Event-themed 5 km Eggs
 Event-themed 7 km Eggs
 Event-themed Eggs
+Use Adventure Sync to track Egg-hatching progress when Pokémon GO is in the background.
+Adventure Sync: Eggs
 Eggstravaganza
 Type Surge: Electric
 Element Cup
@@ -3685,7 +3715,7 @@ Create tags by tapping +
 No Tags
 Enable sharing info on recently caught Pokémon with friends
 You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
-During your visits to Gyms and PokeStops, you may receive Sponsored Gifts along with a sponsored message relevant to your location. Enable this option to not receive Sponsored Gifts when available. <b>Tap <a href="https://niantic.helpshift.com/a/pokemon-go/?p=all&s=in-game-locations&f=sponsored-gifts">here</a> to learn more about the Sponsored Gifts</b>
+When you visit PokéStops or Gyms, you may receive Sponsored Gifts along with a sponsored message relevant to your location. By enabling this option, you are opting in to receive Sponsored Gifts when available. Please restart the app to save your selection.
 Enable Sponsored Gifts
 You already used a Berry.
 Oh?
@@ -3779,6 +3809,7 @@ This name contains inappropriate text.
 Unable to retrieve more suggestions. Please try again.
 Unsupported Device
 You've changed nicknames as many times as you can for now. You can try again later.
+Note too long
 Fitness metrics are not currently available. Please try again later.
 This Gym has no room for additional Pokémon.
 Your friend still has an unopened Gift from you.
@@ -3790,25 +3821,34 @@ Failed to get your Trainer Code.
 Failed to locate your referral code.
 Failed to get Friend List. Try again later.
 Failed to get Friend Requests. Try again later.
+Gift error
 Cannot send Gift due to an error.
+Invalid request
 This Trainer has already sent you a Friend Request.
 You have already sent an invite to this Trainer.
 An error occurred in trying to join the raid.
 An error occurred during the presentation of the raid.
 You've sent all the Friend Requests you can right now.
+Postcard Book error
 No groups found with that code.
 You have no Gifts in your inventory. Visit a PokéStop to look for them!
 You don’t currently have any {0}.
+Postcard Book error
 Please make space or upgrade your Item Bag before opening the Gift.
 Daily limit reached. Come back tomorrow to open more Gifts.
 You are out of this type of sticker.
 You're already friends with this Trainer.
 Invalid Trainer Code; Trainer not found.
 An error occurred in trying to update your battle party.
+Postcard already pinned
+Postcard not found
+Cannot delete favorite postcard
+Postcard Book full
 A Raid Boss has taken control of the Gym!
 Your referral code could not be refreshed.
 Your referral code cannot be refreshed right now. Please try again later.
 Failed to send a Friend Request to {0}.
+Sender error
 {0}'s Friend List is full.
 Error setting nickname.
 Nickname length is too long.
@@ -3819,6 +3859,7 @@ Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 This nickname is no longer available.
 Not Available
 Currently, your network connection is unstable. Please try again later.
+Season of Heritage: December Bonus
 Fashion Challenger
 Fashion Challengers stationed at PokéStops
 Discounted avatar items in the shop
@@ -3926,6 +3967,7 @@ Now: Spooky hour!
 Johto Celebration Event
 Kalos Celebration Event
 Kanto Celebration Event
+Boosted CP for certain Mega-Evolved Pokémon
 Earn more Catch Candy from Pokémon of your Mega-Evolved Pokémon’s type
 Mischief Hour
 There’s mischief starting soon...
@@ -3936,6 +3978,7 @@ Encounter Bidoof that know Ice Beam
 Encounter Bidoof that know Shadow Ball
 Encounter Bidoof that know Superpower
 Encounter Bidoof that know Thunderbolt
+Evolve Piloswine to get a Mamoswine that knows Ancient Power
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
 New Pokémon Snap Celebration
@@ -4048,6 +4091,7 @@ Season of Discovery
 Season of Mischief
 Misunderstood Mischief Special Research available
 Complete the Misunderstood Mischief Special Research story to access a special end-of-season event
+Season of Heritage
 Seasonal Pokémon hatching from Eggs
 Seasonal Pokémon found in the wild
 Sinnoh Celebration Event
@@ -4124,6 +4168,7 @@ Korrina Pose
 Pop Pose
 Rock Pose
 Leon Pose
+Lysandre Pose
 Idle
 Ultra Moon Bag
 Level 41 Glasses
@@ -4251,6 +4296,7 @@ They're excited to have you join as a team member.
 Let's GO!
 Move in the real world to move your avatar.
 Time to walk!
+Double Stardust from your first catch each day
 {0:0.#} {1} walked with Adventure Sync since last login!
 Calories
 Candy Found
@@ -4609,6 +4655,8 @@ Female
 Male
 A ticket to access the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Galarian Mr. Mime Event Ticket
+A ticket to access the December Community Day 2021 Special Research on December 18 and 19, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+December Community Day 2021 Ticket
 A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the No Match for Magmar Special Research on November 21, 2020, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A ticket to access the Nothin’ Dull About Duskull Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -4619,6 +4667,8 @@ A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:0
 The Bravest Bird Ticket
 A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Just a Nibble Ticket
+A ticket to access the Mischief Unbound Special Research, wherever you are. Please note that you can instead earn this Special Research at no cost by completing the Misunderstood Mischief Special Research by Wednesday, December 1, 2021, at 9:59 a.m. local time. If you have already earned this Special Research at no cost, you can still purchase this ticket to also get an identical set of tasks and rewards. Details can be found in the in-game News and on the blog.To progress through the Mischief Unbound Special Research story, you will need to have obtained Hoopa from the Misunderstood Mischief Special Research.
+Mischief Unbound Ticket
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
 A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -4638,9 +4688,9 @@ No Match for Magmar Ticket
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
 Ticket: GO Fest 2020
-A ticket to access Pokémon GO Tour: Kanto on February 20, 2021, from 9:00 a.m. to 9:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
-Pokémon GO Tour: Kanto
-Ticket: Pokémon GO Tour: Kanto
+A ticket to access Pokémon GO Tour: Johto on February 26, 2022, from 9:00 a.m. to 9:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Pokémon GO Tour: Johto
+Ticket: Pokémon GO Tour: Johto
 A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. Discounted for this year in celebration of the fifth anniversary of Pokémon GO. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2021 Ticket
 Accept
@@ -5454,7 +5504,7 @@ Halloween Mischief: Part 2
 2× Hatch Stardust
 2× Hatch XP
 3× Hatch XP
-https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279&l=en
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 https://pokemongo.nianticlabs.com/support/contact/en
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 Hoenn Collection Challenge
@@ -5520,6 +5570,7 @@ Beldum attracted to Incense
 Carvanha attracted by Incense
 Mareep attracted to Incense
 Sentret lured by Incense
+Swinub attracted to Incense
 Incense Day: Type Shuffle
 2× Incense duration
 Incense duration increased
@@ -5632,10 +5683,10 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
+A ticket to access Special Research on December 18 and 19, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on December 18 and 19, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -5646,6 +5697,8 @@ A ticket to access Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.
 This ticket will automatically activate to give you access to Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on June 6 from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
+A ticket to access the Mischief Unbound Special Research, wherever you are.
+This ticket will automatically activate to give you access to the Mischief Unbound Special Research, wherever you are. Details can be found in the in-game News and on the blog.
 Ticket
 A ticket to access Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on September 19, 2021, wherever you are.
@@ -5669,10 +5722,10 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-This ticket will automatically activate to give you access to Pokémon GO Fest on July 17 and 18, 2021, wherever you are.
+A ticket to access Pokémon GO Tour: Johto on February 26, 2022, from 9:00 a.m. to 9:00 p.m. local time, wherever you are.
 A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are.
-This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
-This ticket will automatically activate to give you access to a special event on February 20, 2021, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
+This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
+This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
@@ -5738,6 +5791,8 @@ Poké Ball
 Increases the size of your Pokémon collection.
 Pokémon Box Upgrade
 Pokémon Storage
+A book to collect Postcards and remember locations from yours and your friends’ journeys.
+Postcard Book
 A spray-type medicine that restores the HP of one Pokémon by {1} points.
 Potion
 A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
@@ -6680,6 +6735,7 @@ Korrina Pose
 Pop Pose
 Rock Pose
 Leon Pose
+Lysandre Pose
 Idle
 Ultra Sun Bag
 Jogger Sunglasses
@@ -6796,7 +6852,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2021-12-21T19:15:18.046794at SHA 421632188744e78024141516df46eaac6ee664c5Pipeline 788280, job 8046534
+Built at 2022-01-25T21:14:05.968863at SHA ee51cc4a5324a36b7a1d1cf9bf0fd35db916fc02Pipeline 807501, job 8321025
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7158,46 +7214,82 @@ Special in-game music at night
 Featured:
 Go to Summary
 Dressed to Impress
+Dressed to impress
+Dressed to the nines
+Check out that DRIP!
+What a fashionista!
 Style Savant
 Dressed to Impress
 Style Savant
 Dealt {0} damage
+Dealt {0} damage
+Contributed {0} damage
+Total damage: {0}
+Dealt a whopping {0} damage
 Hardest Hitter
 Dealt {0} damage
 Hardest Hitter
 Delivered the final attack
+Delivered the final attack
+Landed the last attack
+Dealt the decisive blow
+Talk about clutch!
 Final Strike
 Delivered the final attack
 Final Strike
 Performed {0} Charged Attacks
+Performed {0} Charged attacks
+Used {0} Charged Attacks
+Launched {0} Charged Attacks
 Charged and Ready
 Performed {0} Charged Attacks
 Charged and Ready
 Battled with {0} friends in the raid
+Battled with {0} friends in the raid
+Invited {0} friends to the raid
+A friend indeed
 Flush with Friends
 Battled with {0} friends in the raid
 Flush with Friends
 Brought the largest Pokémon into battle
 The Big One
 Brought the largest Pokémon into battle
+Brought the largest Pokémon into battle
+Battled with the largest Pokémon
+Used the largest Pokémon in the raid
 The Big One
 Walked {0} km yesterday before the raid
+Walked {0} km yesterday before the raid
+Explored {0} km yesterday
+Covered {0} km yesterday
 Walk Star
 Walked {0} km yesterday before the raid
 Walk Star
 Joined from {0} km away
+Joined from {0} km away
+Raided from {0} km away
+Battled from {0} km away
 Traveler
 Joined from {0} km away
 Traveler
 Battled for {0} seconds
 Stamina Specialist
 Battled for {0} seconds
+Battled for {0} seconds
+Participated for {0} seconds
+Remained active for {0} seconds
 Stamina Specialist
 Brought a Buddy Pokémon into battle
+Brought a Buddy Pokémon into battle
+Battled with a Buddy Pokémon
+Brought their buddy into battle
 Raid Buddy
 Brought a Buddy Pokémon into battle
 Raid Buddy
 Used a Mega-Evolved Pokémon in battle
+Used a Mega-Evolved Pokémon in battle
+Battled with a Mega-Evolved Pokémon
+Brought a Mega-Evolved Pokémon to the raid
 Mega Master
 Used a Mega-Evolved Pokémon in battle
 Mega Master
@@ -7234,6 +7326,7 @@ Niantic Social has arrived! With this new social feature, you can now do the fol
 Set Nickname
 Please link your Nintendo Account to Pokémon GO again.
 No limit
+No Eggs
 
 Tell your friends to join you in the global challenge!
 View Friend List
@@ -7246,6 +7339,7 @@ No usable items
 Unable to sign in. Please check that this Pokémon GO account exists and you have correctly selected New or Returning Player.
 Type Surge: Normal
 n/a
+Could not apply changes to Postcard
 Not very effective...
 Now
 NOW PLAYING THIS CHALLENGE:
@@ -10816,6 +10910,44 @@ Daily PokéStop Spin
 Your Item Bag is full. You can buy more space for items in the shop.
 This PokéStop is currently closed.
 This PokéStop is closing soon.
+BACKGROUND
+PREVIEW
+Pinned to your Postcard Book!
+From an unknown Trainer
+POSTCARDS
+RECENT
+SENDER
+You can't delete a favorite Postcard.
+CHECK GIFTS
+UNKNOWN TRAINERS
+YOUR POSTCARDS
+DELETE
+Do you want to remove this Postcard?
+You can’t undo this action once you remove this Postcard.
+FAVORITE
+From {0}
+If you want to save this Postcard, make space in your Postcard Book.
+Your Postcard Book is full
+Pin Postcards
+MANAGE
+PostcardBook
+You haven’t pinned any Postcards yet.
+You can pin Postcards from your friends’ Gifts or Postcards from your Gifts before you send them.
+NOTE
+Opened on {0}
+Removed from your Postcard Book.
+Save
+Your Postcard
+DON’T SHARE
+If you share your nickname with friends, they can save it in their Postcard Book. You can change this at any time in the Settings menu. Would you like to share your nickname?
+SHARE
+Postcard Book Nickname Sharing
+SEE MORE DETAILS
+Your nickname will not be shared in your friends’ Postcard Books. You can change this setting at any time in the Settings menu.
+Nickname Sharing Settings
+When you pin a Postcard from a friend’s Gift, it goes into your Postcard Book! You can also pin Postcards from Gifts you’ve collected on your journey.To view your Postcards, open your Postcard Book from your Trainer profile or Item Bag.
+You received these Postcards from unknown Trainers. These Trainers may have chosen not to share their nicknames, or you might no longer be friends. You can still keep the Postcards they sent in your Postcard Book.
+Unknown Trainers
 Turn on Always Allow to earn Candies, hatch Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Privacy Policy
 Privacy
@@ -11109,6 +11241,7 @@ Investigating Illusions
 BIDOOF
 A Ripple in Time
 A Tale of Tails
+December Community Day 2021
 December Community Day
 Nothin’ Dull About Duskull
 What You Choose to Be
@@ -11147,6 +11280,7 @@ Cotton-Winged Bird
 Roasted Berries
 A Hairy Situation
 Daily Bonus
+Catch {0} Pokémon featured during 2021’s Community Days
 Defeat Jessie or James {0} times
 Defeat {0} Team GO Rocket members
 Defeat a Team GO Rocket member
@@ -11690,6 +11824,8 @@ Achieve rank 20 in the GO Battle League
 Catch {0} Gible
 Evolve {0} Gible
 Evolve {0} Gabite
+Open {0} Gifts
+Open a Gift
 Strange Rings
 Strange Rings (1/2)
 Strange Rings (2/2)
@@ -11985,6 +12121,7 @@ Use {0} supereffective Charged Attacks in Gym battles
 Win {0} Great League Trainer Battles against another Trainer
 Catch {0} Roselia
 Evolve {0} Roselia
+Send Gifts {0} Days in a Row
 Send {0} Gifts to friends
 Send a Gift to a friend
 Catch {0} Shinx
@@ -11993,6 +12130,7 @@ Evolve {0} Luxio
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
 Take {0} snapshots of Genesect
+Take a snapshot of Hoopa
 Take a snapshot of Landorus
 Take a snapshot of Regice
 Take a snapshot of Regirock
@@ -12017,6 +12155,7 @@ Take {0} snapshots of wild Grass-type Pokémon
 Take {0} snapshots of wild Ground-type Pokémon
 Take a snapshot of Hoothoot in the wild
 Take {0} snapshots of wild Ice-type Pokémon
+Take a snapshot of a wild Ice-type Pokémon
 Take a snapshot of Metapod, Aipom, or Lotad in the wild
 Take a snapshot of Chinchou, Luvdisc, or Finneon in the wild
 Take {0} snapshots of wild Normal-type Pokémon
@@ -12134,6 +12273,22 @@ It’s said that the overwhelming power dwelling within Mega Charizard X is so i
 Other research suggests that Mega Charizard Y uses its bond with its Trainer as the source of its power, resulting in speed and maneuverability greater than that of a fighter jet’s.
 Simply amazing! I can’t wait to see how Trainers use these Mega Evolutions in their Gym battle strategies!
 Thanks again for your help, %PLAYERNAME%. I’ll be in touch as soon as I have more exciting research to share!
+Hello there, %PLAYERNAME%! We’ve come to the end of the year once again...
+And it looks like some familiar Pokémon from earlier this year are reappearing, too!
+Do you think they’re here to celebrate the year’s end with us?
+I hope you’ll take a moment to reflect on all the ways you’ve grown and the adventures we had these last 12 months.
+We achieved the impossible, created legends, and discovered so much about ourselves! Which moment are you most proud of?
+Welcome back, %PLAYERNAME%. Wow, just look at all the Pokémon you’ve caught! Up for another challenge?
+Will you evolve a few of them for me? I’d say you’ve evolved plenty yourself, as a Trainer, this year. Especially after all that time with Hoopa.
+What mischief it made this year—remember when it summoned all those Legendary Pokémon?
+The bond between Trainer and Pokémon can change so much more than just a Pokémon’s appearance.
+Just something to think about as you evolve your Pokémon today!
+With a new year just around the corner, I can’t help but look back. What can we learn from the histories of places, Pokémon, and our fellow Trainers?
+That reminds me—have you heard about the strange door I found recently? I have a feeling we’re in for quite an adventure!
+I wonder what mysteries hide behind that door. What can this relic tell us about the past—and our shared future...?
+Sorry, where were we? Ah, yes! Be sure to catch lots of Pokémon, study how they evolve, and maybe work on improving your Poké Ball throws, too. Let’s end the year awash in new knowledge!
+You’ve made it to the end, %PLAYERNAME%! Here’s a reward for all your hard work. Consider it a token of my gratitude as well, for all you’ve done for me this year.
+I look forward to our adventures together next year! Are you ready? Then let’s GO!
 Hello there, %PLAYERNAME%! It’s so great to see you. Can you believe this year is already coming to a close?
 It’s almost as if Pokémon in the wild can feel it, too. A few seem to be appearing in greater numbers than usual!
 Strangely enough, the Pokémon appearing more frequently at the moment seem to be the same as those that did so previously throughout this year.
@@ -12432,6 +12587,41 @@ Blanche and I were looking into the Evolution of Ghost-type Pokémon earlier, an
 All you need is to collect some Yamask Candies and get to evolving! I’m certain that its Evolution will be an exciting addition to your Pokédex!
 Anyway, I’m so glad we got to go on this spooky adventure and discover Galarian Yamask together!
 I hope you had a ghoulishly good time, and I hope you have an extra spoOoOoOoOoOoky day!
+Hey there, %PLAYERNAME%! Quite an eventful few months we’ve had, eh?
+How are things with Hoopa? You two seem to get along great from what I can tell.
+The poem lines up with the fact that Hoopa has multiple forms: Hoopa Confined and Hoopa Unbound.
+What’s more, I feel a sort of...mysterious power emanating from the bottle. The patterns on it seem reminiscent of Hoopa, don’t you think?
+It’s all got me tremendously excited! We’ve been trying to learn more about Hoopa for a while now, and I have a feeling this may be the final piece of the puzzle.
+Naturally, I’ll need your help to put it all together, %PLAYERNAME%.
+Can you see what you can learn in the field while I stay here to analyze the poem and bottle?
+I suspect its trust in you must have deepened after you protected it from Team GO Rocket.
+While you and Hoopa have been out adventuring together, my research into the mystery surrounding Hoopa has taken some strange turns.
+I was up late poring over my notes recently when I heard a knock at the door of my mobile lab. I certainly wasn’t expecting anyone, but I figured it would be rude not to answer.
+As I approached the door, I heard something scurrying away, and when I opened it, I found nothing but a curious bottle at my feet.
+There was a note attached. I’ve managed to decipher only part of it, but here’s what I’ve got so far.
+“Offer sweets and dust you’ve found So Hoopa’s form will be unbound
+And in this form it shall remain Until an offering is made again.”
+Poetry isn’t exactly my forte, but it’s got a pleasant rhyme structure, I’d say!
+Thanks for your help, %PLAYERNAME%!
+I’ve been busy analyzing the poem and the bottle it came with—and I have something to share!
+The poem seems to be providing hints as to how to change Hoopa’s form—and I believe this bottle is somehow involved in that process.
+With that said, the bottle’s power appears to be dormant. But with more research, I’m confident we can find a way to harness it and change Hoopa’s form!
+After all we’ve overcome to get this far, I have no doubt the two of us can crack this together.
+Will you help me conduct some more research so we can witness Hoopa’s other form?
+Eureka! %PLAYERNAME%, I’ve just had a massive breakthrough.
+Remember this part of the poem? “Offer sweets and dust you’ve found So Hoopa’s form will be unbound”
+Hoopa Unbound is said to be tremendously powerful—but I think you can handle it, Trainer.
+It’s been a long adventure with Hoopa, but I think we’ve finally reached the end.
+It’s almost bittersweet, don’t you think? But fret not—I’m sure more discoveries await!
+Let’s keep adventuring through this world full of mysteries—you, me, and Hoopa!
+I believe the poem is telling us to use Hoopa Candy and Stardust to change Hoopa’s form!
+You can get Stardust by catching Pokémon and battling in raids, but you can earn Hoopa Candy only by adventuring with Hoopa as your buddy.
+Luckily, I’ve managed to convert the bottle’s power into Hoopa Candy. Once you’ve gathered everything you need, you’ll be able to change your Hoopa Confined into Hoopa Unbound.
+There’s another bit of the poem that I think is relevant here, too.
+And in this form it shall remain Until an offering is made again.”
+It sounds like you’ll also need Hoopa Candy and Stardust to change Hoopa Unbound back into Hoopa Confined—but something tells me you won’t need quite as much.
+Of course, this is all just a theory.
+We’ll have to test it before reaching any proper conclusions!
 Jessie: Hey, James, did you hear?
 James: What is it, Jessie?
 Jessie: Apparently, there’s a mysterious Pokémon in a jungle nearby!
@@ -13639,6 +13829,11 @@ A Tale of Tails (2/5)
 A Tale of Tails (3/5)
 A Tale of Tails (4/5)
 A Tale of Tails (5/5)
+December Community Day 2021
+December Community Day 2021 (1/4)
+December Community Day 2021 (2/4)
+December Community Day 2021 (3/4)
+December Community Day 2021 (4/4)
 December Community Day
 December Community Day (1/4)
 December Community Day (2/4)
@@ -13709,6 +13904,10 @@ A Spooky Message Unmasked (1/4)
 A Spooky Message Unmasked (2/4)
 A Spooky Message Unmasked (3/4)
 A Spooky Message Unmasked (4/4)
+Mischief Unbound
+Mischief Unbound (1/3)
+Mischief Unbound (2/3)
+Mischief Unbound (3/3)
 GO Fest 2019—Chicago (1/5)
 GO Fest 2019—Chicago (2/5)
 GO Fest 2019—Chicago (3/5)
@@ -13955,6 +14154,38 @@ Misunderstood Mischief (7/16)
 Misunderstood Mischief (8/16)
 Misunderstood Mischief (9/16)
 Misunderstood Mischief (10/16)
+Season of Heritage: Stardust Challenge
+Season of Heritage: Stardust Challenge (1/15)
+Season of Heritage: Stardust Challenge (2/15)
+Season of Heritage: Stardust Challenge (11/15)
+Season of Heritage: Stardust Challenge (12/15)
+Season of Heritage: Stardust Challenge (13/15)
+Season of Heritage: Stardust Challenge (14/15)
+Season of Heritage: Stardust Challenge (15/15)
+Season of Heritage: Stardust Challenge (3/15)
+Season of Heritage: Stardust Challenge (4/15)
+Season of Heritage: Stardust Challenge (5/15)
+Season of Heritage: Stardust Challenge (6/15)
+Season of Heritage: Stardust Challenge (7/15)
+Season of Heritage: Stardust Challenge (8/15)
+Season of Heritage: Stardust Challenge (9/15)
+Season of Heritage: Stardust Challenge (10/15)
+Season of Heritage: XP Challenge
+Season of Heritage: XP Challenge (1/15)
+Season of Heritage: XP Challenge (2/15)
+Season of Heritage: XP Challenge (11/15)
+Season of Heritage: XP Challenge (12/15)
+Season of Heritage: XP Challenge (13/15)
+Season of Heritage: XP Challenge (14/15)
+Season of Heritage: XP Challenge (15/15)
+Season of Heritage: XP Challenge (3/15)
+Season of Heritage: XP Challenge (4/15)
+Season of Heritage: XP Challenge (5/15)
+Season of Heritage: XP Challenge (6/15)
+Season of Heritage: XP Challenge (7/15)
+Season of Heritage: XP Challenge (8/15)
+Season of Heritage: XP Challenge (9/15)
+Season of Heritage: XP Challenge (10/15)
 Flash, Spark, and Gleam
 Flash, Spark, and Gleam (1/4)
 Flash, Spark, and Gleam (2/4)
@@ -14164,6 +14395,7 @@ Defeat a Team GO Rocket Leader {0} times using only Pokémon with 4,000 CP or le
 Catch {0} Weedle
 Evolve {0} Kakuna
 Evolve {0} Weedle
+Earn {0} XP
 Hey! Good job with your Field Research. It looks like we’ve learned a lot!
 Keep up the great work.  Now...let's see what we've discovered!
 Breakthrough!
@@ -15881,6 +16113,7 @@ Team GO Rocket Celebration
 Defeat the members of Team GO Rocket you see at PokéStops and in balloons to save Shadow Pokémon.
 Team GO Rocket Event
 Team GO Rocket
+Team GO Rocket Grunts will have more Water- and Ice-type Pokémon
 GO Rocket Hour
 Meowth balloon with Jessie and James appearing more often
 Team GO Rocket appearing more often at PokéStops
@@ -16037,6 +16270,7 @@ Search
 Searching for Legends
 s
 SEE DETAILS
+Select a Gift to pin its Postcard to your Postcard Book or to remove its Postcard.
 Select Gift to discard
 Which Gift do you want to send?
 This item conflicts with another item you’re already wearing.
@@ -16102,6 +16336,7 @@ Show Pokémon Ribbon
 Pokémon
 Pokémon HOME
 Pokémon's Return
+Share your nickname in Friends’ Postcard Books
 Adventure Sync Updates
 Adventure Sync: Nearby
 Adventure Sync: Walking
@@ -16469,6 +16704,7 @@ Throwback Challenge 2020: Kanto
 Throwback Challenge 2020: Sinnoh
 Ticket for Investigating Illusions Special Research story in the shop
 Tickets for the A Tale of Tails Special Research story available in the shop
+Ticket for a Special Research story available in the shop
 December Community Day
 Ticket for the Nothin’ Dull About Duskull Special Research story available in the shop
 Tickets for an exclusive Special Research story available in the shop
@@ -16478,6 +16714,7 @@ Electric for Electabuzz Ticket
 Tickets for The Bravest Bird Special Research story available in the shop
 Tickets for the Special Research story The Great Gastly available in the shop
 Tickets for the Just a Nibble Special Research story available in the shop
+Ticket for a Special Research story available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
@@ -16503,16 +16740,16 @@ Ends in {0} minute
 Challenge bonus:{0}
 BONUS ACTIVE:
 TIMED BONUS
-All Trainers must work together as a global community to complete this challenge.
+Trainers must work together as a regional community to complete this challenge.
 All Trainers participating in a global challenge will contribute to a global goal. Once Trainers achieve the goal, a timed bonus will activate for all participants.
-Global Challenges
+Regional Challenge
 Challenge complete! Bonus active!
 Ended
-Global Challenge
+Regional Challenge
 A new challenge is starting!
 Ends in {0} minutes
 Ends in 1 minute
-All Trainers must work together as a global community to complete this challenge.
+Trainers must work together as a regional community to complete this challenge.
 Timed Research available
 Featured Pokémon in Timed Research
 Meowth featured in Timed Research
@@ -16532,6 +16769,8 @@ You and a friend can send Gifts to each other once a day.Add a Gift Sticker to m
 Exchange Gifts
 For a chance to become Lucky Friends with a Trainer, become Best Friends with them and continue interacting with them each day.Trade with a Lucky Friend to receive a Lucky Pokémon! You can become Lucky Friends again later.
 Lucky Friends
+You and your friend now have the chance to become Lucky Friends! Continue interacting with your Best Friend for this chance so the next time you trade with each other, both Pokémon will become Lucky.
+Lucky Friends Unlocked!
 At level 10, you can trade Pokémon with your friends to help complete your Pokédex.You’ll need to be near a friend to trade with them.
 Trade with Friends
 Great work, {0}! Adventures will take you far and wide in this world, and the more friends you make, the better.
@@ -16556,6 +16795,7 @@ Use a Lucky Egg to double the XP you earn by increasing your Friendship level wi
 Feeding a Golden Razz Berry to a Pokémon defending a Gym will fully heal that Pokémon.
 It’s common for Trainers to challenge difficult raids the moment the Raid Egg hatches.
 Prepare a Battle Party in advance to lock in your strategy before challenging a Raid Boss.
+A Lucky Trade grants you and your friend a Lucky Pokémon.Lucky Pokémon are more likely to be stronger in battle, require less Stardust to power up, and appear with a shimmery effect in the Pokédex and on their summary page.
 Hey there, {0}! I’ve been developing a Lure Module to attract wild Pokémon.
 Lure Modules will help you on your journey to discover and catch more Pokémon!
 Walk to a nearby PokéStop, place a Lure Module, and see what happens!
@@ -16615,6 +16855,11 @@ When you’re holding a Poké Ball, a target ring will appear around the Pokémo
 Nice, Great, and Excellent Throws
 You must be near a friend to trade with them. Then, go to their Trainer profile on your Friends list and tap TRADE.
 Trading Pokémon
+Hey there, {0}! Did you know you can trade Pokémon with other Trainers?
+Trading is an essential part of discovering new Pokémon as a Pokémon Trainer.
+Give it a try with a friend next time. Before you trade, remember to be in close range of them!
+Trade Pokémon with other Trainers to increase friendship levels! Go to a Trainer Profile on your Friends List and tap the option to trade.
+Trading Unlocked
 Stay Aware of Your Surroundings
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=scanning-a-pokestop
 Scan cancelled
@@ -16769,6 +17014,7 @@ This Pokémon can’t be traded.
 This Pokémon is not at full health.
 This Pokémon can’t be traded again.
 You cannot trade a Mega-Evolved Pokémon.
+Extra Candy when trading a Pokémon
 All Pokémon form variants
 {0} has connected!
 Waiting for {0} to select their Pokémon...
@@ -16776,6 +17022,7 @@ You can trade your Pokémon with {0}!
 This trade was canceled.
 Trade expired.
 Waiting for {0} to be available for trading.
+Guaranteed Candy XL when trading a Pokémon
 All Legendary Pokémon
 Me
 You cannot trade a favorite Pokémon.
@@ -16788,6 +17035,7 @@ All Shiny Pokémon
 Legendary or Shiny Pokémon in Pokédex
 1/2 Stardust cost for trades
 1/4 Stardust cost for trades
+3/4 Stardust cost for trades
 You can only trade with friends who are nearby.
 Special Trades can only occur once a day, unless you’re at certain special events.
 You can’t trade a Pokémon that has been traded previously.
@@ -16814,6 +17062,8 @@ Trade with Stardust
 The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
 Pokémon CP and HP in Trade
 When you trade a Pokémon to a friend, you can see the range of CP and HP that it could have. This range adjusts based on your friend's level and will also be affected by your Friendship level. After you complete the trade, the stats of both Pokémon will change randomly to reflect the new range.
+Great work! It's always a little sad to say goodbye, but look on the bright side: your friend has a new Pokémon to get to know and so do you!
+Continue trading with your friends to increase your friendship and maybe even have a chance of becoming Lucky Friends!
 Your friend's Trainer level is lower than yours, so CP and HP will be reduced.
 Your Trainer level is lower than your friend's, so CP and HP will be reduced.
 Trading Event
@@ -17037,6 +17287,23 @@ Valentine’s Day: Evolve a Hoppip
 Valentine’s Day: Hatch {0} Eggs
 Valentine’s Day: Defeat {0} Team GO Rocket Grunts
 Valentine’s Day
+If you stop saving {0} Logs, any {1} Logs that you haven’t uploaded will be deleted.
+Do you want to stop saving {0} Logs?
+Game Logs contain valuable information that can help Niantic improve certain activities in Pokémon GO. If you allow your Game Logs to be saved, you can then upload your logs after each in-game activity to share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time before then in the Settings menu.
+Learn More
+Help Improve Pokémon GO!
+You have {0} logs pending upload.
+Logs Pending Upload
+Game Logs
+Save {0} Logs
+Battle
+Raid
+UPLOAD ({0} MB)
+UPLOAD
+Upload Complete!
+{0} Log ({1} MB)
+Do you want to upload these logs now?
+Uploading {0} logs...
 View all tags assigned to {0}
 View in Map
 Go to Help Center
@@ -17141,15 +17408,22 @@ Weather
 Weather Week
 Windy
 Cannot access your device's camera. Check camera permissions.
+Retrieving data with Adventure Sync
 Winter Event
+Pokémon GO Holidays: Catch Challenge
 Pokémon GO Holidays
+Pokémon GO Holidays: Part 1
+Pokémon GO Holidays: Part 2
+Pokémon GO Holidays: Friendship Challenge
 Winter Solstice
 Winter Weekend Event
+Winter Wonderland
 World Tourism Day
 World Tourism Day: Make a new friend
 World Tourism Day: Send {0} Gifts to friends
 World Tourism Day: Trade Pokémon caught 10,000 km apart
 World Tourism Day: Trade Pokémon caught 10,000 km apart
+Winter Wonderland Challenge
 20,000 XP
 Yesterday
 You’ve completed a milestone! Claim it on {0}’s Trainer page in the Friends menu.

@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -26,4 +26,5 @@ enum ObPostcardTypes {
 	OB_POSTCARD_TYPES_SELF = 1;
 	OB_POSTCARD_TYPES_FRIEND = 2;
 	OB_POSTCARD_TYPES_FRIEND_ANONYMIZED = 3;
+	OB_POSTCARD_TYPES_FRIEND_ANONYMIZED_FROM_DELETION_OR_UNFRIEND = 4;
 }

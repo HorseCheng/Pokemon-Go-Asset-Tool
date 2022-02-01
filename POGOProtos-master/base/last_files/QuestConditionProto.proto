@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -153,6 +153,7 @@ message QuestConditionProto {
 		WITH_POKEMON_CP = 47;
 		WITH_RAID_LOCATION = 48;
 		WITH_FRIENDS_RAID = 49;
+		WITH_POKEMON_COSTUME = 50;
 	}
 
 	ConditionType type = 1;

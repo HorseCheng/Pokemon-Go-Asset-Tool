@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -319,4 +319,10 @@ enum HoloPokemonMove {
 	DOUBLE_KICK_FAST = 356;
 	MAGICAL_LEAF_FAST = 357;
 	SACRED_FIRE = 358;
+	ICICLE_SPEAR = 359;
+	AEROBLAST_PLUS = 360;
+	AEROBLAST_PLUS_PLUS = 361;
+	SACRED_FIRE_PLUS = 362;
+	SACRED_FIRE_PLUS_PLUS = 363;
+	ACROBATICS = 364;
 }

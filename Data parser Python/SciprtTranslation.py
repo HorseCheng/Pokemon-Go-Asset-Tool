@@ -27,14 +27,15 @@ patchchi = ""
 for i in range(0,len(chi),2):
     key+=chi[i].replace('\n','').replace('\r','')+'\n'
 for i in range(1,len(chi),2):
-    chiw+=chi[i].replace('\n','').replace('\r','').replace("_x000D_ "," ")+'\n'
+    chiw+=chi[i].replace('\n','').replace('\r','').replace("_x000D_"," ")+'\n'
 for i in range(1,len(eng),2):
     engw+=eng[i].replace('\n','').replace('\r','')+'\n'
+engw = engw.replace('\n"','\n')
 
 for i in range(0,len(patch),2):
     patchkey+=patch[i].replace('\n','').replace('\r','')+'\n'
 for i in range(1,len(patch),2):
-    patchchi+=patch[i].replace('\n','').replace('\r','').replace("_x000D_ "," ")+'\n'
+    patchchi+=patch[i].replace('\n','').replace('\r','').replace("_x000D_"," ")+'\n'
 
 
 # output data

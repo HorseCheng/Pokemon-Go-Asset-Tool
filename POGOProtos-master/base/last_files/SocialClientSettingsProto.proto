@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -37,4 +37,5 @@ message SocialClientSettingsProto {
 	bool enable_remote_gifting = 12;
 	bool enable_sticker = 13;
 	CrossGameSocialGlobalSettingsProto cross_game_social_settings = 14;
+	bool ob_bool = 15;
 }

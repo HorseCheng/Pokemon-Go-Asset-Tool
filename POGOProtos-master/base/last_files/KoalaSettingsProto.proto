@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -25,4 +25,5 @@ message KoalaSettingsProto {
 	string app_id = 1;
 	bool use_sandbox = 2;
 	bool use_koala = 3;
+	bool ob_koala_bool = 4;
 }

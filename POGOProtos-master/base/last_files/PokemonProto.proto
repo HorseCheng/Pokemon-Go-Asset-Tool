@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -103,5 +103,4 @@ message PokemonProto {
 	EggSlotType egg_slot_type = 69;
 	EggTelemetryProto egg_telemetry = 70;
 	EggDistributionProto egg_distribution = 71;
-	PokemonDisplayProto original_pokemon_display = 72;
 }

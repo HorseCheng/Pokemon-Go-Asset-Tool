@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -122,8 +122,8 @@ import "FortPowerUpSettings.proto";
 import "PowerUpPokestopSharedSettings.proto";
 import "IncidentPrioritySettingsProto.proto";
 import "ReferralSettingsProto.proto";
-import "EOLAIBDNKGG.proto";
-import "FCOGCOPNCOE.proto";
+import "GM1SettingsProto.proto";
+import "GM2SettingsProto.proto";
 import "AppraisalStarThresholdSettings.proto";
 import "PokedexCategoriesSettings.proto";
 import "BattleVisualSettings.proto";
@@ -137,16 +137,18 @@ import "NewsFeedClientSettings.proto";
 import "MapObjectsInteractionRangeSettings.proto";
 import "ExternalAddressableAssetsSettings.proto";
 import "EvolePreviewSettings.proto";
-import "FHEOFILILNM.proto";
+import "GM3SettingsProto.proto";
 import "PushGatewaySettings.proto";
 import "UsernameSuggestionSettings.proto";
 import "TutorialsSettings.proto";
 import "EggHatchImprovementsSettings.proto";
-import "INPCCMJIOIL.proto";
+import "GM4SettingsProto.proto";
 import "SurveySettings.proto";
-import "CLOGIAFCLLK.proto";
+import "GM5SettingsProto.proto";
 import "PostcardCollectionSettings.proto";
-import "CBBODOBAAHL.proto";
+import "GM6SettingsProto.proto";
+import "GM7SettingsProto.proto";
+import "GM8SettingsProto.proto";
 
 message GameMasterClientTemplateProto {
 	string template_id = 1;
@@ -251,8 +253,8 @@ message GameMasterClientTemplateProto {
 	PowerUpPokestopSharedSettings power_up_pokestop_shared_settings = 107;
 	IncidentPrioritySettingsProto incident_priority_settings = 108;
 	ReferralSettingsProto referral_settings = 109;
-	EOLAIBDNKGG jafhblcnkjc = 110;
-	FCOGCOPNCOE jnjbbiegnhl = 111;
+	GM1SettingsProto ob_gm_1_settings = 110;
+	GM2SettingsProto ob_gm_2_settings = 111;
 	AppraisalStarThresholdSettings appraisal_star_threshold_settings = 112;
 	PokedexCategoriesSettings pokedex_categories_settings = 114;
 	BattleVisualSettings battle_visual_settings = 115;
@@ -266,14 +268,16 @@ message GameMasterClientTemplateProto {
 	MapObjectsInteractionRangeSettings map_objects_interaction_range_settings = 123;
 	ExternalAddressableAssetsSettings external_addressable_assets_settings = 124;
 	EvolePreviewSettings evolve_preview_settings = 125;
-	FHEOFILILNM fdonldfcjkj = 126;
+	GM3SettingsProto ob_gm_3_settings = 126;
 	PushGatewaySettings push_gateway_settings = 127;
 	UsernameSuggestionSettings username_suggestion_settings = 128;
 	TutorialsSettings tutorials_settings = 129;
 	EggHatchImprovementsSettings egg_hatch_improvements_settings = 130;
-	INPCCMJIOIL pabonknmdlk = 131;
+	GM4SettingsProto ob_gm_4_settings = 131;
 	SurveySettings survey_settings = 132;
-	CLOGIAFCLLK dchlnpkoncg = 133;
+	GM5SettingsProto ob_gm_5_settings = 133;
 	PostcardCollectionSettings postcard_collection_settings = 134;
-	CBBODOBAAHL mjphmhnnbjd = 135;
+	GM6SettingsProto ob_gm_6_settings = 135;
+	GM7SettingsProto ob_gm_7_settings = 136;
+	GM8SettingsProto ob_gm_8_settings = 137;
 }

@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -26,6 +26,7 @@ import "PokemonStatsAttributesProto.proto";
 import "HoloPokemonType.proto";
 import "PokemonCameraAttributesProto.proto";
 import "PokemonEncounterAttributesProto.proto";
+import "ObPokemonSetting.proto";
 
 message TempEvoOverrideProto {
 	HoloTemporaryEvolutionId temp_evo_id = 1;
@@ -43,4 +44,5 @@ message TempEvoOverrideProto {
 	repeated float buddy_offset_female = 13;
 	repeated float buddy_portrait_offset = 14;
 	float raid_boss_distance_offset = 15;
+	ObPokemonSetting ob_pokemon_setting = 16;
 }

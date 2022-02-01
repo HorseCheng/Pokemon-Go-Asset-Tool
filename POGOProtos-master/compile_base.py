@@ -3,12 +3,11 @@
 import argparse
 import operator
 import os
-#import re
 import shutil
 from subprocess import call
 
 # Variables
-#global_version = '0.225.x_p_obf'
+#global_version = '0.229.x_p_obf'
 global_version = 'base'
 protoc_executable = "protoc"
 package_name = 'POGOProtos.Rpc'
@@ -16,13 +15,6 @@ input_file = "POGOProtos.Rpc.proto"
 base_file = os.path.abspath("base/vbase.proto")
 protos_path = os.path.abspath("base")
 gen_last_files = os.path.abspath("base/last_files")
-
-
-def is_blank(my_string):
-    if my_string and my_string.strip():
-        return False
-    return True
-
 
 # args
 parser = argparse.ArgumentParser()
@@ -109,7 +101,7 @@ if gen_game_master is not None:
 
 # Add licenses
 head = '/*\n'
-head += '* Copyright 2016-2021 --=FurtiF=--.\n'
+head += '* Copyright 2016-2022 --=FurtiF=--.\n'
 head += '*\n'
 head += '* Licensed under the\n'
 head += '*	Educational Community License, Version 2.0 (the "License"); you may\n'
@@ -127,54 +119,6 @@ head += '*\n* Version: ' + version + '\n*\n'
 head += '*/\n\n'
 head += 'syntax = "proto3";\n'
 head += 'package %s;\n\n' % package_name
-
-## Load Base
-base_enums = {}
-base_messages = {}
-base_as_data = False
-base_is_enum = False
-base_proto_name = ''
-base_data = ''
-
-with open(base_file, 'r') as proto_file:
-    for proto_line in proto_file.readlines():
-        if proto_line.startswith("enum") or proto_line.startswith("message"):
-            base_as_data = True
-            base_proto_name = proto_line.split(" ")[1]
-        if proto_line.startswith("enum"):
-            base_is_enum = True
-        if proto_line.startswith("message"):
-            base_is_enum = False
-        if proto_line.startswith("}"):
-            base_data += proto_line
-            if base_is_enum:
-                base_enums.setdefault(base_proto_name, base_data)
-            else:
-                base_messages.setdefault(base_proto_name, base_data)
-            base_as_data = False
-            base_is_enum = False
-            base_proto_name = ''
-            base_data = ''
-        if base_as_data:
-            base_data += proto_line
-
-# not needed because last base.proto file is already by order alpha..
-# try:
-#     os.remove(base_file)
-# except OSError:
-#     pass
-#
-# open_for_new = open(base_file, 'a')
-# new_base_file = head
-#
-# # Re-order base
-# for p in sorted(base_enums):
-#     new_base_file += base_enums[p] + "\n"
-# for p in sorted(base_messages):
-#     new_base_file += base_messages[p] + "\n"
-#
-# open_for_new.writelines(new_base_file[:-1])
-# open_for_new.close()
 
 # Clean up previous out
 try:
@@ -223,405 +167,15 @@ def open_proto_file(main_file, head):
     open_for_new.writelines(head)
 
     messages = ''
-    proto_name = ''
 
+    ## Delete demos
     with open(main_file, 'r') as proto_file:
         for proto_line in proto_file.readlines():
-            if proto_line.startswith("syntax"):
-                continue
-            if proto_line.startswith("package"):
-                continue
-            # Ignore file licenses
-            if proto_line.startswith("/*"):
-                continue
-            if proto_line.startswith("*"):
-                continue
-            if proto_line.startswith("*/"):
-                continue
-            # ---
-            if is_blank(proto_line):
-                continue
-            if operator.contains(proto_line, "message ") or operator.contains(proto_line, "enum ") or operator.contains(
-                    proto_line, "oneof ") and operator.contains(
-                proto_line, "{"):
-                proto_name = proto_line.split(" ")[1].strip()
-            elif proto_name == "HoloPokemonId" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_ID_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_ID_", "").replace("POKEMON_UNSET",
-                                                                                "V0000_POKEMON_MISSINGNO")
-                proto_line = proto_line.replace(proto_line.split("_POKEMON_")[0].strip(), "").replace("_POKEMON_", "")
-                if operator.contains(proto_line, "NIDORAN") and operator.contains(proto_line, "= 29;"):
-                    proto_line = proto_line.replace("NIDORAN", "NIDORAN_FEMALE")
-                elif operator.contains(proto_line, "NIDORAN") and operator.contains(proto_line, "= 32;"):
-                    proto_line = proto_line.replace("NIDORAN", "NIDORAN_MALE")
-            elif proto_name == "HoloPokemonFamilyId" and not operator.contains(proto_line,
-                                                                               "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_FAMILY_ID_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_FAMILY_ID_", "").replace("FAMILY_UNSET",
-                                                                                       "V0000_FAMILY_UNSET")
-                proto_line = proto_line.replace(proto_line.split("_FAMILY_")[0].strip(), "").replace("_FAMILY_",
-                                                                                                     "FAMILY_")
-                if operator.contains(proto_line, "NIDORAN") and operator.contains(proto_line, "= 29;"):
-                    proto_line = proto_line.replace("NIDORAN", "NIDORAN_FEMALE")
-                elif operator.contains(proto_line, "NIDORAN") and operator.contains(proto_line, "= 32;"):
-                    proto_line = proto_line.replace("NIDORAN", "NIDORAN_MALE")
-            elif proto_name == "HoloBadgeType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_BADGE_TYPE_"):
-                proto_line = proto_line.replace("HOLO_BADGE_TYPE_", "")
-            elif proto_name == "BattleHubSection" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "BATTLE_HUB_SECTION_"):
-                proto_line = proto_line.replace("BATTLE_HUB_SECTION_", "")
-            elif proto_name == "HoloPokemonMove" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_MOVE_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_MOVE_", "").replace("MOVE_UNSET",
-                                                                                  "V0000_MOVE_UNSET")
-                proto_line = proto_line.replace(proto_line.split("_MOVE_")[0].strip(), "").replace("_MOVE_",
-                                                                                                   "").replace("UNSET",
-                                                                                                               "MOVE_UNSET")
-            elif proto_name == "AdFeedbackLikeReason" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line,
-                                                       "AD_FEEDBACK_LIKE_REASON_AD_FEEDBACK_LIKE_REASON_"):
-                proto_line = proto_line.replace("AD_FEEDBACK_LIKE_REASON_AD_FEEDBACK_LIKE_REASON_",
-                                                "AD_FEEDBACK_LIKE_REASON_")
-            elif proto_name == "AdFeedbackComplaintReason" and not operator.contains(proto_line,
-                                                                                     "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line,
-                                                       "AD_FEEDBACK_COMPLAINT_REASON_AD_FEEDBACK_COMPLAINT_REASON_"):
-                proto_line = proto_line.replace("AD_FEEDBACK_COMPLAINT_REASON_AD_FEEDBACK_COMPLAINT_REASON_",
-                                                "AD_FEEDBACK_COMPLAINT_REASON_")
-            elif proto_name == "AdFeedbackNotInterestedReason" and not operator.contains(proto_line,
-                                                                                         "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line,
-                                                       "AD_FEEDBACK_NOT_INTERESTED_REASON_AD_FEEDBACK_NOT_INTERESTED_REASON_"):
-                proto_line = proto_line.replace("AD_FEEDBACK_NOT_INTERESTED_REASON_AD_FEEDBACK_NOT_INTERESTED_REASON_",
-                                                "AD_FEEDBACK_NOT_INTERESTED_REASON_")
-            elif proto_name == "ArMappingEntrySource" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "TITAN_"):
-                proto_line = proto_line.replace("TITAN_", "")
-            elif proto_name == "ArMappingTutorialPage" and not operator.contains(proto_line,
-                                                                                 "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "TITAN_"):
-                proto_line = proto_line.replace("TITAN_", "")
-            elif proto_name == "BattleHubSubsection" and not operator.contains(proto_line,
-                                                                               "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "BATTLE_HUB_SUBSECTION_"):
-                proto_line = proto_line.replace("BATTLE_HUB_SUBSECTION_", "")
-            elif proto_name == "BuddyActivityCategory" and not operator.contains(proto_line,
-                                                                                 "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "BUDDY_ACTIVITY_CATEGORY_BUDDY_CATEGORY_"):
-                proto_line = proto_line.replace("BUDDY_ACTIVITY_CATEGORY_BUDDY_CATEGORY_", "BUDDY_CATEGORY_")
-            elif proto_name == "BuddyActivity" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "BUDDY_ACTIVITY_BUDDY_ACTIVITY_"):
-                proto_line = proto_line.replace("BUDDY_ACTIVITY_BUDDY_ACTIVITY_", "BUDDY_ACTIVITY_")
-            elif proto_name == "BuddyAnimation" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "BUDDY_ANIMATION_BUDDY_ANIMATION_"):
-                proto_line = proto_line.replace("BUDDY_ANIMATION_BUDDY_ANIMATION_", "BUDDY_ANIMATION_")
-            elif proto_name == "BuddyEmotionLevel" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "BUDDY_EMOTION_LEVEL_BUDDY_EMOTION_LEVEL_"):
-                proto_line = proto_line.replace("BUDDY_EMOTION_LEVEL_BUDDY_EMOTION_LEVEL_", "BUDDY_EMOTION_LEVEL_")
-            elif proto_name == "BuddyLevel" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "BUDDY_LEVEL_BUDDY_LEVEL_"):
-                proto_line = proto_line.replace("BUDDY_LEVEL_BUDDY_LEVEL_", "BUDDY_LEVEL_")
-            elif proto_name == "CameraInterpolation" and not operator.contains(proto_line,
-                                                                               "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "CAMERA_INTERPOLATION_"):
-                proto_line = proto_line.replace("CAMERA_INTERPOLATION_", "")
-            elif proto_name == "CameraTarget" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "CAMERA_TARGET_"):
-                proto_line = proto_line.replace("CAMERA_TARGET_", "")
-            elif proto_name == "CombatType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "COMBAT_TYPE_COMBAT_TYPE_"):
-                proto_line = proto_line.replace("COMBAT_TYPE_COMBAT_TYPE_", "COMBAT_TYPE_")
-            elif proto_name == "EggIncubatorType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "EGG_INCUBATOR_TYPE_"):
-                proto_line = proto_line.replace("EGG_INCUBATOR_TYPE_", "")
-            elif proto_name == "EggSlotType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "EGG_SLOT_TYPE_"):
-                proto_line = proto_line.replace("EGG_SLOT_TYPE_", "")
-            elif proto_name == "FeatureKind" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "FeatureType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "FortType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "FORT_TYPE_"):
-                proto_line = proto_line.replace("FORT_TYPE_", "")
-            elif proto_name == "GameChatActions" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "GuiTransitionType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "GymBadgeType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "GYM_BADGE_TYPE_GYM_BADGE_"):
-                proto_line = proto_line.replace("GYM_BADGE_TYPE_GYM_BADGE_", "GYM_BADGE_")
-            elif proto_name == "HoloActivityType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_ACTIVITY_TYPE_"):
-                proto_line = proto_line.replace("HOLO_ACTIVITY_TYPE_", "")
-            elif proto_name == "HoloItemCategory" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_ITEM_CATEGORY_"):
-                proto_line = proto_line.replace("HOLO_ITEM_CATEGORY_", "")
-            elif proto_name == "HoloIapItemCategory" and not operator.contains(proto_line,
-                                                                               "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLO_IAP_ITEM_CATEGORY_"):
-                proto_line = proto_line.replace("HOLO_IAP_ITEM_CATEGORY_", "")
-            elif proto_name == "HoloItemEffect" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_ITEM_EFFECT_"):
-                proto_line = proto_line.replace("HOLO_ITEM_EFFECT_", "")
-            elif proto_name == "HoloItemEffect" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_ITEM_EFFECT_"):
-                proto_line = proto_line.replace("HOLO_ITEM_EFFECT_", "")
-            elif proto_name == "HoloItemType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_ITEM_TYPE_"):
-                proto_line = proto_line.replace("HOLO_ITEM_TYPE_", "")
-            elif proto_name == "FriendshipLevelMilestone" and not operator.contains(proto_line,
-                                                                                    "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "FRIENDSHIP_LEVEL_MILESTONE_FRIENDSHIP_LEVEL_"):
-                proto_line = proto_line.replace("FRIENDSHIP_LEVEL_MILESTONE_FRIENDSHIP_LEVEL_", "FRIENDSHIP_LEVEL_")
-            elif proto_name == "HoloPokemonClass" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_CLASS_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_CLASS_", "")
-            elif proto_name == "HoloPokemonEggType" and not operator.contains(proto_line,
-                                                                              "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_EGG_TYPE_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_EGG_TYPE_", "")
-            elif proto_name == "HoloPokemonMovementType" and not operator.contains(proto_line,
-                                                                                   "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_MOVEMENT_TYPE_POKEMON_ENC_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_MOVEMENT_TYPE_POKEMON_ENC_", "")
-            elif proto_name == "HoloPokemonNature" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_NATURE_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_NATURE_", "").replace("NATURE_UNKNOWN",
-                                                                                    "V0000_POKEMON_NATURE_UNKNOWN")
-                proto_line = proto_line.replace(proto_line.split("_POKEMON_NATURE_")[0].strip(), "").replace(
-                    "_POKEMON_", "POKEMON_")
-            elif proto_name == "HoloPokemonType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "HOLO_POKEMON_TYPE_"):
-                proto_line = proto_line.replace("HOLO_POKEMON_TYPE_", "")
-            elif proto_name == "HoloTemporaryEvolutionId" and not operator.contains(proto_line,
-                                                                                    "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLO_TEMPORARY_EVOLUTION_ID_"):
-                proto_line = proto_line.replace("HOLO_TEMPORARY_EVOLUTION_ID_", "")
-            elif proto_name == "IdentityProvider" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "InventoryUpgradeType" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "INVENTORY_UPGRADE_TYPE_"):
-                proto_line = proto_line.replace("INVENTORY_UPGRADE_TYPE_", "")
-            elif proto_name == "InvitationType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_INVITATION_TYPE_INVITATION_TYPE_"):
-                proto_line = proto_line.replace("PLATFORM_INVITATION_TYPE_INVITATION_TYPE_", "INVITATION_TYPE_")
-            elif proto_name == "Item" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "ITEM_ITEM_"):
-                if operator.contains(proto_line, "ITEM_ITEM_ITEM_STORAGE_UPGRADE"):
-                    proto_line = proto_line.replace("ITEM_ITEM_ITEM_STORAGE_UPGRADE", "ITEM_ITEM_STORAGE_UPGRADE")
-                elif not operator.contains(proto_line, "ITEM_ITEM_STORAGE_UPGRADE"):
-                    proto_line = proto_line.replace("ITEM_ITEM_", "ITEM_")
-            elif proto_name == "MapLayer" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "Method" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "METHOD_METHOD_"):
-                proto_line = proto_line.replace("METHOD_METHOD_", "METHOD_")
-            elif proto_name == "NotificationCategory" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "_unset__notification_category"):
-                proto_line = proto_line.replace("_unset__notification_category", "_UNSET")
-            elif proto_name == "NotificationState" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "OmniNotificationSubscriptionType" and not operator.contains(proto_line,
-                                                                                            "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "OnboardingType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "POIDecorationFollowFlags" and not operator.contains(proto_line,
-                                                                                    "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line,
-                                                       "POI_DECORATION_FOLLOW_FLAGS_POIDECORATIONFOLLOWFLAGS_AUTO_INVALID"):
-                proto_line = proto_line.replace("POI_DECORATION_FOLLOW_FLAGS_POIDECORATIONFOLLOWFLAGS_AUTO_INVALID",
-                                                "POI_DECORATION_FOLLOW_FLAGS_UNSET")
-            elif proto_name == "Platform" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_PLATFORM_", "PLATFORM_")
-            elif proto_name == "PlatformClientAction" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "PLATFORM_PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_PLATFORM_", "")
-            elif proto_name == "PlayerAvatarType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLAYER_AVATAR_TYPE_"):
-                proto_line = proto_line.replace("PLAYER_AVATAR_TYPE_", "")
-            elif proto_name == "PlayerSubmissionAction" and not operator.contains(proto_line,
-                                                                                  "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "TITAN_"):
-                proto_line = proto_line.replace("TITAN_", "")
-            elif proto_name == "PlayerSubmissionTypeProto" and not operator.contains(proto_line,
-                                                                                     "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "PoiEditImageEntrySource" and not operator.contains(proto_line,
-                                                                                   "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "TITAN_"):
-                proto_line = proto_line.replace("TITAN_", "")
-            elif proto_name == "PoiImageType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "PoiInvalidReason" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "PokemonBadge" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "POKEMON_BADGE_POKEMON_BADGE_"):
-                proto_line = proto_line.replace("POKEMON_BADGE_POKEMON_BADGE_", "POKEMON_BADGE_")
-            elif proto_name == "PokemonCreateContext" and not operator.contains(proto_line,
-                                                                                "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "POKEMON_CREATE_CONTEXT_"):
-                proto_line = proto_line.replace("POKEMON_CREATE_CONTEXT_", "")
-            elif proto_name == "PokemonTagColor" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "POKEMON_TAG_COLOR_POKEMON_TAG_COLOR_"):
-                proto_line = proto_line.replace("POKEMON_TAG_COLOR_POKEMON_TAG_COLOR_", "POKEMON_TAG_COLOR_")
-            elif proto_name == "ProviderType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "QuestType" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "QUEST_TYPE_"):
-                proto_line = proto_line.replace("QUEST_TYPE_", "")
-            elif proto_name == "RaidLevel" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "RAID_LEVEL_RAID_LEVEL_"):
-                proto_line = proto_line.replace("RAID_LEVEL_RAID_LEVEL_", "RAID_LEVEL_")
-            elif proto_name == "SouvenirTypeId" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "SOUVENIR_TYPE_ID_"):
-                proto_line = proto_line.replace("SOUVENIR_TYPE_ID_", "")
-            elif proto_name == "SponsorPoiInvalidReason" and not operator.contains(proto_line,
-                                                                                   "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "Store" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "STORE_STORE_"):
-                proto_line = proto_line.replace("STORE_STORE_", "STORE_")
-            elif proto_name == "Team" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "TEAM_TEAM_"):
-                proto_line = proto_line.replace("TEAM_TEAM_", "TEAM_")
-            elif proto_name == "TutorialCompletion" and not operator.contains(proto_line,
-                                                                              "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "TUTORIAL_COMPLETION_"):
-                proto_line = proto_line.replace("TUTORIAL_COMPLETION_", "")
-            elif proto_name == "VariableName" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "unset__variable_name"):
-                proto_line = proto_line.replace("unset__variable_name", "UNSET")
-            elif proto_name == "SubscriptionState" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "PLATFORM_"):
-                proto_line = proto_line.replace("PLATFORM_", "")
-            elif proto_name == "PokemonAlignment" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "ALIGNMENT_UNSET "):
-                proto_line = proto_line.replace("POKEMON_ALIGNMENT_ALIGNMENT_UNSET", "POKEMON_ALIGNMENT_UNSET")
-            elif proto_name == "PokemonGender" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "GENDER_UNSET "):
-                proto_line = proto_line.replace("POKEMON_GENDER_GENDER_UNSET", "POKEMON_GENDER_UNSET")
-            elif proto_name == "GameChatActions" and not operator.contains(proto_line, "{") and not operator.contains(
-                    proto_line, "}") and operator.contains(proto_line, "GAME_CHAT_ACTIONS_"):
-                proto_line = proto_line.replace("GAME_CHAT_ACTIONS_", "")
-            elif proto_name == "HoloholoClientTelemetryIds" and not operator.contains(proto_line,
-                                                                                      "{") and not operator.contains(
-                proto_line, "}") and operator.contains(proto_line, "HOLOHOLO_"):
-                proto_line = proto_line.replace("HOLOHOLO_", "")
-
-            ## Others conditions...
-            if operator.contains(proto_line, "enum Platform"):
-                proto_line = proto_line.replace("Platorm", "REF_PY_1")
-            ##
-
-            ## fixes int32 team, pokemon_id and others..
-            ## Note this is too obfuscated to use this
-            # if operator.contains(proto_line, "int32 team "):
-            #     proto_line = proto_line.replace("int32", "Team")
-            # elif operator.contains(proto_line, "int32 pokedex_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 pokedex_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 move1 "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            # elif operator.contains(proto_line, "int32 move2 "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            # elif operator.contains(proto_line, "int32 move3 "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            # elif operator.contains(proto_line, "int32 move "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonMove")
-            # elif operator.contains(proto_line, "int32 pokemon_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 display_pokedex_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 rarity "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonClass")
-            # elif operator.contains(proto_line, "int32 pokemon_type_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 pokedex_entry_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 pokemon_family_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonFamilyId")
-            # # elif operator.contains(proto_line, "int32 pokedex_entry_number "):
-            # #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 guard_pokemon_id "):
-            #     proto_line = proto_line.replace("int32", "HoloPokemonId")
-            # elif operator.contains(proto_line, "int32 item_id "):
-            #     proto_line = proto_line.replace("int32", "Item")
-            # elif operator.contains(proto_line, "int32 pokeball "):
-            #     proto_line = proto_line.replace("int32", "Item")
-            # elif operator.contains(proto_line, "int32 balltype "):
-            #     proto_line = proto_line.replace("int32", "Item")
-            # elif operator.contains(proto_line, "int32 severity "):
-            #     proto_line = proto_line.replace("int32", "WeatherAlertProto.Severity")
-            # ## others conditions
-            if operator.contains(proto_line, "Platform "):
-                proto_line = proto_line.replace("Platform", "REF_PY_1")
-            ##
-
             messages += proto_line
-
-            if not proto_line.startswith("}") and operator.contains(proto_line, "}"):
-                messages += "\n"
-
-            if proto_line.startswith("}"):
-                messages += "\n"
-                # ignored_one_of.clear()
-                # proto_name = ''
-
-    ## clean bad spaces...
-    messages = messages.replace("}\n\n}", "}\n}")
-    messages = messages.replace("\t\t}\n\n\t}", "\t\t}\n\t}")
-    ## fixes other names...
-    messages = messages.replace("Titan", "")
-    messages = messages.replace("Platform", "")
-    # revert ref_py_x
-    messages = messages.replace("REF_PY_1", "Platform")
-    ##
 
     ## check in messages basic obfuscated names...
     proto_name = ''
-    messages_dic = {}
     for proto_line in messages.split("\n"):
-        if is_blank(proto_line):
-            continue
-        if operator.contains(proto_line, "message ") or operator.contains(proto_line, "enum ") or operator.contains(
-                proto_line, "oneof ") and operator.contains(
-            proto_line, "{"):
-            proto_name = proto_line.split(" ")[1].strip()
-        if proto_line == '':
-            continue
-        if operator.contains(proto_line, " result =") and len(
-                proto_line.split(" ")[0].strip()) == 11 and proto_line.split(" ")[0].strip().isupper():
-            messages_dic.setdefault(proto_line.split(" ")[0].strip(), "Result")
-        elif operator.contains(proto_line, " status =") and len(
-                proto_line.split(" ")[0].strip()) == 11 and proto_line.split(" ")[0].strip().isupper():
-            messages_dic.setdefault(proto_line.split(" ")[0].strip(), "Status")
-        elif operator.contains(proto_line, "CHARACTER_BLANCHE = 1;") and len(proto_name) == 11 and proto_name.isupper():
-            messages_dic.setdefault(proto_name, "InvasionCharacter")
-
         if operator.contains(proto_line, "{") and len(proto_name) == 11 and proto_name.isupper():
             if operator.contains(proto_line, "oneof "):
                 print("OneOf: " + proto_name)
@@ -629,12 +183,6 @@ def open_proto_file(main_file, head):
                 print("Message: " + proto_name)
             else:
                 print("Enum: " + proto_name)
-
-    ## fix messages obfuscated names
-    # print("Cleaning process on messages...")
-    for _message in messages_dic:
-        # print("Obfuscated message name " + _message + " clean message name " + messages_dic[_message])
-        messages = messages.replace(_message, messages_dic[_message])
 
     ## Reorder all this...
     new_base_enums = {}
@@ -657,11 +205,6 @@ def open_proto_file(main_file, head):
             if new_base_is_enum:
                 new_base_enums.setdefault(new_base_proto_name, new_base_data)
             else:
-                # fix Weather stuff
-                if new_base_proto_name == "WeatherAlertProto" and not operator.contains(new_base_data, "Severity severity = 1;"):
-                    new_base_data = new_base_data.replace("bool warn_weather = 2;", "Severity severity = 1;\n\tbool warn_weather = 2;")
-                if new_base_proto_name == "GameplayWeatherProto" and not operator.contains(new_base_data, "WeatherCondition gameplay_condition = 1;"):
-                    new_base_data = new_base_data.replace("\t}", "\t}\n\n\tWeatherCondition gameplay_condition = 1;")
                 new_base_messages.setdefault(new_base_proto_name, new_base_data)
             new_base_as_data = False
             new_base_is_enum = False
@@ -670,24 +213,14 @@ def open_proto_file(main_file, head):
         if new_base_as_data:
             new_base_data += proto_line + "\n"
 
-    ## TODO: Compare from matrix base or last full cleaned
-    for m in new_base_messages:
-        if m in base_messages:
-            proto_obf = new_base_messages[m]
-            proto_clean = base_messages[m]
-            #.....
-    ##
-
     new_base_file = ''
     head_file = None
 
     if (gen_files):
         if os.path.exists(gen_last_files):
             shutil.rmtree(gen_last_files)
-
         if not os.path.exists(gen_last_files):
             os.makedirs(gen_last_files)
-
         head_file = head.replace('*\n* Version: ' + version + '\n*\n', '*\n* Note: For references only.\n*\n')
 
     for p in sorted(new_base_enums):
@@ -719,7 +252,7 @@ def open_proto_file(main_file, head):
                 if message.startswith("message") or message.startswith("enum") or message.startswith("}"):
                     continue
                 elif message.startswith('\tmap<'):
-                    v = message.split("map<")[1].strip().split('>')[0].strip().replace(",","")
+                    v = message.split("map<")[1].strip().split('>')[0].strip().replace(",", "")
                     v1 = v.split(" ")[0].strip() + '.proto'
                     v2 = v.split(" ")[1].strip() + '.proto'
                     if os.path.exists(gen_last_files + "/" + v1):
@@ -728,7 +261,8 @@ def open_proto_file(main_file, head):
                     if os.path.exists(gen_last_files + "/" + v2):
                         if v2 not in includes:
                             includes.append(v2)
-                elif message.startswith('\trepeated') or message.startswith('\t\trepeated') or message.startswith('\t\t\trepeated'):
+                elif message.startswith('\trepeated') or message.startswith('\t\trepeated') or message.startswith(
+                        '\t\t\trepeated'):
                     file_for_includes = message.split(" ")[1].strip() + '.proto'
                     if os.path.exists(gen_last_files + "/" + file_for_includes) and file_for_includes not in includes:
                         includes.append(file_for_includes)
@@ -809,7 +343,6 @@ generated_file = raw_proto_file.replace(raw_name, input_file)
 descriptor_file = generated_file.replace(".proto", ".desc")
 descriptor_file_arguments = ['--include_source_info', '--include_imports']
 
-# small ???
 try:
     os.unlink(descriptor_file)
 except OSError:

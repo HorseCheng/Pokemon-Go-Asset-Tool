@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -28,4 +28,7 @@ message MegaEvoSettingsProto {
 	int32 max_candy_hoard_size = 4;
 	bool enable_buddy_walking_mega_energy_award = 5;
 	int32 active_mega_bonus_catch_candy = 6;
+	bool ob_mega_evo_bool_1 = 7;
+	bool ob_mega_evo_bool_2 = 8;
+	int32 ob_mega_evo_int32 = 9;
 }

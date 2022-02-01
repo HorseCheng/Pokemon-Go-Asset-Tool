@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -22,19 +22,6 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message EnumWrapper {
-	enum CharacterCategory {
-		UNSET = 0;
-		TEAM_LEADER = 1;
-		GRUNT = 2;
-		ARLO = 3;
-		CLIFF = 4;
-		SIERRA = 5;
-		GIOVANNI = 6;
-		GRUNTBF = 7;
-		GRUNTBM = 8;
-		EVENT_NPC = 9;
-	}
-
 	enum InvasionCharacter {
 		CHARACTER_UNSET = 0;
 		CHARACTER_BLANCHE = 1;
@@ -138,6 +125,35 @@ message EnumWrapper {
 		CHARACTER_EVENT_NPC_8 = 508;
 		CHARACTER_EVENT_NPC_9 = 509;
 		CHARACTER_EVENT_NPC_10 = 510;
+		CHARACTER_EVENT_NPC_BLANCHE = 511;
+		CHARACTER_EVENT_NPC_CANDELA = 512;
+		CHARACTER_EVENT_NPC_SPARK = 513;
+	}
+
+	enum InvasionContext {
+		POKESTOP_INCIDENT = 0;
+		ROCKET_BALLOON = 1;
+		QUEST_REWARD_INCIDENT = 2;
+	}
+
+	enum CharacterCategory {
+		UNSET = 0;
+		TEAM_LEADER = 1;
+		GRUNT = 2;
+		ARLO = 3;
+		CLIFF = 4;
+		SIERRA = 5;
+		GIOVANNI = 6;
+		GRUNTBF = 7;
+		GRUNTBM = 8;
+		EVENT_NPC = 9;
+		PLAYER_TEAM_LEADER = 10;
+	}
+
+	enum PokestopStyle {
+		POKESTOP_NORMAL = 0;
+		POKESTOP_ROCKET_INVASION = 1;
+		POKESTOP_ROCKET_VICTORY = 2;
 	}
 
 	enum InvasionCharacterExpression {
@@ -150,17 +166,5 @@ message EnumWrapper {
 		CHALLENGE = 6;
 		VICTORY = 7;
 		DEFEAT = 8;
-	}
-
-	enum InvasionContext {
-		POKESTOP_INCIDENT = 0;
-		ROCKET_BALLOON = 1;
-		QUEST_REWARD_INCIDENT = 2;
-	}
-
-	enum PokestopStyle {
-		POKESTOP_NORMAL = 0;
-		POKESTOP_ROCKET_INVASION = 1;
-		POKESTOP_ROCKET_VICTORY = 2;
 	}
 }

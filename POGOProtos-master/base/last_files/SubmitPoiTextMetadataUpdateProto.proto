@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -25,5 +25,4 @@ message SubmitPoiTextMetadataUpdateProto {
 	string poi_id = 1;
 	string title = 2;
 	string description = 3;
-	string category_suggestion = 4;
 }

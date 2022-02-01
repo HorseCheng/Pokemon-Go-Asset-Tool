@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "PokemonBadge.proto";
 import "HoloTemporaryEvolutionId.proto";
+import "ObPokemonDisplayField.proto";
 
 message PokemonDisplayProto {
 	enum Alignment {
@@ -2333,11 +2334,14 @@ message PokemonDisplayProto {
 		CALYREX_NORMAL = 2725;
 		CALYREX_ICE_RIDER = 2726;
 		CALYREX_SHADOW_RIDER = 2727;
+		VOLTORB_HISUIAN = 2728;
 		LUGIA_S = 2729;
 		HO_OH_S = 2730;
 		RAIKOU_S = 2731;
 		ENTEI_S = 2732;
 		SUICUNE_S = 2733;
+		SLOWKING_2022 = 2734;
+		ELECTRODE_HISUIAN = 2735;
 	}
 
 	enum Gender {
@@ -2360,4 +2364,5 @@ message PokemonDisplayProto {
 	HoloTemporaryEvolutionId locked_temp_evolution = 11;
 	Costume original_costume = 12;
 	int64 display_id = 13;
+	ObPokemonDisplayField ob_pokemon_display = 14;
 }

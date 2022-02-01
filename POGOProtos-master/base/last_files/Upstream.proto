@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -21,8 +21,6 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "ClientOperatingSystem.proto";
-
 message Upstream {
 	oneof Message {
 		SubscriptionRequest subscribe = 3;
@@ -30,7 +28,15 @@ message Upstream {
 	}
 
 	message ProbeResponse {
+		enum NetworkType {
+			UNSET = 0;
+			DATA = 1;
+			WIFI = 2;
+		}
+
 		int64 probe_start_ms = 1;
+		string game_context = 2;
+		NetworkType network_type = 3;
 	}
 
 	message SubscriptionRequest {
@@ -38,5 +44,4 @@ message Upstream {
 
 	int64 request_id = 1;
 	bytes token = 2;
-	ClientOperatingSystem client_os = 5;
 }

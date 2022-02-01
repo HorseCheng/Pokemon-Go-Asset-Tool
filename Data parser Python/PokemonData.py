@@ -46,23 +46,23 @@ for value,char in enumerate(chi):
     if(x):
         key=re.findall("[0-9]+",char)
         if len(key)==1:
-            catdict[str(key[0])]=chi[value+1]
+            catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
         else:
             if int(key[1])<100: 
-                catdict[str(key[0])+"_ALOLA"]=chi[value+1]
+                catdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
             else:
-                catdict[str(key[0])+"_GALARIAN"]=chi[value+1]
+                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
 
     x=re.search("pokemon_desc_[0-9]+", char)
     if(x):
         key=re.findall("[0-9]+", char)
         if len(key)==1:
-            introdict[str(key[0])]=chi[value+1]
+            introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
         else:
             if int(key[1])<100: 
-                introdict[str(key[0])+"_ALOLA"]=chi[value+1]
+                introdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
             else:  
-                introdict[str(key[0])+"_GALARIAN"]=chi[value+1]
+                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
 
     x=re.search("pokemon_desc_tmpevo_[0-9]+", char)
     if(x):
@@ -114,9 +114,6 @@ chimovedict["0295"] = "氣象球 (水)"
 chimovedict["0352"] = "氣象球 (一般)"
 engmovedict["0352"] = "Weather Ball"
 
-chimovedict["0353"] = "精神之牙"
-engmovedict["0353"] = "Psychic Fangs"
-
 engmovedict["0336"] = "Techno Blast"
 chimovedict["0336"] = "高科技光炮 (一般)"
 engmovedict["0337"] = "Techno Blast"
@@ -127,6 +124,9 @@ engmovedict["0339"] = "Techno Blast"
 chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
+
+chimovedict["0359"] = "冰錐"
+engmovedict["0359"] = "Icicle Spear"
 
 # Pokemon class
 class pokemon():

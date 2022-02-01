@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -30,7 +30,7 @@ import "PokemonDisplayProto.proto";
 import "RaidInfoProto.proto";
 import "GymDisplayProto.proto";
 import "PokestopIncidentDisplayProto.proto";
-import "PokemonFortProtoNew.proto";
+import "PowerUpPokestopShared.proto";
 
 message PokemonFortProto {
 	string fort_id = 1;
@@ -72,5 +72,5 @@ message PokemonFortProto {
 	int64 power_up_remaining_until_ms = 38;
 	int64 ob_pokemon_fort_int64_1 = 39;
 	int64 ob_pokemon_fort_int64_2 = 40;
-	repeated PokemonFortProtoNew ob_pokemon_fort_proto_new = 41;
+	repeated PowerUpPokestopShared power_up_pokestop_shared = 41;
 }

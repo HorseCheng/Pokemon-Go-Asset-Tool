@@ -1,5 +1,5 @@
 /*
-* Copyright 2016-2021 --=FurtiF=--.
+* Copyright 2016-2022 --=FurtiF=--.
 *
 * Licensed under the
 *	Educational Community License, Version 2.0 (the "License"); you may
@@ -22,7 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AdDetails.proto";
-import "ObWasabiStuff.proto";
+import "ObAttackRaidBattle.proto";
 
 message GetGeofencedAdOutProto {
 	enum Result {
@@ -35,5 +35,5 @@ message GetGeofencedAdOutProto {
 
 	Result result = 1;
 	AdDetails ad_details = 2;
-	ObWasabiStuff ob_wasabi = 3;
+	ObAttackRaidBattle ob_attack_raid_battle = 3;
 }
