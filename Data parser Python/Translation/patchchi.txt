@@ -1,19 +1,52 @@
 刪除帳號
 刪除Pokémon GO帳號後，你或任何人都無法開啟這個帳號。帳號刪除後無法被救回。
 下載Niantic AR套組，體驗更全面的AR樂趣。
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+要打就快啦！我沒時間理你！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+怎麼又是你？你不煩我都煩了！
+看來你實力不怎麼樣嘛，而且我還越來越強呢……
+看來你實力不怎麼樣嘛，而且我還越來越強呢……
+看來你實力不怎麼樣嘛，而且我還越來越強呢……
+看來你實力不怎麼樣嘛，而且我還越來越強呢……
+看來你實力不怎麼樣嘛，而且我還越來越強呢……
 Verizon背包
 2022派對眼鏡
 弗拉達利　手套
 單首龍帽
+花蓓蓓髮飾
 黏黏寶帽
 假日盛裝 帽子
 調查組頭巾
 New Year 2022 髮箍
 嗡蝠帽
 Verizon帽
+花蓓蓓短褲
 假日盛裝 褲子
 弗拉達利　西裝褲
 New Year 2022 長褲
+花蓓蓓襯衫
 假日盛裝 外套
 胡帕T恤
 調查組全身套組
@@ -22,19 +55,24 @@ New Year 2022 上衣套組
 調查組草鞋
 弗拉達利　皮鞋
 New Year 2022 短靴
+短襪
+短襪
 Verizon背包
 2022派對眼鏡
 弗拉達利　手套
 單首龍帽
+花蓓蓓髮飾
 黏黏寶帽
 假日盛裝 帽子
 調查組帽
 New Year 2022 髮箍
 嗡蝠帽
 Verizon帽
+花蓓蓓短褲
 假日盛裝 褲子
 弗拉達利　西裝褲
 New Year 2022 長褲
+花蓓蓓襯衫
 假日盛裝 外套
 胡帕T恤
 調查組全身套組
@@ -43,6 +81,9 @@ New Year 2022 上衣套組
 調查組草鞋
 弗拉達利　皮鞋
 New Year 2022 短靴
+短襪
+短襪
+精選
 2021年12月：全家便利商店
 2021年12月：INFORICH
 2021年12月：SoftBank
@@ -55,13 +96,21 @@ Pokémon GO
 Pokémon GO Tour：城都
 全球，2022年2月26日
 Pokémon GO Tour：城都
+Monterrey, Mexico, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Monterrey Test, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Kaohsiung, Taiwan, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Kaohsiung Test, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
 全球，2022年2月26日
 Pokémon GO Tour：城都
 全球，2022年2月26日
 Pokémon GO Tour：城都
-Bonus Hoppip XL Candy from Skiploom
-Earn {0} more hearts with your buddy to become {1}!
-Earn {0} more heart with your buddy to become {1}!
+捉到毽子花時可獲得更多毽子草的糖果XL
+獲得 {0} 顆心心後，就能和你的夥伴成為 {1} ！
+獲得 {0} 顆心心後，就能和你的夥伴成為 {1} ！
 高級禮盒
 特別禮盒
 冒險禮盒
@@ -69,7 +118,7 @@ Earn {0} more heart with your buddy to become {1}!
 經典社群日：妙蛙種子
 2021年12月社群日
 2021年12月社群日週末
-Community Day: Hoppip
+社群日：毽子草
 社群日：海豹球
 收藏家挑戰：龍螺旋之塔尋謎
 龍螺旋之塔尋謎
@@ -106,18 +155,36 @@ Community Day: Hoppip
 弗拉達利　姿勢
 每天捉到第1隻寶可夢時可獲得雙倍星星沙子
 Ruby Cream
+藍花
+橙花
+紅花
+白花
+黃花
+藍花
+橙花
+紅花
+白花
+黃花
+藍花
+橙花
+紅花
+白花
+黃花
 舞步形態
 Ruby Swirl
-Check out your Daily Free Box today in the Shop that has items just for you!
-There are some items customized just for you in your Daily Free Box in the Shop!
+快去商店看看今天的免費禮盒吧！
+免費禮盒裡有很多適合你的道具，快去商店看看吧！
+可將多麗米亞修剪成心形造型
+在團體戰中捕捉到的艾路雷朵和沙奈朵將學會同步干擾
+讓奇魯莉安進化成沙奈朵或艾路雷朵，牠將能學會「同步干擾」
 一張可以獲得妙蛙種子經典社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2022年1月22日14:00～17:00時領取特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 妙蛙種子經典社群日入場券
 一張可以獲得十二月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2021年12月18、19日11:00～17:00時領取十二月社群日特殊調查。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 2021年12月社群日入場券
 不論你身處世界的何處，你都可以使用這張入場券領取特殊調查「解放惡作劇」。只要在台灣時間2021年12月1日9:59前完成特殊調查「不被理解的光怪陸離」，就能免費領取此特殊調查。免費領取到此特殊調查的訓練家也可以到商店購買此入場券，取得相同的課題並獲得相同獎勵。詳情請至遊戲內快訊或官方部落格確認。若要參加「解放惡作劇」特殊調查，你必須先在特殊調查「不被理解的光怪陸離」中捉到胡帕。
 「解放惡作劇」入場券
-A ticket to access the Hop, Skip, and a Jump away Special Research on February 12, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
-Hop, Skip, and a Jump away
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年2月12日11:00～17:00領取毽子草社群日的特殊調查「飄飄毽子草」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+飄飄毽子草
 一張可以獲得一月社群日特殊調查的入場券。不論你身處世界何處，你都可以使用這張入場券在當地時間2022年1月16日11:00～17:00時領取一月社群日特殊調查「圓圓海豹球」。詳情請至遊戲內快訊確認。 請務必在上述活動時間內參與，以取得活動獎勵。
 「圓圓海豹球」入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年2月26日的9:00～21:00參加遊戲裡的「Pokémon GO Tour：城都」活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
@@ -126,155 +193,166 @@ Pokémon GO Tour：城都
 月
 週
 開啟友情禮物時將能獲得雙倍星星沙子
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-你最好專心跟本姑娘打！
-你最好專心跟我打！
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-GO火箭隊在打什麼壞主意？怎麼可能。
-GO火箭隊在打什麼壞主意？你別說笑了。
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-我真是太弱了……
-什麼？已經結束了……？
-我真是太弱了……
-什麼？已經結束了……？
-我真是太弱了……
-什麼？已經結束了……？
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-什麼？已經結束了……？
-什麼？已經結束了……？
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-什麼？已經結束了……？
-什麼？已經結束了……？
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-我真是太弱了……
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-什麼？已經結束了……？
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！本姑娘陪你玩玩啊！
-喂！我來陪你玩玩啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-喂！我在叫你啊！
-呵呵，我看你眼淚都要掉下來了？
-哈哈，我看你眼淚都要掉下來了？
-呵呵，我看你眼淚都要掉下來了？
-哈哈，我看你眼淚都要掉下來了？
-呵呵，我看你眼淚都要掉下來了？
-哈哈，我看你眼淚都要掉下來了？
-哼！我很厲害吧！
-哈哈，我看你眼淚都要掉下來了？
-哼！我很厲害吧！
-哼！我很厲害吧！
-哼！我很厲害吧！
-哼！我很厲害吧！
-哼！我很厲害吧！
-哼！我很厲害吧！
+選擇金版
+選擇銀版
+要選擇金版嗎？
+要選擇銀版嗎？
+GO Tour 城都：金版
+GO Tour 城都：銀版
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+我們永遠都會比昨天更強大！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+啊啊……你是贏不了亞洛大人的！！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+你永遠無法打敗GO火箭隊！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
+哈！你連我都打不贏，別妄想打贏亞洛大人！
 洗翠的樣子
 {0} 小時
 薰香可吸引小山豬
+無效對戰更新
+對戰尚未結束
+對戰已結束
+Battle not found.
+不明對戰錯誤
 只要擁有這張入場券，不論你身在何處，都能在當地時間2022年1月22日14:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2022年1月22日活動時間內領取特殊調查。
 A ticket to access Special Research on February 12, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -287,25 +365,25 @@ This ticket will automatically activate to give you access to Special Research o
 釘選明信片，為自己和朋友的回憶留下紀錄。
 明信片收納冊
 城都盃
-https://niantic.helpshift.com/a/pokemon-go/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
-https://niantic.helpshift.com/a/pokemon-go/?s=others&f=%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
 Link 1
 Link 2
 農曆新年：捕捉大挑戰
 農曆新年：友誼大挑戰
 弗拉達利　姿勢
-Built at 2022-01-29T00:34:44.764846at SHA 894f07e9d42bdee29ee25a19170d1d02a637be99Patch from: 0.227.1-SHA-d7318086
+Built at 2022-02-11T00:04:44.857211at SHA 5506762fd76d69e7d65ba8fb2e716b3fe26037c0Patch from: 0.227.1-SHA-d7318086
 Mobile Games Show: Catch Challenge
 Mobile Games Show: Throw Challenge
 力霸群山
 魔法葉
-Sacred Fire
+神聖之火
 冰錐
 氣旋攻擊+
-Aeroblast++
-Sacred Fire+
-Sacred Fire++
-Acrobatics
+氣旋攻擊++
+神聖之火+
+神聖之火++
+雜技
 魅力十足的打扮
 完美的打扮！
 真是美呆了！
@@ -345,7 +423,7 @@ Acrobatics
 沒有蛋
 無法變更該明信片
 妙蛙種子在GO Snapshot中驚喜現身5次
-5 surprise encounters with Skiploom in GO Snapshot
+毽子草將在GO Snapshot中驚喜現身5次
 海豹球在GO Snapshot中驚喜現身5次
 丸寶可夢
 ???
@@ -401,19 +479,25 @@ Acrobatics
 捕捉1隻傳說的寶可夢或幻之寶可夢
 妙蛙種子經典社群日
 2021年12月社群日
-Hop, Skip, and a Jump away
+飄飄毽子草
 歡迎來到Pokémon GO！
 圓圓海豹球
 捕捉 {0} 隻2021年社群日的主題寶可夢
 開啟 {0} 個友情禮物
 開啟1個友情禮物
-Catch {0} Hoppip
-Evolve {0} Hoppip
-Evolve {0} Skiploom
+捕捉 {0} 隻毽子草
+讓 {0} 隻毽子草進化
+讓 {0} 隻毽子花進化
 投出1次曲球
 和夥伴一起玩
 強化傳說的寶可夢或幻之寶可夢 {0}  次
 強化1隻傳說的寶可夢或幻之寶可夢
+Power up {0} Electric-type Pokémon
+Power up {0} Fighting-type Pokémon
+Power up {0} Ground-type Pokémon
+Power up {0} Normal-type Pokémon
+Power up {0} Water-type Pokémon
+和朋友一起參加團體戰
 連續 {0} 天傳送友情禮物
 傳送 {0} 個貼了貼圖的友情禮物
 傳送貼了貼圖的友情禮物
@@ -492,22 +576,22 @@ Evolve {0} Skiploom
 看來如果我們不再次獻上糖果和星星沙子，牠就會一直維持解放胡帕的形態。可是我總覺得也許條件不會完全一樣。
 不過這一切都是我的推測。
 我們得實際來實驗看看才行！
-Hey there %PLAYERNAME%! Thanks for being here, I'm so glad to see you
-I've been noticing the most wonderous thing lately: Hoppip are filling the skies! Floating on the winds!
-This is the perfect opportunity for us to learn more about the Cottonweed Pokémon, don't you think?
-It is said that when Hoppip gather in fields and mountains, spring is on the way.
-I believe it's almost springtime in some areas right now, so this checks out! Why don't you go catch some and report back on what you find, hm?
-Wow, look at all of those Hoppip! Did you know that its body is so light, it must grip the ground firmly with its feet to keep from being blown away?
-According to the Pokédex, the average Hoppip weighs just 0.5 kg. That's so light! Hoppip has an evolved form as well, did you know?
-If you evolve it, you'll see just how it changes its appearance: specifically the plant on its head! I'm so excited for you to see it!
-Ahh, what an adorable Skiploom! Do you see there, %PLAYERNAME%? How the flower on its head and is opening and closing?
-Apparently, the bloom on top of its head open and closes as the temperature fluctuates up and down! Isn't that absolutely fascinating?
-And not just that, but it also floats in the air to get closer to the sun. I don't blame it, if I could float closer to the sun I would too, haha!
-Skiploom can evolve one more time, did you know that? Let's see what it turns into!
-Great work, %PLAYERNAME%! Looks like you've got a Jumpluff! Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.
-Sounds like such a beautiful sight! 
-Well this was a fun adventure learning all about the Cottonweed Pokémon with you! Research all day with no play is no way to be a Pokémon Trainer.
-You should go take your new friends for a little walk, maybe bask in the sun together a bit. Hope you have some fun in the sun together, %PLAYERNAME%!
+%PLAYERNAME%，你好嗎？
+我剛剛看到滿天的毽子草！牠們看起來就像是粉紅色的雲朵呢！
+看起來現在是個調查棉草寶可夢毽子草的絕佳時機呢！
+據說當毽子草開始聚集在山野上，就代表春天快要到了。
+隨風輕輕飄浮的毽子草感覺就像是春天的使者呢。
+到處都是毽子草！據說毽子草如果感到有強風要來的跡象，
+夥伴之間就會互相綁緊葉子，做好不被強風吹走的準備。
+對了，毽子草是可以進化的喔，你要不要去看看呢？
+噢……這隻毽子花真是太可愛了！%PLAYERNAME%，你看到了嗎？
+牠頭頂上盛開著的花會隨著氣溫變化而開閉。
+氣溫偏暖的時候，牠會為了更接近太陽而飄上空中。
+你知道毽子花會進化成什麼樣的寶可夢嗎？現在就去調查看看吧！
+%PLAYERNAME%，看來你找到毽子棉了呢，恭喜你！據說毽子棉會隨季風環繞世界１週。途中還會散播棉花孢子。
+這真是太悠閒、太愉快了！
+你也去跟牠一起做個日光浴吧。
+我要繼續去做研究了，%PLAYERNAME%，我們下次再見吧！
 %PLAYERNAME%，你好！我叫維羅，是研究寶可夢的學者。我知道你接下來要踏上寶可夢的探險旅程，我會在一路上引導你。
 當我需要你幫我做研究的時候，我也會請你幫忙。請多多指教囉！
 首先，我要請你去捉一隻寶可夢，並試著把牠傳送給我。
@@ -652,11 +736,11 @@ You should go take your new friends for a little walk, maybe bask in the sun tog
 解放惡作劇 (1/3)
 解放惡作劇 (2/3)
 解放惡作劇 (3/3)
-Hop, Skip, and a Jump away
-Hop, Skip, and a Jump away (1/4)
-Hop, Skip, and a Jump away (2/4)
-Hop, Skip, and a Jump away (3/4)
-Hop, Skip, and a Jump away (4/4)
+飄飄毽子草
+飄飄毽子草 (1/4)
+飄飄毽子草 (2/4)
+飄飄毽子草 (3/4)
+飄飄毽子草 (4/4)
 歡迎來到Pokémon GO！
 歡迎來到Pokémon GO！ (1/9)
 歡迎來到Pokémon GO！ (2/9)
@@ -724,6 +808,8 @@ Hop, Skip, and a Jump away (4/4)
 使用傷藥
 使用厲害傷藥
 使用全滿藥
+Use a Charged TM
+Use a Fast TM
 使用好傷藥
 步行 {0} km
 走 {0} 步
@@ -738,19 +824,17 @@ Niantic for Kids
 在朋友的明信片收納冊中公開自己的暱稱
 神奧盃
 更多妙蛙種子出現在地圖上
-More Skiploom are appearing in the wild
-Chance for Skiploom to appear in Parks
+更多毽子草出現在地圖上
+公園裡出現毽子花的機率提高
 更多海豹球出現在地圖上
-Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
+旋轉道館轉盤時最多可獲得3張免費的團體戰入場券
 妙蛙種子經典社群日特殊調查入場券在商店裡上架了
 特殊調查入場券將在商店中上架
 特殊調查入場券將在商店中上架
-Ticket for the Hop, Skip, and a Jump away Special Research story available in the shop
+特殊調查「飄飄毽子草」的入場券在商店中上架
 特殊調查「圓圓海豹球」的入場券已在商店中上架
-地區內所有訓練家必須同心協力，一起完成這項挑戰！
-地區挑戰
-地區挑戰
-地區內所有訓練家必須同心協力，一起完成這項挑戰！
+全球所有訓練家必須同心協力，一起完成這項挑戰！
+全球所有訓練家必須同心協力，一起完成這項挑戰！
 你和你的正港好朋友下次互動時或許能成為亮晶晶好朋友喔！成為亮晶晶好朋友之後，下次交換的寶可夢將會成為亮晶晶寶可夢。
 亮晶晶好朋友
 進行亮晶晶交換後，寶可夢將會變成閃亮亮的亮晶晶寶可夢！亮晶晶寶可夢在對戰會變得更加強大，而且強化牠時需使用的星星沙子數量將會減少。亮晶晶寶可夢的圖鑑背景也會閃閃亮亮。
@@ -764,6 +848,8 @@ Ticket for the Hop, Skip, and a Jump away Special Research story available in th
 交換寶可夢所需的星星沙子減為3/4
 太好了！看來你跟你的朋友都找到新的夥伴了呢！
 繼續和朋友交換寶可夢，提升你們的友誼等級吧。也許有一天你們能成為亮晶晶好朋友也說不定喔！
+情人節挑戰 #1
+情人節挑戰 #2
 如果你選擇關閉{0}的記錄，所有未上傳的{1}記錄將會被刪除。
 Do you want to stop saving {0} Logs?
 Game Logs contain valuable information that can help Niantic improve certain activities in Pokémon GO. If you allow your Game Logs to be saved, you can then upload your logs after each in-game activity to share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time before then in the Settings menu.

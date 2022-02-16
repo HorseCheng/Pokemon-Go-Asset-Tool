@@ -125,8 +125,22 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
+chimovedict["0357"] = "魔法葉"
+engmovedict["0357"] = "Magical Leaf"
+chimovedict["0358"] = "神聖之火"
+engmovedict["0358"] = "Sacred Fire"
 chimovedict["0359"] = "冰錐"
 engmovedict["0359"] = "Icicle Spear"
+chimovedict["0360"] = "氣旋攻擊+"
+engmovedict["0360"] = "Aeroblast +"
+chimovedict["0361"] = "氣旋攻擊++"
+engmovedict["0361"] = "Aeroblast ++"
+chimovedict["0362"] = "神聖之火+"
+engmovedict["0362"] = "Sacred Fire +"
+chimovedict["0363"] = "神聖之火++"
+engmovedict["0363"] = "Sacred Fire ++"
+chimovedict["0364"] = "雜技"
+engmovedict["0364"] = "Acrobatics"
 
 # Pokemon class
 class pokemon():
@@ -392,8 +406,13 @@ for i in pokelist:
 # Output file
 origin = pd.DataFrame([i.__dict__ for i in pokelist])
 
-main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|URSHIFU$|SHADOW$|PURIFIED$') ].reset_index(drop=True)
+main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|_S$') ].reset_index(drop=True)
 main = main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
+
+#main with Apex Shadow pokemon
+main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$') ].reset_index(drop=True)
+main_s = main_s.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
+
 
 # Rearange for DEERLING AUTUMN
 main = rearrange(main, 'DEERLING_AUTUMN', 'DEERLING_SUMMER' )
@@ -412,7 +431,7 @@ mainheader.to_csv('Pokemon Data/Pokemonheader.csv' , encoding='utf_8_sig', heade
 # =============================================================================
 # Shadow Pokemon List
 # =============================================================================
-shadow = main[~ main["shadow"].isnull()]
+shadow = main_s[~ main_s["shadow"].isnull()]
 pokename = shadow[["name", "chi","eng","id"]].astype({"id": int}).set_index('id').reset_index()
 shadowinfo = pd.DataFrame(list(shadow["shadow"]))
 shadowmerge = pd.concat([pokename,shadowinfo],axis=1)
