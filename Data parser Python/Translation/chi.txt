@@ -6852,7 +6852,7 @@ CP {0} → <color=#2ECDA8>{1}</color>
 速度
 {0}屬性攻擊的威力上升！
 步行進度
-Built at 2022-02-04T06:12:10.281331at SHA 770c3b0ec0c678ea7eb6f889221cee9fd1370bd4Pipeline 816757, job 8461302
+Built at 2022-02-14T01:08:47.268485at SHA 9467364001ed5899b9954a106db1b5baa2813de9Pipeline 823772, job 8575740
 里程碑獎勵
 春季活動：2021收藏家挑戰
 友誼日收藏家挑戰
