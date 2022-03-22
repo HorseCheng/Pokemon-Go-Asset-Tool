@@ -144,11 +144,13 @@ import "TutorialsSettings.proto";
 import "EggHatchImprovementsSettings.proto";
 import "GM4SettingsProto.proto";
 import "SurveySettings.proto";
-import "GM5SettingsProto.proto";
+import "IncidentVisibilitySettingsProto.proto";
 import "PostcardCollectionSettings.proto";
 import "GM6SettingsProto.proto";
 import "GM7SettingsProto.proto";
 import "GM8SettingsProto.proto";
+import "GM5SettingsProto.proto";
+import "GM9SettingsProto.proto";
 
 message GameMasterClientTemplateProto {
 	string template_id = 1;
@@ -275,9 +277,11 @@ message GameMasterClientTemplateProto {
 	EggHatchImprovementsSettings egg_hatch_improvements_settings = 130;
 	GM4SettingsProto ob_gm_4_settings = 131;
 	SurveySettings survey_settings = 132;
-	GM5SettingsProto ob_gm_5_settings = 133;
+	IncidentVisibilitySettingsProto incident_visibility_settings = 133;
 	PostcardCollectionSettings postcard_collection_settings = 134;
 	GM6SettingsProto ob_gm_6_settings = 135;
 	GM7SettingsProto ob_gm_7_settings = 136;
 	GM8SettingsProto ob_gm_8_settings = 137;
+	GM5SettingsProto ob_gm_5_settings = 138;
+	GM9SettingsProto ob_gm_9_settings = 139;
 }

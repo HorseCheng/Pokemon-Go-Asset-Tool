@@ -22,8 +22,10 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "ImageTextCreativeProto.proto";
+import "ObAdDetailsProto.proto";
 
 message AdDetails {
 	ImageTextCreativeProto image_text_creative = 1;
 	bytes encrypted_ad_token = 2;
+	repeated ObAdDetailsProto ob_ad_details = 3;
 }

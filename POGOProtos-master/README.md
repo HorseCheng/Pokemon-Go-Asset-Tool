@@ -1,8 +1,9 @@
 <!-- define variables -->
 [1.1]: http://i.imgur.com/M4fJ65n.png (ATTENTION)
 
-POGOProtos [![Python script](https://github.com/Furtif/POGOProtos/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/Furtif/POGOProtos/actions) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rocketbot) [![Maintainability](https://api.codeclimate.com/v1/badges/f4fbd03daa49a667d1b7/maintainability)](https://codeclimate.com/github/Furtif/POGOProtos/maintainability)
+POGOProtos [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/rocketbot) [![Python script](https://github.com/Furtif/POGOProtos/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/Furtif/POGOProtos/actions) [![NuGet](https://img.shields.io/nuget/v/POGOProtos.Core.svg?maxAge=60)](https://www.nuget.org/packages/POGOProtos.Core) [![POGOProtos.Core on fuget.org](https://www.fuget.org/packages/POGOProtos.Core/badge.svg)](https://www.fuget.org/packages/POGOProtos.Core)
 =========
+
 
 ![alt text][1.1] <strong><em>`The contents of this repo are a proof of concept and are for educational use only`</em></strong>![alt text][1.1]<br/>
 
@@ -15,11 +16,11 @@ This repository contains the [ProtoBuf](https://github.com/google/protobuf) `.pr
 ### Versioning
 We are following [semantic versioning](http://semver.org/) for POGOProtos-Private.  Every version will be mapped to their current PokémonGo version.
 
-| Version                                                                    | Base                                                                                 | Notes                  | Extra                           |
-|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------|---------------------------------|
-| [2.55.3](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.225.x](https://github.com/Furtif/POGOProtos/blob/master/base/vbase_proto2.proto) | **Proto2** Compilable (Mixed) |  Protocol Buffers v3.19.1     |
-| [2.55.3](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.225.x](https://github.com/Furtif/POGOProtos/blob/master/base/vbase.proto)        | **Proto3** Compilable (Mixed) |  Protocol Buffers v3.19.1     |
-| [2.54.1](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.205.x](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)     | **Updated** (_[/base/v0.205.x.proto](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)_)  |  Protocol Buffers v3.15.8     |
+| Version                                                                    | Base                                                                                 | Notes                  | Extra                    |
+|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------|--------------------------|
+| [2.56.0](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.231.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase_proto2.proto) | **Proto2** Compilable (Mixed) | Protocol Buffers v3.19.4 |
+| [2.56.0](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.231.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase.proto)        | **Proto3** Compilable (Mixed) | Protocol Buffers v3.19.4 |
+| [2.54.1](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.205.x](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)     | **Updated** (_[/base/v0.205.x.proto](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)_)  | Protocol Buffers v3.15.8 |
 
 ### Addons
 
@@ -73,7 +74,7 @@ optional arguments:
 ```
 
 ### Preparation
-Current recommended protoc version: "Protocol Buffers v3.19.1".
+Current recommended protoc version: "Protocol Buffers v3.19.4".
 You can find download links [here](https://github.com/google/protobuf/releases).
 
 #### Windows

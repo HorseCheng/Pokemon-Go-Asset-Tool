@@ -14,7 +14,7 @@
 *	or implied. See the License for the specific language governing
 *	permissions and limitations under the License.
 *
-* Version: base
+* Version: Base compatible 0.231.x.
 *
 */
 
@@ -1538,6 +1538,7 @@ enum HoloPokemonFamilyId {
 	FAMILY_YUNGOOS = 734;
 	FAMILY_GRUBBIN = 736;
 	FAMILY_CRABRAWLER = 739;
+	FAMILY_ORICORIO = 741;
 	FAMILY_CUTIEFLY = 742;
 	FAMILY_ROCKRUFF = 744;
 	FAMILY_WISHIWASHI = 746;
@@ -2840,6 +2841,7 @@ enum HoloPokemonMove {
 	SACRED_FIRE_PLUS = 362;
 	SACRED_FIRE_PLUS_PLUS = 363;
 	ACROBATICS = 364;
+	LUSTER_PURGE = 365;
 }
 
 enum HoloPokemonMovementType {
@@ -3459,6 +3461,7 @@ enum Method {
 	METHOD_UPLOAD_RAID_CLIENT_LOG = 1914;
 	METHOD_SKIP_ENTER_REFERRAL_CODE = 1915;
 	METHOD_UPLOAD_COMBAT_CLIENT_LOG = 1916;
+	METHOD_COMBAT_SYNC_SERVER_OFFSET = 1917;
 }
 
 enum NewsPageTelemetryIds {
@@ -4745,6 +4748,7 @@ message ActivityPostcardData {
 message AdDetails {
 	ImageTextCreativeProto image_text_creative = 1;
 	bytes encrypted_ad_token = 2;
+	repeated ObAdDetailsProto ob_ad_details = 3;
 }
 
 message AdFeedbackSettingsProto {
@@ -5378,6 +5382,7 @@ message AvatarCustomizationProto {
 		SKIN = 13;
 		POSE = 14;
 		FACE = 15;
+		PROP = 16;
 	}
 
 	bool enabled = 1;
@@ -6396,6 +6401,7 @@ message CaptureScoreProto {
 	repeated int32 stardust = 4;
 	repeated int32 xl_candy = 5;
 	int32 candy_from_active_mega = 6;
+	int32 ob_int32 = 7;
 }
 
 message CatchPokemonGlobalSettingsProto {
@@ -7329,6 +7335,7 @@ message CombatProto {
 		FINISHED = 6;
 		PLAYER_QUIT = 7;
 		TIMEOUT = 8;
+		SYNC = 9;
 	}
 
 	message CombatPlayerProto {
@@ -7449,6 +7456,8 @@ message CombatSettingsProto {
 	float shadow_pokemon_attack_bonus_multiplier = 30;
 	float shadow_pokemon_defense_bonus_multiplier = 31;
 	float purified_pokemon_attack_multiplier_vs_shadow = 32;
+	bool ob_bool = 36;
+	ObCombatSettings ob_combat_settings = 38;
 }
 
 message CombatStatStageSettingsProto {
@@ -8726,6 +8735,16 @@ message EnumWrapper {
 		CHARACTER_EVENT_NPC_BLANCHE = 511;
 		CHARACTER_EVENT_NPC_CANDELA = 512;
 		CHARACTER_EVENT_NPC_SPARK = 513;
+		CHARACTER_EVENT_NPC_11 = 514;
+		CHARACTER_EVENT_NPC_12 = 515;
+		CHARACTER_EVENT_NPC_13 = 516;
+		CHARACTER_EVENT_NPC_14 = 517;
+		CHARACTER_EVENT_NPC_15 = 518;
+		CHARACTER_EVENT_NPC_16 = 519;
+		CHARACTER_EVENT_NPC_17 = 520;
+		CHARACTER_EVENT_NPC_18 = 521;
+		CHARACTER_EVENT_NPC_19 = 522;
+		CHARACTER_EVENT_NPC_20 = 523;
 	}
 
 	enum InvasionContext {
@@ -9199,8 +9218,8 @@ message FortDetailsOutProto {
 	string geostore_tombstone_message_key = 20;
 	string geostore_suspension_message_key = 21;
 	int32 poi_images_count = 22;
-	int32 ob_fort_details_int32 = 23;
-	int64 ob_fort_details_int64 = 24;
+	int32 location_points = 23;
+	int64 power_up_remaining_until_ms = 24;
 	int64 ob_fort_details_int64_1 = 25;
 }
 
@@ -9458,7 +9477,7 @@ message GM4SettingsProto {
 }
 
 message GM5SettingsProto {
-	repeated EnumWrapper.InvasionCharacter ob_invasion = 1;
+	int32 ob_int32 = 1;
 }
 
 message GM6SettingsProto {
@@ -9487,6 +9506,11 @@ message GM8SettingsProto {
 	ObGM8Settings1 ob_gm_8_settings_1 = 3;
 	ObGM8Settings2 ob_gm_8_settings_2 = 4;
 	ObGM8Settings3 ob_gm_8_settings_3 = 5;
+}
+
+message GM9SettingsProto {
+	int32 ob_int32_1 = 1;
+	int32 ob_int32_2 = 2;
 }
 
 message GameClientPhotoGalleryPoiImageProto {
@@ -9639,11 +9663,13 @@ message GameMasterClientTemplateProto {
 	EggHatchImprovementsSettings egg_hatch_improvements_settings = 130;
 	GM4SettingsProto ob_gm_4_settings = 131;
 	SurveySettings survey_settings = 132;
-	GM5SettingsProto ob_gm_5_settings = 133;
+	IncidentVisibilitySettingsProto incident_visibility_settings = 133;
 	PostcardCollectionSettings postcard_collection_settings = 134;
 	GM6SettingsProto ob_gm_6_settings = 135;
 	GM7SettingsProto ob_gm_7_settings = 136;
 	GM8SettingsProto ob_gm_8_settings = 137;
+	GM5SettingsProto ob_gm_5_settings = 138;
+	GM9SettingsProto ob_gm_9_settings = 139;
 }
 
 message GameMasterLocalProto {
@@ -11241,6 +11267,7 @@ message GlobalSettingsProto {
 	ObNewGlobalSetting1 ob_new_global_setting_1 = 75;
 	ObNewGlobalSetting2 ob_new_global_setting_2 = 76;
 	ObNewGlobalSetting4 ob_new_global_setting_4 = 77;
+	ObNewGlobalSetting5 ob_new_global_setting_5 = 78;
 }
 
 message GmmSettings {
@@ -11641,6 +11668,7 @@ message HoloInventoryItemProto {
 		PlayerStatsSnapshotsProto player_stats_snapshots = 25;
 		FakeDataProto fake_data = 26;
 		PokedexCategoryMilestoneProto pokedex_category_milestone = 27;
+		PlayerAttributesProto player_attributes = 29;
 	}
 }
 
@@ -11674,6 +11702,7 @@ message HoloInventoryKeyProto {
 		int64 unknown_key = 26;
 		fixed64 fake_data = 27;
 		PokedexCategory pokedex_category = 28;
+		bool player_attributes = 30;
 	}
 }
 
@@ -11766,10 +11795,23 @@ message HoloholoClientTelemetryOmniProto {
 		TutorialTelemetry tutorial_telemetry = 85;
 		PostcardBookTelemetry postcard_book_telemetry = 86;
 		SocialInboxLatencyTelemetry social_inbox_telemetry = 87;
+		HomeWidgetTelemetry home_widget_telemetry = 93;
 	}
 
 	ServerData server_data = 1001;
 	CommonFilterProto common_filters = 1002;
+}
+
+message HomeWidgetTelemetry {
+	enum Status {
+		UNUSED = 0;
+		IN_USE = 1;
+		PAUSED = 2;
+	}
+
+	WidgetsProto.WidgetType widget_type = 1;
+	Status status = 2;
+	Platform platform = 3;
 }
 
 message IapItemCategoryDisplayProto {
@@ -11944,6 +11986,10 @@ message IncidentTicketAttributesProto {
 	bool ignore_full_inventory = 1;
 	int32 upgrade_requirement_count = 2;
 	Item upgraded_item = 3;
+}
+
+message IncidentVisibilitySettingsProto {
+	repeated EnumWrapper.InvasionCharacter visibility_character = 1;
 }
 
 message IncomingFriendInviteDisplayProto {
@@ -13041,7 +13087,9 @@ message MegaEvoSettingsProto {
 	int32 active_mega_bonus_catch_candy = 6;
 	bool ob_mega_evo_bool_1 = 7;
 	bool ob_mega_evo_bool_2 = 8;
-	int32 ob_mega_evo_int32 = 9;
+	int32 ob_mega_evo_int32_1 = 9;
+	int32 ob_mega_evo_int32_2 = 10;
+	bool ob_mega_evo_bool_3 = 11;
 }
 
 message MegaEvolvePokemonOutProto {
@@ -13313,9 +13361,29 @@ message NpcPokemonProto {
 	PokemonDisplayProto pokemon_display = 2;
 }
 
+message ObAdDetailsProto {
+	string ob_string_1 = 1;
+	string ob_string_2 = 2;
+	map<string, string> ob_map_string_string_1 = 3;
+	map<string, string> ob_map_string_string_2 = 4;
+	map<string, string> ob_map_string_string_3 = 5;
+}
+
 message ObAttackRaidBattle {
 	AdDetails ad_details = 1;
 	ObWasabiState ob_wasabi_state = 2;
+}
+
+message ObCombatProto {
+	int32 ob_int32_1 = 1;
+	int32 ob_int32_2 = 2;
+	int64 ob_int64 = 3;
+	repeated string ob_repeated_list = 4;
+}
+
+message ObCombatSettings {
+	int32 ob_int32 = 1;
+	bool ob_bool = 2;
 }
 
 message ObEggIncubatorsInfos {
@@ -13428,9 +13496,23 @@ message ObNewGlobalSetting4 {
 	bool ob_enable = 1;
 }
 
+message ObNewGlobalSetting5 {
+	message ObMessage5 {
+		string ob_string_1 = 1;
+		string ob_string_2 = 2;
+	}
+
+	repeated ObMessage5 ob_repeated_stuff = 1;
+}
+
 message ObPokemonDisplayField {
 	int64 ob_int64 = 1;
 	int32 ob_int32 = 2;
+	ObPokemonDisplayField1 ob_pokemon_display_field_1 = 3;
+}
+
+message ObPokemonDisplayField1 {
+	DailyCounterProto daily_counter = 1;
 }
 
 message ObPokemonSetting {
@@ -13496,6 +13578,8 @@ message OnboardingSettingsProto {
 	bool skip_avatar_customization = 1;
 	bool disable_initial_ar_prompt = 2;
 	uint32 ar_prompt_player_level = 3;
+	int32 ob_int32_1 = 4;
+	int32 ob_int32_2 = 5;
 }
 
 message OnboardingTelemetry {
@@ -13864,6 +13948,16 @@ message PlatypusRolloutSettingsProto {
 	WallabySettingsProto wallaby_settings = 4;
 }
 
+message PlayerAttributeProto {
+	string ob_string_1 = 1;
+	string ob_string_2 = 2;
+	bool ob_bool = 3;
+}
+
+message PlayerAttributesProto {
+	map<string, string> ob_player_attribute_dic = 1;
+}
+
 message PlayerAvatarProto {
 	int32 skin = 2;
 	int32 hair = 3;
@@ -13889,6 +13983,7 @@ message PlayerAvatarProto {
 	string avatar_skin = 23;
 	string avatar_pose = 24;
 	string avatar_face = 25;
+	string avatar_prop = 26;
 }
 
 message PlayerBadgeProto {
@@ -17927,6 +18022,7 @@ message QuestRewardProto {
 		StickerRewardProto sticker = 12;
 		PokemonCandyRewardProto mega_resource = 13;
 		ObQuestRewardIncident incident = 14;
+		PlayerAttributeProto player_attribute = 15;
 	}
 
 	enum Type {
@@ -17944,6 +18040,7 @@ message QuestRewardProto {
 		STICKER = 11;
 		MEGA_RESOURCE = 12;
 		INCIDENT = 13;
+		PLAYER_ATTRIBUTE = 14;
 	}
 
 	Type type = 1;
@@ -19577,6 +19674,8 @@ message SfidaDowserResponse {
 
 message SfidaGlobalSettingsProto {
 	float low_battery_threshold = 1;
+	bool ob_bool = 2;
+	int32 ob_int32 = 3;
 }
 
 message SfidaMetrics {
@@ -19855,6 +19954,7 @@ message SponsoredDetailsProto {
 	PromoButtonMessageType promo_button_message_type = 4;
 	string campaign_id = 5;
 	ImageTextCreativeProto promo_image_creative = 6;
+	repeated ObAdDetailsProto ob_ad_details = 7;
 }
 
 message SponsoredGeofenceGiftSettingsProto {
@@ -21572,6 +21672,15 @@ message WebTelemetry {
 	string fort_id = 3;
 	string partner_id = 4;
 	string campaign_id = 5;
+}
+
+message WidgetsProto {
+	enum WidgetType {
+		UNSET = 0;
+		EGG_INCUBATORS = 1;
+	}
+
+	WidgetType widget_type = 1;
 }
 
 message WildCreateDetail {

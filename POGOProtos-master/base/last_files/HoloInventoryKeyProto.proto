@@ -58,5 +58,6 @@ message HoloInventoryKeyProto {
 		int64 unknown_key = 26;
 		fixed64 fake_data = 27;
 		PokedexCategory pokedex_category = 28;
+		bool player_attributes = 30;
 	}
 }

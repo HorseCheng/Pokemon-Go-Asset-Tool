@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "CombatOffensiveInputChallengeSettings.proto";
 import "CombatDefensiveInputChallengeSettings.proto";
+import "ObCombatSettings.proto";
 
 message CombatSettingsProto {
 	float round_duration_seconds = 1;
@@ -57,4 +58,6 @@ message CombatSettingsProto {
 	float shadow_pokemon_attack_bonus_multiplier = 30;
 	float shadow_pokemon_defense_bonus_multiplier = 31;
 	float purified_pokemon_attack_multiplier_vs_shadow = 32;
+	bool ob_bool = 36;
+	ObCombatSettings ob_combat_settings = 38;
 }

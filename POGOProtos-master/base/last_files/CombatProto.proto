@@ -39,6 +39,7 @@ message CombatProto {
 		FINISHED = 6;
 		PLAYER_QUIT = 7;
 		TIMEOUT = 8;
+		SYNC = 9;
 	}
 
 	message CombatPlayerProto {

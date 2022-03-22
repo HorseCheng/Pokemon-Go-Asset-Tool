@@ -30,4 +30,5 @@ message CaptureScoreProto {
 	repeated int32 stardust = 4;
 	repeated int32 xl_candy = 5;
 	int32 candy_from_active_mega = 6;
+	int32 ob_int32 = 7;
 }

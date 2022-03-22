@@ -46,4 +46,5 @@ message PlayerAvatarProto {
 	string avatar_skin = 23;
 	string avatar_pose = 24;
 	string avatar_face = 25;
+	string avatar_prop = 26;
 }

@@ -23,4 +23,6 @@ package POGOProtos.Rpc;
 
 message SfidaGlobalSettingsProto {
 	float low_battery_threshold = 1;
+	bool ob_bool = 2;
+	int32 ob_int32 = 3;
 }

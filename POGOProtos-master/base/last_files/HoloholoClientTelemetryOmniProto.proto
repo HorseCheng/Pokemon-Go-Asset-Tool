@@ -108,6 +108,7 @@ import "UsernameSuggestionTelemetry.proto";
 import "TutorialTelemetry.proto";
 import "PostcardBookTelemetry.proto";
 import "SocialInboxLatencyTelemetry.proto";
+import "HomeWidgetTelemetry.proto";
 import "ServerData.proto";
 import "CommonFilterProto.proto";
 
@@ -200,6 +201,7 @@ message HoloholoClientTelemetryOmniProto {
 		TutorialTelemetry tutorial_telemetry = 85;
 		PostcardBookTelemetry postcard_book_telemetry = 86;
 		SocialInboxLatencyTelemetry social_inbox_telemetry = 87;
+		HomeWidgetTelemetry home_widget_telemetry = 93;
 	}
 
 	ServerData server_data = 1001;

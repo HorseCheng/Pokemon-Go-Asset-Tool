@@ -30,5 +30,7 @@ message MegaEvoSettingsProto {
 	int32 active_mega_bonus_catch_candy = 6;
 	bool ob_mega_evo_bool_1 = 7;
 	bool ob_mega_evo_bool_2 = 8;
-	int32 ob_mega_evo_int32 = 9;
+	int32 ob_mega_evo_int32_1 = 9;
+	int32 ob_mega_evo_int32_2 = 10;
+	bool ob_mega_evo_bool_3 = 11;
 }

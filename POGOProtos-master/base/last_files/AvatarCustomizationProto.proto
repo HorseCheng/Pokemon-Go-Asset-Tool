@@ -57,6 +57,7 @@ message AvatarCustomizationProto {
 		SKIN = 13;
 		POSE = 14;
 		FACE = 15;
+		PROP = 16;
 	}
 
 	bool enabled = 1;

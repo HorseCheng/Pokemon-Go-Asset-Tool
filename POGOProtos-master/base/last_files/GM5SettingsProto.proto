@@ -22,5 +22,5 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message GM5SettingsProto {
-	repeated EnumWrapper.InvasionCharacter ob_invasion = 1;
+	int32 ob_int32 = 1;
 }
