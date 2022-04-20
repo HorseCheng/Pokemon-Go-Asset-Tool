@@ -22,8 +22,9 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message SfidaMetrics {
-	double distance_walked_km = 1;
-	int32 step_count = 2;
-	double calories_burned = 3;
-	int64 exercise_time_ms = 4;
+	option deprecated = true;
+	double distance_walked_km = 1 [deprecated = true];
+	int32 step_count = 2 [deprecated = true];
+	double calories_burned = 3 [deprecated = true];
+	int64 exercise_time_ms = 4 [deprecated = true];
 }

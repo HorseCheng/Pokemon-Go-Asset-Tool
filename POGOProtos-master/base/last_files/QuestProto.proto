@@ -34,7 +34,7 @@ import "MiniCollectionProto.proto";
 import "GeotargetedQuestProto.proto";
 import "BuddyEvolutionWalkQuestProto.proto";
 import "BattleQuestProto.proto";
-import "TakeSnapshotProto.proto";
+import "TakeSnapshotQuestProto.proto";
 import "QuestType.proto";
 import "WithSingleDayProto.proto";
 import "DaysWithARowQuestProto.proto";
@@ -73,7 +73,7 @@ message QuestProto {
 		GeotargetedQuestProto geotargeted_quest = 12;
 		BuddyEvolutionWalkQuestProto buddy_evolution_walk = 13;
 		BattleQuestProto battle = 14;
-		TakeSnapshotProto take_snapshot = 15;
+		TakeSnapshotQuestProto take_snapshot = 15;
 	}
 
 	enum Status {

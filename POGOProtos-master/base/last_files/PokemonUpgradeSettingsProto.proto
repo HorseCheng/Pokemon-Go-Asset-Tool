@@ -34,4 +34,5 @@ message PokemonUpgradeSettingsProto {
 	int32 default_cp_boost_additional_level = 10;
 	int32 xl_candy_min_player_level = 11;
 	repeated int32 xl_candy_cost = 12;
+	int32 ob_int32 = 13;
 }

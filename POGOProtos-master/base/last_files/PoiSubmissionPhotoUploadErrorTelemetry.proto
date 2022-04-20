@@ -21,7 +21,6 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "PoiSubmissionPhotoUploadErrorIds.proto";
 import "PoiImageType.proto";
 
 message PoiSubmissionPhotoUploadErrorTelemetry {

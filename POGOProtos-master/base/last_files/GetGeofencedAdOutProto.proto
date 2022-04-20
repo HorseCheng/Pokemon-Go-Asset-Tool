@@ -22,7 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AdDetails.proto";
-import "ObAttackRaidBattle.proto";
+import "AdProto.proto";
 
 message GetGeofencedAdOutProto {
 	enum Result {
@@ -34,6 +34,6 @@ message GetGeofencedAdOutProto {
 	}
 
 	Result result = 1;
-	AdDetails ad_details = 2;
-	ObAttackRaidBattle ob_attack_raid_battle = 3;
+	AdDetails sponsored_gift = 2 [deprecated = true];
+	AdProto ad = 3;
 }

@@ -33,7 +33,7 @@ message GetFriendDetailsOutProto {
 
 	message DebugProto {
 		message Callee {
-			string player_id = 2;
+			string player_id = 1;
 		}
 
 		int32 fetched_from_db = 1;
@@ -41,7 +41,7 @@ message GetFriendDetailsOutProto {
 		int32 fetched_from_player_mapper = 3;
 		int32 fetched_from_status_cache = 4;
 		int32 failed_to_fetch = 5;
-		int32 fetched_from_same_server_as_player = 7;
+		int32 fetched_from_same_server_as_player = 6;
 	}
 
 	Result result = 1;

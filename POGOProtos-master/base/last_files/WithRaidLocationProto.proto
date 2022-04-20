@@ -21,8 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "RaidAccessType.proto";
+import "RaidLocationRequirement.proto";
 
 message WithRaidLocationProto {
-	RaidAccessType ob_raid_access_type = 1;
+	RaidLocationRequirement location = 1;
 }

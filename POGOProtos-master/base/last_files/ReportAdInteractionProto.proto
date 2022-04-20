@@ -27,14 +27,16 @@ message ReportAdInteractionProto {
 		ViewFullscreenInteraction view_fullscreen = 6;
 		FullScreenInteraction fullscreen_interaction = 7;
 		CTAClickInteraction cta_clicked = 8;
-		AdSpawendInteraction ad_spawned = 9;
-		AdDismissedInteraction ad_dismissed = 10;
+		AdSpawnInteraction ad_spawned = 9;
+		AdDismissalInteraction ad_dismissed = 10;
 	}
 
 	enum AdType {
 		AD_TYPE_UNKNOWN = 0;
 		AD_TYPE_SPONSORED_GIFT = 1;
 		AD_TYPE_SPONSORED_BALLOON = 2;
+		AD_TYPE_SPONSORED_BALLOON_WASABI = 3;
+		AD_TYPE_SPONSORED_BALLOON_GOOGLE_MANAGED_AD = 4;
 	}
 
 	message ViewImpressionInteraction {
@@ -42,8 +44,8 @@ message ReportAdInteractionProto {
 		bool is_persisted_gift = 2;
 	}
 
-	message AdDismissedInteraction {
-		enum AdDismissal {
+	message AdDismissalInteraction {
+		enum AdDismissalType {
 			AD_DISMISSAL_UNKNOWN = 0;
 			AD_DISMISSAL_TR_DISPLACES_AD_BALLOON = 1;
 			AD_DISMISSAL_NEW_AD_BALLOON_DISPLACES_OLD = 2;
@@ -51,11 +53,11 @@ message ReportAdInteractionProto {
 			AD_DISMISSAL_PLAYER_OPTED_OUT_OF_ADS = 4;
 		}
 
-		AdDismissal ad_dismissal = 1;
+		AdDismissalType ad_dismissal_type = 1;
 	}
 
-	message AdSpawendInteraction {
-		enum AdInhibition {
+	message AdSpawnInteraction {
+		enum AdInhibitionType {
 			AD_INHIBITION_UNKNOWN = 0;
 			AD_INHIBITION_TR_PREVENTS_BALLOON_SPAWN = 1;
 			AD_INHIBITION_CLIENT_ERROR = 2;
@@ -63,8 +65,8 @@ message ReportAdInteractionProto {
 			AD_INHIBITION_PLAYER_OPTED_OUT_OF_ADS = 4;
 		}
 
-		bool ad_spawend_bool = 1;
-		AdInhibition ad_inhibition = 2;
+		bool spawn_success = 1;
+		AdInhibitionType ad_inhibition_type = 2;
 	}
 
 	message FullScreenInteraction {
@@ -82,9 +84,16 @@ message ReportAdInteractionProto {
 		string fullscreen_image_url = 1;
 	}
 
+	message GoogleManagedAdDetails {
+		string gam_order_id = 1;
+		string gam_line_item_id = 2;
+		string gam_creative_id = 3;
+	}
+
 	string game_id = 1;
 	string user_id = 2;
 	string guid = 3;
 	bytes encrypted_ad_token = 4;
 	AdType ad_type = 100;
+	GoogleManagedAdDetails google_managed_ad = 200;
 }

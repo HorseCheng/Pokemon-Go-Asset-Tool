@@ -103,4 +103,5 @@ message PokemonSettingsProto {
 	repeated float buddy_encounter_cameo_local_position = 64;
 	repeated float buddy_encounter_cameo_local_rotation = 65;
 	ObPokemonSetting ob_pokemon_setting = 66;
+	repeated PokemonDisplayProto.Costume costume_evolution = 67;
 }

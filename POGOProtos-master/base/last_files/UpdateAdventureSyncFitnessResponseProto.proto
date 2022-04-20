@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message UpdateAdventureSyncFitnessResponseProto {
+	option deprecated = true;
 	enum Status {
 		UNSET = 0;
 		SUCCESS = 1;

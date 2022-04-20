@@ -22,7 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "ImageTextCreativeProto.proto";
-import "ObAdDetailsProto.proto";
+import "ImpressionTrackingTag.proto";
 
 message SponsoredDetailsProto {
 	enum PromoButtonMessageType {
@@ -37,5 +37,5 @@ message SponsoredDetailsProto {
 	PromoButtonMessageType promo_button_message_type = 4;
 	string campaign_id = 5;
 	ImageTextCreativeProto promo_image_creative = 6;
-	repeated ObAdDetailsProto ob_ad_details = 7;
+	repeated ImpressionTrackingTag impression_tracking_tag = 7;
 }

@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "Item.proto";
 import "HoloPokemonId.proto";
+import "ObEvoleField.proto";
 
 message EvolvePokemonProto {
 	fixed64 pokemon_id = 1;
@@ -30,4 +31,6 @@ message EvolvePokemonProto {
 	HoloPokemonId target_pokemon_id = 3;
 	PokemonDisplayProto.Form target_pokemon_form = 4;
 	bool use_special = 5;
+	bool ob_mega_evole_pokemon = 6;
+	ObEvoleField ob_evole_field = 7;
 }

@@ -36,5 +36,5 @@ message MiniCollectionPokemon {
 	PokemonDisplayProto display = 2;
 	bool caught = 3;
 	CollectType collection_type = 4;
-	bool enabled = 5;
+	bool require_alignment_to_match = 5;
 }

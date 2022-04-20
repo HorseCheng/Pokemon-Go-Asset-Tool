@@ -21,8 +21,6 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "OnlineStatus.proto";
-
 message GetFriendsListOutProto {
 	enum Result {
 		UNSET = 0;

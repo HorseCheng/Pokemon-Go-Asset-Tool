@@ -21,8 +21,6 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "FeatureType.proto";
-
 message SocialClientFeatures {
 	message CrossGameSocialClientSettingsProto {
 		enum AppLinkType {

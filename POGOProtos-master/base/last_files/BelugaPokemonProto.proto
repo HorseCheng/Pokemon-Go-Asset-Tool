@@ -23,7 +23,6 @@ package POGOProtos.Rpc;
 
 import "Team.proto";
 import "HoloPokemonId.proto";
-import "PokemonGender.proto";
 import "HoloPokemonMove.proto";
 
 message BelugaPokemonProto {

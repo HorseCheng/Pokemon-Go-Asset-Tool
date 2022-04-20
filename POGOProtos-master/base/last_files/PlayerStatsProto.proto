@@ -86,6 +86,8 @@ message PlayerStatsProto {
 	int32 num_rocket_balloon_battles_total = 63;
 	int32 num_routes_accepted = 64;
 	int32 num_players_referred = 65;
-	int32 num_pokestops_scanned = 67;
+	int32 num_pokestops_ar_video_scanned = 67;
 	int32 num_on_raid_achievements_screen = 68;
+	int32 num_total_route_play = 69;
+	int32 num_unique_route_play = 70;
 }

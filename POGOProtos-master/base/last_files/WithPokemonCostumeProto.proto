@@ -22,5 +22,5 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message WithPokemonCostumeProto {
-	bool ob_bool = 1;
+	bool require_no_costume = 1;
 }

@@ -30,7 +30,7 @@ import "PokemonDisplayProto.proto";
 import "RaidInfoProto.proto";
 import "GymDisplayProto.proto";
 import "PokestopIncidentDisplayProto.proto";
-import "PowerUpPokestopShared.proto";
+import "FortPokemonProto.proto";
 
 message PokemonFortProto {
 	string fort_id = 1;
@@ -68,9 +68,9 @@ message PokemonFortProto {
 	bool is_ar_scan_eligible = 34;
 	string geostore_tombstone_message_key = 35;
 	string geostore_suspension_message_key = 36;
-	int32 location_points = 37;
-	int64 power_up_remaining_until_ms = 38;
-	int64 ob_pokemon_fort_int64_1 = 39;
-	int64 ob_pokemon_fort_int64_2 = 40;
-	repeated PowerUpPokestopShared power_up_pokestop_shared = 41;
+	int32 power_up_progress_points = 37;
+	int64 power_up_level_expiration_ms = 38;
+	int64 next_fort_open_ms = 39;
+	int64 next_fort_close_ms = 40;
+	repeated FortPokemonProto active_fort_pokemon = 41;
 }

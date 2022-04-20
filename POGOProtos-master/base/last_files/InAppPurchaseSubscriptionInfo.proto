@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "SkuStorePrice.proto";
+
 message InAppPurchaseSubscriptionInfo {
 	enum NativeStoreVendor {
 		UNKNOWN_STORE = 0;
@@ -51,6 +53,8 @@ message InAppPurchaseSubscriptionInfo {
 		int64 subscription_end_time_ms = 1;
 		int64 receipt_timestamp_ms = 2;
 		string receipt = 3;
+		SkuStorePrice store_price = 4;
+		string country_code = 5;
 	}
 
 	string subscription_id = 1;

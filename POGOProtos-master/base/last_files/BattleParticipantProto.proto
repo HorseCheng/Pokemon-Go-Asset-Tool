@@ -34,7 +34,7 @@ message BattleParticipantProto {
 	repeated PokemonInfo defeated_pokemon = 4;
 	repeated LobbyPokemonProto lobby_pokemon = 5;
 	int32 damage_dealt = 6;
-	bool super_effective_charge_move = 7;
+	bool super_effective_charge_move = 7 [deprecated = true];
 	bool weather_boosted = 8;
 	FriendshipLevelMilestone highest_friendship_milestone = 9;
 	repeated string friend_codename = 10;
@@ -51,8 +51,8 @@ message BattleParticipantProto {
 	int64 last_player_quit_time_ms = 21;
 	string player_id = 22;
 	repeated PokemonInfo referenced_pokemon = 23;
-	uint64 ob_battle_participant_int64 = 24;
-	uint64 ob_battle_participant_int64_1 = 25;
-	int32 ob_battle_participant_int32_1 = 26;
-	int32 ob_battle_participant_int32_2 = 27;
+	fixed64 join_buddy_pokemon_id = 24;
+	fixed64 battle_buddy_pokemon_id = 25;
+	int32 remote_friends = 26;
+	int32 local_friends = 27;
 }

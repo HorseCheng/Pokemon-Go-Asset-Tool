@@ -37,6 +37,6 @@ message GetGymDetailsOutProto {
 	Result result = 4;
 	string description = 5;
 	repeated string secondary_url = 6;
-	string checkin_image_url = 7;
+	string checkin_image_url = 7 [deprecated = true];
 	EventInfoProto event_info = 8;
 }

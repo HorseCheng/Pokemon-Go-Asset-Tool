@@ -117,4 +117,5 @@ message CombatLeagueProto {
 	LeagueType league_type = 11;
 	string border_color_hex = 12;
 	bool allow_temp_evos = 13;
+	repeated int32 ob_combat_league = 14;
 }

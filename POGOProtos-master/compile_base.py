@@ -8,7 +8,7 @@ import shutil
 from subprocess import call
 
 # Variables
-# global_version = '0.229.x_p_obf'
+# global_version = '0.235.x_p_obf'
 global_version = 'base'
 protoc_executable = "protoc"
 package_name = 'POGOProtos.Rpc'
@@ -119,17 +119,6 @@ if out_path and os.path.exists(out_path):
 if not os.path.exists(out_path):
     os.makedirs(out_path)
 commands = []
-
-
-def finish_compile(out_path_of_single, lang_of_single):
-    if lang_of_single == 'python':
-        pogo_protos_dir = os.path.join(out_path_of_single, "POGOProtos")
-        for root, dirnames, filenames in os.walk(pogo_protos_dir):
-            init_path = os.path.join(root, '__init__.py')
-            with open(init_path, 'w') as init_file:
-                if pogo_protos_dir is root:
-                    init_file.write(
-                        "'Generated'; import os; import sys; sys.path.append(os.path.dirname(os.path.realpath(__file__)))")
 
 
 def open_proto_file(main_file, head_for_files):
@@ -284,6 +273,9 @@ def add_command_for_new_proto_file(file):
 
 
 compile_ext = 'v' + version + '.proto'
+if lang == 'python':
+    package_name = package_name.replace('.', '_')
+    input_file = package_name + '.proto'
 if gen_base and gen_files and gen_only:
     if lang == 'proto':
         lang = 'cpp'
@@ -332,8 +324,7 @@ if gen_base:
     shutil.copy(generated_file, base_file)
 if keep_file or lang == "proto":
     shutil.move(generated_file, out_path)
-if lang == 'python':
-    finish_compile(out_path, lang)
+
 # Clean genererated and unneded files
 try:
     os.unlink(generated_file)

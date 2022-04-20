@@ -36,5 +36,5 @@ message RaidProto {
 	bool incremented_raid_friends = 9;
 	int64 completed_battle_ms = 10;
 	bool is_remote = 12;
-	PokemonProto pokemon = 14;
+	PokemonProto reward_pokemon = 14;
 }

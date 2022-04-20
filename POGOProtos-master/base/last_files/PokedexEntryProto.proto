@@ -56,6 +56,6 @@ message PokedexEntryProto {
 	int32 times_purified = 15;
 	repeated TempEvoData temp_evo_data = 16;
 	repeated PokemonDisplayProto.Form captured_shiny_forms = 17;
-	map<string, PokedexCategoryStatus> pokedex_category_status = 18;
-	repeated PokemonDisplayProto.Alignment ob_alignment = 19;
+	map<string, PokedexCategoryStatus> category_status = 18;
+	repeated PokemonDisplayProto.Alignment captured_shiny_alignments = 19;
 }

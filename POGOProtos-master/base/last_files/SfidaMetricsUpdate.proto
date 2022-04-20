@@ -21,17 +21,17 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "UpdateType.proto";
 import "SfidaMetrics.proto";
 
 message SfidaMetricsUpdate {
+	option deprecated = true;
 	enum UpdateType {
 		UNSET = 0;
 		INITIALIZATION = 1;
 		ACCUMULATION = 2;
 	}
 
-	UpdateType update_type = 1;
-	int64 timestamp_ms = 2;
-	SfidaMetrics metrics = 3;
+	UpdateType update_type = 1 [deprecated = true];
+	int64 timestamp_ms = 2 [deprecated = true];
+	SfidaMetrics metrics = 3 [deprecated = true];
 }

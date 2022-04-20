@@ -39,6 +39,7 @@ message GiftBoxDetailsProto {
 	fixed64 delivery_pokemon_id = 13;
 	bool is_sponsored = 14;
 	repeated StickerSentProto stickers_sent = 15;
-	PlayerPreferencesProto.ShareState share_state = 16;
-	string ob_string = 17;
+	PlayerPreferencesProto.PostcardTrainerInfoSharingPreference share_trainer_info_with_postcard = 16;
+	string pinned_postcard_id = 17;
+	int64 pin_update_timestamp_ms = 18;
 }

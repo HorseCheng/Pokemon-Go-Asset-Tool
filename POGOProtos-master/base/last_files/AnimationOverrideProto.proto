@@ -21,8 +21,6 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "PokemonAnim.proto";
-
 message AnimationOverrideProto {
 	enum PokemonAnim {
 		NONE = 0;

@@ -28,7 +28,7 @@ import "LootProto.proto";
 import "ClientQuestProto.proto";
 import "GiftBoxProto.proto";
 import "AdDetails.proto";
-import "ObAttackRaidBattle.proto";
+import "AdProto.proto";
 
 message FortSearchOutProto {
 	enum Result {
@@ -56,7 +56,7 @@ message FortSearchOutProto {
 	string fort_id = 13;
 	ClientQuestProto challenge_quest = 14;
 	GiftBoxProto gift_box = 15;
-	AdDetails sponsored_gift = 16;
-	LootProto ob_loot = 17;
-	ObAttackRaidBattle ob_attack_raid_battle = 18;
+	AdDetails sponsored_gift = 16 [deprecated = true];
+	LootProto power_up_stop_bonus_loot = 17;
+	AdProto ad = 18;
 }

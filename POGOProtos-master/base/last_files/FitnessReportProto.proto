@@ -30,6 +30,6 @@ message FitnessReportProto {
 		int32 hour_offset_from_now = 3;
 	}
 
-	FitnessMetricsProto metrics = 4;
-	bytes game_data = 5;
+	FitnessMetricsProto metrics = 10;
+	bytes game_data = 11;
 }

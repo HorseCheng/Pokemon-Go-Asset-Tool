@@ -22,7 +22,9 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AdRequestDeviceInfo.proto";
+import "AvatarGender.proto";
 
 message AdTargetingInfoProto {
 	AdRequestDeviceInfo device_info = 1;
+	AvatarGender avatar_gender = 2;
 }

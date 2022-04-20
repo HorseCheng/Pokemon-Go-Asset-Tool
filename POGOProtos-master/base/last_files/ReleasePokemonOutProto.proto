@@ -33,6 +33,6 @@ message ReleasePokemonOutProto {
 
 	Status status = 1;
 	int32 candy_awarded = 2;
-	int32 xl_candy_awarded = 3;
+	int32 xl_candy_awarded = 3 [deprecated = true];
 	map<int32, int32> xl_candy_awarded_per_id = 4;
 }

@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "TopicProto.proto";
+
 message Upstream {
 	oneof Message {
 		SubscriptionRequest subscribe = 3;
@@ -40,6 +42,7 @@ message Upstream {
 	}
 
 	message SubscriptionRequest {
+		repeated TopicProto topics = 1;
 	}
 
 	int64 request_id = 1;

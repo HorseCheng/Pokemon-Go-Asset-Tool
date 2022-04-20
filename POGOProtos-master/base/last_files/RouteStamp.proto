@@ -30,6 +30,10 @@ message RouteStamp {
 		TYPE_UNSET = 0;
 	}
 
-	Type type = 1;
-	Color color = 2;
+	Type type = 1 [deprecated = true];
+	Color color = 2 [deprecated = true];
+	string stamp_id = 3;
+	string asset_id = 4;
+	string category = 5;
+	int32 stamp_index = 6;
 }

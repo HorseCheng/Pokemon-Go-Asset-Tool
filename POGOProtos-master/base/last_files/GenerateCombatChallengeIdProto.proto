@@ -22,4 +22,5 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message GenerateCombatChallengeIdProto {
+	string ob_string = 1;
 }

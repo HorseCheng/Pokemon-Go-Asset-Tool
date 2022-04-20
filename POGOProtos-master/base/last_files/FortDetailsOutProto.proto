@@ -43,7 +43,7 @@ message FortDetailsOutProto {
 	string description = 12;
 	repeated ClientFortModifierProto modifier = 13;
 	bool close_soon = 14;
-	string checkin_image_url = 15;
+	string checkin_image_url = 15 [deprecated = true];
 	EventInfoProto event_info = 16;
 	repeated string promo_description = 17;
 	string call_to_action_link = 18;
@@ -51,7 +51,7 @@ message FortDetailsOutProto {
 	string geostore_tombstone_message_key = 20;
 	string geostore_suspension_message_key = 21;
 	int32 poi_images_count = 22;
-	int32 location_points = 23;
-	int64 power_up_remaining_until_ms = 24;
-	int64 ob_fort_details_int64_1 = 25;
+	int32 power_up_progress_points = 23;
+	int64 power_up_level_expiration_ms = 24;
+	int64 next_fort_close_ms = 25;
 }

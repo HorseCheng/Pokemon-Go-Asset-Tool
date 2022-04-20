@@ -131,7 +131,7 @@ import "AddressablePokemonSettings.proto";
 import "VerboseLogRaidSettings.proto";
 import "FormsRefactorSettings.proto";
 import "SharedMoveSettings.proto";
-import "AddressBookImportSettings.proto";
+import "AddressBookImportSettingsProto.proto";
 import "MusicSettings.proto";
 import "NewsFeedClientSettings.proto";
 import "MapObjectsInteractionRangeSettings.proto";
@@ -147,10 +147,15 @@ import "SurveySettings.proto";
 import "IncidentVisibilitySettingsProto.proto";
 import "PostcardCollectionSettings.proto";
 import "GM6SettingsProto.proto";
-import "GM7SettingsProto.proto";
+import "VerboseLogCombatSettingsProto.proto";
 import "GM8SettingsProto.proto";
 import "GM5SettingsProto.proto";
 import "GM9SettingsProto.proto";
+import "GM10SettingsProto.proto";
+import "GM11SettingsProto.proto";
+import "GM7SettingsProto.proto";
+import "GM12SettingsProto.proto";
+import "GM13SettingsProto.proto";
 
 message GameMasterClientTemplateProto {
 	string template_id = 1;
@@ -264,7 +269,7 @@ message GameMasterClientTemplateProto {
 	VerboseLogRaidSettings verbose_log_raid_settings = 117;
 	FormsRefactorSettings forms_refactor_settings = 118;
 	SharedMoveSettings shared_move_settings = 119;
-	AddressBookImportSettings address_book_import_settings = 120;
+	AddressBookImportSettingsProto address_book_import_settings = 120;
 	MusicSettings music_settings = 121;
 	NewsFeedClientSettings news_feed_client_settings = 122;
 	MapObjectsInteractionRangeSettings map_objects_interaction_range_settings = 123;
@@ -280,8 +285,13 @@ message GameMasterClientTemplateProto {
 	IncidentVisibilitySettingsProto incident_visibility_settings = 133;
 	PostcardCollectionSettings postcard_collection_settings = 134;
 	GM6SettingsProto ob_gm_6_settings = 135;
-	GM7SettingsProto ob_gm_7_settings = 136;
+	VerboseLogCombatSettingsProto verbose_log_combat_settings = 136;
 	GM8SettingsProto ob_gm_8_settings = 137;
 	GM5SettingsProto ob_gm_5_settings = 138;
 	GM9SettingsProto ob_gm_9_settings = 139;
+	GM10SettingsProto ob_gm_10_settings = 140;
+	GM11SettingsProto ob_gm_11_settings = 141;
+	GM7SettingsProto ob_gm_7_settings = 143;
+	GM12SettingsProto ob_gm_12_settings = 144;
+	GM13SettingsProto ob_gm_13_settings = 145;
 }

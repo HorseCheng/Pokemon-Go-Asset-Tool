@@ -22,7 +22,6 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "PlayerSummaryProto.proto";
-import "OnlineStatus.proto";
 
 message FriendDetailsProto {
 	enum OnlineStatus {

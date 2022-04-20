@@ -44,5 +44,5 @@ message FortSearchLogEntry {
 	repeated ItemProto team_bonus_items = 9;
 	repeated GiftBoxProto gift_boxes = 10;
 	repeated LootItemProto stickers = 11;
-	repeated ItemProto ob_item_proto = 12;
+	repeated ItemProto powered_up_stop_bonus_items = 12;
 }

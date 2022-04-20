@@ -22,5 +22,5 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message PlayerAttributesProto {
-	map<string, string> ob_player_attribute_dic = 1;
+	map<string, string> attributes = 1;
 }

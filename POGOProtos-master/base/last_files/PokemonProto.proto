@@ -48,7 +48,7 @@ message PokemonProto {
 	bool is_egg = 10;
 	double egg_km_walked_target = 11;
 	double egg_km_walked_start = 12;
-	PokemonCreateContext origin = 14;
+	PokemonCreateContext origin = 14 [deprecated = true];
 	float height_m = 15;
 	float weight_kg = 16;
 	int32 individual_attack = 17;
@@ -90,7 +90,7 @@ message PokemonProto {
 	float pre_boosted_additional_cp_multiplier = 53;
 	double deployed_gym_lat_degree = 55;
 	double deployed_gym_lng_degree = 56;
-	bool has_mega_evolved = 57;
+	bool has_mega_evolved = 57 [deprecated = true];
 	HoloPokemonEggType egg_type = 58;
 	int32 temp_evo_cp = 59;
 	float temp_evo_stamina_modifier = 60;

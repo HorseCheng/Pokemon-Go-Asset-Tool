@@ -37,5 +37,5 @@ message ParticipationProto {
 	int32 speed_completion_pokeballs = 11;
 	int32 speed_completion_mega_resource = 12;
 	bool mega_resource_capped = 13;
-	int32 ob_participation_int32 = 14;
+	int32 fort_powerup_pokeballs = 14;
 }

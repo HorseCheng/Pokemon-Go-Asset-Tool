@@ -21,23 +21,24 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "ObPostcardTypes.proto";
+import "PostcardSource.proto";
 
 message PostcardDisplayProto {
-	string ob_string_1 = 1;
-	string ob_string_2 = 2;
-	double ob_double_1 = 3;
-	double ob_double_2 = 4;
-	int64 ob_int64_1 = 5;
-	string ob_string_3 = 6;
-	bool ob_bool = 7;
-	string ob_string_4 = 8;
-	string ob_string_5 = 9;
-	repeated string ob_string_repeated = 10;
-	string ob_string_6 = 11;
-	string ob_string_7 = 12;
-	ObPostcardTypes ob_postcard_types = 13;
-	uint64 ob_uint64_1 = 14;
-	string ob_string_8 = 15;
-	uint64 ob_uint64_2 = 16;
+	string postcard_id = 1;
+	string fort_id = 2;
+	double fort_lat = 3;
+	double fort_lng = 4;
+	int64 creation_timestamp_ms = 5;
+	string image_url = 6;
+	bool favorite = 7;
+	string postcard_creator_id = 8;
+	string postcard_creator_nickname = 9;
+	repeated string sticker_id = 10;
+	string note = 11;
+	string fort_name = 12;
+	PostcardSource postcard_source = 13;
+	uint64 giftbox_id = 14;
+	string postcard_creator_codename = 15;
+	uint64 source_giftbox_id = 16;
+	bool is_sponsored = 17;
 }

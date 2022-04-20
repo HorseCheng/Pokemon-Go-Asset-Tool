@@ -24,6 +24,7 @@ package POGOProtos.Rpc;
 message TwoWaySharedFriendshipDataProto {
 	message SharedMigrations {
 		bool is_gifting_migrated = 1;
+		bool is_lucky_data_migrated = 2;
 	}
 
 	bool is_lucky = 1;

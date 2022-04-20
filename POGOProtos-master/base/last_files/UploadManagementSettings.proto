@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message UploadManagementSettings {
 	bool upload_management_enabled = 1;
 	int32 upload_management_texture_size = 2;
+	bool ob_bool = 3;
 }

@@ -39,4 +39,6 @@ message SfidaUpdateResponse {
 	string pokestop_id = 8;
 	EncounterType encounter_type = 9;
 	int32 pokedex_number = 10;
+	bool autospin = 12;
+	bool autocatch = 13;
 }

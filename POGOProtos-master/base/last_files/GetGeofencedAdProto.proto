@@ -24,7 +24,7 @@ package POGOProtos.Rpc;
 import "AdTargetingInfoProto.proto";
 
 message GetGeofencedAdProto {
-	double lat_degrees = 1;
-	double lng_degrees = 2;
+	double player_lat_degrees = 1;
+	double player_lng_degrees = 2;
 	AdTargetingInfoProto ad_targeting_info = 3;
 }

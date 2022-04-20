@@ -32,4 +32,5 @@ message GetPokemonTagsOutProto {
 
 	Result result = 1;
 	repeated PokemonTagProto tag = 2;
+	bool should_show_tags_tutorial = 3;
 }

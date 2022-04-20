@@ -27,5 +27,5 @@ message PlayerRaidInfoProto {
 	int32 total_completed_raids = 3;
 	int32 total_completed_legendary_raids = 4;
 	repeated RaidProto raids = 5;
-	int32 ob_int32 = 6;
+	int32 total_remote_raids = 6;
 }

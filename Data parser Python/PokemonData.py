@@ -125,23 +125,6 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-chimovedict["0357"] = "魔法葉"
-engmovedict["0357"] = "Magical Leaf"
-chimovedict["0358"] = "神聖之火"
-engmovedict["0358"] = "Sacred Fire"
-chimovedict["0359"] = "冰錐"
-engmovedict["0359"] = "Icicle Spear"
-chimovedict["0360"] = "氣旋攻擊+"
-engmovedict["0360"] = "Aeroblast +"
-chimovedict["0361"] = "氣旋攻擊++"
-engmovedict["0361"] = "Aeroblast ++"
-chimovedict["0362"] = "神聖之火+"
-engmovedict["0362"] = "Sacred Fire +"
-chimovedict["0363"] = "神聖之火++"
-engmovedict["0363"] = "Sacred Fire ++"
-chimovedict["0364"] = "雜技"
-engmovedict["0364"] = "Acrobatics"
-
 # Pokemon class
 class pokemon():
     def __init__(self, inn):
@@ -468,7 +451,7 @@ chargedmove = main["charged"].tolist()
 mewindex = pokename[pokename['name'] =='MEW'].index[0]
 mewquick = quickmove[mewindex]
 mewcharged = chargedmove[mewindex]
-mewcharged = list(set(mewcharged))
+mewcharged = sorted(list(set(mewcharged)))
 mewline = pokename.iloc[mewindex]
 del quickmove[mewindex], chargedmove[mewindex]
 pokename = pokename.drop(mewindex).append(mewline)

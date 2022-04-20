@@ -23,6 +23,6 @@ package POGOProtos.Rpc;
 
 message EvolutionQuestInfoProto {
 	string quest_requirement_template_id = 1;
-	string description = 2;
-	int32 target = 3;
+	string description = 2 [deprecated = true];
+	int32 target = 3 [deprecated = true];
 }

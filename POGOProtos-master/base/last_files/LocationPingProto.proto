@@ -33,4 +33,5 @@ message LocationPingProto {
 	}
 
 	string geofence_identifier = 1;
+	PingReason reason = 2;
 }

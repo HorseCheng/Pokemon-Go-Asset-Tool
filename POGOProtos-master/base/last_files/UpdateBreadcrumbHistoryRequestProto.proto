@@ -26,4 +26,5 @@ import "BreadcrumbRecordProto.proto";
 message UpdateBreadcrumbHistoryRequestProto {
 	string session_context = 1;
 	repeated BreadcrumbRecordProto breadcrumb_history = 2;
+	bool initial_update = 3;
 }

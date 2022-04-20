@@ -27,4 +27,5 @@ message RedeemGoogleReceiptProto {
 	string purchase_currency = 3;
 	int32 price_paid_e6 = 4;
 	int64 price_paid_e6_long = 5;
+	string country_code = 6;
 }

@@ -21,9 +21,9 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
-import "RaidAccessType.proto";
+import "RaidLocationRequirement.proto";
 
 message WithFriendsRaidProto {
-	RaidAccessType ob_access_type = 1;
-	int32 ob_int32 = 2;
+	RaidLocationRequirement friend_location = 1;
+	int32 min_friends_in_raid = 2;
 }

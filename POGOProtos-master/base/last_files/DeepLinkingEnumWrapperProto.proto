@@ -46,6 +46,7 @@ message DeepLinkingEnumWrapperProto {
 	enum NearbyPokemonTab {
 		NEARBY_POKEMON = 0;
 		RAIDS = 1;
+		ROUTES = 2;
 	}
 
 	enum PlayerProfileTab {

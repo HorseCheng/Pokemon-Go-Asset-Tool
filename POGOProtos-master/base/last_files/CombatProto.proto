@@ -82,6 +82,13 @@ message CombatProto {
 		Item pokeball = 20;
 	}
 
+	message ObCombatField {
+		int64 ob_int64_1 = 1;
+		int64 ob_int64_2 = 2;
+		int32 ob_int32_1 = 3;
+		int32 ob_int32_2 = 4;
+	}
+
 	CombatState combat_state = 1;
 	string combat_id = 2;
 	CombatPlayerProto player = 3;
@@ -96,4 +103,5 @@ message CombatProto {
 	int64 change_pokemon_end_ms = 12;
 	int64 quick_swap_cooldown_duration_ms = 13;
 	int64 state_change_delay_until_turn = 14;
+	ObCombatField ob_field = 15;
 }

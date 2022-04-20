@@ -42,7 +42,7 @@ message GymGetInfoOutProto {
 	string description = 5;
 	string secondary_url = 6;
 	AwardedGymBadge awarded_gym_badge = 7;
-	string checkin_image_url = 8;
+	string checkin_image_url = 8 [deprecated = true];
 	EventInfoProto event_info = 9;
 	DisplayWeatherProto display_weather = 10;
 	repeated string promo_image = 11;

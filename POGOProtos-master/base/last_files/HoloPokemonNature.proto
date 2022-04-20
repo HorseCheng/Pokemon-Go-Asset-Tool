@@ -22,7 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 enum HoloPokemonNature {
-	POKEMON_NATURE_UNKNOWN = 0;
+	NATURE_UNKNOWN = 0;
 	POKEMON_NATURE_STOIC = 1;
 	POKEMON_NATURE_ASSASSIN = 2;
 	POKEMON_NATURE_GUARDIAN = 3;

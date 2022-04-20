@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message EvolePreviewSettings {
 	bool enable_evolution_preview = 1;
 	bool enable_mega_evolution_preview = 2;
+	bool ob_bool = 3;
 }

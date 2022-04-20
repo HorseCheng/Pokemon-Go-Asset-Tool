@@ -24,12 +24,12 @@ package POGOProtos.Rpc;
 import "QuestProto.proto";
 import "QuestPokemonEncounterProto.proto";
 import "QuestStampCardProto.proto";
-import "ObQuestsProto.proto";
+import "QuestIncidentProto.proto";
 
 message QuestsProto {
 	repeated QuestProto quest = 1;
 	repeated string completed_story_quest = 2;
 	repeated QuestPokemonEncounterProto quest_pokemon_encounter = 3;
 	QuestStampCardProto stamp_card = 4;
-	repeated ObQuestsProto ob_quests = 5;
+	repeated QuestIncidentProto quest_incident = 5;
 }

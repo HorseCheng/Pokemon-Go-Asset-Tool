@@ -25,7 +25,9 @@ message WidgetsProto {
 	enum WidgetType {
 		UNSET = 0;
 		EGG_INCUBATORS = 1;
+		BUDDY_STATS = 2;
 	}
 
 	WidgetType widget_type = 1;
+	repeated WidgetType widgets = 2;
 }

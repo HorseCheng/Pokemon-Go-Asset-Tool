@@ -102,6 +102,7 @@ Adventure Sync needs background location turned on so you can earn Candy, hatch 
 Enable Adventure Sync in Settings for more rewards!
 Adventure Week
 Please enter your date of birth.
+Welcome to Alola
 Alolan Form
 Fifth-Anniversary Collection
 Do you want to exit Pokémon GO?
@@ -235,11 +236,6 @@ Your arrogance will be your downfall, and I shall be the one to set that in moti
 Loss is not a concept I’m acquainted with. I don’t expect that will change after this battle.
 A person of your stature shouldn’t be this confident. Fret not—I’ll do you the honor of teaching you this lesson.
 Usually I wouldn’t consider debasing myself by battling a commoner...but I’ll make an exception to humiliate you.
-How...how can this be? I...I never lose!
-How dare you...humiliate me like this?
-I haven’t felt this much humiliation since I lost my battle with Candela... You’ll pay for this.
-The last person to humiliate me like this was Candela. You’ll all pay for this...
-I...I don’t understand... I never lose...
 Oh? Are you here to challenge me? Don’t test me.
 Pokémon are my tools, and winning is my birthright. Get in my way, and you’ll be crushed, vermin.
 Are you the best that Candela and her little friends could find?
@@ -250,11 +246,11 @@ Pokémon are our tools. We are entitled to power them up as we so choose. Common
 My sole purpose in life is to win. I’ll vanquish whoever dares to get in my way.
 Oh, do YOU think you can beat me? Someone of your standing? Hah!
 What a fool you are to even think of battling me.
-Don’t be too disappointed. It was always going to end like this.
-I never lose. Now get out of my sight.
-If this is the best Candela and her little friends can offer, Team GO Rocket has nothing to worry about.
-If the rest of the Trainers of this world are like you, then Team GO Rocket’s success is assured.
-It was foolish of you to think you could beat me. It’s because of my brilliance that we have Shadow Pokémon!
+You could never hope to overcome my power. And soon, I’ll be even more powerful...
+You could never hope to overcome my power. And soon, I’ll be even more powerful...
+You could never hope to overcome my power. And soon, I’ll be even more powerful...
+You could never hope to overcome my power. And soon, I’ll be even more powerful...
+You could never hope to overcome my power. And soon, I’ll be even more powerful...
 Please enable camera permissions to access this feature.
 Number of other photos saved to your device: {0}.
 Slowly look around a flat, open area with your camera.
@@ -322,6 +318,7 @@ Gengar Backpack
 The North Face x Gucci Backpack
 GO Fest 2021 Guitar Case
 Johto Bag
+Ho-Oh Wings
 Longchamp Backpack
 Mimikyu Bag
 WailmerWater Bottle
@@ -352,6 +349,9 @@ Simple Mask
 HalloweenFace Sticker
 Pikachu Face Sticker
 Poké Ball Face Sticker
+Festival of ColorsRed Face Sticker
+Festival of ColorsYellow Face Sticker
+Festival of ColorsBlue Face Sticker
 Pikachu Mask
 Sableye Mask
 Verizon Mask
@@ -359,6 +359,7 @@ Future Specs
 No Glasses
 Arlo-Style Glasses
 Grand Oak’s Glasses
+Lugia Mask
 Level 41 Glasses
 Mystery Mask
 2020 Specs
@@ -412,12 +413,14 @@ Eevee Cap
 Elesa-Style Headphones
 No Hat
 Felt Fedora
+FlabébéHair Pin
 H.F. Custom Cap A
 LeafGreen Hat
 Furfrou Wig
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
 Festive Hat
@@ -474,6 +477,7 @@ Team Mystic Cap
 Team Rocket Hat
 Team Rocket Cap
 Top Hat
+Ultra Moon Hat
 Verizon Cap
 Whimsicott Earmuffs
 Professor Willow Glasses
@@ -490,9 +494,11 @@ Battle Girl Shorts
 N-Style Pants
 Sprint Suit
 Sinnoh Skirt
+Flabébé Shorts
 LeafGreen Skirt
 Wraparound Skirt
 Giovanni Pants
+Gladion Pants
 Blue-Style Pants
 Festive Shorts
 Gym Leader Skirt
@@ -527,12 +533,15 @@ Candela-Style Skirt
 Team Magma Shorts
 Team Rocket Skirt
 Spark-Style Pants
+Ultra Moon Shorts
 Veteran Leggings
 Ace Vest
 Ace Long Top
+ComfeyAlola Shirt
 Goh-Style Top
 Samsung 2021 T-shirt
 Backpacker Top
+Ball Guy Set
 Battle Girl Tank Top
 Fitted Shirt
 N-Style Top
@@ -549,6 +558,7 @@ Sinnoh Top Set
 Drifblim Shirt
 Surf Blue Shirt
 Elesa-Style Outfit
+Flabébé Shirt
 H.F. Custom Shirt A
 LeafGreen Top
 Galarian Farfetch’d T-shirt and Bag
@@ -556,6 +566,7 @@ Layered Jacket
 Gengar Shirt
 Gengar Onesie
 Giovanni Shirt
+Gladion Hoodie
 GO Fest 2019 Tee
 GO Fest 2020 Tee
 GO Fest 2021 Tee
@@ -565,6 +576,8 @@ Sierra-Style Outfit
 Greedent Sweater
 Blue-Style Top
 Festive Jacket
+Lugia T-shirt
+Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
 Gym Leader Top
 Team Instinct Happi Coat
@@ -572,8 +585,8 @@ Team Mystic Happi Coat
 Team Valor Happi Coat
 Team Instinct Happi Coat
 Johto Top
-Festival of Colors T-Shirt
-Festival of Colors T-Shirt
+Festival of Colors T-shirt
+Festival of Colors T-shirt
 Hoopa T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
@@ -639,6 +652,8 @@ Galar Top
 Steven-Style Top
 Blastoise Jacket
 Charizard Jacket
+Ho-Oh Jacket
+Lugia Jacket
 Venusaur Jacket
 Sustainability T-shirt
 The Thirty
@@ -666,6 +681,7 @@ Togepi Pattern Hoodie
 Active Tee
 Pikachu Tee
 Turtwig Costume
+Ultra Moon Tank
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -690,6 +706,7 @@ Elesa-Style Shoes
 No Footwear
 LeafGreen Shoes
 Giovanni Shoes
+Gladion Shoes
 Blue-Style Shoes
 Gym Leader Shoes
 Johto Shoes
@@ -728,6 +745,7 @@ Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
 Spark-Style Shoes
+Ultra Moon Sandals
 Veteran Boots
 Winter Boots 1
 Winter Boots 2
@@ -736,6 +754,8 @@ Winter Boots 4
 Long Leg Warmers
 No Socks
 Johto Socks
+Ankle Socks
+Ankle Socks
 Challenger Kit Sport Legwear
 Dragon-Type Sport Legwear
 Team Aqua Tights
@@ -765,6 +785,7 @@ Gengar Backpack
 The North Face x Gucci Backpack
 GO Fest 2021 Guitar Case
 Johto Bag
+Ho-Oh Wings
 Longchamp Backpack
 Mimikyu Bag
 WailmerWater Bottle
@@ -789,6 +810,9 @@ Simple Mask
 HalloweenFace Sticker
 Pikachu Face Sticker
 Poké Ball Face Sticker
+Festival of ColorsRed Face Sticker
+Festival of ColorsYellow Face Sticker
+Festival of ColorsBlue Face Sticker
 Pikachu Mask
 Sableye Mask
 Verizon Mask
@@ -797,6 +821,7 @@ No Glasses
 Arlo-Style Glasses
 Grand Oak’s Glasses
 Jogger Sunglasses
+Lugia Mask
 Level 41 Glasses
 Mystery Mask
 2020 Specs
@@ -849,12 +874,14 @@ Elesa-Style Headphones
 No Hat
 Felt Fedora
 Fisher Cap
+FlabébéHair Pin
 H.F. Custom Cap A
 FireRed Cap
 Furfrou Wig
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
 Festive Hat
@@ -910,6 +937,7 @@ Team Mystic Cap
 Team Rocket Hat
 Team Rocket Cap
 Top Hat
+Ultra Sun Hat
 Verizon Cap
 Whimsicott Earmuffs
 Professor Willow Glasses
@@ -925,9 +953,11 @@ Trainer Shorts
 Sinnoh Pants
 Elesa-Style Pants
 Fisher Pants
+Flabébé Shorts
 FireRed Pants
 Wraparound Skirt
 Giovanni Pants
+Gladion Pants
 Blue-Style Pants
 Festive Shorts
 Gym Leader Shorts
@@ -960,12 +990,15 @@ Candela-Style Pants
 Team Magma Pants
 Team Rocket Pants
 Spark-Style Pants
+Ultra Sun Shorts
 Veteran Pants
 Ace Vest
 Ace Top
+ComfeyAlola Shirt
 Goh-Style Top
 Samsung 2021 T-shirt
 Backpacker Top
+Ball Guy Set
 Business Blazer
 Brock Shirt
 N-Style Top
@@ -986,6 +1019,7 @@ Drifblim Shirt
 Surf Blue Shirt
 Elesa-Style Top
 Fisher Vest
+Flabébé Shirt
 H.F. Custom Shirt A
 FireRed Top
 Galarian Farfetch’d T-shirt and Bag
@@ -993,6 +1027,7 @@ Layered Jacket
 Gengar Shirt
 Gengar Onesie
 Giovanni Shirt
+Gladion Hoodie
 GO Fest 2019 Tee
 GO Fest 2020 Tee
 GO Fest 2021 Tee
@@ -1002,6 +1037,8 @@ Sierra-Style Outfit
 Greedent Sweater
 Blue-Style Top
 Festive Jacket
+Lugia T-shirt
+Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
 Gym Leader Top
 Team Instinct Happi Coat
@@ -1009,8 +1046,8 @@ Team Mystic Happi Coat
 Team Valor Happi Coat
 Team Instinct Happi Coat
 Johto Top
-Festival of Colors T-Shirt
-Festival of Colors T-Shirt
+Festival of Colors T-shirt
+Festival of Colors T-shirt
 Hoopa T-Shirt
 Ingress Prime / White
 Ingress Prime / Green
@@ -1078,6 +1115,8 @@ Galar Shirt
 Steven-Style Top
 Blastoise Jacket
 Charizard Jacket
+Ho-Oh Jacket
+Lugia Jacket
 Venusaur Jacket
 Sustainability T-shirt
 Sports Hoodie
@@ -1103,6 +1142,7 @@ Team Mystic Tee
 Team Valor Tee
 The Thirty
 Turtwig Costume
+Ultra Sun Tank
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -1128,6 +1168,7 @@ No Footwear
 Fisher Boots
 FireRed Shoes
 Giovanni Shoes
+Gladion Shoes
 Blue-Style Shoes
 Gym Leader Shoes
 Johto Shoes
@@ -1166,6 +1207,7 @@ Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
 Spark-Style Shoes
+Ultra Sun Shoes
 Veteran Boots
 Winter Boots 1
 Winter Boots 2
@@ -1173,6 +1215,8 @@ Winter Boots 3
 Winter Boots 4
 Leggings
 No Socks
+Ankle Socks
+Ankle Socks
 Challenger Kit Sport Legwear
 Dragon-Type Sport Legwear
 Team Magma Socks
@@ -1182,7 +1226,7 @@ Pose
 Pose
 Steven Pose
 POSES
-Halloween
+Featured
 Shiny Mew Shirt
 Footwear
 New items available!
@@ -1301,17 +1345,17 @@ Special Weekend
 May 2021: Verizon
 Special Weekend
 December 2021: Family Mart
-Special Weekend 
+Special Weekend
 December 2021: INFORICH
-Special Weekend 
+Special Weekend
 December 2021: SoftBank
-Special Weekend 
+Special Weekend
 December 2021: 7-Eleven México
-Special Weekend 
+Special Weekend
 December 2021: ItoEn
-Special Weekend 
+Special Weekend
 December 2021: Tully’s
-Special Weekend 
+Special Weekend
 Pokémon GO
 Pokémon GO
 May 2021: Yoshinoya
@@ -1410,6 +1454,14 @@ Global, February 26, 2022
 Pokémon GO Tour: Johto
 Global, February 26, 2022
 Pokémon GO Tour: Johto
+Monterrey, Mexico, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Monterrey Test, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Kaohsiung, Taiwan, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
+Kaohsiung Test, February 27, 2022
+Pokémon GO Tour: Live – Step into Kanto
 Global, February 26, 2022
 Pokémon GO Tour: Johto
 Global, February 26, 2022
@@ -2534,6 +2586,13 @@ Looking for nearby Pokémon!
 Bidoof Breakout
 Bidoof Day
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
+The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
+The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
+Interesting.
+Interesting.
+Steady composure and precise analysis—that is the Team Mystic way.
+Interesting.
+Interesting.
 Don’t give up.
 Keep your cool, Trainer.
 Great battle.
@@ -2564,7 +2623,7 @@ BONUS MILESTONE REWARDS
 5× XP for Nice, Great, Excellent, and Curveball Throws
 1/2 Hatch Distance
 1/4 Hatch Distance
-Bonus Hoppip XL Candy from Skiploom
+Increased Hoppip Candy XL from catching Skiploom
 Mega Abomasnow is temporarily more powerful!
 Mega Absol is temporarily more powerful!
 Mega Beedrill is temporarily more powerful!
@@ -2916,6 +2975,13 @@ Special Box
 Please accept the following items and keep training!
 The EX Raid scheduled for {0}, {1} at {2} has been canceled.
 CANCELED EX RAID PASSES
+Your battle skills have improved so much since we first met. Let’s see which one of us comes out on top, shall we?
+Your battle skills have improved so much since we first met. Let’s see which one of us comes out on top, shall we?
+That’s...fine... I’m fine...
+That’s...fine... I’m fine...
+No matter what happens, our courageous fire will never go out! Team Valor blazes toward victory.
+Another victory for Team Valor. Wanna battle again?
+Another victory for Team Valor. Wanna battle again?
 Keep up the fight!
 Stay strong!
 You have a lot of fight in you, Trainer!
@@ -3603,6 +3669,7 @@ Community Day: Magmar
 Community Day: Oshawott
 Community Day: Porygon
 Community Day: Roselia
+Community Day: Sandshrew
 Community Day: Seedot
 Community Day: Shinx
 Community Day: Snivy
@@ -4029,105 +4096,105 @@ Evolve Piloswine to get a Mamoswine that knows Ancient Power
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
 New Pokémon Snap Celebration
-Fine, whatever.
-Fine, whatever.
+Let me see if you are good enough!
+Let me see if you are good enough!
 <taunt>Hi! I like shorts! They’re comfy and easy to wear!
-Hmph.
-Hmph.
+Don’t get cocky just because you beat me!
+Don’t get cocky just because you beat me!
 LenTao9
 GO Tour Challenger
-No surprise.
-No surprise.
-Which Pokémon do YOU think is most adorable?
-Which Pokémon do YOU think is most adorable?
+Nice battle!
+Nice battle!
+Bug Pokémon evolve young. So they get stronger that much faster.
+Bug Pokémon evolve young. So they get stronger that much faster.
 <intimidate>Somehow, I knew we’d have to battle!
-Losing’s no fun, but at least I get to battle with these cuties!
-Losing’s no fun, but at least I get to battle with these cuties!
+My bug Pokémon lost! Oh, what a shame.
+My bug Pokémon lost! Oh, what a shame.
 oneslapguy
 GO Tour Challenger
-Cuteness is strength! Hehe!
-Cuteness is strength! Hehe!
-Here comes my sass attack!
-Here comes my sass attack!
+My grown-up Pokémon are pretty tough, too!
+My grown-up Pokémon are pretty tough, too!
+Oh, you are a cute, little Trainer! I like you, but I won’t hold back!
+Oh, you are a cute, little Trainer! I like you, but I won’t hold back!
 <taunt>Hey, you! Wanna see my awesome Pokémon?
-Maybe we should’ve hydrated more...?
-Maybe we should’ve hydrated more...?
+Gosh... I thought you were weak...
+Gosh... I thought you were weak...
 DieCurryWurst
 GO Tour Challenger
-Ha ha, made you lose!
-Ha ha, made you lose!
-<taunt>... ... ...
-<taunt>... ... ...
+You must get better to beat me! Keep trying.
+You must get better to beat me! Keep trying.
+I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
+I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
 <intimidate>GO, my fabulous Fire-type Pokémon!
-<taunt>... ... ...
-<taunt>... ... ...
+Wins and losses—I experienced both.
+Wins and losses—I experienced both.
 DieCurryWurst
 GO Tour Challenger
-<taunt>... ... ...
-<taunt>... ... ...
-I’m just here to get stronger.
-I’m just here to get stronger.
+The one who wants to win the most will!
+The one who wants to win the most will!
+My Pokémon and I are bound together by friendship. Our bond will never be broken!
+My Pokémon and I are bound together by friendship. Our bond will never be broken!
 <taunt>Our eyes have met! I’ll battle alongside my favorite Pokémon!
-I guess 20 miles a day isn’t gonna cut it.
-I guess 20 miles a day isn’t gonna cut it.
+I lost! I’m speechless!
+I lost! I’m speechless!
 Juanevoli
 GO Tour Challenger
-When you train as hard as we do, winning comes naturally.
-When you train as hard as we do, winning comes naturally.
-<taunt>... ... ...
-<taunt>... ... ...
+We martial artists fear nothing!
+We martial artists fear nothing!
+I travel the world to train my Pokémon. Now, I wish to battle with you.
+I travel the world to train my Pokémon. Now, I wish to battle with you.
 <intimidate>Oh, you have a Buddy Pokémon! Let me get a better look!
-<taunt>... ... ...
-<taunt>... ... ...
+Whoa, whoa. You’re overwhelming!
+Whoa, whoa. You’re overwhelming!
 Trainer yournameNPC05
 GO Tour Challenger
-<taunt>... ... ...
-<taunt>... ... ...
-And believe me—mine do more than just look pretty.
-And believe me—mine do more than just look pretty.
+You are both kind and strong...
+You are both kind and strong...
+I meditate under an icy waterfall each day to strengthen my mind and body.
+I meditate under an icy waterfall each day to strengthen my mind and body.
 <taunt>Your Buddy Pokémon sure is cute! Let’s have a battle!
-But... But my Pokémon are so stylish!
-But... But my Pokémon are so stylish!
+I wouldn’t lose to you in skiing...
+I wouldn’t lose to you in skiing...
 CashmereFeline
 GO Tour Challenger
-Told ya! Sparks galore.
-Told ya! Sparks galore.
-Don’t hold back.
-Don’t hold back.
+Do you see how serious we are?
+Do you see how serious we are?
+My chance of losing? Not even one percent!
+My chance of losing? Not even one percent!
 <intimidate>You’re going to help me get stronger!
-Welp, them’s the breaks...
-Welp, them’s the breaks...
+I know my shortcomings now. Thanks for showing me!
+I know my shortcomings now. Thanks for showing me!
 enjoyryde
 GO Tour Challenger
-Heh, classic me!
-Heh, classic me!
-<taunt>... ... ...
-<taunt>... ... ...
+I’m disappointed.
+I’m disappointed.
+Purple is such a noble and elegant color, don’t you agree? Quite befitting of a Champion.
+Purple is such a noble and elegant color, don’t you agree? Quite befitting of a Champion.
 <taunt>Come at me, Trainer! Let’s GO!
-<taunt>... ... ...
-<taunt>... ... ...
+A well-earned victory. Truly, you are worthy of being called Champion!
+A well-earned victory. Truly, you are worthy of being called Champion!
 Trainer yournameNPC08
 GO Tour Challenger
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
+Ah, the Champion is me!
+Ah, the Champion is me!
+... ... ...
+... ... ...
 <intimidate>Fancy seeing you here! Now let’s battle.
-<taunt>... ... ...
-<taunt>... ... ...
+A loss. The end. And in loss, we learn.
+A loss. The end. And in loss, we learn.
 Telli997
 GO Tour Challenger
+Spool of fate, unfurl. Respite in a swirling storm. Victory is ours.
+Spool of fate, unfurl. Respite in a swirling storm. Victory is ours.
+Pokémon should be bold—in color and in strength!
+Pokémon should be bold—in color and in strength!
 <taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
-<taunt>... ... ...
+You’re blindingly bold!
+You’re blindingly bold!
 malibuleo
 GO Tour Challenger
-<taunt>... ... ...
-<taunt>... ... ...
+What’d I tell ya? Bold is just better.
+What’d I tell ya? Bold is just better.
 New Misunderstood Mischief Special Research tasks
 Carnaval
 Festival of Colors
@@ -4139,6 +4206,7 @@ Season of Mischief
 Misunderstood Mischief Special Research available
 Complete the Misunderstood Mischief Special Research story to access a special end-of-season event
 Season of Heritage
+Season of Alola
 Seasonal Pokémon hatching from Eggs
 Seasonal Pokémon found in the wild
 Sinnoh Celebration Event
@@ -4216,17 +4284,15 @@ Pop Pose
 Rock Pose
 Leon Pose
 Lysandre Pose
+Gladion Pose
 Idle
-Ultra Moon Bag
 Level 41 Glasses
 Level 41 Glasses
 Battle Girl Gloves
 Gyarados Hat
 Level 45 Hat
 Level 45 Hat
-Ultra Moon Hat
 Battle Girl Shorts
-Ultra Moon Shorts
 Battle Girl Tank Top
 Ingress Prime
 Level 50 Jacket
@@ -4234,11 +4300,9 @@ Level 50 Jacket
 Level 50 Jacket
 Level 50 Jacket
 GO Fest Tee
-Ultra Moon Tank
 Battle Girl Shoes
 Level 49 Boots
 Level 49 Boots
-Ultra Moon Sandals
 Facebook
 Type Surge: Fairy
 Fashion Week
@@ -4257,6 +4321,7 @@ Send Friend Request
 Send a Friend Request to {0}?
 Suggestions for You
 +{0} XP
+Festival of Colors
 Festival of Lights
 More Blitzle and Dedenne are appearing in the wild
 Event-themed Field Research
@@ -4375,6 +4440,7 @@ Lure Module Box
 Flying Cup available in the GO Battle League
 Flying Cup
 Type Surge: Flying
+Festival of Colors
 Blade Forme
 Shield Forme
 Altered Forme
@@ -4452,6 +4518,21 @@ Dusk Form
 East Sea
 Fan Rotom
 Female
+Blue Flower
+Orange Flower
+Red Flower
+White Flower
+Yellow Flower
+Blue Flower
+Orange Flower
+Red Flower
+White Flower
+Yellow Flower
+Blue Flower
+Orange Flower
+Red Flower
+White Flower
+Yellow Flower
 Frost Rotom
 Full Belly Mode
 Dandy Trim
@@ -4494,6 +4575,9 @@ Land Forme
 Incarnate Forme
 Therian Forme
 Low Key Form
+Dusk Form
+Midday Form
+Midnight Form
 Male
 Aria Forme
 Pirouette Forme
@@ -4512,6 +4596,10 @@ driveless form
 Noice Face
 Normal
 Ordinary Form
+Baile Style
+Pa'u Style
+Pom-Pom Style
+Sensu Style
 Origin Forme
 Overcast Form
 Pa'u Style
@@ -4608,8 +4696,8 @@ You found a Mysterious Component!
 Collect more to assemble a Rocket Radar, which can locate Team GO Rocket Hideouts!
 It looks like it’s part of some larger device...
 COLLECT
-Check out your Daily Free Box today in the Shop that has items just for you!
-There are some items customized just for you in your Daily Free Box in the Shop!
+Your Daily Free Box is ready to be claimed. Find it in the in-game shop!
+Your Daily Free Box contains customized items just for you! Claim it from the in-game shop.
 A Raid Pass can be used to join a Raid Battle. You can get a pass at no cost once per day at Gyms if you don’t already have one.If you want to participate in more than one raid per day, you may buy Premium Battle Passes from the shop.
 A Raid Pass can be used to join a Raid Battle. You can get a pass at no cost once per day at Gyms if you don’t already have one.If you want to participate in more than one raid per day, you may buy Premium Battle Passes from the shop.
 Your Item Bag is full. You'll need to make room to hold a Raid Pass.
@@ -4623,6 +4711,7 @@ invited you to an EX Raid!
 Other Niantic Games to Share
 {0} received {1} items from your Gift!
 {0} received 1 item from your Gift.
+{0} has saved your Postcard from {1}!
 friends
 You and {0} are now friends!
 You declined this Friend Request.
@@ -4686,7 +4775,10 @@ You can’t sort friends by online status if you haven’t opted in to Niantic O
 You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
 FULL
+Furfrou can Form Change into Heart Trim
 Galarian Form
+Gardevoir and Gallade encountered after raids will know Synchronoise
+Evolve a Kirlia into a Gardevoir or a Gallade that knows Synchronoise
 2× Stardust for completing a battle set in the GO Battle League
 2× Stardust for ranking up in the GO Battle League
 2× Stardust rewards in the GO Battle League
@@ -4721,14 +4813,16 @@ A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:0
 Just a Nibble Ticket
 A ticket to access the Mischief Unbound Special Research, wherever you are. Please note that you can instead earn this Special Research at no cost by completing the Misunderstood Mischief Special Research by Wednesday, December 1, 2021, at 9:59 a.m. local time. If you have already earned this Special Research at no cost, you can still purchase this ticket to also get an identical set of tasks and rewards. Details can be found in the in-game News and on the blog.To progress through the Mischief Unbound Special Research story, you will need to have obtained Hoopa from the Misunderstood Mischief Special Research.
 Mischief Unbound Ticket
-A ticket to access the Hop, Skip, and a Jump away Special Research on February 12, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
-Hop, Skip, and a Jump away
+A ticket to access the A Hop, Skip, and Jump Away Special Research on February 12, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A Hop, Skip, and Jump Away
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
 A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 From Scalchops to Seamitars Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Stop and Smell the Roselia Ticket
+A ticket to access the Gritty and Glacial Special Research on March 13, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Gritty and Glacial
 A ticket to access the Flash, Spark, and Gleam Special Research on November 21, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Flash, Spark, and Gleam Ticket
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -5089,6 +5183,150 @@ Post photos with #PokemonGOTour, and we’ll share our favorites!
 Catch, trade, or evolve to collect these Pokémon before time expires to complete your Pokémon GO Tour: Kanto Collection Challenges!
 Welcome to Pokémon GO Tour: Kanto!
 Welcome to Pokémon GO Tour: Kanto!
+Pokémon GO Tour: Johto
+Pokémon GO Tour: Johto Battle Challenge
+Pokémon GO Tour: Johto Battle Challenge (1/11)
+Pokémon GO Tour: Johto Battle Challenge (2/11)
+Pokémon GO Tour: Johto Battle Challenge (11/11)
+Pokémon GO Tour: Johto Battle Challenge (3/11)
+Pokémon GO Tour: Johto Battle Challenge (4/11)
+Pokémon GO Tour: Johto Battle Challenge (5/11)
+Pokémon GO Tour: Johto Battle Challenge (6/11)
+Pokémon GO Tour: Johto Battle Challenge (7/11)
+Pokémon GO Tour: Johto Battle Challenge (8/11)
+Pokémon GO Tour: Johto Battle Challenge (9/11)
+Pokémon GO Tour: Johto Battle Challenge (10/11)
+Johto Battle Challenge Champion
+Keep Battling
+Focus on Catching
+All GO Gym Trainers will reappear at PokéStops, allowing you to battle them again. You can keep battling them for rewards throughout the day.
+The GO Gym Trainers will no longer appear at PokéStops today, allowing you to focus solely on collecting Pokémon.
+It’s over, %PLAYERNAME%. Your strength is undeniable.
+You are now the Johto Battle Challenge Champion!
+Your dedication to, trust in, and love for your Pokémon made this possible. You won because your Pokémon believed in you, just as you believed in them.
+Congratulations, %PLAYERNAME%!
+What’re you going to do to celebrate this momentous accomplishment?
+Quite the overachiever, %PLAYERNAME%! Your Pokémon look excited to keep battling as well. Together, you really are the perfect team. Get out there and make your team proud!
+It’s important to know your limits, %PLAYERNAME%. Being kind to yourself isn’t a weakness.
+And your Pokémon look like they could use a rest as well, so why not relax awhile. When you’re ready, there’s plenty of Pokémon to catch and new friends to make.
+Tip: Earn Stardust to battle the Johto Battle Challenge Leader!
+Raikou, Entei, and Suicune will flee from you when encountered in the wild. Take a snapshot before they do!
+My bug Pokémon lost! Oh, what a shame.
+Bug Trainer Name
+Alehouou
+Bug Pokémon are cool and tough! I’ll prove it to you!
+Defeat the GO Gym Trainer: Bug
+Bug Pokémon evolve young, so they get stronger that much faster.
+GO Gym Trainer: Bug
+My grown-up Pokémon are pretty tough, too!
+I know my shortcomings now. Thanks for showing me!
+Dragon Trainer Name
+MajinSage
+My chance of losing? Not even one percent!
+Defeat the GO Gym Trainer: Dragon
+Dragons are sacred Pokémon. They are full of life energy. If you’re not serious, you won’t be able to beat them.
+GO Gym Trainer: Dragon
+I’m disappointed.
+I lost! I’m speechless!
+Fighting Trainer Name
+Terureruru
+Words are useless. Let your fists do the talking!
+Defeat the GO Gym Trainer: Fighting
+My Pokémon and I are bound together by friendship. Our bond will never be broken!
+GO Gym Trainer: Fighting
+We martial artists fear nothing!
+Don’t get cocky just because you beat me!
+Flying Trainer Name
+Robbenprinz
+The keyword is guts! Come on!
+Defeat the GO Gym Trainer: Flying
+Let me see if you are good enough!
+GO Gym Trainer: Flying
+Nice battle!
+Wins and losses—I experienced both.
+Ghost Trainer Name
+Brissete
+Where did Pokémon come from?
+Defeat the GO Gym Trainer: Ghost
+I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
+GO Gym Trainer: Ghost
+The one who wants to win the most will!
+I wouldn’t lose to you in skiing...
+Ice Trainer Name
+AbsolFairy
+I’ll freeze your Pokémon so you can’t do a thing!
+Defeat the GO Gym Trainer: Ice
+I meditate under an icy waterfall each day to strengthen my mind and body.
+GO Gym Trainer: Ice
+Do you see how serious we are?
+Gosh... I thought you were weak...
+Normal Trainer Name
+Leon9715
+I like cute Pokémon better than strong Pokémon. But I have strong and cute Pokémon!
+Defeat the GO Gym Trainer: Normal
+Aw, look at you! Such a cute little Trainer. I like you, but I won’t hold back!
+GO Gym Trainer: Normal
+You must get better to beat me! Keep trying.
+Whoa, whoa. You’re overwhelming!
+Steel Trainer Name
+Bathazarpokemom
+Nobody better get in my way!
+Defeat the GO Gym Trainer: Steel
+I travel the world to train my Pokémon. Now, I wish to battle with you.
+GO Gym Trainer: Steel
+You are both kind and strong...
+Choose Gold
+Choose Silver
+Do you want to choose Gold Version?
+Do you want to choose Silver Version?
+Defeat the Johto Battle Challenge Leader
+Pokémon GO Tour: Johto – Evolve
+Evolve Pokémon discovered in Johto
+Pokémon GO Tour: Johto – Gold Version
+Pokémon GO Tour: Johto – Gold (Incense)
+Use Incense to get Gold Version–exclusive Pokémon
+Pokémon GO Tour: Johto – Gold (Trade)
+Trade with friends to get these Silver Version–exclusive Pokémon
+Pokémon GO Tour: Johto – Goldenrod City
+Catch Pokémon during the Goldenrod City hour
+Now: Goldenrod City hour!
+Aw...
+I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
+Instincts sure are handy, don’t you think? Team Instinct knows what’s up!
+I won? I mean, yeah! I won! Woohoo!
+Pokémon GO Tour: Johto – Mt. Silver
+Catch Pokémon during the Mt. Silver hour
+Now: Mt. Silver hour!
+Interesting.
+The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
+Steady composure and precise analysis—that is the Team Mystic way.
+Interesting.
+Pokémon GO Tour: Johto – National Park
+Catch Pokémon during the National Park hour
+Now: National Park hour!
+Pokémon GO Tour: Johto – New Bark Town
+Catch Pokémon during the New Bark Town hour
+Now: New Bark Town hour!
+Tip: To begin battling, you’ll need to find your opponents! You can find GO Gym Trainers at PokéStops. Visit different PokéStops to battle different GO Gym Trainers!
+Pokémon GO Tour: Johto – Raid
+Find these Pokémon in raids
+Pokémon GO Tour: Johto – Silver Version
+Pokémon GO Tour: Johto – Silver (Incense)
+Use Incense to get Silver Version–exclusive Pokémon
+Pokémon GO Tour: Johto – Silver (Trade)
+Trade with friends to get these Gold Version–exclusive Pokémon
+Tip: Raikou, Entei, and Suicune are likely to flee when you encounter them in the wild. But if you can take a snapshot before they do, you can earn rewards that will allow you to catch them!
+Pokémon GO Tour: Johto – Special
+Complete Johto Special Research and take snapshots
+Raikou, Entei, and Suicune Photo Safari
+That’s...fine... I’m fine...
+Your battle skills have improved so much since we first met. Let’s see which one of us comes out on top, shall we?
+No matter what happens, our courageous fire will never go out! Team Valor blazes toward victory.
+Another victory for Team Valor. Wanna battle again?
+Pokémon GO Tour: Johto – Violet City
+Catch Pokémon during the Violet City hour
+Now: Violet City hour!
+Welcome to Pokémon GO Tour: Johto!
 Pokémon GO Tour: Kanto
 GO Tour Kanto: Cerulean City
 Catch Pokémon during the Cerulean City hour
@@ -5189,6 +5427,87 @@ GO Tour Kanto: Defeat All Challengers (1/4)
 GO Tour Kanto: Defeat All Challengers (2/4)
 GO Tour Kanto: Defeat All Challengers (3/4)
 GO Tour Kanto: Defeat All Challengers (4/4)
+GO Tour Poké Ball Prep Rally
+Pokémon GO Tour: Live – Step into Kanto
+Catch these Pokémon in the Beginning Journeys habitat!
+Pokémon GO Tour: Live – Step into Kanto: Beginning Journeys
+Catch these Pokémon in the Team Mystic habitat!
+Pokémon GO Tour: Live – Step into Kanto: Team Mystic
+Catch these Pokémon in the Team Valor habitat!
+Pokémon GO Tour: Live – Step into Kanto: Team Valor
+Catch these Pokémon in the Team Instinct habitat!
+Pokémon GO Tour: Live – Step into Kanto: Team Instinct
+Catch these Pokémon in the Professor Willow habitat!
+Pokémon GO Tour Live – Step into Kanto: Professor Willow
+Tip: You can find a member of the GO Tour Elite Four at PokéStops. Each one will appear in a different habitat!
+How embarrassing. Maybe I should take it down a notch...
+Mesa Trainer
+Embrace your true power.
+Victory will be mine!
+Don’t beat yourself up about it. This was inevitable.
+Win or lose, I stand by my Pokémon!
+Cave Trainer
+I lose to no one!
+If you believe you can win, your Pokémon will believe it, too!
+Yeah! That’s the power of my Pokémon.
+Care for another battle?
+Ocean Trainer
+My turn!
+I’ll battle you as many times as it takes to win.
+Better luck next time!
+Awww. If this was a cuteness contest, we totally woulda won.
+Cutie beam!
+I picked all my Pokémon because they’re super cute—but that doesn’t mean they’re not super strong, too!
+Cute doesn’t mean weak.
+A well-earned victory. Truly, you are worthy of being called Champion!
+Let us see which of us is meant to be Champion!
+Purple is such a noble and elegant color, don’t you agree? Quite befitting of a Champion.
+Ah, the Champion is me!
+In the end, a loss. And in loss, we learn the most. I’ll not forget this.
+A sliver of sky. A single speck in the void. Blue, the hue of home.
+... ... ...
+Spool of fate, unfurl. Respite in a swirling storm. Victory is ours.
+You’re blindingly bold!
+We’re brighter, we’re bolder, we’re better!
+Pokémon should be bold—in color and in strength!
+What’d I tell ya? Bold is just better.
+Eh. You win some, you lose some.
+Savannah Trainer
+I’ll keep you on your toes.
+Didn’t expect to meet another Trainer here. So random, right?
+That was over quick.
+Pokémon GO Tour Elite Four
+Take a snapshot in the Beginning Journeys habitat
+Take a snapshot in the Team Instinct habitat
+Take a snapshot in the Team Mystic habitat
+Take a snapshot in the Team Valor habitat
+Take a snapshot in the Professor Willow habitat
+Pokémon GO Tour: Live – Step into Kanto (1/6)
+Pokémon GO Tour: Live – Step into Kanto (2/6)
+Pokémon GO Tour: Live – Step into Kanto (3/6)
+Pokémon GO Tour: Live – Step into Kanto (4/6)
+Pokémon GO Tour: Live – Step into Kanto (5/6)
+Pokémon GO Tour: Live – Step into Kanto (6/6)
+You are in the Beginning Journeys habitat!
+You are in the Team Mystic habitat!
+You are in the Team Valor habitat!
+You are in the Team Instinct habitat!
+You are in the Professor Willow habitat!
+Pokémon GO Tour: Live
+Pokémon GO Tour: Live (1/7)
+Pokémon GO Tour: Live (2/7)
+Pokémon GO Tour: Live (3/7)
+Pokémon GO Tour: Live (4/7)
+Pokémon GO Tour: Live (5/7)
+Pokémon GO Tour: Live (6/7)
+Pokémon GO Tour: Live (7/7)
+Pokémon GO Tour: Live – Elite Four
+Pokémon GO Tour: Live – Elite Four (1/4)
+Pokémon GO Tour: Live – Elite Four (2/4)
+Pokémon GO Tour: Live – Elite Four (3/4)
+Pokémon GO Tour: Live – Elite Four (4/4)
+Welcome to Pokémon GO Tour: Live – Step into Kanto!
+Super Premium Bundle
 Type Surge: Grass
 Great League Remix
 Type Surge: Ground
@@ -5286,160 +5605,160 @@ Team GO Rocket forever! I’ll protect the boss with my life!
 Heh heh. Feeling lucky? Well, you shouldn’t be. He’s not here, and I’m gonna crush you!
 Hyuck-hyuck—you’re messing with the wrong grunt, kid!
 You think you’re a hero? You can’t even find the boss!
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
+I’ll flick you away effortlessly!
+I’ll flick you away effortlessly!
+Boss said he’ll take the PokéStop in the name of Team GO Rocket!
+Boss said he’ll take this PokéStop in the name of Team GO Rocket!
+You don’t have any business here! Go home!
+You don’t have any business here! Go home!
+Pokémon are only good for making money. Why not use them? You stay out of our business!
+Pokémon are only good for making money. Why not use them? You stay out of our business!
+Hey, Trainer! C’mon!
+Hey, Trainer! C’mon!
 We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
 We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
+You’re not going any farther! I don’t show mercy to my enemies!
+You’re not going any farther! I don’t show mercy to my enemies!
+This PokéStop belongs to Team GO Rocket!
+This PokéStop belongs to Team GO Rocket!
+I’ll give you something to be scared about!
+I’ll give you something to be scared about!
 We won’t let you ruin our plans to take over PokéStops.
 We won’t let you ruin our plans to take over PokéStops.
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-You better give this battle your full attention!
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-Not that Team GO Rocket is up to anything, of course.
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
+Pokémon battle? Cool! Rumble!
+Pokémon battle? Cool! Rumble!
+You look gentle, so I think I can beat you. I’ll give it a GO!
+You look gentle, so I think I can beat you. I’ll give it a GO!
+Feeling lucky, punk? Go ahead, take another step.
+Feeling lucky, punk? Go ahead, take another step.
+You think you’re a hero?
+You think you’re a hero?
+There’s nothing past here except our PokéStop. So what brings you here?
+There’s nothing past here except our PokéStop. So what brings you here?
+Boy, that really makes me steam!
+Boy, that really makes me steam!
+As always...
+As always...
 This is not good... I better tell the boss!
 This is not good... I better tell the boss!
-I thought that would take longer...
-I thought that would take longer...
-You saw right through me...
-I thought that would take longer...
-You saw right through me...
-I thought that would take longer...
-You saw right through me...
-I thought that would take longer...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-I thought that would take longer...
-I thought that would take longer...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-I thought that would take longer...
-I thought that would take longer...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-You saw right through me...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
+What? I lost? No!
+What? I lost? No!
+I can’t do it!
+I can’t do it!
+Go wherever you like! Get lost! See if I care!
+Go wherever you like! Get lost! See if I care!
+Gaaah!
+Gaaah!
+I failed in my duties... I’ll be docked pay for this...
+I failed in my duties... I’ll be docked pay for this...
+I blew it!
+I blew it!
+So you are good...
+So you are good...
+Argh! You are good!
+Argh! You are good!
+Oww! We got beat bad!
+Oww! We got beat bad!
+This won’t do!
+This won’t do!
+Why...?
+Why...?
+I surrender!
+I surrender!
+Oof! Taken down!
+Oof! Taken down!
+No!
+No!
+You’re tough!
+You’re tough!
+Not enough grit!
+Not enough grit!
+I’m stunned!
+I’m stunned!
+Stop! I give up! I’ll leave quietly!
+Stop! I give up! I’ll leave quietly!
+Blast!
+Blast!
+We’ll never be able to face the boss at this rate!
+We’ll never be able to face the boss at this rate!
+Grrr, Team GO Rocket is scarier than you know, and don’t you forget it!
+Grrr, Team GO Rocket is scarier than you know, and don’t you forget it!
+Who needs a weak Pokémon like this? It’s all yours!
+Who needs a weak Pokémon like this? It’s all yours!
+Gaaah!
+Gaaah!
+It’s because of you that Team GO Rocket’s reputation was totally smashed!
+It’s because of you that Team GO Rocket’s reputation was totally smashed!
 If you were to join Team GO Rocket, you could become a Team GO Rocket Leader.
 If you were to join Team GO Rocket, you could become a Team GO Rocket Leader.
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-I thought that would take longer...
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey! Over here!
-Hey! Over here!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey there! I’m a distraction!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Hey! Over here!
-Ooo, are those tears I see? Haha, nice!
-Ooo, are those tears I see? Haha, nice!
-Ooo, are those tears I see? Haha, nice!
-Ooo, are those tears I see? Haha, nice!
-Ooo, are those tears I see? Haha, nice!
-Ooo, are those tears I see? Haha, nice!
-Heh, this distraction packs a punch!
-Ooo, are those tears I see? Haha, nice!
-Heh, this distraction packs a punch!
-Heh, this distraction packs a punch!
-Heh, this distraction packs a punch!
-Heh, this distraction packs a punch!
-Heh, this distraction packs a punch!
-Heh, this distraction packs a punch!
+What if the boss hears about this?!
+What if the boss hears about this?!
+Such a dreadful twerp!
+Such a dreadful twerp!
+Don’t fight us GO Rockets!
+Don’t fight us GO Rockets!
+What’re you staring at? Get lost. Either you leave or I’ll make you leave!
+What’re you staring at? Get lost. Either you leave or I’ll make you leave!
+Uh-oh! I found a little troublemaker!
+Uh-oh! I found a little troublemaker!
+Not even a single Rattata is getting past me!
+Not even a single Rattata is getting past me!
+Who’s there? Quit listening in on us!
+Who’s there? Quit listening in on us!
+What do you want, you pest? Scram!
+What do you want, you pest? Scram!
+Are you lost? No, you can’t be. You don’t have that scared look.
+Are you lost? No, you can’t be. You don’t have that scared look.
+No way! Only authorized members are allowed. I was told to let no one else get close.
+No way! Only authorized members are allowed. I was told to let no one else get close.
+What d’you think you’re doing running around here?! We’re Team GO Rocket, don’t you know!
+What d’you think you’re doing running around here?! We’re Team GO Rocket, don’t you know!
+Show Team GO Rocket a little respect!
+Show Team GO Rocket a little respect!
+We’re pulling a big job here! Get lost!
+We’re pulling a big job here! Get lost!
+Hey, you! What are you wandering here for?
+Hey, you! What are you wandering here for?
+Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
+Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
+If you get in our way, then you’ll...really be in our way!
+If you get in our way, then you’ll...really be in our way!
+You snuck into Team GO Rocket’s operation? What nerve!
+You snuck into Team GO Rocket’s operation? What nerve!
+Team GO Rocket has taken control of the PokéStop!
+Team GO Rocket has taken control of this PokéStop!
+We’re Team GO Rocket, and we strike fear into others with our strength!
+We’re Team GO Rocket, and we strike fear into others with our strength!
+Hahaha!
+Hahaha!
+Wha—?!
+Wha—?!
+Intruder alert!
+Intruder alert!
+Halt! State your purpose for being here!
+Halt! State your purpose for being here!
+What’d you hope to achieve by coming here?
+What’d you hope to achieve by coming here?
+This is as far as you’ll go!
+This is as far as you’ll go!
+Welcome to this PokéStop! So good of you to join me!
+Welcome to this PokéStop! So good of you to join me!
+Intruder spotted!
+Intruder spotted!
+Stop meddling in Team GO Rocket’s affairs, or else!
+Stop meddling in Team GO Rocket’s affairs, or else!
+My life as a criminal makes me feel so alive!
+My life as a criminal makes me feel so alive!
+It sure does feel good to have Pokémon do your evil deeds for you!
+It sure does feel good to have Pokémon do your evil deeds for you!
+Keep out of our way!
+Keep out of our way!
+Hahaha, is that all you’ve got?
+Hahaha, is that all you’ve got?
+Nailed it!
+Nailed it!
+Yeah!
+Yeah!
 Looking for more items? They’re mine now!
 Looking for more items? They’re mine now!
 Not seeing many items? I’ve been stealing them!
@@ -5647,15 +5966,15 @@ Incense
 25 Incense
 8 Incense. The mysterious fragrance lures wild Pokémon to your location for 60 minutes.
 8 Incense
-Invalid Team GO Rocket battle update.
+Invalid battle update.
 Invalid Pokémon selected for battle.
-Team GO Rocket battle not complete.
-Team GO Rocket battle already complete.
+Battle not completed.
+Battle already completed.
 Your collection is full.
-Team GO Rocket battle not found.
+Battle not found.
 Walk closer to interact with this PokéStop.
 Rescue Pokémon
-Unknown Team GO Rocket battle error.
+Unknown battle error.
 {0} people sent you Friend Requests.
 One person sent you a Friend Request.
 Choose an Egg to incubate.
@@ -5741,12 +6060,14 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
+You're ready to participate in Pokémon battles!
+Ticket
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access Special Research on February 12, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on March 13, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on February 12, 2022, wherever you are.
+This ticket will automatically activate to give you access to Special Research on March 13, 2022, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -5918,8 +6239,8 @@ Shadow {0} was caught!
 Shadow {0} ran away.
 Shadow {0} was purified!
 You invited {0} to an EX Raid.
-https://niantic.helpshift.com/a/pokemon-go/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
-https://niantic.helpshift.com/a/pokemon-go/?s=others&f=%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/2046-%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
+https://niantic.helpshift.com/hc/ja/6-pokemon-go/faq/150-%E7%89%B9%E5%AE%9A%E5%95%86%E5%8F%96%E5%BC%95%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA/?s=others&f=%E8%B3%87%E9%87%91%E6%B1%BA%E6%B8%88%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A4%E3%81%8F%E8%A1%A8%E7%A4%BA&l=ja&p=web
 Link 1
 Link 2
 Kalos Collection Challenge
@@ -6770,6 +7091,7 @@ A natural Lure Module that attracts more Pokémon than usual for 30 minutes. It 
 Mossy Lure Module
 A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that love the rain. It can also cause some Pokémon to evolve.
 Rainy Lure Module
+Lush Jungle
 Power Pose
 Ready Stance
 Keen Stance
@@ -6803,8 +7125,8 @@ Pop Pose
 Rock Pose
 Leon Pose
 Lysandre Pose
+Gladion Pose
 Idle
-Ultra Sun Bag
 Jogger Sunglasses
 Level 41 Glasses
 Level 41 Glasses
@@ -6814,9 +7136,7 @@ Gyarados Hat
 Jogger Visor
 Level 45 Hat
 Level 45 Hat
-Ultra Sun Hat
 Jogger Shorts
-Ultra Sun Shorts
 Ingress Prime
 Jogger Tank Top
 Level 50 Jacket
@@ -6824,12 +7144,10 @@ Level 50 Jacket
 Level 50 Jacket
 Level 50 Jacket
 GO Fest Tee
-Ultra Sun Tank
 Level 49 Boots
 Level 49 Boots
 Fisher Boots
 Jogger Shoes
-Ultra Sun Shoes
 Manage Items
 Assign new tags to {0}
 Remove the {0} tag from {1}
@@ -6854,6 +7172,36 @@ Lotad Research: Use a supereffective Charged Attack in a Gym battle
 Master League Classic
 Premier Cup
 ML Premier Classic
+Masterwork Research: Apex
+Masterwork Research: Apex (1/4)
+Masterwork Research: Apex (2/4)
+Masterwork Research: Apex (3/4)
+Masterwork Research: Apex (4/4)
+Thank you for all your help with Gyarados and Celebi, %PLAYERNAME%. Though it seems our work isn’t over yet—Team GO Rocket still has Lugia and Ho-Oh.
+With the team leaders’ help, we managed to pinpoint Apex Shadow Ho-Oh’s location. For reasons unknown, Team GO Rocket’s keeping the two Pokémon in separate locations.
+Perhaps they’ve bitten off more than they can chew with these two Legendary Pokémon? In any case, this makes things easier for us: we’ll save these Pokémon one at a time!
+Great work saving Apex Shadow Ho-Oh, %PLAYERNAME%! It looks like it knows Sacred Fire, Ho-Oh’s signature move—yet this one’s Sacred Fire is somehow even more powerful!
+I wonder what will happen if you purify it. Will it become even stronger?
+I’m going to continue researching this incredible Pokémon. I’ll keep you posted on what I learn.
+While I’m off, why don’t you train up your Pokémon and see what friends are available to help with Apex Shadow Lugia.
+We’re going to need all the help we can get!
+The team leaders and I will also continue our investigation into Apex Shadow Lugia’s whereabouts. I hope we’ll know more soon.
+Do you have everything you need, %PLAYERNAME%? Potions? Revives? Snacks?
+Saving Apex Shadow Lugia will be an even greater challenge, so be prepared.
+The team leaders and I discovered that Team GO Rocket has hidden Apex Shadow Lugia away in a secret hideout, guarded by a gauntlet of Grunts—and standing with them is none other than Giovanni himself.
+And while I have you, remember how I said I’d conduct more research into Apex Shadow Ho-Oh?
+Well, it turns out that if you purify it, its Sacred Fire move will become immeasurably powerful.
+Apex Purified Ho-Oh might be an incredible ally in our quest to save Apex Shadow Lugia.
+These may just be some of the toughest battles you’ll face as a Pokémon Trainer yet. But I know you, above all else, are the one most prepared for the challenge.
+Great Scott!
+%PLAYERNAME%!
+You did it!
+You saved Apex Shadow Lugia from Team GO Rocket!
+Just like Ho-Oh, Apex Shadow Lugia’s Aeroblast attack is more powerful than any I’ve ever seen.
+And just like Apex Shadow Ho-Oh, I’m confident that its power will increase even more if you purify it.
+Now, I’d say we’re overdue for a celebration! You’ve earned it.
+Your recent accomplishments are no small feat!
+Thanks again for all your help. I’m sure Lugia and Ho-Oh are grateful, too. Until our next adventure...let’s GO!
 Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
 Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
 I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
@@ -6919,7 +7267,7 @@ Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2022-02-25T01:07:53.156377at SHA 413df5befdbe0d00a543f8a142221526d63b719aPipeline 834428, job 8736424
+Built at 2022-04-08T15:41:30.281239at SHA a3840134a413f13591efe87c58f4b953345d151fPipeline 871128, job 9309153
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7483,6 +7831,7 @@ Premium Battle Pass
 {0} and {1} are now your friends!
 {0} and {1} sent you Friend Requests!
 {0} and {1} have opened your Gifts!
+{0} and {1} have saved your Postcards!
 {0} and {1} sent you Gifts!
 Try again through Settings or the Poké Ball Plus icon.
 Poké Ball Plus not enabled
@@ -7552,13 +7901,14 @@ The photo could not be saved.
 5 surprise encounters with Fletchling in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
 5 surprise encounters with Gible in GO Snapshot
-5 surprise encounters with Skiploom in GO Snapshot
+5 surprise encounters with Hoppip in GO Snapshot
 5 surprise encounters with Machop in GO Snapshot
 5 surprise encounters with Magikarp in GO Snapshot
 5 surprise encounters with Magmar in GO Snapshot
 5 surprise encounters with Oshawott in GO Snapshot
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
+5 surprise encounters with Sandshrew in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
 5 surprise encounters with Shinx in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
@@ -7585,6 +7935,7 @@ Your suspension term has ended and you are now able access your account.The prio
 {0} and {1} other Trainers are now your friends!
 {0} and {1} other Trainers sent you Friend Requests!
 {0} and {1} other friends have opened your Gifts!
+{0}, {1}, and other friends have saved your Postcards!
 {0} and {1} other friends sent you Gifts!
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
 3 Poffins
@@ -8019,6 +8370,7 @@ Pincer Pokémon
 Ball Pokémon
 Sphere Pokémon
 Ball Pokémon
+Sphere Pokémon
 Egg Pokémon
 Coconut Pokémon
 Lonely Pokémon
@@ -8949,8 +9301,9 @@ Hypno holds a pendulum in its hand. The arcing movement and glitter of the pendu
 Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.
 Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.
 Voltorb was first sighted at a company that manufactures Poké Balls. The link between that sighting and the fact that this Pokémon looks very similar to a Poké Ball remains a mystery.
-???
+An enigmatic Pokémon that happens to bear a resemblance to a Poké Ball. When excited, it discharges the electric current it has stored in its belly, then lets out a great, uproarious laugh.
 Electrode eats electricity in the atmosphere. On days when lightning strikes, you can see this Pokémon exploding all over the place from eating too much electricity.
+The tissue on the surface of its body is curiously similar in composition to an Apricorn. When irritated, this Pokémon lets loose an electric current equal to 20 lightning bolts.
 This Pokémon consists of six eggs that form a closely knit cluster. The six eggs attract each other and spin around. When cracks increasingly appear on the eggs, Exeggcute is close to evolution.
 Exeggutor originally came from the tropics. Its heads steadily grow larger from exposure to strong sunlight. It is said that when the heads fall off, they group together to form Exeggcute.
 It swings its long neck like a whip and smacks its opponents. This makes Exeggutor itself dizzy, too.
@@ -9608,13 +9961,15 @@ Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. 
 Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.
 This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.
 This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.
-This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.
 This Oricorio has drunk bright yellow nectar. When it sees someone looking glum, it will try to cheer them up with a dance.
+This Oricorio has sipped pink nectar. It gets so caught up in its dancing that it sometimes doesn’t hear its Trainer’s orders.
 This Oricorio has sipped purple nectar. Some dancers use its graceful, elegant dancing as inspiration.
 Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes' movements and make fools of them.
 It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.
 When it rubs the rocks on its neck against you, that's proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!
 The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.
+The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.
+It has no problem ignoring orders it doesn’t like. It doesn’t seem to mind getting hurt at all—as long as it can finish off its opponent.
 This strange form is the result of its evolving at dusk. It’s very rare in Alola.
 The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.
 It has no problem ignoring orders it doesn’t like. It doesn’t seem to mind getting hurt at all—as long as it can finish off its opponent.
@@ -11141,6 +11496,7 @@ Let’s Go: Hatch {0} Eggs
 Field Research completed!
 Mystery items
 Stardust
+Earn a heart with your buddy {0} days in a row
 Receive {0} Souvenirs from your buddy
 Receive a Souvenir from your buddy
 Walk {0} km with your buddy
@@ -11235,6 +11591,7 @@ Catch {0} Unown
 Catch an Aerodactyl
 Catch {0} Bidoof
 Catch a Chespin
+Catch {0} Cottonee
 Catch a Cubone
 Catch {0} Exeggcute
 Catch a Fennekin
@@ -11338,7 +11695,7 @@ The Bravest Bird
 Just A Nibble
 The Great Gastly
 A Spooky Message Unmasked
-Hop, Skip, and a Jump away
+A Hop, Skip, and Jump Away
 Straight to the Top, Machop!
 Making a Splash
 No Match for Magmar
@@ -11360,6 +11717,7 @@ An Inter-egg-sting Development
 The Higher They Fly...
 A Seven-Colored Shadow
 Stop and Smell the Roselia
+Gritty and Glacial
 Flash, Spark, and Gleam
 Snivy in the Sunshine
 The Spheal Deal
@@ -11487,6 +11845,10 @@ Catch {0} Eevee
 Evolve {0} Eevee
 Catch {0} Electabuzz
 Evolve {0} Electabuzz
+Defeat the GO Tour Elite Four: Mesa Trainer
+Defeat the GO Tour Elite Four: Cave Trainer
+Defeat the GO Tour Elite Four: Ocean Trainer
+Defeat the GO Tour Elite Four: Savannah Trainer
 Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
@@ -11502,6 +11864,7 @@ Evolve one Azurill
 Evolve one Bagon
 Evolve one Baltoy
 Evolve one Barboach
+Evolve your Bayleef
 Evolve one Bayleef
 Evolve one Beldum
 Evolve one Bellsprout
@@ -11530,6 +11893,7 @@ Evolve one Charmander
 Evolve one Charmeleon
 Evolve one Cherubi
 Evolve one Chespin
+Evolve your Chikorita
 Evolve one Chikorita
 Evolve one Chimchar
 Evolve one Chinchou
@@ -11544,9 +11908,11 @@ Evolve one Corphish
 Evolve one Cottonee
 Evolve one Cranidos
 Evolve one Croagunk
+Evolve your Croconaw
 Evolve one Croconaw
 Evolve one Cubchoo
 Evolve one Cubone
+Evolve your Cyndaquil
 Evolve one Cyndaquil
 Evolve a Dark-type Pokémon
 Evolve one Darumaka
@@ -11732,6 +12098,7 @@ Evolve one Psyduck
 Evolve one Pumpkaboo
 Evolve one Pupitar
 Evolve one Purrloin
+Evolve your Quilava
 Evolve one Quilava
 Evolve one Quilladin
 Evolve one Qwilfish
@@ -11825,6 +12192,7 @@ Evolve one Tirtouga
 Evolve one Togepi
 Evolve one Togetic
 Evolve one Torchic
+Evolve your Totodile
 Evolve one Totodile
 Evolve one Tranquill
 Evolve one Trapinch
@@ -12044,10 +12412,33 @@ GO Fest: Battle another Trainer
 Earn {0} gold medals
 Earn 5 gold medals
 Earn a gold medal
+Pokémon GO Tour: Johto
+Pokémon GO Tour: Johto (1/11)
+Pokémon GO Tour: Johto (10/11)
+Pokémon GO Tour: Johto (11/11)
+Pokémon GO Tour: Johto (2/11)
+Pokémon GO Tour: Johto (3/11)
+Pokémon GO Tour: Johto (4/11)
+Pokémon GO Tour: Johto (5/11)
+Pokémon GO Tour: Johto (6/11)
+Pokémon GO Tour: Johto (7/11)
+Pokémon GO Tour: Johto (8/11)
+Pokémon GO Tour: Johto (9/11)
+Chikorita, the Leaf Pokémon, uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe! You’ll be able to catch Chikorita and earn Chikorita Candy, and you’ll receive tasks that require evolving and taking snapshots of Chikorita.
+Choose Chikorita
+Cyndaquil, the Fire Mouse Pokémon, is timid and always curls itself up in a ball. If attacked, it flares up its back for protection! You’ll be able to catch Cyndaquil and earn Cyndaquil Candy, and you’ll receive tasks that require evolving and taking snapshots of Cyndaquil.
+Choose Cyndaquil
+Totodile, the Big Jaw Pokémon, is small but rough and tough. It won’t hesitate to take a bite out of anything that moves! You’ll be able to catch Totodile and earn Totodile Candy, and you’ll receive tasks that require evolving and taking snapshots with Totodile.
+Choose Totodile
 Pokémon GO Tour: Kanto - Bonus Event
 Pokémon GO Tour: Kanto - Bonus Event (1/3)
 Pokémon GO Tour: Kanto - Bonus Event (2/3)
 Pokémon GO Tour: Kanto - Bonus Event (3/3)
+Take a photo in the Beginning Journeys habitat
+Take a photo in the Team Instinct habitat
+Take a photo in the Team Mystic habitat
+Take a photo in the Team Valor habitat
+Take a photo in the Professor Willow habitat
 Catch {0} Gastly
 Evolve {0} Gastly
 Evolve {0} Haunter
@@ -12162,10 +12553,16 @@ Power up a Legendary or Mythical Pokémon
 Power up {0} Pokémon to their max CP
 Power up a Pokémon to its max CP
 Power up Pokémon {0} times
+Power up {0} Electric-type Pokémon
+Power up {0} Fighting-type Pokémon
+Power up {0} Ground-type Pokémon
+Power up {0} Normal-type Pokémon
+Power up {0} Water-type Pokémon
 Power up a Pokémon
 Catch {0} Abra or Drowzee
 Catch {0} Psychic-type Pokémon
 Evolve {0} Exeggcute or Slowpoke
+Raid with a friend
 Earn a gold Hoenn medal
 Earn a Gold Johto medal
 Earn a gold Kanto medal
@@ -12214,6 +12611,8 @@ Use {0} supereffective Charged Attacks in Gym battles
 Win {0} Great League Trainer Battles against another Trainer
 Catch {0} Roselia
 Evolve {0} Roselia
+Catch {0} Sandshrew
+Evolve {0} Sandshrew
 Send Gifts {0} Days in a Row
 Send {0} Gifts to friends
 Send a Gift to a friend
@@ -12224,6 +12623,8 @@ Evolve {0} Shinx
 Evolve {0} Luxio
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
+Take a snapshot of your Chikorita
+Take a snapshot of your Cyndaquil
 Take {0} snapshots of Genesect
 Take a snapshot of Hoopa
 Take a snapshot of Landorus
@@ -12232,6 +12633,7 @@ Take a snapshot of Regirock
 Take a snapshot of Registeel
 Take a snapshot of Thundurus
 Take a snapshot of Tornadus
+Take a snapshot of your Totodile
 Take a snapshot of Shinx, Blitzle, or Furfrou in the wild
 Take {0} snapshots of wild Bug-type Pokémon
 Take a snapshot of Butterfree, Shinx, or Blitzle in the wild
@@ -12240,6 +12642,7 @@ Take {0} snapshots of wild Dragon-type Pokémon
 Take a snapshot of Chinchou, Finneon, or Ducklett in the wild
 Take a snapshot of Eevee in the wild
 Take {0} snapshots of wild Electric-type Pokémon
+Take a snapshot of Entei in the wild
 Take {0} snapshots of wild Fairy-type Pokémon
 Take {0} snapshots of wild Fighting-type Pokémon
 Take {0} snapshots of wild Fire-type Pokémon
@@ -12247,6 +12650,7 @@ Take {0} snapshots of wild Flying-type Pokémon
 Take a snapshot of Sandshrew, Geodude, or Cacnea in the wild
 Take {0} snapshots of wild Ghost-type Pokémon
 Take {0} snapshots of wild Grass-type Pokémon
+Take a snapshot of a wild Grass-type Pokémon
 Take {0} snapshots of wild Ground-type Pokémon
 Take a snapshot of Hoothoot in the wild
 Take {0} snapshots of wild Ice-type Pokémon
@@ -12257,12 +12661,14 @@ Take {0} snapshots of wild Normal-type Pokémon
 Take {0} snapshots of wild Pokémon
 Take {0} snapshots of wild Poison-type Pokémon
 Take {0} snapshots of wild Psychic-type Pokémon
+Take a snapshot of Raikou in the wild
 Take {0} snapshots of wild Rock-type Pokémon
 Take a snapshot of a wild Pokémon
 Take a snapshot of Dodrio, Mantine, or Skarmory in the wild
 Take a snapshot of Kirlia or Skitty in the wild
 Take a snapshot of Sneasel, Croagunk, or Frillish in the wild
 Take {0} snapshots of wild Steel-type Pokémon
+Take a snapshot of Suicune in the wild
 Take a snapshot of Sandshrew, Trapinch, or Cacnea in the wild
 Take {0} snapshots of wild Water-type Pokémon
 Take a snapshot of a Pokémon {0} days in a row
@@ -12270,6 +12676,34 @@ Take {0} snapshots
 Catch {0} Snivy
 Evolve {0} Snivy
 Evolve {0} Servine
+Welcome back, %PLAYERNAME%! Isn’t it lovely out?
+There are Litten lying in the sun, Rowlet relaxing in the trees, Popplio playing in the water—and these malasadas Spark dropped off sure are delicious!
+It seems even the flowers smell sweeter today!
+Why don’t you go out and see what Pokémon are around, %PLAYERNAME%? Maybe we’ll find something new to research!
+I think I’ll sit this one out. Taking breaks is important!
+Ah, you’re back already, %PLAYERNAME%—and with some new Pokémon in tow! Well done.
+While you were gone, I noticed there’s something sparkling in the air today. Perhaps it’s a result of my radiant personality, eh, %PLAYERNAME%?
+Haha! Seriously though, it’s something I’m looking into.
+For now, let’s have a look at the Pokémon you’ve caught.
+Hmm, how curious. You appear to have caught several Pokémon that are often found on Alola’s Akala Island.
+Akala Island has some amazing geographical features that make it a suitable habitat for a wide range of Pokémon.
+There’s Brooklet Hill, a fantastic fishing spot with a series of cascading waterfalls. And Lush Jungle, where trees grow densely together, as well as Wela Volcano Park—which, as you may have guessed, is a volcano!
+How about keeping an eye out for Fire-, Water-, and Grass-type Pokémon while you’re out, %PLAYERNAME%? If my hunch is correct, you may run into more Pokémon often seen about Akala Island.
+Well done, %PLAYERNAME%! That’s quite an assortment of Pokémon you’ve encountered.
+I wish I’d been out there with you, but I wasn’t sitting idly by! I think I may have discovered why the air seems to be sparkling today.
+You see, Blanche just reported witnessing a mysterious pink Pokémon behind a flower bush.
+Based on its description, I believe Blanche may have seen Tapu Lele, the guardian deity of Akala Island.
+The fragrant aroma of flowers is the source of Tapu Lele’s energy. Perhaps that has something to do with why the flowers smell so sweet today.
+Spark and Blanche have both seen guardian deities now... Hmm. While I chew on that, let’s get out and look for Tapu Lele, %PLAYERNAME%!
+Whew! That was a good walk. I just got back myself, %PLAYERNAME%.
+I wasn’t able to find Tapu Lele, but I did manage to get a closer look at some of the sparkles I’ve been seeing in the air.
+They appear to be the glowing scales Tapu Lele is known to scatter. Touching them is said to restore good health on the spot.
+How did you fare during your investigation, %PLAYERNAME%?
+*gasp* You saw Tapu Lele?! That’s incredible!
+So, we’ve been visited by two of Alola’s guardian deities now... What could they be here for, I wonder?
+Tapu Lele is said to be guilelessly cruel, so I do hope we’re staying on its good side.
+If I could just meet one of the guardian deities myself, it would help me form a solid hypothesis as to why they’re appearing...
+But that’s for me to ponder. Don’t trouble yourself with it—go out and enjoy the day! I’ll be in touch soon. Let’s GO!
 Good to see you again, %PLAYERNAME%. Have you noticed an increased number of Abra in the area?
 Yes, so did I. I originally thought this strange phenomenon was happening due to Abra’s ability to teleport.
 When Abra decides to teleport randomly, it creates the illusion that it’s made copies of itself.
@@ -12739,22 +13173,22 @@ There’s another bit of the poem that I think is relevant here, too.
 It sounds like you’ll also need Hoopa Candy and Stardust to change Hoopa Unbound back into Hoopa Confined—but something tells me you won’t need quite as much.
 Of course, this is all just a theory.
 We’ll have to test it before reaching any proper conclusions!
-Hey there %PLAYERNAME%! Thanks for being here, I'm so glad to see you
-I've been noticing the most wonderous thing lately: Hoppip are filling the skies! Floating on the winds!
-This is the perfect opportunity for us to learn more about the Cottonweed Pokémon, don't you think?
-It is said that when Hoppip gather in fields and mountains, spring is on the way.
-I believe it's almost springtime in some areas right now, so this checks out! Why don't you go catch some and report back on what you find, hm?
-Wow, look at all of those Hoppip! Did you know that its body is so light, it must grip the ground firmly with its feet to keep from being blown away?
-According to the Pokédex, the average Hoppip weighs just 0.5 kg. That's so light! Hoppip has an evolved form as well, did you know?
-If you evolve it, you'll see just how it changes its appearance: specifically the plant on its head! I'm so excited for you to see it!
-Ahh, what an adorable Skiploom! Do you see there, %PLAYERNAME%? How the flower on its head and is opening and closing?
-Apparently, the bloom on top of its head open and closes as the temperature fluctuates up and down! Isn't that absolutely fascinating?
-And not just that, but it also floats in the air to get closer to the sun. I don't blame it, if I could float closer to the sun I would too, haha!
-Skiploom can evolve one more time, did you know that? Let's see what it turns into!
-Great work, %PLAYERNAME%! Looks like you've got a Jumpluff! Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.
-Sounds like such a beautiful sight! 
-Well this was a fun adventure learning all about the Cottonweed Pokémon with you! Research all day with no play is no way to be a Pokémon Trainer.
-You should go take your new friends for a little walk, maybe bask in the sun together a bit. Hope you have some fun in the sun together, %PLAYERNAME%!
+Hey there, %PLAYERNAME%!
+I just saw the most wonderful thing: hundreds of Hoppip are filling the sky! You’d think the clouds were pink with how many there are out there right now.
+I believe this is the perfect opportunity for us to learn more about Hoppip, the Cottonweed Pokémon, don’t you agree?
+It’s said that when Hoppip gather in fields and mountains, spring is on the way.
+Does it feel like spring yet, with all these Hoppip floating about? Let’s see about catching a few to find out more about them.
+Wow, look at all those Hoppip! Hoppip are so light that they grip the ground with their feet to keep from being blown away. They also like to huddle up and link their leaves to stay grounded as a group.
+They sure have found all sorts of clever ways to keep themselves in place.
+Hoppip can also evolve, and it’s quite the sight. Don’t take my word for it—how about you go see for yourself!
+What an adorable Skiploom, %PLAYERNAME%! Have you had a moment to study it?
+The bloom on top of its head opens and closes as the temperature fluctuates. Because Skiploom’s flower blossoms when the temperature rises, some Trainers have taken to using it as a thermometer. Isn’t that fascinating?
+In warm weather, Skiploom can also be seen floating in the air to get closer to the sun. I don’t blame it—if I could float and get a little more sunlight, I would, too!
+Did you know that Skiploom can evolve as well? Why don’t you evolve one, hm?
+Great work, %PLAYERNAME%! Looks like you’ve got yourself a Jumpluff. Jumpluff rides the winds to cross the sea and fly to foreign lands, scattering cotton spores as it goes.
+Wouldn’t it be wonderful to travel so breezily?
+On that note, you should take your new friend for a stroll—maybe bask in the sunlight together a bit, too.
+See you again soon, %PLAYERNAME%!
 Jessie: Hey, James, did you hear?
 James: What is it, Jessie?
 Jessie: Apparently, there’s a mysterious Pokémon in a jungle nearby!
@@ -13054,6 +13488,28 @@ In other regions, Trainers use Mega Bracelets to help their Pokémon Mega Evolve
 However, I thought a Mega Bracelet would be a trendy way to show off your Mega Evolution skills.
 You can check it out when you want to change up your look. I hope you accept this gift with my sincerest thanks for a job well done.
 Until next time, let’s GO!
+Hey there, %PLAYERNAME%! It’s great to see you, as always.
+I’m feeling especially refreshed today, as if a pleasant island breeze were following me. Maybe it’s the freshly squeezed Pinap Juice I had for breakfast?
+Or maybe it’s because more and more Pokémon first discovered in the Alola region have been coming to visit me lately!
+Do you know about the Alola region, %PLAYERNAME%? It’s a cluster of tropical islands, each with unique scenery and Pokémon.
+Alola even has Pokémon whose appearances are different than their counterparts in other regions. You may have encountered some of them before!
+Why don’t you try looking for some Pokémon that were first discovered in Alola while I rustle up another glass of juice? I’m sure we have a lot to learn about our visitors!
+Good timing, %PLAYERNAME%! I just finished my juice.
+Thanks for looking into the Alola region’s Pokémon! You’re as diligent as ever.
+Let me take a look at what you’ve discovered. Hmm... It seems many of the Pokémon you just met can be found on Alola’s Melemele Island.
+Melemele Island is where many of Alola’s Trainers begin their island challenge. It’s very fitting that the Pokémon you just met are also some of the first that young Trainers in Alola meet, too!
+Now, let’s have a little more fun! Could you take a few snapshots of your new Pokémon friends or feed them some Berries, %PLAYERNAME%?
+Back already, %PLAYERNAME%? You and your Pokémon already seem to be closer. But who doesn’t love a good Pinap Berry? Speaking of, maybe it’s time for another glass of juice...
+Delicious juice aside, did you know that each island in the Alola region has its own Island Guardian? Melemele Island’s guardian deity is Tapu Koko.
+Why do I bring this up? Well, while you were away, I was looking for a clean glass and caught a startling yellow flash out of the corner of my eye!
+The lightning-wielding Tapu Koko is known to fly faster than the eye can follow. With so many other Pokémon found on Melemele Island appearing, could it be that Tapu Koko is visiting as well?
+Could you look around and see if you can spot Tapu Koko, %PLAYERNAME%? I’m eager to know if what I saw was truly the Land Spirit Pokémon.
+Welcome back, %PLAYERNAME%! What’s that? You were able to see Tapu Koko? That’s incredible!
+And would you believe it: Spark was just here, raving that he’d seen Tapu Koko, too! So it is in the area after all. What an exceptional discovery, %PLAYERNAME%!
+I wonder why Tapu Koko is here. Tapu Koko is said to be a Pokémon brimming with curiosity—but, naturally, Island Guardians tend to stay on their respective islands. The fact that one of them is here may mean something is amiss...
+Or did someone do something to anger it? I’ll have to do some more research before I can say anything for sure.
+Do you think we’ll get a chance to meet the other Island Guardians, %PLAYERNAME%? Wouldn’t that be something.
+I guess we’ll just have to wait and see. Until then, let’s kick back and enjoy a little R and R with our new friends!
 Hey, %PLAYERNAME%! Have you run into any Pokémon wearing fun costumes recently? I’ve seen quite a few around my mobile lab.
 It reminded me how freeing it can be to express yourself in different ways. Personally, I’m a big fan of turning up my tunes and shredding on the air guitar!
 Others, like Spark, are really into taking snapshots of Pokémon and the world around them. I wonder how those Pokémon feel when they wear those costumes.
@@ -13249,7 +13705,7 @@ In Raid Battles, you can battle alongside friends and other Trainers to challeng
 These Pokémon are formidable foes, indeed. Sometimes, you can find certain Pokémon only as Raid Bosses.
 Before entering a Raid Battle, make sure to power up your Pokémon! Stocking up on lots of Candy and Stardust will allow you to bring powerful teams to Raid Battles.
 Power up some Pokémon, then try taking on a raid. If you don’t succeed, you can team up with other Trainers.
-You’ll never know what you’re capable of until you try, right? 
+You’ll never know what you’re capable of until you try, right?
 Hey there, %PLAYERNAME%! I’m hoping you can help me with something. You see, I was out for a walk recently and noticed several trees covered in slash marks—and I think I know what made them.
 There’s a Pokémon called Oshawott—the Sea Otter Pokémon—that keeps a scalchop on its stomach that it can detach and use as a blade. I’ve seen a lot of Oshawott around lately, so I’m thinking they may be our mystery tree carvers.
 Could you catch some Oshawott so we can learn more about them?
@@ -13603,6 +14059,32 @@ Each contains a different toxin. The poison in its right hand is quick acting, w
 What an amazing Pokémon!
 Thanks for all your assistance today, Trainer. Documenting situations like this is essential to learning more about the Pokémon in the world around us.
 Until next time, let’s GO!
+Good morning, %PLAYERNAME%! There sure seems to be a surplus of Sandshrew around today, don’t you think?
+I’m especially surprised to see both Sandshrew and Alolan Sandshrew appearing at once!
+These two forms of Sandshrew usually prefer vastly different climates. Sandshrew usually make their homes in deserts and arid zones, where rain doesn’t fall.
+Alolan Sandshrew, on the other hand, are typically found in snowy mountains. What an uncommon sight for them to both be here together!
+How about you spend some time with them and see what they’re up to, %PLAYERNAME%?
+Welcome back, %PLAYERNAME%! That’s an impressive number of Sandshrew you have in tow. I’d love to take a closer look at them—especially their shells.
+Did you know that there’s a traditional competition in Alolan festivals where Trainers slide Alolan Sandshrew across ice as far as possible?
+How must the Sandshrew feel about that, I wonder!
+The Sandshrew first found in the Kanto region are quite fascinating in their own right.
+When their shells are wrinkled from moisture, they head for volcanoes and lie flat on a spot with a lot of geothermal heat to dry themselves out.
+It’s truly incredible how different geography and climates can influence Pokémon.
+I’d love to get an even closer look at both of these forms of Sandshrew. What do you say, %PLAYERNAME%? Let’s get back out there!
+You never disappoint, %PLAYERNAME%! Seeing all the Sandshrew together, don’t they look like a tough bunch?
+Sandshrew evolve into Sandslash, another hardy Pokémon. Alolan Sandslash use their large, hooked claws to cut paths through deep snow as they run.
+On snowy mountains, these Sandslash are faster than any other Pokémon.
+But Sandslash first found in Kanto are tough, too! They climb trees by hooking on with their sharp claws.
+They even share the Berries they gather by dropping them down to Sandshrew waiting on the ground. If only I could gather Berries so easily...
+Try and evolve Sandshrew to Sandslash for yourself, %PLAYERNAME%!
+Great work, %PLAYERNAME%. Your new Sandslash are an impressive sight—befitting an impressive Trainer such as yourself!
+Up close, you can really appreciate the differences in the spikes of these Sandslash.
+The drier the area Sandslash lives in, the harder and smoother their spikes feel.
+Meanwhile, Alolan Sandslash have beautiful icy spikes that glisten in the light of dawn.
+Thanks for helping me look into these Sandshrew today, %PLAYERNAME%.
+I’ll keep studying Sandshrew and Sandslash in hopes of discovering more differences and similarities between them!
+And I’ll be sure to get in touch the next time I need a helping hand. Something tells me it won’t be long!
+Until next time, let’s GO!
 Hey there, %PLAYERNAME%! It’s good to see you.
 As you know, I’ve recently been conducting research on several different regions in the world of Pokémon. Along the way, I came across some books that collected stories and legends from various regions.
 One of these tomes told of three Legendary Pokémon from the Unova region—a trio that seem to be capable of changing formes.
@@ -13648,10 +14130,10 @@ BOO! Haha, did I scare you? Not too badly, I hope.
 Let’s continue our investigation into these eerie events. Don’t worry—I won’t send you into any rickety mansions or foggy forests.
 I was actually doing some research near a forest myself recently, and I found a rather odd-looking tree. I’ve learned over the years to trust my gut when something seems strange in the field—chances are it’s a Pokémon!
 I couldn’t help but indulge my curiosity, and I stepped toward the tree to observe it more closely. As soon as I did, the tree pivoted on its roots and stared me down with a single red eye!
-It didn’t take long for me to realize I was standing before a Trevenant, the Elder Tree Pokémon. Trevenant will trap people who harm their forest, never allowing them to leave. 
+It didn’t take long for me to realize I was standing before a Trevenant, the Elder Tree Pokémon. Trevenant will trap people who harm their forest, never allowing them to leave.
 It must have sensed that I was just there for research because it turned back around and ignored me. Its attention then turned to the many Phantump gathered around it.
 That’s when I realized that Trevenant was harvesting Berries from the nearby trees to feed the Phantump! Trevenant is known to offer great kindness to forest-dwelling Pokémon, and it was lovely to witness it myself.
-Ghost-type Pokémon can seem frightening at first glance, but look a little closer and you’ll find they’re full of surprises. I’m sure the same goes for Hoopa! 
+Ghost-type Pokémon can seem frightening at first glance, but look a little closer and you’ll find they’re full of surprises. I’m sure the same goes for Hoopa!
 I have a feeling there’s more to Hoopa than its penchant for mischief. Maybe we’ll find some answers after we conduct some more research on Ghost-type Pokémon.
 Great work, %PLAYERNAME%! As we close out our spooky investigations, I have a feeling there are some bright things on the horizon for us to explore together soon. I’ll be sure to let you know when I have something to share!
 Well hello, %PLAYERNAME%! Welcome back. It’s around this time of year that nights in the Northern Hemisphere begin growing longer and longer. The sun shines brighter while it’s up, though, so it’s a pretty fair trade!
@@ -13987,6 +14469,11 @@ Evolve {0} Tepig
 Evolve {0} Pignite
 {0} days left to complete this Special Research
 {0} day left to complete this Special Research
+An Akala Adventure
+An Akala Adventure (1/4)
+An Akala Adventure (2/4)
+An Akala Adventure (3/4)
+An Akala Adventure (4/4)
 Animation Week Research
 Investigating Illusions
 Investigating Illusions (1/4)
@@ -14097,11 +14584,11 @@ Mischief Unbound
 Mischief Unbound (1/3)
 Mischief Unbound (2/3)
 Mischief Unbound (3/3)
-Hop, Skip, and a Jump away
-Hop, Skip, and a Jump away (1/4)
-Hop, Skip, and a Jump away (2/4)
-Hop, Skip, and a Jump away (3/4)
-Hop, Skip, and a Jump away (4/4)
+A Hop, Skip, and Jump Away
+A Hop, Skip, and Jump Away (1/4)
+A Hop, Skip, and Jump Away (2/4)
+A Hop, Skip, and Jump Away (3/4)
+A Hop, Skip, and Jump Away (4/4)
 GO Fest 2019—Chicago (1/5)
 GO Fest 2019—Chicago (2/5)
 GO Fest 2019—Chicago (3/5)
@@ -14147,6 +14634,10 @@ Luminous Legends Y (4/7)
 Luminous Legends Y (5/7)
 Luminous Legends Y (6/7)
 Luminous Legends Y (7/7)
+Lush Jungle (1/4)
+Lush Jungle (2/4)
+Lush Jungle (3/4)
+Lush Jungle (4/4)
 Legacy 40 Challenge
 Legacy 40 Challenge (1/4)
 Legacy 40 Challenge (2/4)
@@ -14206,6 +14697,11 @@ Mega Buddy Challenge (1/4)
 Mega Buddy Challenge (2/4)
 Mega Buddy Challenge (3/4)
 Mega Buddy Challenge (4/4)
+A Melemele Adventure
+A Melemele Adventure (1/4)
+A Melemele Adventure (2/4)
+A Melemele Adventure (3/4)
+A Melemele Adventure (4/4)
 Finding Your Voice
 Finding Your Voice (1/6)
 Finding Your Voice (2/6)
@@ -14326,6 +14822,11 @@ Stop and Smell the Roselia (1/4)
 Stop and Smell the Roselia (2/4)
 Stop and Smell the Roselia (3/4)
 Stop and Smell the Roselia (4/4)
+Gritty and Glacial
+Gritty and Glacial (1/4)
+Gritty and Glacial (2/4)
+Gritty and Glacial (3/4)
+Gritty and Glacial (4/4)
 Season of Legends
 Season of Legends (1/5)
 Season of Legends (2/5)
@@ -14564,8 +15065,13 @@ Transfer {0} Steel-type Pokémon
 Transfer {0} Water-type Pokémon
 Professor Willow is currently performing an investigation regarding this research. Check back for more details soon!
 Use any Potion on a Pokémon
+Use a Charged TM
+Use a Fast TM
 Use a Hyper Potion on a Pokémon
+Use a Lure Module
 Use a Max Potion on a Pokémon
+Use a Charged TM
+Use a Fast TM
 Use a Super Potion on a Pokémon
 Valentine’s Day: Catch {0} Luvdisc
 Valentine’s Day: Catch a Chansey
@@ -16741,6 +17247,13 @@ Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
 Lunatone and Solrock appearing in different regions
 Solstice
+I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
+I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
+Aw...
+Aw...
+Instincts sure are handy, don’t you think? Team Instinct knows what’s up!
+I won? I mean, yeah! I won! Woohoo!
+I won? I mean, yeah! I won! Woohoo!
 You can do it!
 You got this!
 Electrifying battle!
@@ -16759,16 +17272,17 @@ More Electabuzz are appearing in the wild
 More Fletchling are appearing in the wild
 More Gastly are appearing in the wild
 More Gible are appearing in the wild
-More Skiploom are appearing in the wild
+More Hoppip are appearing in the wild
 More Machop are appearing in the wild
 More Magikarp are appearing in the wild
 More Magmar are appearing in the wild
 More Oshawott are appearing in the wild
 More Porygon are appearing in the wild
 More Roselia are appearing in the wild
+More Sandshrew are appearing in the wild
 More Seedot are appearing in the wild
 More Shinx are appearing in the wild
-Chance for Skiploom to appear in Parks
+Increased chance for Skiploom to appear in parks
 More Snivy are appearing in the wild
 More Spheal are appearing in the wild
 More Swablu are appearing in the wild
@@ -16830,6 +17344,87 @@ More Pidgey are appearing in the wild
 More Purrloin are appearing in the wild
 More Wobbuffet are appearing in the wild
 Spring Event
+Pokémon GO Tour: Johto (1/9)
+Pokémon GO Tour: Johto (2/9)
+Pokémon GO Tour: Johto (3/9)
+Pokémon GO Tour: Johto (4/9)
+Pokémon GO Tour: Johto (5/9)
+Pokémon GO Tour: Johto (6/9)
+Pokémon GO Tour: Johto (7/9)
+Pokémon GO Tour: Johto (8/9)
+Pokémon GO Tour: Johto (9/9)
+Hello, %PLAYERNAME%! Are you ready? Your very own Pokémon story is about to unfold. This adventure may be brand new to some, while for others, it might be very familiar.
+That’s right—today we’re learning all about the Johto region and meeting some Pokémon originally discovered there, too!
+But nothing’s happened yet, so you just focus on having fun with your friends and your Pokémon!
+The Johto region is a land steeped in history and tradition, where the bygone beauty of Ecruteak City lies just steps away from the modern metropolis of Goldenrod City.
+It’s also the region where Dark- and Steel-type Pokémon were first discovered! Not to mention Mr. Pokémon and the mysterious Mystery Egg.
+Speaking of Pokémon originally discovered in the Johto region, I’ve heard tell that Celebi, the Time Travel Pokémon, has been seen nearby.
+Celebi has the ability to move through time.
+I still can’t shake the feeling that Celebi had something to do with Hisuian Voltorb appearing in our time.
+In any case, rumor has it this Celebi knows a special move. I hope we’ll get a chance to see if that’s true!
+While you enjoy today’s festivities, keep vigilant for any signs of Team GO Rocket. I know I haven’t forgotten about them.
+Hopefully we can get some insight into what they’ve been up to since they smashed open that mysterious door...
+You know what your adventure needs, %PLAYERNAME%? A new buddy! I spoke with a colleague and was able to orchestrate a little surprise for you.
+These Pokémon are the first partner Pokémon offered to Trainers in the Johto region. Go on—pick one!
+I think that’s a great Pokémon, too, %PLAYERNAME%!
+Chikorita, the Leaf Pokémon, is docile and loves to soak up the sun’s rays. A sweet aroma gently wafts from the leaf on its head. Doesn’t it have just the most adorable face?
+Cyndaquil, the Fire Mouse Pokémon, is timid and always curls itself up in a ball. If attacked, it flares up its back for protection. Doesn’t its shyness make you want to cuddle it even more?
+Totodile, the Big Jaw Pokémon, is small but rough and tough. It won’t hesitate to take a bite out of anything that moves. Though what’s the harm in one quick pet...
+I’m sure this little one is eager to spend some time with you, and what better way than letting it join you on your Johto-inspired journey!
+Wow, your Chikorita evolved into Bayleef already! And just in time, %PLAYERNAME%—I have some troubling news.
+Wow, your Cyndaquil evolved into Quilava already! And just in time, %PLAYERNAME%—I have some troubling news.
+Wow, your Totodile evolved into Croconaw already! And just in time, %PLAYERNAME%—I have some troubling news.
+Team GO Rocket is mobilizing—and they’re headed straight toward us!
+I have a feeling they’re stirring up more than just a mild bit of mischief... That must be why they’re launching an invasion—more distractions! Not to mention they always love to crash our parties.
+Have they heard about the Celebi sightings? Or maybe they have something even more sinister up their sleeve...
+I’m going to need your help defeating some Team GO Rocket Grunts—distract the distraction, and buy me some time to investigate. Can I count on your help?
+Magnificent work, %PLAYERNAME%! While I was investigating, some Team GO Rocket Grunts ran by, whining about losing to an “unfairly strong Trainer.”
+I assume you’re the Trainer in question? Haha, but of course! I knew I could trust you.
+So, my sleuthing turned up an interesting rumor. A Gyarados has been spotted nearby, but it isn’t at all like your typical Gyarados.
+This one seems like it’s mired in a fit of rage—not unlike a certain Red Gyarados that once rampaged the Johto region’s Lake of Rage.
+Back then, Team Rocket used a mysterious radio broadcast to force Magikarp to evolve.
+Hm. That sounds similar to Shadow Pokémon, don’t you think? And there have been a lot more Shadow Pokémon appearing lately. Could Team GO Rocket be using the same technology again?
+And is this connected to what they stole from behind the mysterious door? What if it was some sort of power that they’ve now amplified and corrupted...?
+And with Celebi about and its time travel powers— Egad! Who knows what Team GO Rocket could do! There’s no time to waste. Let’s save Gyarados and then set our sights on finding Celebi before it’s too late!
+Great work, %PLAYERNAME%! That Gyarados is much calmer now that you’ve rescued it from Team GO Rocket.
+It looks like Team GO Rocket’s retreating as well, so how about we continue with our festivities? They’ve stolen enough of our time.
+I think your Bayleef would like to play with you!
+I think your Quilava would like to play with you!
+I think your Croconaw would like to play with you!
+Even in the direst of situations, when you’re pulled from all sides, it’s essential to take time to decompress and enjoy a peaceful moment with your friends.
+Times like that give us the strength to persevere.
+Speaking of strength, your Bayleef looks ready to evolve!
+Speaking of strength, your Quilava looks ready to evolve!
+Speaking of strength, your Croconaw looks ready to evolve!
+Ah, your Meganium is absolutely efflorescent with happiness! Are you two having fun? It’s been a delight to see your friendship blossom.
+Ah, your Typhlosion is absolutely ablaze with happiness! Are you two having fun? It’s been a delight to see your new friendship burn so brightly.
+Ah, your Feraligatr is absolutely awash with happiness! Are you two having fun? It’s been a delight to experience the refreshing friendship between you two.
+Making new friends and exploring the world around you are two of life’s greatest joys. My life is richer for the adventures I’ve had.
+I’d have never found that mysterious door if not for a random adventure! Despite Team GO Rocket’s interference, I’m still grateful for the time I got to spend with the team leaders and the research I was able to do.
+Enough of my chatter—why don’t you go make some new friends yourself? There’s plenty of day left to enjoy.
+%PLAYERNAME%, sorry to rush you, but we have to hurry! There’s been a confirmed Celebi sighting just moments ago. If you go now, you might be able to catch it!
+Let’s GO!
+Great work catching Celebi! It is thought that so long as Celebi appears, a bright and shining future awaits us.
+I wonder why Celebi decided to appear to us today. Maybe it’s a sign of good things to come.
+After all the trouble we’ve had with Team GO Rocket, I welcome the reminder that peaceful times aren’t too far off.
+While you were out, I uncovered the truth Team GO Rocket has been trying so hard to hide: they’ve captured Lugia and Ho-Oh.
+It gets worse: using the power they stole from behind the mysterious door in conjunction with radio technology developed via their past broadcasts, they’ve forced Lugia and Ho-Oh to ascend to a level of power beyond any Shadow Pokémon we’ve ever seen.
+They’re calling them Apex Shadow Lugia and Apex Shadow Ho-Oh. Get ready, %PLAYERNAME%—the battle’s only just begun.
+Well hello, %PLAYERNAME%! How’d you enjoy yesterday’s festivities? I hope you’re still feeling energetic, because there’s more in store—and this time, we’re focusing on the Kanto region!
+What better place to start one’s Pokémon adventure, no?
+Now, let’s get out there and start exploring!
+Ah, %PLAYERNAME%, you’re looking a bit tired. Why not take a quick break? Play with your buddy a bit, maybe feed it a nice juicy Berry?
+While you’re at it, why not grab a snack yourself! Even the strongest Trainers can’t run on an empty stomach.
+Having fun, %PLAYERNAME%? Are you all warmed up for your next adventure? I hope so, because you’ll soon be exploring the area’s different habitats.
+There are five habitats, each filled with unique Pokémon. Which habitats have which Pokémon, you ask? Well, let’s go find out!
+Nice snapshots, %PLAYERNAME%! You really captured the essence of the Pokémon, and it looks like the little models were having a good time, too.
+Did you enjoy your excursion through the habitats? I bet you encountered an immense amount of Pokémon, both familiar and new to you!
+There are tons of amazing Trainers out here exploring as well.
+Why not make a few new friends, then trade or battle with them?
+Welcome back, %PLAYERNAME%! While you were out, I heard that a powerful Legendary Pokémon has been sighted in the area.
+Maybe it heard about our festivities and wanted to join the fun? Let’s go check it out!
+Whoa! Is that...Mewtwo? Incredible! Will the world’s wonders never cease?
+This has been such a fun day, %PLAYERNAME%. I hope you enjoy the rest of your adventure—there’s still plenty more to do. Until next time...let’s GO!
 2× Star Piece duration
 Stardust Blast
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
@@ -16940,13 +17535,14 @@ Tickets for The Bravest Bird Special Research story available in the shop
 Tickets for the Special Research story The Great Gastly available in the shop
 Tickets for the Just a Nibble Special Research story available in the shop
 Ticket for a Special Research story available in the shop
-Ticket for the Hop, Skip, and a Jump away Special Research story available in the shop
+Ticket for the A Hop, Skip, and Jump Away Special Research story available in the shop
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
 Ticket for the From Scalchops to Seamitars Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
+Ticket for the Gritty and Glacial Special Research story available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
 Ticket for the Flash, Spark, and Gleam Special Research story available in the shop
 Ticket for Special Research available in the shop
@@ -16969,14 +17565,18 @@ BONUS ACTIVE:
 TIMED BONUS
 Trainers must work together as a regional community to complete this challenge.
 All Trainers participating in a global challenge will contribute to a global goal. Once Trainers achieve the goal, a timed bonus will activate for all participants.
+Trainers must work together as a global community to complete this challenge.
 Regional Challenge
+Global Challenge
 Challenge complete! Bonus active!
 Ended
 Regional Challenge
+Global Challenge
 A new challenge is starting!
 Ends in {0} minutes
 Ends in 1 minute
 Trainers must work together as a regional community to complete this challenge.
+Trainers must work together as a global community to complete this challenge.
 Timed Research available
 Featured Pokémon in Timed Research
 Meowth featured in Timed Research
@@ -17166,6 +17766,7 @@ This raid has ended.
 Cannot learn any other attacks!
 One...two...and...ta-da! {0} learned {1}!
 Today
+Pokémon from all hours are now appearing in the wild!
 Regional Catch Competition
 Citywide AR Mapping task rewards
 AR Mapping task city competition
@@ -17514,22 +18115,27 @@ Valentine’s Day: Evolve a Hoppip
 Valentine’s Day: Hatch {0} Eggs
 Valentine’s Day: Defeat {0} Team GO Rocket Grunts
 Valentine’s Day
-If you stop saving {0} Logs, any {1} Logs that you haven’t uploaded will be deleted.
-Do you want to stop saving {0} Logs?
-Game Logs contain valuable information that can help Niantic improve certain activities in Pokémon GO. If you allow your Game Logs to be saved, you can then upload your logs after each in-game activity to share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time before then in the Settings menu.
-Learn More
+Valentine’s Day Challenge 1
+Valentine’s Day Challenge 2
+If you stop saving these logs, any {1} logs that you haven’t uploaded will be deleted.
+Do you want to stop saving these logs?
+Game logs contain valuable information that can help Niantic improve certain aspects of Pokémon GO. If you allow your game logs to be saved, you can then upload them and share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time in the Settings menu.
+Learn more
 Help Improve Pokémon GO!
-You have {0} logs pending upload.
-Logs Pending Upload
+You have 1 log awaiting upload.
+You have {0} logs awaiting upload.
+Logs Awaiting Upload
 Game Logs
 Save {0} Logs
 Battle
 Raid
 UPLOAD ({0} MB)
 UPLOAD
-Upload Complete!
+Upload complete!
 {0} Log ({1} MB)
+Do you want to upload this log now?
 Do you want to upload these logs now?
+Uploading 1 log...
 Uploading {0} logs...
 View all tags assigned to {0}
 View in Map
@@ -17629,7 +18235,7 @@ Partly Cloudy
 Rain
 The weather is not accurate at all!
 The weather seems accurate, just not up to date.
-Weather
+Report Weather Issue
 Snow
 Sunny
 Weather warning
@@ -17637,6 +18243,7 @@ Weather
 Weather Week
 Windy
 Cannot access your device's camera. Check camera permissions.
+Welcome to Alola
 Retrieving data with Adventure Sync
 Winter Event
 Pokémon GO Holidays: Catch Challenge
