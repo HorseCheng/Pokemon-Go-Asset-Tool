@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message GetProfileRequest {
 	string player_id = 1;
+	string nia_account_id = 2;
 }

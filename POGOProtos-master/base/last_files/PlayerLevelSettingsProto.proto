@@ -30,5 +30,5 @@ message PlayerLevelSettingsProto {
 	int32 max_raid_encounter_player_level = 6;
 	int32 max_quest_encounter_player_level = 7;
 	int32 max_vs_seeker_encounter_player_level = 8;
-	int32 ob_bool = 9;
+	int32 max_mega_level = 9;
 }

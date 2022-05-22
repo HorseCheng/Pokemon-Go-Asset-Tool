@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message DismissOutgoingGameInvitesRequest {
 	string friend_id = 1;
 	repeated string app_key = 2;
+	string friend_nia_account_id = 3;
 }

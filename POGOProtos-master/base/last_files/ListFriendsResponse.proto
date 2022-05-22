@@ -36,6 +36,7 @@ message ListFriendsResponse {
 		ProfileSummaryProto profile = 4;
 		PlayerStatusSummaryProto player_status = 5;
 		SocialV2Enum.InvitationStatus invitation_status = 6;
+		string nia_account_id = 7;
 	}
 
 	message PlayerStatusSummaryProto {

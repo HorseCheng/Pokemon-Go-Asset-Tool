@@ -42,14 +42,14 @@ message SponsoredGeofenceGiftSettingsProto {
 		SponsoredBalloonMovementSettingsProto balloon_movement_settings = 6;
 	}
 
-	message ObSponsoredBalloon1 {
-		string ob_string_1 = 1;
-		string ob_string_2 = 2;
-		string ob_string_3 = 3;
-		string ob_string_4 = 4;
-		string ob_string_5 = 5;
-		string ob_string_6 = 6;
-		string ob_string_7 = 7;
+	message SponsoredGeofenceGiftDetailsProto {
+		string ads_logo = 1;
+		string partner_name = 2;
+		string full_screen_static_image = 3;
+		string title = 4;
+		string description = 5;
+		string cta_url = 6;
+		string campaign_identifier = 7;
 	}
 
 	bool gift_persistence_enabled = 1;
@@ -64,5 +64,5 @@ message SponsoredGeofenceGiftSettingsProto {
 	SponsoredBalloonGiftSettingsProto balloon_gift_settings = 10;
 	bool ob_bool = 11;
 	ObSponsoredBalloon ob_sponsored_balloon = 12;
-	ObSponsoredBalloon1 ob_sponsored_balloon_1 = 13;
+	SponsoredGeofenceGiftDetailsProto sponsored_geofence_gift_details = 13;
 }

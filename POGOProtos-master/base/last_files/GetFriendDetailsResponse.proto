@@ -45,6 +45,7 @@ message GetFriendDetailsResponse {
 		FriendDetailsProto calling_game_data = 4;
 		repeated OutgoingGameInviteStatus outgoing_game_invite_status = 5;
 		repeated string dismissed_outgoing_game_invite_app_keys = 6;
+		string nia_account_id = 7;
 	}
 
 	message PlayerStatusDetailsProto {

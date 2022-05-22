@@ -125,6 +125,15 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
+engmovedict["0365"] = "Luster Purge"
+chimovedict["0365"] = "潔淨光芒"
+engmovedict["0366"] = "Mist Ball"
+chimovedict["0366"] = "薄霧球"
+engmovedict["0368"] = "Rollout"
+chimovedict["0368"] = "滾動"
+engmovedict["0369"] = "Seed Flare"
+chimovedict["0369"] = "種子閃光"
+
 # Pokemon class
 class pokemon():
     def __init__(self, inn):

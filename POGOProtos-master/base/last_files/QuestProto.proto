@@ -113,4 +113,5 @@ message QuestProto {
 	bool is_bonus_challenge = 120;
 	ReferralInfoProto referral_info = 121;
 	repeated QuestBranchRewardProto branch_rewards = 122;
+	bool dialog_read = 123;
 }

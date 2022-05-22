@@ -36,4 +36,8 @@ message FriendDetailsProto {
 	int32 score = 3;
 	bytes data_with_me = 4;
 	OnlineStatus online_status = 5;
+	int64 created_ms = 6;
+	bytes shared_data = 7;
+	bytes data_from_me = 8;
+	bytes data_to_me = 9;
 }

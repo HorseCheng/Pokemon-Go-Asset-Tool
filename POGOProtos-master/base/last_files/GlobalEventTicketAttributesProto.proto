@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "HoloBadgeType.proto";
+import "Item.proto";
 
 message GlobalEventTicketAttributesProto {
 	HoloBadgeType event_badge = 1;
@@ -34,6 +35,11 @@ message GlobalEventTicketAttributesProto {
 	repeated string event_variant_description_string_keys = 9;
 	string item_bag_description_variant_selected = 10;
 	repeated string event_variant_button_string_keys = 11;
+	bool is_ticket_eligible_for_gifting = 12;
+	Item ob_item_event_1 = 13;
+	Item ticket_to_gift = 14;
+	string ob_string_event_1 = 15;
+	string ob_string_event_2 = 16;
 	int64 client_event_start_time_utc_ms = 100;
 	int64 client_event_end_time_utc_ms = 101;
 }

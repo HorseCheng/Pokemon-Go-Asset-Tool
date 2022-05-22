@@ -23,5 +23,5 @@ package POGOProtos.Rpc;
 
 message ObCombatSettings {
 	int32 ob_int32 = 1;
-	bool ob_bool = 2;
+	bool enabled = 2;
 }

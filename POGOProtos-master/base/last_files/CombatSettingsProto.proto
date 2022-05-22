@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "CombatOffensiveInputChallengeSettings.proto";
 import "CombatDefensiveInputChallengeSettings.proto";
+import "FastMoveLeakBaselineProto.proto";
 import "ObCombatSettings.proto";
 import "ObCombatSettings1.proto";
 
@@ -59,6 +60,7 @@ message CombatSettingsProto {
 	float shadow_pokemon_attack_bonus_multiplier = 30;
 	float shadow_pokemon_defense_bonus_multiplier = 31;
 	float purified_pokemon_attack_multiplier_vs_shadow = 32;
+	repeated FastMoveLeakBaselineProto fast_move_leak_baseline = 35;
 	bool ob_bool = 36;
 	ObCombatSettings ob_combat_settings = 38;
 	ObCombatSettings1 ob_combat_settings_1 = 39;

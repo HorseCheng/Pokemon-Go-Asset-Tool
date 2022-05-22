@@ -22,5 +22,6 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message ExternalAddressableAssetsSettings {
-	int32 ob_int32 = 1;
+	int32 ob_int32_1 = 1;
+	int32 ob_int32_2 = 2;
 }

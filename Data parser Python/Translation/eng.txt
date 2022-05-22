@@ -89,6 +89,74 @@ Referral Code Confirmed
 ADD STICKER
 Learn what information is shared with friends.
 Please enter a different nickname.
+If you choose to discard these changes, this action cannot be undone.
+Are you sure you want cancel making changes to your performance settings?
+Your game experience may vary after you change your performance settings. If you choose to save your changes, your game will be restarted.
+Your game experience may vary after you change your performance settings.
+Are you sure you want to save these changes to your performance settings?
+BACK
+{0}-performance mode is not compatible with this device.
+CANCEL CHANGES
+Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.You’ll need to restart the game to implement any changes.
+Performance
+No changes have been made to your performance settings.
+No changes have been made to your performance settings.
+PERFORMANCE
+(Recommended)
+SAVE
+SAVE CHANGES
+This device’s native refresh rate is not compatible with smoother gameplay.
+Enable Native Refresh Rate
+Better graphics
+This device is not compatible with the high-performance setting.
+Power saving
+Best graphics and smooth performance
+This device is not compatible with the max-performance setting.
+Moderate quality and performance
+This device is not compatible with the medium-performance setting.
+NATIVE REFRESH RATE
+Unlock your device’s native refresh rate for smoother visuals.
+This device’s native refresh rate is not compatible with smoother gameplay.
+Are you sure you want the game to automatically select your performance settings?
+AUTO-SELECT
+This selection will automatically adjust your performance settings based on your device. This action cannot be undone.
+Auto-Select Performance
+Your performance settings have been automatically adjusted based on your device.
+Avatar Details
+Affects the resolution of your avatar and Trainer profiles in your Friend List.
+This device is not compatible with the max-performance setting.
+This device is not compatible.
+Better graphics
+Download Image RAM Cache
+32 MB
+16 MB
+1 MB
+Determines the amount of device memory allotted to game resources. Affects how long images take to load.
+Power saving
+Map Details
+Improved map draw distance and scale, reduced fog, and better visibility of Gyms, sky, and buildings.
+Best graphics and smooth performance
+Moderate graphics and performance
+Native Refresh Rate
+This device’s native refresh rate does not enable smoother visuals.
+Affects how smooth and responsive the game looks in motion.
+You’re already using the recommended performance settings.
+Performance Preset
+Performance presets allow you to adjust multiple options at once.
+Quality preset has been updated to
+Highest Quality
+Balanced
+Power Saving
+Render and Texture
+Affects the loading and resolution of images.
+Set to
+Your performance settings have been automatically selected based on your device.
+PERFORMANCE PRESETS
+Custom
+High
+Low
+Max
+Medium
 Delete Account
 Once your Pokémon GO account is deleted, it will no longer be accessible by you or anyone else. This action cannot be undone.
 Try again through Settings.
@@ -101,6 +169,8 @@ Adventure Sync Needs Background Location
 Adventure Sync needs background location turned on so you can earn Candy, hatch Pokémon Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Enable Adventure Sync in Settings for more rewards!
 Adventure Week
+April Fools’ 2-Oh?-22
+Oh?
 Please enter your date of birth.
 Welcome to Alola
 Alolan Form
@@ -354,6 +424,7 @@ Festival of ColorsYellow Face Sticker
 Festival of ColorsBlue Face Sticker
 Pikachu Mask
 Sableye Mask
+Team Skull Mask
 Verizon Mask
 Future Specs
 No Glasses
@@ -476,6 +547,7 @@ Team Instinct Cap
 Team Mystic Cap
 Team Rocket Hat
 Team Rocket Cap
+Team SkullBeanie
 Top Hat
 Ultra Moon Hat
 Verizon Cap
@@ -532,6 +604,7 @@ Blanche-Style Pants
 Candela-Style Skirt
 Team Magma Shorts
 Team Rocket Skirt
+Team Skull Shorts
 Spark-Style Pants
 Ultra Moon Shorts
 Veteran Leggings
@@ -676,6 +749,7 @@ Candela-Style Jacket
 Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
+Team SkullTank Top Set
 Spark-Style Jacket
 Togepi Pattern Hoodie
 Active Tee
@@ -690,6 +764,7 @@ Verizon Jacket
 Veteran Coat
 Victini Tee
 Victini Tee
+Regional Champ2022 Tee
 Winter Coat
 Ace Boots
 Ace Shoes
@@ -744,6 +819,7 @@ Candela-Style Shoes
 Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
+Team Skull Shoes
 Spark-Style Shoes
 Ultra Moon Sandals
 Veteran Boots
@@ -815,6 +891,7 @@ Festival of ColorsYellow Face Sticker
 Festival of ColorsBlue Face Sticker
 Pikachu Mask
 Sableye Mask
+Team Skull Mask
 Verizon Mask
 Future Specs
 No Glasses
@@ -989,6 +1066,7 @@ Blanche-Style Pants
 Candela-Style Pants
 Team Magma Pants
 Team Rocket Pants
+Team Skull Shorts
 Spark-Style Pants
 Ultra Sun Shorts
 Veteran Pants
@@ -1134,6 +1212,7 @@ Candela-Style Jacket
 Team Magma Top
 Team Rocket Top
 Team Rainbow Rocket Top
+Team SkullTank Top Set
 Spark-Style Jacket
 Togepi Pattern Hoodie
 Diagonal Tee
@@ -1151,6 +1230,7 @@ Verizon Jacket
 Veteran Jacket
 Victini Tee
 Victini Tee
+Regional Champ2022 Tee
 Winter Coat
 Ace Boots
 Ace Shoes
@@ -1206,6 +1286,7 @@ Candela-Style Shoes
 Team Magma Shoes
 Team Rocket Boots
 Team Rainbow Rocket Boots
+Team Skull Shoes
 Spark-Style Shoes
 Ultra Sun Shoes
 Veteran Boots
@@ -1358,6 +1439,12 @@ December 2021: Tully’s
 Special Weekend
 Pokémon GO
 Pokémon GO
+Season of Alola Partner Research: Tully’s
+Partner Research: Tully’s
+Season of Alola Partner Research: Sushiro
+Partner Research: Sushiro
+Season of Alola Partner Research: Yoshinoya
+Partner Research: Yoshinoya
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -1791,6 +1878,7 @@ Got Candy from the professor.
 {0} Event Pokémon
 You have selected at least one Legendary, Mythical, or event Pokémon.
 {0} Legendary or Mythical Pokémon
+{0} Mega-Leveled Pokémon
 You have not selected any Legendary, Mythical, or event Pokémon.
 Are you sure you want to transfer these Pokémon to the professor?
 Your Selection Contains These Pokémon:
@@ -2928,6 +3016,8 @@ Increased Candy XL when walking with your buddy
 {0} found a Candy XL!
 Walk together
 Buddy Up
+Use Adventure Sync to track your Buddy Pokémon’s heart meter when Pokémon GO is open in the background.
+Adventure Sync: Buddy
 Easier to get your buddy excited
 You've already applied this type of enhancement.
 You can’t use another one of those right now. Try again later.
@@ -3023,6 +3113,7 @@ Increased XP for catching Pokémon with Great Throws
 Increased XP for catching Pokémon with Nice Throws
 4× Catch XP
 3× Catch XP
+Community Day Distance Challenge
 Battle a team leader {0} times
 Battle another Trainer
 Battle another Trainer {0} times
@@ -3140,6 +3231,7 @@ Take a snapshot of a Steel-type Pokémon
 Take a snapshot of a Water-type Pokémon
 Hi, Trainer! There seems to be an issue with your nickname. Please choose a new one.
 CHANGE STICKER
+This will change the game’s language setting to {0}. Do you want to restart the game to apply this setting?
 CHANGE MY CODE
 Are you sure you want to change your Trainer Code? You'll no longer be able to receive Friend Requests with your current Trainer Code. This change won't affect your current Friend List.
 Change your Trainer Code
@@ -3450,7 +3542,7 @@ Candela
 A challenge from you is what I’ve been waiting for! Don’t hold back, because I won’t!
 Team Valor Leader
 {0} canceled the challenge.
-The challenger canceled the challenge.
+The challenge was cancelled.
 {0} declined your challenge.
 Sorry, error {0} occurred.
 Challenge Expired
@@ -3619,8 +3711,11 @@ Your opponent has quit the battle.
 Your party doesn’t have enough Pokémon.
 {0} fainted!
 {0} used a Protect Shield!
+Attempting to use a Protect Shield...
+{0} did not use a Protect Shield in time!
 The Battle Code has expired.
 Exit the Trainer Battle?
+The previous battle could not be recovered.
 Rematch
 Your opponent has ended the battle.
 GOOD EFFORT!
@@ -3666,6 +3761,7 @@ Community Day: Hoppip
 Community Day: Machop
 Community Day: Magikarp
 Community Day: Magmar
+Mudkip Community Day Classic
 Community Day: Oshawott
 Community Day: Porygon
 Community Day: Roselia
@@ -3774,8 +3870,8 @@ OK
 YES
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
-When you visit PokéStops or Gyms, you may receive Sponsored Gifts along with a sponsored message relevant to your location. By disabling this option, you are opting out of receiving Sponsored Gifts. Please restart the app to save your selection.
-Disable Sponsored Gifts
+Disable this option to stop receiving Sponsored Message served through third party ad services. Please restart the app to save your choice.
+Disable Sponsored Messages from third party advertising services
 You can't assign your Buddy Pokémon to defend a Gym.
 Legendary Pokémon cannot be left at Gyms.
 The Pokémon must be at full HP.
@@ -3785,6 +3881,7 @@ Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
 Type Surge: Dragon
 Dragon Boat Festival
+Sustainability Week Collection Challenge
 Sustainability Day
 Sustainability Week
 Eggstravaganza: Hatch an Egg
@@ -3829,8 +3926,8 @@ Create tags by tapping +
 No Tags
 Enable sharing info on recently caught Pokémon with friends
 You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
-When you visit PokéStops or Gyms, you may receive Sponsored Gifts along with a sponsored message relevant to your location. By enabling this option, you are opting in to receive Sponsored Gifts when available. Please restart the app to save your selection.
-Enable Sponsored Gifts
+Enable this option to receive Sponsored Messages through third party ad services. Please restart the app to save your choice.
+Enable Sponsored Messages from third-party advertising services
 You already used a Berry.
 Oh?
 Excellent!
@@ -3855,6 +3952,7 @@ You can’t undo this action once you leave the encounter.
 {0} was caught!
 Bonus Challenge! Catch {0}!
 {0} Evolution Shard received!
+Active Mega Pokémon Bonus
 Expert Handler
 Streak Bonus
 Curveball
@@ -3974,6 +4072,7 @@ This nickname is no longer available.
 Not Available
 Currently, your network connection is unstable. Please try again later.
 Season of Heritage: December Bonus
+Exeggcute can evolve into Alolan Exeggutor
 Fashion Challenger
 Fashion Challengers stationed at PokéStops
 Discounted avatar items in the shop
@@ -4085,7 +4184,9 @@ Boosted CP for certain Mega-Evolved Pokémon
 Earn more Catch Candy from Pokémon of your Mega-Evolved Pokémon’s type
 Mischief Hour
 There’s mischief starting soon...
+Event Pokémon attracted to Mossy Lure Modules
 Evolve Kadabra to Alakazam that know the Fast Attack Counter
+Evolve Exeggcute to get an Alolan Exeggutor that knows Draco Meteor
 Evolve Flaaffy to get an Ampharos that knows Dragon Pulse
 Evolve Bidoof to get a Bibarel that knows Hyper Beam
 Encounter Bidoof that know Ice Beam
@@ -4285,6 +4386,7 @@ Rock Pose
 Leon Pose
 Lysandre Pose
 Gladion Pose
+Team Skull Pose
 Idle
 Level 41 Glasses
 Level 41 Glasses
@@ -4817,6 +4919,8 @@ A ticket to access the A Hop, Skip, and Jump Away Special Research on February 1
 A Hop, Skip, and Jump Away
 A ticket to access the Straight to the Top, Machop! Special Research on January 16 from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Straight to the Top, Machop! Ticket
+A ticket to access the Mudkip Community Day Classic Special Research on April 10, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Mudkip Community Day Classic Ticket
 A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 From Scalchops to Seamitars Ticket
 A ticket to access the Stop and Smell the Roselia Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -6064,10 +6168,10 @@ You're ready to participate in Pokémon battles!
 Ticket
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access Special Research on March 13, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Special Research on April 10, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on March 13, 2022, wherever you are.
+This ticket will automatically activate to give you access to Special Research on April 10, 2022, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6270,6 +6374,7 @@ This cup is limited to Pokémon of the following types: {0}. All Pokémon on the
 Only these Pokémon can be used in this cup.
 Limited selection
 Eligible Pokémon types:
+Let’s GO!
 Level {0} Requirements
 Level {0} Style Items
 Task rewards will be awarded automatically upon completion.
@@ -7126,6 +7231,7 @@ Rock Pose
 Leon Pose
 Lysandre Pose
 Gladion Pose
+Team Skull Pose
 Idle
 Jogger Sunglasses
 Level 41 Glasses
@@ -7136,6 +7242,7 @@ Gyarados Hat
 Jogger Visor
 Level 45 Hat
 Level 45 Hat
+Team SkullBeanie
 Jogger Shorts
 Ingress Prime
 Jogger Tank Top
@@ -7239,12 +7346,22 @@ Cannot create more than {0} tags.
 10 Max Potions
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
+Remaining Mega Evolution Period
 Mega Battle Challenge
 Mega Buddy Challenge
 Mega Bonus Hour: [Candy]
 As you walk, you can earn Candy for the Pokémon you’ve chosen to be your buddy. If your buddy is excited, the distance needed to earn Candy will be reduced! Poffins will get your buddy excited faster than other treats. You may also receive Mega Energy appropriate for your buddy!
 Candies and Mega Energy
 Mega
+Rest Period
+{0} Day {1} Hour
+{0} Day {1} Hours
+{0} Days
+{0} Days {1} Hour
+{0} Days {1} Hours
+{0} Day
+{0}’s Mega Level cannot increase further today.
+Daily Level Limit Met
 3× Mega Evolution duration
 Mega Energy
 You have reached the maximum amount of Mega Energy.
@@ -7260,14 +7377,63 @@ While {0} is Mega Evolved, you will earn extra Candy when catching <b>{1}</b>-ty
 CP {0} → <color=#2ECDA8>{1}</color>
 Mega Evolution
 MEGA EVOLVE
+Tap to Mega Evolve!
+Tap to Mega Evolve!
+Mega Evolution available
+You can only use one Mega-Evolved Pokémon at a time
+Select a Pokémon to Mega Evolve!
+Mega Evolve {0}
+After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
+Mega Evolve {0}
 Mega-Evolved Pokémon cannot be assigned to defend Gyms.
+Base Level
+High Level
+Max Level
+{0}’s Mega Level
+Mega Evolve {0} {1} more times to reach {2}!
+Mega Evolve {0} {1} more time to reach {2}!
+Show Me
+This Pokémon has an increased Mega Level. Do you still want to transfer it?
+Mega Evolution temporarily changes a Pokémon’s appearance and increases its strength. Mega-Evolved Pokémon can be used in Gyms, raids, and Trainer Battles.You can use only one Mega-Evolved Pokémon at a time.
+Let’s GO Mega!
+• You can now Mega Evolve a Pokémon without using Mega Energy.• You can still use Mega Energy to Mega Evolve a Pokémon during its rest period.• New bonuses have been added that will improve the more your Pokémon Mega Evolves.After a Pokémon Mega Evolves, you’ll need to wait a while before it can Mega Evolve again without using Mega Energy. You can also use Mega Energy to Mega Evolve your Pokémon before then.
+Mega Evolution Features
+<b>Using Mega Energy</b>You can always Mega Evolve a Pokémon using Mega Energy even if the Pokémon is in a rest period. The Mega Energy required to do so will depend on the length of the rest period. <b>Rest</b>Your Pokémon will need to rest after Mega Evolving without using Mega Energy. A Pokémon’s rest periods will become shorter the more it Mega Evolves.
+Two Ways to Mega Evolve
+Mega Energy is unique to each Pokémon species and can be earned using the following methods.• Win Mega Raids.• Complete certain research tasks.• Adventure with a Buddy Pokémon that can Mega Evolve.
+Mega Energy
+After Mega Evolving, your Pokémon will be fatigued and need time before it can Mega Evolve again without using Mega Energy. You can always Mega Evolve a Pokémon using Mega Energy, even during a rest period.• A Pokémon’s rest periods will become shorter the more it Mega Evolves.• The Mega Energy required to Mega Evolve a Pokémon will decrease as the Pokémon’s rest period becomes shorter.
+Rest Periods
+Each Mega-Evolved Pokémon has a Mega Level. When a Pokémon’s Mega Level increases, you’ll get increased bonuses while the Pokémon is Mega Evolved, and the period you’ll have to wait before you can Mega Evolve the Pokémon again will be shorter. Each time you Mega Evolve a Pokémon, you work toward increasing its Mega Level.
+Mega Level
+When you catch a Pokémon that shares a type with your Mega-Evolved Pokémon, you’ll receive the following bonuses.• Extra Candy• Extra XP• An increased chance of receiving Candy XL
+Catch Bonuses
+You can Mega Evolve without Mega Energy and enjoy additional bonuses
+Tap to view Mega Level
+You can now increase the Mega Level of this Pokémon!
+{0}’s Mega Level increased!
+Your Pokémon can now Mega Evolve faster without using Mega Energy!
+Mega Level Up!
+Boosted Ally Attacks
+Catch Candy Bonus
+Enhanced Catch Candy bonus
+Catch XP Bonus
+Enhanced Catch XP bonus
+{0}-day Mega Evolution rest period
+{0}-day Mega Evolution rest period
+Reduced Mega Energy to Mega Evolve
+Massively reduced Mega Energy cost
+Greatly reduced Mega Energy cost
+Excellent Candy XL Chance
+Great Candy XL Chance
+Mega Evolution Bonuses
 Mega Raid Challenge
 Mega Raid Hour
 Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
 Walking Progress
-Built at 2022-04-08T15:41:30.281239at SHA a3840134a413f13591efe87c58f4b953345d151fPipeline 871128, job 9309153
+Built at 2022-05-04T18:32:39.250279at SHA 5e5782b523a4b26e21db7f8dc8f8df7c944a7b7ePipeline 895183, job 9717167
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7751,6 +7917,7 @@ Privacy Settings
 Niantic Social has arrived! With this new social feature, you can now do the following.
 Set Nickname
 Please link your Nintendo Account to Pokémon GO again.
+No Buddy
 No limit
 No Eggs
 
@@ -7846,6 +8013,7 @@ Code Redeemed
 SEE RESEARCH
 There was an error redeeming the code.
 The request to redeem the code timed out. Check your network settings and try again.
+Your performance settings were successfully updated!
 Enabling Bluetooth...
 Bluetooth is off. Enable it in device settings.
 This device does not support Bluetooth Smart.
@@ -7905,6 +8073,7 @@ The photo could not be saved.
 5 surprise encounters with Machop in GO Snapshot
 5 surprise encounters with Magikarp in GO Snapshot
 5 surprise encounters with Magmar in GO Snapshot
+5 surprise encounters with Mudkip in GO Snapshot
 5 surprise encounters with Oshawott in GO Snapshot
 5 surprise encounters with Porygon in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
@@ -11607,6 +11776,7 @@ Catch {0} Omanyte or Kabuto
 Catch {0} Pumpkaboo
 Catch {0} Slugma or Gulpin
 Catch {0} Voltorb
+Catch {0} of the Transform Pokémon
 Catch {0} Trubbish
 Catch {0} Bug-type Pokémon
 Catch {0} different species of Bug-type Pokémon
@@ -11681,6 +11851,7 @@ Catch {0} Charmander
 Catch {0} Charmeleon
 Evolve {0} Charmander
 Evolve {0} Charmeleon
+April Fools’ 2-Oh?-22
 Investigating Illusions
 BIDOOF
 Bulbasaur Community Day Classic
@@ -11703,6 +11874,7 @@ Let’s GO, Meltan
 A Mythical Discovery
 Complete {0} Collection Challenges
 Complete a Collection Challenge
+Mudkip Community Day Classic
 Welcome to Pokémon GO!
 From Scalchops to Seamitars
 Decoding Porygon
@@ -11849,6 +12021,22 @@ Defeat the GO Tour Elite Four: Mesa Trainer
 Defeat the GO Tour Elite Four: Cave Trainer
 Defeat the GO Tour Elite Four: Ocean Trainer
 Defeat the GO Tour Elite Four: Savannah Trainer
+Exeggcute Research: Battle in a Gym
+Exeggcute Research: Use three Berries to help catch Pokemon
+Exeggcute Research: Catch three Grass-type Pokémon
+Exeggcute Research: Use a Super Effective Charged Move
+Exeggcute Research: Make five Curveball Throws
+Exeggcute Research: Evolve two Grass-type Pokémon
+Exeggcute Research: Send two Gifts and add a sticker to each
+Exeggcute Research: Make three Great Throws
+Exeggcute Research: Make two Great Throws in a row
+Exeggcute Research: Make five Nice Throws
+Exeggcute Research: Make three Nice Throws in a row
+Exeggcute Research: Battle in a Raid
+Exeggcute Research: Spin two PokéStops
+Exeggcute Research: Catch three Pokémon with Weather Boost
+Exeggcute Research: Catch five Pokemon with Weather Boost
+Exeggcute Research: Take a snapshot of a wild Grass-type Pokémon
 Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
@@ -12530,6 +12718,9 @@ Battle in a Mega Raid
 Win {0} Mega Raids
 Win a Mega Raid
 More research requests will be coming soon!
+Catch {0} Mudkip
+Evolve {0} Mudkip
+Evolve {0} Marshtomp
 Make {0} new friends
 Make a new friend
 Catch {0} Oshawott
@@ -12676,6 +12867,36 @@ Take {0} snapshots
 Catch {0} Snivy
 Evolve {0} Snivy
 Evolve {0} Servine
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+... ... ...
+Do you... Do you think there’s a chance that other Trainers you’ve passed on the street were actually Ditto? I suppose there’s no way to know for sure...
+What a confusing but educational day this has been, %PLAYERNAME%. I hope you’ve enjoyed the Transform Pokémon’s shenanigans! Now, until next time, ... ... ...!
+Er...  
+%PLAYERNAME%? Is it really you?
+Oh, thank goodness. I’ve had the most befuddling day.
+The Pokémon in the area were behaving strangely, so, as always, I turned to you to help me find out why—but to my confusion, you just stared at me blankly and bit straight into a Nanab Berry!
+The next thing I knew, “you” had transformed into a Ditto! Or perhaps I have that backwards? Whatever the case, it seems that all the oddly behaving Pokémon I’ve seen today were in fact Ditto in disguise.
+Hm? You noticed it too, did you?
+And you saw a Ditto that had transformed to look like me? Incredible!
+As you’ve experienced, Ditto have the fascinating ability to reconstitute their entire cellular structure to transform into whatever they see.
 Welcome back, %PLAYERNAME%! Isn’t it lovely out?
 There are Litten lying in the sun, Rowlet relaxing in the trees, Popplio playing in the water—and these malasadas Spark dropped off sure are delicious!
 It seems even the flowers smell sweeter today!
@@ -13628,6 +13849,31 @@ Please carry out the following research tasks.{0}{1}{2}
 We found Mew! Awesome! This is an experience to remember forever.
 Now you can see why I love studying Pokémon so much! The whole world is out there to discover. So go have some fun!
 My assistants and I will request some Special Research from you in the future. Stay in touch!
+Hello, %PLAYERNAME%! You’ve caught me at a curious time. You see, I was just out for a walk, thinking about how much I’d love to see a Mudkip, when—wouldn’t you know it—I came across a whole mess of them!
+Did you know that Mudkip sleep by burying themselves in soil at the water’s edge? Sounds adorable, right?
+One of the many things that’s always impressed me about Mudkip is how strong it is in spite of its size.
+When faced with a tight situation in battle, Mudkip will unleash its amazing power. It can even crush rocks much bigger than itself!
+It would be less than ideal if all these Mudkip were to do that right now... And yet, the researcher in me is curious to see it happen! Haha!
+Anyway, what do you say we do a bit of research on Mudkip, %PLAYERNAME%?
+Welcome back, %PLAYERNAME%. I see you’ve brought a Mudkip with you—nice work!
+Using the fin on its head, Mudkip senses the flow of water to keep track of what’s going on around it.
+I got a bit too close during my observations earlier, and those Mudkip splashed mud all over my coat! Which actually got me thinking about Mudkip’s Evolution, Marshtomp.
+Living on muddy ground that provides poor footing has made Marshtomp’s legs sturdy.
+And because it’s used to such slippery surfaces, Marshtomp can quickly overwhelm foes mired in mud.
+While I clean my coat off, why don’t you try evolving your Mudkip so you can see Marshtomp firsthand, %PLAYERNAME%?
+I knew I should’ve brought an extra coat with me... Ah! Welcome back, %PLAYERNAME%. That’s a very sturdy-looking Marshtomp you have with you.
+Don’t you think it’s inspiring how Pokémon thrive in all sorts of environments? Mudkip and Marshtomp seem like an especially versatile bunch.
+Now, I have some exciting news. I caught a glimpse of some Swampert—Marshtomp’s Evolution—while you were away!
+Swampert can not only break boulders into pieces with one swing of its arms, but it can also predict storms by sensing subtle differences in the sounds of waves and tidal winds with its fins!
+I tend to get so engrossed in my research that I lose track of my surroundings, so having a Swampert around might be just what I need.
+...What’s that? I could just try to pay a bit more attention myself? Well, I suppose that’s an option... But not quite as fun, don’t you think? Haha!
+Why don’t you try evolving your Marshtomp, %PLAYERNAME%?
+Wow, %PLAYERNAME%! It’s hard to believe that Swampert of yours was once a tiny, adorable Mudkip. Pokémon really are incredible!
+Swampert tend to make nests near beautiful beaches, and it’s strong enough to tow a large ship.
+I guess you know which Pokémon to bring with you on your next beach vacation, eh?
+You know, the last time I saw Mudkip appearing en masse like they are today, I also saw all manner of Trainers out exploring and researching, too.
+It always fills me with joy to see everyone having fun with Pokémon. I hope you’ve enjoyed yourself today as well!
+As for me, I think it’s time I stomp on home. I’ll be in touch!
 Hi there! It’s so nice to meet you, %PLAYERNAME%. My name is Professor Willow. I’m a Pokémon researcher, and I’ll be guiding you on your journey—and what a journey it shall be!
 You’ll also be helping me with my research along the way. So really, we’re more like colleagues!
 First things first—let’s go over how to catch Pokémon, make a Curveball Throw, and transfer Pokémon.
@@ -13792,6 +14038,29 @@ WOW! Thanks for helping us learn more about the Shadow Pokémon that Team GO Roc
 After observing the purification process with Blanche, it’s clear that the Pokémon’s gratefulness to you for purifying them causes the move Frustration to be replaced with Return!
 Now that you have this knowledge, we need your help with saving as many Shadow Pokémon as possible by taking back PokéStops that are under Team GO Rocket’s control!
 The world is under attack! Can we count on you to help protect it? I do hope there’s nothing more to this...
+%PLAYERNAME%! How have you been? Finding time to relax, I hope? Perhaps with your Pokémon?
+I’m enjoying a bit of a productivity boom, myself, but it’s made me realize that my research has gone uninterrupted for quite some time.
+I fear there may be trouble brewing—specifically from Team GO Rocket. They’ve been too quiet for too long, don’t you think?
+Would you mind patrolling the area to see if anything’s amiss?
+Well done, %PLAYERNAME%. As much as I wish they’d give us a break, I know Team GO Rocket never rests—so neither can we!
+I’m relieved to see you’ve rescued a couple of Shadow Pokémon from them already.
+As both a professor and as someone who loves Pokémon, I can’t stand idly by as Team GO Rocket mistreats so many innocent Pokémon.
+Let’s get back out there and rescue some more Pokémon from them!
+Welcome back, %PLAYERNAME%! Thanks for handling those Team GO Rocket Grunts. You and your Pokémon have done a great job of scaring them off, as usual!
+They’ll think twice before showing up around here again, I suspect.
+But those Shadow Pokémon they’ve left behind... Well, at least they’re safe with us now.
+%PLAYERNAME%, let’s purify them so they can put their terrible time with Team GO Rocket in the past. I know they’ll be grateful for your help!
+Those Pokémon are looking much better now, %PLAYERNAME%. I’m sure they’re relieved to be with a Trainer like you and away from Team GO Rocket.
+Now that we’ve cleared out some of their underlings, I think we’d better track down the Team GO Rocket Leaders.
+Based on how you handled those Grunts, I’m sure the Leaders won’t stand a chance!
+You’ve done it, %PLAYERNAME%! Once again, you’ve been instrumental in stopping Team GO Rocket from getting their way.
+It’s a privilege to watch you and your partners grow together and use your strength to help Pokémon everywhere.
+Now. We’ve neutralized the Team GO Rocket Leaders, so it’s time to let Giovanni know that we’re not going to let him carry out his plan unchallenged.
+I know he’s tough—but you’re tougher. I have the utmost confidence in you, %PLAYERNAME%!
+Incredible work, %PLAYERNAME%! You and your Pokémon have an impressive bond—one that Team GO Rocket will never be able match.
+Pokémon everywhere are fortunate to have you on their side!
+I know it won’t be long before Team GO Rocket appears with another scheme, but I can rest a bit easier knowing that you’re here to stop them right in their tracks.
+For now, though, get some rest. You’ve more than earned it!
 Thanks for your help in defeating Team GO Rocket Grunts, %PLAYERNAME%!
 The team leaders and I have been observing Team GO Rocket, and something tells us this is far from over.
 The transmission sent during the Team GO Rocket take-over had a message from an unknown sender at the end.
@@ -14403,6 +14672,34 @@ Anyway, I should let you get back to exploring. And I should get to that picnic!
 Have a wonderful weekend, and keep up all the hard work. It’s always a joy to see how much you’ve grown as a Trainer each time we meet.
 I’ll be in touch soon with some more research opportunities. Or who knows—maybe even some recipes!
 Now, let’s GO!
+Hey there, %PLAYERNAME%!
+Your timing is excellent. I’ve hit a bit of a roadblock in my research!
+You see, I’m still puzzling over the guardian deities both Spark and Blanche have seen recently. I’ve yet to suss out why they’ve been appearing.
+I can only hope they’re not angry with us—or worse!
+I think I’ll take a break in the shade to clear my mind. It’s important to give your brain a breather now and then!
+Why don’t you head out to find some shade for yourself, %PLAYERNAME%?
+Welcome back, %PLAYERNAME%! I see you’ve found some leafy Pokémon to rest under.
+Are you feeling refreshed? I know I am!
+While you were out, I thought of a new angle for our investigation.
+As you may know, Alola is home to four guardian deities. We’ve seen two, so it stands to reason the other two may be buzzing about already.
+Instead of waiting for them to come to us, I think we should get out and search for them ourselves.
+Let’s start with Tapu Bulu, Guardian Deity of Ula’Ula Island.
+Ula’Ula Island is a rugged locale, home to Mount Lanakila, the highest peak in Alola.
+Tapu Bulu is said to make ringing sounds with its tail to let others know where it is and avoid unneeded conflicts. Knowing that, it shouldn’t be too hard to find!
+In addition, I know Tapu Bulu can help plants grow, so perhaps we’ll have some luck if we begin by looking for Pokémon that are known to grow. Let’s get out there, %PLAYERNAME%!
+Ah, %PLAYERNAME%—you’re back. How did your search go?
+I asked Candela to lend us a hand shortly after you left.
+And just a few minutes later, before I’d even finished packing my gear, she came running back saying she’d heard a ringing in the air and looked up to see Tapu Bulu floating by!
+Yet another guardian deity I’ve missed by a hair... Such is the fickle nature of Pokémon research, I suppose.
+I’m glad you’ve at least been more successful, %PLAYERNAME%. Now that we know it’s out there, let’s double down on our search for Tapu Bulu!
+I’ll speak with Candela to see if she might know any more details that could help us.
+%PLAYERNAME%—you saw Tapu Bulu, didn’t you!
+What was it like? Tell me everything! Did you hear a ringing noise? Did you see it making vegetation grow, or maybe even swinging large trees around by their roots?
+Those are all things Tapu Bulu is known for.
+As you might’ve expected, I was—yet again—unable to witness Tapu Bulu myself. I did, however, think up a new theory.
+The guardian deities seem to be keeping a relatively low profile. Perhaps they’re just here to investigate something, or even help us somehow.
+Things may become clearer if we see Tapu Fini, the last of Alola’s guardian deities.
+For now, though, I think we’ve earned some rest. See you next time, %PLAYERNAME%!
 Hey there, %PLAYERNAME%! I stepped out of my mobile lab this morning only to see needlelike horns poking out of the grass all around me.
 Luckily, I also saw big red noses poking out of the grass and realized they belonged to Weedle, the Hairy Bug Pokémon. I guess you could say we’re in a...hairy situation!
 ...Uh, moving along...
@@ -14469,6 +14766,10 @@ Evolve {0} Tepig
 Evolve {0} Pignite
 {0} days left to complete this Special Research
 {0} day left to complete this Special Research
+April Fools’ 2-Oh?-22
+April Fools’ 2-Oh?-22 (1/3)
+April Fools’ 2-Oh?-22 (2/3)
+April Fools’ 2-Oh?-22 (3/3)
 An Akala Adventure
 An Akala Adventure (1/4)
 An Akala Adventure (2/4)
@@ -14728,6 +15029,11 @@ A Mythical Discovery (5/8)
 A Mythical Discovery (6/8)
 A Mythical Discovery (7/8)
 A Mythical Discovery (8/8)
+Mudkip Community Day Classic
+Mudkip Community Day Classic (1/4)
+Mudkip Community Day Classic (2/4)
+Mudkip Community Day Classic (3/4)
+Mudkip Community Day Classic (4/4)
 Welcome to Pokémon GO!
 Welcome to Pokémon GO! (1/9)
 Welcome to Pokémon GO! (2/9)
@@ -15008,6 +15314,11 @@ Throwback Challenge: Sinnoh (6/9)
 Throwback Challenge: Sinnoh (7/9)
 Throwback Challenge: Sinnoh (8/9)
 Throwback Challenge: Sinnoh (9/9)
+An Ula’ula Adventure
+An Ula’ula Adventure (1/4)
+An Ula’ula Adventure (2/4)
+An Ula’ula Adventure (3/4)
+An Ula’ula Adventure (4/4)
 Ultra Unlock 2020 (1/5)
 Ultra Unlock 2020 (2/5)
 Ultra Unlock 2020 (3/5)
@@ -15120,6 +15431,7 @@ Catch {0} Weedle
 Evolve {0} Kakuna
 Evolve {0} Weedle
 Earn {0} XP
+{0} Research Tasks Updated
 Hey! Good job with your Field Research. It looks like we’ve learned a lot!
 Keep up the great work.  Now...let's see what we've discovered!
 Breakthrough!
@@ -16821,6 +17133,7 @@ Are you sure you want to remove this friend?
 Failed to remove tag.
 Failed to reorder tag
 https://pokemongo.nianticlabs.com/support/contact/en
+Restart
 Would you like to rejoin your previous shared AR session?
 Pokémon GO is more fun with friends! You can get XP, Eggs, and items by sharing Gifts with your pals.
 Go for a power walk! Try using a Star Piece, a Lucky Egg, and Incense all at once.
@@ -17016,6 +17329,8 @@ ACCOUNT
 Tip: You can sign in to your game via any linked account!
 LINKED
 NOT LINKED
+Adjust Performance
+Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.
 Refresh Game Data
 Refresh your game data if you are experiencing inconsistent gameplay.
 Advanced Settings
@@ -17108,7 +17423,7 @@ Native Refresh Rate
 Unlock your device’s native refresh rate for higher FPS.
 Native refresh rate unlocked.
 Vibration
-Show Sponsored Gifts
+Show Sponsored Messages from third party ad services
 Try again through settings or the Pokémon GO Plus icon.
 Pokémon GO Plus not enabled
 Let your Pokémon GO Plus count your steps and help you find nearby Pokémon and spin nearby PokéStops!
@@ -17132,6 +17447,7 @@ If you're unable to attend:
 You and one {0} are invited to an EX Raid.
 Invitation declined.
 Your friend {0} has invited you to an EX Raid at {1}.
+You already own a ticket for this event.
 You’re out of Premium Battle Passes!
 You’re out of Premium Battle Passes!
 ({0} + {1} Bonus PokéCoins)
@@ -17151,6 +17467,7 @@ Coming Soon
 Buy
 Do you want to buy one {0} for {1:C}?
 Confirm your in-app purchase.
+GIFT
 Do you want to exchange {0} PokéCoins for {1}?
 Contents:
 {0} Bonus PokéCoins
@@ -17160,6 +17477,27 @@ Exchange
 Exchange
 
 Your {0} is fully upgraded!
+Some friends may be ineligible for receiving paid gifts. Reasons for being ineligible include:  • They already own the ticket  • Someone else has sent them a ticket already  • You do not meet the minimum friendship level requirement to buy this player a gift
+Cannot Send Ticket
+Hello, <b>{0}</b>! I invite you to join me in this event! Here’s your event ticket. Let’s go!Sincerely, -<b>{1}</b>
+INVITATION
+CONFIRM
+CANCEL
+{0} will receive <b>{1}</b> from you. This ticket cannot be used by any other player. This purchase cannot be refunded or undone.
+SEE GIFTING POLICY
+Confirm Purchase
+An error occurred that prevented this purchase from completing.  You were not charged for the purchase.  You will be returned to the shop.
+Purchase Error
+In order to gift tickets, Friends Permission must be enabled on this account.
+Friends Permission Required
+Gift is on its way!
+Your gift has been sent off to {0}. Go tell them so they can open it in time for the event!
+Select a Friend
+You can only send {0} paid gifts in a day. Please wait until tomorrow to purchase more gifts for friends.  Dailly limits exist to prevent overspending and fraud.
+Paid Gift Daily Limit Reached
+Unfortunately your gift could not be sent at this time. The recipient obtained the gift before your gift purchase could complete. Please contact your app store for a refund.
+• You cannot get refunded for gifts purchased for friends.  • You cannot cancel a gift after it is sent.  • You can only send {0} daily paid gifts. 
+Gifting Policy
 Your Item Bag is full!
 Go to Upgrades
 Visit the shop to expand your Item Bag.
@@ -17218,6 +17556,7 @@ Sinnoh Celebration: Win a raid
 Sinnoh Collection Challenge
 Sinnoh Cup
 Sinnoh Event
+Spring into Spring 2022 Collection Challenge
 Spring into Spring
 Spring into Spring event Eggs
 Spring into Spring event wild Pokémon
@@ -17247,6 +17586,8 @@ Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
 Lunatone and Solrock appearing in different regions
 Solstice
+Songkran Festival 2022
+April Splash!
 I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
 I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
 Aw...
@@ -17276,6 +17617,7 @@ More Hoppip are appearing in the wild
 More Machop are appearing in the wild
 More Magikarp are appearing in the wild
 More Magmar are appearing in the wild
+More Mudkip are appearing in the wild
 More Oshawott are appearing in the wild
 More Porygon are appearing in the wild
 More Roselia are appearing in the wild
@@ -17451,6 +17793,13 @@ An exclusive sticker for Pokémon GO Fest attendees, featuring the Pokémon GO F
 An exclusive sticker for Pokémon GO Fest attendees, featuring Victini, the Victory Pokémon.
 See All ({0})
 SEE OTHER STICKERS
+Silent Schemes
+Silent Schemes (1/6)
+Silent Schemes (2/6)
+Silent Schemes (3/6)
+Silent Schemes (4/6)
+Silent Schemes (5/6)
+Silent Schemes (6/6)
 (sponsored by {0})
 LEARN MORE
 Submit
@@ -17539,6 +17888,7 @@ Ticket for the A Hop, Skip, and Jump Away Special Research story available in th
 Tickets for the Straight to the Top, Machop! Special Research story available in the shop
 Ticket for the Special Research story Making a Splash available in the shop
 Tickets for the No Match for Magmar Special Research story available in the shop
+Ticket for the Mudkip Community Day Classic Special Research story available in the shop
 Ticket for the From Scalchops to Seamitars Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
 Tickets for Special Research available in the shop
@@ -17650,6 +18000,8 @@ Dodge
 Tap anywhere on the screen to perform a Fast Attack. Fast Attacks generate energy for your Charged Attacks.
 Fast Attacks
 Raid Lobbies
+While using a Mega-Evolved Pokémon in a Raid Battle or a Gym battle, the attacks of other Trainers’ Pokémon challenging that same raid or Gym will deal more damage. These attacks will deal even more damage if they’re the same type as your Mega-Evolved Pokémon.
+Mega Attack Boost
 Raid Pass
 What Is a Raid?
 To make a Pokémon easier to catch, give it a Razz Berry or a Golden Razz Berry.
@@ -17852,6 +18204,10 @@ Trade expired.
 Waiting for {0} to be available for trading.
 Guaranteed Candy XL when trading Pokémon
 All Legendary Pokémon
+This Pokémon was previously your buddy, and previously Mega Evolved. Trading it will reset Buddy Level and Mega Level. Proceed with trading?
+Do you want to trade this former Buddy and Mega Pokémon?
+This Pokémon has previously Mega Evolved. Trading it will reset its Mega Level. Proceed with trading?
+Do you want to trade this Mega Leveled Pokémon?
 Me
 You cannot trade a favorite Pokémon.
 All regional Pokémon
@@ -17885,7 +18241,7 @@ You need to be within 100 meters of a friend to start a trade. You can earn a bo
 Trading with Friends
 You can trade with a friend only when you're near each other.
 Special Trades
-Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex all require a Special Trade. You can only make one Special Trade a day.
+Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex can only be traded via Special Trade. You can only make one Special Trade per day.
 Trade with Stardust
 The amount of Stardust needed for trading varies. Trades for certain Pokémon are called Special Trades and require more Stardust. Increasing your Friendship level will reduce the amount of Stardust required for Special Trades.
 Pokémon CP and HP in Trade
@@ -18078,6 +18434,7 @@ Thank you for your contribution.
 Use a pass to join the Raid Battle
 Join the Raid Battle(A pass will be used when the battle starts)
 Use a pass to join the Raid Battle
+Use System Settings
 You can change your nickname once.
 You can change your nickname later.
 Looks good!
@@ -18117,7 +18474,7 @@ Valentine’s Day: Defeat {0} Team GO Rocket Grunts
 Valentine’s Day
 Valentine’s Day Challenge 1
 Valentine’s Day Challenge 2
-If you stop saving these logs, any {1} logs that you haven’t uploaded will be deleted.
+{1} logs you haven’t uploaded will be deleted if you choose to stop saving these logs.
 Do you want to stop saving these logs?
 Game logs contain valuable information that can help Niantic improve certain aspects of Pokémon GO. If you allow your game logs to be saved, you can then upload them and share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time in the Settings menu.
 Learn more

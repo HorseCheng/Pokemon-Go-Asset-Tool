@@ -25,5 +25,5 @@ import "InventoryDeltaProto.proto";
 
 message GetInventoryResponseProto {
 	bool success = 1;
-	InventoryDeltaProto inventoryDelta = 2;
+	InventoryDeltaProto inventory_delta = 2;
 }

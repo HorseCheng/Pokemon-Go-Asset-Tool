@@ -23,4 +23,8 @@ package POGOProtos.Rpc;
 
 message GM5SettingsProto {
 	int32 ob_int32 = 1;
+	repeated int32 ob_int32_1 = 2;
+	repeated int32 ob_int32_2 = 3;
+	repeated int32 ob_int32_3 = 4;
+	repeated int32 ob_int32_4 = 5;
 }

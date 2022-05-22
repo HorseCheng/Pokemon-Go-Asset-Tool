@@ -23,5 +23,6 @@ package POGOProtos.Rpc;
 
 message InviteGameRequest {
 	string friend_id = 1;
-	string app_key = 2;
+	string friend_nia_account_id = 2;
+	string app_key = 3;
 }

@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message SfidaAssociateRequest {
 	bytes bt_address = 1;
 	uint32 pairing_code = 2;
+	bytes bt_signature = 3;
 }

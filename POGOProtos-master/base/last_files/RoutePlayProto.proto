@@ -48,4 +48,5 @@ message RoutePlayProto {
 	bool has_received_completion_rewards = 9;
 	int32 play_version = 10;
 	int64 expiration_time_ms = 11;
+	int64 start_time_ms = 12;
 }

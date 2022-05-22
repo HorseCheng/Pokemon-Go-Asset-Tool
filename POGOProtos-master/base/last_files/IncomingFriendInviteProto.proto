@@ -33,4 +33,5 @@ message IncomingFriendInviteProto {
 	string player_id = 2;
 	int64 created_ms = 3;
 	string full_name = 5;
+	string nia_account_id = 7;
 }

@@ -34,6 +34,7 @@ message GetFriendDetailsOutProto {
 	message DebugProto {
 		message Callee {
 			string player_id = 1;
+			string nia_account_id = 2;
 		}
 
 		int32 fetched_from_db = 1;

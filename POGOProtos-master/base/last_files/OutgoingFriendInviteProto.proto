@@ -33,4 +33,5 @@ message OutgoingFriendInviteProto {
 	string player_id = 2;
 	int64 created_ms = 3;
 	string full_name = 4;
+	string nia_account_id = 5;
 }

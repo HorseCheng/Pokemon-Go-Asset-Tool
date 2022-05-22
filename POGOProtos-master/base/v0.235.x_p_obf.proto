@@ -8923,7 +8923,7 @@ message FortPokemonProto {
 	BEJDOLOILOB aofklpbgbgd = 2;
 }
 
-message FortPowerUpSettings {
+message FortPowerUpLevelSettings {
 	FortPowerUpLevel dpdieecokhf = 1;
 	int32 hbgojhklded = 2;
 	repeated FortPowerUpLevelReward labmmmmmnki = 3;
@@ -9310,15 +9310,6 @@ message GLGLCJNJHKB {
 	KJBEIAAFIGA keokkkakcmb = 6;
 }
 
-message GM10SettingsProto {
-	bool ghnkjgkbhbb = 1;
-	bool anjacfekmeb = 2;
-	bool lciihcnlakl = 3;
-	bool kbnelgbefdi = 4;
-	bool pnffccehhfn = 5;
-	bool pgcbndhdjjb = 6;
-}
-
 message GM11SettingsProto {
 	int32 kldpioddidl = 1;
 	int32 opbbbnpjdcm = 2;
@@ -9372,14 +9363,6 @@ message GM7SettingsProto {
 	string npmihhdmoni = 1;
 	string jlkfpelgbho = 2;
 	int32 pdolljabddl = 3;
-}
-
-message GM8SettingsProto {
-	int32 dpdieecokhf = 1;
-	HoloPokemonId anijgpcfggj = 2;
-	ObGM8Settings1 ob_gm_8_settings_1 = 3;
-	ObGM8Settings2 ob_gm_8_settings_2 = 4;
-	ObGM8Settings3 ob_gm_8_settings_3 = 5;
 }
 
 message GM9SettingsProto {
@@ -9542,7 +9525,7 @@ message GameMasterClientTemplateProto {
 	InventorySettingsProto inventory_settings = 103;
 	RouteDiscoverySettingsProto route_discovery_settings = 104;
 	EggTransparencySettingsProto egg_transparency_settings = 105;
-	FortPowerUpSettings fort_power_up_settings = 106;
+	FortPowerUpLevelSettings fort_power_up_level_settings = 106;
 	PowerUpPokestopSharedSettings power_up_pokestop_shared_settings = 107;
 	IncidentPrioritySettingsProto incident_priority_settings = 108;
 	ReferralSettingsProto referral_settings = 109;
@@ -9572,10 +9555,10 @@ message GameMasterClientTemplateProto {
 	PostcardCollectionSettings postcard_collection_settings = 134;
 	GM6SettingsProto ob_gm_6_settings = 135;
 	VerboseLogCombatSettingsProto verbose_log_combat_settings = 136;
-	GM8SettingsProto ob_gm_8_settings = 137;
+	MegaLevelSettingsProto mega_level_settings = 137;
 	GM5SettingsProto ob_gm_5_settings = 138;
 	GM9SettingsProto ob_gm_9_settings = 139;
-	GM10SettingsProto ob_gm_10_settings = 140;
+	ImpressionTrackingSettingsProto impression_tracking_setting = 140;
 	GM11SettingsProto ob_gm_11_settings = 141;
 	GM7SettingsProto ob_gm_7_settings = 143;
 	GM12SettingsProto ob_gm_12_settings = 144;
@@ -11761,6 +11744,15 @@ message ImageTextCreativeProto {
 	string ocaininlnpa = 6;
 }
 
+message ImpressionTrackingSettingsProto {
+	bool ghnkjgkbhbb = 1;
+	bool anjacfekmeb = 2;
+	bool lciihcnlakl = 3;
+	bool kbnelgbefdi = 4;
+	bool pnffccehhfn = 5;
+	bool pgcbndhdjjb = 6;
+}
+
 message ImpressionTrackingTag {
 	string adejomidknm = 1;
 	string cfidlhmhpgc = 2;
@@ -13740,6 +13732,35 @@ message MegaEvolvePokemonSpeciesProto {
 	int32 jihabcmdgki = 2;
 }
 
+message MegaLevelCooldownSettingsProto {
+	int64 combmbohaai = 1;
+	int32 feialnageao = 2;
+	int32 hhniimampko = 3;
+	int32 dfonibjpbfm = 4;
+}
+
+message MegaLevelPerksProto {
+	float pibjibabfla = 1;
+	float ggklffgdkhj = 2;
+	int32 bbkonfgnhmf = 3;
+	int32 egllipgbbap = 4;
+	float agjjmpjjpgm = 5;
+}
+
+message MegaLevelSettingsProto {
+	int32 dpdieecokhf = 1;
+	HoloPokemonId anijgpcfggj = 2;
+	MegaLevelUnlockSettingsProto mega_level_unlock_settings = 3;
+	MegaLevelCooldownSettingsProto mega_level_cooldown_settings = 4;
+	MegaLevelPerksProto mega_level_perks = 5;
+}
+
+message MegaLevelUnlockSettingsProto {
+	int32 blaaegppngf = 1;
+	int32 adoaehmghkh = 2;
+	int32 pkihbldhoao = 3;
+}
+
 message MetricData {
 	oneof DatapointValue {
 		int64 long_value = 2;
@@ -14356,27 +14377,6 @@ message ObEggStatus {
 message ObEvoleField {
 	float fcidmonelpd = 1;
 	float cnghffipnka = 2;
-}
-
-message ObGM8Settings1 {
-	int32 blaaegppngf = 1;
-	int32 adoaehmghkh = 2;
-	int32 pkihbldhoao = 3;
-}
-
-message ObGM8Settings2 {
-	int64 combmbohaai = 1;
-	int32 feialnageao = 2;
-	int32 hhniimampko = 3;
-	int32 dfonibjpbfm = 4;
-}
-
-message ObGM8Settings3 {
-	float pibjibabfla = 1;
-	float ggklffgdkhj = 2;
-	int32 bbkonfgnhmf = 3;
-	int32 egllipgbbap = 4;
-	float agjjmpjjpgm = 5;
 }
 
 message ObMegaEvolvePokemonProtoField {

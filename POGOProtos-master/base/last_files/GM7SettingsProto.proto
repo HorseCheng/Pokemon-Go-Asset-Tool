@@ -25,4 +25,6 @@ message GM7SettingsProto {
 	string ob_string_1 = 1;
 	string ob_string_2 = 2;
 	int32 ob_int32 = 3;
+	int32 ob_int32_1 = 4;
+	bool ob_bool = 5;
 }

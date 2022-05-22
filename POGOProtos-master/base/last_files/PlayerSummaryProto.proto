@@ -29,4 +29,5 @@ message PlayerSummaryProto {
 	string fb_user_id = 5;
 	int32 level = 6;
 	int64 experience = 7;
+	string nia_account_id = 8;
 }

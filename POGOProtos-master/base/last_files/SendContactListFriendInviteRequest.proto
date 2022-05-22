@@ -22,7 +22,6 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message SendContactListFriendInviteRequest {
-	string recipient_player_id = 1;
-	repeated string emails = 2;
-	repeated string phone_numbers = 3;
+	repeated string emails = 1;
+	repeated string phone_numbers = 2;
 }

@@ -47,6 +47,7 @@ message GetFriendsListOutProto {
 		bool is_facebook_friendship = 9;
 		SharedFriendshipProto shared_data = 10;
 		OnlineStatus online_status = 11;
+		string nia_account_id = 12;
 	}
 
 	message SharedFriendshipProto {

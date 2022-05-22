@@ -22,5 +22,13 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message RegisterSfidaRequest {
+	enum DeviceType {
+		UNSET = 0;
+		SFIDA = 1;
+		PALMA = 2;
+		WAINA = 3;
+	}
+
 	string sfida_id = 1;
+	DeviceType device_type = 2;
 }

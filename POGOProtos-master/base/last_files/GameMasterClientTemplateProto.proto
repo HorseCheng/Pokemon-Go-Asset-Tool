@@ -118,7 +118,7 @@ import "RecommendedSearchProto.proto";
 import "InventorySettingsProto.proto";
 import "RouteDiscoverySettingsProto.proto";
 import "EggTransparencySettingsProto.proto";
-import "FortPowerUpSettings.proto";
+import "FortPowerUpLevelSettings.proto";
 import "PowerUpPokestopSharedSettings.proto";
 import "IncidentPrioritySettingsProto.proto";
 import "ReferralSettingsProto.proto";
@@ -148,14 +148,15 @@ import "IncidentVisibilitySettingsProto.proto";
 import "PostcardCollectionSettings.proto";
 import "GM6SettingsProto.proto";
 import "VerboseLogCombatSettingsProto.proto";
-import "GM8SettingsProto.proto";
+import "MegaLevelSettingsProto.proto";
 import "GM5SettingsProto.proto";
 import "GM9SettingsProto.proto";
-import "GM10SettingsProto.proto";
+import "ImpressionTrackingSettingsProto.proto";
 import "GM11SettingsProto.proto";
 import "GM7SettingsProto.proto";
 import "GM12SettingsProto.proto";
 import "GM13SettingsProto.proto";
+import "TicketGiftingSettingsProto.proto";
 
 message GameMasterClientTemplateProto {
 	string template_id = 1;
@@ -256,7 +257,7 @@ message GameMasterClientTemplateProto {
 	InventorySettingsProto inventory_settings = 103;
 	RouteDiscoverySettingsProto route_discovery_settings = 104;
 	EggTransparencySettingsProto egg_transparency_settings = 105;
-	FortPowerUpSettings fort_power_up_settings = 106;
+	FortPowerUpLevelSettings fort_power_up_level_settings = 106;
 	PowerUpPokestopSharedSettings power_up_pokestop_shared_settings = 107;
 	IncidentPrioritySettingsProto incident_priority_settings = 108;
 	ReferralSettingsProto referral_settings = 109;
@@ -286,12 +287,13 @@ message GameMasterClientTemplateProto {
 	PostcardCollectionSettings postcard_collection_settings = 134;
 	GM6SettingsProto ob_gm_6_settings = 135;
 	VerboseLogCombatSettingsProto verbose_log_combat_settings = 136;
-	GM8SettingsProto ob_gm_8_settings = 137;
+	MegaLevelSettingsProto mega_level_settings = 137;
 	GM5SettingsProto ob_gm_5_settings = 138;
 	GM9SettingsProto ob_gm_9_settings = 139;
-	GM10SettingsProto ob_gm_10_settings = 140;
+	ImpressionTrackingSettingsProto impression_tracking_setting = 140;
 	GM11SettingsProto ob_gm_11_settings = 141;
 	GM7SettingsProto ob_gm_7_settings = 143;
 	GM12SettingsProto ob_gm_12_settings = 144;
 	GM13SettingsProto ob_gm_13_settings = 145;
+	TicketGiftingSettingsProto ticket_gifting_settings = 146;
 }

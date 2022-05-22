@@ -38,11 +38,10 @@ message SyncContactListResponse {
 		}
 
 		message PlayerProto {
-			string player_id = 1;
-			bool is_calling_game_player = 2;
-			bool is_newly_signed_up_player = 3;
-			bool is_self = 4;
-			bool is_friend = 5;
+			bool is_calling_game_player = 1;
+			bool is_newly_signed_up_player = 2;
+			bool is_self = 3;
+			bool is_friend = 4;
 		}
 
 		string contact_id = 1;

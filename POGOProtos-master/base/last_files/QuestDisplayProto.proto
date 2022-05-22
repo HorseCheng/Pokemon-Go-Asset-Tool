@@ -49,4 +49,6 @@ message QuestDisplayProto {
 	string quest_branch_choice_view_background_image_url = 21;
 	string quest_branch_choice_view_background_color = 22;
 	string prop_name = 23;
+	string quest_branch_choice_view_header_background_color = 24;
+	string quest_branch_choice_view_bottom_gradient_color = 25;
 }

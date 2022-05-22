@@ -73,4 +73,5 @@ message PokemonFortProto {
 	int64 next_fort_open_ms = 39;
 	int64 next_fort_close_ms = 40;
 	repeated FortPokemonProto active_fort_pokemon = 41;
+	bool is_route_eligible = 42;
 }
