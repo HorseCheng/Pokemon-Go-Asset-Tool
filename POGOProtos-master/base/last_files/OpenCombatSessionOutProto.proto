@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "CombatProto.proto";
+import "FastMoveLeakBaselineProto.proto";
 
 message OpenCombatSessionOutProto {
 	enum Result {
@@ -43,4 +44,5 @@ message OpenCombatSessionOutProto {
 	Result result = 1;
 	CombatProto combat = 2;
 	bool should_debug_log = 3;
+	repeated FastMoveLeakBaselineProto fast_move_leak_baseline = 4;
 }

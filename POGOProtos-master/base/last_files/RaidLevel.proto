@@ -30,4 +30,5 @@ enum RaidLevel {
 	RAID_LEVEL_5 = 5;
 	RAID_LEVEL_MEGA = 6;
 	RAID_LEVEL_MEGA_5 = 7;
+	RAID_LEVEL_ULTRA_BEAST = 8;
 }

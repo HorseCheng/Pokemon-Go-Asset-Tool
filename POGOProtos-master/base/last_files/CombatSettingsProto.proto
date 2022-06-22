@@ -62,7 +62,8 @@ message CombatSettingsProto {
 	float purified_pokemon_attack_multiplier_vs_shadow = 32;
 	repeated FastMoveLeakBaselineProto fast_move_leak_baseline = 35;
 	bool ob_bool = 36;
+	int32 ob_int32_1 = 37;
 	ObCombatSettings ob_combat_settings = 38;
 	ObCombatSettings1 ob_combat_settings_1 = 39;
-	int32 ob_int32 = 40;
+	int32 ob_int32_2 = 40;
 }

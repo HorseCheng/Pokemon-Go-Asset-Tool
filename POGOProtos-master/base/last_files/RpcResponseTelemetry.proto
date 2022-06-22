@@ -24,6 +24,20 @@ package POGOProtos.Rpc;
 import "RpcResponseTime.proto";
 
 message RpcResponseTelemetry {
+	enum ConnectionType {
+		UNKNOWN = 0;
+		WIFI = 1;
+		CELL_DEFAULT = 2;
+		CELL_1G = 3;
+		CELL_2G = 4;
+		CELL_3G = 5;
+		CELL_4G = 6;
+		CELL_5G = 7;
+		CELL_6G = 8;
+		CELL_7G = 9;
+	}
+
 	float window_duration = 1;
 	repeated RpcResponseTime response_timings = 2;
+	ConnectionType connection_type = 3;
 }

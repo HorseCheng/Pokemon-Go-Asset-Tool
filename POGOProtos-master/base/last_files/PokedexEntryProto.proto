@@ -37,6 +37,8 @@ message PokedexEntryProto {
 		int32 times_obtained = 3;
 		repeated PokemonDisplayProto.Gender genders_encountered = 4;
 		repeated PokemonDisplayProto.Gender genders_obtained = 5;
+		int32 times_encountered_shiny = 6;
+		int32 times_obtained_shiny = 7;
 	}
 
 	int32 pokedex_entry_number = 1;

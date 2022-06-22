@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "HoloPokemonId.proto";
 import "PokemonDisplayProto.proto";
+import "Item.proto";
 
 message PokemonEncounterRewardProto {
 	oneof Type {
@@ -33,4 +34,5 @@ message PokemonEncounterRewardProto {
 	PokemonDisplayProto pokemon_display = 3;
 	bool is_hidden_ditto = 4;
 	PokemonDisplayProto ditto_display = 5;
+	Item poke_ball_override = 6;
 }

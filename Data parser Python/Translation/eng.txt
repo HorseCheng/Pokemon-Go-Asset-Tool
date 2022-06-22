@@ -6,9 +6,49 @@ Global, February 20, 2021
 Pokémon GO Tour: Kanto
 Global, February 20, 2021
 Pokémon GO Tour: Kanto
+Seville 2022
+Pokémon GO Safari Zone
+Seville 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 13, 2022
+Pokémon GO Safari Zone
+Seville, May 13, 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 14, 2022
+Pokémon GO Safari Zone
+Seville, May 14, 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 15, 2022
+Pokémon GO Safari Zone
+Seville, May 15, 2022
+Pokémon GO Safari Zone -- Early Access
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
+Fly with Me: Collection Challenge
+More Pikachu wearing Okinawan kariyushi shirts and Corsola are appearing in the wild!
+Flying Pikachu are appearing in the wild
+Hello again, %PLAYERNAME%! Isn’t this place lovely? 
+I can’t stop thinking about taking a vacation. I know we’re always outdoors researching, but taking a break and going somewhere new and just relaxing sounds so nice, doesn’t it?
+Vacations are even better when you’ve got a Pokémon pal at your side!
+In that spirit, why don’t you spend some time exploring the area with your Buddy Pokémon? Let’s see what there is to see!
+You know, one of my favorite parts of traveling is trying out local foods. I think my Meltan would agree!
+Once, it attempted to absorb a local camper’s mess kit—since, as you know, Meltan dissolves and eats metal. Luckily, I was able to avert that crisis before if got too, er...messy.
+Who needs a lid for their curry pot, anyway? Haha...
+All this talk of food and the like has my stomach rumbling. I’m sure the local Pokémon would be thankful for some snacks, too. How about you share some Berries with them?
+You know, I wonder if my mind’s been so fixated on flying somewhere far away because of all the Flying-type Pokémon in the area today. What do you think, %PLAYERNAME%?
+It sure would be nice to glide somewhere on a whim...
+With such boundless freedom, why do you think all these Flying-type Pokémon chose to gather here? I know we’re supposed to be on vacation, but would you mind catching some Pokémon to help me understand this phenomenon, %PLAYERNAME%?
+Welcome back, %PLAYERNAME%! Thanks for catching those Pokémon for me. I really appreciate it!
+You should go enjoy the sights and make some memories in the area. Maybe even send a postcard or two!
+I’d go with you, but I think Meltan’s been nibbling on my research equipment again... We’ve talked about this, Meltan! Scrap metal only, please!
+Good to see you! I hope you had a refreshing stroll.
+In addition to all the Flying-type Pokémon, there seem to be a lot of unique Pikachu appearing in the area. I saw a few wearing rather stylish shirts and even some flying in the air with balloons!
+I can’t say I’ve ever seen Pikachu like this before, but they certainly appear to be enjoying themselves. Let’s spend some time with them before we wrap up!
+Thanks again for another great adventure, %PLAYERNAME%. I hope you had as much fun as I did. Now, until next time—let’s GO!
+Encounter Latias in GO Snapshot
+Encounter Latios in GO Snapshot
+Surprise encounters in GO Snapshot
 ADD FRIENDS FROM CONTACTS
 Trainers on your contacts list have started their adventures in Pokémon GO! Go to the Friends menu to send Friend Requests to them.
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
@@ -89,15 +129,15 @@ Referral Code Confirmed
 ADD STICKER
 Learn what information is shared with friends.
 Please enter a different nickname.
-If you choose to discard these changes, this action cannot be undone.
-Are you sure you want cancel making changes to your performance settings?
-Your game experience may vary after you change your performance settings. If you choose to save your changes, your game will be restarted.
-Your game experience may vary after you change your performance settings.
+If you choose to discard your changes, you will have to reselect your performance settings from the beginning.
+Are you sure you want to discard the changes you’ve made to your performance settings?
+Your game experience may change when you adjust your performance settings. If you choose to save your changes, your game will restart.
+Your game experience may change when you adjust your performance settings.
 Are you sure you want to save these changes to your performance settings?
 BACK
 {0}-performance mode is not compatible with this device.
 CANCEL CHANGES
-Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.You’ll need to restart the game to implement any changes.
+Optimize your gameplay experience based on your device. Doing so may improve performance or save battery life.You’ll need to restart the game to implement any changes.
 Performance
 No changes have been made to your performance settings.
 No changes have been made to your performance settings.
@@ -110,16 +150,16 @@ Enable Native Refresh Rate
 Better graphics
 This device is not compatible with the high-performance setting.
 Power saving
-Best graphics and smooth performance
+Best graphics and smoothest performance
 This device is not compatible with the max-performance setting.
 Moderate quality and performance
 This device is not compatible with the medium-performance setting.
 NATIVE REFRESH RATE
 Unlock your device’s native refresh rate for smoother visuals.
 This device’s native refresh rate is not compatible with smoother gameplay.
-Are you sure you want the game to automatically select your performance settings?
+Are you sure you want to automatically select your performance settings?
 AUTO-SELECT
-This selection will automatically adjust your performance settings based on your device. This action cannot be undone.
+This selection will automatically adjust your performance settings based on your device.
 Auto-Select Performance
 Your performance settings have been automatically adjusted based on your device.
 Avatar Details
@@ -134,12 +174,12 @@ Download Image RAM Cache
 Determines the amount of device memory allotted to game resources. Affects how long images take to load.
 Power saving
 Map Details
-Improved map draw distance and scale, reduced fog, and better visibility of Gyms, sky, and buildings.
-Best graphics and smooth performance
+Improved map draw distance and scale, reduced fog, and better visibility of Gyms, buildings, and the sky.
+Best graphics and smoothest performance
 Moderate graphics and performance
 Native Refresh Rate
 This device’s native refresh rate does not enable smoother visuals.
-Affects how smooth and responsive the game looks in motion.
+Higher frame rate (FPS) based on your device. Affects how smooth the game looks and how responsive it is in motion.
 You’re already using the recommended performance settings.
 Performance Preset
 Performance presets allow you to adjust multiple options at once.
@@ -172,6 +212,12 @@ Adventure Week
 April Fools’ 2-Oh?-22
 Oh?
 Please enter your date of birth.
+Pokémon Air Adventures: Okinawa
+Pokémon Air Adventures: Okinawa (1/5)
+Pokémon Air Adventures: Okinawa (2/5)
+Pokémon Air Adventures: Okinawa (3/5)
+Pokémon Air Adventures: Okinawa (4/5)
+Pokémon Air Adventures: Okinawa (5/5)
 Welcome to Alola
 Alolan Form
 Fifth-Anniversary Collection
@@ -306,6 +352,11 @@ Your arrogance will be your downfall, and I shall be the one to set that in moti
 Loss is not a concept I’m acquainted with. I don’t expect that will change after this battle.
 A person of your stature shouldn’t be this confident. Fret not—I’ll do you the honor of teaching you this lesson.
 Usually I wouldn’t consider debasing myself by battling a commoner...but I’ll make an exception to humiliate you.
+How...how can this be? I...I never lose!
+How dare you...humiliate me like this?
+I haven’t felt this much humiliation since I lost my battle with Candela... You’ll pay for this.
+The last person to humiliate me like this was Candela. You’ll all pay for this...
+I...I don’t understand... I never lose...
 Oh? Are you here to challenge me? Don’t test me.
 Pokémon are my tools, and winning is my birthright. Get in my way, and you’ll be crushed, vermin.
 Are you the best that Candela and her little friends could find?
@@ -504,6 +555,7 @@ GO Tour: Green Version Hat
 GO Tour: Red Version Hat
 Power-Up Knit Cap
 Korrina-Style Helmet
+Water Festival Scarf
 Survey CorpsHeadcloth
 Litwick Cap
 Pearl Earrings
@@ -971,6 +1023,7 @@ Jogger Visor
 GO Tour: Green Version Hat
 GO Tour: Red Version Hat
 Korrina-Style Helmet
+Water Festival Scarf
 Survey CorpsCap
 Litwick Cap
 Pearl Earrings
@@ -1445,6 +1498,10 @@ Season of Alola Partner Research: Sushiro
 Partner Research: Sushiro
 Season of Alola Partner Research: Yoshinoya
 Partner Research: Yoshinoya
+Pokémon Air Adventures: Okinawa
+Pokémon Air Adventures 2022
+Pokémon Air Adventures: Okinawa
+Pokémon Air Adventures 2022
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -1724,6 +1781,22 @@ St. Louis, November 14, 2021
 Pokémon GO Safari Zone
 9 a.m. – 5 p.m.
 11 a.m. – 5 p.m.
+Pokémon GO Safari Zone -- Early Access
+Seville 2022
+Pokémon GO Safari Zone
+Seville 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 13, 2022
+Pokémon GO Safari Zone
+Seville, May 13, 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 14, 2022
+Pokémon GO Safari Zone
+Seville, May 14, 2022
+Pokémon GO Safari Zone -- Early Access
+Seville, May 15, 2022
+Pokémon GO Safari Zone
+Seville, May 15, 2022
 Sentosa, Apr 18, 2019
 Pokémon GO Safari Zone
 Sentosa, Apr 19, 2019
@@ -1870,9 +1943,9 @@ Your account has been suspended for violating the Terms of Service.<a href="thre
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center</a> for more information.
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.
 Learn more
-<size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You can't undo this action once you transfer.
-<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
-<size=36><b>Only 1 of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. Transferred Pokémon cannot be reclaimed.
+<size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You can’t undo a transfer.
+<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
+<size=36><b>Only 1 of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
 Select Pokémon
 Got Candy from the professor.
 {0} Event Pokémon
@@ -2690,6 +2763,14 @@ There are currently no active hideouts in the vicinity. Let’s search a differe
 There are no hideouts here, but my reports do confirm that there are more out there. Let’s head to other locations.
 No signals... I see. Perhaps their activities have ceased for the day. Let’s try again tomorrow.
 Let’s wait until morning. I doubt they’ll show themselves again for a while.
+2× Catch Candy
+2× chance to get Stufful Candy XL from catching Stufful
+3× Catch XP
+4× Catch XP
+If enough Pokémon are caught with help from a single Lure Module, the 3× Catch XP bonus for Trainers near the Lured PokéStop will be increased to a 4× bonus for 30 minutes
+Bonus available!
+3-hour Incense duration
+3-hour Lure Module duration
 BONUS MILESTONE REWARDS
 +100 Catch Stardust
 +100 Catch XP
@@ -2711,6 +2792,8 @@ BONUS MILESTONE REWARDS
 5× XP for Nice, Great, Excellent, and Curveball Throws
 1/2 Hatch Distance
 1/4 Hatch Distance
+One additional Special Trade during the event and up to two hours after for a maximum of two for the day
+Trades made during the event and up to two hours after will require 50% less Stardust
 Increased Hoppip Candy XL from catching Skiploom
 Mega Abomasnow is temporarily more powerful!
 Mega Absol is temporarily more powerful!
@@ -2748,6 +2831,12 @@ Flygon
 Evolve your duo into a trio with Gardevoir! You’ll encounter a special costumed Gardevoir.
 Choose Gardevoir!
 Gardevoir
+By choosing Venusaur, you’ll be able to earn Venusaur Mega Energy and encounter Venusaur later!
+Choose Venusaur!
+By choosing Charizard, you’ll be able to earn Charizard Mega Energy and encounter Charizard later!
+Choose Charizard!
+By choosing Blastoise, you’ll be able to earn Blastoise Mega Energy and encounter Blastoise later!
+Choose Blastoise!
 Add Galarian Ponyta to your band! You’ll encounter a special costumed Galarian Ponyta.
 Choose Galarian Ponyta!
 Ponyta
@@ -3016,8 +3105,6 @@ Increased Candy XL when walking with your buddy
 {0} found a Candy XL!
 Walk together
 Buddy Up
-Use Adventure Sync to track your Buddy Pokémon’s heart meter when Pokémon GO is open in the background.
-Adventure Sync: Buddy
 Easier to get your buddy excited
 You've already applied this type of enhancement.
 You can’t use another one of those right now. Try again later.
@@ -3062,6 +3149,7 @@ Bronze Box
 Adventure Box
 Great Box
 Special Box
+Retweet Reward Box
 Please accept the following items and keep training!
 The EX Raid scheduled for {0}, {1} at {2} has been canceled.
 CANCELED EX RAID PASSES
@@ -3671,6 +3759,10 @@ Opponent has not unlocked this league.
 Catch higher-CP Pokémon to unlock!
 LET’S BATTLE!
 NOT YET
+Thank you for sharing your game logs with Niantic. This data will help us improve Pokémon GO.For further assistance, please contact support and mention your uploaded game logs.
+If you experienced issues during your last Trainer Battle, consider uploading your game logs via the Game Logging feature to share them with Niantic.
+Upload Complete!
+Upload Game Logs
 Let’s do it!
 No, thanks
 {0} wants to battle!
@@ -3770,6 +3862,7 @@ Community Day: Seedot
 Community Day: Shinx
 Community Day: Snivy
 Community Day: Spheal
+Community Day: Stufful
 Community Day: Swablu
 Community Day: Tepig
 Community Day: Weedle
@@ -3870,8 +3963,8 @@ OK
 YES
 Disable sharing info on recently caught Pokémon with friends
 You and your friends won't be able to see each other's recently caught or hatched Pokémon on the Friend List.
-Disable this option to stop receiving Sponsored Message served through third party ad services. Please restart the app to save your choice.
-Disable Sponsored Messages from third party advertising services
+Disable this option to stop receiving sponsored messages through third-party advertisement services. Please restart the game to save your selection.
+Disable sponsored messages from third party advertising services
 You can't assign your Buddy Pokémon to defend a Gym.
 Legendary Pokémon cannot be left at Gyms.
 The Pokémon must be at full HP.
@@ -3879,6 +3972,7 @@ Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
+2× hearts with your buddy
 Type Surge: Dragon
 Dragon Boat Festival
 Sustainability Week Collection Challenge
@@ -3906,7 +4000,6 @@ Event-themed 2 km Eggs
 Event-themed 5 km Eggs
 Event-themed 7 km Eggs
 Event-themed Eggs
-Use Adventure Sync to track Egg-hatching progress when Pokémon GO is in the background.
 Adventure Sync: Eggs
 Eggstravaganza
 Type Surge: Electric
@@ -3926,8 +4019,8 @@ Create tags by tapping +
 No Tags
 Enable sharing info on recently caught Pokémon with friends
 You and your friends will be able to see each other's recently caught or hatched Pokémon on the Friend List.
-Enable this option to receive Sponsored Messages through third party ad services. Please restart the app to save your choice.
-Enable Sponsored Messages from third-party advertising services
+Enable this option to receive sponsored messages through third-party advertising services. Please restart the game to save your selection.
+Enable sponsored messages from third-party advertising services
 You already used a Berry.
 Oh?
 Excellent!
@@ -3952,7 +4045,7 @@ You can’t undo this action once you leave the encounter.
 {0} was caught!
 Bonus Challenge! Catch {0}!
 {0} Evolution Shard received!
-Active Mega Pokémon Bonus
+Active Mega-Evolution Bonus
 Expert Handler
 Streak Bonus
 Curveball
@@ -4427,6 +4520,7 @@ Festival of Colors
 Festival of Lights
 More Blitzle and Dedenne are appearing in the wild
 Event-themed Field Research
+Unique Field Research tasks are now available at certain PokéStops and Gyms
 Thank you for field-testing Pokémon GO!We will be back soon!
 Type Surge: Fighting
 See More
@@ -4492,6 +4586,7 @@ Shadow
 Shiny
 Traded
 Type Surge: Fire
+3× XP when you spin the Photo Disc at a Gym or PokéStop for the first time that day
 Maybe later
 Yes, camera on!
 While using AR mode, make sure you’re in a safe location and any children are supervised at all times.
@@ -4699,7 +4794,7 @@ Noice Face
 Normal
 Ordinary Form
 Baile Style
-Pa'u Style
+Pa’u Style
 Pom-Pom Style
 Sensu Style
 Origin Forme
@@ -4878,6 +4973,8 @@ You’ve collected enough Mysterious Components to assemble a Rocket Radar!
 It looks like these components fit together!
 FULL
 Furfrou can Form Change into Heart Trim
+Weekly Exploration Challenge
+Walk around the World
 Galarian Form
 Gardevoir and Gallade encountered after raids will know Synchronoise
 Evolve a Kirlia into a Gardevoir or a Gallade that knows Synchronoise
@@ -4998,6 +5095,8 @@ XXL
 XXS
 Yes
 Special Bonuses
+How to Share Game Logs
+Done
 Your account has been suspended for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center </a> for more information.
 Scan {0}
 Get directions
@@ -5183,6 +5282,8 @@ Now live: Thunder Hour!
 Now live: Wind Hour!
 Take a snapshot of Meloetta
 Welcome to Pokémon GO Fest 2021!
+A ticket to access Pokémon GO Fest on June 4 and June 5, 2022, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. This ticket will also give you access to the Pokémon GO Fest finale event in August. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Pokémon GO Fest 2022 Ticket
 GO Fest 2021: Boisterous
 GO Fest 2021: Cheerful
 GO Fest 2021: Stylish
@@ -5822,8 +5923,8 @@ Show Team GO Rocket a little respect!
 We’re pulling a big job here! Get lost!
 We’re pulling a big job here! Get lost!
 Hey, you! What are you wandering here for?
-Hey, you! What are you wandering here for?
-Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
+Hey, you! What’re you wandering here for?
+Wha—? Hey! You’re the Trainer that’s been getting in our way all this time!
 Wha— Hey! You’re the Trainer that’s been getting in our way all the time!
 If you get in our way, then you’ll...really be in our way!
 If you get in our way, then you’ll...really be in our way!
@@ -5832,10 +5933,10 @@ You snuck into Team GO Rocket’s operation? What nerve!
 Team GO Rocket has taken control of the PokéStop!
 Team GO Rocket has taken control of this PokéStop!
 We’re Team GO Rocket, and we strike fear into others with our strength!
-We’re Team GO Rocket, and we strike fear into others with our strength!
+We’re Team GO Rocket, and we strike fear into all with our strength!
 Hahaha!
 Hahaha!
-Wha—?!
+Wha—?
 Wha—?!
 Intruder alert!
 Intruder alert!
@@ -5987,6 +6088,7 @@ Halloween Mischief: Part 2
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 https://pokemongo.nianticlabs.com/support/contact/en
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
+https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
 HISUIAN FORM
 Hoenn Collection Challenge
 Hoenn Event
@@ -6168,10 +6270,9 @@ You're ready to participate in Pokémon battles!
 Ticket
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access Special Research on April 10, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on April 10, 2022, wherever you are.
+This ticket will automatically activate to give you access to Special Research on April 23, 2022, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6184,7 +6285,6 @@ A ticket to access Special Research on June 6 from 11:00 a.m. to 5:00 p.m. local
 This ticket will automatically activate to give you access to Special Research on June 6, 2021, wherever you are.
 A ticket to access the Mischief Unbound Special Research, wherever you are.
 This ticket will automatically activate to give you access to the Mischief Unbound Special Research, wherever you are. Details can be found in the in-game News and on the blog.
-Ticket
 A ticket to access Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on September 19, 2021, wherever you are.
 A ticket to access Special Research on February 7, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6207,8 +6307,8 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access Pokémon GO Tour: Johto on February 26, 2022, from 9:00 a.m. to 9:00 p.m. local time, wherever you are.
-A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are.
+A ticket to access Pokémon GO Fest on June 4 and June 5, 2022, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. 
+A ticket to access Pokémon GO Fest on June 4 and June 5, 2022, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. This ticket will also give you access to the Pokémon GO Fest finale event in August. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 Ticket
@@ -7182,6 +7282,7 @@ Luminous Legends Y
 Lunar New Year: Catch Challenge
 Lunar New Year
 Lunar New Year: Friendship Challenge
+6-Hour Lure duration
 2× Lure Module duration
 Lure Module duration increased
 90-minute Lure Module duration
@@ -7380,7 +7481,7 @@ MEGA EVOLVE
 Tap to Mega Evolve!
 Tap to Mega Evolve!
 Mega Evolution available
-You can only use one Mega-Evolved Pokémon at a time
+You can only use one Mega-Evolved Pokémon at a time.
 Select a Pokémon to Mega Evolve!
 Mega Evolve {0}
 After you Mega Evolve a Pokémon for the first time, you can Mega Evolve it again without Mega Energy after a rest period.
@@ -7396,7 +7497,7 @@ Show Me
 This Pokémon has an increased Mega Level. Do you still want to transfer it?
 Mega Evolution temporarily changes a Pokémon’s appearance and increases its strength. Mega-Evolved Pokémon can be used in Gyms, raids, and Trainer Battles.You can use only one Mega-Evolved Pokémon at a time.
 Let’s GO Mega!
-• You can now Mega Evolve a Pokémon without using Mega Energy.• You can still use Mega Energy to Mega Evolve a Pokémon during its rest period.• New bonuses have been added that will improve the more your Pokémon Mega Evolves.After a Pokémon Mega Evolves, you’ll need to wait a while before it can Mega Evolve again without using Mega Energy. You can also use Mega Energy to Mega Evolve your Pokémon before then.
+• You can now Mega Evolve a Pokémon without using Mega Energy.• You can still use Mega Energy to Mega Evolve a Pokémon during its rest period.• New bonuses have been added that will improve the more your Pokémon’s Mega Level increases.After a Pokémon Mega Evolves, you’ll need to wait a while before it can Mega Evolve again without using Mega Energy. You can also use Mega Energy to Mega Evolve your Pokémon before then.
 Mega Evolution Features
 <b>Using Mega Energy</b>You can always Mega Evolve a Pokémon using Mega Energy even if the Pokémon is in a rest period. The Mega Energy required to do so will depend on the length of the rest period. <b>Rest</b>Your Pokémon will need to rest after Mega Evolving without using Mega Energy. A Pokémon’s rest periods will become shorter the more it Mega Evolves.
 Two Ways to Mega Evolve
@@ -7404,7 +7505,7 @@ Mega Energy is unique to each Pokémon species and can be earned using the follo
 Mega Energy
 After Mega Evolving, your Pokémon will be fatigued and need time before it can Mega Evolve again without using Mega Energy. You can always Mega Evolve a Pokémon using Mega Energy, even during a rest period.• A Pokémon’s rest periods will become shorter the more it Mega Evolves.• The Mega Energy required to Mega Evolve a Pokémon will decrease as the Pokémon’s rest period becomes shorter.
 Rest Periods
-Each Mega-Evolved Pokémon has a Mega Level. When a Pokémon’s Mega Level increases, you’ll get increased bonuses while the Pokémon is Mega Evolved, and the period you’ll have to wait before you can Mega Evolve the Pokémon again will be shorter. Each time you Mega Evolve a Pokémon, you work toward increasing its Mega Level.
+Each Mega-Evolved Pokémon has a Mega Level. When a Pokémon’s Mega Level increases, you’ll get more bonuses, and the period you’ll have to wait before you can Mega Evolve the Pokémon again will be shorter. Each time you Mega Evolve a Pokémon, you work toward increasing its Mega Level.
 Mega Level
 When you catch a Pokémon that shares a type with your Mega-Evolved Pokémon, you’ll receive the following bonuses.• Extra Candy• Extra XP• An increased chance of receiving Candy XL
 Catch Bonuses
@@ -7432,8 +7533,9 @@ Mega Raid Hour
 Increased number of Mega Raids
 Speed
 {0}-type attacks are now boosted!
+A Mega Moment
 Walking Progress
-Built at 2022-05-04T18:32:39.250279at SHA 5e5782b523a4b26e21db7f8dc8f8df7c944a7b7ePipeline 895183, job 9717167
+Built at 2022-06-07T08:08:50.687450at SHA 9d26dbfdf37de748f43a908720177b9974696160Pipeline 931479, job 10243745
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -7780,6 +7882,8 @@ Aeroblast++
 Sacred Fire+
 Sacred Fire++
 Acrobatics
+Luster Purge
+Mist Ball
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -7917,9 +8021,7 @@ Privacy Settings
 Niantic Social has arrived! With this new social feature, you can now do the following.
 Set Nickname
 Please link your Nintendo Account to Pokémon GO again.
-No Buddy
 No limit
-No Eggs
 
 Tell your friends to join you in the global challenge!
 View Friend List
@@ -7946,6 +8048,8 @@ This feature allows Pokémon in AR mode to fit more seamlessly into your surroun
 This feature allows Pokémon in AR mode to fit more seamlessly into your surroundings and move behind objects. You can turn this feature on by tapping the Reality Blending button.
 This feature allows Pokémon in AR mode to fit more seamlessly into your surroundings and move behind objects. You can turn this feature off by tapping the Reality Blending button.
 Reality Blending
+Old Friends, New Beginnings Timed Research
+Old Friends, New Beginnings
 Accept
 Are you sure you want to decline?
 Congratulations!You've caught your first Pokémon!
@@ -8013,7 +8117,7 @@ Code Redeemed
 SEE RESEARCH
 There was an error redeeming the code.
 The request to redeem the code timed out. Check your network settings and try again.
-Your performance settings were successfully updated!
+Your performance settings were successfully updated.
 Enabling Bluetooth...
 Bluetooth is off. Enable it in device settings.
 This device does not support Bluetooth Smart.
@@ -8082,6 +8186,7 @@ The photo could not be saved.
 5 surprise encounters with Shinx in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Spheal in GO Snapshot
+5 surprise encounters with Stufful in GO Snapshot
 5 surprise encounters with Swablu in GO Snapshot
 5 surprise encounters with Tepig in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
@@ -8104,7 +8209,7 @@ Your suspension term has ended and you are now able access your account.The prio
 {0} and {1} other Trainers are now your friends!
 {0} and {1} other Trainers sent you Friend Requests!
 {0} and {1} other friends have opened your Gifts!
-{0}, {1}, and other friends have saved your Postcards!
+{0} and {1} other friends have saved your Postcards!
 {0} and {1} other friends sent you Gifts!
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
 3 Poffins
@@ -10484,7 +10589,7 @@ You cannot transfer a Mega-Evolved Pokémon.
 You cannot select your buddy!
 You can’t transfer your buddy!
 Transfer
-<size=36><b>Do you want to transfer {0} to the professor?</b></size>You can't undo this action once you transfer.
+<size=36><b>Do you want to transfer {0} to the professor?</b></size>You can’t undo a transfer.
 Transfer succeeded! {0} Candy received from the professor.
 Type
 UNKNOWN
@@ -11676,6 +11781,8 @@ Catch {0} Electric-, Normal-, or Poison-type Pokémon
 Catch {0} Grass-, Water-, or Fire-type Pokémon
 Use {0} Berries to help catch Drifloon
 Use {0} Nanab Berries to help catch Drifloon
+Use {0} Pinap Berries to help catch Pokémon
+Use {0} Razz Berries to help catch Pokémon
 Use {0} Razz Berries to help catch Drifloon
 Catch {0} Flying-, Psychic-, or Dark-type Pokémon
 Catch {0} Grass- or Psychic-type Pokémon
@@ -11695,6 +11802,7 @@ Catch a Legendary or Mythical Pokémon
 Catch {0} Lunatone
 Catch {0} Luvdisc
 Catch {0} Normal-, Water-, or Ice-type Pokémon
+Catch {0} Pikachu
 Catch {0} different species of Pokémon
 Catch {0} Pokémon
 Catch a Pokémon
@@ -11776,6 +11884,10 @@ Catch {0} Omanyte or Kabuto
 Catch {0} Pumpkaboo
 Catch {0} Slugma or Gulpin
 Catch {0} Voltorb
+Use {0} Pinap Berries to help catch Pokémon
+Use a Pinap Berry to help catch a Pokémon
+Use {0} Razz Berries to help catch Pokémon
+Use a Razz Berry to help catch a Pokémon
 Catch {0} of the Transform Pokémon
 Catch {0} Trubbish
 Catch {0} Bug-type Pokémon
@@ -12035,7 +12147,7 @@ Exeggcute Research: Make three Nice Throws in a row
 Exeggcute Research: Battle in a Raid
 Exeggcute Research: Spin two PokéStops
 Exeggcute Research: Catch three Pokémon with Weather Boost
-Exeggcute Research: Catch five Pokemon with Weather Boost
+Exeggcute Research: Catch five Pokémon with Weather Boost
 Exeggcute Research: Take a snapshot of a wild Grass-type Pokémon
 Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
@@ -12812,6 +12924,7 @@ Send a Gift with a sticker
 Catch {0} Shinx
 Evolve {0} Shinx
 Evolve {0} Luxio
+Take a snapshot with your buddy
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
 Take a snapshot of your Chikorita
@@ -12819,9 +12932,11 @@ Take a snapshot of your Cyndaquil
 Take {0} snapshots of Genesect
 Take a snapshot of Hoopa
 Take a snapshot of Landorus
+Take a snapshot in Okinawa
 Take a snapshot of Regice
 Take a snapshot of Regirock
 Take a snapshot of Registeel
+Take a snapshot
 Take a snapshot of Thundurus
 Take a snapshot of Tornadus
 Take a snapshot of your Totodile
@@ -12889,7 +13004,7 @@ Evolve {0} Servine
 ... ... ...
 Do you... Do you think there’s a chance that other Trainers you’ve passed on the street were actually Ditto? I suppose there’s no way to know for sure...
 What a confusing but educational day this has been, %PLAYERNAME%. I hope you’ve enjoyed the Transform Pokémon’s shenanigans! Now, until next time, ... ... ...!
-Er...  
+Er...
 %PLAYERNAME%? Is it really you?
 Oh, thank goodness. I’ve had the most befuddling day.
 The Pokémon in the area were behaving strangely, so, as always, I turned to you to help me find out why—but to my confusion, you just stared at me blankly and bit straight into a Nanab Berry!
@@ -13709,8 +13824,55 @@ In other regions, Trainers use Mega Bracelets to help their Pokémon Mega Evolve
 However, I thought a Mega Bracelet would be a trendy way to show off your Mega Evolution skills.
 You can check it out when you want to change up your look. I hope you accept this gift with my sincerest thanks for a job well done.
 Until next time, let’s GO!
+Hello there, %PLAYERNAME%!
+I have something exciting planned for you today—you could even say it’s a mega surprise! Haha!
+I still have a few loose ends to wrap up, though.
+While I finish my preparations, how about you take a quick survey of the area and see what Pokémon are out and about today?
+I’ll be ready by the time you’re back.
+Ah, good—you’re back. I’ve just finished getting everything ready.
+Have you tried to Mega Evolve a Pokémon lately?
+Something about Mega Evolution caught my attention recently, so I was hoping you could help me investigate.
+Let’s take a closer look at Mega Evolution, from beginning to end.
+First, let’s choose which of these Pokémon you’d like to be the star of our research, %PLAYERNAME%!
+Once we’re done, our understanding of Mega Evolution will be second to none.
+So, you’ve chosen Venusaur, the Seed Pokémon!
+Venusaur absorbs solar energy as nutrition. By spreading the broad petals of its flower and catching the sun’s rays, it fills its body with power.
+While I fetch Venusaur, how about you go out and catch a few Pokémon as a warm-up. Don’t forget to power them up, too.
+You’ll have an even more formidable team by your side in no time!
+So, you’ve chosen Charizard, the Flame Pokémon!
+Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
+While I fetch Charizard, how about you go out and catch a few Pokémon as a warm-up. Don’t forget to power them up, too.
+You’ll have an even more formidable team by your side in no time!
+So, you’ve chosen Blastoise, the Shellfish Pokémon!
+The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
+While I fetch Blastoise, how about you go out and catch a few Pokémon as a warm-up. Don’t forget to power them up, too.
+You’ll have an even more formidable team by your side in no time!
+Welcome back, %PLAYERNAME%! Now that we’re fully warmed up, let’s tuck into our research on Mega Evolution.
+Some theorize that a strong bond between a Trainer and a Pokémon is the key to Mega Evolution. We’ve also seen that Mega Energy can play a role.
+However, I noticed recently that if you Mega Evolve your Pokémon once using Mega Energy, you won’t need to use Mega Energy to Mega Evolve that Pokémon again.
+Let’s Mega Evolve Venusaur and see if that’s true for ourselves, %PLAYERNAME%!
+Welcome back, %PLAYERNAME%! Now that we’re fully warmed up, let’s tuck into our research on Mega Evolution.
+Some theorize that a strong bond between a Trainer and a Pokémon is the key to Mega Evolution. We’ve also seen that Mega Energy can play a role.
+However, I noticed recently that if you Mega Evolve your Pokémon once using Mega Energy, you won’t need to use Mega Energy to Mega Evolve that Pokémon again.
+Let’s Mega Evolve Charizard and see if that’s true for ourselves, %PLAYERNAME%!
+Welcome back, %PLAYERNAME%! Now that we’re fully warmed up, let’s tuck into our research on Mega Evolution.
+Some theorize that a strong bond between a Trainer and a Pokémon is the key to Mega Evolution. We’ve also seen that Mega Energy can play a role.
+However, I noticed recently that if you Mega Evolve your Pokémon once using Mega Energy, you won’t need to use Mega Energy to Mega Evolve that Pokémon again.
+Let’s Mega Evolve Blastoise and see if that’s true for ourselves, %PLAYERNAME%!
+What a magnificent Mega Venusaur, %PLAYERNAME%!
+Let’s keep growing: why don’t you take on a Raid Battle with your mighty Mega Venusaur? There may even be a Team GO Rocket Grunt lurking about, looking for a battle.
+Mega-Evolved Pokémon are powerful allies. Their strength in battle is unmatched!
+I’m sure there’s more to learn about Mega Evolution, so why stop now? Let’s GO!
+What a commanding Mega Charizard, %PLAYERNAME%!
+Let’s keep our fire burning: why don’t you take on a Raid Battle with your mighty Mega Charizard? There may even be a Team GO Rocket Grunt lurking about, looking for a battle.
+Mega-Evolved Pokémon are powerful allies. Their strength in battle is unmatched!
+I’m sure there’s more to learn about Mega Evolution, so why stop now? Let’s GO!
+What a brilliant Mega Blastoise, %PLAYERNAME%!
+Let’s keep our progress flowing: why don’t you take on a Raid Battle with your mighty Mega Blastoise? There may even be a Team GO Rocket Grunt lurking about, looking for a battle.
+Mega-Evolved Pokémon are powerful allies. Their strength in battle is unmatched!
+I’m sure there’s more to learn about Mega Evolution, so why stop now? Let’s GO!
 Hey there, %PLAYERNAME%! It’s great to see you, as always.
-I’m feeling especially refreshed today, as if a pleasant island breeze were following me. Maybe it’s the freshly squeezed Pinap Juice I had for breakfast?
+I’m feeling especially refreshed today, as if a pleasant island breeze was following me. Maybe it’s the freshly squeezed Pinap Juice I had for breakfast?
 Or maybe it’s because more and more Pokémon first discovered in the Alola region have been coming to visit me lately!
 Do you know about the Alola region, %PLAYERNAME%? It’s a cluster of tropical islands, each with unique scenery and Pokémon.
 Alola even has Pokémon whose appearances are different than their counterparts in other regions. You may have encountered some of them before!
@@ -13727,9 +13889,9 @@ The lightning-wielding Tapu Koko is known to fly faster than the eye can follow.
 Could you look around and see if you can spot Tapu Koko, %PLAYERNAME%? I’m eager to know if what I saw was truly the Land Spirit Pokémon.
 Welcome back, %PLAYERNAME%! What’s that? You were able to see Tapu Koko? That’s incredible!
 And would you believe it: Spark was just here, raving that he’d seen Tapu Koko, too! So it is in the area after all. What an exceptional discovery, %PLAYERNAME%!
-I wonder why Tapu Koko is here. Tapu Koko is said to be a Pokémon brimming with curiosity—but, naturally, Island Guardians tend to stay on their respective islands. The fact that one of them is here may mean something is amiss...
+I wonder why Tapu Koko is here. Tapu Koko is said to be a Pokémon brimming with curiosity—but, naturally, island guardians tend to stay on their respective islands. The fact that one of them is here may mean something is amiss...
 Or did someone do something to anger it? I’ll have to do some more research before I can say anything for sure.
-Do you think we’ll get a chance to meet the other Island Guardians, %PLAYERNAME%? Wouldn’t that be something.
+Do you think we’ll get a chance to meet the other island guardians, %PLAYERNAME%? Wouldn’t that be something.
 I guess we’ll just have to wait and see. Until then, let’s kick back and enjoy a little R and R with our new friends!
 Hey, %PLAYERNAME%! Have you run into any Pokémon wearing fun costumes recently? I’ve seen quite a few around my mobile lab.
 It reminded me how freeing it can be to express yourself in different ways. Personally, I’m a big fan of turning up my tunes and shredding on the air guitar!
@@ -13965,6 +14127,32 @@ Dewott’s Evolution, Samurott, is known to wield swords called seamitars incorp
 Not hard to see why it’s known as the Formidable Pokémon! Why don’t you evolve Dewott so we can witness Samurott’s majesty for ourselves?
 Excellent work, Trainer! That’s a fine Samurott. Its seamitars truly are a sight to behold! Knowing how quickly it can draw and sheathe its blades, I wonder how fast it can dice up berries...
 Thanks for all your help today, %PLAYERNAME%. We’ve learned so much about Oshawott, Dewott, and Samurott—and from them, too! I’ll “sea” you next time! Haha!
+Oh, %PLAYERNAME%! Great to see you.
+Your timing is impeccable. Because you know what? I’ve had enough!
+That’s right—I’ve had enough of waiting to see a guardian deity. Everyone but me has managed to glimpse one out of pure serendipity, so I’ve decided to be proactive and embark on a search for Tapu Fini!
+Do you think you could lend me a hand? With you involved, I think my chance of success will skyrocket.
+Tapu Fini is the guardian deity of Poni Island in the Alola region.
+Terrible calamities sometimes befall those who recklessly approach Tapu Fini, so I’m going to think very carefully about how we can successfully—and safely—track it down.
+In the meantime, can you see what Team GO Rocket is up to? I’d like to avoid any complications in our search.
+Welcome back, %PLAYERNAME%!
+I’ve been busy researching Tapu Fini. My sources say that it can manipulate water, and it lives deep within a thick fog.
+With that in mind, I’d hazard a guess that we’ll have the most luck uncovering Tapu Fini’s whereabouts if we look in places where other Water-type Pokémon are appearing.
+I’ll start by visiting every foggy lake I can find. I can hear Blanche’s water safety spiel already...
+But, personally speaking, a bit of risk is worth it if I finally get to see an island guardian with my own eyes! You remember to be careful, too, okay?
+Now, let’s get back out there!
+%PLAYERNAME%! Can you believe it?!
+I was knee-deep in the last lake I thought to check—shoes soggy, Dewpider on all sides—when I finally, FINALLY, saw Tapu Fini!
+I’d love to tell you more about it, but I need to scribble down all the details in my journal while they’re fresh in my mind.
+You should head out and see if you can catch a glimpse of Tapu Fini yourself!
+Phew! Welcome back, %PLAYERNAME%. How’d you fare?
+You saw Tapu Fini as well?! That’s fantastic!
+Now you’ve seen all four of Alola’s guardian deities. And I’ve seen...all of one.
+That’s... Well, it’s one more than I’d seen before, isn’t it!
+Just have to stay positive. No use feeling jealous of others’ good fortune...
+Now that we know all the island guardians are nearby, we should look into why they’ve appeared here.
+Were the cause some unsavory act on our part, I think they would have confronted us directly by now—but instead, we’ve been the ones tracking them down.
+It’s certainly possible their motives have nothing to do with us. Though I have to assume they’re investigating the area for a reason.
+But what could that reason be? I suppose all we can do for now is wait and see what happens.
 Hey there, %PLAYERNAME%! It’s great to see you again! I’m always grateful to have a helping hand with my research.
 Speaking of research, have you heard of Porygon, the Virtual Pokémon?
 Well, I’m not entirely sure why, but Porygon have been appearing more frequently in the area as of late!
@@ -14337,7 +14525,7 @@ Welcome back, %PLAYERNAME%! That’s an impressive number of Sandshrew you have 
 Did you know that there’s a traditional competition in Alolan festivals where Trainers slide Alolan Sandshrew across ice as far as possible?
 How must the Sandshrew feel about that, I wonder!
 The Sandshrew first found in the Kanto region are quite fascinating in their own right.
-When their shells are wrinkled from moisture, they head for volcanoes and lie flat on a spot with a lot of geothermal heat to dry themselves out.
+When their skin gets wrinkled from moisture, they head for volcanoes and lie flat on a spot with a lot of geothermal heat to dry themselves out.
 It’s truly incredible how different geography and climates can influence Pokémon.
 I’d love to get an even closer look at both of these forms of Sandshrew. What do you say, %PLAYERNAME%? Let’s get back out there!
 You never disappoint, %PLAYERNAME%! Seeing all the Sandshrew together, don’t they look like a tough bunch?
@@ -14550,6 +14738,21 @@ So...your Nuzleaf has evolved into Shiftry, the Wicked Pokémon. Unfortunately, 
 Using its leafy fan, Shiftry can create wind gusts with speeds of up to one hundred feet per second. That’s strong enough to level houses! I think I need to go tie my mobile lab down!
 I’d rather be surprised by a Seedot than blown away by a Shiftry! Hah...lesson learned—stay up-to-date with Pokémon, even familiar ones!
 Thank you for your help researching this odd occurrence. Once these winds die down, I’ll be in touch about our next research adventure!
+*yawn* Hello, %PLAYERNAME%... You’ll have to forgive my appearance, I was up late last night studying some nearby Rowlet. For as sleepy as they can be during the day, they sure perk right up at night!
+Maybe it’d help me relax if I had a soft, cute Pokémon to hug... Like Stufful!
+Stufful has an adorable appearance, but it hates to be hugged or touched in any way. Which is a shame because I’ve heard its fur is a delight to pet!
+I wonder if I’ll ever get the chance to snuggle one—for science, of course! Maybe you could bring me a Stufful, %PLAYERNAME%? Just to look at!
+%PLAYERNAME%, you’re back! And you’ve brought a Stufful with you! It looks so soft and fluffy...
+Er-hem! Despite their looks, Stufful are incredibly dangerous Pokémon. A touch from anyone except a known friend sends Stufful into a surging frenzy!
+For both our sakes, maybe we’d better befriend it before we try to cuddle—I mean, continue our research, don’t you think? Why not try feeding Stufful a Berry or two, %PLAYERNAME%. Perhaps we can get closer to it that way.
+Your Stufful seems friendlier already, %PLAYERNAME%! Speaking of friendly, have you heard that its Evolution—Bewear—has the habit of hugging its companions?
+Once Bewear accepts you as a friend, it tries to show its affection with a hug. But letting it do that is dangerous—it could easily shatter your bones!
+Many Trainers have left this world after their spines were squashed by its hug...
+While I don’t recommend you go hugging a Bewear anytime soon, there isn’t any harm in trying to meet one! Why don’t you evolve Stufful, %PLAYERNAME%?
+What a strong-looking Bewear you’ve come back with, %PLAYERNAME%!
+What’s that? You say I look a bit more frazzled than usual? Well...I may have tried to pet Stufful while you were away, and its flailing sent me flying so far someone could’ve mistaken me for a bird Pokémon. Haha—ow...
+On the bright side, I did get to both pet Stufful and experience its strength firsthand! Come to think of it, I have a colleague studying Pokémon moves who’d love to hear all about this...
+I hope you’ve had more luck bonding with your new Stufful and Bewear companions, %PLAYERNAME%. I think I’m going to bow out and grab an ice pack...or six. Thanks for all your help today! Take care, I’ll be in touch!
 Hello there, %PLAYERNAME%! I was just taking a moment to admire the weather here. Blue skies abound, with the fluffiest of clouds floating by.
 I’d love to just kick back and enjoy the tranquility of it all, but I’ve observed some of the clouds moving rather...strangely.
 Believe it or not, I believe some of them are actually flapping—yes, like birds!
@@ -14683,7 +14886,7 @@ Are you feeling refreshed? I know I am!
 While you were out, I thought of a new angle for our investigation.
 As you may know, Alola is home to four guardian deities. We’ve seen two, so it stands to reason the other two may be buzzing about already.
 Instead of waiting for them to come to us, I think we should get out and search for them ourselves.
-Let’s start with Tapu Bulu, Guardian Deity of Ula’Ula Island.
+Let’s start with Tapu Bulu, guardian deity of Ula’Ula Island.
 Ula’Ula Island is a rugged locale, home to Mount Lanakila, the highest peak in Alola.
 Tapu Bulu is said to make ringing sounds with its tail to let others know where it is and avoid unneeded conflicts. Knowing that, it shouldn’t be too hard to find!
 In addition, I know Tapu Bulu can help plants grow, so perhaps we’ll have some luck if we begin by looking for Pokémon that are known to grow. Let’s get out there, %PLAYERNAME%!
@@ -14695,9 +14898,9 @@ I’m glad you’ve at least been more successful, %PLAYERNAME%. Now that we kno
 I’ll speak with Candela to see if she might know any more details that could help us.
 %PLAYERNAME%—you saw Tapu Bulu, didn’t you!
 What was it like? Tell me everything! Did you hear a ringing noise? Did you see it making vegetation grow, or maybe even swinging large trees around by their roots?
-Those are all things Tapu Bulu is known for.
+Those are all things Tapu Bulu is known for, you know.
 As you might’ve expected, I was—yet again—unable to witness Tapu Bulu myself. I did, however, think up a new theory.
-The guardian deities seem to be keeping a relatively low profile. Perhaps they’re just here to investigate something, or even help us somehow.
+The guardian deities seem to be keeping a relatively low profile. Perhaps they’re just here to investigate something—or even help us somehow.
 Things may become clearer if we see Tapu Fini, the last of Alola’s guardian deities.
 For now, though, I think we’ve earned some rest. See you next time, %PLAYERNAME%!
 Hey there, %PLAYERNAME%! I stepped out of my mobile lab this morning only to see needlelike horns poking out of the grass all around me.
@@ -14733,6 +14936,9 @@ Evolve 3 Seedot
 Earn {0} Stardust
 START BATTLE!
 {0} DAY STREAK!
+Catch {0} Stufful
+Evolve {0} Stufful
+Take {0} snapshots of Stufful in the wild
 Ah, %PLAYERNAME%! Good to see you!
 There’s a lot to do this summer! New things to experience—new Pokémon to find!
 Let’s start with a few simple tasks to help you get your bearings.
@@ -14998,6 +15204,10 @@ Mega Buddy Challenge (1/4)
 Mega Buddy Challenge (2/4)
 Mega Buddy Challenge (3/4)
 Mega Buddy Challenge (4/4)
+A Mega Moment (1/4)
+A Mega Moment (2/4)
+A Mega Moment (3/4)
+A Mega Moment (4/4)
 A Melemele Adventure
 A Melemele Adventure (1/4)
 A Melemele Adventure (2/4)
@@ -15049,6 +15259,11 @@ From Scalchops to Seamitars (1/4)
 From Scalchops to Seamitars (2/4)
 From Scalchops to Seamitars (3/4)
 From Scalchops to Seamitars (4/4)
+A Poni Adventure
+A Poni Adventure (1/4)
+A Poni Adventure (2/4)
+A Poni Adventure (3/4)
+A Poni Adventure (4/4)
 Decoding Porygon
 Decoding Porygon (1/4)
 Decoding Porygon (2/4)
@@ -15247,6 +15462,11 @@ Seeing Double (1/4)
 Seeing Double (2/4)
 Seeing Double (3/4)
 Seeing Double (4/4)
+Strong Stuff
+Strong Stuff (1/4)
+Strong Stuff (2/4)
+Strong Stuff (3/4)
+Strong Stuff (4/4)
 Cotton-Winged Bird
 Cotton-Winged Bird (1/4)
 Cotton-Winged Bird (2/4)
@@ -15352,6 +15572,7 @@ Make {0} trades with Pokémon caught at least 400 km apart
 Make {0} trades with Pokémon caught at least 500 km apart
 Make a trade with Pokémon caught at least 500 km apart
 Make {0} trades with Pokémon caught at least 50 km apart
+Trade {0} Pikachu
 Trade Pokémon {0} times
 Trade a Pokémon
 Transfer {0} Pokémon
@@ -15400,9 +15621,11 @@ Walk {0} km
 Walk {0} km
 Walk {0} steps
 Water Festival: Use {0} Berries to help catch Pokémon
+Water Festival: Catch {0} Pokémon
 Water Festival: Catch {0} Magikarp or Wailmer
 Water Festival: Catch {0} Water-type Pokémon
 Water Festival: Evolve {0} Shellder
+Water Festival: Evolve {0} Water-type Pokémon
 Water Festival: Hatch an Egg
 Water Festival: Win a raid
 Wayfarer bonus: Catch {0} Pokémon
@@ -15886,6 +16109,7 @@ Raid Day: Masquerain
 Raid Day: Mawile
 Raid Day: Medicham
 Raid Day: Meditite
+Raid Day: Mega Kangaskhan
 Raid Day: Meganium
 Raid Day: Meloetta
 Raid Day: Meowstic
@@ -17206,7 +17430,6 @@ Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Philadelp
 Safari Zone Philadelphia
 Safari Zone Philadelphia (1/2)
 Safari Zone Philadelphia (2/2)
-Welcome to Safari Zone Seville 2020, %PLAYERNAME%!
 Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Seville 2020!
 Safari Zone Seville 2020
 Safari Zone Seville 2020 (1/2)
@@ -17216,6 +17439,7 @@ Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone St. Louis
 Safari Zone St. Louis
 Safari Zone St. Louis (1/2)
 Safari Zone St. Louis (2/2)
+Welcome to Safari Zone Seville 2022, %PLAYERNAME%!
 Safari Zone: Battle another Trainer
 Safari Zone: Use {0} Razz Berries to help catch Pokémon
 Safari Zone: Take a snapshot of your buddy
@@ -17324,13 +17548,13 @@ Server maintenance is about to begin! This feature is not available now.
 Pokémon GO will begin server maintenance in {0} minutes. The game will be unavailable at that time.
 ChooseBuddy
 Set Nickname
-Could not set your privacy settings.
+Could not save your privacy settings.
 ACCOUNT
 Tip: You can sign in to your game via any linked account!
 LINKED
 NOT LINKED
 Adjust Performance
-Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.
+Optimize your gameplay experience based on your device. Doing so may improve performance or save battery life.
 Refresh Game Data
 Refresh your game data if you are experiencing inconsistent gameplay.
 Advanced Settings
@@ -17423,7 +17647,7 @@ Native Refresh Rate
 Unlock your device’s native refresh rate for higher FPS.
 Native refresh rate unlocked.
 Vibration
-Show Sponsored Messages from third party ad services
+Show sponsored messages from third-party advertising services
 Try again through settings or the Pokémon GO Plus icon.
 Pokémon GO Plus not enabled
 Let your Pokémon GO Plus count your steps and help you find nearby Pokémon and spin nearby PokéStops!
@@ -17447,7 +17671,7 @@ If you're unable to attend:
 You and one {0} are invited to an EX Raid.
 Invitation declined.
 Your friend {0} has invited you to an EX Raid at {1}.
-You already own a ticket for this event.
+You already have a ticket for this event.
 You’re out of Premium Battle Passes!
 You’re out of Premium Battle Passes!
 ({0} + {1} Bonus PokéCoins)
@@ -17477,26 +17701,26 @@ Exchange
 Exchange
 
 Your {0} is fully upgraded!
-Some friends may be ineligible for receiving paid gifts. Reasons for being ineligible include:  • They already own the ticket  • Someone else has sent them a ticket already  • You do not meet the minimum friendship level requirement to buy this player a gift
-Cannot Send Ticket
-Hello, <b>{0}</b>! I invite you to join me in this event! Here’s your event ticket. Let’s go!Sincerely, -<b>{1}</b>
+A friend may be ineligible to receive paid gifts for the following reasons.• They already have the ticket you are trying to give.• Someone else has sent them that ticket already.• You do not meet the minimum Friendship level requirement to give this friend a gift.
+Cannot Send Gift
+Hello, <b>{0}</b>! Come join me for this event!Here’s your ticket—it’s on me!Sincerely,—<b>{1}</b>
 INVITATION
 CONFIRM
 CANCEL
-{0} will receive <b>{1}</b> from you. This ticket cannot be used by any other player. This purchase cannot be refunded or undone.
+{0} will receive <b>{1}</b> from you. This ticket cannot be used by any other Trainer. This purchase cannot be undone, nor will you be able to receive a refund for it.
 SEE GIFTING POLICY
 Confirm Purchase
-An error occurred that prevented this purchase from completing.  You were not charged for the purchase.  You will be returned to the shop.
+An error occurred that prevented this purchase from being completed.You were not charged for this purchase.You will now be returned to the shop.
 Purchase Error
-In order to gift tickets, Friends Permission must be enabled on this account.
+To give tickets as a gift, Friends Permission must be enabled on this account.
 Friends Permission Required
-Gift is on its way!
-Your gift has been sent off to {0}. Go tell them so they can open it in time for the event!
+Your gift is on its way!
+Your gift has been sent to {0}.Go tell them about it so they can open the gift in time for the event!
 Select a Friend
-You can only send {0} paid gifts in a day. Please wait until tomorrow to purchase more gifts for friends.  Dailly limits exist to prevent overspending and fraud.
+You can only send {0} paid gifts per day. Please wait until tomorrow to purchase more gifts for friends.Daily limits exist to prevent overspending or fraud.
 Paid Gift Daily Limit Reached
-Unfortunately your gift could not be sent at this time. The recipient obtained the gift before your gift purchase could complete. Please contact your app store for a refund.
-• You cannot get refunded for gifts purchased for friends.  • You cannot cancel a gift after it is sent.  • You can only send {0} daily paid gifts. 
+Unfortunately, your gift could not be sent at this time. It appears that the intended recipient obtained this item before your purchase could be completed.Please contact the app store for a refund.
+• You cannot get a refund for gifts purchased for friends.• You cannot retrieve or cancel a gift after it has been sent.• You can only send {0} paid gifts each day.
 Gifting Policy
 Your Item Bag is full!
 Go to Upgrades
@@ -17516,6 +17740,7 @@ Sale
 SHOP
 Something went wrong. Please try again.
 STICKERS
+Invite your friends to this event by gifting them a ticket!
 Tap on a PokéStop
 This is probably a waste of my time, but I do love winning!
 This won’t be all bad—when you lose, you’ll at least get to hear me say you made a good effort.
@@ -17602,8 +17827,10 @@ Radical battling, Trainer!
 That was an amazing battle!
 Whoa—not a signal in sight! I wonder what they’re scared of?
 Just when I was energized to do some battling! Maybe we should check out other locations.
-No signals? Well, it is getting pretty late...and I need to go meet up with Willow.
+No signals? Well, it’s getting pretty late... And I need to get going.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
+Pokémon Air Adventures: Catch Challenge
+Electrify the Sky
 More Abra are appearing in the wild
 More Bulbasaur are appearing in the wild
 More Charmander are appearing in the wild
@@ -17627,6 +17854,7 @@ More Shinx are appearing in the wild
 Increased chance for Skiploom to appear in parks
 More Snivy are appearing in the wild
 More Spheal are appearing in the wild
+More Stufful are appearing in the wild!
 More Swablu are appearing in the wild
 More Tepig are appearing in the wild
 More Weedle are appearing in the wild
@@ -17664,6 +17892,7 @@ Do you want to teach {0} a new Charged Attack?
 Are you sure? {1} cannot be relearned.
 You can only make a Special Trade once a day, unless you’re at certain special events.
 Do you want to make a Special Trade?
+Three additional Special Trades per day, for a total of four
 Pokémon GO should not be played while driving.
 You're going too fast!
 Failed to save screenshot. Check photo storage permissions.
@@ -17897,6 +18126,7 @@ Ticket for the Seeing Double Special Research story available in the shop
 Ticket for the Flash, Spark, and Gleam Special Research story available in the shop
 Ticket for Special Research available in the shop
 Ticket for a Special Research story available in the shop
+Ticket for the Strong Stuff Special Research story available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
 Ticket for the Roasted Berries Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
@@ -18204,10 +18434,10 @@ Trade expired.
 Waiting for {0} to be available for trading.
 Guaranteed Candy XL when trading Pokémon
 All Legendary Pokémon
-This Pokémon was previously your buddy, and previously Mega Evolved. Trading it will reset Buddy Level and Mega Level. Proceed with trading?
-Do you want to trade this former Buddy and Mega Pokémon?
-This Pokémon has previously Mega Evolved. Trading it will reset its Mega Level. Proceed with trading?
-Do you want to trade this Mega Leveled Pokémon?
+This Pokémon was previously your buddy, and it has also previously Mega Evolved. Trading it will reset its Buddy Level and its Mega Level. Do you want to proceed with this trade?
+Are you sure you want to trade this Pokémon?
+This Pokémon has previously Mega Evolved. Trading it will reset its Mega Level. Do you want to proceed with the trade?
+Are you sure you want to trade this Pokémon?
 Me
 You cannot trade a favorite Pokémon.
 All regional Pokémon
@@ -18230,7 +18460,7 @@ Pokémon not yet registered in your Pokédex require a Special Trade.
 Your Friendship level must reach Good Friend in order to complete a Special Trade.
 You'll receive bonus Candy if the locations where the traded Pokémon were caught are far apart (up to around 100 km).
 The amount of Stardust required for trading drastically reduces as your Friendship level increases.
-Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex require a Special Trade.
+Legendary Pokémon, Purified Pokémon, Shiny Pokémon, and Pokémon not currently in your Pokédex can only be traded by performing a Special Trade.
 Completing a Special Trade requires a large amount of Stardust.
 Your Friendship level with a friend increases when you trade Pokémon to each other frequently.
 Shadow and Mythical Pokémon can’t be traded.
@@ -18434,7 +18664,7 @@ Thank you for your contribution.
 Use a pass to join the Raid Battle
 Join the Raid Battle(A pass will be used when the battle starts)
 Use a pass to join the Raid Battle
-Use System Settings
+Use Device Settings
 You can change your nickname once.
 You can change your nickname later.
 Looks good!
@@ -18474,14 +18704,14 @@ Valentine’s Day: Defeat {0} Team GO Rocket Grunts
 Valentine’s Day
 Valentine’s Day Challenge 1
 Valentine’s Day Challenge 2
-{1} logs you haven’t uploaded will be deleted if you choose to stop saving these logs.
-Do you want to stop saving these logs?
-Game logs contain valuable information that can help Niantic improve certain aspects of Pokémon GO. If you allow your game logs to be saved, you can then upload them and share them with Niantic.Logs for each activity are stored for 24 hours or until you participate in that type of activity again. You can upload logs at any time in the Settings menu.
+{1} game logs you haven’t uploaded will be deleted if you choose to stop saving.
+Do you want to stop saving these game logs?
+Game logs contain valuable information that can help Niantic improve certain aspects of Pokémon GO. If you allow your game logs to be saved, you can then upload them and share them with Niantic.Game logs for each activity are stored for 24 hours or until you participate in that activity again. You can upload game logs at any time in the Settings menu.
 Learn more
 Help Improve Pokémon GO!
 You have 1 log awaiting upload.
-You have {0} logs awaiting upload.
-Logs Awaiting Upload
+You have {0} logs waiting to be uploaded.
+Game Logs Awaiting Upload
 Game Logs
 Save {0} Logs
 Battle
@@ -18559,6 +18789,7 @@ New rank earned!
 Searching for the referral code associated with your link.
 km
 steps
+Water Festival: Catch Challenge
 Water Festival
 Type Surge: Water
 Water Festival: Earn a Candy walking with your buddy
@@ -18601,7 +18832,6 @@ Weather Week
 Windy
 Cannot access your device's camera. Check camera permissions.
 Welcome to Alola
-Retrieving data with Adventure Sync
 Winter Event
 Pokémon GO Holidays: Catch Challenge
 Pokémon GO Holidays

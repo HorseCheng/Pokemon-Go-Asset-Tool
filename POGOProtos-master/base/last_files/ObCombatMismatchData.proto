@@ -1,0 +1,194 @@
+/*
+* Copyright 2016-2022 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+import "OpenCombatSessionDataProto.proto";
+import "OpenCombatSessionResponseDataProto.proto";
+import "UpdateCombatDataProto.proto";
+import "UpdateCombatResponseDataProto.proto";
+import "QuitCombatDataProto.proto";
+import "QuitCombatResponseDataProto.proto";
+import "WebSocketResponseDataProto.proto";
+import "RpcErrorDataProto.proto";
+import "GetCombatPlayerProfileDataProto.proto";
+import "GetCombatPlayerProfileResponseDataProto.proto";
+import "GenerateCombatChallengeIdDataProto.proto";
+import "GenerateCombatChallengeIdResponseDataProto.proto";
+import "CreateCombatChallengeDataProto.proto";
+import "CreateCombatChallengeResponseDataProto.proto";
+import "OpenCombatChallengeDataProto.proto";
+import "OpenCombatChallengeResponseDataProto.proto";
+import "OpenNpcCombatSessionDataProto.proto";
+import "OpenNpcCombatSessionResponseDataProto.proto";
+import "AcceptCombatChallengeDataProto.proto";
+import "AcceptCombatChallengeResponseDataProto.proto";
+import "SubmitCombatChallengePokemonsDataProto.proto";
+import "SubmitCombatChallengePokemonsResponseDataProto.proto";
+import "DeclineCombatChallengeDataProto.proto";
+import "DeclineCombatChallengeResponseDataProto.proto";
+import "CancelCombatChallengeDataProto.proto";
+import "CancelCombatChallengeResponseDataProto.proto";
+import "GetCombatChallengeDataProto.proto";
+import "GetCombatChallengeResponseDataProto.proto";
+import "VsSeekerStartMatchmakingDataProto.proto";
+import "VsSeekerStartMatchmakingResponseDataProto.proto";
+import "GetMatchmakingStatusDataProto.proto";
+import "GetMatchmakingStatusResponseDataProto.proto";
+import "CancelMatchmakingDataProto.proto";
+import "CancelMatchmakingResponseDataProto.proto";
+import "SubmitCombatActionProto.proto";
+import "InvasionOpenCombatSessionDataProto.proto";
+import "InvasionOpenCombatSessionResponseDataProto.proto";
+import "InvasionBattleUpdateProto.proto";
+import "InvasionBattleResponseUpdateProto.proto";
+import "CombatIdMismatchDataProto.proto";
+import "LeagueIdMismatchDataProto.proto";
+import "ChallengeIdMismatchDataProto.proto";
+import "ProgressTokenDataV2.proto";
+import "OnApplicationFocusDataProto.proto";
+import "OnApplicationPauseDataProto.proto";
+import "OnApplicationQuitDataProto.proto";
+import "ExceptionCaugthDataV2Proto.proto";
+import "CombatPubSubDataProto.proto";
+import "CombatEndDataProto.proto";
+import "CombatSyncServerDataProto.proto";
+import "CombatSyncServerResponseDataProto.proto";
+
+message ObCombatMismatchData {
+	oneof Data {
+		OpenCombatSessionDataProto open_combat_session_data = 2;
+		OpenCombatSessionResponseDataProto open_combat_session_response_data = 3;
+		UpdateCombatDataProto update_combat_data = 4;
+		UpdateCombatResponseDataProto update_combat_response_data = 5;
+		QuitCombatDataProto quit_combat_data = 6;
+		QuitCombatResponseDataProto quit_combat_response_data = 7;
+		WebSocketResponseDataProto web_socket_response_data = 8;
+		RpcErrorDataProto rpc_error_data = 9;
+		GetCombatPlayerProfileDataProto get_combat_player_profile_data = 10;
+		GetCombatPlayerProfileResponseDataProto get_combat_player_profile_response_data = 11;
+		GenerateCombatChallengeIdDataProto generate_combat_challenge_id_data = 12;
+		GenerateCombatChallengeIdResponseDataProto generate_combat_challenge_id_response_data = 13;
+		CreateCombatChallengeDataProto create_combat_challenge_data = 14;
+		CreateCombatChallengeResponseDataProto create_combat_challenge_response_data = 15;
+		OpenCombatChallengeDataProto open_combat_challenge_data = 16;
+		OpenCombatChallengeResponseDataProto open_combat_challenge_response_data = 17;
+		OpenNpcCombatSessionDataProto open_npc_combat_session_data = 18;
+		OpenNpcCombatSessionResponseDataProto open_npc_combat_session_response_data = 19;
+		AcceptCombatChallengeDataProto accept_combat_challenge_data = 20;
+		AcceptCombatChallengeResponseDataProto accept_combat_challenge_response_data = 21;
+		SubmitCombatChallengePokemonsDataProto submit_combat_challenge_pokemons_data = 22;
+		SubmitCombatChallengePokemonsResponseDataProto submit_combat_challenge_pokemons_response_data = 23;
+		DeclineCombatChallengeDataProto decline_combat_challenge_data = 24;
+		DeclineCombatChallengeResponseDataProto decline_combat_challenge_response_data = 25;
+		CancelCombatChallengeDataProto cancel_combat_challenge_data = 26;
+		CancelCombatChallengeResponseDataProto cancel_combat_challenge_response_data = 27;
+		GetCombatChallengeDataProto get_combat_challenge_data = 28;
+		GetCombatChallengeResponseDataProto get_combat_challenge_response_data = 29;
+		VsSeekerStartMatchmakingDataProto vs_seeker_start_matchmaking_data = 30;
+		VsSeekerStartMatchmakingResponseDataProto vs_seeker_start_matchmaking_response_data = 31;
+		GetMatchmakingStatusDataProto get_matchmaking_status_data = 32;
+		GetMatchmakingStatusResponseDataProto get_matchmaking_status_response_data = 33;
+		CancelMatchmakingDataProto cancel_matchmaking_data = 34;
+		CancelMatchmakingResponseDataProto cancel_matchmaking_response_data = 35;
+		SubmitCombatActionProto submit_combat_action = 36;
+		InvasionOpenCombatSessionDataProto invasion_open_combat_session_data = 37;
+		InvasionOpenCombatSessionResponseDataProto invasion_open_combat_session_response_data = 38;
+		InvasionBattleUpdateProto invasion_battle_update = 39;
+		InvasionBattleResponseUpdateProto invasion_battle_response_update = 40;
+		CombatIdMismatchDataProto combat_id_mismatch_data = 41;
+		LeagueIdMismatchDataProto league_id_mismatch_data = 42;
+		ChallengeIdMismatchDataProto challenge_id_mismatch_data = 43;
+		ProgressTokenDataV2 progress_token_data = 44;
+		OnApplicationFocusDataProto on_application_focus_data = 45;
+		OnApplicationPauseDataProto on_application_pause_data = 46;
+		OnApplicationQuitDataProto on_application_quit_data = 47;
+		ExceptionCaugthDataV2Proto exception_caught_data = 48;
+		CombatPubSubDataProto combat_pub_sub_data = 49;
+		CombatEndDataProto combat_end_data = 50;
+		CombatSyncServerDataProto combat_sync_server_data = 51;
+		CombatSyncServerResponseDataProto combat_sync_server_response_data = 52;
+	}
+
+	message MismatchState {
+		enum Type {
+			NO_TYPE = 0;
+			OPEN_COMBAT_SESSION = 1;
+			OPEN_COMBAT_SESSION_RESPONSE = 2;
+			UPDATE_COMBAT = 3;
+			UPDATE_COMBAT_RESPONSE = 4;
+			QUIT_COMBAT = 5;
+			QUIT_COMBAT_RESPONSE = 6;
+			WEB_SOCKET_RESPONSE = 7;
+			RPC_ERROR = 8;
+			GET_COMBAT_PLAYER_PROFILE = 9;
+			GET_COMBAT_PLAYER_PROFILE_RESPONSE = 10;
+			GENERATE_COMBAT_CHALLENGE_ID = 11;
+			GENERATE_COMBAT_CHALLENGE_ID_RESPONSE = 12;
+			CREATE_COMBAT_CHALLENGE = 13;
+			CREATE_COMBAT_CHALLENGE_RESPONSE = 14;
+			OPEN_COMBAT_CHALLENGE = 15;
+			OPEN_COMBAT_CHALLENGE_RESPONSE = 16;
+			OPEN_NPC_COMBAT_SESSION = 17;
+			OPEN_NPC_COMBAT_SESSION_RESPONSE = 18;
+			ACCEPT_COMBAT_CHALLENGE = 19;
+			ACCEPT_COMBAT_CHALLENGE_RESPONSE = 20;
+			SUBMIT_COMBAT_CHALLENGE_POKEMONS = 21;
+			SUBMIT_COMBAT_CHALLENGE_POKEMONS_RESPONSE = 22;
+			DECLINE_COMBAT_CHALLENGE = 23;
+			DECLINE_COMBAT_CHALLENGE_RESPONSE = 24;
+			CANCEL_COMBAT_CHALLENGE = 25;
+			CANCEL_COMBAT_CHALLENGE_RESPONSE = 26;
+			GET_COMBAT_CHALLENGE = 27;
+			GET_COMBAT_CHALLENGE_RESPONSE = 28;
+			VS_SEEKER_START_MATCHMAKING = 29;
+			VS_SEEKER_START_MATCHMAKING_RESPONSE = 30;
+			GET_MATCHMAKING_STATUS = 31;
+			GET_MATCHMAKING_STATUS_RESPONSE = 32;
+			CANCEL_MATCHMAKING = 33;
+			CANCEL_MATCHMAKING_RESPONSE = 34;
+			SUBMIT_COMBAT_ACTION = 35;
+			INVASION_OPEN_COMBAT_SESSION = 36;
+			INVASION_OPEN_COMBAT_SESSION_RESPONSE = 37;
+			INVASION_BATTLE_UPDATE = 38;
+			INVASION_BATTLE_UPDATE_RESPONSE = 39;
+			COMBAT_ID_MISMATCH = 40;
+			LEAGUE_ID_MISMATCH = 41;
+			CHALLENGE_ID_MISMATCH = 42;
+			PROGRESS_TOKEN = 43;
+			ON_APPLICATION_FOCUS = 44;
+			ON_APPLICATION_PAUSE = 45;
+			ON_APPLICATION_QUIT = 46;
+			EXCEPTION_CAUGHT = 47;
+			PUB_SUB_MESSAGE = 48;
+			PLAYER_END_COMBAT = 49;
+			COMBAT_SYNC_SERVER = 50;
+			COMBAT_SYNC_SERVER_RESPONSE = 51;
+		}
+
+		Type type = 1;
+		uint32 ob_uint32_1 = 2;
+		uint32 ob_uint32_2 = 3;
+		float ob_float = 4;
+	}
+
+	MismatchState state = 1;
+}

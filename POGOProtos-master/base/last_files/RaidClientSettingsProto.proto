@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "RaidLevel.proto";
+import "ObRaidClientSetting.proto";
 
 message RaidClientSettingsProto {
 	bool remote_raid_enabled = 1;
@@ -39,4 +40,6 @@ message RaidClientSettingsProto {
 	repeated RaidLevel unsupported_raid_levels_for_friend_invites = 13;
 	repeated RaidLevel unsupported_remote_raid_levels = 14;
 	bool is_nearby_raid_notification_disabled = 15;
+	repeated string ob_repeated_string = 16;
+	repeated ObRaidClientSetting ob_raid_client_setting = 17;
 }

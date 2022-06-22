@@ -30,6 +30,7 @@ message QuestDialogProto {
 		SPECIAL_GUEST_3 = 4;
 		SPECIAL_GUEST_4 = 5;
 		SPECIAL_GUEST_5 = 6;
+		SPECIAL_GUEST_RHI = 7;
 	}
 
 	enum CharacterExpression {
@@ -61,4 +62,5 @@ message QuestDialogProto {
 	repeated float character_offset = 5;
 	string text_background_color = 6;
 	string character_tint = 7;
+	string quest_music_override_key = 124;
 }

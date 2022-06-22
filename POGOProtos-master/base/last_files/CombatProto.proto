@@ -104,4 +104,7 @@ message CombatProto {
 	int64 quick_swap_cooldown_duration_ms = 13;
 	int64 state_change_delay_until_turn = 14;
 	ObCombatField ob_field = 15;
+	int32 ob_int32_1 = 16;
+	bool ob_bool = 17;
+	int32 ob_int32_2 = 18;
 }

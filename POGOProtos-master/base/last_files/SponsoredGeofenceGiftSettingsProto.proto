@@ -40,6 +40,7 @@ message SponsoredGeofenceGiftSettingsProto {
 		bool incident_balloon_dismisses_sponsored_balloon = 4;
 		int32 get_wasabi_ad_rpc_interval_ms = 5;
 		SponsoredBalloonMovementSettingsProto balloon_movement_settings = 6;
+		bool ob_bool = 7;
 	}
 
 	message SponsoredGeofenceGiftDetailsProto {

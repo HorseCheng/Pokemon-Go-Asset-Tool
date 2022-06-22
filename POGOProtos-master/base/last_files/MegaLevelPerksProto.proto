@@ -25,6 +25,6 @@ message MegaLevelPerksProto {
 	float mega_perk_attack_boost_from_mega_different_type = 1;
 	float mega_perk_attack_boost_from_mega_same_type = 2;
 	int32 mega_perk_active_mega_bonus_catch_candy = 3;
-	int32 mega_perk_xp_catch_bonus= 4;
+	int32 mega_perk_xp_catch_bonus = 4;
 	float mega_perk_xl_candy_bonus_chance = 5;
 }

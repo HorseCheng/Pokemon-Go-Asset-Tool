@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "PokemonProto.proto";
 import "EncounterType.proto";
+import "Item.proto";
 
 message QuestPokemonEncounterProto {
 	string quest_id = 1;
@@ -30,4 +31,5 @@ message QuestPokemonEncounterProto {
 	EncounterType encounter_type = 3;
 	bool is_hidden_ditto = 4;
 	PokemonProto ditto = 5;
+	Item poke_ball_override = 6;
 }

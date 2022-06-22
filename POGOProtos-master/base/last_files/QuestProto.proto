@@ -89,7 +89,7 @@ message QuestProto {
 
 	QuestType quest_type = 1;
 	WithSingleDayProto with_single_day = 98;
-	DaysWithARowQuestProto days_in_arow = 99;
+	DaysWithARowQuestProto days_in_a_row = 99;
 	string quest_id = 100;
 	int64 quest_seed = 101;
 	Context quest_context = 102;

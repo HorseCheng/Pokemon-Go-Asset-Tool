@@ -109,6 +109,7 @@ import "TutorialTelemetry.proto";
 import "PostcardBookTelemetry.proto";
 import "SocialInboxLatencyTelemetry.proto";
 import "HomeWidgetTelemetry.proto";
+import "PokemonLoadDelay.proto";
 import "ServerData.proto";
 import "CommonFilterProto.proto";
 
@@ -202,6 +203,7 @@ message HoloholoClientTelemetryOmniProto {
 		PostcardBookTelemetry postcard_book_telemetry = 86;
 		SocialInboxLatencyTelemetry social_inbox_telemetry = 87;
 		HomeWidgetTelemetry home_widget_telemetry = 93;
+		PokemonLoadDelay pokemon_load_delay = 94;
 	}
 
 	ServerData server_data = 1001;

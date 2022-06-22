@@ -125,10 +125,6 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0365"] = "Luster Purge"
-chimovedict["0365"] = "潔淨光芒"
-engmovedict["0366"] = "Mist Ball"
-chimovedict["0366"] = "薄霧球"
 engmovedict["0368"] = "Rollout"
 chimovedict["0368"] = "滾動"
 engmovedict["0369"] = "Seed Flare"
@@ -235,6 +231,7 @@ class pokemon():
     def megahandle(self, inn, num):
         test=inn.get("tempEvoOverrides")
         if test== None: return None
+        if inn.get("evolutionBranch")==None: return None
         if num==2: 
             if len(test)==1: return None
         test=test[num-1]

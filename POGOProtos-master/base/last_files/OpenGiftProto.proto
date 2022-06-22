@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message OpenGiftProto {
 	string player_id = 1;
 	uint64 giftbox_id = 2;
+	bool convert_to_stardust = 3;
 }

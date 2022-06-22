@@ -22,6 +22,7 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AppliedItemProto.proto";
+import "LootProto.proto";
 
 message UseIncenseActionOutProto {
 	enum Result {
@@ -30,8 +31,10 @@ message UseIncenseActionOutProto {
 		INCENSE_ALREADY_ACTIVE = 2;
 		NONE_IN_INVENTORY = 3;
 		LOCATION_UNSET = 4;
+		INCENSE_DISABLED = 5;
 	}
 
 	Result result = 1;
 	AppliedItemProto applied_incense = 2;
+	LootProto ob_loot = 3;
 }

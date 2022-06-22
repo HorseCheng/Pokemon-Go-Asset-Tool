@@ -51,4 +51,5 @@ message QuestDisplayProto {
 	string prop_name = 23;
 	string quest_branch_choice_view_header_background_color = 24;
 	string quest_branch_choice_view_bottom_gradient_color = 25;
+	int32 sort_order = 26;
 }

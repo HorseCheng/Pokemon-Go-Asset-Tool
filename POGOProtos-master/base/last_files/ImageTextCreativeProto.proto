@@ -28,4 +28,5 @@ message ImageTextCreativeProto {
 	string preview_image_url = 4;
 	string fullscreen_image_url = 5;
 	string cta_link = 6;
+	string web_ar_url = 7;
 }

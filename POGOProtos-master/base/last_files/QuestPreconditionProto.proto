@@ -33,10 +33,10 @@ message QuestPreconditionProto {
 		MonthYearBucket month_year_bucket = 6;
 		Group group = 7;
 		StorylineProgressConditionProto story_line = 8;
-		Team team = 9;
+		TeamProto team = 9;
 	}
 
-	message Team {
+	message TeamProto {
 		Operator operator = 1;
 		Team team = 2;
 	}

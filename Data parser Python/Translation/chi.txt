@@ -6,9 +6,49 @@
 Pokémon GO Tour：關都地區
 全球 2021年2月20日
 Pokémon GO Tour：關都地區
+塞維亞，2022年
+Pokémon GO Safari Zone
+塞維亞，2022年
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月13日
+Pokémon GO Safari Zone
+塞維亞，2022年5月13日
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月14日
+Pokémon GO Safari Zone
+塞維亞，2022年5月14日
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月15日
+Pokémon GO Safari Zone
+塞維亞，2022年5月15日
+Pokémon GO Safari Zone - 提前入場
 厲害！看來你捉到 {1} 屬性的 {0} 了！
 使出招式時記得要選擇能剋住對手的屬性！
 使出招式時記得要選擇能剋住對手的屬性！
+和我一起飛：收藏家挑戰
+更多太陽珊瑚和穿著Kariyushi的皮卡丘將在地圖上出現
+飛翔皮卡丘將出現在地圖上
+嗨，%PLAYERNAME%！你不覺得這地方很美嗎？
+我一直很想要休個長假…你也知道我們一直在做研究，不過有時候也是要休個假的，你說是吧？
+不過休假的時候有隻寶可夢陪你更好！
+你就跟你的夥伴去探索一下這個地區吧！
+我一直認為旅行時最重要的就是品嘗當地的美食，我想我的美錄坦一定會同意！
+牠有一次差點把露營地的金屬溶解然後吃掉……你也知道牠的特性是讓液體金屬在體內循環來製造能量。
+不過反正煮咖哩的時候也不用蓋蓋子，所以蓋子溶掉也沒關係啦，哈哈哈…
+不過說到美食，我的肚子也餓了。我想這裡的寶可夢也會想要吃些點心，你去餵牠們吃點樹果吧？
+%PLAYERNAME%，你有注意的這附近有很多飛行屬性的寶可夢嗎？
+我覺得牠們飛得比平常還要自由自在啊……
+你覺得這些飛行屬性的寶可夢為什麼會聚集在這裡呢？我知道我們在休假，但你可以去幫我捉一些寶可夢嗎？
+%PLAYERNAME%，你回來啦！謝謝你幫我捉了這麼多寶可夢回來！
+對了，你有寄明信片給你的朋友嗎？記得寄幾張明信片給朋友，讓他們看看這邊的風景。
+……美錄坦又想對我的工具出手了……美、美錄坦，拜託你，這個不行！！千萬不要！！這裡還有很多金屬啊……
+很好，你的散步一切順利嗎？
+是說我在觀察飛行屬性寶可夢的時候，發現在天空飛翔的皮卡丘跟特別衣服的皮卡丘！
+牠看起來超愉快的！
+記得多去捉些寶可夢、和你的朋友多多交流。今天也謝謝你幫我一起做調查，下次也請你多多幫忙囉！
+拍攝1張有拉帝亞斯驚喜現身的GO Snapshot照片
+拍攝1張有拉帝歐斯驚喜現身的GO Snapshot照片
+將有寶可夢GO Snapshot中驚喜現身
 從聯絡人一覽表中追加朋友
 你認識的人開始玩Pokémon GO囉！傳送朋友申請給他吧！
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
@@ -33,7 +73,7 @@ https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=fr
 授權
 關於 Pokémon GO
 服務條款
-接受
+同意
 收到1件朋友申請
 看看哪些朋友在玩遊戲吧！你隨時都可以在朋友一覽表中關閉此功能
 朋友狀態
@@ -54,7 +94,7 @@ Thank you for your contribution! Your feedback has been submitted for review.
 I want more from this category
 我想要更多贊助商禮物
 其他
-I want more from this advertiser
+我想接收更多來自此廣告商的訊息
 We care about your Pokémon GO experience and appreciate your feedback. <b><a href="https://www.nianticlabs.com">Learn more</a></b>.
 Tell Us About This Ad
 Not Interested in This Ad
@@ -63,7 +103,7 @@ See More Ads Like This
 It’s not relevant to me
 I see it too often
 Please explain in less than 300 characters.
-向 {0} 傳送朋友申請
+要向 {0} 傳送朋友申請嗎？
 朋友之間可以相互確認彼此的個人檔案及最近捕捉到的寶可夢。當你傳送友情禮物或跟朋友交換寶可夢時，他可能會知道你的所在位置。
 在這個遊戲中新增朋友會在你們都有遊玩的所有Niantic遊戲中新增對方為朋友。
 你尚未接受此訓練家傳來的朋友申請。若要在遊戲中領取獎勵，請先接受此朋友申請。如果你還有其他推薦代碼的話，可以繼續輸入。
@@ -89,74 +129,74 @@ Please explain in less than 300 characters.
 新增貼圖
 會和朋友分享的內容
 此暱稱無法使用，請重新輸入
-If you choose to discard these changes, this action cannot be undone.
-Are you sure you want cancel making changes to your performance settings?
-Your game experience may vary after you change your performance settings. If you choose to save your changes, your game will be restarted.
-Your game experience may vary after you change your performance settings.
-Are you sure you want to save these changes to your performance settings?
+如果你選擇放棄這些設定，之後將無法復原。
+確定要放棄剛剛完成的設定嗎？
+調整效能設定後將有可能改變遊戲體驗。如果你選擇儲存變更，遊戲將會重新啟動。
+遊戲體驗可能會因效能設定的調整而改變。
+確定要儲存效能設定的變更嗎？
 返回
-{0}-performance mode is not compatible with this device.
-CANCEL CHANGES
-Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.You’ll need to restart the game to implement any changes.
-Performance
-No changes have been made to your performance settings.
-No changes have been made to your performance settings.
-PERFORMANCE
-(Recommended)
-SAVE
-SAVE CHANGES
-This device’s native refresh rate is not compatible with smoother gameplay.
-Enable Native Refresh Rate
-Better graphics
-This device is not compatible with the high-performance setting.
-Power saving
-Best graphics and smooth performance
-This device is not compatible with the max-performance setting.
-Moderate quality and performance
-This device is not compatible with the medium-performance setting.
-NATIVE REFRESH RATE
-解鎖此裝置的最高更新頻率， 以提升畫面更新率。
-This device’s native refresh rate is not compatible with smoother gameplay.
-Are you sure you want the game to automatically select your performance settings?
-AUTO-SELECT
-This selection will automatically adjust your performance settings based on your device. This action cannot be undone.
-Auto-Select Performance
-Your performance settings have been automatically adjusted based on your device.
-Avatar Details
-Affects the resolution of your avatar and Trainer profiles in your Friend List.
-This device is not compatible with the max-performance setting.
-This device is not compatible.
-Better graphics
-Download Image RAM Cache
-32 MB
-16 MB
-1 MB
-Determines the amount of device memory allotted to game resources. Affects how long images take to load.
-Power saving
-Map Details
-Improved map draw distance and scale, reduced fog, and better visibility of Gyms, sky, and buildings.
-Best graphics and smooth performance
-Moderate graphics and performance
+此裝置無法設定{0}效能
+取消設定
+你可以依裝置規格來調整設定以優化電池效能。變更設定後需重新啟動裝置。
+效能
+未更改任何效能設定
+未更改任何效能設定
+效能
+(推薦)
+儲存
+儲存設定
+此裝置的最高更新頻率無法對應流暢的動作。
+啟用最高更新頻率
+良好畫質
+此裝置無法對應高效能
+省電模式
+最高畫質及效能
+此裝置無法對應最高效能
+一般畫質及效能
+此裝置無法對應中效能
 最高更新頻率
-This device’s native refresh rate does not enable smoother visuals.
-Affects how smooth and responsive the game looks in motion.
-You’re already using the recommended performance settings.
-Performance Preset
-Performance presets allow you to adjust multiple options at once.
-Quality preset has been updated to
-Highest Quality
-Balanced
-Power Saving
-Render and Texture
-Affects the loading and resolution of images.
-Set to
-Your performance settings have been automatically selected based on your device.
-PERFORMANCE PRESETS
-Custom
-High
-Low
-Max
-Medium
+解鎖此裝置的最高更新頻率， 以提升畫面更新率。
+此裝置的最高更新頻率無法對應流暢的動作。
+確定要自動設定效能嗎？
+自動設定
+若選擇自動設定，系統將會自動選用最適合此裝置的效能設定。
+效能自動設定
+已依裝置規格進行效能設定。
+虛擬人偶
+影響朋友名單中虛擬人偶及個人檔案的影像畫質
+此裝置無法對應最高效能
+不支援此裝置
+良好畫質
+下載圖片RAM快取
+32MB
+16MB
+1MB
+決定讀取圖片時需耗費的記憶體容量。
+省電模式
+地圖詳細設定
+改善地圖上描繪的距離、比例、減少霧氣，並提升道館、建築物及天空的畫質。
+最高畫質及效能
+一般畫質及效能
+最高更新頻率
+此裝置的最高更新頻率無法對應更流暢的動作。
+適合此裝置的較高圖框率。圖框率將影響畫質及畫面的反應速度。
+目前設定為推薦使用的效能設定
+效能預設值
+你可以在效能預設值中同時調整複數個設定
+已更新預設值：
+最高畫質
+平均值
+省電模式
+演繹與質感
+影響畫面的描繪及解析度
+設定：
+已依裝置規格進行效能設定。
+效能預設值
+自訂
+高
+低
+最高
+中
 刪除帳號
 刪除Pokémon GO帳號後，你或任何人都無法開啟這個帳號。帳號刪除後無法被救回。
 請從「設定」再試一次
@@ -172,6 +212,12 @@ Medium
 2022愚人節
 哦？
 請輸入你的出生年月日
+飛翔皮卡丘計畫@沖繩
+飛翔皮卡丘計畫@沖繩 (1/5)
+飛翔皮卡丘計畫@沖繩 (2/5)
+飛翔皮卡丘計畫@沖繩 (3/5)
+飛翔皮卡丘計畫@沖繩 (4/5)
+飛翔皮卡丘計畫@沖繩 (5/5)
 歡迎來到阿羅拉
 阿羅拉的樣子
 五週年收藏
@@ -282,9 +328,9 @@ Niantic AR Platform（試用版）
 {0} / {1} MB
 (下載檔案：{0} MB)
 正在下載Niantic AR Platform……
-成功！歡迎使用AR共享時光功能！
+成功！
 Niantic將會在你使用AR功能時處理透過照相機取得的地理空間資訊。{0}。
-詳細資訊
+更多關於道館徽章的情報
 請在通訊良好的環境下再試一次
 下載失敗
 Niantic AR Platform下載成功
@@ -306,6 +352,11 @@ Niantic AR Platform下載成功
 要打就快啦！我沒時間理你！
 要打就快啦！我沒時間理你！
 要打就快啦！我沒時間理你！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
+嘖……我下次一定要讓你和坎迪拉好看！
 怎麼又是你？你不煩我都煩了！
 怎麼又是你？你不煩我都煩了！
 怎麼又是你？你不煩我都煩了！
@@ -504,6 +555,7 @@ GO Tour 綠版棒球帽
 GO Tour 紅版棒球帽
 針織帽
 可爾妮 安全帽
+潑水節頭巾
 調查組頭巾
 燭光靈帽
 珍珠耳環
@@ -971,6 +1023,7 @@ The North Face x Gucci 帽子
 GO Tour 綠版棒球帽
 GO Tour 紅版棒球帽
 可爾妮 安全帽
+潑水節頭巾
 調查組帽
 燭光靈帽
 珍珠耳環
@@ -1445,6 +1498,10 @@ Pokémon GO
 合作夥伴特別調查：壽司郎
 阿羅拉的季節--合作夥伴特別調查：吉野家
 合作夥伴特別調查：吉野家
+飛翔皮卡丘計畫@沖繩
+飛翔皮卡丘計畫 2022
+飛翔皮卡丘計畫@沖繩
+飛翔皮卡丘計畫 2022
 2021年5月：吉野家
 讓 {0} 隻寶可夢進化
 研究員
@@ -1621,9 +1678,9 @@ N0
 野餐女孩
 淨化 {0} 隻暗影寶可夢
 淨化者
-Scan {0} Pokéstop and Gym.
-Scan 1 Pokéstop or Gym.
-Scanner
+掃描 {0} 個寶可補給站和道館
+掃描1個寶可補給站.
+掃描者
 拜訪 {0} 個寶可補給站
 背包客
 N0
@@ -1724,6 +1781,22 @@ Pokémon GO Safari Zone - 提前入場
 Pokémon GO Safari Zone
 9am - 5pm
 11am - 5pm
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年
+Pokémon GO Safari Zone
+塞維亞，2022年
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月13日
+Pokémon GO Safari Zone
+塞維亞，2022年5月13日
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月14日
+Pokémon GO Safari Zone
+塞維亞，2022年5月14日
+Pokémon GO Safari Zone - 提前入場
+塞維亞，2022年5月15日
+Pokémon GO Safari Zone
+塞維亞，2022年5月15日
 2019年4月18日 聖淘沙
 Pokémon GO Safari Zone
 2019年4月19日 聖淘沙
@@ -2690,6 +2763,14 @@ https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 這裡找不到他們的蹤跡，不過我的報告顯示確實還有其他的藏身之處。讓我們去其他地方看看。
 沒有訊號……我知道了！或許今天他們的行動已經結束了。讓我們明天再試試看。
 等早上再看看吧。我想他們短暫時間內是不會現身的。
+捕獲寶可夢時的糖果加倍
+捕捉童偶熊時獲得糖果XL的機率加倍
+捕獲寶可夢時的XP增為3倍
+捕獲寶可夢時的XP增為4倍
+用誘餌模組捕捉的寶可夢超過特定數量後的30分鐘內，在該誘餌模組附近捕捉寶可夢將可獲得4倍XP獎勵。
+獎勵解鎖！
+薰香時間延長為3小時
+誘餌模組效果延長為3小時
 加成里程碑獎勵
 +捕獲寶可夢時可獲得100星星沙子
 捕獲寶可夢時的XP +100
@@ -2711,6 +2792,8 @@ https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 投出Nice、Great、Excellent和曲球時的XP增為5倍
 孵蛋所需的行走距離減為1/2
 孵蛋所需的行走距離減為1/4
+在活動結束兩小時後的最後期限前，可多進行一次特殊交換
+在活動結束兩小時後的最後期限前，交換所需的星星沙子減半
 捉到毽子花時可獲得更多毽子草的糖果XL
 超級暴雪王變得更加強大！
 超級阿勃梭魯變得更加強大！
@@ -2748,6 +2831,12 @@ LOADING...
 讓沙奈朵加入，你就能遇見戴著帽子的特別沙奈朵！
 選擇沙奈朵！
 沙奈朵
+若選擇妙蛙花，你將能獲得妙蛙花超級能量並遇見妙蛙花！
+選擇妙蛙花！
+若選擇噴火龍，你將能獲得噴火龍超級能量並遇見噴火龍！
+選擇噴火龍！
+若選擇水箭龜，你將能獲得水箭龜超級能量並遇見水箭龜！
+選擇水箭龜！
 讓伽勒爾小火馬加入你的band，就能遇見戴著帽子的特別伽勒爾小火馬！
 選擇伽勒爾小火馬！
 小火馬
@@ -2914,7 +3003,7 @@ GO
 設定
 來自 {0} 的紀念品
 今天的活動紀錄
-總活動紀錄
+活動紀錄
 無法在寶可夢跟在身後時使用快速餵食
 夥伴
 很多訓練家習慣帶著一塊海邊的玻璃在身上當幸運符。也因此，有些寶可夢會收集這些玻璃碎片去送給牠們最喜歡的訓練家。
@@ -2994,7 +3083,7 @@ GO
 CP加成
 餵牠吃點心餵到上面的圓形計量表填滿為止吧。
 夥伴想和你一起去冒險！
-和夥伴一起冒險！
+夥伴想和你一起去冒險！
 當你的夥伴肚子餓了，牠就不會跟在你身後走路。你可以用左下方的圓形計量表來查看夥伴現在餓不餓。
 點擊此處來餵夥伴吃點心吧！
 帶著夥伴一起去冒險吧！
@@ -3009,15 +3098,13 @@ CP加成
 點擊 {0} 來餵夥伴吃點心。吃了幾個點心之後，牠就會和你一起去冒險。
 稍後再說
 夥伴趴趴走模式
-拜訪新地點
+拜訪沒去過的地方
 和你的夥伴一起走路吧！
 帶夥伴去散步時可獲得更多糖果XL
 {0} 找到1顆糖果！
 {0} 找到1顆糖果XL！
 一起走路
 和夥伴作伴！
-開啟時時刻刻冒險後，即便沒有啟動遊戲，也能追蹤夥伴的心心。
-時時刻刻冒險：夥伴
 夥伴比較容易變得欣喜若狂
 正在使用中
 目前無法再次使用此道具，請稍後再試一次。
@@ -3062,6 +3149,7 @@ Safari Zone禮盒
 冒險禮盒
 超級禮盒
 特別禮盒
+轉推禮盒
 請收下這些道具，繼續訓練寶可夢們吧！
 原訂於 {0} {1} 在 {2} 舉辦的VIP團體戰已取消
 已取消的VIP團體戰入場券
@@ -3231,7 +3319,7 @@ Safari Zone禮盒
 為水屬性的寶可夢拍攝1張GO Snapshot照片
 嘿，你的暱稱看起來不太OK。可以請你再選一個嗎？
 變更貼圖
-This will change the game’s language setting to {0}. Do you want to restart the game to apply this setting?
+遊戲語言設定將會變更為{0}。確定要重新啟動遊戲並啟用此設定嗎？
 變更代碼
 確定要變更自己的訓練家代碼嗎？代碼變更後，目前的朋友名單並不會受到影響，但你將無法使用變更前的訓練家代碼接收朋友申請。
 變更自己的訓練家代碼
@@ -3671,6 +3759,10 @@ GO火箭隊幹部
 要解鎖這個聯盟，就必須捕捉CP更高的寶可夢！
 對戰開始！
 等一下
+感謝你和Niantic分享遊戲紀錄。你的遊戲紀錄將被用來改善遊戲。若你希望針對相關問題做進一步詢問，請和我們的客服聯絡並附上遊戲紀錄。
+如果你最後一場對場發生了什麼問題，你可以將遊戲紀錄上傳和Niantic分享。
+完成上傳！
+上傳遊戲紀錄
 接受
 拒絕
 {0} 想和你對戰！
@@ -3770,6 +3862,7 @@ GO火箭隊幹部
 社群日：小貓怪
 社群日：藤藤蛇
 社群日：海豹球
+社群日：童偶熊
 社群日：青綿鳥
 社群日：暖暖豬
 社群日：獨角蟲
@@ -3803,7 +3896,7 @@ d
 龍螺旋之塔尋謎
 Día de Muertos 2021：收藏家挑戰
 十二月社群日入場券
-拒絕
+不同意
 確定要刪除這個朋友申請嗎？
 刪除此朋友申請後，對方將再也無法傳送朋友申請給你
 若拒絕參加，此邀請函將立即失效
@@ -3879,6 +3972,7 @@ OK
 不能指派相同種類的寶可夢到道館
 不能將幻之寶可夢指派至道館
 不使用時時刻刻冒險
+夥伴獲得的心心加倍
 急速上昇：龍屬性
 端午節
 永續發展週2022收藏家挑戰
@@ -3906,7 +4000,6 @@ OK
 活動主題5公里蛋
 活動主題7公里蛋
 活動主題蛋
-在背景模式中執行Pokémon GO時，可透過「時時刻刻冒險」模式來確認蛋的孵化進度
 時時刻刻冒險：蛋
 全民找蛋大作戰
 急速上昇：電屬性
@@ -4427,6 +4520,7 @@ Facebook朋友未開啟此功能，無法傳送朋友申請
 光之祭典
 更多斑斑馬和咚咚鼠出現在地圖上
 活動主題田野調查
+可在特定寶可補給站及道館中領取特別的田野調查課題
 感謝你來參加Pokémon GO的測試！我們很快就會再見面的！
 急速上昇：格鬥屬性
 展開
@@ -4492,6 +4586,7 @@ VIP團體戰
 異色
 交換
 急速上昇：火屬性
+旋轉當天第一個道館或寶可補給站轉盤時的XP增為3倍
 等會再說
 好，打開照相機！
 使用AR前請先確認四周安全，不要讓小朋友離開你的視線
@@ -4704,11 +4799,11 @@ Noice Face
 輕盈輕盈風格
 起源形態
 陰天形態
-Pa'u Style
+呼拉呼拉風格
 Phony Form
 舞步形態
 草木蓑衣
-Pom-Pom Style
+啪滋啪滋風格
 Primal Reversion
 普通尺寸
 大尺寸
@@ -4725,7 +4820,7 @@ Regular Form
 清洗洛托姆
 砂土蓑衣
 School Form
-Sensu Style
+輕盈輕盈風格
 陸上形態
 天空形態
 異色阿爾宙斯
@@ -4865,7 +4960,7 @@ Friendship levels increase more quickly
 和 {0} 的友誼等級提升了！
 友誼等級上升
 友誼週末
-名字
+名稱
 友情禮物
 可送禮物
 最近的活動
@@ -4878,6 +4973,8 @@ ONLINE
 看起來這些零件可以組裝在一起！
 盒子已滿
 可將多麗米亞修剪成心形造型
+每週探索挑戰
+Walk around the World
 伽勒爾的樣子
 在團體戰中捕捉到的艾路雷朵和沙奈朵將學會同步干擾
 讓奇魯莉安進化成沙奈朵或艾路雷朵，牠將能學會「同步干擾」
@@ -4998,6 +5095,8 @@ XXL
 XXS
 Yes
 特別獎勵
+如何分享遊戲紀錄
+結束
 系統偵測到違反服務條款的行為，故已將此帳號停權。請至<a href="three_strike_policy_url">常見問題</a>確認詳細資訊。
 掃描 {0}
 規劃路徑
@@ -5183,6 +5282,8 @@ Pokémon GO Fest 2021 Day 2: 團體戰！
 目前團體戰：風起時刻！
 為美洛耶塔拍攝1張照片
 歡迎加入Pokémon GO Fest 2021！
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年6月4日、5日的10:00～18:00參加遊戲裡的Pokémon GO Fest。除此之外, 你還可以參加八月底的閉幕活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
+Pokémon GO Fest 2022 入場券
 GO Fest 2021：歡騰喧鬧
 GO Fest 2021：歡天喜地
 GO Fest 2021：時尚尖端
@@ -5984,9 +6085,10 @@ GO FEST
 孵蛋時可獲得的星星沙子加倍
 孵蛋的XP加倍
 孵蛋的XP增為3倍
-https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614900279
+https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=friend-list-friendship-levels-1614899618
 https://niantic.helpshift.com/a/pokemon-go/
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
+https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
 洗翠的樣子
 豐緣收藏家挑戰
 豐緣活動
@@ -6168,10 +6270,9 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 入場券
 只要擁有這張入場券，不論你身在何處，都能在當地時間2022年1月22日14:00～17:00獲得特殊調查的課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2022年1月22日活動時間內領取特殊調查。
-只要擁有這張入場券，不論你身在何處，都能在當地時間2022年4月10日14:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間11月21日11:00～17:00獲得特殊調查的課題。
 只要擁有這張入場券，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00挑戰特殊調查。
-入場券將會自動啟用，不論你在何處都能在當地時間2022年4月10日活動時間內領取特殊調查。
+入場券將會自動啟用，不論你在何處都能在當地時間2022年4月23日活動時間內領取特殊調查。
 入場券將會自動啟用。不論你身在何處，都可以在當地時間11月21日的活動時間內領取到特殊調查課題。
 入場券將會自動啟用，不論你在何處都能在當地時間2020年12月19日10:00～2020年12月20日20:00領取「踢、踢、踢踏踢……」特殊調查。
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年10月9日11:00～17:00獲得特殊調查的課題。
@@ -6184,7 +6285,6 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 入場券將會自動啟用，不論你在何處都能在當地時間2021年6月6日活動時間內領取特殊調查。
 無論你身在何處，都可以用這張入場券來領取特殊調查「解放惡作劇」。
 這張入場券將會自動啟用，無論你身在世界上的任何地方，都能參加「解放惡作劇」特別調查。詳情請至遊戲內快訊及官方部落格確認。
-入場券
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年9月19日11:00～17:00獲得特殊調查的課題。
 入場券將會自動啟動。不論你身在何處，都可以在當地時間2021年9月19日的活動時間內領取特殊調查課題。
 只要擁有這張入場券，不論你身在何處，都能在當地時間2021年2月7日11:00～17:00獲得特殊調查的課題。
@@ -6207,8 +6307,8 @@ Pokémon GO需要讀取「活動記錄」來測量步行距離，藉以孵蛋、
 合眾之石
 你可以用這個來追蹤GO火箭隊總部。或許GO火箭隊老大就在那裡！
 超級火箭隊雷達
-不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年2月26日的9:00～21:00參加遊戲裡的「Pokémon GO Tour：城都」活動。
-入場券將會自動啟用，不論你在何處都能在當地時間2021年7月17-18日10:00～18:00參加Pokémon GO Fest。
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年6月4日、5日的10:00～18:00參加遊戲裡的Pokémon GO Fest。
+不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年6月4日、5日的10:00～18:00參加遊戲裡的Pokémon GO Fest。除此之外, 你還可以參加八月底的閉幕活動。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 這張入場券將會自動啟用。你可以使用這張入場券來參加當地時間2022年2月26日的活動。參加活動前，請選擇遊戲版本。你可以考慮和朋友分別選擇不同的版本，讓「收藏家挑戰」更容易完成。
 這張入場券將會自動啟用。你可以使用這張入場券來參加當地時間2022年2月26日的活動。你可以在個人檔案畫面的獎牌一覽中確認自己選擇的版本。
 入場券
@@ -7182,10 +7282,11 @@ Google
 農曆新年：捕捉大挑戰
 農曆新年
 農曆新年：友誼大挑戰
-薰香效果延長為1小時
+誘餌模組效果延長為6小時
+誘餌模組效果延長為1小時
 誘餌模組效果延長
 誘餌模組效果延長為90分鐘
-薰香效果延長為3小時
+誘餌模組效果延長為3小時
 雨露誘餌模組將吸引活動寶可夢
 誘餌模組將吸引活動寶可夢出現
 散發寒氣的誘餌模組，效果將持續30分鐘。可吸引喜愛寒氣的寶可夢，也可以讓特定寶可夢進化。
@@ -7394,7 +7495,7 @@ CP {0} → <color=#2ECDA8>{1}</color>
 讓{0}再進行{1}次超級進化就能升上{2}！
 確認
 確定要傳送這隻已提升過超級等級的寶可夢嗎？
-Mega Evolution temporarily changes a Pokémon’s appearance and increases its strength. Mega-Evolved Pokémon can be used in Gyms, raids, and Trainer Battles.You can use only one Mega-Evolved Pokémon at a time.
+超級進化會讓寶可夢的外表暫時有所變化，而且變得更加強大。你可以派牠去參加道館對戰、團體戰和訓練家對戰。請注意，你一次只能讓1隻寶可夢超級進化。
 超級進化！
 • 讓寶可夢超級進化時毋需使用超級能量。• 在寶可夢休息時仍可使用超級能量讓牠超級進化。• 新增特別獎勵，當寶可夢超級進化的次數越多，你將能收到強化你與寶可夢之間羈絆的獎勵。在寶可夢超級進化後，你需要等一段時間才能讓牠再次進行免超級能量的超級進化。當然，你也可以在等待時間結束前使用超級能量來讓寶可夢超級進化。
 超級進化詳細介紹
@@ -7432,8 +7533,9 @@ Mega Evolution temporarily changes a Pokémon’s appearance and increases its s
 超級團體戰場次增加
 速度
 {0}屬性攻擊的威力上升！
+超級時刻
 步行進度
-Built at 2022-05-04T18:32:39.250279at SHA 5e5782b523a4b26e21db7f8dc8f8df7c944a7b7ePipeline 895183, job 9717167
+Built at 2022-06-07T08:08:50.687450at SHA 9d26dbfdf37de748f43a908720177b9974696160Pipeline 931479, job 10243745
 里程碑獎勵
 春季活動：2021收藏家挑戰
 友誼日收藏家挑戰
@@ -7464,7 +7566,7 @@ M/dd/yyyy
 收藏家挑戰進度！
 m
 {0}分{1}秒
-Mobile Games Show: Catch Challenge
+Mobile Games Show: 捕捉大挑戰
 Mobile Games Show: Throw Challenge
 使用實境融合前請開啟Niantic AR
 關閉Niantic AR後，實境融合功能也會被關閉。
@@ -7780,6 +7882,8 @@ Mobile Games Show: Throw Challenge
 神聖之火+
 神聖之火++
 雜技
+潔淨光芒
+薄霧球
 {0}會忘記{1}
 {0} 會忘記
 {0} 學會新招式了！
@@ -7917,9 +8021,7 @@ Other Niantic Games to Try
 Niantic Social has arrived! With this new social feature, you can now do the following.
 設定暱稱
 請再次將Nintendo Account連結至Pokémon GO。
-沒有夥伴
 無上限
-沒有蛋
 
 邀請朋友一起參加全球大挑戰吧！
 查看朋友名單
@@ -7934,7 +8036,7 @@ Niantic Social has arrived! With this new social feature, you can now do the fol
 n/a
 無法變更該明信片
 效果不太好……
-現在
+Now
 正在參加此挑戰：
 允許和其他裝置配對
 已開啟實境融合
@@ -7946,6 +8048,8 @@ n/a
 此功能可以讓開啟AR模式時的寶可夢躲到物體後面，讓牠們更加融入現實世界中。你隨時都可以點擊「實境融合」按鍵來開啟此功能。
 此功能可以讓開啟AR模式時的寶可夢躲到物體後面，讓牠們更加融入現實世界中。你隨時都可以點擊「實境融合」按鍵來關閉此功能。
 實境融合
+「老朋友，新冒險」限時調查
+老朋友，新冒險
 同意
 真的不同意嗎？
 恭喜！你捉到你的第一隻寶可夢了！
@@ -8013,7 +8117,7 @@ Pokémon GO 服務條款
 查看研究內容
 兌換代碼時發生錯誤
 未能在時間內兌換代碼，請確認網路狀態並再試一次。
-Your performance settings were successfully updated!
+成功更新效能設定！
 正在開啟藍牙功能…
 尚未開啟藍牙
 此行動裝置不支援Bluetooth Smart
@@ -8082,6 +8186,7 @@ Pokémon GO Plus 的配對已被解除
 小貓怪將在GO Snapshot中驚喜現身5次
 藤藤蛇將在GO Snapshot中驚喜現身5次
 海豹球在GO Snapshot中驚喜現身5次
+童偶熊將在GO Snapshot中驚喜現身5次
 青綿鳥將在GO Snapshot中驚喜現身5次
 暖暖豬將在GO Snapshot中驚喜現身5次
 獨角蟲將在GO Snapshot中驚喜現身5次
@@ -8104,7 +8209,7 @@ Pokémon GO STADIUM
 和 {0} 及其他 {1} 位訓練家成為朋友了！
 收到來自 {0} 和其他 {1} 位訓練家的朋友申請了！
 {0} 和其他 {1} 位朋友打開你的友情禮物了！
-{0} 、 {1} 還有其他朋友儲存了你的明信片！
+{0}和其他 {1} 幾位朋友儲存了你的明信片！
 收到來自 {0} 和其他 {1} 位朋友的友情禮物了！
 這是寶可夢超級喜歡的點心！只要餵夥伴吃這個點心，牠就會開心地陪你一起去冒險，而且跟在你身後走路的時間也會變長。
 寶芬 × 3
@@ -8406,7 +8511,7 @@ https://niantic.helpshift.com/a/wayfarer/?p=web&s=wayspot-eligibility
 進化
 身高：
 ？？？
-亮晶晶寶可夢：
+亮晶晶:
 已淨化：
 已找到：
 屬性：
@@ -11676,6 +11781,8 @@ Let's Go：孵 {0} 顆蛋
 捕捉 {0} 隻草、水或火屬性的寶可夢
 捕捉飄飄球時使用 {0} 個樹果
 捕捉飄飄球時使用 {0} 個蕉香果
+用 {0} 顆凰梨果來幫忙捕捉寶可夢
+用 {0} 顆蔓莓果來幫忙捕捉寶可夢
 捕捉飄飄球時使用 {0} 個蔓莓果
 捕捉 {0} 隻飛行、超能力或惡屬性的寶可夢
 捕捉 {0} 隻草屬性或超能力屬性的寶可夢
@@ -11695,6 +11802,7 @@ Let's Go：孵 {0} 顆蛋
 捕捉 {0} 隻月石
 捕捉 {0} 隻愛心魚
 捕捉 {0} 隻一般、水或冰屬性的寶可夢
+捕捉 {0} 隻皮卡丘
 捕捉 {0} 種不同的寶可夢
 捕捉 {0} 隻寶可夢
 捕捉1隻寶可夢
@@ -11776,6 +11884,10 @@ Tokyo eSports 2020：捕捉 {0} 隻名單上的寶可夢
 捕捉 {0} 隻南瓜精
 捕捉 {0} 隻熔岩蟲或溶食獸
 捕捉 {0} 隻霹靂電球
+用 {0} 顆凰梨果來幫忙捕捉寶可夢
+捕捉寶可夢時使用1顆凰梨果
+用 {0} 顆蔓莓果來幫忙捕捉寶可夢
+捕捉寶可夢時使用1顆蔓莓果
 捕捉 {0} 隻變身寶可夢
 捕捉 {0} 隻破破袋
 捕捉 {0} 隻蟲屬性的寶可夢
@@ -12812,6 +12924,7 @@ GO Tour：捕捉走路草
 捕捉 {0} 隻小貓怪
 讓 {0} 隻小貓怪進化
 讓 {0} 隻勒克貓進化
+和夥伴拍攝1張GO Snapshot照片
 為妙蛙種子拍攝1張GO Snapshot照片
 為小火龍拍攝1張GO Snapshot照片
 為菊草葉拍攝1張GO Snapshot照片
@@ -12819,9 +12932,11 @@ GO Tour：捕捉走路草
 為蓋諾賽克特拍攝 {0} 張照片
 為胡帕拍攝1張照片
 為土地雲拍攝1張照片
+在沖繩拍攝1張Snapshot照片
 為雷吉艾斯拍攝1張GO Snapshot照片
 為雷吉洛克拍攝1張GO Snapshot照片
 為雷吉斯奇魯拍攝1張GO Snapshot照片
+拍照
 為雷電雲拍攝1張照片
 為龍捲雲拍攝1張照片
 為小鋸鱷拍攝1張GO Snapshot照片
@@ -13709,6 +13824,53 @@ See you around, %PLAYERNAME%!
 不過超級手鐲畢竟是個很潮的配件，你不嫌棄的話就收下吧。
 想要派超級進化寶可夢上場的時候，記得戴上它啊！
 那麼，下次再見囉！
+%PLAYERNAME%，你好嗎？
+我今天準備了一個大驚喜給你…那也可以說是「超級」大驚喜啦，哈哈。
+只是我還有些準備要做，
+所以請你先去調查一下今天有哪些寶可夢在附近出沒吧。
+我會在你出門做調查的時候把剩下的準備事項處理完。
+噢，你回來啦。我把事情都準備好了喔。
+對了，我問你。你最近有讓寶可夢超級進化過嗎？
+為什麼會提到超級進化呢？其實最近超級進化有件事讓我覺得很困惑。
+我們來好好研究一下超級進化吧。
+%PLAYERNAME%，你來選一隻寶可夢陪你一起做調查吧。
+接下來這個調查做完之後，我們就可以來讓寶可夢進化。這個主意不錯吧？
+你選了種子寶可夢妙蛙花！
+妙蛙花長在背上的大花能夠吸收太陽光，並轉換成能量。
+在我準備妙蛙花的同時，請你幫我多捉幾隻寶可夢，並強化牠們。
+這樣一來，我們就能組成更強的陣容了。
+你選了火焰寶可夢噴火龍！
+與訓練家的牽絆是牠力量的泉源。引以為傲的飛行能力甚至凌駕於噴射機之上。
+在我準備噴火龍的同時，請你幫我多捉幾隻寶可夢，並強化牠們。
+這樣一來，我們就能組成更強的陣容了。
+你選了甲殼寶可夢水箭龜！
+牠從甲殼上的大炮裡放出的噴射水流足以貫穿厚實的鐵板。
+在我準備水箭龜的同時，請你幫我多捉幾隻寶可夢，並強化牠們。
+這樣一來，我們就能組成更強的陣容了。
+%PLAYERNAME%，你回來啦！接下來我們就來好好研究一下超級進化吧！
+我想你非常清楚，超級進化中最重要的就是寶可夢與訓練家之間的羈絆，還有超級能量……
+只不過現在只要讓寶可夢超級進化過一次，接下來的超級進化就不需要超級能量的樣子。
+%PLAYERNAME%，你就試著讓妙蛙花超級進化，看看這個消息是真是假吧。
+%PLAYERNAME%，你回來啦！接下來我們就來好好研究一下超級進化吧！
+我想你非常清楚，超級進化中最重要的就是寶可夢與訓練家之間的羈絆，還有超級能量……
+只不過現在只要讓寶可夢超級進化過一次，接下來的超級進化就不需要超級能量的樣子。
+%PLAYERNAME%，你就試著讓噴火龍超級進化，看看這個消息是真是假吧。
+%PLAYERNAME%，你回來啦！接下來我們就來好好研究一下超級進化吧！
+我想你非常清楚，超級進化中最重要的就是寶可夢與訓練家之間的羈絆，還有超級能量……
+只不過現在只要讓寶可夢超級進化過一次，接下來的超級進化就不需要超級能量的樣子。
+%PLAYERNAME%，你就試著讓水箭龜超級進化，看看這個消息是真是假吧。
+%PLAYERNAME%，你的超級妙蛙花看起來真是太厲害了！
+你要不要試著在團體戰裡派超級妙蛙花上場，或是派牠去打倒GO火箭隊手下呢？
+超級進化的寶可夢非常強大，我想你一定能贏得輕鬆愉快。
+像你這種經驗豐富的訓練家配上超級進化寶可夢簡直是如虎添翼，快出門試試看牠的實力吧！
+%PLAYERNAME%，你的超級噴火龍看起來真是太厲害了！
+你要不要試著在團體戰裡派超級噴火龍上場，或是派牠去打倒GO火箭隊手下呢？
+超級進化的寶可夢非常強大，我想你一定能贏得輕鬆愉快。
+像你這種經驗豐富的訓練家配上超級進化寶可夢簡直是如虎添翼，快出門試試看牠的實力吧！
+%PLAYERNAME%，你的超級水箭龜看起來真是太厲害了！
+你要不要試著在團體戰裡派超級水箭龜上場，或是派牠去打倒GO火箭隊手下呢？
+超級進化的寶可夢非常強大，我想你一定能贏得輕鬆愉快。
+像你這種經驗豐富的訓練家配上超級進化寶可夢簡直是如虎添翼，快出門試試看牠的實力吧！
 嘿，%PLAYERNAME%，你最近還好嗎？
 我今天感覺特別神清氣爽，彷彿有一陣宜人的海島風在跟著我……是因為我早上喝了一杯凰梨果汁嗎？
 還是因為附近出現了很多來自阿羅拉地區的寶可夢？
@@ -13965,6 +14127,32 @@ See you around, %PLAYERNAME%!
 真不愧是威嚴寶可夢！請你試著讓雙刃丸進化成大劍鬼，然後我們來好好研究研究吧。
 太棒了！這隻大劍鬼真是威風十足！想必牠的足刃一定能輕鬆劈開樹果吧……
 %PLAYERNAME%，謝謝你今天的幫忙。我們得到了更多有關水水獺、雙刃丸和大劍鬼的知識！今後也請你多多幫忙啊！
+嘿，%PLAYERNAME%，你來得正是時候！
+我正在想島嶼守護神的事。
+我覺得一直等也不是辦法，我覺得我們應該主動去找島嶼守護神！
+你可以幫我一個忙嗎？我想去找卡璞．鰭鰭。
+卡璞・鰭鰭是阿羅拉地區波尼島的島嶼守護神。
+不過我們不能這樣輕率地去找牠……牠會對隨便靠近自己的對手帶來恐怖的災難。
+你可以先去幫我看看GO火箭隊在幹嘛嗎？我想確認他們不會來干擾我做調查。
+%PLAYERNAME%，你回來啦。
+我一直忙著調查卡璞・鰭鰭。據說牠能夠操縱水，棲息在濃霧的深處。
+所以我想牠應該會出現在有水有霧，然後有水屬性寶可夢出現的地方。
+我會去霧氣重的湖邊看看，布蘭雪他要是聽到的話應該會嚇傻吧……
+話又說回來，我是真的迫不及待想要親眼見到守護神們啊！
+你做調查時也請務必慎重小心啊！
+%PLAYERNAME%，你聽我說！！%PLAYERNAME%！！
+我在湖裡走到水深及膝的地方，然後滴蛛爬滿了我兩隻腳，但我終於！終於！見到卡璞・鰭鰭了！
+我很想跟你促膝長談三天三夜，不過我必須在我記憶還鮮明的時候把我看到的一切寫下來。
+你也快去出門去找卡璞・鰭鰭吧！
+%PLAYERNAME%，歡迎回來！
+你也見到卡璞・鰭鰭了嗎？那真是太好了！
+你見到了阿羅拉所有島嶼守護神，而我只見到了……其中一隻……
+算了……就算只見到其中一隻也很幸運了！
+我要樂觀一點！
+我們要認真思考守護神們為什麼會在這個時間點出現。
+為什麼牠們會離開阿羅拉地區，出現在這個地方……
+不對，應該是說，牠們為什麼會選擇去守護阿羅拉地區而不是其他地區？牠們是察覺到什麼而來這裡做調查的嗎？
+不論如何，我們要持續觀察接下來的動向。
 嘿，%PLAYERNAME%！今天也一起來研究寶可夢吧！
 說到做研究這件事，你有聽過虛擬寶可夢「多邊獸」這隻寶可夢嗎？
 不知道為什麼，牠最近常常出現。
@@ -14550,6 +14738,21 @@ GO火箭隊永遠不會停下腳步，所以我們得持續保持警戒。天知
 牠手上大大的團扇可以掀起風速30公尺的強風，吹跑一切。看來我的移動研究室恐怕也是小命不保啊。
 比起被狡猾天狗吹跑，我還寧願被橡實果嚇到，至少橡實果可愛一點。唉，這件事告訴我們，以後捉寶可夢之前要事先做好研究，千萬不可以怠惰！
 謝謝你幫我一起做調查。等這陣風平靜下來之後，我們再啟程去做下一個研究吧！
+好睏啊……%PLAYERNAME%，你來啦。你說我看起來很累的樣子？唉，我昨天晚上熬夜觀察木木梟，整夜都沒睡啊。
+這種日子就是需要一隻毛茸茸的寶可夢來療癒一下心靈……譬如說像童偶熊之類的！
+童偶熊毛茸茸的毛皮摸起來觸感超群，但粗心大意地向牠伸出手的人基本上都會遭到牠的劇烈反擊。
+但就算是這樣，我還是很想摸摸童偶熊啊啊啝啊啊……當然，這一切都是為了做研究！
+%PLAYERNAME%，你回來啦！噢，你還帶了一隻童偶熊囉！牠看起來好軟好好摸喔……
+只是你要小心，童偶熊看起來很可愛，但牠實際上一隻非常危險的寶可夢。除了親密的對象和夥伴以外，如果隨便摸牠的話，牠便會用可怕的力量發狂。
+我想我們還是等到跟牠親密一點之後再去摸牠好了……對了，%PLAYERNAME%，你要不要餵牠吃個樹果？
+%PLAYERNAME%，你的童偶熊看起來跟你感情很好呢！是說你知道嗎？雖然童偶熊非常討厭被抱住或是被觸摸，但牠進化成穿著熊之後卻會主動去抱住別人。
+如果牠認定你是牠的夥伴，便會試著擁抱你來表示牠對你的愛。但這會弄碎你的骨頭，非常危險。
+據說不少訓練家的脊椎因為牠的擁抱而碎裂，因而與世永別……
+你就讓童偶熊進化成穿著熊吧，看看牠的怪力有多驚人。
+%PLAYERNAME%，你的穿著熊看起來好強壯啊！
+唔，你問我發生了什麼事？呃…其實我只是想偷摸一下童偶熊，沒想到卻被牠踢得老遠。噢……真的有夠痛。
+不過反過來想，牠的愛有多深，力道就有多重。我可是深切地感受到牠的愛了呢。
+話又說回來，%PLAYERNAME%，我希望你還是慎重一點好。我要去冰敷了，下次見囉！
 嘿，%PLAYERNAME%！你看看這湛藍的天空、軟蓬蓬的雲朵！
 我實在很想就這樣躺下來好好享受一下這寧靜的一刻，只是那雲層看起來實在……不太對勁。
 你知道嗎？我頭上的雲層看起來就像是小鳥在拍動翅膀……？
@@ -14733,6 +14936,9 @@ Now, let’s GO!
 獲得星星沙子x{0}
 對戰開始！
 連續第 {0} 天！
+捕捉 {0} 隻童偶熊
+讓 {0} 隻童偶熊進化
+為野生童偶熊拍攝 {0} 張GO Snapshot照片
 嘿，%PLAYERNAME%！你最近好嗎？
 夏天總是有很多活動，還有很多新寶可夢等著你去尋找呢！
 我覺得今天很適合作研究，想請你幫我完成幾個課題。
@@ -14998,6 +15204,10 @@ No Match for Magmar (4/4)
 超級夥伴挑戰 (2/4)
 超級夥伴挑戰 (3/4)
 超級夥伴挑戰 (4/4)
+超級時刻 (1/4)
+超級時刻 (2/4)
+超級時刻 (3/4)
+超級時刻 (4/4)
 美樂美樂大冒險
 美樂美樂大冒險 (1/4)
 美樂美樂大冒險 (2/4)
@@ -15049,6 +15259,11 @@ Let’s GO！美錄坦 (9/9)
 從扇貝貝到足刃 (2/4)
 從扇貝貝到足刃 (3/4)
 從扇貝貝到足刃 (4/4)
+波尼大冒險
+波尼大冒險 (1/4)
+波尼大冒險 (2/4)
+波尼大冒險 (3/4)
+波尼大冒險 (4/4)
 解碼多邊獸
 解碼多邊獸 (1/4)
 解碼多邊獸 (2/4)
@@ -15247,6 +15462,11 @@ Special Weekend (吉野家)
 橡實寶可夢的小秘密 (2/4)
 橡實寶可夢的小秘密 (3/4)
 橡實寶可夢的小秘密 (4/4)
+抓狂毛茸茸
+抓狂毛茸茸 (1/4)
+抓狂毛茸茸 (2/4)
+抓狂毛茸茸 (3/4)
+抓狂毛茸茸 (4/4)
 綿翼小鳥
 綿翼小鳥 (1/4)
 綿翼小鳥 (2/4)
@@ -15352,6 +15572,7 @@ Pokémon GO Safari Zone in YOKOSUKA
 和朋友交換 {0} 隻捕捉地相距500公里以上的寶可夢
 和朋友交換1隻捕捉地相距500公里以上的寶可夢
 和朋友交換 {0} 隻捕捉地相距50公里以上的寶可夢
+交換 {0} 隻皮卡丘
 進行 {0} 次寶可夢交換
 交換1隻寶可夢
 傳送 {0} 隻寶可夢
@@ -15400,9 +15621,11 @@ Valentine's Day: 捕捉1隻吉利蛋
 行走 {0} km
 走 {0} 步
 潑水節：捕捉寶可夢時使用 {0} 顆樹果來輔助
+潑水節：捕捉 {0} 隻寶可夢
 潑水節：捕捉 {0} 隻鯉魚王或吼吼鯨
 潑水節：捕捉 {0} 隻水屬性的寶可夢
 潑水節：讓 {0} 隻大舌貝進化
+潑水節：讓 {0} 隻水屬性的寶可夢進化
 潑水節：孵化1顆蛋
 潑水節：在1場團體戰中獲勝
 Wayfarer bonus：捕捉 {0} 隻寶可夢
@@ -15431,7 +15654,7 @@ Wayfarer bonus：捕捉 {0} 隻寶可夢
 讓 {0} 隻鐵殼蛹進化
 讓 {0} 隻獨角蟲進化
 獲得 {0} XP
-{0} Research Tasks Updated
+完成{0}個研究課題
 謝謝你幫我做調查！看來我們獲得了不少成果！
 接下來也請你好好加油囉我們來看看你找到了什麼吧！
 突破性進展！
@@ -15886,6 +16109,7 @@ M月 d日
 團體戰日：大嘴娃
 團體戰日：恰雷姆
 團體戰日：瑪沙那
+團體戰日：袋獸超級袋獸
 團體戰日：大竺葵
 團體戰日：美洛耶塔
 團體戰日：超能妙喵
@@ -17133,7 +17357,7 @@ Now
 無法移除標籤
 無法重新排列標籤
 https://pokemongo.nianticlabs.com/support/contact/en
-Restart
+重新啟動
 要重新參與上一次的AR共享時光嗎？
 跟朋友一起玩Pokémon GO會更好玩！和朋友交換禮物時不只能獲得道具，還能獲得XP喔！
 帶夥伴一起去走走吧！出門時別忘了用星星碎片、幸運蛋和薰香喔！
@@ -17206,7 +17430,6 @@ Safari Zone Monterrey 2020 (2/2)
 Safari Zone Philadelphia
 Safari Zone Philadelphia (1/2)
 Safari Zone Philadelphia (2/2)
-%PLAYERNAME%，歡迎來到塞維亞！
 而且我們今天在塞維亞也增長了很多知識！
 Safari Zone Seville 2020
 Safari Zone Seville 2020 (1/2)
@@ -17216,6 +17439,7 @@ Safari Zone Seville 2020 (2/2)
 Safari Zone St. Louis
 Safari Zone St. Louis (1/2)
 Safari Zone St. Louis (2/2)
+Welcome to Safari Zone Seville 2022, %PLAYERNAME%!
 Safari Zone：和其他訓練家對戰
 Safari Zone：捕捉寶可夢時使用 {0} 顆蔓莓果來輔助
 Safari Zone: 為夥伴寶可夢拍1張GO Snapshot照片
@@ -17329,8 +17553,8 @@ Pokémon GO將在 {0} 分鐘後進行伺服器維修。維修期間內將無法�
 小秘訣：綁定登入帳號後，就可以用該帳號登入遊戲
 已綁定
 未綁定
-Adjust Performance
-Optimize your gameplay experience based on your device. Doing so may enable better performance or save battery life.
+調整效能
+依裝置規格來調整設定可改善裝置效能並延長電池壽命。
 更新遊戲數據
 遊戲出現卡頓狀況時，可藉由更新遊戲資料改善。
 進階設定
@@ -17447,7 +17671,7 @@ https://tw.portal-pokemon.com/special/pika_vee/tc/howtoplay/
 你可以邀請1位 {0} 一起參加VIP團體戰
 對方婉拒邀請
 你的朋友 {0} 邀請你一起參加 {1} 的VIP團體戰
-You already own a ticket for this event.
+你已經擁有這個活動的入場券
 現在手上沒有特級對戰入場券！
 現在手上沒有特級對戰入場券！
 （{0} + {1} 獎勵寶可幣）
@@ -17467,7 +17691,7 @@ You already own a ticket for this event.
 購買
 你要用 {1:C} 買1個 {0} 嗎？
 確定購買
-GIFT
+做為禮物
 你要用 {0} 枚寶可幣交換 {1} 嗎？
 內含：
 {0} 枚獎勵寶可幣
@@ -17477,27 +17701,27 @@ GIFT
 以寶可幣交換
 
 你的 {0} 已經升到最高等級了！
-Some friends may be ineligible for receiving paid gifts. Reasons for being ineligible include:  • They already own the ticket  • Someone else has sent them a ticket already  • You do not meet the minimum friendship level requirement to buy this player a gift
-Cannot Send Ticket
-Hello, <b>{0}</b>! I invite you to join me in this event! Here’s your event ticket. Let’s go!Sincerely, -<b>{1}</b>
-INVITATION
+朋友可能因為下列理由而無法接收禮物：• 他已經買了入場券• 他已經收到別人送來的入場券• 你們之間的友誼等級還不夠高
+無法贈送入場券
+嗨，<b>{0}</b>！這張入場券送你！一起來共襄盛舉吧！<b>{1}</b>敬上
+邀請
 確定
 取消
-{0} will receive <b>{1}</b> from you. This ticket cannot be used by any other player. This purchase cannot be refunded or undone.
-SEE GIFTING POLICY
-Confirm Purchase
-An error occurred that prevented this purchase from completing.  You were not charged for the purchase.  You will be returned to the shop.
-Purchase Error
-In order to gift tickets, Friends Permission must be enabled on this account.
-Friends Permission Required
-Gift is on its way!
-Your gift has been sent off to {0}. Go tell them so they can open it in time for the event!
-Select a Friend
-You can only send {0} paid gifts in a day. Please wait until tomorrow to purchase more gifts for friends.  Dailly limits exist to prevent overspending and fraud.
-Paid Gift Daily Limit Reached
-Unfortunately your gift could not be sent at this time. The recipient obtained the gift before your gift purchase could complete. Please contact your app store for a refund.
-• You cannot get refunded for gifts purchased for friends.  • You cannot cancel a gift after it is sent.  • You can only send {0} daily paid gifts. 
-Gifting Policy
+{0}將會收到你送的<b>{1}</b>。這張入場券不能退費、不能取消，也不能讓渡給其他訓練家使用。
+查看送禮規則
+確定購買
+購買時發生錯誤。付款未完成將返回商店
+錯誤
+待對方接受朋友申請後，你才能送入場券給他。
+需待對方接受朋友申請
+禮物已送出！
+你的禮物已傳送給{0}。記得在活動開始之前提醒他一聲喔！
+選擇朋友
+每一天最多可贈送 {0} 個付費禮物，若要贈送更多禮物，請等到明天。這是為了避免各位花費過度及阻止禮物偽造。
+已達付費禮物上限
+對方已在你送禮之前購買了入場券，請向平台商申請退費。
+• 買來送給朋友的禮物不能退費• 贈送之後不能取消•每天只能贈送 {0}個付費禮物
+送禮規則
 你的包包已經滿了！
 前往升級選單
 去商店擴充包包的容量吧
@@ -17516,6 +17740,7 @@ Sale
 商店
 發生錯誤。請再試一次。
 貼圖
+送入場券給你的朋友，邀他一起來參加活動！
 點擊寶可補給站
 雖然這八成是在浪費本小姐的時間，但人家就是喜歡贏的感覺！
 其實也沒有那麼糟糕啦，反正等你輸了之後，本小姐會賞你一聲辛苦了。
@@ -17604,6 +17829,8 @@ Not sharing your online status
 虧我現在渾身是勁，想對戰想到不行！或許我們該去其他地方找看看。
 沒有訊號？好吧，已經很晚了……我也該去找維羅博士了。
 白天或許能更順利地抓住他們。通常我和坎迪拉也會在那時候完成大部分的研究工作。
+飛翔皮卡丘計畫：捕捉大挑戰
+天際電光
 更多凱西出現在地圖上
 更多妙蛙種子出現在地圖上
 更多小火龍出現在地圖上
@@ -17627,6 +17854,7 @@ Not sharing your online status
 公園裡出現毽子花的機率提高
 更多藤藤蛇出現在地圖上
 更多海豹球出現在地圖上
+更多童偶熊出現在地圖上！
 更多青綿鳥出現在地圖上
 更多暖暖豬出現在地圖上
 更多獨角蟲出現在地圖上
@@ -17664,6 +17892,7 @@ Not sharing your online status
 寶可夢將無法重新學會 {1} ，確定要忘記嗎？
 一天只能進行一次特殊交換（部分特別活動除外）
 要進行特殊交換嗎？
+比平常多3次特殊交換（總共4次）
 請不要在開車時玩Pokémon GO
 你移動的速度太快了！
 無法儲存螢幕截圖。請確認照片存取權限。
@@ -17897,6 +18126,7 @@ https://pokemongo.nianticlabs.com/support/three-strike-policy
 特殊調查「電光閃光閃亮亮」的入場券在商店中上架
 特殊調查入場券將在商店中上架
 特殊調查「圓圓海豹球」的入場券已在商店中上架
+特殊調查「抓狂毛茸茸」的入場券在商店中上架
 特殊調查「綿翼小鳥」的入場券在商店中上架
 特殊調查「火烤樹果」的入場券在商店中上架
 特殊調查「毛毛時刻」的入場券在商店中上架
@@ -18156,7 +18386,7 @@ AR Mapping課題競賽特別獎勵
 尚未確定
 若是離開此畫面，這次交換將會被取消
 確定要退出交換嗎？
-調查：
+調查:
 Increased trade range
 {0} 送 {1} 來了！
 好好照顧 {0} 喔！
@@ -18204,10 +18434,10 @@ Increased trade range
 正在等待 {0}……
 交換寶可夢時一定可獲得糖果XL
 所有傳說的寶可夢
-This Pokémon was previously your buddy, and previously Mega Evolved. Trading it will reset Buddy Level and Mega Level. Proceed with trading?
+這隻曾經超級進化過的寶可夢以前曾是你的夥伴，如果你把這隻寶可夢交換出去，牠的夥伴等級和超級等級將會被重置，確定要交換嗎？
 確定要拿這隻曾經超級進化過的前任夥伴寶可夢去和別人交換嗎？
-This Pokémon has previously Mega Evolved. Trading it will reset its Mega Level. Proceed with trading?
-Do you want to trade this Mega Leveled Pokémon?
+這隻寶可夢之前曾經超級進化過，如果你把這隻寶可夢交換出去，牠的超級等級將會被重置，確定要交換嗎？
+確定要交換這隻寶可夢嗎？
 自己
 交換寶可夢前，請先將牠自「我的最愛」中移除
 所有地區型態的寶可夢
@@ -18434,7 +18664,7 @@ OK
 使用入場券
 參加團體戰（團體戰開打時，入場券才會被收走）
 使用入場券
-Use System Settings
+Use Device Settings
 暱稱只能更改1次
 暱稱之後也可以修改
 看起來不錯！
@@ -18559,6 +18789,7 @@ OK
 正在尋找相關推薦代碼
 公里
 步
+潑水節：捕捉大挑戰
 潑水節
 急速上昇：水屬性
 潑水節：和夥伴寶可夢一起走路，獲得1顆糖果
@@ -18601,7 +18832,6 @@ OK
 強風
 無法啟動照相機
 歡迎來到阿羅拉
-時時刻刻冒險正在讀取資料
 寒冬活動
 Pokémon GO Holidays：捕捉大挑戰
 Pokémon GO Holidays

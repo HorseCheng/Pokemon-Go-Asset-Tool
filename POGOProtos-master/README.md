@@ -18,8 +18,8 @@ We are following [semantic versioning](http://semver.org/) for POGOProtos-Privat
 
 | Version                                                                    | Base                                                                                 | Notes                  | Extra                    |
 |----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------|--------------------------|
-| [2.56.4](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.237.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase_proto2.proto) | **Proto2** Compilable (Mixed) | Protocol Buffers v3.20.1 |
-| [2.56.4](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.237.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase.proto)        | **Proto3** Compilable (Mixed) | Protocol Buffers v3.20.1 |
+| [2.56.5](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.239.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase_proto2.proto) | **Proto2** Compilable (Mixed) | Protocol Buffers v3.21.1 |
+| [2.56.5](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.239.0](https://github.com/Furtif/POGOProtos/blob/master/base/vbase.proto)        | **Proto3** Compilable (Mixed) | Protocol Buffers v3.21.1 |
 | [2.54.1](https://github.com/Furtif/POGOProtos/raw/master/.current-version) | [v0.205.x](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)     | **last 100% clean** (_[/base/v0.205.x.proto](https://github.com/Furtif/POGOProtos/blob/master/base/v0.205.x.proto)_)  | Protocol Buffers v3.15.8 |
 
 ### Addons
@@ -74,7 +74,7 @@ optional arguments:
 ```
 
 ### Preparation
-Current recommended protoc version: "Protocol Buffers v3.20.1".
+Current recommended protoc version: "Protocol Buffers v3.21.1".
 You can find download links [here](https://github.com/google/protobuf/releases).
 
 #### Windows
