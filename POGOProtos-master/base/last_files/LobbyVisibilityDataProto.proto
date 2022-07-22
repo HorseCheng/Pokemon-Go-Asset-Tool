@@ -22,4 +22,5 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message LobbyVisibilityDataProto {
+	int32 ob_int32 = 1;
 }

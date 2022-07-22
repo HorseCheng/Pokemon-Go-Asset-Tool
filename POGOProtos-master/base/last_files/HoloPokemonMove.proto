@@ -330,4 +330,5 @@ enum HoloPokemonMove {
 	BRUTAL_SWING = 367;
 	ROLLOUT_FAST = 368;
 	SEED_FLARE = 369;
+	OBSTRUCT = 370;
 }

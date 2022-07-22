@@ -31,4 +31,8 @@ message AdRequestDeviceInfo {
 	OperatingSystem operating_system = 1;
 	string device_model = 2;
 	string carrier = 3;
+	string operating_system_version = 4;
+	int32 system_memory_size_mb = 5;
+	int32 graphics_memory_size_mb = 6;
+	bool camera_permission_granted = 7;
 }

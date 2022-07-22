@@ -33,4 +33,5 @@ message ReferContactListFriendRequest {
 	string receiver_name = 4;
 	string app_store_link = 5;
 	ReferralProto referral = 6;
+	string country_code = 7;
 }

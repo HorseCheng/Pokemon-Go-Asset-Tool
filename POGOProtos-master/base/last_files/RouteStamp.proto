@@ -24,6 +24,10 @@ package POGOProtos.Rpc;
 message RouteStamp {
 	enum Color {
 		COLOR_UNSET = 0;
+		COLOR_179D62 = 1;
+		COLOR_E10012 = 2;
+		COLOR_1365AE = 3;
+		COLOR_E89A05 = 4;
 	}
 
 	enum Type {

@@ -27,4 +27,5 @@ message GM5SettingsProto {
 	repeated int32 ob_int32_2 = 3;
 	repeated int32 ob_int32_3 = 4;
 	repeated int32 ob_int32_4 = 5;
+	bool ob_bool = 6;
 }

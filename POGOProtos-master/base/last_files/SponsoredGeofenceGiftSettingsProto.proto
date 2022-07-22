@@ -66,4 +66,6 @@ message SponsoredGeofenceGiftSettingsProto {
 	bool ob_bool = 11;
 	ObSponsoredBalloon ob_sponsored_balloon = 12;
 	SponsoredGeofenceGiftDetailsProto sponsored_geofence_gift_details = 13;
+	int32 ob_int32_1 = 14;
+	int32 ob_int32_2 = 15;
 }

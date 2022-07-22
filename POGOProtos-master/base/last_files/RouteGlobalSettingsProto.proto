@@ -26,4 +26,5 @@ message RouteGlobalSettingsProto {
 	bool enable_poi_detail_caching = 2;
 	bool enable_route_play = 3;
 	bool enable_route_tappables = 4;
+	float ob_float = 5;
 }

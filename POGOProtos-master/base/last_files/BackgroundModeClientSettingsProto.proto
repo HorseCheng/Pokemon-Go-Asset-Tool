@@ -22,6 +22,10 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 message BackgroundModeClientSettingsProto {
+	message ProximitySettingsProto {
+		int64 maximum_contact_age_ms = 4;
+	}
+
 	int64 maximum_sample_age_ms = 1;
 	bool accept_manual_fitness_samples = 2;
 	double minimum_location_accuracy_meters = 3;
@@ -36,4 +40,5 @@ message BackgroundModeClientSettingsProto {
 	int32 min_persistent_reporting_interval_s = 12;
 	bool enable_progress_request = 13;
 	bool enable_foreground_notification = 14;
+	ProximitySettingsProto proximity_settings = 15;
 }

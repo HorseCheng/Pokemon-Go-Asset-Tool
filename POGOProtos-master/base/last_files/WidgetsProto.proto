@@ -26,8 +26,8 @@ message WidgetsProto {
 		UNSET = 0;
 		EGG_INCUBATORS = 1;
 		BUDDY_STATS = 2;
+		ACTIVITY_SUMMARY = 3;
 	}
 
-	WidgetType widget_type = 1;
 	repeated WidgetType widgets = 2;
 }

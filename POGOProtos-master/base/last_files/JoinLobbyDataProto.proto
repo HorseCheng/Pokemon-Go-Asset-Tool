@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message JoinLobbyDataProto {
 	bool ob_join_lobby_data_bool_1 = 1;
 	bool ob_join_lobby_data_bool_2 = 2;
+	int32 ob_join_lobby_data_int32 = 3;
 }

@@ -23,4 +23,6 @@ package POGOProtos.Rpc;
 
 message GetFriendDetailsProto {
 	repeated string player_id = 1;
+	repeated string nia_account_id = 2;
+	bool include_online_status = 3;
 }

@@ -24,6 +24,7 @@ package POGOProtos.Rpc;
 import "PokemonProto.proto";
 import "CaptureProbabilityProto.proto";
 import "RaidLevel.proto";
+import "Item.proto";
 
 message RaidEncounterProto {
 	PokemonProto pokemon = 1;
@@ -35,4 +36,5 @@ message RaidEncounterProto {
 	string fort_id = 7;
 	bool is_exclusive = 8;
 	bool is_event_legendary = 9;
+	Item raid_ball = 10;
 }

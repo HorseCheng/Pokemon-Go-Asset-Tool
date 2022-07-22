@@ -32,4 +32,5 @@ message PokedexCategoriesSettings {
 
 	bool enabled = 1;
 	repeated PokedexCategoryData pokedex_category_data = 2;
+	bool ob_bool = 3;
 }

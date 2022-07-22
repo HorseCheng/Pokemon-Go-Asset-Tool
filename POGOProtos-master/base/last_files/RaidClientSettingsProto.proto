@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "RaidLevel.proto";
 import "ObRaidClientSetting.proto";
+import "ObRaidClientSetting1.proto";
 
 message RaidClientSettingsProto {
 	bool remote_raid_enabled = 1;
@@ -42,4 +43,5 @@ message RaidClientSettingsProto {
 	bool is_nearby_raid_notification_disabled = 15;
 	repeated string ob_repeated_string = 16;
 	repeated ObRaidClientSetting ob_raid_client_setting = 17;
+	ObRaidClientSetting1 ob_raid_client_setting_1 = 18;
 }

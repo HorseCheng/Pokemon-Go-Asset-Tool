@@ -27,4 +27,5 @@ message ServerRecordMetadata {
 	string session_id = 3;
 	string request_id = 4;
 	int64 server_timestamp_ms = 5;
+	string client_request_id = 6;
 }

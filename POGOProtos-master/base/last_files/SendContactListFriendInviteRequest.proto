@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message SendContactListFriendInviteRequest {
 	repeated string emails = 1;
 	repeated string phone_numbers = 2;
+	string country_code = 3;
 }

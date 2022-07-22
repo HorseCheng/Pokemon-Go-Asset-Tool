@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message StartRaidBattleDataProto {
 	repeated uint64 ob_start_raid_battle_data_uint64 = 1;
+	int32 ob_start_raid_battle_data_int32 = 2;
 }

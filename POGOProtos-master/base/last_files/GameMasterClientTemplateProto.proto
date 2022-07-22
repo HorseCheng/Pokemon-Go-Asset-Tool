@@ -153,12 +153,15 @@ import "GM5SettingsProto.proto";
 import "GM9SettingsProto.proto";
 import "ImpressionTrackingSettingsProto.proto";
 import "GM11SettingsProto.proto";
+import "EvolutionChainDisplaySettingsProto.proto";
 import "GM7SettingsProto.proto";
-import "GM13SettingsProto.proto";
+import "PopupControlSettingsProto.proto";
 import "TicketGiftingSettingsProto.proto";
 import "GM8SettingsProto.proto";
 import "GM10SettingsProto.proto";
+import "GM15SettingsProto.proto";
 import "GM14SettingsProto.proto";
+import "GM16SettingsProto.proto";
 
 message GameMasterClientTemplateProto {
 	string template_id = 1;
@@ -294,10 +297,13 @@ message GameMasterClientTemplateProto {
 	GM9SettingsProto ob_gm_9_settings = 139;
 	ImpressionTrackingSettingsProto impression_tracking_setting = 140;
 	GM11SettingsProto ob_gm_11_settings = 141;
+	EvolutionChainDisplaySettingsProto evolution_chain_display_settings = 142;
 	GM7SettingsProto ob_gm_7_settings = 143;
-	GM13SettingsProto ob_gm_13_settings = 145;
+	PopupControlSettingsProto popup_control_settings = 145;
 	TicketGiftingSettingsProto ticket_gifting_settings = 146;
 	GM8SettingsProto ob_gm_8_settings = 147;
 	GM10SettingsProto ob_gm_10_settings = 148;
+	GM15SettingsProto ob_gm_15_settings = 149;
 	GM14SettingsProto ob_gm_14_settings = 150;
+	GM16SettingsProto ob_gm_16_settings = 151;
 }

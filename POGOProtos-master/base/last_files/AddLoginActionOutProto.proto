@@ -28,6 +28,7 @@ message AddLoginActionOutProto {
 		UNSET = 0;
 		AUTH_FAILURE = 1;
 		LOGIN_TAKEN = 2;
+		ERROR_UNKNOWN = 3;
 	}
 
 	bool success = 1;

@@ -27,7 +27,7 @@ import "WithPokemonCategoryProto.proto";
 import "HoloPokemonId.proto";
 import "WithPlayerLevelProto.proto";
 import "HoloBadgeType.proto";
-import "FastMoveLeakBaselineProto.proto";
+import "CombatRefactorToggleProto.proto";
 
 message CombatLeagueProto {
 	enum ConditionType {
@@ -118,5 +118,5 @@ message CombatLeagueProto {
 	LeagueType league_type = 11;
 	string border_color_hex = 12;
 	bool allow_temp_evos = 13;
-	repeated FastMoveLeakBaselineProto fast_move_leak_baseline = 14;
+	repeated CombatRefactorToggleProto combat_refactor_toggle = 14;
 }

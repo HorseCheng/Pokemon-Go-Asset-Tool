@@ -32,4 +32,6 @@ message GetRaidDetailsResponseDataProto {
 	int32 ob_get_raid_details_data_int32_3 = 8;
 	bool ob_get_raid_details_data_bool_4 = 9;
 	bool ob_get_raid_details_data_bool_5 = 10;
+	int32 ob_get_raid_details_data_int32_4 = 11;
+	uint32 ob_get_raid_details_data_uint32_2 = 12;
 }

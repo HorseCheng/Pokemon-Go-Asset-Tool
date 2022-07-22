@@ -30,4 +30,6 @@ message AttackRaidResponseDataProto {
 	repeated AttackRaidDataLogDetails ob_details = 4;
 	uint32 ob_attack_raid_data_uint32_2 = 5;
 	uint32 ob_attack_raid_data_uint32_3 = 6;
+	int32 ob_attack_raid_data_int32 = 7;
+	uint32 ob_attack_raid_data_uint32_4 = 8;
 }

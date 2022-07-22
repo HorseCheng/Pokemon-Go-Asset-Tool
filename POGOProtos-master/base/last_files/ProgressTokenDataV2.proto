@@ -32,6 +32,13 @@ message ProgressTokenDataV2 {
 		CombatPresentationDirectorFunctionProto combat_presentation_director_function = 8;
 		CombatDirectorV2FunctionProto combat_director_v2_function = 9;
 		CombatStateV2FunctionProto combat_state_v2_function = 10;
+		CombatPokemonFunctionProto combat_pokemon_function = 11;
+	}
+
+	enum CombatPokemonFunctionProto {
+		OBSERVE_ACTION = 0;
+		EXECUTE_ACTION = 1;
+		PAUSE_UPDATES = 2;
 	}
 
 	enum CombatSwapStateFunctionProto {
@@ -44,6 +51,7 @@ message ProgressTokenDataV2 {
 	enum CombatStateV2FunctionProto {
 		NONE_COMBAT_STATE_V2 = 0;
 		OBSERVE_COMBAT_STATE = 1;
+		DELAY_SPECIAL_TRANSITION = 2;
 	}
 
 	enum CombatSpecialMoveStateFunctionProto {
@@ -51,6 +59,8 @@ message ProgressTokenDataV2 {
 		ENTER_COMBAT_SPECIAL_MOVE_STATE = 1;
 		EXIT_COMBAT_SPECIAL_MOVE_STATE = 2;
 		DO_WORK_COMBAT_SPECIAL_MOVE_STATE = 3;
+		PERFORM_FLY_IN = 4;
+		PERFORM_FLY_OUT = 5;
 	}
 
 	enum CombatActiveStateFunctionProto {
@@ -86,6 +96,7 @@ message ProgressTokenDataV2 {
 		TRY_EXECUTE_BUFFERED_ACTION = 8;
 		CAN_ACT_ON_TURN = 9;
 		CAN_PERFORM_ATTACK = 10;
+		CHECK_OPPONENT_CHARGE_MOVE_CHANCE = 11;
 	}
 
 	enum CombatWaitForPlayerStateFunctionProto {

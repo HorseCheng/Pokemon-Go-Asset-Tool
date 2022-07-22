@@ -89,6 +89,7 @@ import "ObNewGlobalSetting1.proto";
 import "ObNewGlobalSetting2.proto";
 import "ObNewGlobalSetting4.proto";
 import "ObNewGlobalSetting5.proto";
+import "ObNewGlobalSetting6.proto";
 
 message GlobalSettingsProto {
 	FortSettingsProto fort_settings = 2;
@@ -163,4 +164,5 @@ message GlobalSettingsProto {
 	ObNewGlobalSetting2 ob_new_global_setting_2 = 76;
 	ObNewGlobalSetting4 ob_new_global_setting_4 = 77;
 	ObNewGlobalSetting5 ob_new_global_setting_5 = 78;
+	ObNewGlobalSetting6 ob_new_global_setting_6 = 79;
 }

@@ -46,7 +46,10 @@ for value,char in enumerate(chi):
     if(x):
         key=re.findall("[0-9]+",char)
         if len(key)==1:
-            catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
+            if "_g" in char:
+                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+            else:
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
         else:
             if int(key[1])<100: 
                 catdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
@@ -57,7 +60,10 @@ for value,char in enumerate(chi):
     if(x):
         key=re.findall("[0-9]+", char)
         if len(key)==1:
-            introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
+            if "_g" in char:
+                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+            else:
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
         else:
             if int(key[1])<100: 
                 introdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
@@ -125,10 +131,8 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0368"] = "Rollout"
-chimovedict["0368"] = "滾動"
-engmovedict["0369"] = "Seed Flare"
-chimovedict["0369"] = "種子閃光"
+engmovedict["0367"] = "Brutal Swing"
+chimovedict["0367"] = "狂舞揮打"
 
 # Pokemon class
 class pokemon():

@@ -30,4 +30,5 @@ message BuddyPokemonProto {
 	DailyCounterProto daily_buddy_swaps = 4;
 	int64 last_km_awarded_ms = 5;
 	bool best_buddies_backfilled = 6;
+	int64 last_set_timestamp_ms = 7;
 }

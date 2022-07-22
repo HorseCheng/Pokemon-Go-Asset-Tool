@@ -21,6 +21,8 @@
 syntax = "proto3";
 package POGOProtos.Rpc;
 
+import "AdType.proto";
+
 message ReportAdInteractionProto {
 	oneof InteractionType {
 		ViewImpressionInteraction view_impression = 5;
@@ -29,6 +31,7 @@ message ReportAdInteractionProto {
 		CTAClickInteraction cta_clicked = 8;
 		AdSpawnInteraction ad_spawned = 9;
 		AdDismissalInteraction ad_dismissed = 10;
+		ViewWebArInteraction view_web_ar = 11;
 	}
 
 	enum AdType {
@@ -37,11 +40,16 @@ message ReportAdInteractionProto {
 		AD_TYPE_SPONSORED_BALLOON = 2;
 		AD_TYPE_SPONSORED_BALLOON_WASABI = 3;
 		AD_TYPE_SPONSORED_BALLOON_GOOGLE_MANAGED_AD = 4;
+		AD_TYPE_SPONSORED_BALLOON_AR_AD = 5;
 	}
 
 	message ViewImpressionInteraction {
 		string preview_image_url = 1;
 		bool is_persisted_gift = 2;
+	}
+
+	message ViewWebArInteraction {
+		string web_ar_url = 1;
 	}
 
 	message AdDismissalInteraction {

@@ -31,6 +31,7 @@ message QuestDialogProto {
 		SPECIAL_GUEST_4 = 5;
 		SPECIAL_GUEST_5 = 6;
 		SPECIAL_GUEST_RHI = 7;
+		SPECIAL_GUEST_RHI_2 = 8;
 	}
 
 	enum CharacterExpression {

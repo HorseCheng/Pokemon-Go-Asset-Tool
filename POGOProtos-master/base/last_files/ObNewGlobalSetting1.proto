@@ -25,4 +25,7 @@ message ObNewGlobalSetting1 {
 	bool ob_new_global_setting_bool_1 = 1;
 	bool ob_new_global_setting_bool_2 = 2;
 	string ob_new_global_setting_string = 3;
+	bool ob_new_global_setting_bool_3 = 4;
+	int32 ob_new_global_setting_int32 = 5;
+	float ob_new_global_setting_float = 6;
 }

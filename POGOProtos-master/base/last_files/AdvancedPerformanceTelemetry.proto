@@ -1,0 +1,59 @@
+/*
+* Copyright 2016-2022 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+message AdvancedPerformanceTelemetry {
+	enum PerformanceLevels {
+		UNSET = 0;
+		LOW = 1;
+		MEDIUM = 2;
+		HIGH = 3;
+	}
+
+	enum PerformancePresetLevels {
+		UNSET_PRESET = 0;
+		LOW_PRESET = 1;
+		MEDIUM_PRESET = 2;
+		HIGH_PRESET = 3;
+		MAX_PRESET = 4;
+		CUSTOM_PRESET = 5;
+	}
+
+	PerformancePresetLevels performance_preset_level = 1;
+	bool native_refresh_rate_fps = 2;
+	bool special_framerate = 3;
+	bool improved_sky = 4;
+	bool dynamic_gyms = 5;
+	bool normal_map_drawing_distance = 6;
+	bool normal_fog_distance = 7;
+	PerformanceLevels buildings_on_map = 8;
+	bool friends_icons_in_list = 9;
+	PerformanceLevels avatars_render_texture_size_high = 10;
+	bool avatars_render_texture_size_low = 11;
+	bool ar_prompt = 12;
+	PerformanceLevels render_level = 13;
+	PerformanceLevels texture_quality = 14;
+	PerformanceLevels download_image_ram_cache = 15;
+	bool map_details = 16;
+	bool avatar_details = 17;
+	PerformanceLevels render_and_texture = 18;
+}

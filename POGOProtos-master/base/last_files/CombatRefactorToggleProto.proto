@@ -1,0 +1,38 @@
+/*
+* Copyright 2016-2022 --=FurtiF=--.
+*
+* Licensed under the
+*	Educational Community License, Version 2.0 (the "License"); you may
+*	not use this file except in compliance with the License. You may
+*	obtain a copy of the License at
+*
+*	http://www.osedu.org/licenses/ECL-2.0
+*
+*	Unless required by applicable law or agreed to in writing,
+*	software distributed under the License is distributed on an "AS IS"
+*	BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+*	or implied. See the License for the specific language governing
+*	permissions and limitations under the License.
+*
+* Note: For references only.
+*
+*/
+
+syntax = "proto3";
+package POGOProtos.Rpc;
+
+enum CombatRefactorToggleProto {
+	BASELINE = 0;
+	FAST_MOVE_ALWAYS_LEAK = 1;
+	MINIGAME_FAST_MOVE_CLEAR = 2;
+	SWAP_FAST_MOVE_CLEAR = 3;
+	DOWNSTREAM_REDUNDANCY = 4;
+	DEFENSIVE_ACK_CHECK = 5;
+	SERVER_FLY_IN_FLY_OUT = 6;
+	CLIENT_REOBSERVER_COMBAT_STATE = 7;
+	FAST_MOVE_FLY_IN_CLIP = 8;
+	CLIENT_FAST_MOVE_FLY_IN_CLIP_FALL_BACK = 9;
+	COMBAT_REWARDS_INVOKE = 10;
+	CLIENT_SWAP_WIDGET_DISMISS = 11;
+	CLIENT_COMBAT_NULL_RPC_GUARD = 12;
+}

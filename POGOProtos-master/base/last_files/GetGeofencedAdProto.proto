@@ -22,9 +22,11 @@ syntax = "proto3";
 package POGOProtos.Rpc;
 
 import "AdTargetingInfoProto.proto";
+import "AdType.proto";
 
 message GetGeofencedAdProto {
 	double player_lat_degrees = 1;
 	double player_lng_degrees = 2;
 	AdTargetingInfoProto ad_targeting_info = 3;
+	repeated AdType allowed_ad_type = 4;
 }

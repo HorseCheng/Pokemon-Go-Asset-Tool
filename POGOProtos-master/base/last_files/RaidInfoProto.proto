@@ -23,6 +23,7 @@ package POGOProtos.Rpc;
 
 import "PokemonProto.proto";
 import "RaidLevel.proto";
+import "Item.proto";
 
 message RaidInfoProto {
 	int64 raid_seed = 1;
@@ -37,4 +38,5 @@ message RaidInfoProto {
 	bool is_scheduled_raid = 10;
 	bool is_free = 11;
 	string campaign_id = 12;
+	Item raid_ball = 14;
 }

@@ -29,4 +29,5 @@ message SyncContactListRequest {
 	}
 
 	repeated ContactProto contact = 1;
+	string country_code = 2;
 }

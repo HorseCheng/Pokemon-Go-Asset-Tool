@@ -26,4 +26,5 @@ import "ObCommunCombatDataProto.proto";
 message UpdateCombatDataProto {
 	int32 ob_int32 = 1;
 	ObCommunCombatDataProto ob_commun_combat_data = 2;
+	int32 ob_int32_2 = 3;
 }

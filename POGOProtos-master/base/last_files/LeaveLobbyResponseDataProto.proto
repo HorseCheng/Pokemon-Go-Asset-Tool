@@ -23,4 +23,6 @@ package POGOProtos.Rpc;
 
 message LeaveLobbyResponseDataProto {
 	LeaveLobbyOutProto.Result result = 1;
+	int32 ob_int32 = 2;
+	uint32 ob_uint32 = 3;
 }

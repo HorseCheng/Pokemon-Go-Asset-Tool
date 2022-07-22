@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message BuildingMetadata {
 	int32 height_meters = 1;
+	bool is_underground = 2;
 }

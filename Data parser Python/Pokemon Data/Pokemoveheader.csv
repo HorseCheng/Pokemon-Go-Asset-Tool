@@ -191,8 +191,11 @@
 0142,AERODACTYL,化石翼龍,Aerodactyl
 0143,SNORLAX,卡比獸,Snorlax
 0144,ARTICUNO,急凍鳥,Articuno
+0144,ARTICUNO_GALARIAN,急凍鳥,Articuno
 0145,ZAPDOS,閃電鳥,Zapdos
+0145,ZAPDOS_GALARIAN,閃電鳥,Zapdos
 0146,MOLTRES,火焰鳥,Moltres
+0146,MOLTRES_GALARIAN,火焰鳥,Moltres
 0147,DRATINI,迷你龍,Dratini
 0148,DRAGONAIR,哈克龍,Dragonair
 0149,DRAGONITE,快龍,Dragonite

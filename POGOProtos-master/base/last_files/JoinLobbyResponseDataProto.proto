@@ -34,4 +34,6 @@ message JoinLobbyResponseDataProto {
 	uint32 ob_join_lobby_data_uint32_5 = 10;
 	int32 ob_join_lobby_data_int32_2 = 11;
 	GameplayWeatherProto.WeatherCondition weather_condition = 12;
+	int32 ob_join_lobby_data_int32_3 = 13;
+	uint32 ob_join_lobby_data_uint32_6 = 14;
 }

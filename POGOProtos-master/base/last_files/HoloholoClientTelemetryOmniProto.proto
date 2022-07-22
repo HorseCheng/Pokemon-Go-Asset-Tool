@@ -110,6 +110,11 @@ import "PostcardBookTelemetry.proto";
 import "SocialInboxLatencyTelemetry.proto";
 import "HomeWidgetTelemetry.proto";
 import "PokemonLoadDelay.proto";
+import "AccountDeletionInitiatedTelemetry.proto";
+import "FortUpdateLatencyTelemetry.proto";
+import "GetMapObjectsTriggerTelemetry.proto";
+import "UpdateCombatResponseTimeTelemetry.proto";
+import "OpenCampfireMapTelemetry.proto";
 import "ServerData.proto";
 import "CommonFilterProto.proto";
 
@@ -204,6 +209,11 @@ message HoloholoClientTelemetryOmniProto {
 		SocialInboxLatencyTelemetry social_inbox_telemetry = 87;
 		HomeWidgetTelemetry home_widget_telemetry = 93;
 		PokemonLoadDelay pokemon_load_delay = 94;
+		AccountDeletionInitiatedTelemetry account_deletion_initiated_telemetry = 95;
+		FortUpdateLatencyTelemetry fort_update_latency_telemetry = 96;
+		GetMapObjectsTriggerTelemetry get_map_objects_trigger_telemetry = 97;
+		UpdateCombatResponseTimeTelemetry update_combat_response_time_telemetry = 98;
+		OpenCampfireMapTelemetry open_campfire_map_telemetry = 99;
 	}
 
 	ServerData server_data = 1001;

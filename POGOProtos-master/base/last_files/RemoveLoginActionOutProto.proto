@@ -27,6 +27,7 @@ message RemoveLoginActionOutProto {
 	enum Status {
 		UNSET = 0;
 		LOGIN_NOT_REMOVABLE = 1;
+		ERROR_UNKNOWN = 2;
 	}
 
 	bool success = 1;

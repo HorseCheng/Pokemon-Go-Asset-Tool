@@ -31,4 +31,6 @@ message TelemetryGlobalSettingsProto {
 	int64 frame_rate_sample_period_ms = 7;
 	bool enable_omni_wrapper_sending = 8;
 	float ob_float = 9;
+	bool ob_bool = 10;
+	repeated string ob_list_string = 11;
 }

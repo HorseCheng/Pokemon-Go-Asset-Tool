@@ -24,4 +24,6 @@ package POGOProtos.Rpc;
 message SendRaidInvitationResponseDataProto {
 	SendRaidInvitationOutProto.Result result = 1;
 	int32 ob_send_raid_invitation_data_int32 = 2;
+	int32 ob_send_raid_invitation_data_int32_2 = 3;
+	uint32 ob_send_raid_invitation_data_uint32 = 4;
 }

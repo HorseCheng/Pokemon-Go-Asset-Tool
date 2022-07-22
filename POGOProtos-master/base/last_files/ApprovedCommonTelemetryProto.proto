@@ -34,6 +34,7 @@ import "PoiCategorizationOperationTelemetry.proto";
 import "PoiCategorySelectedTelemetry.proto";
 import "PoiCategoryRemovedTelemetry.proto";
 import "WayfarerOnboardingFlowTelemetry.proto";
+import "ASPermissionFlowTelemetry.proto";
 import "ServerRecordMetadata.proto";
 import "ClientTelemetryCommonFilterProto.proto";
 
@@ -52,8 +53,9 @@ message ApprovedCommonTelemetryProto {
 		PoiCategorySelectedTelemetry poi_categorization_selected_telemetry = 11;
 		PoiCategoryRemovedTelemetry poi_categorization_removed_telemetry = 12;
 		WayfarerOnboardingFlowTelemetry wayfarer_onboarding_flow_telemetry = 13;
+		ASPermissionFlowTelemetry as_permission_flow_telemetry = 14;
 	}
 
-	ServerRecordMetadata server_data = 14;
-	ClientTelemetryCommonFilterProto common_filters = 15;
+	ServerRecordMetadata server_data = 15;
+	ClientTelemetryCommonFilterProto common_filters = 16;
 }

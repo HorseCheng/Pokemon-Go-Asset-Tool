@@ -24,4 +24,5 @@ package POGOProtos.Rpc;
 message GetFriendDetailsRequest {
 	repeated string friend_id = 1;
 	SocialClientFeatures.CrossGameSocialClientSettingsProto.FeatureType feature = 2;
+	repeated string friend_nia_account_id = 3;
 }

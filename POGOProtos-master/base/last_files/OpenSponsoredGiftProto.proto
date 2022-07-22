@@ -23,4 +23,5 @@ package POGOProtos.Rpc;
 
 message OpenSponsoredGiftProto {
 	bytes encrypted_ad_token = 1;
+	bytes gift_token = 2;
 }

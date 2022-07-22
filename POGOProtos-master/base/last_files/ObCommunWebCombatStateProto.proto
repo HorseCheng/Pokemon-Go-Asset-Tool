@@ -55,4 +55,8 @@ message ObCommunWebCombatStateProto {
 	uint32 ob_uint32_5 = 12;
 	uint32 ob_uint32_6 = 13;
 	uint32 ob_uint32_7 = 14;
+	int32 ob_int32_2 = 15;
+	bool ob_bool = 16;
+	int32 ob_int32_3 = 17;
+	uint32 ob_uint32_8 = 18;
 }

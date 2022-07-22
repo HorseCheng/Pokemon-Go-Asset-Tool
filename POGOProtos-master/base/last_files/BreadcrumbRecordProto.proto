@@ -25,4 +25,5 @@ message BreadcrumbRecordProto {
 	int64 timestamp_ms = 1;
 	double latitude_deg = 2;
 	double longitude_deg = 3;
+	bool app_is_foregrounded = 4;
 }
