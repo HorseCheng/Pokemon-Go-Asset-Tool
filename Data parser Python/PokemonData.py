@@ -47,36 +47,36 @@ for value,char in enumerate(chi):
         key=re.findall("[0-9]+",char)
         if len(key)==1:
             if "_g" in char:
-                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
             else:
-                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
         else:
             if int(key[1])<100: 
-                catdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
+                catdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
             else:
-                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+                catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
 
     x=re.search("pokemon_desc_[0-9]+", char)
     if(x):
         key=re.findall("[0-9]+", char)
         if len(key)==1:
             if "_g" in char:
-                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
             else:
-                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ")
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
         else:
             if int(key[1])<100: 
-                introdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ")
+                introdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
             else:  
-                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ")
+                introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
 
     x=re.search("pokemon_desc_tmpevo_[0-9]+", char)
     if(x):
         key=re.findall("[0-9]+", char)
         if MEGAintrodict.get(str(key[0])+"_1") == None:
-            MEGAintrodict[str(key[0])+"_1"]=chi[value+1].replace("_x000D_"," ")
+            MEGAintrodict[str(key[0])+"_1"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
         else:  
-            MEGAintrodict[str(key[0])+"_2"]=chi[value+1].replace("_x000D_"," ")
+            MEGAintrodict[str(key[0])+"_2"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
 
 #New Pokemon, still don't have description
 #introdict["0562_GALARIAN"] = ""
@@ -131,8 +131,8 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0367"] = "Brutal Swing"
-chimovedict["0367"] = "狂舞揮打"
+engmovedict["0370"] = "Obstruct"
+chimovedict["0370"] = "攔堵"
 
 # Pokemon class
 class pokemon():
