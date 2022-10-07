@@ -3,26 +3,32 @@
 捉到 {0} 隻寶可夢！
 拜訪了 {0} 個寶可補給站！
 冒險紀錄
-1. Go to Settings > Pokémon GO
-2. Tap Notifications
-3. Turn on Allow Notifications
-To improve your gameplay experience, allow Pokémon GO to access notifications.
+1. 依序點擊「設定」＞Pokémon GO
+2. 點擊「通知」
+3. 開啟通知
+請開啟通知，以提升遊戲體驗
 怎……怎麼可能？我……我從來沒輸過！
 你怎麼敢……這樣羞辱我！？
 輸給坎迪拉的時候，我也沒感到如此挫敗……你必須付出代價。
 上次這樣羞辱我的人就是坎迪拉……你們都得為此付出代價……
 我……我不明白……我從來沒輸過……
-You can take a Pokémon out of its Poké Ball and snap photos together!
+你隨時都可以在你喜歡的地方把寶可夢從精靈球裡放出來，跟牠一起拍照。
 一起來捕蟲！收藏家挑戰
 堵攔熊眼鏡
+古茲馬風手環
 堵攔熊手套
+科斯莫古帽
+古茲馬風太陽眼鏡
 虛吾伊德帽
 堵攔熊帽
 里伊安全帽附護目鏡
 里伊安全帽
 2022 WCS冠軍帽
+古茲馬風長褲
 2022 WCS冠軍長褲
 爆肌蚊上衣
+科斯莫古上衣
+古茲馬風上衣
 謝米T恤天空形態
 里伊組合
 2022 WCS T恤
@@ -31,14 +37,20 @@ You can take a Pokémon out of its Poké Ball and snap photos together!
 里伊鞋
 2022 WCS冠軍皮鞋
 堵攔熊眼鏡
+古茲馬風手環
 堵攔熊手套
+科斯莫古帽
+古茲馬風太陽眼鏡
 虛吾伊德帽
 堵攔熊帽
 里伊安全帽附護目鏡
 里伊安全帽
 2022 WCS冠軍帽
+古茲馬風長褲
 2022 WCS冠軍長褲
 爆肌蚊上衣
+科斯莫古上衣
+古茲馬風上衣
 謝米T恤天空形態
 里伊組合
 2022 WCS T恤
@@ -46,10 +58,25 @@ You can take a Pokémon out of its Poké Ball and snap photos together!
 2022 WCS冠軍外套
 里伊鞋
 2022 WCS冠軍皮鞋
+光之季節合作夥伴特別調查：ChargeSPOT
+合作夥伴特別調查：ChargeSPOT
+光之季節合作夥伴特別調查：全家便利商店
+合作夥伴特別調查：全家便利商店
+光之季節合作夥伴特別調查：Verizon
+合作夥伴特別調查：Verizon
+合作夥伴特別調查：Verizon
+合作夥伴特別調查：Verizon
+合作夥伴特別調查：Verizon
+合作夥伴特別調查：Verizon
 WCS 2022：獎勵限時調查
 團隊精神：超級聯盟
+光之季節合作夥伴特別調查：Hanamaru Udon
+合作夥伴特別調查：Hanamaru Udon
 Bahasa Indonesia
-A ticket to access a Timed Research challenge for the GO Battle League. This challenge will be active until the end of the current GO Battle League season.
+<size=36>確定要將這 {0} 隻寶可夢傳送給博士嗎？</size>傳送開始後將無法取消。
+<size=36><b>目前選擇的寶可夢中，只有 {0} 隻能傳送出去。無法傳送的寶可夢將會留在盒子裡。寶可夢傳送出去後將無法取消。
+<size=36><b>目前選擇的寶可夢中，只有 {0} 隻能傳送出去。無法傳送的寶可夢將會留在盒子裡。寶可夢傳送出去後將無法取消。
+可在GO對戰聯盟參加限時調查的入場券。此挑戰將持續到目前的GO對戰聯盟結束。
 和 {0} 個GO挑戰者對戰
 和1名GO挑戰者對戰
 讓我看看你是不是真的那麼強！
@@ -136,6 +163,7 @@ Thinking things through calmly and collectedly--that's the Team Mystic way.
 以Nice/Great/Excellent捉到寶可夢時獲得糖果XL的機率提高
 參加現場團體戰時可獲得額外神奇糖果XL
 Português
+夥伴寶可夢找到糖果所需行走距離減半
 一起來捕蟲！捕捉大挑戰
 一起來捕蟲！捕捉大挑戰 (1/3)
 一起來捕蟲！捕捉大挑戰 (2/3)
@@ -143,21 +171,23 @@ Português
 Campfire：收到來自{0}的邀請！
 No matter what happens, I remain courageous in battle! Team Valor all the way.
 一次只能使用一種薰香或神秘盒子
-Catch Card
-Caught on {0}, around {1}.
-RETAKE PHOTOS
-CHANGE PHOTO
-USE SNAPSHOT
-Select a photo for the Catch Card
-SHARE TO CAMPFIRE
-TAKE SNAPSHOT
-Catch Card
-Show off this Pokémon with a Catch Card
-Total {0} Caught: {1}
+閃卡
+{0}在{1}附近捉到牠
+{0}在{1}附近捉到野生的牠
+重新拍照
+更換照片
+使用Snapshot照片
+選擇閃卡用的照片
+分享至Campfire
+拍GO Snapshot照片
+閃卡
+做一張閃卡來炫耀這隻寶可夢吧！
+共捉到{1}隻{0}
 {0} Pokémon caught
+賞月皮皮
 For more in-depth information, <a href="{0}">visit the blog</a>.
 When Season of GO begins on May 31, your end-of-season rewards for Season 6 will be available on the Battle screen, including an Elite Fast TM if you reached rank 19 or higher. Your rating will be reset. Stay tuned—we'll update you if anything changes.
-GO Battle League Season of GO Schedule
+GO對戰聯盟（GO的季節）行程表
 究極解鎖：伽勒爾蛇紋熊社群日
 伽勒爾蛇紋熊捕捉大挑戰
 一個神秘的薰香：Part 1
@@ -198,6 +228,7 @@ GO Battle League Season of GO Schedule
 確認下載
 下載資料中…
 포켓몬 페스티벌 2022
+Element Cup Remix
 若未持有入場券，你將無法贈送入場券給朋友。
 很好，讓我看看我們練習的成果吧！
 很好，讓我看看我們練習的成果吧！
@@ -229,6 +260,7 @@ GO Battle League Season of GO Schedule
 哼，今天就先放你一馬。
 下次一定會更順利！
 下次一定會更順利！
+光之季節
 很好，讓我看看我們練習的成果吧！
 雖然我還是個新手，但你千萬別放水！
 噢……這真是太困難了。
@@ -256,16 +288,25 @@ GO Battle League Season of GO Schedule
 下次一定會更順利！
 挑戰者
 挑戰者在寶可補給站出現
+Evolution Cup
 堵攔熊姿勢
 2022 WCS冠軍姿勢
 捕蟲少年姿勢
+古茲馬姿勢
 7公里蛋中將可孵出焦點寶可夢
+身經百戰
 Français
+GO對戰聯盟限時挑戰 (1/5)
+GO對戰聯盟限時挑戰 (2/5)
+GO對戰聯盟限時挑戰 (3/5)
+GO對戰聯盟限時挑戰 (4/5)
+GO對戰聯盟限時挑戰 (5/5)
+GO對戰聯盟限時挑戰
 在GO對戰聯盟獲勝時的星星沙子增為3倍
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年8月13日11:00～14:00領取伽勒爾蛇紋熊社群日的特殊調查「伽勒爾蛇紋熊調查筆記」。詳情請至遊戲內快訊確認。請務必在上述活動時間內完成活動指定的課題，以取得活動獎勵。
 伽勒爾蛇紋熊調查筆記
-No thanks
-OK
+不用，謝謝
+開啟
 Deutsch
 可傳送1.5倍的禮物
 包包裡可存放的禮物增為1.5倍
@@ -578,27 +619,34 @@ UB01寄生物和UB02美麗…也就是虛吾伊德和費洛美螂正準備回到
 哈！你連我都打不贏，別妄想打贏亞洛大人！
 哈！你連我都打不贏，別妄想打贏亞洛大人！
 哈！你連我都打不贏，別妄想打贏亞洛大人！
+Halloween Cup: Ultra League Edition
 孵蛋禮盒
 洗翠盃
 團體戰日：勇士雄鷹（洗翠的樣子）
 洗翠探索：收藏家挑戰
 洗翠探索
-GO Battle League Timed Research Pass
+GO對戰聯盟限時挑戰入場券
 一次只能使用一種薰香
 擁有神祕香味的薰香。可將寶可夢吸引至你所在的地點，效果將持續60分鐘。當它吸引到特定寶可夢時，它的顏色將會改變。
-Grants access to GO Battle League Timed Research, allowing you to earn extra rewards by completing Trainer Battles.
-GO Battle League Timed Research Pass
+可以此入場券參加GO對戰聯盟限時挑戰。參加訓練家對戰時可獲得額外獎勵。
+GO對戰聯盟限時挑戰入場券
 不論你身處世界的何處，你都可以使用這張入場券在當地時間2022年8月27日的10:00～18:00參加遊戲裡的Pokémon GO Fest壓軸活動。
 一種可吸引野生寶可夢出現的特別薰香，每天都可以免費領到1個。在你持續走路時，它的效果將會持續 {0} 分鐘。
 散步小薰香
 洗翠探索：收藏家挑戰
 한국인
+好啦魷期間限定調查
 小小盃Remix
+叢林小小盃 Remix
 堵攔熊姿勢
 2022 WCS冠軍姿勢
 捕蟲少年姿勢
-Built at 2022-08-25T00:54:32.792340at SHA 9ec91231e0d959f552133165637b484ff791bc73Patch from: 0.245.1-SHA-fa319beb, 0.245.2-SHA-b0fe7bfc
+古茲馬姿勢
+Built at 2022-09-02T05:41:44.264229at SHA 13084dbfc7607c18088203293706406b21038e89Patch from: 0.245.2-SHA-b0fe7bfc, 0.247.0-SHA-0a48ad3b
+妖精之风
+二连踢
 攔堵
+LOCAL ONLY
 Next season starts on {0}!
 Next coming on {0}!
 未連線至Wi-Fi
@@ -607,6 +655,8 @@ Next coming on {0}!
 開啟來自贊助商的AR訊息，領取免費道具！
 開啟AR
 伽勒爾蛇紋熊將在GO Snapshot中驚喜現身5次
+<size=36>確定要將 {0} 傳送給博士？</size>傳送後將無法取消
+超能力盃
 在寶可補給站和道館散步時，可使用裝置拍攝動畫。動畫將被用來製作該地的3D地圖。
 捕捉 {0} 隻用散步小薰香吸引來的寶可夢
 捕捉1隻屬性和爆肌蚊相同的寶可夢
@@ -653,7 +703,9 @@ Next coming on {0}!
 謝謝你幫我測試散步小薰香！希望你每天的散步都能因為它變得更愉快。
 %PLAYERNAME%，你要好好保重身體，我們下次再見！
 讓{0}隻伽勒爾直衝熊進化
+讓 {0} 隻惡屬性的寶可夢進化
 強化 {0} 隻蟲屬性的寶可夢
+強化 {0} 隻惡屬性的寶可夢
 強化 {0} 隻毒屬性的寶可夢
 強化 {0} 隻岩石屬性的寶可夢
 為{0}種蟲屬性寶可夢拍攝GO Snapshot照片
@@ -662,6 +714,32 @@ Next coming on {0}!
 只要你持續移動，散步小薰香的效果將會持續15分鐘。這個薰香將能吸引到各種你過去曾經遇到的寶可夢，甚至是傳說的寶可夢！
 我每天都會給你一個散步小薰香，要不要現在就去試試看它的功能呢？希望你可以努力捕捉寶可夢囉！
 「予之糖蜜及沙塵，即可解放汝胡帕」
+嘿，%PLAYERNAME%，你最近還好嗎？
+謝謝你和里伊把我帶回來。你們看起來是一對不錯的拍檔呢。
+探索異世界的確是讓人興奮，但這同時也很辛苦。是你和美錄坦還有隊長，讓我的心能夠保持平靜。
+那像陽光一樣溫暖、像月光一樣溫和的那種感覺……
+那奇妙的感覺深深烙印在我的心裡。我相信我一定被什麼守護著……那真是一種不可思議的感覺……
+說到不可思議，%PLAYERNAME%，我有件事要拜託你。我回來之後發現有一隻寶可夢在我的研究室附近飄來飛去，牠的身體是空氣組成的嗎？
+我不知道那隻寶可夢是打哪裡來的。也許是究極之洞？難道牠也是究極異獸？
+你要不要試著跟里伊一起培育這隻寶可夢？如果你發現了什麼，請你務必跟我說。
+訓練家你好。解決了究極異獸的問題之後，現在是個回想我們冒險的好時間。
+每當究極之洞出現，我總是反射性地覺得牠危險。但只要有你在，我會覺得這同時也是我們一起成長的機會。
+請容我再次自我介紹。
+我是GO究極調查隊的里伊，而%PLAYERNAME%，就是我的朋友。
+今天我們要去完成什麼任務呢？
+維羅博士要我們去調查一隻不可思議的寶可夢？好，我知道了。
+啊，我曾經聽過有這種特徵的寶可夢。
+這溫柔的光輝…沒錯，我想牠一定就是科斯莫古。
+我們趕快讓科斯莫古見見這美麗的世界吧。
+什麼？你想更進一步認識科斯莫古？
+在遙遠的過去，牠曾被稱為是星之子。
+但沒有人知道詳細的狀況為何。
+也許我們一起觀察，就能找出什麼頭緒也說不定。
+我們要先跟科斯莫古建立感情。
+牠也許想要我們幫牠取個綽號？
+牠的外貌讓我想起宇宙……叫牠小星雲好了，你覺得呢？
+%PLAYERNAME%，我想還是交給你來取綽號吧。
+我很期待能跟你一起培育這隻科斯莫古。我想我們一定能從牠身上學到很多。
 這個……顏色……
 啊，訓練家你來啦。我正在觀察寶可夢，有個問題想問你。
 今天有好多蛇紋熊出現，可是牠們看起來好像不太一樣。
@@ -687,17 +765,32 @@ Next coming on {0}!
 我沒想到牠進化後會變成這個樣子……
 為什麼會有如此劇烈的變化呢？我也很想聽聽你那博士會怎麼說呢。
 這次的調查也讓我學到了很多。謝謝你，訓練家。
+宇宙知己
+宇宙知己 (1/10)
+宇宙知己 (2/10)
+宇宙知己 (3/10)
+宇宙知己 (4/10)
+宇宙知己 (5/10)
+宇宙知己 (6/10)
+宇宙知己 (7/10)
+宇宙知己 (8/10)
+宇宙知己 (9/10)
+宇宙知己 (10/10)
 伽勒爾蛇紋熊調查筆記
 伽勒爾蛇紋熊調查筆記 (1/4)
 伽勒爾蛇紋熊調查筆記 (2/4)
 伽勒爾蛇紋熊調查筆記 (3/4)
 伽勒爾蛇紋熊調查筆記 (4/4)
+在戰中使出1次效果絕佳的特殊招式
 使用 {0} 個散步小薰香
 使用1個散步小薰香
 捕捉{0}隻伽勒爾蛇紋熊
 讓{0}隻伽勒爾蛇紋熊進化
 為伽勒爾蛇紋熊拍{0}張GO Snapshot照片
 附近團體戰
+LOCAL RAID
+完成突破性進展時可獲得更多道具
+完成突破性進展時可獲得更多星星沙子
 未完成任何田野調查課題
 已完成 {0} 個田野調查課題
 已完成1個田野調查課題
@@ -710,7 +803,8 @@ See schedule
 朋友開啟你送的活動入場券時
 收到別人贈送的活動入場券時
 在下次捕捉寶可夢時會自動顯示上次最後投出的精靈球
-Show Campfire
+顯示Campfire
+只要你使用我的推薦代碼 {0} 加入或重返Pokémon GO，就能獲得歡迎獎和其他特別獎勵。{1}
 クロス新宿ビジョン
 {0}收到你的活動邀請了！
 {0}收到你的活動邀請了！
@@ -767,6 +861,7 @@ Pokémon GO Fest 2022: 西雅圖 - 公園遊記 (5/5)
 Group
 附文字
 其他
+NEW
 為友情禮物選擇貼圖時，便可確認最近使用過的貼圖
 未持有這個類型的貼圖
 目前未持有任何貼圖。可從友情禮物、商店或寶可補給站獲得貼圖。
@@ -776,9 +871,10 @@ Group
 最近收集的
 最近使用的
 特殊調查「伽勒爾蛇紋熊調查筆記」的入場券在商店中上架
-Turn on notifications
-Turn on push notifications to stay up-to-date on new events and features.
-Stay in the know!
+開啟通知
+開啟推播通知，即可接收活動及遊戲功能等最新資訊
+不錯過任何資訊！
+Ultra Premier
 立刻使用
 究極解鎖：一起來捕蟲！
 究極解鎖：洗翠探索
@@ -805,4 +901,6 @@ WCS 2022：獎勵限時調查
 團體獎勵
 在Pokémon GO的攤位為你的夥伴寶可夢拍一張Snapshot照片
 Pokémon World Championships 2022
+Weather Cup
 當你在Pokémon GO裡探險時，有機會收到附近贊助商提供的AR廣告禮物。若要開啟此禮物，請先開放照相機的使用權限。
+Willpower Cup

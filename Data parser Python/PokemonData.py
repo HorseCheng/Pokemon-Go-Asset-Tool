@@ -20,7 +20,6 @@ chi = chi ["data"]
 
 with open("Game_Master/" + date + ".json") as f:
     master = json.load(f)
-master=master ["template"]
 
 typeeform = open("Coefficient/Type.txt", "r", encoding="UTF-8")
 weatherform = open("Coefficient/Weather.txt", "r", encoding="UTF-8")
@@ -131,6 +130,10 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
+engmovedict["0350"] = "Fairy Wind"
+chimovedict["0350"] = "妖精之風"
+engmovedict["0356"] = "Double Kick"
+chimovedict["0356"] = "二連踢"
 engmovedict["0370"] = "Obstruct"
 chimovedict["0370"] = "攔堵"
 
@@ -237,9 +240,9 @@ class pokemon():
         if test== None: return None
         if inn.get("evolutionBranch")==None: return None
         if num==2: 
-            if len(test)==1: return None
+            if len(test)==1 or not ("tempEvoId" in test[1]): return None
         test=test[num-1]
-        type1= self.typehandle(test.get("typeOverride",""))
+        type1= self.typehandle(test.get("typeOverride1",""))
         type2= self.typehandle(test.get("typeOverride2",""))
         weather1=self.weatherhandle(type1)
         weather2=self.weatherhandle(type2, weather1)
@@ -262,7 +265,7 @@ class pokemon():
         if test== None: return None
         purified_stardust = test["purificationStardustNeeded"]
         purified_candy = test["purificationCandyNeeded"]
-        capture = inn["encounter"].get("shadowFormBaseCaptureRate","")
+        capture = inn["encounter"].get("obShadowFormBaseCaptureRate","")
         flee = inn["encounter"].get("baseFleeRate","")
         
         return{"stardust": purified_stardust, "candy": purified_candy,

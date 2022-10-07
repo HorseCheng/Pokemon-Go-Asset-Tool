@@ -22,6 +22,7 @@ Seville, May 15, 2022
 Pokémon GO Safari Zone
 Seville, May 15, 2022
 Pokémon GO Safari Zone—Early Access
+Five total Special Trades per day
 Great job! Looks like you’ve caught {0}, a {1}-type Pokémon!
 Make sure to use attacks your opponent’s Pokémon are weak to!
 Make sure to use attacks your opponent’s Pokémon are weak to!
@@ -228,6 +229,10 @@ Pokémon Air Adventures: Okinawa (2/5)
 Pokémon Air Adventures: Okinawa (3/5)
 Pokémon Air Adventures: Okinawa (4/5)
 Pokémon Air Adventures: Okinawa (5/5)
+1. Go to Settings > Pokémon GO
+2. Tap Notifications
+3. Turn on Allow Notifications
+To improve your gameplay experience, allow Pokémon GO to access notifications.
 Welcome to Alola
 Alolan Form
 Fifth-Anniversary Collection
@@ -267,18 +272,24 @@ Overall, your {0} has room for improvement as far as battling goes.
 Overall, your {0} is above average.
 Overall, your {0} is a decent Pokémon.
 Overall, your {0} is pretty decent!
-The size of your {0} is...colossal. This is indeed exceptional. Fascinating!
-Your {0} is gigantic—the largest I've ever seen!
+Your {0} would be categorized as unusually large.
+Hey, that’s an enormous {0}! 
 Your {0} is just HUGE!
 Your {0} is above average in size.
-Your {0} is rather sizable, that's for sure!
+Your {0} is rather sizable, that’s for sure!
 Your {0} is a BIG one!
 Your {0} is below average in size.
-Aww, what a small {0}! It's rather cute, I'd say.
-Your {0} is a little small for its kind, don't you think?
+Aww, what a small {0}! It’s rather cute, I’d say.
+Your {0} is a little small for its kind, don’t you think?
+Your {0} would be categorized as unusually small.
+That's a lil’ {0} you’ve got there!
+Your {0} is pretty petite, huh? 
+The size of your {0} is...colossal. This is indeed exceptional. Fascinating!
+Your {0} is gigantic—the largest I’ve ever seen!
+Your {0} is massive! Could it be the biggest {0} in the world?
 Your {0} is tinier than any we have on record. Astounding.
-Your {0} is so tiny, I almost didn't notice it!
-Wh-whoa. That's the tiniest {0} I've ever seen!
+Your {0} is so tiny, I almost didn’t notice it!
+Wh-whoa. That's the tiniest {0} I’ve ever seen!
 Its stats exceed my calculations. It's incredible!
 I'm blown away by its stats. WOW!
 Its stats are the best I've ever seen! No doubt about it!
@@ -384,11 +395,11 @@ Pokémon are our tools. We are entitled to power them up as we so choose. Common
 My sole purpose in life is to win. I’ll vanquish whoever dares to get in my way.
 Oh, do YOU think you can beat me? Someone of your standing? Hah!
 What a fool you are to even think of battling me.
-You could never hope to overcome my power. And soon, I’ll be even more powerful...
-You could never hope to overcome my power. And soon, I’ll be even more powerful...
-You could never hope to overcome my power. And soon, I’ll be even more powerful...
-You could never hope to overcome my power. And soon, I’ll be even more powerful...
-You could never hope to overcome my power. And soon, I’ll be even more powerful...
+Don’t be too disappointed. It was always going to end like this.
+I never lose. Now get out of my sight.
+If this is the best Candela and her little friends can offer, Team GO Rocket has nothing to worry about.
+If the rest of the Trainers of this world are like you, then Team GO Rocket’s success is assured.
+It was foolish of you to think you could beat me. It’s because of my brilliance that we have Shadow Pokémon!
 Please enable camera permissions to access this feature.
 Number of other photos saved to your device: {0}.
 Slowly look around a flat, open area with your camera.
@@ -409,6 +420,7 @@ Find Your Angle
 Tap on your Pokémon to get its attention.Brush across your Pokémon to get it to face you.
 Interact with Your Pokémon
 You can take a Pokémon out of its Poké Ball and take photos together! You may even encounter a surprise!
+You can take a Pokémon out of its Poké Ball and snap photos together!
 Take photos of your Pokémon anytime, anywhere!
 Find a flat surface and tap on the footprints to place your Pokémon.
 Position Your Pokémon
@@ -522,6 +534,7 @@ Delibird Gloves
 No Gloves
 LeafGreen Wristbands
 Giovanni Gloves
+Guzma-StyleWristbands
 Gym Leader Gloves
 Hoopa Bangles
 Korrina-Style Gloves
@@ -549,6 +562,7 @@ Bea-StyleHeadband
 Bidoof Hat
 N-Style Cap
 Newsy Cap
+Cosmog Hat
 Cubone Cap
 Dedenne Knit Cap
 Ball Cap
@@ -574,6 +588,7 @@ Pikachu Visor
 Goomy Hat
 Festive Hat
 The North Face x Gucci Hat
+Guzma-StyleSunglasses
 Gyarados Hat
 Johto Cap
 Beanie Hat
@@ -599,6 +614,7 @@ Pink Beret
 Gray Beret
 New Year’sHeadband
 New Year’s Party Hat
+Nihilego Hat
 Noibat Cap
 Obstagoon Hat
 Pa’u Style Oricorio Hat
@@ -636,7 +652,10 @@ Team Rocket Cap
 Team SkullBeanie
 Top Hat
 Ultra Moon Hat
+Rhi-Style Helmetwith Goggles
+Rhi-Style Helmet
 Verizon Cap
+2022 WorldsChampion Hat
 Whimsicott Earmuffs
 Professor Willow Glasses
 Woobat Earrings
@@ -660,6 +679,7 @@ Giovanni Pants
 Gladion Pants
 Blue-Style Pants
 Festive Shorts
+Guzma-Style Pants
 Gym Leader Skirt
 Johto Pants
 Loose Polka-Dot Pants
@@ -695,6 +715,7 @@ Team Skull Shorts
 Spark-Style Pants
 Ultra Moon Shorts
 Veteran Leggings
+2022 WorldsChampion Pants
 6th AnniversaryWhite Suit Top
 Ace Vest
 Ace Long Top
@@ -706,9 +727,11 @@ Ball Guy Set
 Battle Girl Tank Top
 Bea-StyleOutfit
 Fitted Shirt
+Buzzwole Top
 N-Style Top
 Celebi Shirt
 Chimchar Costume
+Cosmog Top
 Stantler Sweater
 Día de Muertos T-shirt
 Classic Longsleeve
@@ -742,6 +765,7 @@ Festive Jacket
 Lugia T-shirt
 Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
+Guzma-Style Top
 Gym Leader Top
 Team Instinct Happi Coat
 Team Mystic Happi Coat
@@ -806,6 +830,7 @@ Safari Zone T-shirt 2021
 Safari Zone T-shirt 2021
 Samsung Galaxy Tie-Dye Shirt
 Land Forme ShayminT-shirt
+Sky Forme ShayminT-shirt
 Shiny Mew Shirt
 Slowpoke Forever Shirt
 Slowpoke Tail Shirt
@@ -848,6 +873,7 @@ Active Tee
 Pikachu Tee
 Turtwig Costume
 Ultra Moon Tank
+Rhi-Style Outfit
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -857,6 +883,9 @@ Veteran Coat
 Victini Tee
 Victini Tee
 Regional Champ2022 Tee
+2022 Worlds Tee
+2022 WorldsParticipant Tee
+2022 WorldsChampion Jacket
 Winter Coat
 6th AnniversaryFormal Flats
 Ace Boots
@@ -915,7 +944,9 @@ Team Rainbow Rocket Boots
 Team Skull Shoes
 Spark-Style Shoes
 Ultra Moon Sandals
+Rhi-Style Shoes
 Veteran Boots
+2022 WorldsChampion Shoes
 Winter Boots 1
 Winter Boots 2
 Winter Boots 3
@@ -1013,6 +1044,7 @@ Delibird Gloves
 No Gloves
 FireRed Wristbands
 Giovanni Gloves
+Guzma-StyleWristbands
 Gym Leader Gloves
 Hoopa Bangles
 Jogger Watch
@@ -1041,6 +1073,7 @@ Bea-StyleHeadband
 Bidoof Hat
 N-Style Cap
 Newsy Cap
+Cosmog Hat
 Cubone Cap
 Dedenne Knit Cap
 Trainer Visor
@@ -1066,6 +1099,7 @@ Pikachu Visor
 Goomy Hat
 Festive Hat
 The North Face x Gucci Hat
+Guzma-StyleSunglasses
 Gyarados Hat
 Johto Cap
 Beanie Hat
@@ -1090,6 +1124,7 @@ Pink Beret
 Gray Beret
 New Year’sHeadband
 New Year’s Party Hat
+Nihilego Hat
 Noibat Cap
 Obstagoon Hat
 Pa’u Style Oricorio Hat
@@ -1126,7 +1161,10 @@ Team Rocket Hat
 Team Rocket Cap
 Top Hat
 Ultra Sun Hat
+Rhi-Style Helmetwith Goggles
+Rhi-Style Helmet
 Verizon Cap
+2022 WorldsChampion Hat
 Whimsicott Earmuffs
 Professor Willow Glasses
 Woobat Earrings
@@ -1149,6 +1187,7 @@ Giovanni Pants
 Gladion Pants
 Blue-Style Pants
 Festive Shorts
+Guzma-Style Pants
 Gym Leader Shorts
 Johto Pants
 Jogger Shorts
@@ -1182,6 +1221,7 @@ Team Skull Shorts
 Spark-Style Pants
 Ultra Sun Shorts
 Veteran Pants
+2022 WorldsChampion Pants
 6th AnniversaryWhite Suit Top
 Ace Vest
 Ace Top
@@ -1193,9 +1233,11 @@ Ball Guy Set
 Bea-StyleOutfit
 Business Blazer
 Brock Shirt
+Buzzwole Top
 N-Style Top
 Celebi Shirt
 Chimchar Costume
+Cosmog Top
 Stantler Sweater
 Día de Muertos T-Shirt
 Sash Hoodie
@@ -1233,6 +1275,7 @@ Festive Jacket
 Lugia T-shirt
 Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
+Guzma-Style Top
 Gym Leader Top
 Team Instinct Happi Coat
 Team Mystic Happi Coat
@@ -1299,6 +1342,7 @@ Safari Zone T-shirt 2021
 Safari Zone T-shirt 2021
 Samsung Galaxy Tie-Dye Shirt
 Land Forme ShayminT-shirt
+Sky Forme ShayminT-shirt
 Shiny Mew Shirt
 Slowpoke Forever Shirt
 Slowpoke Tail Shirt
@@ -1339,6 +1383,7 @@ Team Valor Tee
 The Thirty
 Turtwig Costume
 Ultra Sun Tank
+Rhi-Style Outfit
 UNIQLO UT Eevee
 UNIQLO UT Pikachu
 UNIQLO UT Ditto
@@ -1348,6 +1393,9 @@ Veteran Jacket
 Victini Tee
 Victini Tee
 Regional Champ2022 Tee
+2022 Worlds Tee
+2022 WorldsParticipant Tee
+2022 WorldsChampion Jacket
 Winter Coat
 6th AnniversaryFormal Shoes
 Ace Boots
@@ -1407,7 +1455,9 @@ Team Rainbow Rocket Boots
 Team Skull Shoes
 Spark-Style Shoes
 Ultra Sun Shoes
+Rhi-Style Shoes
 Veteran Boots
+2022 WorldsChampion Shoes
 Winter Boots 1
 Winter Boots 2
 Winter Boots 3
@@ -1573,6 +1623,36 @@ Pokémon Air Adventures: Okinawa
 Pokémon Air Adventures 2022
 Pokémon Air Adventures: Okinawa
 Pokémon Air Adventures 2022
+Partner Research - Season of Light: ChargeSPOT
+Partner Research: ChargeSPOT
+Partner Research - Season of Light: Family Mart
+Partner Research: Family Mart
+Season of Light Partner Research: Verizon
+Partner Research: Verizon
+Partner Research: Verizon (1/4)
+Partner Research: Verizon (2/4)
+Partner Research: Verizon (3/4)
+Partner Research: Verizon (4/4)
+2022 Pokémon World Championships, Bonus Timed Research
+Team Building: Great League
+Goyang 2022
+Pokémon GO Safari Zone—Early Access
+Goyang 2022
+Pokémon GO Safari Zone
+Goyang, September 23, 2022
+Pokémon GO Safari Zone—Early Access
+Goyang, September 23, 2022
+Pokémon GO Safari Zone
+Goyang, September 24, 2022
+Pokémon GO Safari Zone—Early Access
+Goyang, September 24, 2022
+Pokémon GO Safari Zone
+Goyang, September 25, 2022
+Pokémon GO Safari Zone—Early Access
+Goyang, September 25, 2022
+Pokémon GO Safari Zone
+Partner Research - Season of Light: Hanamaru Udon
+Partner Research: Hanamaru Udon
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -2076,8 +2156,8 @@ Ultra League Veteran
 Mega Evolve {0} different species of Pokémon.
 Mega Evolve one species of Pokémon.
 Mega Evolution Guru
-Visit {0} unique PokéStops.
-Visit a PokéStop.
+Spin {0} unique PokéStops.
+Spin a PokéStop.
 Sightseer
 N0
 Defeat {0} different species of Pokémon in raids.
@@ -2127,19 +2207,21 @@ Your account has been suspended for violating the Terms of Service.<a href="thre
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center</a> for more information.
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.
 Learn more
-<size=36><b>Do you want to transfer {0} Pokémon?</b></size>You can’t undo a transfer.
-<size=36><b>Only {0} of the selected Pokémon can be transferred.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
-<size=36><b>Only one of the selected Pokémon can be transferred.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
+<size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You cannot undo this action once you transfer.
+<size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
+<size=36><b>Only one of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
 Select Pokémon
-Received Candy.
+Got Candy from the professor.
 {0} Event Pokémon
 You have selected at least one Legendary Pokémon, Mythical Pokémon, Ultra Beast, or event Pokémon.
 {0} Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
 {0} Legendary or Mythical Pokémon
 {0} Mega-Leveled Pokémon
 You have not selected any Legendary Pokémon, Mythical Pokémon, Ultra Beasts, or event Pokémon.
-Are you sure you want to transfer these Pokémon?
+Are you sure you want to transfer these Pokémon to the professor?
 Your Selection Contains These Pokémon:
+{0} XXL Pokémon
+{0} XXS Pokémon
 Battle Box
 {0} used {1}!
 GO Battle Day
@@ -2887,6 +2969,7 @@ Gyms & Raids
 GO Battle Night
 No Pokémon Left
 Battle {0} GO Tour Challengers
+A ticket to access a Timed Research challenge for the GO Battle League. This challenge will be active until the end of the current GO Battle League Season.
 Already selected for battle
 Select your Pokémon!
 Go battle!
@@ -2901,6 +2984,8 @@ SUMMARY
 Are you sure you want to give up?
 Go, {0}!
 Go, {0}!
+Battle {0} Challengers
+Battle a Challenger
 Battle Showdown
 Battle Weekend
 Battle Weekend Challenge
@@ -2909,6 +2994,72 @@ Battle Weekend Challenge (2/3)
 Battle Weekend Challenge (3/3)
 Battle Weekend: GO Battle League!
 Battle Weekend: Raids, Grunts, and Gyms!
+Let me see if you are good enough!
+Let me see if you are good enough!
+Don’t get cocky just because you beat me!
+Don’t get cocky just because you beat me!
+Nice battle!
+Nice battle!
+Bug Pokémon evolve young, so they get stronger that much faster.
+Bug Pokémon evolve young. So they get stronger that much faster.
+My bug Pokémon lost! Oh, what a shame.
+My bug Pokémon lost! Oh, what a shame.
+My grown-up Pokémon are pretty tough, too!
+My grown-up Pokémon are pretty tough, too!
+Oh, you are a cute little Trainer! I like you, but I won’t hold back!
+Oh, you are a cute, little Trainer! I like you, but I won’t hold back!
+Gosh... I thought you were weak...
+Gosh... I thought you were weak...
+You must get better to beat me! Keep trying.
+You must get better to beat me! Keep trying.
+I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
+I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
+Wins and losses—I experienced both.
+Wins and losses—I experienced both.
+The one who wants to win the most will!
+The one who wants to win the most will!
+My Pokémon and I are bound together by friendship. Our bond will never be broken!
+My Pokémon and I are bound together by friendship. Our bond will never be broken!
+I lost! I’m speechless!
+I lost! I’m speechless!
+We martial artists fear nothing!
+We martial artists fear nothing!
+I travel the world to train my Pokémon. Now, I wish to battle with you.
+I travel the world to train my Pokémon. Now, I wish to battle with you.
+Whoa, whoa. You’re overwhelming!
+Whoa, whoa. You’re overwhelming!
+You are both kind and strong...
+You are both kind and strong...
+I meditate under an icy waterfall each day to strengthen my mind and body.
+I meditate under an icy waterfall each day to strengthen my mind and body.
+I wouldn’t lose to you in skiing...
+I wouldn’t lose to you in skiing...
+Do you see how serious we are?
+Do you see how serious we are?
+My chance of losing? Not even one percent!
+My chance of losing? Not even one percent!
+I know my shortcomings now. Thanks for showing me!
+I know my shortcomings now. Thanks for showing me!
+I’m disappointed.
+I’m disappointed.
+Purple is such a noble and elegant color, don’t you agree? Quite befitting of a Champion.
+Purple is such a noble and elegant color, don’t you agree? Quite befitting of a Champion.
+A well-earned victory. Truly, you are worthy of being called Champion!
+A well-earned victory. Truly, you are worthy of being called Champion!
+Ah, the Champion is me!
+Ah, the Champion is me!
+... ... ...
+... ... ...
+A loss. The end. And in loss, we learn.
+A loss. The end. And in loss, we learn.
+Spool of fate, unfurl. Respite in a swirling storm. Victory is ours.
+Spool of fate, unfurl. Respite in a swirling storm. Victory is ours.
+Pokémon should be bold—in color and in strength!
+Pokémon should be bold—in color and in strength!
+You’re blindingly bold!
+You’re blindingly bold!
+What’d I tell ya? Bold is just better.
+What’d I tell ya? Bold is just better.
 Pokémon BD & SP Event Challenge
 Pokémon BD & SP Event
 You and {0} are now friends.
@@ -2936,7 +3087,10 @@ Mystery Box is now available!
 Open the Mystery Box in your Item Bag for a mysterious effect.
 Open
 MYSTERY BOX
+You currently have no Eggs incubating!
+Nearby Gym %s has an open spot for your Pokémon!
 Looking for nearby Pokémon!
+A Pokémon you’ve never caught is %1$s meters away near %2$s!
 Bidoof Breakout
 Bidoof Day
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
@@ -2963,15 +3117,21 @@ Let’s wait until morning. I doubt they’ll show themselves again for a while.
 2× chance to get Candy XL from catching Pokémon
 2× chance to get Deino Candy XL from catching Deino
 2× chance to get Stufful Candy XL from catching Stufful
+2× chance to receive Zigzagoon Candy XL from catching Galarian Zigzagoon
 3× XP for catching Pokémon
 3× Catch XP
 4× Catch Stardust
 4× Catch XP
 Bonus currently active!
 Additional Candy for catching Pokémon with Nice, Great, and Excellent Throws
+Event Catch Cup available for local Battlers
+Post-event Catch Cup available in the GO Battle League for Safari Zone Goyang 2022 attendees
 Evolve Alolan Graveler to get an Alolan Golem that knows the Fast Attack Rollout
 Evolve Zweilous to get a Hydreigon that knows the Charged Attack Brutal Swing
+Evolve Boldore to get a Gigalith that knows the Charged Attack Meteor Beam
 Evolve Staravia to get a Staraptor that knows the Fast Attack Gust
+Evolve Galarian Linoone to get an Obstagoon that knows the Charged Attack Obstruct!
+Ultra Bonus: 2× Catch XP and 2× Transfer Candy
 Special event sticker available from spinning PokéStops in the area
 Special event stickers available from spinning PokéStops in the area
 If enough Pokémon are caught with help from a single Lure Module, the 3× Catch Stardust bonus for Trainers near the Lured PokéStop will become a 4× bonus for 30 minutes
@@ -2982,9 +3142,11 @@ Community Day Challenge: Raid
 If enough Pokémon are caught with help from a single Lure Module, the 3× XP bonus for catching Pokémon near the Lured PokéStop will become a 4× bonus for 30 minutes.
 Community Day Challenge: Catch
 Community Day Challenge: Raid
+If Trainers work together to win a Boldore raid, large numbers of Roggenrola will appear in the area for 30 minutes.
 If Trainers defeat Staravia in a Raid Battle, more wild Starly will appear around the Gym that hosted the raid for 30 minutes.
 If enough Pokémon are caught with help from a single Lure Module, the 3× Catch XP bonus for Trainers near the Lured PokéStop will be increased to a 4× bonus for 30 minutes
 Bonus available!
+If Trainers work together to win a Galarian Linoone raid, large numbers of Galarian Zigzagoon will appear in the area for 30 minutes.
 3-hour Incense duration
 3-hour Lure Module duration
 6-hour Magnetic Lure Module duration
@@ -3014,8 +3176,11 @@ If Trainers participate in a raid together, large numbers of Bug-type Pokémon w
 More Pikachu are appearing in the wild
 One additional Special Trade can be made during the event and up to five hours afterward for a maximum of three for the day.
 One additional Special Trade during the event and up to two hours after for a maximum of two for the day
+One additional Special Trade can be made during the event and up to five hours after for a maximum of four for the day
+At the top of each hour, Spritzee will appear in large numbers!
 Trades made during the event and up to five hours after will require 50% less Stardust.
 Trades made during the event and up to two hours after will require 50% less Stardust
+Trades made during the event and up to five hours after will require 75% less Stardust
 Bonus unlocked!
 Increased chance to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws
 Increased Hoppip Candy XL from catching Skiploom
@@ -3430,7 +3595,20 @@ Catch Box
 2× chance to get Candy XL from catching Pokémon
 4× chance to get Candy XL from catching Pokémon
 3× chance to get Candy XL from catching Pokémon
+Catch Card
+Caught on {0}, around {1}.
+Caught on {0} in the wild, around {1}.
+RETAKE PHOTOS
+CHANGE PHOTO
+USE SNAPSHOT
+Select a photo for the Catch Card
+SHARE TO CAMPFIRE
+TAKE SNAPSHOT
+Catch Card
+Show off this Pokémon with a Catch Card
+Total {0} Caught: {1}
 Catch Cup
+Catch!
 You caught {0} Pokémon
 2× Catch Stardust, 2× Catch Candy, and 2× Catch XP
 2× Catch Stardust
@@ -3811,6 +3989,7 @@ Winnipeg
 Yokohama
 Zagreb
 Zurich
+Clefairy Commotion
 I won’t let Giovanni down!
 You? Defeat me? Not gonna happen.
 You’re nothing more than a weak distraction.
@@ -3867,6 +4046,7 @@ BATTLE
 Blanche
 My analysis shows that you’re a force to be reckoned with. But can you match my techniques?
 Team Mystic Leader
+For more in-depth information, <a href="{0}">visit the blog</a>.
 {0} rose!
 {0} rose sharply!
 {0} rose drastically!
@@ -3904,6 +4084,7 @@ Attack incoming! Use a Protect Shield?
 {0} severely fell!
 Spin to build your shield!
 Attack incoming!
+When Season of GO begins on May 31, your end-of-season rewards for Season 6 will be available on the Battle screen, including an Elite Fast TM if you reached rank 19 or higher. Your rating will be reset. Stay tuned—we’ll update you if anything changes.
 Disable friend battles
 You and your friends won’t be able to battle each other.
 Disable nearby battles
@@ -4080,6 +4261,7 @@ Grunt Defeated
 Pokémon Remaining
 Surrender and exit?You won’t receive any rewards.
 Your opponent no longer wants to battle.
+GO Battle League Season of GO Schedule
 TRAIN
 Ultra League
 USE THIS PARTY
@@ -4101,9 +4283,12 @@ Community Day: Hoppip
 Community Day: Machop
 Community Day: Magikarp
 Community Day: Magmar
+Check out our Community Day map to find the best places to spend Community Day!
+Meet other Trainers
 Mudkip Community Day Classic
 Community Day: Oshawott
 Community Day: Porygon
+Community Day: Roggenrola
 Community Day: Roselia
 Community Day: Sandshrew
 Community Day: Seedot
@@ -4115,6 +4300,8 @@ Community Day: Stufful
 Community Day: Swablu
 Community Day: Tepig
 Community Day: Weedle
+Ultra Unlock: Community Day ー Galarian Zigzagoon
+Galarian Zigzagoon: Catch Challenge
 Complete an AR Mapping task
 Please open Pokémon HOME and finish moving your Pokémon.
 {0} was effective.
@@ -4136,11 +4323,18 @@ Event Pokémon appearing in raids
 Event Pokémon appearing in the wild
 Failed to create tag.
 CREATE TAG
+Created By
 A Mysterious Incense Part 1
 A Mysterious Incense Part 2
 A Mysterious Incense Part 2 (1/2)
 A Mysterious Incense Part 2 (2/2)
+An Intriguing Incense Part 1
+An Intriguing Incense Part 2
+An Intriguing Incense Part 2 (1/2)
+An Intriguing Incense Part 2 (2/2)
+Activate Daily Adventure Incense and begin to explore, and you may encounter Pokémon not frequently seen in the wild!
 Special Incense with a mysterious fragrance that attracts wild Pokémon to your location as you move for {0} minutes. You can receive one each day at no cost.As an added bonus, you’ll receive {1} Poké Balls when you use Daily Adventure Incense if you currently have less than {2} Poké Balls in your Item Bag. You must have space in your Item Bag for this bonus to activate.
+Daily Adventure Incense
 Hey there, {0}! Recently, I’ve been working on a special kind of Incense, and I’ve gone ahead and equipped it for you. Now you’ll be sure to find a Pokémon appearing just for you every day!
 One guaranteed single-use Incubator per day by spinning a Photo Disc at a PokéStop
 Used Daily Adventure Incense!
@@ -4156,7 +4350,6 @@ Type Surge: Dark
 MMM dd, yyyy
 d
 {0}D {1}H
-Dragonspiral Descent Collection Challenge
 Dragonspiral Descent
 Día de Muertos 2021 Collection Challenge
 December Community Day Ticket
@@ -4208,7 +4401,7 @@ Please verify your email address to confirm.
 Please verify your parent’s email to confirm.
 Do you want to delete the {0} battle party?
 Are you sure you want to discard this Gift?
-This tag will be removed from the Pokémon it has been assigned to. Pokémon will not be transferred.
+This tag will be removed from the Pokémon it has been assigned to. Pokémon will not be transferred to Professor Willow.
 Are you sure you want to delete the {0} tag?
 Failed to delete tag.
 Are you sure you want to delete these premium items? This cannot be undone.
@@ -4237,6 +4430,27 @@ Only one of each Pokémon may be assigned to defend a Gym at the same time.
 Mythical Pokémon can't be left at Gyms.
 DON’T USE ADVENTURE SYNC
 2× hearts with your buddy
+All assets have been downloaded.
+You have successfully downloaded all assets to your device. Now, let’s GO!
+You have successfully downloaded Pokémon GO assets to your device.<size=28><color=#198496><b>Downloaded {0} of {1} MB</b></color></size>
+Asset Download Complete
+We recommend ensuring you have sufficient storage space before you proceed.You must be connected to Wi-Fi to download all assets.
+Are you sure you want to download all Pokémon GO assets to your device?
+Reduce data drain and loading times by downloading all game assets directly to your device. 
+An error occurred while downloading Pokémon GO assets to your device. <size=28><color=#F2A64B><b>Downloaded {0} of {1} MB</b></color></size>Would you like to retry?
+Asset Download Incomplete
+No more assets left to download.
+NOT NOW
+PAUSE DOWNLOAD
+Asset Download Paused
+You can pause this download and resume it through the Settings menu at any time.
+Downloaded {0} of {1} MB
+Asset Download Stopped
+The download was unable to finish because the device storage was full. Please free up sufficient space and try again.
+Download All Assets
+The download was unable to finish because your Wi-Fi connection was lost. Please reconnect and try again.
+YES, DOWNLOAD
+Downloading Assets
 Type Surge: Dragon
 Dragon Boat Festival
 포켓몬 페스티벌 2022
@@ -4269,6 +4483,7 @@ Adventure Sync: Eggs
 Eggstravaganza
 Type Surge: Electric
 Element Cup
+Element Cup Remix
 Elite Charged TM available in the Community Day Box
 Elite Fast TM available in the Community Day Box
 Teach {0}
@@ -4325,7 +4540,7 @@ Pokémon Caught
 TOTAL
 {0} XP
 Your Pokémon Box is full. You can buy more space in the shop.
-You can transfer Pokémon or upgrade your Pokémon storage.
+You can transfer Pokémon to Professor Willow, or upgrade your Pokémon storage.
 ???
 A wild <b>{0}</b> appeared!
 Great job this season! Collect your rewards from the GO Battle League.
@@ -4414,7 +4629,7 @@ Invalid Trainer Code; Trainer not found.
 An error occurred in trying to update your battle party.
 Postcard already pinned
 Postcard not found
-Cannot delete favorite postcard
+Cannot remove favorite Postcard
 Postcard Book full
 A Raid Boss has taken control of the Gym!
 Your referral code could not be refreshed.
@@ -4432,6 +4647,7 @@ Sorry. You've reached the limit of Pokémon you can assign to Gyms.
 This nickname is no longer available.
 Not Available
 Currently, your network connection is unstable. Please try again later.
+Event-themed wild Pokémon are appearing in the area!
 Season of Heritage: December Bonus
 Cubone can evolve into Alolan Marowak
 Exeggcute can evolve into Alolan Exeggutor
@@ -4556,56 +4772,55 @@ Encounter Bidoof that know Ice Beam
 Encounter Bidoof that know Shadow Ball
 Encounter Bidoof that know Superpower
 Encounter Bidoof that know Thunderbolt
-Evolve Piloswine to get a Mamoswine that knows Ancient Power
 Evolve Metang to get a Metagross that knows Meteor Mash
 Bonus Event
 New Pokémon Snap Celebration
 Ditto disguised as more Pokémon in the wild
-Let me see if you are good enough!
-Let me see if you are good enough!
+OK, just like we practiced!
+OK, just like we practiced!
 <taunt>Hi! I like shorts! They’re comfy and easy to wear!
-Don’t get cocky just because you beat me!
-Don’t get cocky just because you beat me!
+Oof... That was rough.
+Oof... That was rough.
 LenTao9
 GO Tour Challenger
-Nice battle!
-Nice battle!
-Bug Pokémon evolve young. So they get stronger that much faster.
-Bug Pokémon evolve young. So they get stronger that much faster.
+Oh my gosh... I WON!
+Oh my gosh... I WON!
+Here we go!
+Here we go!
 <intimidate>Somehow, I knew we’d have to battle!
-My bug Pokémon lost! Oh, what a shame.
-My bug Pokémon lost! Oh, what a shame.
+Guess I bit off more than I could chew...
+Guess I bit off more than I could chew...
 oneslapguy
 GO Tour Challenger
-My grown-up Pokémon are pretty tough, too!
-My grown-up Pokémon are pretty tough, too!
-Oh, you are a cute, little Trainer! I like you, but I won’t hold back!
-Oh, you are a cute, little Trainer! I like you, but I won’t hold back!
+Hey, everyone trips up eventually.
+Hey, everyone trips up eventually.
+Nothing beats a Pokémon battle!
+Nothing beats a Pokémon battle!
 <taunt>Hey, you! Wanna see my awesome Pokémon?
-Gosh... I thought you were weak...
-Gosh... I thought you were weak...
+I learned a lot from that battle. Thanks!
+I learned a lot from that battle. Thanks!
 DieCurryWurst
 GO Tour Challenger
-You must get better to beat me! Keep trying.
-You must get better to beat me! Keep trying.
-I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
-I spent the spring with my Pokémon. Then summer, autumn, and winter... Then spring came again. We have lived together for a long time.
+Yes! Me and my Pokémon are unstoppable!
+Yes! Me and my Pokémon are unstoppable!
+Remember—it’s all about having fun!
+Remember—it’s all about having fun!
 <intimidate>GO, my fabulous Fire-type Pokémon!
-Wins and losses—I experienced both.
-Wins and losses—I experienced both.
+That was a great battle. Let’s do it again sometime!
+That was a great battle. Let’s do it again sometime!
 DieCurryWurst
 GO Tour Challenger
-The one who wants to win the most will!
-The one who wants to win the most will!
-My Pokémon and I are bound together by friendship. Our bond will never be broken!
-My Pokémon and I are bound together by friendship. Our bond will never be broken!
+You did your best, and that’s what matters.
+You did your best, and that’s what matters.
+Try to make this interesting for me, yeah?
+Try to make this interesting for me, yeah?
 <taunt>Our eyes have met! I’ll battle alongside my favorite Pokémon!
-I lost! I’m speechless!
-I lost! I’m speechless!
+Hmph. Whatever.
+Hmph. Whatever.
 Juanevoli
 GO Tour Challenger
-We martial artists fear nothing!
-We martial artists fear nothing!
+Better luck next time.
+Better luck next time.
 I travel the world to train my Pokémon. Now, I wish to battle with you.
 I travel the world to train my Pokémon. Now, I wish to battle with you.
 <intimidate>Oh, you have a Buddy Pokémon! Let me get a better look!
@@ -4670,9 +4885,9 @@ Season of Discovery
 Season of Mischief
 Misunderstood Mischief Special Research available
 Complete the Misunderstood Mischief Special Research story to access a special end-of-season event
-Season of Heritage
 Season of Alola
 Season of GO
+Season of Light
 Seasonal Pokémon hatching from Eggs
 Seasonal Pokémon found in the wild
 Sinnoh Celebration Event
@@ -4685,6 +4900,33 @@ Galarian Mr. Mime Event
 Wooper Watch
 Different Pokémon appearing more often every hour
 Unova Celebration Event
+OK, just like we practiced!
+I’m still learning—but don’t go easy!
+Oof... That was rough.
+Novice Challenger
+Oh my gosh... I WON!
+Here we go!
+I can’t wait to try out this new strategy!
+Guess I bit off more than I could chew...
+Eager Challenger
+Hey, everyone trips up eventually.
+Nothing beats a Pokémon battle!
+I’m gonna be the very best!
+I learned a lot from that battle. Thanks!
+Ambitious Challenger
+Yes! Me and my Pokémon are unstoppable!
+Remember—it’s all about having fun!
+A battle? It would be my pleasure.
+That was a great battle. Let’s do it again sometime!
+Courteous Challenger
+You did your best, and that’s what matters.
+Try to make this interesting for me, yeah?
+Heh. I’ll teach you a thing or two.
+Hmph. Whatever.
+Confident Challenger
+Better luck next time.
+Challenger
+Challengers appearing at PokéStops
 EVENTS
 Evolution Event: Catch {0} Horsea
 Evolution Event: Catch {0} Onix
@@ -4698,6 +4940,7 @@ Evolution Event: Evolve an Onix
 Evolution Event: Hatch {0} Eggs
 Evolution Event: Win {0} raids
 Evolution Event: Win {0} times against the Team GO Rocket Leaders
+Evolution Cup
 Evolution Event
 Use this item on your Pokémon!
 Do you want to evolve your Best Buddy {0}?
@@ -4755,7 +4998,9 @@ Team Skull Pose
 Gracidea BouquetPose
 Bea Pose
 Obstagoon Pose
+2022 WorldsChampion Pose
 Bug Catcher Pose
+Guzma Pose
 Idle
 Level 41 Glasses
 Level 41 Glasses
@@ -4798,6 +5043,7 @@ Festival of Lights
 More Blitzle and Dedenne are appearing in the wild
 Event-themed Field Research
 Unique Field Research tasks are now available at certain PokéStops and Gyms
+Unique Field Research tasks are now available
 Thank you for field-testing Pokémon GO!We will be back soon!
 Fighting Cup
 Type Surge: Fighting
@@ -5276,6 +5522,13 @@ Pidgey featured in GO Battle League reward encounters
 5× Stardust rewards in the GO Battle League
 3 extra sets of battles in the GO Battle League
 20 total sets of battles in the GO Battle League
+GO Battle League Timed Research (1/5)
+GO Battle League Timed Research (2/5)
+GO Battle League Timed Research (3/5)
+GO Battle League Timed Research (4/5)
+GO Battle League Timed Research (5/5)
+GO Battle League Timed Research
+3× Stardust rewards in the GO Battle League
 No walking requirement for the GO Battle League
 GDC 2019: Catch {0} Pokémon
 123456789
@@ -5331,6 +5584,8 @@ A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11
 Roasted Berries Ticket
 From Scalchops to Seamitars Ticket
 No Match for Magmar Ticket
+A ticket to access the Field Notes: Galarian Zigzagoon Special Research on August 13, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Field Notes: Galarian Zigzagoon
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2020
 Ticket: GO Fest 2020
@@ -5364,10 +5619,15 @@ km
 Language
 LEAVE OUT
 m
+Tallest
+Heaviest
+Shortest
+Lightest
 Month
 More
 Network Error
 No
+No thanks
 OK
 or
 Paste
@@ -5383,6 +5643,7 @@ Skip
 HP
 TOTAL
 TRANSFER
+Turn on
 VS
 Week
 XL
@@ -5672,7 +5933,37 @@ Meanwhile, I will resume my investigation into Willow’s whereabouts.
 There is yet more to do.
 Pokémon GO Fest 2022: City habitat
 Catch these Pokémon during the City habitat hour!
-Post snapshots using #PokemonGOFest2022, and we’ll share our favorites!
+Post snapshots using #PokemonGOFest2022, and we’ll share our favorites from past and present events!
+Pokémon Trainer! I have a positive update to share.
+After analyzing the data we collected from the Ultra Wormholes, I have located—and retrieved—Professor Willow from Ultra Space.
+His return would not have been possible without your exhaustive efforts.
+I do not doubt you are eager to speak with him, but he requires rest before your reunion.
+Following that, I would appreciate your assistance with another matter.
+UB-01 Symbiont and UB-02 Beauty—that is, Nihilego and Pheromosa—have once again returned to this world.
+I need not emphasize what dangers they pose.
+Additionally, new signals indicate that other Ultra Beasts may soon follow.
+But first, your professor. You and I can reconvene after you two have spoken.
+... ... ...%PLAYERNAME%? Is...that you?How long has it been? It’s good to see you. I’ve had the most amazing adventure!
+There I was, pondering the mysteries of the island guardians—and moping a little at my misfortune, I must admit—when a glowing portal appeared out of thin air!
+I couldn’t help wondering what was on the other side. My curiosity ignited, I weighed the risks, grabbed my gear, and jumped right in!
+The portal led to a completely different dimension—one traversed by unimaginably strange creatures...
+I must tell you all about it! *yawn* But before I do, I could use a little nap. I promise I’ll spare no detail after I’ve slept...a few...*snore*
+Welcome back, Pokémon Trainer. I hope you had a pleasant reunion with your professor. Has he fallen asleep? Understandable.
+You and I can turn our attention to the Ultra Beasts while he recuperates.
+I have confirmed the reappearance of UB-02 Absorption, Buzzwole.
+Buzzwole’s propensity for displaying its robust musculature remains a mystery—is it mere self-satisfaction or some kind of threat?
+Its sturdy physique stands in contrast to Pheromosa’s lithe frame.
+Though neither should be underestimated.
+Since we cannot predict their behavior, I propose further observation. Have you all your necessary supplies?
+If you and your Pokémon are ready, then we can begin.
+Ultra Incursion: Buzzwole
+Catch these Pokémon during Ultra Incursion: Buzzwole!
+Ultra Incursion: Nihilego
+Catch these Pokémon during Ultra Incursion: Nihilego!
+Ultra Incursion: Pheromosa
+Catch these Pokémon during Ultra Incursion: Pheromosa!
+Ultra Incursion: Xurkitree
+Catch these Pokémon during Ultra Incursion: Xurkitree!
 Pokémon GO Fest: Berlin – Molten Rocks Habitat
 Find these Pokémon in the wild during Pokémon GO Fest: Berlin!
 Pokémon GO Fest: Sapporo – Living Meadow Habitat
@@ -5892,6 +6183,40 @@ GO Fest 2021: Jungle Habitat
 Catch Pokémon during the Jungle habitat hour!
 GO Fest 2021: Ocean Beach Habitat
 Catch Pokémon during the Ocean Beach habitat hour!
+A brilliant display, Pokémon Trainer. Before we continue, I have something for you.
+Here—a small supply of Beast Balls.
+Excuse me if I am repeating myself, but allow me a brief explanation.
+Beast Balls were developed specifically to capture Ultra Beasts. Your assistance enabled me to fabricate them—I wish to help you as you have helped me.
+I trust you will know the right time to use them. Now, let us continue our work.
+Pokémon Trainer—I feel we are being watched. Could it be Team GO Rocket?
+If they have been observing us, then do you believe they have plans that involve the Ultra Beasts?
+This is a possibility we cannot ignore.
+If only I could battle like you do... Until then, I must ask again for your aid.
+Thank you for dispersing Team GO Rocket, Pokémon Trainer.
+I am relieved to know that they have been removed from the equation.
+Your strength is further appreciated given this world’s most recent arrival—UB-03 Lighting. Xurkitree.
+It has been known to raid power plants, presumably to energize itself with electricity.
+It would be disastrous if Xurkitree depleted the power in this area.
+Let us do what we can to prevent this catastrophe.
+*yawn*Oh, %PLAYERNAME%. Sorry I dozed off on you there—I hardly slept while I was away. Did anything interesting happen while I was gone?
+You and your Pokémon should go check it out. I’ll be here. Just give me a...minute...*snore*
+... ... ...Ultra Wormholes?Ultra Beasts?BEAST BALLS?!
+Incredible! I can always count on you to unearth amazing things. You even helped bring me home!
+In that space, there were times when my memories would blur together—but I swear I could feel the light of our world, and everything would rush back.
+No, it was more than a feeling. It was like I was surrounded by a protective presence—warm like the sun and calm like the moon.
+Even so, I don’t know how I would have returned if you and your new friend hadn’t intervened.
+I’m always thankful for you, but this time, you really saved me.
+Why, I could just hug you, %PLAYERNAME%!
+Wait. Is there something in the sky? I’d investigate myself, but... *yawn* I suddenly feel like I lost a staring contest with a Hypno.
+Pokémon Trainer, I saw you were able to speak with the professor. Is he in good health?
+He felt something akin to light of the sun and moon, did he?
+Interesting.
+The important thing is that you and your Willow have been reunited. Endless musing is my proclivity, not yours.
+Before we redirect our attention to the Ultra Beasts, I wish to take this opportunity to express what an excellent...erm...
+I had intended to call you my “research partner,” but that feels insufficient. You are more than an assistant—you are my confidant.
+Such a sterile title hardly suits a person as dazzling as you.
+So thank you, %PLAYERNAME%.My partner...and my friend.
+I look forward to whatever adventures await us next.
 We’ve taken over your celebration, and you still insist on challenging me? Get ready to face the harsh reality.
 Your festival is in the hands of Team GO Rocket now. You cannot defeat us.
 I’ll defeat you quickly so I can return to the take-over festivities.
@@ -5980,34 +6305,7 @@ Post photos with #PokemonGOTour, and we’ll share our favorites!
 Catch, trade, or evolve to collect these Pokémon before time expires to complete your Pokémon GO Tour: Kanto Collection Challenges!
 Welcome to Pokémon GO Tour: Kanto!
 Welcome to Pokémon GO Tour: Kanto!
-Pokémon GO Tour: Johto
-Pokémon GO Tour: Johto Battle Challenge
-Pokémon GO Tour: Johto Battle Challenge (1/11)
-Pokémon GO Tour: Johto Battle Challenge (2/11)
-Pokémon GO Tour: Johto Battle Challenge (11/11)
-Pokémon GO Tour: Johto Battle Challenge (3/11)
-Pokémon GO Tour: Johto Battle Challenge (4/11)
-Pokémon GO Tour: Johto Battle Challenge (5/11)
-Pokémon GO Tour: Johto Battle Challenge (6/11)
-Pokémon GO Tour: Johto Battle Challenge (7/11)
-Pokémon GO Tour: Johto Battle Challenge (8/11)
-Pokémon GO Tour: Johto Battle Challenge (9/11)
-Pokémon GO Tour: Johto Battle Challenge (10/11)
 Johto Battle Challenge Champion
-Keep Battling
-Focus on Catching
-All GO Gym Trainers will reappear at PokéStops, allowing you to battle them again. You can keep battling them for rewards throughout the day.
-The GO Gym Trainers will no longer appear at PokéStops today, allowing you to focus solely on collecting Pokémon.
-It’s over, %PLAYERNAME%. Your strength is undeniable.
-You are now the Johto Battle Challenge Champion!
-Your dedication to, trust in, and love for your Pokémon made this possible. You won because your Pokémon believed in you, just as you believed in them.
-Congratulations, %PLAYERNAME%!
-What’re you going to do to celebrate this momentous accomplishment?
-Quite the overachiever, %PLAYERNAME%! Your Pokémon look excited to keep battling as well. Together, you really are the perfect team. Get out there and make your team proud!
-It’s important to know your limits, %PLAYERNAME%. Being kind to yourself isn’t a weakness.
-And your Pokémon look like they could use a rest as well, so why not relax awhile. When you’re ready, there’s plenty of Pokémon to catch and new friends to make.
-Tip: Earn Stardust to battle the Johto Battle Challenge Leader!
-Raikou, Entei, and Suicune will flee from you when encountered in the wild. Take a snapshot before they do!
 My bug Pokémon lost! Oh, what a shame.
 Bug Trainer Name
 Alehouou
@@ -6076,54 +6374,21 @@ Choose Gold
 Choose Silver
 Do you want to choose Gold Version?
 Do you want to choose Silver Version?
-Defeat the Johto Battle Challenge Leader
-Pokémon GO Tour: Johto – Evolve
-Evolve Pokémon discovered in Johto
 Pokémon GO Tour: Johto – Gold Version
-Pokémon GO Tour: Johto – Gold (Incense)
-Use Incense to get Gold Version–exclusive Pokémon
-Pokémon GO Tour: Johto – Gold (Trade)
-Trade with friends to get these Silver Version–exclusive Pokémon
-Pokémon GO Tour: Johto – Goldenrod City
-Catch Pokémon during the Goldenrod City hour
-Now: Goldenrod City hour!
 Aw...
 I remember when you were just a newbie. But I won’t go easy on ya just because we’re old friends!
 Instincts sure are handy, don’t you think? Team Instinct knows what’s up!
 I won? I mean, yeah! I won! Woohoo!
-Pokémon GO Tour: Johto – Mt. Silver
-Catch Pokémon during the Mt. Silver hour
-Now: Mt. Silver hour!
 Interesting.
 The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
 Steady composure and precise analysis—that is the Team Mystic way.
 Interesting.
-Pokémon GO Tour: Johto – National Park
-Catch Pokémon during the National Park hour
-Now: National Park hour!
-Pokémon GO Tour: Johto – New Bark Town
-Catch Pokémon during the New Bark Town hour
-Now: New Bark Town hour!
-Tip: To begin battling, you’ll need to find your opponents! You can find GO Gym Trainers at PokéStops. Visit different PokéStops to battle different GO Gym Trainers!
-Pokémon GO Tour: Johto – Raid
-Find these Pokémon in raids
 Pokémon GO Tour: Johto – Silver Version
-Pokémon GO Tour: Johto – Silver (Incense)
-Use Incense to get Silver Version–exclusive Pokémon
-Pokémon GO Tour: Johto – Silver (Trade)
-Trade with friends to get these Gold Version–exclusive Pokémon
-Tip: Raikou, Entei, and Suicune are likely to flee when you encounter them in the wild. But if you can take a snapshot before they do, you can earn rewards that will allow you to catch them!
-Pokémon GO Tour: Johto – Special
-Complete Johto Special Research and take snapshots
 Raikou, Entei, and Suicune Photo Safari
 That’s...fine... I’m fine...
 Your battle skills have improved so much since we first met. Let’s see which one of us comes out on top, shall we?
 No matter what happens, our courageous fire will never go out! Team Valor blazes toward victory.
 Another victory for Team Valor. Wanna battle again?
-Pokémon GO Tour: Johto – Violet City
-Catch Pokémon during the Violet City hour
-Now: Violet City hour!
-Welcome to Pokémon GO Tour: Johto!
 Pokémon GO Tour: Kanto
 GO Tour Kanto: Cerulean City
 Catch Pokémon during the Cerulean City hour
@@ -6304,6 +6569,8 @@ Pokémon GO Tour: Live – Elite Four (2/4)
 Pokémon GO Tour: Live – Elite Four (3/4)
 Pokémon GO Tour: Live – Elite Four (4/4)
 Welcome to Pokémon GO Tour: Live – Step into Kanto!
+Goyang Catch Cup
+Post-event Catch Cup: Goyang
 Super Premium Bundle
 Type Surge: Grass
 Great League Remix
@@ -6404,24 +6671,24 @@ Hyuck-hyuck—you’re messing with the wrong grunt, kid!
 You think you’re a hero? You can’t even find the boss!
 I’ll flick you away effortlessly!
 I’ll flick you away effortlessly!
-Boss said he’ll take the PokéStop in the name of Team GO Rocket!
-Boss said he’ll take this PokéStop in the name of Team GO Rocket!
+This is Team GO Rocket territory now, so beat it!
+Boss said he’ll claim this area for Team GO Rocket!
 You don’t have any business here! Go home!
 You don’t have any business here! Go home!
 Pokémon are only good for making money. Why not use them? You stay out of our business!
 Pokémon are only good for making money. Why not use them? You stay out of our business!
 Hey, Trainer! C’mon!
 Hey, Trainer! C’mon!
-We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
-We’re going to steal all the items and catch all the Pokémon from this PokéStop! You want to stop us? Let’s battle!
+I won’t let you interfere with Team GO Rocket’s glorious plans. Face me in a Pokémon battle!
+We’re going to steal all the items and catch all the Pokémon from this area! You want to stop us? Let’s battle!
 You’re not going any farther! I don’t show mercy to my enemies!
 You’re not going any farther! I don’t show mercy to my enemies!
-This PokéStop belongs to Team GO Rocket!
-This PokéStop belongs to Team GO Rocket!
+This area belongs to Team GO Rocket!
+If you aren’t part of Team GO Rocket, then get outta here!
 I’ll give you something to be scared about!
 I’ll give you something to be scared about!
-We won’t let you ruin our plans to take over PokéStops.
-We won’t let you ruin our plans to take over PokéStops.
+You want to get past me? I don’t think so!
+We won’t let you ruin our plans to take over this area.
 Pokémon battle? Cool! Rumble!
 Pokémon battle? Cool! Rumble!
 You look gentle, so I think I can beat you. I’ll give it a GO!
@@ -6430,8 +6697,8 @@ Feeling lucky, punk? Go ahead, take another step.
 Feeling lucky, punk? Go ahead, take another step.
 You think you’re a hero?
 You think you’re a hero?
-There’s nothing past here except our PokéStop. So what brings you here?
-There’s nothing past here except our PokéStop. So what brings you here?
+There’s nothing here for twerps like you. Scram!
+This is Team GO Rocket territory. So what brings you here?
 Boy, that really makes me steam!
 Boy, that really makes me steam!
 As always...
@@ -6522,8 +6789,8 @@ If you get in our way, then you’ll...really be in our way!
 If you get in our way, then you’ll...really be in our way!
 You snuck into Team GO Rocket’s operation? What nerve!
 You snuck into Team GO Rocket’s operation? What nerve!
-Team GO Rocket has taken control of the PokéStop!
-Team GO Rocket has taken control of this PokéStop!
+Nowhere is safe from Team GO Rocket!
+Don’t mess with Team GO Rocket!
 We’re Team GO Rocket, and we strike fear into others with our strength!
 We’re Team GO Rocket, and we strike fear into all with our strength!
 Hahaha!
@@ -6538,8 +6805,8 @@ What’d you hope to achieve by coming here?
 What’d you hope to achieve by coming here?
 This is as far as you’ll go!
 This is as far as you’ll go!
-Welcome to this PokéStop! So good of you to join me!
-Welcome to this PokéStop! So good of you to join me!
+You made a big mistake coming here. Hahaha!
+How nice of you to drop by. Heh heh...
 Intruder spotted!
 Intruder spotted!
 Stop meddling in Team GO Rocket’s affairs, or else!
@@ -6569,6 +6836,7 @@ A Drive to Investigate: Trade a Pokémon with a friend
 A Drive to Investigate: Make {0} Great Throws in a row
 A Drive to Investigate: Make {0} Nice Throws
 A Drive to Investigate: Spin {0} PokéStops
+Vivillon Habitat
 Battles Won:
 List
 {0} BATTLES WON
@@ -6673,6 +6941,7 @@ Halloween: Take {0} snapshots of Ghost-type Pokémon
 Halloween
 Halloween Mischief: Part 1
 Halloween Mischief: Part 2
+Halloween Cup: Ultra League Edition
 Hatch Box
 2× Hatch Candy
 2× Hatch Stardust
@@ -6734,6 +7003,7 @@ Hoopa’s Arrival Collection Challenge
 h
 {0} hr.
 {0}H {1}M
+GO Battle League Timed Research Pass
 Styles
 Bundles
 FREE
@@ -6750,7 +7020,6 @@ Beldum attracted to Incense
 Carvanha attracted by Incense
 Mareep attracted to Incense
 Sentret lured by Incense
-Swinub attracted to Incense
 Incense Day: Type Shuffle
 8-hour Incense duration
 2× Incense duration
@@ -6864,6 +7133,8 @@ No items available.
 Potions can't be used on fainted Pokémon.
 This Pokémon already has full health.
 Revives can only be used on fainted Pokémon.
+Grants access to GO Battle League Timed Research, allowing you to earn extra rewards by completing Trainer Battles.
+GO Battle League Timed Research Pass
 UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
@@ -6873,11 +7144,11 @@ Ticket
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access Special Research on July 17, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are.
+A ticket to access Special Research on September 18, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 21 from 11 a.m. to 5 p.m. local time, wherever you are.
 A ticket to access Special Research on May 21, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on July 17, 2022, wherever you are.
+This ticket will automatically activate to give you access to Special Research on September 18, 2022, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 21, wherever you are in the world.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
@@ -6918,7 +7189,7 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access the Pokémon GO Fest finale event on August 27, 2022, from 10:00 a.m. to 6:00 p.m. local time, wherever you are.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Pokémon GO Fest 2022: Finale event on August 27, 2022, from 10:00 a.m. to 6:00 p.m. local time, wherever you are.
 A ticket to access the Pokémon GO Fest finale event on August 27, 2022, from 10:00 a.m. to 6:00 p.m. local time, wherever you are.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You must choose an event version to participate. Try to pick a different version from your friends so you can trade Pokémon to complete Collection Challenges!
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
@@ -7005,6 +7276,8 @@ Pass to join a Raid Battle remotely.
 Remote Raid Pass
 A medicine that can revive fainted Pokémon. It also restores half of a fainted Pokémon's maximum HP.
 Revive
+A device that lets you create Routes. You can have up to five active Routes at a time.
+Route Maker
 A device to capture photos of Pokémon. Photos can be shared with others.
 Camera
 A small shard of a beautiful gem. Earns 50% more Stardust for 30 minutes.
@@ -7079,7 +7352,7 @@ Kalos Collection Challenge
 Kanto Collection Challenge
 Kanto Cup
 Kanto Event
-한국인
+한국어
 Lake Legends Event
 If you choose to save your changes, the app will restart.
 Are you sure you want to change the language setting to {0}?
@@ -7092,6 +7365,7 @@ Let my friends see info about the last time I played a Niantic game.
 Last Played: Today
 Last Played: 2+ days ago
 Last Played: Yesterday
+Last Time Activity
 You’ve assembled a Rocket Radar!
 Your Mysterious Components have combined into a Rocket Radar! Use it to locate Team GO Rocket Hideouts.
 But...what does it do?
@@ -7851,6 +8125,7 @@ Unable to link to this account.
 Little Cup Remix
 Little Cup
 Little Jungle Cup
+Little Jungle Cup Remix
 Learn More
 Join a special event
 Add to Calendar
@@ -7916,9 +8191,7 @@ Lucky Egg
 8 Lucky Eggs
 Luminous Legends X
 Luminous Legends Y
-Lunar New Year: Catch Challenge
 Lunar New Year
-Lunar New Year: Friendship Challenge
 4-hour Lure Module duration
 6-Hour Lure Module duration
 2× Lure Module duration
@@ -7974,7 +8247,9 @@ Team Skull Pose
 Gracidea BouquetPose
 Bea Pose
 Obstagoon Pose
+2022 WorldsChampion Pose
 Bug Catcher Pose
+Guzma Pose
 Idle
 Jogger Sunglasses
 Level 41 Glasses
@@ -8184,7 +8459,7 @@ Speed
 {0}-type attacks are now boosted!
 A Mega Moment
 Walking Progress
-Built at 2022-08-17T08:07:50.328054at SHA 0a48ad3bbde8dd2b3ba8b6f68267e09703de200cPipeline 1010395, job 11449656
+Built at 2022-10-03T08:47:27.187466at SHA 7f17dc41c565357e69e051aaee4449f62ba77058Pipeline 1069208, job 12396376
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -8215,8 +8490,6 @@ Collection Challenge complete!
 Collection Challenge progress!
 m
 {0}M {1}S
-Mobile Games Show: Catch Challenge
-Mobile Games Show: Throw Challenge
 Turn on Niantic AR to use Reality Blending.
 If you turn off Niantic AR, Reality Blending will be disabled, too.
 Now you can enjoy a more immersive AR experience with your Pokémon!
@@ -8519,10 +8792,12 @@ Tri Attack
 Gust
 Incinerate
 Feather Dance
+Fairy Wind
 Weather Ball
 Psychic Fangs
 Hyperspace Fury
 Hyperspace Hole
+Double Kick
 Magical Leaf
 Sacred Fire
 Icicle Spear
@@ -8536,6 +8811,8 @@ Mist Ball
 Brutal Swing
 Rollout
 Seed Flare
+Obstruct
+Meteor Beam
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -8669,6 +8946,8 @@ See Details
 Today
 Yesterday
 Next
+Next Season starts on {0}!
+Next coming on {0}!
 Niantic Birthday Event
 Other Niantic Games to Try
 Privacy Settings
@@ -8689,6 +8968,7 @@ No usable items
 Unable to sign in. Please check that this Pokémon GO account exists and you have correctly selected New or Returning Player.
 Type Surge: Normal
 n/a
+You are not connected to Wi-Fi.
 Could not apply changes to Postcard
 Not very effective...
 Now
@@ -8741,6 +9021,7 @@ Will you help me with my research?
 That’s great!
 You’ll need to find and collect Pokémon from everywhere.
 Choose your style to start your adventure!
+1 route
 Anniversary Box
 Your online status will let friends know when you are available for Trainer Battles.
 Open
@@ -8749,8 +9030,27 @@ Allows you to open Gifts when your Item Bag is full. You may still receive Stard
 Open Settings
 Enjoy these free items from <b>{0}</b>!
 Open Gift
-Watch a video from this sponsor and earn free items!
+https://storage.googleapis.com/prod-public-images/SponsoredPostcards/pgo_sponsorImage_videoAd.png
 Watch Video
+You can open a sponsored AR experience to earn some items!
+Open AR
+Inappropriate image
+Route cannot use Niantic logo
+Image cannot contain people
+Inappropriate image
+Route flagged as unsafe or inaccessible
+Route flagged as unsafe
+Route flagged as unsafe or inaccessible
+Text flagged as inappropriate
+Needs a description
+Text flagged as inappropriate
+Route cannot call itself "official"
+Route cannot contain personal info
+Text flagged as inappropriate
+Text not related
+Routes not complete
+Text flagged by source
+Text cannot contain HTML or emails
 Other
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.To get more passes, visit the shop.
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.To get more passes, visit the shop.
@@ -8843,6 +9143,7 @@ The photo could not be saved.
 5 surprise encounters with Mudkip in GO Snapshot
 5 surprise encounters with Oshawott in GO Snapshot
 5 surprise encounters with Porygon in GO Snapshot
+5 surprise encounters with Roggenrola in GO Snapshot
 5 surprise encounters with Roselia in GO Snapshot
 5 surprise encounters with Sandshrew in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
@@ -8854,6 +9155,7 @@ The photo could not be saved.
 5 surprise encounters with Swablu in GO Snapshot
 5 surprise encounters with Tepig in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
+5 surprise encounters with Galarian Zigzagoon in GO Snapshot
 5 surprise encounters with Pikachu wearing a safari hat in GO Snapshot
 Event-themed surprise encounters in GO Snapshot
 Welcome to Team Mystic!
@@ -9185,6 +9487,7 @@ Weight:
 ???
 All: {0}
 Mega: {0}
+FILTER BY:
 All
 Mega
 Not Encountered
@@ -9202,6 +9505,8 @@ Favorite
 HP
 Combat Power
 Number
+Caught
+Seen
 Do you really want to transfer this Buddy Pokémon?
 Daily Pokémon Catch
 --
@@ -11298,14 +11603,14 @@ Stardust
 Tag
 TRADE
 OBTAINED IN A TRADE
-Couldn't transfer {0} due to an unknown error.
+Couldn’t transfer {0} due to an unknown error.
 Cannot transfer a favorite Pokémon!
 You cannot transfer a Mega-Evolved Pokémon.
 You cannot select your buddy!
 You can’t transfer your buddy!
 Transfer
-<size=36><b>Do you want to transfer {0}?</b></size>You can’t undo a transfer.
-Transfer succeeded! {0} Candy received.
+<size=36><b>Do you want to transfer {0} to the professor?</b></size>You cannot undo a transfer.
+Transfer successful! {0} Candy received from the professor.
 Type
 UNKNOWN
 New Attack
@@ -12289,6 +12594,13 @@ Enamorus
 Please enter a different nickname.
 You have purified {0}!
 Do you really want to transfer this Shiny Pokémon?
+It’s huge!
+New Record
+New Height Record
+New
+New Size Record
+New Weight Record
+It’s tiny!
 Your selection contains Legendary Pokémon or Mythical Pokémon! Are you sure you want to transfer the selected Pokémon?
 Bug
 Dark
@@ -12310,10 +12622,32 @@ Steel
 Water
 Do you really want to transfer this Ultra Beast?
 Failed to remove Pokémon from your favorites.
+Archipelago
+Continental
+Elegant
+Fancy
+Garden
+High Plains
+Icy Snow
+Jungle
+Marine
+Meadow
+Modern
+Monsoon
+Ocean
+Poké Ball
+Polar
+River
+Sandstorm
+Savanna
+Sun
+Tundra
 {0} Pokémon have this tag.
 {0} defended the Gym!
 {0} was victorious in battle!
 {0} has triumphed over your opponents!
+Do you really want to transfer this XXL Pokémon?
+Do you really want to transfer this XXS Pokémon?
 Increases the max number of Pokémon you can carry by {0}.
 Pokémon Storage
 Pokémon Type
@@ -12353,19 +12687,24 @@ From an unknown Trainer
 POSTCARDS
 RECENT
 SENDER
-You can’t delete a favorite Postcard.
+You cannot remove a favorite Postcard.
 CHECK GIFTS
 UNKNOWN TRAINERS
 YOUR POSTCARDS
-DELETE
-Do you want to remove this Postcard?
-You can’t undo this action once you remove this Postcard.
+REMOVE
+Remove this Postcard?
+You cannot recover a Postcard once it has been removed.
 FAVORITE
 From {0}
 If you want to save this Postcard, make space in your Postcard Book.
 Your Postcard Book is full
 Pin Postcards
 MANAGE
+REMOVE ({0})
+You cannot recover a Postcard once it has been removed.
+Your selection has been removed.
+Remove these {0} Postcards?
+Remove this Postcard?
 PostcardBook
 You haven’t pinned any Postcards yet.
 You can pin Postcards from your friends’ Gifts or Postcards from your Gifts before you send them.
@@ -12402,6 +12741,7 @@ WEEKLY PROGRESS
 Learn more
 Recently Visited
 You don't have any Gym Badges.
+You don't have any route medals!
 Level
 PokéStops Visited:
 Start Date:
@@ -12413,6 +12753,7 @@ Enter your promo code
 Success!
 PROMOS
 REDEEM
+Psychic Cup
 Psychic Spectacular
 Type Surge: Psychic
 No Pokémon Trainer Club account?
@@ -12505,15 +12846,11 @@ Let’s Go: Hatch {0} Eggs
 Field Research completed!
 Mystery items
 Stardust
-Earn a heart with your buddy {0} days in a row
 Battle another Trainer with your Buddy Pokémon while it’s adventuring with you {0} times
 Battle another Trainer with your Buddy Pokémon while it’s adventuring with you
 Receive {0} Souvenirs from your buddy
 Receive a Souvenir from your buddy
 Walk {0} km with your buddy
-Catch {0} Bulbasaur
-Evolve {0} Bulbasaur
-Evolve {0} Ivysaur
 Catch {0} Electric-, Normal-, or Poison-type Pokémon
 Catch {0} Grass-, Water-, or Fire-type Pokémon
 Use {0} Berries to help catch Drifloon
@@ -12631,6 +12968,8 @@ Catch {0} Trubbish
 Catch {0} Bug-type Pokémon
 Catch {0} different species of Bug-type Pokémon
 Catch a Bug-type Pokémon
+Catch a Pokémon that shares a type with Buzzwole
+Catch {0} Pokémon that share a type with Buzzwole
 Catch {0} Dark-type Pokémon
 Catch {0} different species of Dark-type Pokémon
 Catch a Dark-type Pokémon
@@ -12663,9 +13002,13 @@ Catch {0} Grass- or Ice-type Pokémon
 Catch {0} Ice-type Pokémon
 Catch {0} different species of Ice-type Pokémon
 Catch an Ice-type Pokémon
+Catch a Pokémon that shares a type with Nihilego
+Catch {0} Pokémon that share a type with Nihilego
 Catch {0} Normal-type Pokémon
 Catch {0} different species of Normal-type Pokémon
 Catch a Normal-type Pokémon
+Catch a Pokémon that shares a type with Pheromosa
+Catch {0} Pokémon that share a type with Pheromosa
 Catch {0} Poison-type Pokémon
 Catch a Poison-type Pokémon
 Catch {0} Psychic-type Pokémon
@@ -12673,6 +13016,8 @@ Catch {0} different species of Psychic-type Pokémon
 Catch a Psychic-type Pokémon
 Catch {0} Rock-type Pokémon
 Catch a Rock-type Pokémon
+Catch a Pokémon that shares a type with Shaymin
+Catch {0} Pokémon that share a type with Shaymin
 Catch {0} Steel-type Pokémon
 Catch {0} different species of Steel-type Pokémon
 Catch a Steel-type Pokémon
@@ -12680,6 +13025,8 @@ Catch {0} Fire-, Water-, or Electric-type Pokémon
 Catch {0} Water-type Pokémon
 Catch {0} different species of Water-type Pokémon
 Catch a Water-type Pokémon
+Catch a Pokémon that shares a type with Xurkitree
+Catch {0} Pokémon that share a type with Xurkitree
 Catch {0} Water-, Electric-, or Bug-type Pokémon
 Catch a Water-, Electric-, or Bug-type Pokémon
 Catch {0} Ice- or Steel-type Pokémon
@@ -12705,10 +13052,8 @@ April Fools’ 2-Oh?-22
 A Rocky Road
 Investigating Illusions
 BIDOOF
-Bulbasaur Community Day Classic
 A Ripple in Time
 A Tale of Tails
-December Community Day 2021
 December Community Day
 Field Notes: Deino
 Nothin’ Dull About Duskull
@@ -12718,7 +13063,6 @@ The Bravest Bird
 Just A Nibble
 The Great Gastly
 A Spooky Message Unmasked
-A Hop, Skip, and Jump Away
 Straight to the Top, Machop!
 Making a Splash
 No Match for Magmar
@@ -12744,7 +13088,6 @@ Stop and Smell the Roselia
 Gritty and Glacial
 Flash, Spark, and Gleam
 Snivy in the Sunshine
-The Spheal Deal
 A Spooky Message 2018
 A Spooky Message 2019
 Seeing Double
@@ -12752,7 +13095,6 @@ Cotton-Winged Bird
 Roasted Berries
 A Hairy Situation
 Daily Bonus
-Catch {0} Pokémon featured during 2021’s Community Days
 Defeat Jessie or James {0} times
 Defeat {0} Team GO Rocket members
 Defeat {0} Team GO Rocket Leaders with Pokémon at or below 2,500 CP
@@ -12780,6 +13122,20 @@ It appears to attract a slightly different variety of Pokémon than what one wou
 How clever.
 The professor’s creativity and thoughtfulness is admirable.
 I eagerly anticipate the day I meet him. The tools of this world are fascinating, but the people...even more so.
+%PLAYERNAME%! Perfect timing. I’ve been testing a new type of Incense that I can’t wait for you to try. I call it—Daily Adventure Incense!
+You’ll notice that aside from its color, it smells a bit different from the Incense you’re familiar with. But that’s not all!
+It also—whoops! Listen to me ramble. I know you’re busy as a Combee. When you’ve got more time, come back and I’ll show you how it works.
+Ah, %PLAYERNAME%, you’re back! Now let me teach you how to use Daily Adventure Incense.
+You can activate this unique Incense while you’re out and about to attract a slightly different variety of Pokémon than what you might expect to encounter.
+It only lasts for 15 minutes, but don’t worry—I’ll make sure to fix you up with a new one each day.
+Daily Adventure Incense works best when you’re actively moving, so it’s best not to use it while you’re taking a break.
+Excited? Me too! Now let’s give it a whirl, %PLAYERNAME%!
+I see you’ve made some new Pokémon friends already, %PLAYERNAME%. Let’s have a look!
+Hm...
+Very interesting.
+Some of these Pokémon aren’t usually seen around here. Pretty neat, huh?
+Thanks for trying out Daily Adventure Incense. Who knows—if you keep using it, you might end up seeing something legendary!
+Take care, %PLAYERNAME%. I’ll see you again soon!
 Great to see you again, %PLAYERNAME%. I always run into you when I find something exciting. Maybe you’re my Special Research good-luck charm!
 Last night, I was studying the chemical reaction that causes Trubbish to appear.
 Suddenly I saw bright flashing lights in the near distance and went to investigate.
@@ -12932,7 +13288,6 @@ Evolve one Azurill
 Evolve one Bagon
 Evolve one Baltoy
 Evolve one Barboach
-Evolve your Bayleef
 Evolve one Bayleef
 Evolve one Beldum
 Evolve one Bellsprout
@@ -12961,7 +13316,6 @@ Evolve one Charmander
 Evolve one Charmeleon
 Evolve one Cherubi
 Evolve one Chespin
-Evolve your Chikorita
 Evolve one Chikorita
 Evolve one Chimchar
 Evolve one Chinchou
@@ -12976,11 +13330,9 @@ Evolve one Corphish
 Evolve one Cottonee
 Evolve one Cranidos
 Evolve one Croagunk
-Evolve your Croconaw
 Evolve one Croconaw
 Evolve one Cubchoo
 Evolve one Cubone
-Evolve your Cyndaquil
 Evolve one Cyndaquil
 Evolve a Dark-type Pokémon
 Evolve one Darumaka
@@ -13089,6 +13441,7 @@ Evolve one Ledyba
 Evolve one Lickitung
 Evolve one Lileep
 Evolve one Lillipup
+Evolve {0} Galarian Linoone
 Evolve one Litleo
 Evolve one Litwick
 Evolve one Lombre
@@ -13167,7 +13520,6 @@ Evolve one Psyduck
 Evolve one Pumpkaboo
 Evolve one Pupitar
 Evolve one Purrloin
-Evolve your Quilava
 Evolve one Quilava
 Evolve one Quilladin
 Evolve one Qwilfish
@@ -13261,7 +13613,6 @@ Evolve one Tirtouga
 Evolve one Togepi
 Evolve one Togetic
 Evolve one Torchic
-Evolve your Totodile
 Evolve one Totodile
 Evolve one Tranquill
 Evolve one Trapinch
@@ -13270,6 +13621,7 @@ Evolve one Trubbish
 Evolve one Turtwig
 Evolve one Tympole
 Evolve one Tynamo
+Evolve {0} Dark-type Pokémon
 Evolve {0} Electric-type Pokémon
 Evolve an Electric-type Pokémon
 Evolve {0} Fairy-type Pokémon
@@ -13484,24 +13836,6 @@ GO Fest: Battle another Trainer
 Earn {0} gold medals
 Earn 5 gold medals
 Earn a gold medal
-Pokémon GO Tour: Johto
-Pokémon GO Tour: Johto (1/11)
-Pokémon GO Tour: Johto (10/11)
-Pokémon GO Tour: Johto (11/11)
-Pokémon GO Tour: Johto (2/11)
-Pokémon GO Tour: Johto (3/11)
-Pokémon GO Tour: Johto (4/11)
-Pokémon GO Tour: Johto (5/11)
-Pokémon GO Tour: Johto (6/11)
-Pokémon GO Tour: Johto (7/11)
-Pokémon GO Tour: Johto (8/11)
-Pokémon GO Tour: Johto (9/11)
-Chikorita, the Leaf Pokémon, uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe! You’ll be able to catch Chikorita and earn Chikorita Candy, and you’ll receive tasks that require evolving and taking snapshots of Chikorita.
-Choose Chikorita
-Cyndaquil, the Fire Mouse Pokémon, is timid and always curls itself up in a ball. If attacked, it flares up its back for protection! You’ll be able to catch Cyndaquil and earn Cyndaquil Candy, and you’ll receive tasks that require evolving and taking snapshots of Cyndaquil.
-Choose Cyndaquil
-Totodile, the Big Jaw Pokémon, is small but rough and tough. It won’t hesitate to take a bite out of anything that moves! You’ll be able to catch Totodile and earn Totodile Candy, and you’ll receive tasks that require evolving and taking snapshots with Totodile.
-Choose Totodile
 Pokémon GO Tour: Kanto - Bonus Event
 Pokémon GO Tour: Kanto - Bonus Event (1/3)
 Pokémon GO Tour: Kanto - Bonus Event (2/3)
@@ -13525,9 +13859,6 @@ Hoenn Celebration: Catch {0} Zigzagoon or Taillow
 Hoenn Celebration: Evolve {0} Wurmple
 Hoenn Celebration: Hatch {0} Eggs
 Hoenn Celebration Research
-Catch {0} Hoppip
-Evolve {0} Hoppip
-Evolve {0} Skiploom
 Use {0} Incense
 Use an Incense
 Feebas Research: Earn 1 Buddy Candy
@@ -13629,16 +13960,15 @@ Power up a Legendary or Mythical Pokémon
 Power up {0} Pokémon to their max CP
 Power up a Pokémon to its max CP
 Power up Pokémon {0} times
-Power up {0} Electric-type Pokémon
-Power up {0} Fighting-type Pokémon
-Power up {0} Ground-type Pokémon
-Power up {0} Normal-type Pokémon
-Power up {0} Water-type Pokémon
+Power up {0} Bug-type Pokémon
+Power up {0} Dark-type Pokémon
+Power up {0} Poison-type Pokémon
+Power up {0} Rock-type Pokémon
+Power up {0} Steel-type Pokémon
 Power up a Pokémon
 Catch {0} Abra or Drowzee
 Catch {0} Psychic-type Pokémon
 Evolve {0} Exeggcute or Slowpoke
-Raid with a friend
 Battle in {0} raids with your buddy
 Battle in a raid with your buddy
 Earn a gold Hoenn medal
@@ -13687,6 +14017,9 @@ Spin {0} PokéStops
 Spin a PokéStop {0} days in a row
 Use {0} supereffective Charged Attacks in Gym battles
 Win {0} Great League Trainer Battles against another Trainer
+Catch {0} Roggenrola
+Evolve {0} Roggenrola
+Take {0} snapshots of Roggenrola
 Catch {0} Roselia
 Evolve {0} Roselia
 Catch {0} Sandshrew
@@ -13694,18 +14027,13 @@ Evolve {0} Sandshrew
 Send Gifts {0} Days in a Row
 Send {0} Gifts to friends
 Send a Gift to a friend
-Send {0} Gifts and add a sticker to each
-Send a Gift with a sticker
 Catch {0} Shinx
 Evolve {0} Shinx
 Evolve {0} Luxio
 Take a snapshot with your buddy
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
-Take a snapshot of your Chikorita
-Take a snapshot of your Cyndaquil
 Take {0} snapshots of Genesect
-Take a snapshot of Hoopa
 Take a snapshot of Landorus
 Take a snapshot in Okinawa
 Take a snapshot of Regice
@@ -13713,9 +14041,9 @@ Take a snapshot of Regirock
 Take a snapshot of Registeel
 Take a snapshot
 Take snapshots of {0} different Bug-type Pokémon that you caught
+Take snapshots of {0} different Steel-type Pokémon that you caught
 Take a snapshot of Thundurus
 Take a snapshot of Tornadus
-Take a snapshot of your Totodile
 Take snapshots of {0} different Fire-type Pokémon
 Take snapshots of {0} different Pokémon
 Take a snapshot of Shinx, Blitzle, or Furfrou in the wild
@@ -13727,7 +14055,6 @@ Take {0} snapshots of wild Dragon-type Pokémon
 Take a snapshot of Chinchou, Finneon, or Ducklett in the wild
 Take a snapshot of Eevee in the wild
 Take {0} snapshots of wild Electric-type Pokémon
-Take a snapshot of Entei in the wild
 Take {0} snapshots of wild Fairy-type Pokémon
 Take {0} snapshots of wild Fighting-type Pokémon
 Take {0} snapshots of wild Fire-type Pokémon
@@ -13746,14 +14073,13 @@ Take {0} snapshots of wild Normal-type Pokémon
 Take {0} snapshots of wild Pokémon
 Take {0} snapshots of wild Poison-type Pokémon
 Take {0} snapshots of wild Psychic-type Pokémon
-Take a snapshot of Raikou in the wild
 Take {0} snapshots of wild Rock-type Pokémon
 Take a snapshot of a wild Pokémon
 Take a snapshot of Dodrio, Mantine, or Skarmory in the wild
 Take a snapshot of Kirlia or Skitty in the wild
 Take a snapshot of Sneasel, Croagunk, or Frillish in the wild
 Take {0} snapshots of wild Steel-type Pokémon
-Take a snapshot of Suicune in the wild
+Take snapshots of {0} different wild Steel-type Pokémon
 Take a snapshot of Sandshrew, Trapinch, or Cacnea in the wild
 Take snapshots of {0} different wild Fire-, Water-, or Grass-type Pokémon
 Take {0} snapshots of wild Water-type Pokémon
@@ -13883,29 +14209,6 @@ A river dammed by Bibarel will never overflow its banks, which is appreciated by
 Thank you, %PLAYERNAME%, for assisting me with this special assignment. I think we all learned that there’s more than meets the eye when it comes to Pokémon—especially Bidoof!
 As a thank-you for your hard work, the team leaders and I prepared a gift for you to help show the world your love and knowledge of the indelible Bidoof. I hope you wear it with the pride it deserves.
 Why don’t you put it on and enjoy a nice walk with your Bidoof? You never know what you might discover! Now, let’s GO!
-Hello there, %PLAYERNAME%! Look around—have you ever seen so many Bulbasaur?
-Personally, I’ve only witnessed a gathering like this once before. It was some time ago, and there were so many Trainers out and about catching all the little Seed Pokémon they could find.
-In fact, seeing all these Bulbasaur has me feeling quite nostalgic!
-It also reminded me of an important scientific tenet: there’s always more to learn! And I never tire of researching Pokémon, no matter the species.
-In that spirit, what do you say we do some research on Bulbasaur, Trainer?
-Welcome back, Trainer. That’s a downright adorable Bulbasaur you’ve caught!
-Did you know that Bulbasaur uses the nutrients that are stored in the seed on its back to grow?
-I’d love to have a built-in snack backpack. It would keep my stomach quiet in the field, that’s for sure! Haha!
-As you may know, Bulbasaur’s Evolution—Ivysaur—gains strength when it’s exposed to sunlight.
-That sunlight also makes the bud on its back grow larger. It would be lovely to witness that phenomenon myself, for old time’s sake.
-While you go off and evolve your Bulbasaur, I’ll continue following this pack of Bulbasaur I’ve been observing. They appear to be on the move!
-Goodness me, look at the size of that Ivysaur! Well done, %PLAYERNAME%.
-If memory serves, the bud on Ivysaur’s back produces a sweet aroma when it starts to swell, indicating the flower’s about to bloom.
-Have you gotten a whiff of that scent yet? If you do, your Ivysaur may be getting ready to evolve!
-Now, remember that pack of Bulbasaur I was following? A handful of Ivysaur have recently emerged from a nearby forest to join them.
-They all seem to be heading in the same direction... But what’s their destination, I wonder? Let’s go see if we can’t dig up some answers, hm?
-Welcome back %PLAYERNAME%. Hold on—is that a Venusaur with you?! It must be my lucky day.
-You see, the Bulbasaur and Ivysaur I was following led me to a grove where a Venusaur was resting. There was an unusual scent in the air that seemed to calm the Pokémon that had gathered.
-I’ve read that Venusaur sometimes produces a scent that attracts other Pokémon, so I surmised that’s what was occurring.
-In fact, the way the Bulbasaur and Ivysaur gathered around Venusaur reminded me of how Lure Modules work to attract Pokémon via scent.
-Now, let’s talk Venusaur. Did you know it can Mega Evolve?
-Take this Venusaur Mega Energy and try Mega Evolving your new friend. You’ll learn more by experiencing Mega Venusaur’s power for yourself!
-There are so many things we can learn from Pokémon, and researching them can lead us to even more exciting discoveries. I hope you enjoyed yourself during today’s scientific excursion!
 %PLAYERNAME%, you’ve been such a help in conducting Field Research and Special Research!
 I have a feeling that there’s so much more about this world that we’ve yet to discover, and I’m glad I can count on you to see it through.
 I’ve been doing some experiments of my own, and I suspect that I’m onto a further exciting discovery about another Mythical Pokémon that’s rarely seen.
@@ -13968,22 +14271,6 @@ Thanks again for your help, %PLAYERNAME%. I’ll be in touch as soon as I have m
 Hey there, %PLAYERNAME%! I just developed this new type of Incense—Daily Adventure Incense.
 One Daily Adventure Incense lasts for 15 minutes and stays active only while you’re moving. Most importantly, though, this Incense can attract almost any Pokémon you’ve encountered before—even Legendary Pokémon!
 I’ll give you one Daily Adventure Incense each day, so don’t be afraid to go out on some adventures! In fact, why not start one now? Try to catch as many Pokémon as you can!
-Hello there, %PLAYERNAME%! We’ve come to the end of the year once again...
-And it looks like some familiar Pokémon from earlier this year are reappearing, too!
-Do you think they’re here to celebrate the year’s end with us?
-I hope you’ll take a moment to reflect on all the ways you’ve grown and the adventures we had these last 12 months.
-We achieved the impossible, created legends, and discovered so much about ourselves! Which moment are you most proud of?
-Welcome back, %PLAYERNAME%. Wow, just look at all the Pokémon you’ve caught! Up for another challenge?
-Will you evolve a few of them for me? I’d say you’ve evolved plenty yourself, as a Trainer, this year. Especially after all that time with Hoopa.
-What mischief it made this year—remember when it summoned all those Legendary Pokémon?
-The bond between Trainer and Pokémon can change so much more than just a Pokémon’s appearance.
-Just something to think about as you evolve your Pokémon today!
-With a new year just around the corner, I can’t help but look back. What can we learn from the histories of places, Pokémon, and our fellow Trainers?
-That reminds me—have you heard about the strange door I found recently? I have a feeling we’re in for quite an adventure!
-I wonder what mysteries hide behind that door. What can this relic tell us about the past—and our shared future...?
-Sorry, where were we? Ah, yes! Be sure to catch lots of Pokémon, study how they evolve, and maybe work on improving your Poké Ball throws, too. Let’s end the year awash in new knowledge!
-You’ve made it to the end, %PLAYERNAME%! Here’s a reward for all your hard work. Consider it a token of my gratitude as well, for all you’ve done for me this year.
-I look forward to our adventures together next year! Are you ready? Then let’s GO!
 Hello there, %PLAYERNAME%! It’s so great to see you. Can you believe this year is already coming to a close?
 It’s almost as if Pokémon in the wild can feel it, too. A few seem to be appearing in greater numbers than usual!
 Strangely enough, the Pokémon appearing more frequently at the moment seem to be the same as those that did so previously throughout this year.
@@ -14313,34 +14600,6 @@ I was up late poring over my notes recently when I heard a knock at the door of 
 As I approached the door, I heard something scurrying away, and when I opened it, I found nothing but a curious bottle at my feet.
 There was a note attached. I’ve managed to decipher only part of it, but here’s what I’ve got so far.
 “Offer sweets and dust you’ve found So Hoopa’s form will be unbound
-Hoopa Unbound is said to be tremendously powerful—but I think you can handle it, Trainer.
-It’s been a long adventure with Hoopa, but I think we’ve finally reached the end.
-It’s almost bittersweet, don’t you think? But fret not—I’m sure more discoveries await!
-Let’s keep adventuring through this world full of mysteries—you, me, and Hoopa!
-I believe the poem is telling us to use Hoopa Candy and Stardust to change Hoopa’s form!
-You can get Stardust by catching Pokémon and battling in raids, but you can earn Hoopa Candy only by adventuring with Hoopa as your buddy.
-Luckily, I’ve managed to convert the bottle’s power into Hoopa Candy. Once you’ve gathered everything you need, you’ll be able to change your Hoopa Confined into Hoopa Unbound.
-There’s another bit of the poem that I think is relevant here, too.
-“And in this form it shall remain Until an offering is made again.”
-It sounds like you’ll also need Hoopa Candy and Stardust to change Hoopa Unbound back into Hoopa Confined—but something tells me you won’t need quite as much.
-Of course, this is all just a theory.
-We’ll have to test it before reaching any proper conclusions!
-Hey there, %PLAYERNAME%!
-I just saw the most wonderful thing: hundreds of Hoppip are filling the sky! You’d think the clouds were pink with how many there are out there right now.
-I believe this is the perfect opportunity for us to learn more about Hoppip, the Cottonweed Pokémon, don’t you agree?
-It’s said that when Hoppip gather in fields and mountains, spring is on the way.
-Does it feel like spring yet, with all these Hoppip floating about? Let’s see about catching a few to find out more about them.
-Wow, look at all those Hoppip! Hoppip are so light that they grip the ground with their feet to keep from being blown away. They also like to huddle up and link their leaves to stay grounded as a group.
-They sure have found all sorts of clever ways to keep themselves in place.
-Hoppip can also evolve, and it’s quite the sight. Don’t take my word for it—how about you go see for yourself!
-What an adorable Skiploom, %PLAYERNAME%! Have you had a moment to study it?
-The bloom on top of its head opens and closes as the temperature fluctuates. Because Skiploom’s flower blossoms when the temperature rises, some Trainers have taken to using it as a thermometer. Isn’t that fascinating?
-In warm weather, Skiploom can also be seen floating in the air to get closer to the sun. I don’t blame it—if I could float and get a little more sunlight, I would, too!
-Did you know that Skiploom can evolve as well? Why don’t you evolve one, hm?
-Great work, %PLAYERNAME%! Looks like you’ve got yourself a Jumpluff. Jumpluff rides the winds to cross the sea and fly to foreign lands, scattering cotton spores as it goes.
-Wouldn’t it be wonderful to travel so breezily?
-On that note, you should take your new friend for a stroll—maybe bask in the sunlight together a bit, too.
-See you again soon, %PLAYERNAME%!
 Jessie: Hey, James, did you hear?
 James: What is it, Jessie?
 Jessie: Apparently, there’s a mysterious Pokémon in a jungle nearby!
@@ -15038,35 +15297,6 @@ Because the update caused instability, academics can’t seem to agree on whethe
 It’s going to take a bit of time to file away all this research, but I’m thrilled we were able to learn more about Porygon and its Evolutions!
 Your hard work is always appreciated, %PLAYERNAME%, and I’ll be in touch as soon as I’m in need of another inquisitive eye!
 Until then, let’s GO!
-%PLAYERNAME%, you’re not going to believe this!
-Have you seen those Poké Ball–like Pokémon rolling about?
-This all begs the question: why are Hisuian Voltorb appearing now after being absent for so long? Did they somehow travel to the present from the Sinnoh region of the past?
-I have a theory that when Team GO Rocket broke open the mysterious door, it somehow caused these Hisuian Voltorb to appear in our time.
-Now why am I suddenly reminded of Celebi, the Time Travel Pokémon...
-Anyway, that’s all I’ve got! Kind of unbelievable, isn’t it?
-I’m going to do some more digging on my end, and I’d love your help researching these bygone Pokémon out in the field!
-Let’s investigate Hisuian Voltorb together.
-They look an awful lot like Voltorb—a Pokémon native to the Kanto region, among others—but I’ve never seen any Voltorb quite like these.
-I reached out to everyone I could think of and pored over all the research documents I could get my hands on, but get this: nothing in modern scholarship mentions this Pokémon!
-However, I did eventually find something. Did you know that the Sinnoh region used to be known as the Hisui region?
-Well, I found historical documentation of an old-fashioned Poké Ball developed long ago in the Hisui region, and I realized it greatly resembles this mysterious Pokémon. Or could it be the other way around?
-Which came first: the Poké Ball or the Pokémon? Who knows!
-Taking all this into consideration, I believe this anomalous Pokémon is, in fact, a Voltorb that once lived in the Hisui region.
-Is it still a regional variant if it only existed in the past? Gosh, what a puzzle.
-For now, I suppose we may as well call this Pokémon Hisuian Voltorb.
-I’m still reeling, %PLAYERNAME%.
-Can you believe Pokémon from a different time are now appearing around us?
-Anyway. Our research sure has been exciting lately, hasn’t it, %PLAYERNAME%?
-Something tells me we’re in for even more exciting discoveries!
-Let’s keep at it and see what else our adventure together brings.
-I wonder what this Pokémon has seen in the Hisui region—and what it thinks of the future it’s suddenly seeing now!
-Ah, the Hisui region... I wonder what other kinds of Pokémon lived there.
-What I wouldn’t give to go back in time and experience the Hisui region for myself! It’d be a dream come true!
-Maybe if I ever meet Celebi, I could ask it for a quick trip back in time, just to sate my curiosity!
-...But I’m sure that’s not possible. It’s nice to dream, though!
-Anyway, I’ve decided to research whether Hisuian Voltorb can evolve.
-I haven’t the foggiest if it can, but that won’t stop me. I want to learn everything about this strange and wonderful Pokémon.
-After all, it’s not every day that a literal blast from the past falls into your lap! Get it? Because Voltorb can Self-Destruct? Haha...
 Hi, %PLAYERNAME%, I’m glad to see you! Can I get your help with investigating something?
 I’ve noticed an alarming number of reports from Trainers who have found PokéStops that look...discolored?
 Some Trainers have even spotted people wearing shirts with a big letter R on them who are guarding these PokéStops.
@@ -15385,6 +15615,29 @@ Still! Seeing how you were able to beat his underlings, I’m certain you’ll c
 What a magnificent battle, %PLAYERNAME%! Congrats on defeating Giovanni and saving Ho-Oh from his clutches.
 Team GO Rocket never rests, so we should continue to be vigilant. In the meantime, why not get to know your newly saved Ho-Oh?
 With the right care and a little luck, any Shadow Pokémon can be purified! I wish you the best, %PLAYERNAME%, and I’ll see you next time!
+%PLAYERNAME%! Glad you’re here. There’s something I could use your help with today.
+As you know, I’ve been away for a while.
+I’ve been thinking about how to shake off the doldrums. Then it hit me like a ton of bricks—Pokémon research! Specifically, I’d like to learn about Roggenrola.
+Roggenrola were first discovered a hundred years ago in an earthquake fissure, but the dirt that makes up their bodies is even older!
+A Pokémon made of earth is just the thing to get me feeling grounded again, don’t you think? Not that I need an excuse to study Pokémon!
+Could you unearth some Roggenrola for me, %PLAYERNAME%?
+Great job, %PLAYERNAME%! Let’s get a closer look at those Roggenrola.
+Hm... Did you notice the hexagonal cavities on their bodies? Those are their ears, and deep inside is an energy core that makes Roggenrola slightly warm to the touch.
+But don’t stick your hand inside the cavity—that’s a surefire way to get on their bad side, and fast!
+Is that from firsthand experience, you ask? W-well, any researcher worth his salt has to take the occasional risk.
+You know, when Roggenrola evolve into Boldore and their energy is too great to be contained, they grow orange crystals on their bodies hard enough to smash diamonds.
+Doesn’t that sound like a sight, %PLAYERNAME%? Why don’t you help Roggenrola evolve so you can see for yourself?
+Welcome back, %PLAYERNAME%! Your Boldore are looking great.
+Their crystals—amazing! If only I had some diamonds to put that whole “smashing” thing to the proof.
+Well, while we can’t conduct that particular experiment, I can still tell you more about Boldore.
+Their crystals are actually masses of energy. Just one crystal fragment could provide enough fuel for a hundred dump trucks!
+*sigh* Yet another theory we can’t test ourselves. But if you help Boldore evolve, I’ll tell you all about what they do with that power, %PLAYERNAME%!
+There you have it, %PLAYERNAME%—a Gigalith of your own. Those crystals are even bigger now!
+When Gigalith’s orange crystals absorb solar energy, it’s magnified internally and fired from its mouth. It’s even capable of blowing away a mountain!
+Because of its hefty horsepower, Gigalith is a popular partner for construction workers.
+I’m sure you and Gigalith will get along great too, seeing as you’re always out and about.
+At any rate, thanks for helping me with my research today, %PLAYERNAME%. I’m feeling more like my old self already.
+Let’s do this again soon!
 Ahhh... Do you smell that, Trainer?
 I first caught a whiff of that curious aroma as I was out on my daily morning walk.
 Upon investigation, I discovered that the scent was being produced by an uncommonly large group of Roselia that had assembled nearby.
@@ -15549,6 +15802,32 @@ After all those Legendary Pokémon appeared during this year’s GO Fest—as we
 Perhaps we can learn more about Hoopa by studying the Ghost-type Pokémon that have begun to show up nearby. Mind giving me a hand, Trainer?
 Thanks for conducting that research, Trainer. We certainly know more than we did, but not enough to explain why these spooky occurrences are still...well, occurring.
 Let’s do a bit more research on Ghost-type Pokémon then, shall we?
+Hello, %PLAYERNAME%! It’s great to see you.
+I can’t thank you and Rhi enough for bringing me back from beyond the Ultra Wormhole. The two of you are quite the team!
+As exhilarating as it was to explore a different dimension, it wasn’t without its challenges. Thoughts of home kept me calm—you, Meltan, the team leaders...
+Maybe it was the sheer strength of those memories, but more than once it seemed almost like I was being surrounded by a protective presence—warm like the sun and calm like the moon.
+Who knows—maybe there really was something watching out for me! Our world can’t be the only one full of mysteries, after all.
+Speaking of mysteries, I have a new one to share with you, %PLAYERNAME%. Since my return, a small, gaseous Pokémon I’ve never seen before has been hanging around my lab.
+It seems friendly, but where did it come from?  Did it follow me from beyond the Ultra Wormhole? Could it be an Ultra Beast?
+Considering that possibility, I think it would be best if you work with Rhi to raise this Pokémon. Naturally, I’ll be eager to hear anything you may learn in the process.
+Greetings, Pokémon Trainer. With the Ultra Beasts presently at bay, now is an opportune moment to reflect on our time together thus far.
+The Ultra Wormholes and the dangers they pose were my primary concerns upon arriving in this world. But now, I find myself equally invested in developing our relationship.
+In light of our new rapport, perhaps it is time I reintroduced myself.
+I am Rhi of the GO Ultra Recon Squad. It is a pleasure to be your friend, %PLAYERNAME%.
+Is there any objective I may assist you with today?
+Your Professor Willow has asked us to rear and study a peculiar Pokémon, is it? Understood.
+Ah. I have heard tales of such a Pokémon.
+Its gentle glow is impossible to mistake. I believe this Pokémon is called...Cosmog.
+Come—let us show Cosmog the beauty of this world.
+Hm? You wish to know more of Cosmog?
+Some have said that in ages past, it was known as the child of the stars.
+Beyond that, few details are known.
+Perhaps you and I can shed some light on this peculiar Pokémon.
+Earning its trust seems like a logical first step.
+Do you think Cosmog would feel closer to us if it were given a nickname?
+Its visage reminds me of outer space... A nebula, perhaps.
+But never mind my musings. I will leave the decision to you, %PLAYERNAME%.
+No matter the name, I am eager to learn more of Cosmog as we become better acquainted.
 Hey there %PLAYERNAME%! Hope you’ve been well.
 The strangest thing happened last night: I noticed a veritable bevy of bobbing, blinking lights bouncing around at the far end of a nearby park—but by the time I’d run over, the area was empty and dark.
 I have a feeling those flickering lights may somehow be connected to an Electric-type Pokémon, but I can’t be sure!
@@ -15590,25 +15869,6 @@ It has an incredible ability to stop its opponents’ movements with a single gl
 Having a Pokémon like that by your side would be pretty inspiring, I’d say!
 Anyway, thanks again for all your help in this sun-soaked endeavor. I think I’ll take one more walk before the day’s done—can’t let weather like this go to waste!
 Until next time, let’s GO!
-Hey there, %PLAYERNAME%! It’s great to see you again.
-I wanted to tell you about what I saw on my morning walk today—a herd of Spheal rolling across an icy lake!
-Did you know that a Spheal always travels by rolling around on its ball-like body?
-When the season for ice floes arrives, Spheal can be seen rolling about on ice and crossing the sea.
-They’re also covered in fluffy fur to keep them from feeling cold in icy climes. And I’ll tell you, seeing them tumble to-and-fro warmed me right up, too!
-Why don’t you go check out some Spheal for yourself?
-Welcome back, %PLAYERNAME%! I see you’ve brought some Spheal with you. Aren’t they just the roundest?
-According to my research, the Evolution of Spheal, Sealeo, seems to agree! Sealeo can occasionally be seen entertaining itself by balancing a Spheal on its nose as if juggling a ball.
-In fact, when Sealeo sees just about anything for the first time, it tends to try juggling it on its nose! Why don’t you evolve your Spheal and see for yourself?
-Welcome back, Trainer—and hello there, Sealeo!
-I have some breaking news for you. Remember that icy lake I told you about earlier?
-Well, it looks like something’s broken it up, and now all the Spheal are splashing around in the water! They seem to be having fun, but I wonder what Pokémon could have caused this.
-My best guess is Walrein. Walrein is known to swim through frigid water while crushing icebergs with its grand, imposing tusks. Sounds pretty magnificent, if a bit imposing.
-Can you evolve your Sealeo so we can research Walrein ourselves?
-You did it, Trainer! Walrein’s tusks really are magnificent up close, aren’t they?
-Did you know that Walrein typically gather in herds of about 20 or 30? When a threat appears, the herd’s leader will do whatever it takes to protect the group.
-Nice to know they can look after themselves—though considering those tusks, I don’t think that was ever in doubt. Haha!
-I’m sure your Walrein will protect you in battle as well. You already look like quite a powerful pair!
-Thanks for going on this adventure with me today, %PLAYERNAME%! I’ve learned a lot from the research you conducted. Until next time, let’s GO!
 Oh, %PLAYERNAME%! You’ve dropped by just in time.
 As I was out on my regular walk one evening, I stumbled upon this odd stone. Something told me to bring it back to my lab for further research, and ever since then, strange things have been happening.
 Papers shifting around, water glasses tipping all by themselves...
@@ -15850,9 +16110,31 @@ Would you be willing to travel throughout the park and perform some tasks for me
 Please complete the following research tasks: {0}{1}{2}{3}{4}
 Wow, great work today! In addition to completing some insightful research, you’ve skillfully helped me document the amazing nature around us and the fascinating migration patterns that Pokémon follow. I have a feeling there’s even more to discover out here!
 The results of your work have produced an awesome amount of Stardust. Perhaps you could find good use for it in powering up or trading a Pokémon! Enjoy, %PLAYERNAME%!
-Catch {0} Spheal
-Evolve {0} Spheal
-Evolve {0} Sealeo
+What peculiar coloring. Is it an aberration, or—?
+Ah. You have arrived at an opportune moment, Pokémon Trainer. Might I seek your insight?
+Zigzagoon are present in vast numbers today, but they are notably different from those I have observed previously.
+Zigzagoon’s fur is normally earthy in hue, but these Zigzagoon are black and white.
+Can you explain this?
+I see... These Zigzagoon were first discovered in the Galar region.
+So a single Pokémon species can develop differently based on its habitat? Fascinating.
+I will spend today observing these Galarian Zigzagoon. Will you assist me, Pokémon Trainer?
+How energetic these Galarian Zigzagoon are. Have you also observed how they dash in a zigzag pattern?
+I hypothesized that this may increase its evasiveness—but when I tested it myself, I grew quite dizzy.
+Fret not, Pokémon Trainer—no people or Pokémon were harmed during my experiment.
+I am left wondering whether evolution would ease or encourage Galarian Zigzagoon’s frenetic movements. Perhaps we can discover that answer together.
+Thank you for your assistance, Pokémon Trainer.
+I have concluded that Galarian Linoone’s disposition is no calmer than Galarian Zigzagoon’s. Indeed, its aggression appears to have increased.
+Not long before your arrival, I observed a group of Galarian Linoone using their long tongues to taunt other Pokémon.
+They then hurled themselves at their enraged foes.
+I am continuously enthralled by the ways Pokémon interact with each other.
+Might Galarian Linoone itself be capable of evolution? More research is required.
+Greetings, Pokémon Trainer. You have brought me...Obstagoon, is it?
+Unlike Galarian Linoone, Obstagoon stands on two legs. I surmise this is to establish a threatening posture.
+What’s more, I witnessed firsthand its ability to make staggering vocal outbursts.
+My heart has yet to return to its normal rhythm.
+I find it remarkable that the assertive Obstagoon was once a diminutive Galarian Zigzagoon.
+How must it feel to experience such profound transformation? I assume your Professor Willow would have some insight.
+This has been a valuable learning experience. Thank you for your assistance today, Pokémon Trainer.
 Visit PokéStops {0} days in a row
 Catch 15 Seedot
 Evolve a Nuzleaf
@@ -15930,11 +16212,6 @@ BIDOOF (1/4)
 BIDOOF (2/4)
 BIDOOF (3/4)
 BIDOOF (4/4)
-Bulbasaur Community Day Classic
-Bulbasaur Community Day Classic (1/4)
-Bulbasaur Community Day Classic (2/4)
-Bulbasaur Community Day Classic (3/4)
-Bulbasaur Community Day Classic (4/4)
 A Ripple in Time
 A Ripple in Time (1/8)
 A Ripple in Time (2/8)
@@ -15950,11 +16227,6 @@ A Tale of Tails (2/5)
 A Tale of Tails (3/5)
 A Tale of Tails (4/5)
 A Tale of Tails (5/5)
-December Community Day 2021
-December Community Day 2021 (1/4)
-December Community Day 2021 (2/4)
-December Community Day 2021 (3/4)
-December Community Day 2021 (4/4)
 December Community Day
 December Community Day (1/4)
 December Community Day (2/4)
@@ -16034,11 +16306,6 @@ Mischief Unbound
 Mischief Unbound (1/3)
 Mischief Unbound (2/3)
 Mischief Unbound (3/3)
-A Hop, Skip, and Jump Away
-A Hop, Skip, and Jump Away (1/4)
-A Hop, Skip, and Jump Away (2/4)
-A Hop, Skip, and Jump Away (3/4)
-A Hop, Skip, and Jump Away (4/4)
 GO Fest 2019—Chicago (1/5)
 GO Fest 2019—Chicago (2/5)
 GO Fest 2019—Chicago (3/5)
@@ -16216,7 +16483,6 @@ Decoding Porygon (1/4)
 Decoding Porygon (2/4)
 Decoding Porygon (3/4)
 Decoding Porygon (4/4)
-Voltorb from the Hisui Region?!
 A Troubling Situation
 A Troubling Situation (1/4)
 A Troubling Situation (2/4)
@@ -16285,6 +16551,11 @@ A Seven-Colored Shadow (3/6)
 A Seven-Colored Shadow (4/6)
 A Seven-Colored Shadow (5/6)
 A Seven-Colored Shadow (6/6)
+Rock ’n’ Roll
+Rock ’n’ Roll (1/4)
+Rock ’n’ Roll (2/4)
+Rock ’n’ Roll (3/4)
+Rock ’n’ Roll (4/4)
 Stop and Smell the Roselia
 Stop and Smell the Roselia (1/4)
 Stop and Smell the Roselia (2/4)
@@ -16318,54 +16589,17 @@ Misunderstood Mischief (7/16)
 Misunderstood Mischief (8/16)
 Misunderstood Mischief (9/16)
 Misunderstood Mischief (10/16)
-Season of Heritage: Stardust Challenge
-Season of Heritage: Stardust Challenge (1/15)
-Season of Heritage: Stardust Challenge (2/15)
-Season of Heritage: Stardust Challenge (11/15)
-Season of Heritage: Stardust Challenge (12/15)
-Season of Heritage: Stardust Challenge (13/15)
-Season of Heritage: Stardust Challenge (14/15)
-Season of Heritage: Stardust Challenge (15/15)
-Season of Heritage: Stardust Challenge (3/15)
-Season of Heritage: Stardust Challenge (4/15)
-Season of Heritage: Stardust Challenge (5/15)
-Season of Heritage: Stardust Challenge (6/15)
-Season of Heritage: Stardust Challenge (7/15)
-Season of Heritage: Stardust Challenge (8/15)
-Season of Heritage: Stardust Challenge (9/15)
-Season of Heritage: Stardust Challenge (10/15)
-Season of Heritage: Catch Challenge
-Season of Heritage: Catch Challenge (1/15)
-Season of Heritage: Catch Challenge (2/15)
-Season of Heritage: Catch Challenge (11/15)
-Season of Heritage: Catch Challenge (12/15)
-Season of Heritage: Catch Challenge (13/15)
-Season of Heritage: Catch Challenge (14/15)
-Season of Heritage: Catch Challenge (15/15)
-Season of Heritage: Catch Challenge (3/15)
-Season of Heritage: Catch Challenge (4/15)
-Season of Heritage: Catch Challenge (5/15)
-Season of Heritage: Catch Challenge (6/15)
-Season of Heritage: Catch Challenge (7/15)
-Season of Heritage: Catch Challenge (8/15)
-Season of Heritage: Catch Challenge (9/15)
-Season of Heritage: Catch Challenge (10/15)
-Season of Heritage: XP Challenge
-Season of Heritage: XP Challenge (1/15)
-Season of Heritage: XP Challenge (2/15)
-Season of Heritage: XP Challenge (11/15)
-Season of Heritage: XP Challenge (12/15)
-Season of Heritage: XP Challenge (13/15)
-Season of Heritage: XP Challenge (14/15)
-Season of Heritage: XP Challenge (15/15)
-Season of Heritage: XP Challenge (3/15)
-Season of Heritage: XP Challenge (4/15)
-Season of Heritage: XP Challenge (5/15)
-Season of Heritage: XP Challenge (6/15)
-Season of Heritage: XP Challenge (7/15)
-Season of Heritage: XP Challenge (8/15)
-Season of Heritage: XP Challenge (9/15)
-Season of Heritage: XP Challenge (10/15)
+A Cosmic Companion
+A Cosmic Companion (1/10)
+A Cosmic Companion (2/10)
+A Cosmic Companion (3/10)
+A Cosmic Companion (4/10)
+A Cosmic Companion (5/10)
+A Cosmic Companion (6/10)
+A Cosmic Companion (7/10)
+A Cosmic Companion (8/10)
+A Cosmic Companion (9/10)
+A Cosmic Companion (10/10)
 Flash, Spark, and Gleam
 Flash, Spark, and Gleam (1/4)
 Flash, Spark, and Gleam (2/4)
@@ -16376,11 +16610,6 @@ Snivy in the Sunshine (1/4)
 Snivy in the Sunshine (2/4)
 Snivy in the Sunshine (3/4)
 Snivy in the Sunshine (4/4)
-The Spheal Deal
-The Spheal Deal (1/4)
-The Spheal Deal (2/4)
-The Spheal Deal (3/4)
-The Spheal Deal (4/4)
 A Spooky Message 2018
 A Spooky Message 2018 (1/3)
 A Spooky Message 2019 (1/3)
@@ -16517,6 +16746,11 @@ A Hairy Situation (2/4)
 A Hairy Situation (3/4)
 A Hairy Situation (4/4)
 Pokémon GO Safari Zone in YOKOSUKA
+Field Notes: Galarian Zigzagoon
+Field Notes: Galarian Zigzagoon (1/4)
+Field Notes: Galarian Zigzagoon (2/4)
+Field Notes: Galarian Zigzagoon (3/4)
+Field Notes: Galarian Zigzagoon (4/4)
 Make {0} trades with Pokémon caught at least 100 km apart
 Make {0} trades with Pokémon caught at least 200 km apart
 Make {0} trades with Pokémon caught at least 300 km apart
@@ -16568,18 +16802,14 @@ Research Day: Take a snapshot of a wild Rock-type Pokémon
 Research Day: Spin {0} PokéStops
 Research Day: Use a supereffective Charged Attack
 Use any Potion on a Pokémon
-Use a Charged TM
+Use a supereffective Charged Attack
 Use {0} Daily Adventure Incense
 Use one Daily Adventure Incense
-Use a Fast TM
 Use a Hyper Potion on a Pokémon
-Use a Lure Module
 Use a Max Potion on a Pokémon
 Use a Poffin
 Use {0} Rare Candies
 Use a Rare Candy
-Use a Charged TM
-Use a Fast TM
 Use a Super Potion on a Pokémon
 Valentine’s Day: Catch {0} Luvdisc
 Valentine’s Day: Catch a Chansey
@@ -16635,7 +16865,9 @@ Defeat a Team GO Rocket Leader {0} times using only Pokémon with 4,000 CP or le
 Catch {0} Weedle
 Evolve {0} Kakuna
 Evolve {0} Weedle
-Earn {0} XP
+Catch {0} Galarian Zigzagoon
+Evolve {0} Galarian Zigzagoon
+Take {0} snapshots of Galarian Zigzagoon
 {0} Research Tasks Updated
 Hey! Good job with your Field Research. It looks like we’ve learned a lot!
 Keep up the great work.  Now...let's see what we've discovered!
@@ -17464,6 +17696,7 @@ This Raid Lobby Has Expired
 Please try again later.
 The Raid Lobby Is Full
 ITEMS
+LOCAL RAID
 RAID FULL
 Received {0} items from raid.
 Raid Members
@@ -18344,6 +18577,8 @@ Are you sure you want to remove this friend?
 Failed to remove tag.
 Failed to reorder tag
 https://pokemongo.nianticlabs.com/support/contact/en
+Additional items from Research Breakthroughs
+Increased Stardust from Research Breakthroughs
 Restart
 Would you like to rejoin your previous shared AR session?
 Pokémon GO is more fun with friends! You can get XP, Eggs, and items by sharing Gifts with your pals.
@@ -18367,6 +18602,236 @@ Meowth balloon with Jessie and James appearing more often
 Team GO Rocket appearing more often at PokéStops
 2× Stardust from Team GO Rocket battles
 Team GO Rocket Take-Over
+About this Route:
+Set as a stop
+If you start this route, you will lose your current progress on {0}, and you will have to wait {1} minutes to play it again.
+If you restart this route, you will lose your current progress on {0}.
+Start new route
+Do you want to start a new route?
+Do you want to restart this route?
+[placeholder on client]
+CANNOT DELETE THIS ROUTE
+You cannot edit a Route that is being reviewed.
+Stop
+SHOW MORE {0}
+Congratulations!
+You got a {0} medal!
+{0} completed 1 time
+{0} completed {1} times
+You are already playing this route!
+You must wait 1 hour to play this route.
+You must wait 1 hour and 1 minute to play this route.
+You must wait 1 hour and {0} minutes to play this route.
+You must wait {0} hours to play this route.
+You must wait {0} hours and {1} minutes to play this route.
+You must wait {0} minutes to play this route.
+You must wait {0} minutes to play this route.
+Pick an image and a color to display as the medal other Trainers get when they complete your Route.
+Route Medal
+Create a Route in three easy steps!1. Plan your Route.2. Travel to each PokéStop or Gym along your Route and verify each one. This ensures your Route is safe for others!3. Add information about your Route, and submit it.
+Routes are interesting journeys that you believe others should experience for themselves! Pick a theme for your Route—such as history, art, or nature—and share it with others.Please avoid adding Pokémon-specific descriptions or splitting your Route into multiple entries. Doing so may delay Route approval.
+Routes must include five or more PokéStops or Gyms. An average Route should be 400–800 meters from start to finish and take 10–15 minutes to explore.
+Once your Route is submitted, it will be reviewed. If your Route is rejected, you can make changes and resubmit it. You can also reset your Route at any time and start over.Let’s create your first Route!
+Creating a Route
+Focus on a Theme
+Rules for Routes
+Submitting Your Route
+Now that you’ve created a Route, it’s time to tell people about it!
+Enter Route Data
+Adding this PokéStop or Gym will cause your Route to exceed the maximum Route length.
+This PokéStop is too close to the last. It must be at least {0} meters away.
+This PokéStop is too far from the last. It must be less than {0} meters away.
+This Route has reached the maximum number of stops.
+New stamp registered!
+CONTINUE EDITING
+Enter a description that tells other Trainers what your Route is about.
+Route Description
+Enter the title that other Trainers will see when they search for a Route.
+Route Title
+Current route has expired
+Preview
+Please select a medal to preview
+Route
+Routes
+GET ROUTE MAKER
+This medal will be shown to all Trainers
+Please select an image for this Route’s medal
+{0} km
+Arrange and modify your list of PokéStops or Gyms here
+List of PokéStops or Gyms
+Tap to start creating a Route
+Route {0}
+This Route took too long to load. Please try again.
+{0} m
+Your active Route Makers are shown here.
+You have the maximum number of active Route Makers!
+You are too far away from this area
+Medal
+ROUTE MEDALS
+Name
+Recent
+{0} mins
+Start point distance from your current location.
+Estimate time from start point to end point.
+The route created by NIANTIC partners has this label.
+Number of played time of this route.
+Route Information
+{0} routes
+SEE NEARBY ROUTES ({0})
+NEARBY ROUTE ({0})
+Entered the route area.The paused route is now active!
+1 time
+You can’t travel this Route because it is too far away.
+This route paused because you moved away from the route area. If you walk close to the next location, this route will automatically resume.
+Your progress will be saved. You can continue creating your Route by tapping the Route Maker item in your Item Bag at any time.
+(This route will cancel in {0} hours)
+(This route will cancel in less than {0} hour)
+(This route will cancel in {0} hour)
+{0} paused because you moved away from a route area. If you walk close to the next route point "<color=#{1}>{2}</color>”, this route automatically turn on again.
+Route paused
+Route saved as {0}.
+Route Creation Paused
+Plan your Route here
+Planning Your Route
+Add at least {0} more PokéStops or Gyms to this Route.
+Add at least 1 more Pokéstop or Gym to this route.
+Add at least {0} more PokéStops or Gyms to your Route.
+To complete your Route, select additional PokéStops or Gyms in the order that others should visit them.
+Your Route has the maximum number of stops
+Select a starting point
+Total distance: {0} meters
+Estimated time to complete: {0} minutes
+PUBLISHED ROUTES
+PUBLISHED ROUTES
+RATE
+Did you enjoy this route?Can you rate this route?
+You can pick multiple choices.
+Inaccessible
+No Longer Accurate
+Inapproriate Length
+Unrelated Locations
+Great Destination
+Great Learning
+Great Locations
+Great Walk
+You can pick a theme.
+Architecture
+Art
+Casual
+Culture
+Food
+History
+Nature
+Sightseeing
+How was this route?
+EDIT AND RESUBMIT
+This Route was rejected
+Remove from Route
+If you submit this report, the route will cancel.
+What kind of issue happened?Could you describe it?
+I don't know
+Permanent issue
+Thank you for sharing your report with Niantic. We are sorry for the inconvenience. Your current route has been cancelled.
+Report Submitted
+Temporary issue
+Report this route
+Resetting your Route will remove all the information you have included. Are you sure you want to reset this Route?
+RESET ROUTE?
+Please look over all the information you’ve entered before submitting your Route.
+Review Your Submission
+Set as the starting point
+Theme
+Length
+Nearest
+Rating
+This stop isn’t included on this Route. Do you want to add it?
+Please spin the Photo Discs at the PokéStops or Gyms you’ve selected in the order they will appear along this Route.
+Please spin the Photo Disc to verify this stop.
+DEFAULT
+STAMP COLLECTIONS
+STAMPS
+Failed to start route
+{0} started!
+Not submitted yet
+Published
+Rejected
+Under review
+Last saved on {0}
+Submitted on {0}
+Stop this route
+If you stop this route, its route activities will delete. You can't undo this action.
+In case an error happened on this route and you can't continue to play, report from <color=#{0}>here</color>.
+Start new route
+RESTART ROUTE
+Are you sure you want to stop this route?
+Route cancelled
+Add Route Description
+Please describe the journey, history, or background of this Route.
+Add Route Information
+Add Route Title
+Your description contains inappropriate or prohibited content
+Route image is not valid
+Your title contains inappropriate or prohibited content
+Medal Creation
+Select an image for your Route’s medal
+Please choose an icon for this Route’s medal.
+COLOR
+Description
+Medals
+Please enter a valid description to proceed
+Please enter a valid title to proceed
+The next step is to name and describe your Route.It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
+PHOTO
+Route submission error. Please try again later.
+You’ve submitted too many Routes! Please wait and try again later.
+Route submission unavailable. Please try again later.
+Unknown error in the Route submission process. Please try again later.
+Please visit all PokéStops or Gyms along this Route.
+Can this Route be followed in reverse?
+Select a color for your Route’s header
+Display your Trainer Nickname on this Route? This will be visible to other players.
+Describe Your Route
+Title
+Write Later
+Write Now
+You've successfully submitted your Route. Once it's been reviewed, it will show in your Route Maker page.
+Congrats!
+{0} times
+Nice job, you've verified your route! Now you can add information to the route you've created.
+You will need to resolve these issues before you can submit this Route.
+Route descriptions cannot exceed {0} characters.
+The starting point of a Route must be a PokéStop or a Gym.
+The last stop on a Route must be a PokéStop or a Gym.
+Routes cannot have more than {0} stops.
+There cannot be more than {0} checkpoints between stops #{1} and #{2}.
+Routes can have one additional stop per {0} meters. Too many stops have been added.
+Stop #{0} cannot be farther than {1} meters away.
+The distance between stops #{0} and #{1} cannot exceed {2} meters.
+A Route cannot be longer than {0} meters.
+A Route cannot have more than {0} PokéStops or Gyms.
+Stop #{0} must be at least {1} meters away.
+The distance between stops #{0} and #{1} must exceed {2} meters.
+A Route cannot be shorter than {0} meters.
+A Route must have at least {0} PokéStops or Gyms.
+Stop #{0} needs to be verified. Please travel to it and spin the Photo Disc.
+You are too far away from this Route’s stops to validate them
+Route Validation
+Route titles cannot exceed {0} characters.
+About this Route:
+Waiting for data to load
+TRAVEL
+Great job! You’ve visited all the stops along this Route!
+Travel to each PokéStop or Gym, and spin the Photo Disc at each
+Following Your Route
+This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
+Please go to the first PokéStop or Gym on this Route and spin the Photo Disc.
+Please go to stop #{0}—{1}—and spin the Photo Disc.
+This is stop #{0}: {1}. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
+Route PokéStop or Gym has been verified.
+You don’t have a Route Maker. You will need a Route Maker if you want to create a new Route.
+A device that lets you create Routes. You can have up to five active Routes at a time.
+Route Maker
+Route Makers
 Rocket Take-Over: Defeat a Team GO Rocket Grunt
 Rocket Take-Over: Defeat {0} Team GO Rocket Grunts
 Rocket Take-Over: Defeat a Team GO Rocket Leader
@@ -18427,6 +18892,11 @@ Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone St. Louis
 Safari Zone St. Louis
 Safari Zone St. Louis (1/2)
 Safari Zone St. Louis (2/2)
+Welcome to Safari Zone Goyang, %PLAYERNAME%!
+Thanks to you, we’ve learned a lot about the Pokémon at Safari Zone Goyang!
+Safari Zone Goyang 2022
+Safari Zone Goyang 2022 (1/2)
+Safari Zone Goyang 2022 (2/2)
 Welcome to Safari Zone Seville 2022, %PLAYERNAME%!
 Safari Zone Seville 2022
 Safari Zone Seville 2022 (1/2)
@@ -18526,8 +18996,12 @@ TIPS
 me
 Search
 Searching for Legends
+Season of GO
 s
 SEE DETAILS
+See less
+See more
+See schedule
 SEE SUMMARY
 Select a Gift to pin its Postcard to your Postcard Book or to remove its Postcard.
 Select Gift to discard
@@ -18582,7 +19056,7 @@ Get Support
 Combined Research Updates
 Help
 In-Game Notifications
-Enabling this setting will allow you to transfer Legendary Pokémon, certain Mythical Pokémon, and Ultra Beasts when selecting multiple Pokémon in your Pokémon Storage. Transferring Pokémon cannot be undone.
+Enabling this setting will allow you to transfer Legendary Pokémon, Ultra Beasts, and certain Mythical Pokémon when selecting multiple Pokémon in your Pokémon storage. Transferring Pokémon to Professor Willow cannot be undone. 
 Are you sure you want to be able to transfer Legendary Pokémon, Mythical Pokémon, and Ultra Beasts when selecting multiple Pokémon?
 Explore Responsibly
 Low Motivation
@@ -18604,6 +19078,8 @@ Quick Start
 https://support.pokemon.com/hc/articles/360001417683
 Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
+To access your currently paired device, please go to the Pokémon GO Plus screen via the Settings menu.
+To access your currently paired device, please go to the Poké Ball Plus screen via the Settings menu.
 Show Pokémon Ribbon
 Pokémon
 Pokémon HOME
@@ -18639,6 +19115,7 @@ Buy a Pokémon GO Plus
 https://www.nintendo.co.jp/pokemongoplus/
 Push Notifications
 Share Recently Caught Pokémon with Friends
+Show Campfire
 Sound
 Sound
 Nintendo Switch
@@ -18683,7 +19160,7 @@ You invited {0}.
 Invitation sent!
 EX Raid Pass at {0} sent to {1}!
 Let's be friends in Pokémon GO! My Trainer Code is {0}!
-If you join or return to Pokémon GO using my referral code {0}, you’ll instantly get 100 Poké Balls, be able to earn special bonus items, and more. {1}
+If you join or return to Pokémon GO using my referral code {0}, you’ll get a welcome reward, earn special bonus items, and more. {1}
 Share
 If you're unable to attend:
 You and one {0} are invited to an EX Raid.
@@ -18715,7 +19192,7 @@ Do you want to exchange {0} PokéCoins for {1}?
 Contents:
 {0} Bonus PokéCoins
 Sweet, thanks!
-A special gift!
+A special gift from the Professor!
 Exchange
 Exchange
 
@@ -18857,7 +19334,7 @@ Radical battling, Trainer!
 That was an amazing battle!
 Whoa—not a signal in sight! I wonder what they’re scared of?
 Just when I was energized to do some battling! Maybe we should check out other locations.
-No signals? Well, it’s getting pretty late... And I need to get going.
+No signals? Well, it is getting pretty late... and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
 Pokémon Air Adventures: Catch Challenge
 Electrify the Sky
@@ -18879,6 +19356,7 @@ More Magmar are appearing in the wild
 More Mudkip are appearing in the wild
 More Oshawott are appearing in the wild
 More Porygon are appearing in the wild
+More Roggenrola are appearing in the wild!
 More Roselia are appearing in the wild
 More Sandshrew are appearing in the wild
 More Seedot are appearing in the wild
@@ -18910,6 +19388,7 @@ More Rock-type Pokémon are appearing in the wild
 More Steel-type Pokémon are appearing in the wild
 More Water-type Pokémon are appearing in the wild
 More Wooper are appearing in the wild
+More Galarian Zigzagoon are appearing in the wild!
 Event-themed wild Pokémon
 Special event: Catch {0} Pokémon
 Special event: Send {0} Gifts to friends
@@ -18949,6 +19428,8 @@ More Pidgey are appearing in the wild
 More Purrloin are appearing in the wild
 More Wobbuffet are appearing in the wild
 Spring Event
+Spritzee O'Clock
+Large numbers of Spritzee are appearing in the area
 I was thinking: Because we don’t know what attracted Shaymin here, we should make sure the surrounding area is safe.
 I really hope Shaymin hasn’t found itself in any trouble!
 Before we start, though, why don’t you power up some of your Pokémon in case we need to defend Shaymin when we find it?
@@ -19123,6 +19604,18 @@ A Radiant World (3/6)
 A Radiant World (4/6)
 A Radiant World (5/6)
 A Radiant World (6/6)
+Willow’s Return
+Willow’s Return (1/2)
+Willow’s Return (2/2)
+A Radiant Reunion (Part 1)
+A Radiant Reunion (1/6)
+A Radiant Reunion (2/6)
+A Radiant Reunion (Part 2)
+A Radiant Reunion (3/6)
+A Radiant Reunion (4/6)
+A Radiant Reunion (Part 3)
+A Radiant Reunion (5/6)
+A Radiant Reunion (6/6)
 Pokémon GO Fest: Berlin
 Pokémon GO Fest: Berlin (1/7)
 Pokémon GO Fest: Berlin (2/7)
@@ -19155,19 +19648,7 @@ Pokémon GO Fest: Seattle – Park Experience (2/5)
 Pokémon GO Fest: Seattle – Park Experience (3/5)
 Pokémon GO Fest: Seattle – Park Experience (4/5)
 Pokémon GO Fest: Seattle – Park Experience (5/5)
-Pokémon GO Tour: Johto (1/9)
-Pokémon GO Tour: Johto (2/9)
-Pokémon GO Tour: Johto (3/9)
-Pokémon GO Tour: Johto (4/9)
-Pokémon GO Tour: Johto (5/9)
-Pokémon GO Tour: Johto (6/9)
-Pokémon GO Tour: Johto (7/9)
-Pokémon GO Tour: Johto (8/9)
-Pokémon GO Tour: Johto (9/9)
-Hello, %PLAYERNAME%! Are you ready? Your very own Pokémon story is about to unfold. This adventure may be brand new to some, while for others, it might be very familiar.
-That’s right—today we’re learning all about the Johto region and meeting some Pokémon originally discovered there, too!
 But nothing’s happened yet, so you just focus on having fun with your friends and your Pokémon!
-The Johto region is a land steeped in history and tradition, where the bygone beauty of Ecruteak City lies just steps away from the modern metropolis of Goldenrod City.
 It’s also the region where Dark- and Steel-type Pokémon were first discovered! Not to mention Mr. Pokémon and the mysterious Mystery Egg.
 Speaking of Pokémon originally discovered in the Johto region, I’ve heard tell that Celebi, the Time Travel Pokémon, has been seen nearby.
 Celebi has the ability to move through time.
@@ -19244,6 +19725,7 @@ Star Piece
 25 Star Pieces
 8 Star Pieces. Earns 50% more Stardust for 30 minutes.
 8 Star Pieces
+Catch Status
 Type Surge: Steel
  
  
@@ -19315,17 +19797,19 @@ An exclusive sticker for Pokémon GO Fest attendees, featuring Victini, the Vict
  
 Characters
 You can get these stickers from Gifts, the shop, or PokéStops.
-Recently Used
 Featured
+Group
 Messages
 Misc.
+NEW
 Add a sticker to a Gift to start seeing your recently used stickers.
 You have no stickers of this type.
 You do not have any stickers. You can get them from Gifts, the shop, or PokéStops.
 You have no stickers from this category.
 Pokémon
 Recent
-Recently Received
+RECENTLY RECEIVED
+RECENTLY USED
 See All ({0})
 SEE OTHER STICKERS
 Silent Schemes
@@ -19407,7 +19891,13 @@ MEGA EVOLUTION
 https://www.nianticlabs.com/terms/en/
 test string
 Test
+Test Your Mettle: Catch Challenge
+Test Your Mettle: Catch Challenge (1/2)
+Test Your Mettle: Catch Challenge (2/2)
+Test Your Mettle
 ภาษาไทย
+You’ll also be able to get season-themed stickers by spinning PokéStops, opening Gifts, and purchasing them from the in-game shop.
+Themed Stickers
 Receive up to three Raid Passes at no cost by spinning Photo Discs at Gyms
 https://pokemongo.nianticlabs.com/support/three-strike-policy
 Throwback Challenge 2020 Celebration
@@ -19439,6 +19929,7 @@ Ticket for the Alola to Alola Special Research story available in the shop
 Ticket for the Mudkip Community Day Classic Special Research story available in the shop
 Ticket for the From Scalchops to Seamitars Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
+Ticket for the Rock ’n’ Roll Special Research story available in the shop
 Tickets for Special Research available in the shop
 Ticket for the Gritty and Glacial Special Research story available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
@@ -19450,6 +19941,7 @@ Ticket for the Strong Stuff Special Research story available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
 Ticket for the Roasted Berries Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
+Ticket for the Field Notes: Galarian Zigzagoon Special Research story available in the shop
 Ends in {0} days and {1} hours
 Ends in {0} days and {1} hour
 Ends in {0} hours and {1} minutes
@@ -19668,7 +20160,6 @@ This raid has ended.
 Cannot learn any other attacks!
 One...two...and...ta-da! {0} learned {1}!
 Today
-Pokémon from all hours are now appearing in the wild!
 Regional Catch Competition
 Citywide AR Mapping task rewards
 AR Mapping task city competition
@@ -19683,6 +20174,7 @@ This item is EQUIPPED.
 UNEQUIP
 This item is UNEQUIPPED.
 Your Item Bag is full. You won’t receive item rewards for this match.
+Safari Zone Goyang – Exploration Challenge
 Trade
 Traded {0} for {1} with {2}.
 All Pokémon except Shadow and Mythical
@@ -19737,7 +20229,7 @@ Your friend doesn’t have enough Stardust.
 Your Friendship level with this friend isn’t high enough to complete this trade.
 Your friend has already made a Special Trade today.
 This Pokémon is assigned to a Gym.
-Shadow and Mythical Pokémon can’t be traded.
+Some Pokémon, such as Shadow and Mythical Pokémon, can’t be traded.
 You don’t have enough Stardust.
 You’ve already made a Special Trade today.
 This Pokémon can’t be traded.
@@ -19833,10 +20325,17 @@ A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that lo
 Rainy Lure Module
 Türkçe
 TURN ON BACKGROUND LOCATION
+Turn on notifications
+Turn on push notifications to stay up-to-date on new events and features.
+Stay in the know!
 Your buddy went exploring and brought back some Gifts. Try sending them to your friends!
 Your buddy found some Gifts!
 Now that you’ve reached level 40, you’ll have some new challenges you’ll have to complete in order to progress to the next level.
 Congratulations on your remarkable progress, Trainer!
+If you pin multiple Postcards from a certain region, you’ll have a chance to encounter a Pokémon!
+The pattern on Vivillon’s wings is affected by the climate of their habitat. You can check the Vivillon map from the Pokédex and the Vivillon medal page to see where different Vivillon can be found.
+When you pin a Postcard you receive from a friend, you’ll make progress on the Vivillon medal associated with that location. If you collect several Postcards from a certain part of the world, you can encounter a Scatterbug specifically from that habitat.
+Catch Vivillon from all around the world!
 It looks like you found a Candy XL! I’ve heard you can use these to help your Pokémon become even stronger than what ordinary Candies alone can achieve!
 There’s a chance that you can find Candies XL after you catch Pokémon. The stronger the Pokémon, the more likely you are to find Candies XL.
 Up to two free Raid Passes per day by spinning Gym Photo Discs
@@ -19890,6 +20389,7 @@ Ultra Unlock: Battle Weekend
 Ultra Beast cannot be left at Gyms.
 Ultra League Remix
 UL Premier Classic
+Ultra Premier
 Ultra Unlock 2020
 Ultra Bonus Unlock
 Ultra Bonus Unlock: Part 1
@@ -20051,6 +20551,7 @@ Do you want to upload this log now?
 Do you want to upload these logs now?
 Uploading 1 log...
 Uploading {0} logs...
+As you explore while playing Pokémon GO, you may receive Gifts and video messages from our sponsors.
 View all tags assigned to {0}
 View in Map
 Go to Help Center
@@ -20116,6 +20617,7 @@ New rank earned!
 Searching for the referral code associated with your link.
 km
 steps
+WALKED
 Water Festival: Catch Challenge
 Water Festival
 Type Surge: Water
@@ -20132,13 +20634,28 @@ VISIT WAYFARER
 MAYBE LATER
 You’re eligible for Niantic Wayfarer!
 Complete the Wayfarer tutorial to unlock!
+2022 Worlds Collection Challenge
 Pokémon GO at the 2022 Pokémon World Championships in London, England
 2022 Pokémon World Championships
+2022 Pokémon World Championships: Bonus Timed Research
+Greetings, Pokémon Trainer. I am eager to observe your prowess in battle.
+Which Pokémon will you select to accompany you?
+Galarian Stunfisk
+Choose this option to build and train a Pokémon team for the GO Battle League’s Great League comprised of Ariados, Pelipper, and Galarian Stunfisk.
+Drapion
+Choose this option to build and train a Pokémon team for the GO Battle League’s Great League comprised of Skarmory, Swampert, and Drapion.
+Jellicent
+Choose this option to build and train a Pokémon team for the GO Battle League’s Great League comprised of Venusaur, Jellicent, and Talonflame.
+Team Building: Great League
+Team Building: Great League (1/3)
+Team Building: Great League (2/3)
+Team Building: Great League (3/3)
 You can get an exclusive T-shirt avatar item by spinning PokéStops at the 2022 Pokémon World Championships event location!
 2022 Worlds Collection Challenge
 If 20 Trainers work together to successfully complete a Raid Battle, then special event Pokémon will appear near that Gym for 10 minutes!
 Group Play Bonus
 Take a snapshot of your buddy at the Pokémon GO booth
+Pokémon World Championships 2022
 I AM SAFE
 Hazardous weather alert! Check your local weather service for details.
 {0}'s {1} is boosted by the weather!
@@ -20149,6 +20666,7 @@ These Pokémon types are stronger, appear more frequently, and give bonus Stardu
 Careful!
 Weather conditions are potentially dangerous—be aware of your surroundings!  Check your local weather service for details.
 Clear
+Weather Cup
 Extreme
 Weather conditions are potentially dangerous—be aware of your surroundings!  Check your local weather service for details.
 Fog
@@ -20164,15 +20682,16 @@ Weather warning
 Weather
 Weather Week
 Windy
+As you explore while playing Pokémon GO, you can receive gifts by opening AR experiences from our sponsors. You will need to enable camera access to use this feature.
 Cannot access your device's camera. Check camera permissions.
 Weekly Box
+You’ve walked %s km this week. Not much farther until you’ve reached your goal!
 Welcome to Alola
+Willpower Cup
 Winter Event
-Pokémon GO Holidays: Catch Challenge
 Pokémon GO Holidays
 Pokémon GO Holidays: Part 1
 Pokémon GO Holidays: Part 2
-Pokémon GO Holidays: Friendship Challenge
 Winter Solstice
 Winter Weekend Event
 Winter Wonderland
@@ -20181,7 +20700,6 @@ World Tourism Day: Make a new friend
 World Tourism Day: Send {0} Gifts to friends
 World Tourism Day: Trade Pokémon caught 10,000 km apart
 World Tourism Day: Trade Pokémon caught 10,000 km apart
-Winter Wonderland Challenge
 20,000 XP
 Yesterday
 You’ve completed a milestone! Claim it on {0}’s Trainer page in the Friends menu.
