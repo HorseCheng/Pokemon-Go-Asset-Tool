@@ -1,5 +1,6 @@
-import re
 import json
+import re
+
 import pandas as pd
 
 date, version = "", ""
@@ -130,12 +131,12 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0350"] = "Fairy Wind"
-chimovedict["0350"] = "妖精之風"
-engmovedict["0356"] = "Double Kick"
-chimovedict["0356"] = "二連踢"
-engmovedict["0370"] = "Obstruct"
-chimovedict["0370"] = "攔堵"
+engmovedict["0376"] = "Poltergeist"
+chimovedict["0376"] = "靈騷"
+engmovedict["0377"] = "High Horsepower"
+chimovedict["0377"] = "十萬馬力"
+engmovedict["0371"] = "Shadow Force"
+chimovedict["0371"] = "暗影潛襲"
 
 # Pokemon class
 class pokemon():
