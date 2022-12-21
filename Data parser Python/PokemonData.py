@@ -131,12 +131,12 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0376"] = "Poltergeist"
-chimovedict["0376"] = "靈騷"
-engmovedict["0377"] = "High Horsepower"
-chimovedict["0377"] = "十萬馬力"
-engmovedict["0371"] = "Shadow Force"
-chimovedict["0371"] = "暗影潛襲"
+engmovedict["0374"] = "Fusion Bolt"
+chimovedict["0374"] = "交錯閃電"
+engmovedict["0375"] = "Fusion Flare"
+chimovedict["0375"] = "交錯火焰"
+engmovedict["0378"] = "Glaciate"
+chimovedict["0378"] = "冰封世界"
 
 # Pokemon class
 class pokemon():
@@ -403,11 +403,11 @@ for i in pokelist:
 # Output file
 origin = pd.DataFrame([i.__dict__ for i in pokelist])
 
-main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|_S$') ].reset_index(drop=True)
+main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|_S$') ].reset_index(drop=True)
 main = main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 #main with Apex Shadow pokemon
-main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$') ].reset_index(drop=True)
+main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$') ].reset_index(drop=True)
 main_s = main_s.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 
