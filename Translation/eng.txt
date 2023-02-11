@@ -8911,7 +8911,7 @@ Speed
 {0}-type attacks are now boosted!
 A Mega Moment
 Walking Progress
-Built at 2023-01-20T22:51:43.593887at SHA 629e826df492f5e6b47e6a94f11a99b15bcd442fPipeline 1218586, job 14577721
+Built at 2023-02-06T20:16:09.750220at SHA c19ca4a7e657622762f3618bfaf3258b256946c1Pipeline 1248938, job 14965623
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge

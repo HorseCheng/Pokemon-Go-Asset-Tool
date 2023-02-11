@@ -131,12 +131,10 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0374"] = "Fusion Bolt"
-chimovedict["0374"] = "交錯閃電"
-engmovedict["0375"] = "Fusion Flare"
-chimovedict["0375"] = "交錯火焰"
-engmovedict["0378"] = "Glaciate"
-chimovedict["0378"] = "冰封世界"
+engmovedict["0379"] = "Breaking Swipe"
+chimovedict["0379"] = "廣域破壞"
+engmovedict["0380"] = "Boomburst"
+chimovedict["0380"] = "爆音波"
 
 # Pokemon class
 class pokemon():
