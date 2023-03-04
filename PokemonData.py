@@ -97,6 +97,10 @@ for value,char in enumerate(eng):
 # New Pokemon
 chinamedict["0866"] = "踏冰人偶"
 engnamedict["0866"] = "Mr. Rime"
+chinamedict["0999"] = "索財靈"
+engnamedict["0999"] = "Gimmighoul"
+chinamedict["1000"] = "賽富豪"
+engnamedict["1000"] = "Gholdengo"
 
        
 chimovedict={}
@@ -135,6 +139,8 @@ engmovedict["0379"] = "Breaking Swipe"
 chimovedict["0379"] = "廣域破壞"
 engmovedict["0380"] = "Boomburst"
 chimovedict["0380"] = "爆音波"
+engmovedict["0381"] = "Double Iron Bash"
+chimovedict["0381"] = "鋼拳雙擊"
 
 # Pokemon class
 class pokemon():
