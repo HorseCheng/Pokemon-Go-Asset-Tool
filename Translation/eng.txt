@@ -257,9 +257,15 @@ Success! Open the Apple Watch app to start a session.
 Apple Watch enabled!
 Enable Apple Watch
 Appraisal
+Give me a look at that Pokémon.
 Hello, {0}. I am available to analyze your {1}, if you wish.
+Give me a look at that Pokémon.
+Appraise your Pokémon? I see you recognize my expertise.
 Hi {0}! Let's take a look at your {1}, shall we?
+Appraise your Pokémon? I see you recognize my expertise.
+My thoughts on your Pokémon? Let’s have a look, dear.
 Hey, {0}! You want me to check out your {1}?
+My thoughts on your Pokémon? Let’s have a look, dear.
 This ends my analysis. Farewell.
 Hope I was able to help. Take care!
 That's what I think! See ya!
@@ -276,32 +282,50 @@ Overall, your {0} is above average.
 Overall, your {0} is a decent Pokémon.
 Overall, your {0} is pretty decent!
 Your {0} would be categorized as unusually large.
+There’s big, and then there’s this {0}.
 Your {0} would be categorized as unusually large.
 Hey, that’s an enormous {0}!
+Pretty big {0}. I’m almost impressed.
 Hey, that’s an enormous {0}!
 Your {0} is just HUGE!
+Your {0} is quite large, isn’t it?
 Your {0} is just HUGE!
 Your {0} is above average in size.
+Now that’s a big {0}.
 Your {0} is above average in size.
 Your {0} is rather sizable, that’s for sure!
+That’s a large {0}. What else do you want me to say?
 Your {0} is a BIG one!
+Hmm. That’s not a bad size for a {0} at all.
 Your {0} is a BIG one!
 Your {0} is below average in size.
+Hmph. Small {0}.
 Your {0} is below average in size.
 Aww, what a small {0}! It’s rather cute, I’d say.
+Your {0} is small. How...unremarkable.
 Your {0} is a little small for its kind, don’t you think?
+This {0} is on the smaller side.
 Your {0} would be categorized as unusually small.
+What a puny {0}. Try harder.
 Your {0} would be categorized as unusually small.
 That’s a lil’ {0} you’ve got there!
+Is this a joke? What kind of teensy {0} is this?
 That’s a lil’ {0} you’ve got there!
 Your {0} is pretty petite, huh?
+What a quaint little {0}. 
 Your {0} is pretty petite, huh? 
 The size of your {0} is...colossal. This is indeed exceptional—fascinating!
+What a massive {0}! Guess you can have it back...for now.
 Your {0} is gigantic—the largest I’ve ever seen!
+That’s...quite the impressive {0}. Finally, you’ve shown me something worthwhile.
 Your {0} is massive! This might be one of the biggest {0} in the world...
+Well! You’ve landed one impressive {0}, darling!
 Your {0} is tinier than any we have on record. Astounding.
+Everything’s got a use—even this tiny {0}.
 Your {0} is so tiny, I almost didn’t notice it!
+What a miniscule {0}. Even I rarely see them this small.
 Wh-whoa. I’ve never seen such a tiny {0} before!
+Oh! This {0} is one of the smallest I’ve ever seen.
 Its stats exceed my calculations. It's incredible!
 I'm blown away by its stats. WOW!
 Its stats are the best I've ever seen! No doubt about it!
@@ -532,7 +556,9 @@ Team Skull Mask
 Verizon Mask
 Future Specs
 No Glasses
+FrillishGlasses
 Mareanie Shades
+GimmighoulGlasses
 Arlo-Style Glasses
 Grand Oak’s Glasses
 Lugia Mask
@@ -545,7 +571,6 @@ Obstagoon Shades
 Round Sunglasses
 Aviator Sunglasses
 Focus Frames
-FrillishGlasses
 Ace Gloves
 Battle Girl Gloves
 Bea-StyleGloves
@@ -565,6 +590,8 @@ Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
 Team Instinct GO Mega Bracelet
 Obstagoon Gloves
+Palmer Gloves
+Professor Willow Gloves
 Steven-Style Rings(Ruby/Sapphire)
 Crown Tundra Gloves
 Isle of Armor Gloves
@@ -607,6 +634,7 @@ Mareanie Visor
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+GimmighoulKnit Cap
 GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
@@ -656,6 +684,7 @@ PikachuPumpkin Head
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Professor Willow Goggles
 Regice Hat
 Regirock Hat
 Registeel Hat
@@ -730,8 +759,10 @@ Liquid Leggings
 New Year’sPants
 Hoenn Pants
 HolidayPajama Bottoms
+Palmer Pants
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Professor Willow Pants
 Pumpkaboo Pants
 Regice Pants
 Regirock Pants
@@ -804,7 +835,6 @@ GO Tour 2023Tee
 Greedent Sweater
 Blue-Style Top
 Festive Jacket
-GroudonTrack Suit
 Lugia T-shirt
 Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
@@ -825,7 +855,6 @@ Ingress Prime / Blue
 Jessie-Style Outfit
 Jirachi T-shirt
 Korrina-Style Outfit
-KyogreTrack Suit
 Latias & Latios Shirt
 Survey CorpsOutfit
 Luvdisc Top
@@ -850,6 +879,7 @@ Pokémon Shirts Magikarp
 Pokémon Shirts Snorlax
 Hoenn Top
 HolidayPajama Top
+Palmer Jacket
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
@@ -867,6 +897,7 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Professor Willow Shirt
 「＝」 Sweatshirt
 Pumpkaboo Top
 Regice Jacket
@@ -919,6 +950,8 @@ Team Rainbow Rocket Top
 Team SkullTank Top Set
 Spark-Style Jacket
 Togepi Pattern Hoodie
+GroudonTrack Suit
+KyogreTrack Suit
 Active Tee
 Pikachu Tee
 Turtwig Costume
@@ -974,8 +1007,10 @@ New Year’sShoes
 NIKE AIR MAX 2021
 Hoenn Shoes
 HolidayPajama Slippers
+Palmer Shoes
 Pikachu Fan Shoes
 Pikachu Libre Boots
+Professor Willow Shoes
 Regice Shoes
 Regirock Shoes
 Registeel Shoes
@@ -1092,7 +1127,9 @@ Team Skull Mask
 Verizon Mask
 Future Specs
 No Glasses
+FrillishGlasses
 Mareanie Shades
+GimmighoulGlasses
 Arlo-Style Glasses
 Grand Oak’s Glasses
 Jogger Sunglasses
@@ -1106,7 +1143,6 @@ Obstagoon Shades
 Round Sunglasses
 Aviator Sunglasses
 Focus Frames
-FrillishGlasses
 Ace Gloves
 Bea-StyleGloves
 N-Style Wristband
@@ -1126,6 +1162,8 @@ Team Mystic GO Mega Bracelet
 Team Valor GO Mega Bracelet
 Team Instinct GO Mega Bracelet
 Obstagoon Gloves
+Palmer Gloves
+Professor Willow Gloves
 Steven-Style Rings(Ruby/Sapphire)
 Crown Tundra Gloves
 Isle of Armor Gloves
@@ -1168,6 +1206,7 @@ Mareanie Visor
 Galarian Farfetch’d Cap Set
 Genesect Cap
 Gengar Knit Cap
+GimmighoulKnit Cap
 GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
@@ -1216,6 +1255,7 @@ PikachuPumpkin Head
 Bulbasaur Face Cap
 Charmander Face Cap
 Squirtle Face Cap
+Professor Willow Goggles
 Regice Hat
 Regirock Hat
 Registeel Hat
@@ -1285,8 +1325,10 @@ Munna Pants
 New Year’sPants
 Hoenn Pants
 HolidayPajama Bottoms
+Palmer Pants
 Pikachu Fan Shorts
 Pikachu Libre Leggings
+Professor Willow Pants
 Pumpkaboo Pants
 Regice Pants
 Regirock Pants
@@ -1364,7 +1406,6 @@ GO Tour 2023Tee
 Greedent Sweater
 Blue-Style Top
 Festive Jacket
-GroudonTrack Suit
 Lugia T-shirt
 Ho-Oh T-shirt
 The North Face x Gucci T-Shirt
@@ -1386,7 +1427,6 @@ James-Style Outfit
 Jirachi T-shirt
 Jogger Tank Top
 Korrina-Style Top
-KyogreTrack Suit
 Latias & Latios Shirt
 Survey CorpsOutfit
 Charizard Pullover
@@ -1412,6 +1452,7 @@ Pokémon Shirts Magikarp
 Pokémon Shirts Snorlax
 Hoenn Top
 HolidayPajama Top
+Palmer Jacket
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
@@ -1429,6 +1470,7 @@ Pokémon Shirts Smoochum
 Instinct Polo
 Mystic Polo
 Valor Polo
+Professor Willow Shirt
 「＝」 Sweatshirt
 Pumpkaboo Top
 Regice Jacket
@@ -1476,6 +1518,8 @@ Team Rainbow Rocket Top
 Team SkullTank Top Set
 Spark-Style Jacket
 Togepi Pattern Hoodie
+GroudonTrack Suit
+KyogreTrack Suit
 Diagonal Tee
 Team Instinct Tee
 Team Mystic Tee
@@ -1535,8 +1579,10 @@ New Year’sShoes
 NIKE AIR MAX 2021
 Hoenn Shoes
 HolidayPajama Slippers
+Palmer Shoes
 Pikachu Fan Shoes
 Pikachu Libre Boots
+Professor Willow Shoes
 Regice Shoes
 Regirock Shoes
 Registeel Shoes
@@ -1814,6 +1860,12 @@ Partner Research - Season of Light: Hanamaru Udon
 Partner Research: Hanamaru Udon
 November 26, 2022
 Ultra Beast Arrival
+Partner Research – Rising Heroes: Yoshinoya
+Partner Research: Yoshinoya
+Partner Research – Rising Heroes: Tully’s
+Partner Research: Tully’s
+Partner Research – Rising Heroes: Ito En
+Partner Research: Ito En
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -2030,6 +2082,28 @@ Global, February 26, 2022
 Pokémon GO Tour: Johto
 Global, February 26, 2022
 Pokémon GO Tour: Johto
+Las Vegas, February 18–19, 2023
+February 2023
+Pokémon GO Tour -- Egg-thusiast (Test)
+Pokémon GO Tour—Egg-thusiast
+Las Vegas, February 18–19, 2023
+February 2023
+Pokémon GO Tour -- Raid Lover (Test)
+Pokémon GO Tour—Raid Lover
+February 2023
+Pokémon GO Tour: Hoenn
+February 2023
+Pokémon GO Tour: Hoenn (Test)
+February 2023
+Pokémon GO Tour: Hoenn
+February 2023
+Pokémon GO Tour: Hoenn (Test)
+February 2023
+Pokémon GO Tour: Hoenn - Las Vegas (Test)
+February 18, 2023
+Pokémon GO Tour: Hoenn – Las Vegas
+February 19, 2023
+Pokémon GO Tour: Hoenn – Las Vegas
 Win {0} Trainer Battles in the Great League.
 Win a Trainer Battle in the Great League.
 Great League Veteran
@@ -2094,6 +2168,9 @@ Register {0} Pokémon first discovered in the Hisui region to the Pokédex.
 Register {0} Pokémon first discovered in the Hisui region to the Pokédex.
 Hisui
 N0
+Register {0} Pokémon first discovered in the Paldea region to the Pokédex.
+Register {0} Pokémon first discovered in the Paldea region to the Pokédex.
+Paldea
 Kanto
 Unknown
 N0
@@ -2266,6 +2343,7 @@ Pokémon GO Safari Zone
 Catch {0} tiny Rattata.
 Youngster
 N0
+You have chosen: 
 Porto Alegre, Jan 25, 2019
 Pokémon GO Safari Zone
 Porto Alegre, Jan 26, 2019
@@ -2408,7 +2486,7 @@ Got Candy from the professor.
 You have selected at least one Legendary Pokémon, Mythical Pokémon, Ultra Beast, or event Pokémon.
 {0} Legendary Pokémon, Mythical Pokémon, or Ultra Beasts
 {0} Legendary or Mythical Pokémon
-{0} Pokémon with a Memento Background
+{0} Pokémon with a Location Card
 {0} Mega-Leveled Pokémon
 You have not selected any Legendary Pokémon, Mythical Pokémon, Ultra Beasts, or event Pokémon.
 Are you sure you want to transfer these Pokémon to the professor?
@@ -3262,6 +3340,7 @@ Bonus
 https://pokemongo.nianticlabs.com/support/pokemon-lets-go
 Could not connect to Nintendo Switch.
 Your last transfer to Nintendo Switch was unrecoverable.
+Pokémon: Let’s Go, Pikachu! or Pokémon: Let’s Go, Eevee!
 Are you sure you want to transfer?
 <b>Nintendo Switch not found.</b>Please open GO Park on Nintendo Switch.
 Your most recent transfer to Nintendo Switch was unsuccessful due to connectivity issues. Would you like to retry the transfer now?
@@ -3311,6 +3390,7 @@ Highly increased chance of obtaining 10 km Eggs from spinning PokéStops or Gyms
 2× Catch Candy
 2× Catch Candy
 2× Catch XP
+2× XP for evolving Pokémon
 2× XP for catching Pokémon with Nice, Great, and Excellent Throws
 2× chance to get Candy XL from catching Pokémon
 2× chance to get Deino Candy XL from catching Deino
@@ -3320,6 +3400,7 @@ Highly increased chance of obtaining 10 km Eggs from spinning PokéStops or Gyms
 3× Catch XP
 4× Catch Stardust
 4× Catch XP
+Large numbers of Absol are appearing in the area!
 Bonus currently active!
 Beast Balls available in Ultra Beast raids
 Increased chance of buddy Catch Assist if your Buddy Level is Great Buddy or higher
@@ -3343,6 +3424,19 @@ Special event stickers available from spinning PokéStops in the area
 An event-exclusive buddy Souvenir is available!
 At the top of each hour, Finneon will appear in large numbers!
 Complete the Field Research task obtained from the Meet-and-Greet PokéStop to earn an encounter with Pikachu wearing a party hat!
+3× Hatch Stardust
+3× Hatch XP
+3× Hatch Candy
+Receive up to 18 Raid Passes at no cost by spinning Photo Discs at Gyms
+Additional 5,000 XP awarded for successful raids
+Six additional Candy from catching Pokémon in five-star raids and Primal Raids
+Three additional Candy XL from catching Pokémon in five-star raids and Primal Raids
+Five additional Special Trades per day, for a total of six
+Receive up to nine Raid Passes at no cost by spinning Photo Discs at Gyms
+Groudon caught during this event will know the Charged Attack Precipice Blades
+Kyogre caught during this event will know the Charged Attack Origin Pulse
+One additional guaranteed Candy XL from all in-person Primal Raids
+Large numbers of Pokémon originally discovered in the Hoenn region are appearing in the area
 If enough Pokémon are caught with help from a single Lure Module, the 3× Catch Stardust bonus for Trainers near the Lured PokéStop will become a 4× bonus for 30 minutes
 If Trainers work together to win a Quilladin raid, large numbers of Chespin will appear in the area for 30 minutes.
 If enough Pokémon are caught with help from a single Lure Module, Zweilous will appear near the Lured PokéStop for 30 minutes.
@@ -3362,11 +3456,15 @@ If Trainers defeat an Ultra Beast in a Raid Battle, more wild Pokémon will appe
 Bonus available!
 If Trainers work together to win a Galarian Linoone raid, large numbers of Galarian Zigzagoon will appear in the area for 30 minutes.
 3-hour Incense duration
+Incense may attract Pikachu wearing Brendan’s hat or Pikachu wearing May’s bow
+Incense may attract Unown
 3-hour Lure Module duration
 6-hour Magnetic Lure Module duration
 Mega Latias raids and Mega Latios raids are appearing in the area!
 BONUS MILESTONE REWARDS
 Bonus not currently active
+Large numbers of Absol will appear for 5 minutes at noon
+Rayquaza caught from raids will know the Charged Attack Breaking Swipe
 At the top of each hour, Purrloin will appear in large numbers!
 Blaziken caught during this event will know the Charged Attack Blast Burn
 Sceptile caught during this event will know the Charged Attack Frenzy Plant
@@ -3377,6 +3475,7 @@ If Trainers participate in a raid together, large numbers of Bug-type Pokémon w
 +200 Catch Stardust
 +200 Catch XP
 +200 XP for spinning PokéStops
+2× XP for Nice, Great, Excellent, and Curveball Throws
 +300 Catch Stardust
 +300 Catch XP
 +300 XP for spinning PokéStops
@@ -3405,6 +3504,10 @@ One additional Special Trade can be made during the event and up to five hours a
 At the top of each hour, Spritzee will appear in large numbers!
 Special event stickers available from spinning PokéStops or Gyms
 5 surprise encounters with Pikachu wearing a green T-shirt (Berry) and Corsola in GO Snapshot
+Increased Stardust from defeating Team GO Rocket
+Increased Stardust from defeating the Team GO Rocket Boss
+Increased Stardust from defeating Team GO Rocket Grunts
+Increased Stardust from defeating Team GO Rocket Leaders
 Trades made during the event and up to five hours after will require 50% less Stardust.
 Trades made during the event and up to two hours after will require 50% less Stardust
 Trades made during the event and up to five hours after will require 75% less Stardust
@@ -3488,6 +3591,15 @@ Pikachu Rock Star
 Collecting Stardust
 Choosing this wish will grant you 2× Stardust for catching Pokémon for the duration of Winter Holiday Part 2. You’ll be challenged with tasks such as catching Pokémon and earning Stardust, and you may encounter Pokémon such as Galarian Mr. Mime!
 Collecting Stardust
+Pokémon Candy
+Choosing this wish will grant you 2× Candy for catching Pokémon during the Valentine’s Day event. You’ll be challenged with tasks such as catching Pokémon and using Pinap Berries, and you may encounter Frillish!
+Pokémon Candy
+Using Daily Adventure Incense
+Choosing this wish will grant you an additional 15 minutes of Daily Adventure Incense use during the Valentine’s Day event, for a total of 30 minutes each day. You’ll be challenged with tasks such as catching Pokémon and using Daily Adventure Incense, and you may encounter Frillish!
+Using Daily Adventure Incense
+Catching Pokémon
+Choosing this wish will grant you 2× XP for catching Pokémon during the Valentine’s Day event. You’ll be challenged with tasks such as catching Pokémon and earning XP, and you may encounter Frillish!
+Catching Pokémon
 Catching Pokémon
 Choosing this wish will grant you 2× XP for catching Pokémon for the duration of Winter Holiday Part 2. You’ll be challenged with tasks such as catching Pokémon and earning XP, and you may encounter Pokémon such as Galarian Mr. Mime!
 Catching Pokémon
@@ -3831,8 +3943,8 @@ Exchange {0} Candies for {0} Candies XL?
 Candy → Candy XL
 Frustration cannot be forgotten at this time.
 {0} cannot be changed.
-You can’t use the Mystery Box and an Incense at the same time.
-Only one type of Incense or Mystery Box can be active at a time.
+Only the Coin Bag, Mystery Box, or either Incense can be active at a time.
+Only the Coin Bag, Mystery Box, or either Incense can be active at a time.
 The Frustration Charged Attack can’t be replaced by a Charged TM.
 Can't sign in?
 Old Sea Map
@@ -3861,6 +3973,7 @@ Show off this Pokémon with a Catch Card
 Total {0} Caught: {1}
 Catch Cup
 Catch!
+Catch Mastery Event
 You caught {0} Pokémon
 2× Catch Stardust, 2× Catch Candy, and 2× Catch XP
 2× Catch Stardust
@@ -4002,6 +4115,12 @@ Are you sure you want to change your Trainer Code? You'll no longer be able to r
 Change your Trainer Code
 Charged TMs can’t be used on Shadow Pokémon.
 Charge Up
+Incense will attract additional Cacnea, and you can earn extra encounters with Cacnea via Special Research!
+Choose Cacnea
+Incense will attract additional Gulpin, and you can earn extra encounters with Gulpin via Special Research!
+Choose Gulpin
+Incense will attract additional Surskit, and you can earn extra encounters with Surskit via Special Research!
+Choose Surskit
 Pokémon GO Fest
 繁體中文
 Failed to choose the event version. Try again later.
@@ -4281,6 +4400,9 @@ You're now known as {0}.
 If you spin the Photo Disc, you can get an AR mapping task and help collect AR mapping data for this location. You can also scan this PokéStop anytime from the PokéStop’s details screen.
 Collect AR Data
 Event-themed Collection Challenge
+Taiwan Lantern Festival 2023
+Catch these Pokémon during the event!
+Color Cup: Great League Edition
 A Colossal Discovery: Make a new friend
 A Colossal Discovery: Trade a Pokémon with a friend
 A Colossal Discovery: Win a Trainer Battle against another Trainer
@@ -4338,6 +4460,7 @@ Attack incoming! Use a Protect Shield?
 {0} severely fell!
 Spin to build your shield!
 Attack incoming!
+Dates and times below are listed in local time.
 When the Season of GO begins on May 31, your end-of-season rewards for Season 6 will be available on the Battle screen, including an Elite Fast TM if you reached rank 19 or higher. Your rating will be reset. Stay tuned—we’ll update you if anything changes.
 Dates and times below are listed in local time.
 Disable friend battles
@@ -4418,6 +4541,8 @@ You’ll be defeated into the ground!
 You’ll be defeated into the ground!
 You’re gonna be frozen in your tracks.
 You’re gonna be frozen in your tracks.
+You’re no match for my iron will!
+You’re no match for my iron will!
 Normal does not mean weak.
 Normal does not mean weak.
 Coiled and ready to strike!
@@ -4516,7 +4641,10 @@ Giovanni Defeated
 Grunt Defeated
 Pokémon Remaining
 Surrender and exit?You won’t receive any rewards.
+Traitorous Leader
+Reluctant Ally
 Your opponent no longer wants to battle.
+Season 10: Rising Heroes
 GO Battle League Season of GO Schedule
 GO Battle League: Mythical Wishes
 TRAIN
@@ -4764,6 +4892,9 @@ Electric Cup: Great League Edition
 Type Surge: Electric
 Element Cup
 Element Cup Remix
+Elite Raid: Regidrago
+Elite Raid: Regieleki
+Elite Raid Timed Research
 Elite Raid
 Elite Charged TM available in the Community Day Box
 Elite Fast TM available in the Community Day Box
@@ -4784,6 +4915,7 @@ Enable this option to receive sponsored messages through third-party advertising
 Enable sponsored messages from third-party advertising services
 You already used a Berry.
 Oh?
+{0} dropped {1}!
 Excellent!
 Gotcha!
 Great!
@@ -4807,6 +4939,7 @@ You can’t undo this action once you leave the encounter.
 Bonus Challenge! Catch {0}!
 {0} Evolution Shard received!
 Active Mega-Evolution Bonus
+Active Primal Reversion Bonus
 Expert Handler
 Streak Bonus
 Curveball
@@ -5160,10 +5293,13 @@ malibuleo
 GO Tour Challenger
 What’d I tell ya? Bold is just better.
 What’d I tell ya? Bold is just better.
+Featured Pokémon appear more frequently in Field Research
+Featured Pokémon appear more frequently in Timed Research
 New Misunderstood Mischief Special Research tasks
 Carnaval
 Festival of Colors
 You have successfully registered for {0}!
+Season 10: Rising Heroes
 Season of Celebration
 Season of Legends
 Season of Discovery
@@ -5298,6 +5434,8 @@ Sparkler Pose
 Steven Pose 2
 Party PopperPose
 Gifting Pose
+Palmer Pose
+Color Throw Pose
 Idle
 Level 41 Glasses
 Level 41 Glasses
@@ -5318,6 +5456,7 @@ Level 49 Boots
 Level 49 Boots
 Facebook
 Type Surge: Fairy
+Fantasy Cup: Ultra League Edition
 Fashion Week
 Favorite
 Please use a Facebook account that has an email address attached to it.
@@ -5382,14 +5521,16 @@ Genderunknown
 hatched
 hisui
 legendary
-mementobackgrounds
+locationcards
 lucky
+Mega
 mythical
 snapshot
 purified
 raid
 exraid
 megaraid
+primalraid
 remoteraid
 research
 rocket
@@ -5409,7 +5550,7 @@ Can Evolve
 Can Mega Evolve
 Hatched
 Legendary
-Has Memento Background
+Has Location Card
 Lucky
 Mythical
 Purified
@@ -5724,7 +5865,7 @@ Complete Forme
 10% Forme
 Fossil Cup
 The referral code was found!
-Spooky Scramble
+Spooky Cipher
 Energy Boost
 You found a Mysterious Component!
 Collect more to assemble a Rocket Radar, which can locate Team GO Rocket Hideouts!
@@ -5922,10 +6063,15 @@ A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 
 Pokémon GO Fest 2021 Ticket
 A ticket to access Timed Research from Thursday, December 15, 2022, at 10:00 a.m. until Saturday, December 31, 2022, at 8:00 p.m. local time, wherever you are, which leads to the following rewards:  Gifting Pose Two Incubators One Incense  IMPORTANT: Please note that Timed Research will expire. The tasks associated with Timed Research must be completed and their rewards must be claimed before Saturday, December 31, 2022, at 8:00 p.m. local time.  Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Winter Holiday Timed Research Ticket
+A ticket to access Masterwork Research that leads to an encounter with one of the most elusive Pokémon, Shiny Jirachi, and includes the following rewards: 9 Rare Candy 20,405 XP 12,700 Stardust 2 Poffins 2 Incense 30 Ultra Balls 20 Jirachi Candy, 10 Groudon Candy, 10 Kyogre Candy, and 10 Rayquaza Candy This ticket will be available in the shop until March 20, 2023, at 10:00 a.m. PDT. After purchase, you must play between February 20, 2023, at 10:00 a.m. and March 21, 2023, at 10:00 a.m. local time to receive the Masterwork Research. Once acquired, Masterwork Research will not expire.
+Masterwork Research: Wish Granted
 A ticket to access the Something Extraordinary Special Research, wherever you are, which leads to an encounter with Ordinary Form Keldeo as well as the following rewards:  Keldeo T-shirt avatar item 14 Rare Candies 12 Silver Pinap Berries Two Incubators Two Super Incubators Two Incense Encounters with various Fighting- and Water-type Pokémon  Details can be found in the in-game News. You must play between Saturday, December 10, 2022, at 10:00 a.m. and Sunday, December 11, 2022, at 8:00 p.m. local time in order to receive the Special Research and all special event bonuses.
 Something Extraordinary Ticket
 A ticket to access the following bonuses on Saturday, December 3, 2022, from 2:00 p.m. to 10:00 p.m. local time, wherever you are.Six additional Raid Passes from spinning Photo Discs at GymsIncreased chance to receive Rare Candy XL50% more XP for successfully completing raids2× Stardust for successfully completing raidsDetails can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Heading to Hoenn Mega Raid Day Ticket
+A ticket to access the Willow’s Wardrobe Timed Research, wherever you are. Research rewards include:- Professor Willow–inspired avatar items- An encounter with a Melmetal that knows the Charged Attack Double Iron BashThis Timed Research will be available for purchase until June 1, 2023, at 10:00 a.m. local time, and it will expire on June 30, 2023, at 10:00 a.m. local time. Learn more in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+Willow’s Wardrobe
+1 day
 Accept
 Allow
 & {0}
@@ -5961,6 +6107,7 @@ My Records
 Network Error
 No
 No thanks
+{0} days
 OK
 or
 Paste
@@ -6023,6 +6170,7 @@ REQUEST REFUND
 SEND TO A FRIEND
 Unable to Send Gift
 Gift Event
+Gimmighoul Goody Box 
 Prepare yourself for a world of pain.
 I’d say to prepare for battle, but you have already lost.
 Humble yourself. You are facing the world’s greatest Trainer.
@@ -6104,9 +6252,161 @@ Blistering Sands
 Eerie Mists
 Verdant Earth
 Ancient Shores
+%PLAYERNAME%! I can’t tell you how much of a relief it is to see you.
+The weather’s still going haywire, and we have multiple confirmed sightings of Primal Kyogre and Primal Groudon. I’m afraid they’ve left a streak of destruction in their wake.
+But hope is not lost—Rhi and the team leaders are still searching for the Red and Blue Orbs, which are said to have once resolved a similar incident in Hoenn.
+Once we have the Orbs, things’ll go back to normal, and—fingers crossed—we’ll be able to figure out what caused this surge of natural energy to begin with.
+Rhi left in that direction. If you hurry, you can catch up, %PLAYERNAME%!
+A wise choice. If you make use of Incense as we search, we may locate this Pokémon more easily.
+Are you already familiar with the Red and Blue Orbs?
+Professor Willow informed me they originate from a region called “Hoenn.”
+The Orbs have some influence over Primal Reversion. This is the transformation Kyogre and Groudon undergo when they absorb an abundance of natural energy.
+A region home to such artifacts must be full of mysteries to illuminate.
+Someday, I would like to visit Hoenn and see if any learnings from their myths can be applied to Ultra Beasts.
+No matter where one goes, there are always interesting Pokémon that call that place home. Would you not agree—
+Ah. I see your chosen Pokémon in that direction. Let us venture after it, %PLAYERNAME%.
+It is always a delight to watch you in action, %PLAYERNAME%.
+This chase has led us past a diverse array of Pokémon. It could signal that there is something of interest nearby, such as one of the Orbs.
+It is also possible that Pokémon are attracted to—not merely attuned to—natural energy. Perhaps we are near one that has undergone Primal Reversion...
+But we need not fear. I am confident you and your Pokémon can fend off Primal Kyogre and Primal Groudon. In the meantime, let us review what we know of them.
+According to Professor Willow, Groudon has long been described in mythology as the Pokémon that raised lands and expanded continents.
+Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature. Could Primal Kyogre and Primal Groudon be fighting once again? That would explain the strange weather.
+And speaking of strange, look there—a scarlet glint, coming from that cave. Hm? You cannot see it? Worry not. I shall investigate.
+In the meantime, I hear a telltale cry growing nearer. Could it be Primal Groudon?
+Thank you for keeping Primal Groudon at bay, %PLAYERNAME%. Here is my contribution—the Red Orb.
+The cave I found it in was most impressive. The Red Orb shone with a brilliant crimson light atop something like an altar. Perhaps it was an object of worship in a time long past.
+Only the Blue Orb remains. It is associated with Kyogre, if I am not mistaken. 
+I have read that Kyogre is able to create massive rain clouds that cover the entire sky and bring about torrential downpours. It has appeared in mythology as the creator of the sea.
+The sea... The way sunlight glitters upon the waters of this world is enchanting. The sights where I am from are utterly unalike—though I would still enjoy bringing you to visit someday, %PLAYERNAME%.
+But enough talk. I can hear Primal Kyogre nearby. If I could trouble you to keep it at bay, I will continue to canvass the area.
+Resplendent work, %PLAYERNAME%.
+While you were away, I followed the path of the rain’s runoff. It led me to another mysterious cavern, this time filled with an azure light. The Blue Orb was atop a shining altar. I wish we could have beheld it together.
+Now, with both Orbs in our possession, Primal Kyogre and Primal Groudon will cease their rampage.
+Climatic conditions should soon stabilize, and natural forces will once again find harmony.
+Thank you for your assistance today. I would not have been able to recover the Orbs without the protection provided by you and your Pokémon.
+Before we return to Professor Willow, I have one more favor to ask of you.
+All our talk of Kyogre and Groudon’s might has sparked my curiosity.
+Now that we can safely observe Primal Reversion with the Orbs in our possession, could you give me a demonstration of the phenomenon, %PLAYERNAME%?
+%PLAYERNAME%! There you are. The weather’s finally stopped going topsy-turvy! I take that to mean you and Rhi were successful in finding the Red and Blue Orbs.
+You two are amazing. Normally, it’d take no less than Rayquaza descending to the ground to settle one of Kyogre and Groudon’s “arguments”!
+Maybe you got the jump on it. Rayquaza would have to be mighty speedy to get ahead of you two!
+Oh, that reminds me. While you and Rhi were off saving the day, I had some time to think about what could’ve caused the surge of natural energy to begin with. My top theory so far is—
+Hold on! Did you see that, %PLAYERNAME%?! Something bright just flew across the sky—could it be a Pokémon?
+Looks like we’ve still got some investigating to do!
+You know where to find me when you’re ready to continue your Pokémon journey. Until then, thanks again for your help. Things just wouldn’t be the same without you around!
+Greetings, %PLAYERNAME%. 
+It has been some time since our last mission together. I would not have been able to learn of this world and keep the Ultra Beasts at bay without your previous assistance.
+You are here to assist in finding the Red and Blue Orbs, correct? Your company is most welcome, despite these dire circumstances.
+I hypothesize that following a Pokémon will lead us in the right direction. Pokémon seem to be well attuned to natural energy.
+Please select a Pokémon, %PLAYERNAME%. 
+Add-on: Egg-thusiast
+Add-on: Raid Lover
+Global Collection Challenge: Blistering Sands
+Global Collection Challenge: Eerie Mists
+Global Collection Challenge: Verdant Earth
+Global Collection Challenge: Ancient Shores
 GO Tour: Hoenn – Global
+Collection Challenge: Blistering Sands
+Collection Challenge: Blistering Sands
+Collection Challenge: Eerie Mists
+Collection Challenge: Eerie Mists
+Collection Challenge: Verdant Earth
+Collection Challenge: Verdant Earth
+Collection Challenge: Ancient Shores
+Collection Challenge: Ancient Shores
 GO Tour: Hoenn – Las Vegas
 GO Tour: Hoenn
+%PLAYERNAME%! Boy, am I glad to see you out here.
+We’ve got something of a unique situation on our hands.
+With nature’s forces out of balance, Primal Kyogre and Primal Groudon have awakened, and they’re wreaking havoc in the surrounding area.
+It’s no exaggeration to say the entire world is in peril. The team leaders and Rhi are busy tackling the situation on another front, so some...unlikely allies have offered their support.
+I know what I’m about to say is mind-boggling, but Team GO Rocket has offered to work with us to keep Primal Kyogre and Primal Groudon in check.
+I never thought I’d see the day. I guess the blustering weather has made even Team GO Rocket’s disposition turn sunny!
+Will you meet with them, %PLAYERNAME%? Not only do I have every confidence in your ability to quell Primal Kyogre and Primal Groudon, but I know you’ll be able to stop Team GO Rocket if they try any underhanded tricks.
+Now hurry—there’s no time to lose!
+Hmph.
+I can’t believe I’m being forced to work with one of Candela’s friends. Unbelievable. As if I need help. 
+But even I know better than to disobey Giovanni, so there’s no worming my way out of this one.
+Just be grateful I’m giving you my time. For the record, I’m more than capable of handling this alone.
+In fact, I’ve already come up with a plan to restrain Primal Kyogre and Primal Groudon. All that’s left for you to do is follow my orders.
+First, we’re going to inspect the locations where Primal Kyogre and Primal Groudon have appeared. I’m putting you in charge of recording any anomalies you see in the area. 
+Well? You heard me, did you not? Time to go.
+FINALLY. You’ve got some nerve, showing up late. I’ve been waiting an entire 45 seconds!
+Thought you’d be better at this teamwork business, considering how much time you spend yakking with Professor Willow and that kid with the funky goggles.
+Don’t waste our time apologizing. And don’t bother introducing yourself. We’ve met enough times to skip the pleasantries.
+Let’s get down to business. Our bosses want us to check out a few locations where Primal Kyogre and Primal Groudon have appeared. 
+Huh? What do you mean, Professor Willow’s not your boss? Whatever. You got the gist.
+Time to get moving. Less talking, more walking!
+Well, well! Isn’t this a lovely surprise? We’re on the same side for once!
+Don’t look so concerned. There’s nothing in it for me if the world sinks, shakes, or whatever it is we’re supposed to be worried about. 
+%PLAYERNAME%, darling, you can trust me.
+Not that you have many options right now—especially with your esteemed team leaders and the little begoggled one otherwise occupied.
+Collaborating will be a new experience for me, too. So let’s find the silver lining of this debacle and learn from one another, shall we? 
+First, you and your Pokémon will accompany me to a few locations where Primal Kyogre and Primal Groudon have appeared.
+Come along. Let’s see what you’re made of. 
+I’ll acknowledge you have some skill with a camera.
+*sigh* Thank you, whatever your name was. This’ll do.
+Now I have enough information to move on with my investigation of Primal Reversion.
+You look confused. Did that professor of yours never teach you about Primal Reversion? 
+I bet you’re thinking that if Candela were here, she could explain it. Unfortunately for you, I’m your leader for today.
+Hmph... Fine. I’ll humor you with an explanation, if only to prove that I know more than both Candela and your professor about the subject.
+Primal Reversion is a phenomenon where Kyogre and Groudon can transform when they absorb massive amounts of energy from nature. It’s similar to Mega Evolution, and it grants them incredible power and strength. You follow?
+Did you just...thank me? Er. Gratitude won’t get you anywhere, you know.
+I’ll admit I’m not hating this alliance as much as I’d expected... But don’t push your luck.
+Huh. These are decent snapshots.
+What do I need ’em for? Hah! That’s the smartest question you’ve asked all day.
+These’ll help us understand Primal Reversion—the phenomenon where Kyogre and Groudon return to their primal forms. I’ve heard Arlo say it’s kind of like Mega Evolution, but powered by nature’s energy.
+Now you can go give Primal Kyogre and Primal Groudon the smackdown.
+What’s that? Of course I’m coming with you. We’re a team today.
+“Can’t leave a partner out to dry.” That’s what we used to say back on the ranch.
+Didn’t know I had a ranch? Guess you wouldn’t. Those days are long gone, anyhow.
+OK, enough chitchat. You and your Pokémon are gonna lead the way, “partner.”
+You’ve kept up so far. Now show me you’ve got what it takes!
+These snapshots could’ve been dreadful, but they’re actually decent! Color me mildly impressed.
+They’d be better without your Pokémon in the way. All the same, these will help us better understand Primal Reversion.
+Primal Reversion? You know, the phenomenon where Kyogre and Groudon can transform when they absorb massive amounts of energy from nature. It’s quite similar to Mega Evolution, but powered by a different source.
+There, you see? Take that tidbit as a token of my appreciation for your assistance. Perhaps working with others does have its merits.
+For our next move, let’s see how helpful these observations are in facing the power of Primal Reversion directly.
+I believe I hear a telltale cry coming from that direction. Take your Pokémon and challenge them for me, would you? 
+%PLAYERNAME%! The strange weather seems to have subsided a little. Your attempts to calm Primal Kyogre and Primal Groudon are clearly paying off. Great work!
+I take it your partnership with Team GO Rocket is going well.
+It goes to show we can always find new friends, even in precarious times. But before I let you get back to it... Well. Keep your guard up.
+I don’t feel good taking Team GO Rocket’s newfound helpfulness with such a large spoonful of skepticism, but I can’t forget their past deeds so easily.
+Until they give us cause for concern, though, I’m thankful for their help.
+But remember that even though you’ve gathered some research material—great snapshots, by the way—we haven’t managed to quell Primal Kyogre and Primal Groudon for good.
+I’m off to check if Rhi and the team leaders have made any progress toward locating the Red and Blue Orbs. Keep at it, %PLAYERNAME%!
+Acceptable work. You’ve actually managed to calm Primal Kyogre and Primal Groudon.
+And what do you have there? Let me see it.
+This looks similar to Mega Energy. Could it be...nature’s energy distilled?
+...
+Interesting. Fascinating, even. Now I have what I need. With this new power source, Team GO Rocket—no, I, Arlo—will be able to control the very shape of the earth.
+But even without that power, there’s one thing I can rid myself of right now.
+You. Farewell, friend of Candela. This alliance is over.
+You’ve calmed Primal Kyogre and Primal Groudon a few times now.
+Not bad! I’d promote you if you were on my team. I know good work when I see it.
+In fact, I’m getting the hang of it by watching you. 
+Which means Team GO Rocket’s got no more use for you! 
+So long, “partner”! 
+Don’t tell me you thought we were all best buds now? Pfft... Hahaha!
+Nothing will shake my loyalty to Team GO Rocket. And don’t you forget it!
+Truly impressive! You’ve managed to calm Primal Kyogre and Primal Groudon more than once now.
+Watching you and your Pokémon in action has been a joy. I’ve learned ever so much.
+In fact, I’ve learned enough that Team GO Rocket no longer needs you to be part of this operation!
+Oh, but where are my manners? I must thank you for showing us exactly how to take down Kyogre and Groudon.
+Rest secure in the knowledge that you’ve contributed to the glory of Team GO Rocket.
+You didn’t think this would last forever, did you? Oh, darling. Our alliance ends now.
+Solitude is best, after all...
+%PLAYERNAME%! What just happened? I saw the Team GO Rocket leaders running off in a huff! And your Pokémon look like they’ve been through the wringer!
+*sigh* Let me guess. They tried to pull a fast one on us, didn’t they?
+Not very smart of them to go toe-to-toe with you. I assume you taught them a lesson before they could complete their scheme. Tell me all about what happened.
+... ... ...They made your Pokémon fight alone against Primal Kyogre and Primal Groudon? And they were trying to harness the power of Primal Reversion for themselves?
+Thank goodness you didn’t let that power fall into Team GO Rocket’s hands. If they’d gained the ability to reshape the world, who knows what they would’ve done?
+Even with that disaster averted, Primal Kyogre and Primal Groudon are no closer to calming down. We’ll have to rely on the team leaders and Rhi to find the Red and Blue Orbs so we can resolve the situation for good.
+All the same, I don’t want to understate what you’ve done here, %PLAYERNAME%! Working with Team GO Rocket must have made for one uneasy alliance.
+You have my thanks for a job well done. I’m sure I’ll be seeing you again soon.(But...where did all this natural energy come from in the first place?)
+Tch... Don’t think for a second that you’ve seen the last of me.
+Argh! The boss will be steamed when he hears about this...
+Looks like you had one more lesson to teach me. For shame, Sierra... I won’t make this mistake again.
 GO Fest Battle Challenge
 GO Fest Battle Challenge (1/3)
 GO Fest Battle Challenge (2/3)
@@ -6797,6 +7097,49 @@ Pokémon GO Tour: Johto – Violet City
 Catch Pokémon during the Violet City hour
 Now: Violet City hour!
 Welcome to Pokémon GO Tour: Johto!
+Choose Ruby
+Choose Sapphire
+Do you want to choose the Ruby team?
+Do you want to choose the Sapphire team?
+Current habitat: Blistering Sands
+Current habitat: Eerie Mists
+Current habitat: Verdant Earth
+Current habitat: Ancient Shores
+Pokémon GO Tour: Hoenn
+Welcome to Pokémon GO Tour: Hoenn – Global!
+Welcome to Pokémon GO Tour: Hoenn – Las Vegas!
+Don’t think we’re friends now.
+Remember: I’m only here because Giovanni asked. 
+That win didn’t count. Now get going already!
+Don’t you have something better to do? Ugh.
+A foregone conclusion.
+Now show me what you’re made of!
+Too bad you’ll be losing this battle!
+At least your strength is being used for the boss’s benefit. 
+Welcome to the winning side!
+I expected more from you.
+Get ready. 
+I’ll remind you and your Pokémon of your place.
+Don’t just stand there. Get back to work. 
+...
+This little alliance means nothing in the long run.
+I’m just helping you get stronger! Heh heh! 
+We’re on the same side today, so it’s not like I really lost, right?
+Just because we’re teaming up doesn’t mean we can’t have a little friendly competition! 
+Hah! Take that, “friend”!
+Come at me!
+Uh... Congratulations, you passed my test!
+They say we’re working together today. Let me test your skills! 
+That’s a zero for you, newbie!
+Hah! Just kidding. Prepare yourself! 
+It was just a joke! Quit taking everything so seriously!
+I’d never dream of battling you! We’re on the same side now.
+I love the element of surprise!
+Don’t look so surprised, dear. Ours is only a temporary truce.
+Fancy a battle?
+This won’t happen again. Now shoo! 
+You look like you’ve got some fight in your eyes. 
+Did you think I’d go easy on you today? 
 Pokémon GO Tour: Kanto
 GO Tour Kanto: Cerulean City
 Catch Pokémon during the Cerulean City hour
@@ -7427,7 +7770,7 @@ Your selection exceeds the maximum number of Pokémon that can be sent at once.
 {0} will appear in its {1} in Pokémon HOME.
 You don’t have enough GO Transporter Energy.
 You’ve selected a Pokémon that can’t be sent.
-If you transfer this Pokémon, it will lose its Memento Background!
+If you transfer this Pokémon, it will lose its Location Card!
 Ensure that your Nintendo Account is linked to Pokémon HOME on a mobile device, and then try again.
 Unable to Connect to Pokémon HOME
 Are you sure you want to send {0} Pokémon?
@@ -7508,6 +7851,7 @@ Unknown battle error.
 One person sent you a Friend Request.
 Increased Adventure Sync rewards next week
 Increased Stardust from defeating Team GO Rocket Grunts
+Increased Transfer Candy and Transfer Candy XL
 Choose an Egg to incubate.
 1/2 Hatch Distance
 1/4 Hatch Distance
@@ -7605,12 +7949,14 @@ This Pokémon already has full health.
 Revives can only be used on fainted Pokémon.
 Grants access to GO Battle League Timed Research, allowing you to earn extra rewards by completing Trainer Battles.
 GO Battle League Timed Research Pass
+A special Poké Ball designed to catch Ultra Beasts.
+Beast Ball
 UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
-A ticket to access Timed Research from Thursday, December 15, 2022, at 10:00 a.m. until Saturday, December 31, 2022, at 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Timed Research from December 15–31, wherever you are.
+Masterwork Research: Wish Granted
+A ticket to access Masterwork Research that leads to an encounter with the elusive Shiny Jirachi.
 Ticket
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
 Extra Ticket
@@ -7665,17 +8011,21 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access Special Research from Saturday, December 10, 2022, at 10:00 a.m. to Sunday, December 11, 2022, at 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to Special Research on December 10-11, wherever you are in the world.
+A ticket to access the Willow’s Wardrobe Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
+This ticket will automatically activate to give you access to Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
+This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses.Select a team to participate in Primal Surge hourly challenges! 
+This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses!
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 Ticket
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
-A ticket to access Pokémon GO Fest on June 4 and June 5, 2022, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are.
-Pokémon GO Fest 2022
+This ticket will automatically activate to give you access to Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
+Ticket
 Feed this to a Pokémon to receive more Candy when you catch it and make it easier to catch.
 Silver Pinap Berry
 Feed this to a Pokémon to make it much easier to catch.
 Golden Razz Berry
+This ticket will automatically activate to give you access to special GO Tour: Hoenn bonuses and content.Select a team to access all available bonuses and to participate in hourly challenges!
+This ticket will automatically activate to give you access to special GO Tour: Hoenn bonuses and content.Review the team you chose via the Medals section of your Trainer profile.
 A high-performance ball with a higher catch rate than a standard Poké Ball.
 Great Ball
 A spray-type medicine that restores the HP of one Pokémon by {1} points.
@@ -7686,6 +8036,8 @@ Special Incense with a mysterious fragrance that attracts wild Pokémon to your 
 Daily Adventure Incense
 Incense with a mysterious fragrance that lures wild Pokémon to your location for 60 minutes. Its appearance changes when attracting specific Pokémon.
 Incense
+A bag of coins. Opening it causes a certain Pokémon to appear for a limited time.
+Coin Bag
 A device that incubates an Egg as you walk until it is ready to hatch. Breaks after 3 uses.
 Egg Incubator
 A device that incubates an Egg as you walk until it's ready to hatch. Unlimited use!
@@ -7698,6 +8050,7 @@ Item Bag
 King's Rock
 A rock that can make certain species of Pokémon evolve. It looks like a crown.
 King's Rock
+Last Ball!
 You can use this to track down Team GO Rocket Hideouts!
 When you defeat a Team GO Rocket Grunt, you can get a Mysterious Component. Collect six Mysterious Components to combine them!
 Mysterious Component
@@ -7726,7 +8079,8 @@ Charged TM
 Feed this to a Pokémon to calm it down, making it less erratic.
 Nanab Berry
 A coin with a mysterious air. It seems to have originated in the Paldea region.
-?????? Coin
+Gimmighoul Coins
+Gimmighoul Coins
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.
 Premium Battle Pass
@@ -7744,6 +8098,8 @@ A book to collect Postcards and remember locations from yours and your friends�
 Postcard Book
 A spray-type medicine that restores the HP of one Pokémon by {1} points.
 Potion
+A somewhat rare Poké Ball made to commemorate a special occasion of some sort.
+Premier Ball
 A mysterious candy. When used on a Pokémon, it turns into the Pokémon's Candy.
 Rare Candy
 Feed this to a Pokémon to make it easier to catch.
@@ -7777,11 +8133,14 @@ Mossy Lure Module
 Lure Module
 A wet Lure Module that attracts Pokémon for 30 minutes, especially ones that love the rain. It can also cause some Pokémon to evolve.
 Rainy Lure Module
+A glimmering Lure Module that attracts Pokémon for 30 minutes. You may find Gimmighoul Coins by spinning the Photo Disc.
+Golden Lure Module
 An ultra-performance ball with a higher catch rate than a Great Ball.
 Ultra Ball
 A transparent device that can make certain species of Pokémon evolve. It was produced by Silph Co.
 Upgrade
 USE
+Do you want to use a {0}?
 UNDEFINED
 Wepear Berry
 UNDEFINED
@@ -8621,8 +8980,8 @@ Could not add event to calendar.
 Pokémon GO does not have calendar permissions.
 Lucky Wishes
 Failed to load tags.
-Memento Backgrounds
-You got a Memento Background! These are rare backgrounds you may receive when catching Pokémon at special locations. Let’s GO and collect more!
+Location Cards
+You got a Location Card! These are rare backgrounds you may receive when catching Pokémon at special locations. Let’s GO and collect more!
 {0} invited you to an EX Raid!
 Please log in to Pokémon HOME.
 {0} accepted your Friend Request!
@@ -8747,6 +9106,8 @@ Sparkler Pose
 Steven Pose 2
 Party PopperPose
 Gifting Pose
+Palmer Pose
+Color Throw Pose
 Idle
 Jogger Sunglasses
 Level 41 Glasses
@@ -8776,6 +9137,7 @@ Manage Tag
 View all Pokémon with the {0} tag
 Manage Postcards
 Equip a radar to use it on your map.
+Festival of Colors 2023 Collection Challenge
 Notifications may include alerts, sounds, and icon badges. This can be configured in your settings.
 Niantic would like to send you notifications about events, offers, and updates
 Lotad Research: Spin {0} PokéStops
@@ -8798,6 +9160,12 @@ ML Premier Classic
 Master Premier
 Master Raid Box
 Masterwork Research: Wish Granted
+Masterwork Research: Wish Granted (1/6)
+Masterwork Research: Wish Granted (2/6)
+Masterwork Research: Wish Granted (3/6)
+Masterwork Research: Wish Granted (4/6)
+Masterwork Research: Wish Granted (5/6)
+Masterwork Research: Wish Granted (6/6)
 Masterwork Research: Apex
 Masterwork Research: Apex (1/4)
 Masterwork Research: Apex (2/4)
@@ -8828,6 +9196,47 @@ And just like Apex Shadow Ho-Oh, I’m confident that its power will increase ev
 Now, I’d say we’re overdue for a celebration! You’ve earned it.
 Your recent accomplishments are no small feat!
 Thanks again for all your help. I’m sure Lugia and Ho-Oh are grateful, too. Until our next adventure...let’s GO!
+What perfect timing, %PLAYERNAME%!
+Exciting news—I just found out Jirachi is in the area!
+Hoenn legends say that Jirachi can grant any wish that people desire, though it’s only awake seven days out of a thousand years.
+But considering there were Jirachi sightings just a few years ago—hardly a thousand!—I hypothesize there’s something special about this Jirachi.
+It sounds like we need to locate the Wish Pokémon for ourselves!
+Without a clear starting point, we should cast a wide net.
+I recommend we start the search by looking into Pokémon from the Kanto, Johto, and Hoenn regions.
+Maybe researching one of those Pokémon will give us the lead we need!
+Welcome back, %PLAYERNAME%! No Jirachi leads, I’m afraid, but seeing you catch those Pokémon made me think about how much you’ve grown in your journey as a Trainer.
+Ah! I’ve got an idea! “I wish we knew where to find Jirachi!”
+... ... ...
+Oh well—I suppose Jirachi’s not granting that particular wish. It was worth a shot!
+But that’s enough wishing from me. Say...what do you think your Pokémon would wish for?
+To spend some time together? Or maybe to share a tasty snack?
+Why don’t you take a moment to get in tune with your Pokémon’s wishes, %PLAYERNAME%, while I noodle on more ways to locate Jirachi.
+You and your Pokémon are looking refreshed and ready to continue the search for Jirachi, %PLAYERNAME%!
+Something occurred to me while you were away—Jirachi was originally discovered in the Hoenn region, as you may already know.
+But it’s not the only elusive Pokémon first discovered in that region.
+It shares that honor with Kecleon, the Color Swap Pokémon. Kecleon can change the colors of its body at will to blend in with its surroundings.
+There’s one exception—it can’t change the zigzag pattern on its belly. Looking for that distinctive pattern is the key to spotting Kecleon, but even that trick doesn’t make it easy!
+I was years into my Pokémon studies before I came across my first Kecleon.
+Have you encountered a Kecleon yet? Who knows how many times you’ve been standing right next to one without knowing it!
+I’ve heard Trainers have had luck finding Kecleon around PokéStops. Maybe Jirachi’s taken up the same proclivity for hiding!
+You’ve got sharp eyes, %PLAYERNAME%! I’ve never seen so many Kecleon in one place. It’s rare to see any Kecleon at all, with their expert camouflaging skills.
+Unfortunately for us, it seems like Jirachi might be even harder to spot than Kecleon.
+But I, for one, am undaunted! Keeping your confidence and spirits high is key both in research and in life, I say.
+Maybe what we need is a little dash of luck to move us ahead.
+And what’s luckier than a Lucky Pokémon, eh, %PLAYERNAME%?
+Hey there %PLAYERNAME%! Feeling any luckier with your new Pokémon?
+I know I am! I’ve got a good feeling that Jirachi is closer than ever.
+Now let’s put that luck to use with some good old-fashioned exploring!
+We can take some inspiration from Jirachi’s sleep schedule.
+As you know, Jirachi is only awake for seven days out of  a thousand years.
+So how about you try dedicating seven days to research? Or catching a thousand Pokémon? I know it’s a lot to ask, but maybe Jirachi will appreciate the perseverance.
+Although I hope you’ll be around to help me with my research for a lot longer than a week, %PLAYERNAME%! 
+%PLAYERNAME%, you did it—you’ve found our elusive Jirachi!
+It was no easy task, but you persevered through thick and thin. You’ve done me proud again!
+It seems our new friend really is different from the Jirachi observed a few years ago. This is a Shiny Jirachi, as I’m sure you’ve noticed from its unique coloring!
+I wonder if it has different habits. Does its sleep schedule differ? What about its temperament?
+Ahem. Sorry about that. It’s hard to contain my excitement when I think about all there is to learn about Pokémon!
+In fact, my fondest wish is that we can keep learning—together!
 Ah, %PLAYERNAME%! Glad to have you aboard this expedition. Say, have you ever heard this particular tune?
 Da da da doo, da dee da dum... That’s what I hear in my head when I think of a certain sailor and his Wingull that I met while traveling through the Hoenn region in my younger years.
 I believe the tune was originally a sea shanty. Sailors would sing songs like this together on their seafaring adventures to keep morale high and help find a rhythm during certain tasks.
@@ -8963,7 +9372,18 @@ Speed
 {0}-type attacks are now boosted!
 A Mega Moment
 Walking Progress
-Built at 2023-02-28T19:26:17.595082at SHA 12547443dd5cdf17534dabee1b5916793188aaaePipeline 1298121, job 15548001
+Built at 2023-04-05T09:17:29.734240at SHA d15c5a33c91e9377923504045c493359606ca7f9Pipeline 1375787, job 16609935
+Timed Research: Choose Your Fighting Type
+Timed Research: Choose Your Fighting Type (1/3)
+Timed Research: Choose Your Fighting Type (2/3)
+Timed Research: Choose Your Fighting Type (3/3)
+Hey, %PLAYERNAME%! I’ve got a treat for you. It can be helpful to have someone in your corner, so why don't you choose one of these Fighting types to join your Pokémon journey?
+Lightweight: Choose Scrafty
+Choose this path for an encounter with the Hoodlum Pokémon Scrafty, as well as Scraggy Candy, XP, and Stardust rewards.
+Middleweight: Choose Machamp
+Choose this path for an encounter with the Superpower Pokémon Machamp, as well as Machop Candy, XP, and Stardust rewards.
+Heavyweight: Choose Hariyama
+Choose this path for an encounter with the Arm Thrust Pokémon Hariyama, as well as Makuhita Candy, XP, and Stardust rewards.
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -9013,6 +9433,7 @@ Nov
 Oct
 Sep
 Mountains of Power
+Mountain Cup: Great League Edition
 Thunder Shock
 Quick Attack
 Scratch
@@ -9325,6 +9746,9 @@ Fusion Flare
 Poltergeist
 High Horsepower
 Glaciate
+Breaking Swipe
+Boomburst
+Double Iron Bash
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -9719,6 +10143,7 @@ Your suspension term has ended and you are now able access your account.The prio
 {0} and {1} other friends have opened your Gifts!
 {0} and {1} other friends have saved your Postcards!
 {0} and {1} other friends sent you Gifts!
++{0}
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
 3 Poffins
 Feed this special treat to your buddy, and it’ll happily join you on the map for an extended duration.
@@ -10986,6 +11411,8 @@ Big Fish Pokémon
 Free Climb Pokémon
 Pin Cluster Pokémon
 Love-Hate Pokémon
+Coin Hunter Pokémon
+Coin Entity Pokémon
 Do you really want to transfer this Event Pokémon?
 Pokémon Day
 --
@@ -12001,6 +12428,8 @@ Because of Sneasler’s virulent poison and daunting physical prowess, no other 
 Its lancelike spikes and savage temperament have earned it the nickname “sea fiend.” It slurps up poison to nourish itself.
 When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokémon’s love gives rise to the budding of fresh life across Hisui.
 A different guise from its feminine humanoid form. From the clouds, it descends upon those who treat any form of life with disrespect and metes out wrathful, ruthless punishment.
+This Pokémon was born from passion that seeped into a coin. It wanders, apparently seeking to return to the treasure chest it once inhabited.
+Its body seems to be made up of 1,000 coins. This Pokémon gets along well with others and is quick to make friends with anybody.
 In order to support its flower, which has grown larger due to Mega Evolution, its back and legs have become stronger.
 The overwhelming power that fills its entire body causes it to turn black and creates intense blue flames.
 Its bond with its Trainer is the source of its power. It boasts speed and maneuverability greater than that of a jet fighter.
@@ -12073,12 +12502,16 @@ CAUGHT DURING SPECIAL RESEARCH
 CAUGHT DURING TIMED RESEARCH
 CAUGHT AT AN EXCLUSIVE MEGA RAID
 CAUGHT AT AN EXCLUSIVE RAID
+CAUGHT AT AN EXCLUSIVE PRIMAL RAID
 CAUGHT AT A MEGA RAID
 CAUGHT AT A RAID
+CAUGHT AT A PRIMAL RAID
 REMOTELY CAUGHT AT AN EXCLUSIVE MEGA RAID
 REMOTELY CAUGHT AT AN EXCLUSIVE RAID
+REMOTELY CAUGHT AT AN EXCLUSIVE PRIMAL RAID
 REMOTELY CAUGHT AT A MEGA RAID
 REMOTELY CAUGHT AT A RAID
+REMOTELY CAUGHT AT A PRIMAL RAID
 CAUGHT IN THE WILD
 CAUGHT IN THE GBL {1}
 CAUGHT IN THE WILD
@@ -12094,6 +12527,7 @@ Evolve
 Walk {0} more km with this buddy.
 Need more {0} Candies.
 Need a special item.
+Need {0} more {1}
 {0} is needed to evolve.
 Finish a challenge with this buddy
 Need more Stardust.
@@ -12134,6 +12568,11 @@ Need more {0} Candies XL.
 Trainer level is too low to power up.
 {0} is assigned to a Gym.
 POWER UP
+Do you want to revert {0} to its primal form?
+Are you sure you want to revert {0} to its primal form?
+Your {0} will no longer be in its primal form!
+Primal Reversion lasts for {0} hours.
+{0} Primal Energy
 Do you want to purify {0}?It will gain a significant amount of CP, cost less to power up, and learn the exclusive Charged Attack Return!
 Failed to purify {0}.
 Purify
@@ -12147,7 +12586,7 @@ TRADE
 OBTAINED IN A TRADE
 Couldn’t transfer {0} due to an unknown error.
 Cannot transfer a favorite Pokémon!
-You cannot transfer a Mega-Evolved Pokémon.
+You can’t send Pokémon that are Mega Evolved or in their primal form.
 You cannot select your buddy!
 You can’t transfer your buddy!
 Transfer
@@ -12174,7 +12613,7 @@ Bonus Storage Information
 Bonus Storage
 You have too many search queries favorited. You must remove a search query from your Favorites to add more.
 Do you really want to transfer this Legendary Pokémon?
-Are you sure you want to transfer this Pokémon with a Memento Background?
+Are you sure you want to transfer this Pokémon with a Location Card?
 Do you really want to transfer this Lucky Pokémon?
 Do you really want to transfer this Mythical Pokémon?
 {0} cannot be transferred.
@@ -12602,7 +13041,9 @@ Latios
 Mega Latios
 Kyogre
 Primal Kyogre
+Primal Kyogre
 Groudon
+Primal Groudon
 Primal Groudon
 Rayquaza
 Mega Rayquaza
@@ -13134,6 +13575,8 @@ Basculegion
 Sneasler
 Overqwil
 Enamorus
+Gimmighoul
+Gholdengo
 Please enter a different nickname.
 You have purified {0}!
 Do you really want to transfer this Shiny Pokémon?
@@ -13228,6 +13671,7 @@ PREVIEW
 Pinned to your Postcard Book!
 From an unknown Trainer
 POSTCARDS
+Sending a Postcard does not remove it from your Postcard Book.
 RECENT
 SENDER
 You cannot remove a favorite Postcard.
@@ -13237,6 +13681,12 @@ YOUR POSTCARDS
 REMOVE
 Remove this Postcard?
 You cannot recover a Postcard once it has been removed.
+Increases the max number of saved postcards by 50.
+Postcard pages
+Your Postcard Book is full. You can buy an extra 50 card spaces in the shop.
+Get more pages
+Go to Postcard Book
+Added to your Postcard Book
 FAVORITE
 From {0}
 If you want to save this Postcard, make space in your Postcard Book.
@@ -13267,12 +13717,85 @@ When you pin a Postcard from a friend’s Gift, it goes into your Postcard Book!
 You received these Postcards from unknown Trainers. These Trainers may have chosen not to share their nicknames, or you might no longer be friends. You can still keep the Postcards they sent in your Postcard Book.
 Unknown Trainers
 Power Plant
+Remaining Primal Reversion Period
+{0}’s Primal Level cannot increase further today.
+Daily Level Limit Met
+You received only {0} Primal Energy from this raid because you have reached the maximum of {1}.
+You received only 1 Primal Energy from this raid because you have reached the maximum of {0}.
+PRIMAL REVERSION
+After you revert a Pokémon to its primal form for the first time, you can do so again without Primal Energy after a rest period.
+{0} is in the battle!
+{0}’s Primal Level
+Have {0} undergo Primal Reversion {1} more times to reach {2}!
+Have {0} undergo Primal Reversion {1} more time to reach {2}!
+This Pokémon has an increased Primal Level. Do you still want to transfer it?
+Primal Reversion temporarily changes a Pokémon’s appearance and increases their power. Pokémon in their primal forms can be used in Gym battles, raids, and Trainer Battles.You can use only one Pokémon that has undergone Primal Reversion or has Mega Evolved at a time.
+Let’s GO Primal!
+You can activate Primal Reversion without Primal Energy and enjoy additional bonuses
+Tap to view Primal Level
+You can now increase the Primal Level of this Pokémon!
+{0}’s Primal Level increased!
+Your Pokémon can now undergo Primal Reversion faster without using Primal Energy!
+Primal Level Up!
+Boosts {0}-, {1}-, and {2}-type attacks in raids
+Catch Candy bonus
+Enhanced Catch Candy bonus
+Catch XP bonus
+Enhanced Catch XP bonus
+{0}-day Primal Reversion rest period
+{0}-day Primal Reversion rest period
+Reduced Primal Energy to activate Primal Reversion
+Massively reduced Primal Energy cost
+Greatly reduced Primal Energy cost
+Excellent Candy XL chance
+Great Candy XL chance
+Primal Reversion Bonuses
+While {0} is in its primal form, you’ll earn extra Candy when catching <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon or any Raid Boss.
+While {0} is in its primal form, you’ll earn extra Candy when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+While {0} is in its primal form, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+While {0} is in its primal form, you’ll earn extra Candy, extra XP, and have an increased chance of receiving Candy XL when you catch <b>{1}</b>-, <b>{2}</b>-, or <b>{3}</b>-type Pokémon.
+{0} Primal Reversion Bonus
+Primal Reversion
+Tap to activate Primal Reversion!
+Tap to activate Primal Reversion!
+Revert {0} to its primal form
+Primal Rumblings Collection Challenge
+A Grim Omen?
+Get ready for Pokémon GO Tour: Hoenn!
+Catch 3 Pokémon originally discovered in the Hoenn region
+Catch a Mudkip
+%PLAYERNAME%! There you are! How’ve you been feeling?
+I ask because I’m a bit out of sorts. The temperature’s been fluctuating between brisk and balmy all day, and the local plant life has been uncharacteristically productive.
+There were Pinap Berry seeds in the pocket of my spare coat, and they started sprouting overnight! And that’s to say nothing of the tree growing through my bed. Makes it hard to saw logs, if you’ll excuse the pun.
+But there’s more. A tremor shook the lab earlier. It rattled the Daily Adventure Incense I was preparing for you right off the table!
+It all suggests the natural forces around us are somehow overactive.
+Now that you’re here, I think we can get a handle on the situation. Things don’t look serious yet, but we should prepare for any possibility—call it a professor’s intuition!
+Let’s check on how the weather’s affecting the local Pokémon. See if you can find any clues, will you? 
+(Come to think of it, the team leaders and I wished on one of those shooting stars the other day for the earth and sea to flourish. It couldn’t be...could it?)
+Good to see you back, %PLAYERNAME%! Seems like you didn’t run into any trouble. Unfortunately, I can’t say the same—things have gone from bad to worse here.
+I felt another tremor earlier, followed by a sudden downpour. My notes were nearly washed away!
+Enough about that, though. Let’s take a look at what you’ve found. Hmm... Ground-type and Water-type Pokémon... And when we take into account the climatic conditions, strange tectonic activity, and rapidly flourishing plant life...
+The only word I can think of to describe this phenomenon is “primal”!
+When there’s an overabundance of natural energy, the Pokémon Kyogre and Groudon can absorb that energy to revert to their primal forms, dramatically increasing their power.
+Some even say those are their true forms. As a professor, of course I’d love to study them up close! But Pokémon that mighty can sow chaos if left unchecked for long.
+But don’t worry, %PLAYERNAME%. I’ve sent the team leaders and Rhi on a mission to find the Red and Blue Orbs. According to the literature of the Hoenn region, the orbs are ancient artifacts with the power to calm Primal Kyogre and Primal Groudon.
+Once Primal Groudon and Primal Kyogre are subdued, everything should go back to normal. Until then, stay safe!
+Primal Rumblings
+Primal Rumblings (1/2)
+Primal Rumblings (2/2)
+Catch a Torchic
+Catch a Treecko
 Primal Surge
 Complete Primal Surge Field Research tasks to help your team—Ruby or Sapphire—win hourly challenges
+Complete Primal Surge Field Research tasks to turn the tide or continue the current Primal Surge
 Primal Surge: Groudon
 More Primal Groudon raids will appear for the next hour!
 Primal Surge: Kyogre
 More Primal Kyogre raids will appear for the next hour!
+Primal Reversion is an ancient transformation some Pokémon can undergo. Like Mega Evolution, Primal Reversion provides bonuses, is not permanent, and requires special energy. It also provides more benefits in battle than Mega Evolution does.
+Primal Reversion
+Pokémon that have undergone Primal Reversion bring special weather effects to Raid Battles.• Primal Kyogre boosts Water-, Electric-, and Bug-type attacks.• Primal Groudon boosts Fire-, Grass-, and Ground-type attacks.
+Primal Reversion Effects
 Turn on Always Allow to earn Candies, hatch Eggs, and earn rewards, even when you aren’t using Pokémon GO.
 Privacy Policy
 Privacy
@@ -13394,6 +13917,8 @@ Pokémon Day: Evolve 1 Meowth
 Let’s Go: Evolve {0} Anorith
 Let's Go: Make {0} Excellent Throw
 Let’s Go: Hatch {0} Eggs
+Have 1 Best Buddy
+Have 10 Best Buddies
 Field Research completed!
 Mystery items
 Stardust
@@ -13406,6 +13931,7 @@ Walk {0} km with your buddy
 Catch {0} Bulbasaur
 Evolve {0} Bulbasaur
 Evolve {0} Ivysaur
+Catch {0} Cacnea
 Catch 151 Pokémon
 Catch {0} Electric-, Normal-, or Poison-type Pokémon
 Catch {0} Grass-, Water-, or Fire-type Pokémon
@@ -13424,9 +13950,14 @@ Catch {0} Drifloon with Excellent Throws after giving them Berries
 Use {0} Berries to help catch Pokémon
 Use a Berry to help catch a Pokémon
 Catch a Furfrou
+Catch {0} Fire-, Grass-, or Ground-type Pokémon
+Catch {0} Pokémon originally discovered in the Hoenn region
 Catch {0} Pokémon in a single day
 Catch {0} Groudon
 Catch {0} Kyogre
+Catch {0} Pokémon originally discovered in the Johto region
+Catch {0} Pokémon originally discovered in the Kanto region
+Catch {0} Water-, Electric-, or Bug-type Pokémon
 Successfully catch at least one of the next {0} Legendary or Mythical Pokémon you encounter
 Catch {0} Legendary or Mythical Pokémon
 Catch a Legendary or Mythical Pokémon
@@ -13826,6 +14357,7 @@ Take {0} snapshots of Geodude
 Catch {0} Duskull
 Evolve {0} Duskull
 Evolve {0} Dusclops
+Earn {0} Best Buddy Ribbons with your Pokémon
 Evolve Eevee into each of its unique Evolutions
 Catch {0} Eevee
 Evolve {0} Eevee
@@ -14295,6 +14827,18 @@ Evolve {0} Gible
 Evolve {0} Gabite
 Open {0} Gifts
 Open a Gift
+Find and spin Spinda PokéStop 1 of 8
+Find and spin Spinda PokéStop 2 of 8
+Find and spin Spinda PokéStop 3 of 8
+Find and spin Spinda PokéStop 4 of 8
+Find and spin Spinda PokéStop 5 of 8
+Find and spin Spinda PokéStop 6 of 8
+Find and spin Spinda PokéStop 7 of 8
+Find and spin Spinda PokéStop 8 of 8
+Take a snapshot of your buddy in the Blistering Sands habitat
+Take a snapshot of your buddy in the Eerie Mists habitat
+Take a snapshot of your buddy in the Verdant Earth habitat
+Take a snapshot of your buddy in the Ancient Shores habitat
 Strange Rings
 Strange Rings (1/2)
 Strange Rings (2/2)
@@ -14420,6 +14964,7 @@ GO Fest: Make a new friend
 Niantic Crew: Friend 3 new coworkers!
 GO Fest: Send {0} Gifts to friends
 GO Fest: Battle another Trainer
+Earn a gold Hoenn medal
 Earn {0} gold medals
 Earn 5 gold medals
 Earn a gold medal
@@ -14453,6 +14998,7 @@ Take a photo in the Professor Willow habitat
 Catch {0} Gastly
 Evolve {0} Gastly
 Evolve {0} Haunter
+Catch {0} Gulpin
 Catch {0} Poochyena or Houndour
 Catch {0} Dark-type Pokémon
 Catch {0} Ghost-type Pokémon
@@ -14491,6 +15037,7 @@ GO Tour: Catch Ekans
 GO Tour: Catch Growlithe
 GO Tour: Catch Mankey
 GO Tour: Catch Oddish
+Catch {0} Kecleon
 Evolve {0} Lampent
 Make {0} Curveball Throws on Ghost-type Pokémon
 Make {0} Curveball Throws
@@ -14538,6 +15085,8 @@ Catch {0} Magikarp
 Evolve {0} Magikarp
 Catch {0} Magmar
 Evolve {0} Magmar
+Activate Primal Reversion OR Mega Evolve a Pokémon {0} times
+Activate Primal Reversion OR Mega Evolve a Pokémon
 Mega Evolve a Beedrill
 Mega Evolve a Blastoise
 Mega Evolve a Charizard
@@ -14555,7 +15104,7 @@ Evolve {0} Marshtomp
 Make {0} new friends
 Make a new friend
 Catch {0} Noibat
-Evolve {0} Noibat 
+Evolve {0} Noibat
 Take a snapshot of {0} Noibat
 Catch {0} Oshawott
 Evolve {0} Oshawott
@@ -14592,6 +15141,12 @@ Power up {0} Rock-type Pokémon
 Power up {0} Steel-type Pokémon
 Power up {0} Water-type Pokémon
 Power up a Pokémon
+Win a Primal Groudon raid
+Win a Primal Kyogre raid
+Win {0} Primal Raids
+Win a Primal Raid
+Activate Primal Reversion {0} times
+Activate Primal Reversion
 Primal Surge: Earn a Candy walking with your buddy
 Primal Surge: Catch 10 Pokémon
 Primal Surge: Hatch an Egg
@@ -14672,13 +15227,16 @@ Take a snapshot of Charmander
 Take a snapshot of your Chikorita
 Take a snapshot of your Cyndaquil
 Take {0} snapshots of Genesect
+Take a snapshot of your Hariyama
 Take a snapshot of Hoopa
 Take {0} snapshots of Keldeo
 Take a snapshot of Landorus
+Take a snapshot of your Machamp
 Take a snapshot in Okinawa
 Take a snapshot of Regice
 Take a snapshot of Regirock
 Take a snapshot of Registeel
+Take a snapshot of your Scrafty
 Take a snapshot
 Take snapshots of {0} different Bug-type Pokémon that you caught
 Take snapshots of {0} different Steel-type Pokémon that you caught
@@ -16084,8 +16642,8 @@ Y’know, there’s an idea—why not help your Noibat evolve into Noivern, %PLA
 I reckon the Pinap Berries you fed them will keep that temper of theirs at bay!
 Excellent work, %PLAYERNAME%! I must say, your Noivern looks pretty chipper.
 My research says that this Pokémon is often aggressive and will ruthlessly torment enemies that are helpless in the dark. Yikes!
-Luckily for us, your Noivern looks quite fond of you! I’m sure you’ll continue to be great friends, even if you don’t have its beloved fruits on hand. 
-Thanks for spending the day learning with me. It’s always fun when we find something we have in common with Pokémon, don’t you think? 
+Luckily for us, your Noivern looks quite fond of you! I’m sure you’ll continue to be great friends, even if you don’t have its beloved fruits on hand.
+Thanks for spending the day learning with me. It’s always fun when we find something we have in common with Pokémon, don’t you think?
 Of course, I’m talking about a love of Berries—not sharing a cruel disposition!
 I hope you’d agree with that, right, %PLAYERNAME%?...Right?
 Hi there! It’s so nice to meet you, %PLAYERNAME%. My name is Professor Willow. I’m a Pokémon researcher, and I’ll be guiding you on your journey—and what a journey it shall be!
@@ -16360,6 +16918,29 @@ So, you sent Giovanni home with his tail between his legs? Just another day in t
 It’s no easy feat to put Team GO Rocket back in their place, but you rose to the challenge.
 Great job! Now take some well-deserved rest with your Pokémon.
 I’ll be in touch again soon!
+Hello, %PLAYERNAME%. You know, it was shaping up to be a beautiful day, but then I noticed there are more Team GO Rocket Grunts than usual lurking about.
+Do you think they’re up to something? Could it be connected to all the Electric-type Pokémon that’ve been around recently?
+I have heard that Team GO Rocket has a reputation for causing trouble at power plants... Hm.
+Would you do me a favor and investigate what’s going on, %PLAYERNAME%? Just to be safe.
+Great work dealing with those Team GO Rocket Grunts, %PLAYERNAME%. They’ll think twice before trying to battle you again!
+If only they’d spare as much thought for the Shadow Pokémon they’ve abandoned in their wake.
+I hope that one day, we’ll put a stop Team GO Rocket’s mistreatment of Pokémon once and for all.
+But until then, at least we can do something for the Pokémon they leave behind.
+Let’s purify some Shadow Pokémon.
+Welcome back! Those Pokémon you purified are looking better already, %PLAYERNAME%.
+Thanks for helping them—and me. It’s a relief to see them safe with you.
+They’ll shine even brighter the longer they spend with you, I’m sure.
+But back to business. Next, look for Cliff, Sierra, and Arlo. We can’t let...whatever they’re doing proceed unchecked! Or untested for nefariousness, at least.
+Great job, %PLAYERNAME%! You’ve made quick work of the Team GO Rocket Leaders.
+*sigh* I wish they’d change their ways. I have to give them credit—they’ve got a wealth of knowledge on Pokémon, and they’re strong Trainers to boot.
+Imagine what we could learn together if they used that passion for good...
+I know, I know. That’s “highly improbable,” as Rhi might say. No harm in wishing, though!
+Now, I have one final request. I’d like you to track down the one person I’m sure will never change: Giovanni, the head of Team GO Rocket!
+Expertly handled, %PLAYERNAME%! I knew Giovanni didn’t stand a chance against you.
+You’re getting to be a real pro at battling him. No matter what he throws at you, there’s just no beating the bond between you and your Pokémon.
+I think it’s time you took a rest and celebrated your victory with the Pokémon you’ve freed from Team GO Rocket’s clutches.
+Let’s hope they learn their lesson one day soon.
+See you later, %PLAYERNAME%!
 Thanks for your help in defeating Team GO Rocket Grunts, %PLAYERNAME%!
 The team leaders and I have been observing Team GO Rocket, and something tells us this is far from over.
 The transmission sent during the Team GO Rocket take-over had a message from an unknown sender at the end.
@@ -17168,6 +17749,11 @@ As you might’ve expected, I was—yet again—unable to witness Tapu Bulu myse
 The guardian deities seem to be keeping a relatively low profile. Perhaps they’re just here to investigate something—or even help us somehow.
 Things may become clearer if we see Tapu Fini, the last of Alola’s guardian deities.
 For now, though, I think we’ve earned some rest. See you next time, %PLAYERNAME%!
+Good to see you, %PLAYERNAME%!
+What a lovely day! But it looks like there’s pollen in the ah...ah...ah-choo!
+Shame it’s garden-variety pollen and not healing pollen from the Flabébé I’ve seen around.
+I wish I were as carefree as the Flabébé seem to be! With their untroubled hearts, I wonder what Flabébé wish for...
+Sorry, I got lost in my daydreams! What about you, %PLAYERNAME%? What’s your research wish today?
 Brrr... Ah! %PLAYERNAME%! Did you notice the snow we’ve been getting? It’s beautiful—and freezing! I feel colder than a Bergmite!
 Winter is a time for wishing, and while a Bergmite might wish for the weather to stay like this forever, I’m wishing for an extra layer!
 What about you, %PLAYERNAME%? What’s your winter research wish?
@@ -17224,6 +17810,8 @@ Evolve {0} Spheal
 Evolve {0} Sealeo
 Spin 151 PokéStops or Gyms
 Visit PokéStops {0} days in a row
+Spin {0} PokéStops in Mexico
+Spin a PokéStop in Mexico
 Spin the Gym marked “Ultra Wormhole”
 Catch 15 Seedot
 Evolve a Nuzleaf
@@ -17263,6 +17851,7 @@ Jump-Start Research (5/6)
 Jump-Start Research (6/6)
 Use {0} supereffective Charged Attacks
 Use a supereffective Charged Attack
+Catch {0} Surskit
 Catch {0} Swablu
 Evolve {0} Swablu
 Catch {0} Teddiursa
@@ -20074,6 +20663,7 @@ Route Makers
 Rocket Take-Over: Defeat a Team GO Rocket Grunt
 Rocket Take-Over: Defeat {0} Team GO Rocket Grunts
 Rocket Take-Over: Defeat a Team GO Rocket Leader
+Ruby Version
 Русский
 Don’t have a Niantic Kids account?
 Unable to authenticate. Please try again.
@@ -20160,6 +20750,29 @@ Safari Zone: Evolve a Pokémon
 Safari Zone: Defeat {0} Team GO Rocket Grunts
 Safari Zone
 I'm a passenger
+Sapphire Version
+AVAILABLE TO SEND
+Your last Postcard delivery to a Nintendo Switch was unrecoverable.
+There was a problem sending this Postcard. Please try again.
+Pokémon Scarlet or Pokémon Violet
+NOT AVAILABLE TO SEND
+{0} DAY BONUS
+Are you sure you want to send?
+<b>Nintendo Switch not found.</b>Please make sure that the Nintendo Switch is ready to connect.
+Your most recent Postcard delivery to a Nintendo Switch was unsuccessful due to connectivity issues. Would you like to retry now?
+Retry sending Postcard
+<b>Your Postcard failed to send.</b>Please try to send your Postcard again.
+SEND TO NINTENDO SWITCH
+Postcard sent!
+You have already sent this Postcard to a Nintendo Switch.
+You can only send each Postcard once to a Nintendo Switch.
+When you connect Pokémon GO with Pokémon Scarlet or Pokémon Violet, certain limited data will be shared with Nintendo when you transfer Postcards. Please see the Help Article for more information. Data shared with Nintendo is subject to Nintendo’s own privacy policy.
+Do you want to send this Postcard to a Nintendo Switch?
+Are you sure you want to send this Postcard?
+You cannot send more Postcards today.
+Sending Postcard...
+Your Postcard delivery was canceled.
+When you connect Pokémon GO with Pokémon Scarlet or Pokémon Violet, certain limited data will be shared with Nintendo when you transfer Postcards. Please see the Help Article for more information. Data shared with Nintendo is subject to Nintendo’s own privacy policy.
 Scan a Battle Code
 Used 0 Razz Berries
 Used {0} Razz Berries
@@ -20248,6 +20861,8 @@ me
 SEE ALL SEARCH KEYWORDS
 Search
 Searching for Legends
+Willow’s Wardrobe
+Season 10: Rising Heroes
 Season of GO
 Pokémon GO Season 9: Mythical Wishes
 s
@@ -20440,6 +21055,7 @@ Invitation sent!
 EX Raid Pass at {0} sent to {1}!
 Let's be friends in Pokémon GO! My Trainer Code is {0}!
 If you join or return to Pokémon GO using my referral code {0}, you’ll get a welcome reward, earn special bonus items, and more. {1}
+Join the fun of Pokémon GO! {0}
 Share
 If you're unable to attend:
 You and one {0} are invited to an EX Raid.
@@ -20620,6 +21236,10 @@ Whoa—not a signal in sight! I wonder what they’re scared of?
 Just when I was energized to do some battling! Maybe we should check out other locations.
 No signals? Well, it is getting pretty late... and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
+You can activate the Coin Bag once per day by sending Postcards to Pokémon Scarlet or Pokémon Violet.
+The Coin Bag can be used once per day.
+The Coin Bag is available!
+Open the Coin Bag in your Item Bag for a mysterious effect.
 Pokémon Air Adventures: Catch Challenge
 Electrify the Sky
 More Abra are appearing in the wild
@@ -20713,16 +21333,33 @@ Learn More
 View Offer
 Congratulations! You've successfully redeemed an offer for Special Research.
 Congratulations! You have successfully redeemed an offer online. Tap OK to see it.
+█v██v█ a N██c█d█
+██k█ 3 G███t ███v█b███ T███w█ █n a ██w
+█r███f██ 5 ███é███
+█s█ 5 ██r██e█ t█ ███p ███ch ███é███
 Pokémon Spotlight Hour
 More Magnemite are appearing in the wild
 More Pidgey are appearing in the wild
 More Purrloin are appearing in the wild
 More Wobbuffet are appearing in the wild
 Spring Event
+Spring Cup: Great League Edition
 Spritzee O’Clock
 Large numbers of Spritzee are appearing in the area!
-GO Tour: Hoenn – Chasing Legends
+Pokémon GO Tour: Hoenn – Chasing Legends
+Pokémon GO Tour: Hoenn – Chasing Legends (1/6)
+Pokémon GO Tour: Hoenn – Chasing Legends (2/6)
+Pokémon GO Tour: Hoenn – Chasing Legends (3/6)
+Pokémon GO Tour: Hoenn – Chasing Legends (4/6)
+Pokémon GO Tour: Hoenn – Chasing Legends (5/6)
+Pokémon GO Tour: Hoenn – Chasing Legends (6/6)
 GO Tour: Hoenn – An Uneasy Alliance
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (1/6)
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (2/6)
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (3/6)
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (4/6)
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (5/6)
+Pokémon GO Tour: Hoenn – An Uneasy Alliance (6/6)
 I was thinking: Because we don’t know what attracted Shaymin here, we should make sure the surrounding area is safe.
 I really hope Shaymin hasn’t found itself in any trouble!
 Before we start, though, why don’t you power up some of your Pokémon in case we need to defend Shaymin when we find it?
@@ -21138,6 +21775,12 @@ Ultra Beast Protection Efforts (1/4)
 Ultra Beast Protection Efforts (2/4)
 Ultra Beast Protection Efforts (3/4)
 Ultra Beast Protection Efforts (4/4)
+Shadowy Skirmishes (1/5)
+Shadowy Skirmishes (2/5)
+Shadowy Skirmishes (3/5)
+Shadowy Skirmishes (4/5)
+Shadowy Skirmishes (5/5)
+Shadowy Skirmishes
 (sponsored by {0})
 LEARN MORE
 Submit
@@ -21145,6 +21788,7 @@ Pin not counted toward your Vivillon medals—limit reached. Try pinning Postcar
 Summer Cup
 Summer Event
 Summer Solstice
+Sunshine Cup: Great League Edition
 Super effective!
 Supereffective Week
 Support
@@ -21480,7 +22124,7 @@ You are not connected to Wi-Fi, so data rates may apply. Continue upload?
 Upload using cellular data
 PokéStop Scan
 Wi-Fi recommended
-This raid has ended.
+This event has ended.
 Cannot learn any other attacks!
 One...two...and...ta-da! {0} learned {1}!
 Today
@@ -21512,14 +22156,29 @@ Your Item Bag is full. You won’t receive item rewards for this match.
 2 more days until Pokémon GO Tour: Hoenn!
 1 more day until Pokémon GO Tour: Hoenn!
 Pokémon GO Tour: Hoenn Countdown
+Countdown to Pokémon GO Tour: Hoenn (Saturday)
+Countdown to Pokémon GO Tour: Hoenn (Sunday)
+Catch {0} Hitmonchan
+Catch {0} Hitmonlee
+Catch Mastery Timed Research
+Catch Mastery Timed Research (1/10)
+Catch Mastery Timed Research (2/10)
+Catch Mastery Timed Research (3/10)
+Catch Mastery Timed Research (4/10)
+Catch Mastery Timed Research (5/10)
+Catch Mastery Timed Research (6/10)
+Catch Mastery Timed Research (7/10)
+Catch Mastery Timed Research (8/10)
+Catch Mastery Timed Research (9/10)
+Catch Mastery Timed Research (10/10)
 GO for a Spin
 Timed Research: GO for a Spin
-Ruby: Latias Photo Safari
-Ruby: Latias Photo Safari – Global
-Ruby: Latias Photo Safari – Las Vegas
-Sapphire: Latios Photo Safari
-Sapphire: Latios Photo Safari – Global
-Sapphire: Latios Photo Safari – Las Vegas
+Sapphire: Latias Photo Safari
+Sapphire: Latias Photo Safari – Global
+Sapphire: Latias Photo Safari – Las Vegas
+Ruby: Latios Photo Safari
+Ruby: Latios Photo Safari – Global
+Ruby: Latios Photo Safari – Las Vegas
 Legends: #378
 Legends: #377
 Legends: #379
@@ -21607,6 +22266,10 @@ This Pokémon has previously Mega Evolved. Trading it will reset its Mega Level.
 Are you sure you want to trade this Pokémon?
 Me
 You cannot trade a favorite Pokémon.
+This Pokémon was previously your buddy, and it has also undergone Primal Reversion. Trading it will reset both its Buddy Level and its Primal Level. Do you want to proceed with this trade?
+Are you sure you want to trade this Pokémon?
+This Pokémon has previously undergone Primal Reversion. Trading it will reset its Primal Level. Do you want to proceed with the trade?
+Are you sure you want to trade this Pokémon?
 All regional Pokémon
 Regular Pokémon in Pokédex
 All regular Pokémon
@@ -21898,6 +22561,7 @@ Valentine’s Day: Catch {0} Luvdisc
 Valentine’s Day: Evolve a Hoppip
 Valentine’s Day: Hatch {0} Eggs
 Valentine’s Day: Defeat {0} Team GO Rocket Grunts
+Lovely Wishes
 Valentine’s Day
 Valentine’s Day Challenge 1
 Valentine’s Day Challenge 2
