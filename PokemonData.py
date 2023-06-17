@@ -135,12 +135,8 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0379"] = "Breaking Swipe"
-chimovedict["0379"] = "廣域破壞"
-engmovedict["0380"] = "Boomburst"
-chimovedict["0380"] = "爆音波"
-engmovedict["0381"] = "Double Iron Bash"
-chimovedict["0381"] = "鋼拳雙擊"
+engmovedict["0382"] = "Mystical Fire"
+chimovedict["0382"] = "魔法火焰"
 
 # Pokemon class
 class pokemon():
@@ -472,7 +468,7 @@ mewcharged = chargedmove[mewindex]
 mewcharged = sorted(list(set(mewcharged)))
 mewline = pokename.iloc[mewindex]
 del quickmove[mewindex], chargedmove[mewindex]
-pokename = pokename.drop(mewindex).append(mewline)
+pokename = pd.concat([pokename.drop(mewindex), mewline.to_frame().T], ignore_index=True)
 
 print(f"#max quick: {maxquick}, #max charged: {maxcharged}")
 temp = [mewquick[x:x+maxquick] for x in range(0, len(mewquick),maxquick)]
@@ -483,10 +479,16 @@ chargedmove.extend(temp)
 x = pd.Series(quickmove).apply(pd.Series)
 y = pd.Series(chargedmove).apply(pd.Series)
 lenx = len(x);leny=len(y);lenpoke=len(pokename)
+
+# Append the empty row to quickmove (because mewtwo have more chargedmove than quickmove)
 for _ in range(leny-lenx):
-    x = x.append(pd.Series(), ignore_index=True)
+    empty_row = pd.Series(dtype=object, index=x.columns)
+    x.loc[len(x)] = empty_row
+
+# Append the mewtwo title row to pokename (because mewtwo have several lines)
 for _ in range(leny-lenpoke):
-    pokename=pokename.append(pokename.iloc[-1], ignore_index=True)   
+    pokename=pd.concat([pokename,pokename.tail(1)], ignore_index=True)  
+
 a = [i for i in range(leny)]
 y['test']=a; x['test']=a; pokename['test']=a
 
@@ -514,7 +516,8 @@ chargeddb.insert(8, "split", "")
 chargeddb.insert(11, "split2", "")
 
 for _ in range(len(chargeddb)-len(quickdb)):
-    quickdb = quickdb.append(pd.Series(dtype="float64"), ignore_index=True)
+    empty_row = pd.Series(dtype="float64", index=quickdb.columns)
+    quickdb.loc[len(quickdb)] = empty_row
     
 a = [i for i in range(len(chargeddb))]
 quickdb['test'] = a; chargeddb['test'] = a; 

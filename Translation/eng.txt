@@ -355,6 +355,20 @@ AR
 We're not detecting your phone's orientation. Would you like to turn off AR mode?
 AR MAPPING
 This may not be a good place to play. Try playing somewhere else.
+The AR Photo Safari has closed due to an error.
+PokéStop not recognized. Please try again later.
+Try again later
+Point your camera at the PokéStop and match the image above!
+PokéStop not recognized. Please use your camera to match the image.
+Get closer to use this feature.
+Start AR Photo Safari
+READY TO START
+You matched the PokéStop!
+Point your camera at Pokémon to document them.
+Take a picture of each Pokémon on the list to finish the AR Photo Safari!
+Take photos of Pokémon
+Complete the list
+You documented all the Pokémon! Excellent work!
 AR+ requires ARCore to be installed. Do you want to install it now? You'll need to restart Pokémon GO.
 ARCore Installation
 AR+ requires an updated ARCore. Do you want to update now? You'll need to restart Pokémon GO.
@@ -464,6 +478,32 @@ Have fun and share your photos with others. You never know what you’ll find!
 Share Your Photos!
 You’re too close to the Pokémon! Stand farther back to give it some space.
 Careful, Trainer! Treat nearby surroundings and people with courtesy while you snap photos.
+This action cannot be undone.
+You already own this item in this color.
+Are you sure you’d like to exchange PokéCoins for this {0}?
+Are you sure you want to remove the {0}?
+Are you sure you want to remove this outfit?
+Are you sure you want to save this outfit?
+CART ({0})
+GO TO CART
+If you choose to exit, those items will be removed from your avatar.
+If you choose not to, your cart will not be emptied.
+There are no items in your cart.
+You can only save outfits composed of items you own.
+Outfit removed.
+New outfit saved!
+Would you like to acquire the items before saving your outfit?
+OWNED
+You’ve successfully acquired this {0}!
+set
+RECOMMENDED ITEMS
+REMOVE OUTFIT
+SAVE OUTFIT
+Previewed items added to cart.
+Would you like to exchange PokéCoins for the item in your cart?
+Would you like to exchange PokéCoins for the items ({0}) in your cart?
+Would you like to exchange PokéCoins for the items ({0}) you’re wearing?
+Would you like to exchange PokéCoins for the item you’re wearing?
 COMBINE COMPONENTS
 Failed to assign tags.
 Mixed
@@ -478,6 +518,7 @@ Unable to connect to server.
 Autumn Event
 The Seasons Change: Part 1
 The Seasons Change: Part 2
+ACCESSORIES
 New style to wear!
 SHOW ME
 Bags
@@ -487,6 +528,7 @@ Battles Won
 Pokémon Caught
 Total Activity
 Distance Walked
+Earrings
 Appearance
 Choose
 Eyes
@@ -609,6 +651,7 @@ Expedition Hat
 Samsung 2021 Cap
 Bea-StyleHeadband
 Bidoof Hat
+Bounsweet Hat
 N-Style Cap
 Newsy Cap
 Cosmog Hat
@@ -730,6 +773,7 @@ Ace Skirt
 Goh-Style Pants
 Backpacker Capris
 Battle Girl Shorts
+Tsareena Boots
 N-Style Pants
 Sprint Suit
 Sinnoh Skirt
@@ -795,6 +839,7 @@ Backpacker Top
 Ball Guy Set
 Battle Girl Tank Top
 Bea-StyleOutfit
+Steenee Shirt
 Fitted Shirt
 Buzzwole Top
 N-Style Top
@@ -883,6 +928,7 @@ Palmer Jacket
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
+Happiny Hoodie
 Piplup Costume
 Bulbasaur Hoodie
 Charmander Hoodie
@@ -1181,6 +1227,7 @@ Expedition Hat
 Samsung 2021 Cap
 Bea-StyleHeadband
 Bidoof Hat
+Bounsweet Hat
 N-Style Cap
 Newsy Cap
 Cosmog Hat
@@ -1296,6 +1343,7 @@ Ace Pants
 Ace Shorts
 Goh-Style Pants
 Backpacker Capris
+Tsareena Boots
 Brock Pants
 N-Style Pants
 Trainer Shorts
@@ -1362,6 +1410,7 @@ Backpacker Top
 Ball Guy Set
 Bea-StyleOutfit
 Business Blazer
+Steenee Shirt
 Brock Shirt
 Buzzwole Top
 N-Style Top
@@ -1456,6 +1505,7 @@ Palmer Jacket
 Pikachu Fan Shirt
 Pikachu Libre Top
 Pikachu Onesie
+Happiny Hoodie
 Piplup Costume
 Bulbasaur Hoodie
 Charmander Hoodie
@@ -1634,12 +1684,14 @@ Pose
 Steven Pose
 POSES
 Featured
+SETS
 Shiny Mew Shirt
 Footwear
 New items available!
 Skin
 Socks
 SPONSORED
+SPONSORS
 New style added!
 Tops
 UNIQLO
@@ -1860,6 +1912,8 @@ Partner Research - Season of Light: Hanamaru Udon
 Partner Research: Hanamaru Udon
 November 26, 2022
 Ultra Beast Arrival
+Pokémon GO Test Event
+Test Event
 Partner Research – Rising Heroes: Yoshinoya
 Partner Research: Yoshinoya
 Partner Research – Rising Heroes: Tully’s
@@ -3366,6 +3420,7 @@ A Pokémon you’ve never caught is %1$s meters away near %2$s!
 Bidoof Breakout
 Bidoof Day
 We have detected software that can interfere with the operation of Pokémon GO on your device. This includes applications that falsify your location. Using unauthorized software that directly impacts Pokémon GO is a violation of Niantic's Terms of Service and can result in the loss of your account. You will need to uninstall any such applications in order to continue gameplay.
+A Mystic Hero
 The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
 The results of this battle will be insightful, no matter the outcome. I expect us both to deliver our best. Let us begin.
 Interesting.
@@ -3415,10 +3470,14 @@ Evolve Pupitar (Larvitar’s Evolution) to get a Tyranitar that knows the Fast A
 Evolve Lampent to get a Chandelure that knows the Charged Attack Poltergeist!
 Evolve Noibat to get a Noivern that knows the Charged Attack Boomburst!
 Evolve Boldore to get a Gigalith that knows the Charged Attack Meteor Beam
+Evolve Slowpoke or Galarian Slowpoke to get one of its Evolutions that knows the Charged Attack Surf!
 Evolve Staravia to get a Staraptor that knows the Fast Attack Gust
+Evolve Piloswine to get a Mamoswine that knows the Charged Attack Ancient Power!
 Evolve Ursaring to get an Ursaluna that knows the Charged Attack High Horsepower!
+Evolve Togetic to get a Togekiss that knows the Charged Attack Aura Sphere!
 Evolve Galarian Linoone to get an Obstagoon that knows the Charged Attack Obstruct!
 Ultra Bonus: 2× Catch XP and 2× Transfer Candy
+2 Guaranteed Candy XL for evolving Pokémon
 Special event sticker available from spinning PokéStops in the area
 Special event stickers available from spinning PokéStops in the area
 An event-exclusive buddy Souvenir is available!
@@ -3449,9 +3508,11 @@ Community Day Challenge: Catch
 If Trainers work together to win a Noibat raid, large numbers of Noibat will appear in the area for 30 minutes.
 Community Day Challenge: Raid
 If Trainers work together to win a Boldore raid, large numbers of Roggenrola will appear in the area for 30 minutes.
+If Trainers work together to win a Slowpoke or Galarian Slowpoke raid, large numbers of Slowpoke and Galarian Slowpoke will appear in the area for 30 minutes.
 If Trainers defeat Staravia in a Raid Battle, more wild Starly will appear around the Gym that hosted the raid for 30 minutes.
 If enough Pokémon are caught with help from a single Lure Module, the 3× Catch XP bonus for Trainers near the Lured PokéStop will be increased to a 4× bonus for 30 minutes
 If Trainers work together to win an Ursaring Raid Battle, large numbers of Teddiursa will appear in the area for 30 minutes
+If Trainers work together to win a Togetic raid, large numbers of Togetic will appear in the area for 30 minutes
 If Trainers defeat an Ultra Beast in a Raid Battle, more wild Pokémon will appear around the Gym that hosted the raid for 30 minutes.
 Bonus available!
 If Trainers work together to win a Galarian Linoone raid, large numbers of Galarian Zigzagoon will appear in the area for 30 minutes.
@@ -4399,6 +4460,8 @@ You're now known as {0}.
 <size=36><b>Do you want to change your nickname?</b></size>You can only change your nickname a limited number of times, including changing back to an old nickname. It will be displayed to other Trainers, so please choose wisely!
 If you spin the Photo Disc, you can get an AR mapping task and help collect AR mapping data for this location. You can also scan this PokéStop anytime from the PokéStop’s details screen.
 Collect AR Data
+Trade Challenge: Bidoof
+Trade Challenge: Pidgey
 Event-themed Collection Challenge
 Taiwan Lantern Festival 2023
 Catch these Pokémon during the event!
@@ -4663,6 +4726,7 @@ Community Day: Deino
 Dratini Community Day Classic
 Community Day: Duskull
 Community Day: Eevee
+Togepi hatching from Eggs
 Community Day: Electabuzz
 Community Day
 Community Day: Fletchling
@@ -4686,13 +4750,18 @@ Community Day: Roselia
 Community Day: Sandshrew
 Community Day: Seedot
 Community Day: Shinx
+Community Day: Slowpoke and Galarian Slowpoke
+Slowpoke Community Day Special Research
 Community Day: Snivy
 Community Day: Spheal
 Community Day: Starly
 Community Day: Stufful
 Community Day: Swablu
+Community Day Classic: Swinub
 Community Day: Teddiursa
 Community Day: Tepig
+Community Day: Togetic
+Togetic Limited Research
 Community Day: Weedle
 Ultra Unlock: Community Day ー Galarian Zigzagoon
 Galarian Zigzagoon: Catch Challenge
@@ -4704,6 +4773,69 @@ Tap the item to use it.
 Congratulations, {0}!
 You can continue using your {0} until you win the battle!
 Use your {0}?
+Win {0} PokéStop Showcases.
+Showcase Star
+{0} at {1}
+Showcases Won
+Biggest {0}
+{0} & {1}
+Current Leader
+This Pokémon has won a PokéStop Showcase recently.
+Enter nearby PokéStop Showcase
+Enter {0}
+No
+Yes
+{0} will be removed from the {1} PokéStop Showcase.
+Do you want to enter {0}?
+Cannot enter Pokémon
+This Showcase has reached the maximum number of entrants.
+Cannot view Showcase
+You don’t have any Pokémon that can enter this Showcase.
+Move closer to enter this Showcase.
+You must claim your previous Showcase rewards before entering a new Showcase.
+You cannot enter any more Showcases.
+Recently traded Pokémon cannot enter Showcases.
+{0} friends entered
+Showcase Details
+Your Entry
+Enter a Pokémon
+Your {0}
+Your Biggest {0}
+Leaderboard
+<b>{0}</b> <size=28>& {1}</size>
+{0}
+& {0}
+Showcase
+{0} pts
+Rank {0}
+Claim Reward!
+PokéStop Showcase Rewards!
+Share
+PokéStop Showcase
+This Showcase is over. See your results and claim your rewards.
+PokéStop Showcase has ended.Claim your rewards!
+See All {0} Trainers
+Biggest
+Switch Pokémon
+Ended {0}
+Ends {0}
+Ends today, {0}
+Ends tomorrow, {0}
+Starts {0}
+Starts today, {0}
+Starts tomorrow, {0}
+Error loading Showcases
+Enter Pokémon in PokéStop Showcases!
+Pokémon in Showcases
+Trainers
+Got It
+This PokéStop is hosting a Showcase! Show off your Pokémon and earn rewards.
+This Pokémon can compete in a PokéStop Showcase! Showcases are an opportunity for you to show off your Pokémon and earn rewards.
+PokéStop Showcase
+Biggest Size
+Be the first to enter this PokéStop Showcase!
+Winner
+Your Rank
 Continue to Battle
 You’ll be able to receive Stardust if you open this Gift, but you won’t receive other items because your Item Bag is full.  You can change whether Gifts can be opened while your Item Bag is full by going to the Settings menu.
 COPY MY TRAINER CODE
@@ -4863,6 +4995,10 @@ Dragon Boat Festival
 포켓몬 페스티벌 2022
 Sustainability Week Collection Challenge
 Sustainability Day
+Sustainability Week (1/4)
+Sustainability Week (2/4)
+Sustainability Week (3/4)
+Sustainability Week (4/4)
 Sustainability Week
 Eggstravaganza: Hatch an Egg
 Eggstravaganza: Hatch {0} Eggs
@@ -4892,6 +5028,8 @@ Electric Cup: Great League Edition
 Type Surge: Electric
 Element Cup
 Element Cup Remix
+Elite Raid Timed Research: Regidrago
+Elite Raid Timed Research: Regieleki
 Elite Raid: Regidrago
 Elite Raid: Regieleki
 Elite Raid Timed Research
@@ -5048,6 +5186,7 @@ Postcard Book full
 A Raid Boss has taken control of the Gym!
 Your referral code could not be refreshed.
 Your referral code cannot be refreshed right now. Please try again later.
+Failed to send a Friend Request to this Trainer.
 Failed to send a Friend Request to {0}.
 Sender error
 {0}'s Friend List is full.
@@ -5065,6 +5204,7 @@ Event-themed wild Pokémon are appearing in the area!
 Astral Eclipse Event
 Season of Heritage: December Bonus
 Ultra Beasts appearing more frequently in raids
+Increased chance of finding featured Pokémon in certain sizes
 Cubone can evolve into Alolan Marowak
 Exeggcute can evolve into Alolan Exeggutor
 Fashion Challenger
@@ -5386,6 +5526,12 @@ Expert Box
 Explore Responsibly
 Explorer Box
 Explorer Pikachu appearing in the wild
+Ultra Legend Box
+Great Voyager Box
+Solstice Box
+Ultra Community Day Box
+Special Box
+Received {0} items from the {1}
 {0} PokéCoins added
 Extreme weather
 GO Time!
@@ -5518,6 +5664,7 @@ gbl
 Female
 Male
 Genderunknown
+Duplicate
 hatched
 hisui
 legendary
@@ -5548,6 +5695,7 @@ Perfect
 Event
 Can Evolve
 Can Mega Evolve
+Has Duplicate
 Hatched
 Legendary
 Has Location Card
@@ -5989,6 +6137,8 @@ Halloween Timed Research Ticket
 Galarian Mr. Mime Event Ticket
 A ticket to access the A Rocky Road Special Research on May 21, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 A Rocky Road
+A ticket to access the Community Day Classic: Swinub Special Research on April 29, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Research rewards include: - Premium in-game items such as Rare Candies, Ultra Balls, and more - Extra encounters with Swinub and its Evolutions Details can be found in the in-game News. You must play during the specified time to receive all the special event bonuses.
+April 2023 Community Day Classic: Swinub
 A ticket to access the Bulbasaur Community Day Classic Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Bulbasaur Community Day Classic Ticket
 A ticket to access the December Community Day 2021 Special Research on December 18 and 19, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -6008,6 +6158,8 @@ A ticket to access the Noibat Community Day Special Research, wherever you are. 
 Abundant Noise
 A ticket to access The Bravest Bird Special Research on March 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 The Bravest Bird Ticket
+A ticket to access the GO Battle Day: Stardust Timed Research, which includes the following rewards.- 25,000 Stardust- 3 Rare Candies- 1 Star PieceThis Timed Research will be available on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time. Learn more in the in-game News.You must play during the specified time to receive all the event bonuses.
+GO Battle Day: Stardust
 A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Just a Nibble Ticket
 A ticket to access the Yamask Timed Research from October 20, 2022, at 10:00 a.m. to November 1, 2022, at 10:00 a.m. local time, wherever you are. This Timed Research features encounters with Yamask. Details can be found in the in-game News.Please note that Timed Research will expire. The tasks associated with Timed Research must be completed and their rewards must be claimed before Tuesday, November 1, 2022, at 10:00 a.m. local time.
@@ -6037,6 +6189,8 @@ A ticket to access the Gritty and Glacial Special Research on March 13, 2022, fr
 Gritty and Glacial
 A ticket to access the Flash, Spark, and Gleam Special Research on November 21, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Flash, Spark, and Gleam Ticket
+A ticket to access the Field Notes: Slow and Slower Special Research on March 18, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.You must play during the specified timed to receive all the special event bonuses.
+Field Notes: Slow and Slower
 A ticket to access the Snivy in the Sunshine Special Research on April 11, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Snivy in the Sunshine Ticket
 A ticket to access the The Spheal Deal Special Research on January 16, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -6051,6 +6205,8 @@ A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11
 Roasted Berries Ticket
 From Scalchops to Seamitars Ticket
 No Match for Magmar Ticket
+A ticket to access the Togetic Community Day–exclusive Special Research story, Spreading Cheer, on April 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.You must play during the specified time to receive all the special event bonuses.
+Spreading Cheer
 A ticket to access the Field Notes: Galarian Zigzagoon Special Research on August 13, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Field Notes: Galarian Zigzagoon
 A ticket to access Pokémon GO Fest on July 25 and 26, 2020, from 10:00 a.m. to 8:00 p.m. local time each day, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
@@ -6061,6 +6217,8 @@ Pokémon GO Tour: Johto
 Ticket: Pokémon GO Tour: Johto
 A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. Discounted for this year in celebration of the fifth anniversary of Pokémon GO. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2021 Ticket
+A ticket to access Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. Details can be found in the in-game News.You must play during the specified time to receive all the event bonuses.
+Pokémon GO Fest 2023: Global Ticket
 A ticket to access Timed Research from Thursday, December 15, 2022, at 10:00 a.m. until Saturday, December 31, 2022, at 8:00 p.m. local time, wherever you are, which leads to the following rewards:  Gifting Pose Two Incubators One Incense  IMPORTANT: Please note that Timed Research will expire. The tasks associated with Timed Research must be completed and their rewards must be claimed before Saturday, December 31, 2022, at 8:00 p.m. local time.  Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Winter Holiday Timed Research Ticket
 A ticket to access Masterwork Research that leads to an encounter with one of the most elusive Pokémon, Shiny Jirachi, and includes the following rewards: 9 Rare Candy 20,405 XP 12,700 Stardust 2 Poffins 2 Incense 30 Ultra Balls 20 Jirachi Candy, 10 Groudon Candy, 10 Kyogre Candy, and 10 Rayquaza Candy This ticket will be available in the shop until March 20, 2023, at 10:00 a.m. PDT. After purchase, you must play between February 20, 2023, at 10:00 a.m. and March 21, 2023, at 10:00 a.m. local time to receive the Masterwork Research. Once acquired, Masterwork Research will not expire.
@@ -6069,7 +6227,7 @@ A ticket to access the Something Extraordinary Special Research, wherever you ar
 Something Extraordinary Ticket
 A ticket to access the following bonuses on Saturday, December 3, 2022, from 2:00 p.m. to 10:00 p.m. local time, wherever you are.Six additional Raid Passes from spinning Photo Discs at GymsIncreased chance to receive Rare Candy XL50% more XP for successfully completing raids2× Stardust for successfully completing raidsDetails can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Heading to Hoenn Mega Raid Day Ticket
-A ticket to access the Willow’s Wardrobe Timed Research, wherever you are. Research rewards include:- Professor Willow–inspired avatar items- An encounter with a Melmetal that knows the Charged Attack Double Iron BashThis Timed Research will be available for purchase until June 1, 2023, at 10:00 a.m. local time, and it will expire on June 30, 2023, at 10:00 a.m. local time. Learn more in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
+A ticket to access the Willow’s Wardrobe Timed Research, wherever you are. Research rewards include: - Professor Willow–inspired avatar items - An encounter with a Melmetal that knows the Charged Attack Double Iron Bash This Timed Research will be available for purchase until June 1, 2023, at 10:00 a.m. local time, and it will expire on June 30, 2023, at 10:00 a.m. local time. Learn more in the in-game News. You must play during the specified time to receive all the event bonuses.
 Willow’s Wardrobe
 1 day
 Accept
@@ -7850,6 +8008,7 @@ Unknown battle error.
 {0} people sent you Friend Requests.
 One person sent you a Friend Request.
 Increased Adventure Sync rewards next week
+Increased chance of hatching Shiny Pokémon from 2 km, 5 km, and 10 km Eggs
 Increased Stardust from defeating Team GO Rocket Grunts
 Increased Transfer Candy and Transfer Candy XL
 Choose an Egg to incubate.
@@ -7955,7 +8114,9 @@ UNDEFINED
 Bluk Berry
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
+A ticket to access Pokémon GO Fest 2023: Global, wherever you are.
 Masterwork Research: Wish Granted
+This ticket will automatically activate to give you access to Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are.
 A ticket to access Masterwork Research that leads to an encounter with the elusive Shiny Jirachi.
 Ticket
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
@@ -7964,15 +8125,19 @@ A ticket to access Timed Research from October 20, 2022, at 10:00 a.m. to Novemb
 This ticket will automatically activate to give you access to Timed Research from October 20, 2022, to November 1, 2022, wherever you are.
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access the Noibat Community Day Special Research, wherever you are.
+A ticket to access the GO Battle Day: Stardust Timed Research, wherever you are.
 A ticket to access Special Research on May 21, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to the Noibat Community Day Special Research, wherever you are.
+A ticket to access the Community Day Classic: Swinub Special Research, wherever you are.
+A ticket to access Special Research on April 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the GO Battle Day: Stardust Timed Research on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 5, 2022, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 5, 2022, wherever you are.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the Community Day Classic: Swinub Special Research on April 29, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to Special Research on April 15, 2023, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on October 9, 2021, wherever you are.
 A ticket to access Special Research on August 14 and 15, 2021, from 11:00 a.m. to 5:00 p.m. local time each day, wherever you are.
@@ -9138,6 +9303,7 @@ View all Pokémon with the {0} tag
 Manage Postcards
 Equip a radar to use it on your map.
 Festival of Colors 2023 Collection Challenge
+Let’s GO Collection Challenge
 Notifications may include alerts, sounds, and icon badges. This can be configured in your settings.
 Niantic would like to send you notifications about events, offers, and updates
 Lotad Research: Spin {0} PokéStops
@@ -9159,6 +9325,8 @@ Premier Cup
 ML Premier Classic
 Master Premier
 Master Raid Box
+Dummy 1
+Dummy 2
 Masterwork Research: Wish Granted
 Masterwork Research: Wish Granted (1/6)
 Masterwork Research: Wish Granted (2/6)
@@ -9272,10 +9440,15 @@ All-in-One #151 (4/4)
 Cannot create more than {0} tags.
 10 Max Potions to completely restore the HP of 10 Pokémon.
 10 Max Potions
+5 Max Potions to completely restore the HP of 5 Pokémon.
+5 Max Potions
+3 Max Revives that can revive fainted Pokémon and restore their maximum HP.
+3 Max Revives
 6 Max Revives that can revive fainted Pokémon and restore their maximum HP.
 6 Max Revives
 Alola to Alola Collection Challenge
 Alola to Alola
+A Valorous Hero: Timed Research
 Pikachu Meet-and-Greet
 Pokémon GO Autumn Event
 Remaining Mega Evolution Period
@@ -9372,7 +9545,7 @@ Speed
 {0}-type attacks are now boosted!
 A Mega Moment
 Walking Progress
-Built at 2023-04-05T09:17:29.734240at SHA d15c5a33c91e9377923504045c493359606ca7f9Pipeline 1375787, job 16609935
+Built at 2023-06-14T23:47:51.171319at SHA 8487435e63e64c1668b0fd4965037443a6be5f0ePipeline 1546754, job 18739205
 Timed Research: Choose Your Fighting Type
 Timed Research: Choose Your Fighting Type (1/3)
 Timed Research: Choose Your Fighting Type (2/3)
@@ -9749,6 +9922,8 @@ Glaciate
 Breaking Swipe
 Boomburst
 Double Iron Bash
+Liquidation
+Leafage
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -10035,6 +10210,7 @@ Code Redeemed
 SEE RESEARCH
 There was an error redeeming the code.
 The request to redeem the code timed out. Check your network settings and try again.
+You have a pending Friend Request from this Trainer.
 Your performance settings were successfully updated.
 Enabling Bluetooth...
 Bluetooth is off. Enable it in device settings.
@@ -10111,13 +10287,16 @@ The photo could not be saved.
 5 surprise encounters with Sandshrew in GO Snapshot
 5 surprise encounters with Seedot in GO Snapshot
 5 surprise encounters with Shinx in GO Snapshot
+5 surprise encounters with Slowpoke and/or Galarian Slowpoke in GO Snapshot
 5 surprise encounters with Snivy in GO Snapshot
 5 surprise encounters with Spheal in GO Snapshot
 5 surprise encounters with Starly in GO Snapshot
 5 surprise encounters with Stufful in GO Snapshot
 5 surprise encounters with Swablu in GO Snapshot
+5 surprise encounters with Swinub in GO Snapshot
 5 surprise encounters with Teddiursa in GO Snapshot
 5 surprise encounters with Tepig in GO Snapshot
+5 surprise encounters with Togetic in GO Snapshot
 5 surprise encounters with Weedle in GO Snapshot
 5 surprise encounters with Galarian Zigzagoon in GO Snapshot
 Chance for a surprise encounter with Oranguru in GO Snapshot
@@ -13041,9 +13220,7 @@ Latios
 Mega Latios
 Kyogre
 Primal Kyogre
-Primal Kyogre
 Groudon
-Primal Groudon
 Primal Groudon
 Rayquaza
 Mega Rayquaza
@@ -13681,9 +13858,9 @@ YOUR POSTCARDS
 REMOVE
 Remove this Postcard?
 You cannot recover a Postcard once it has been removed.
-Increases the max number of saved postcards by 50.
-Postcard pages
-Your Postcard Book is full. You can buy an extra 50 card spaces in the shop.
+Increases the max number of Postcards you can save by 50.
+Postcard Pages
+Your Postcard Book is full. You can purchase space for an additional 50 Postcards in the in-game shop.
 Get more pages
 Go to Postcard Book
 Added to your Postcard Book
@@ -13886,7 +14063,7 @@ An error occurred when starting the battle
 Battle in the Halloween Cup {0} times
 Win {0} Trainer Battles in the Halloween Cup
 Battle in the GO Battle League {0} times
-Battle in GO Battle League
+Battle in the GO Battle League
 Win {0} Trainer Battles in the GO Battle League
 Win a Trainer Battle in the GO Battle League
 Battle another Trainer in the Great League {0} times
@@ -13919,6 +14096,15 @@ Let's Go: Make {0} Excellent Throw
 Let’s Go: Hatch {0} Eggs
 Have 1 Best Buddy
 Have 10 Best Buddies
+A Mystic Hero
+A Mystic Hero (1/4)
+A Mystic Hero (2/4)
+A Mystic Hero (3/4)
+A Mystic Hero (4/4)
+A Mystic Hero: Timed Research
+A Mystic Hero: Timed Research (1/3)
+A Mystic Hero: Timed Research (2/3)
+A Mystic Hero: Timed Research (3/3)
 Field Research completed!
 Mystery items
 Stardust
@@ -14140,6 +14326,7 @@ Catch a Pokémon with Weather Boost
 Catch {0} Whismur
 Change the form of {0} Pokémon
 Change the form of a Pokémon
+Use {0} Charged Attacks
 Catch {0} Charmander
 Catch {0} Charmeleon
 Evolve {0} Charmander
@@ -14187,6 +14374,7 @@ An Inter-egg-sting Development
 The Higher They Fly...
 A Seven-Colored Shadow
 Stop and Smell the Roselia
+A Little Warm-Up
 Gritty and Glacial
 Flash, Spark, and Gleam
 Snivy in the Sunshine
@@ -14621,6 +14809,7 @@ Evolve one Pidgey
 Evolve one Pidove
 Evolve one Pignite
 Evolve one Pikachu
+Evolve {0} Piloswine
 Evolve one Piloswine
 Evolve one Pineco
 Evolve one Piplup
@@ -15085,8 +15274,8 @@ Catch {0} Magikarp
 Evolve {0} Magikarp
 Catch {0} Magmar
 Evolve {0} Magmar
-Activate Primal Reversion OR Mega Evolve a Pokémon {0} times
-Activate Primal Reversion OR Mega Evolve a Pokémon
+Activate Primal Reversion or Mega Evolve a Pokémon {0} times
+Activate Primal Reversion or Mega Evolve a Pokémon
 Mega Evolve a Beedrill
 Mega Evolve a Blastoise
 Mega Evolve a Charizard
@@ -15218,9 +15407,21 @@ Send {0} Gifts to friends
 Send a Gift to a friend
 Send {0} Gifts and add a sticker to each
 Send a Gift with a sticker
+Grass and Gratitude
+Grass and Gratitude (1/7)
+Grass and Gratitude (2/7)
+Grass and Gratitude (3/7)
+Grass and Gratitude (4/7)
+Grass and Gratitude (5/7)
+Grass and Gratitude (6/7)
+Grass and Gratitude (7/7)
 Catch {0} Shinx
 Evolve {0} Shinx
 Evolve {0} Luxio
+Catch {0} Slowpoke or Galarian Slowpoke
+Evolve {0} Slowpoke or Galarian Slowpoke
+Take a snapshot of {0} Slowpoke or Galarian Slowpoke
+Take a Snapshot with your Buddy at the PGO Tent
 Take a snapshot with your buddy
 Take a snapshot of Bulbasaur
 Take a snapshot of Charmander
@@ -15326,6 +15527,20 @@ The next thing I knew, “you” had transformed into a Ditto! Or perhaps I have
 Hm? You noticed it too, did you?
 And you saw a Ditto that had transformed to look like me? Incredible!
 As you’ve experienced, Ditto have the fascinating ability to reconstitute their entire cellular structure to transform into whatever they see.
+%PLAYERNAME%! It’s...it’s...
+It’s the Pidgey! They’ve flown the coop!
+For years, Trainers like yourself have been sending me Pidgey to research.
+I’ve kept each and every one safe and healthy, feeding them the best Berries, providing them with the softest nests...
+But somehow they’ve escaped from my lab! Maybe this is what I get for using a Great Fence instead of an Ultra Fence.
+*sigh* And after all the care I put into everyone’s Pidgey, too. We’ve got a real whirlwind of a situation on our hands!
+On the bright side, this might make for a fascinating paper on the impact of the flighty flock on the local environment...
+But first things first. Help me catch as many of these plucky Pidgey as you can, %PLAYERNAME%! Before they try to fly off with my whole trailer...or me!
+ %PLAYERNAME%? %PLAYERNAME%!
+Phew! I was worried the Pidgey might’ve blown you away.
+Most of the Pidgey are back safe in the lab, thanks to you and your fellow Trainers! I’m so glad it wasn’t a gust—er, bust.
+Take these items for your help with today’s feathery fracas, %PLAYERNAME%.
+I’ve put in an order for double the Pidgey’s usual amount of Berries, so let's hope they’ll feel pampered enough not to be a flight risk anymore.
+That’s enough fun for one day, I’d say. Until next time!
 Welcome back, %PLAYERNAME%! Isn’t it lovely out?
 There are Litten lying in the sun, Rowlet relaxing in the trees, Popplio playing in the water—and these malasadas Spark dropped off sure are delicious!
 It seems even the flowers smell sweeter today!
@@ -15414,6 +15629,33 @@ A river dammed by Bibarel will never overflow its banks, which is appreciated by
 Thank you, %PLAYERNAME%, for assisting me with this special assignment. I think we all learned that there’s more than meets the eye when it comes to Pokémon—especially Bidoof!
 As a thank-you for your hard work, the team leaders and I prepared a gift for you to help show the world your love and knowledge of the indelible Bidoof. I hope you wear it with the pride it deserves.
 Why don’t you put it on and enjoy a nice walk with your Bidoof? You never know what you might discover! Now, let’s GO!
+Phase one, Razz Berry documentation: complete. Phase two, Pinap Berries.
+Ah. %PLAYERNAME%. My apologies—I didn’t see you there. I’ve been preoccupied with completing my latest research report. 
+Early findings are promising, and I’m eager to discuss the results with Professor Willow.
+But I must admit I’m having the slightest difficulty sourcing materials for the next step.
+I’ve been so absorbed that I haven’t found a moment to shoo off the Team GO Rocket Grunts nearby. What’s more, they appear to have increased in number.
+Nevertheless, these are my issues to resolve. What can I help you with today? It’s rare for you to stop by.
+Professor Willow suggested you check on me? Well, I appreciate the thought, but it’s quite unnecessary.
+Everything is under control here, so please, feel free to focus on your own studies. Now, where to source additional Berries...
+Hm? I’m certain these Pinap Berries weren’t here earlier. And you’ve returned, %PLAYERNAME%? Then I suppose this was your doing.
+You didn’t need to trouble yourself, but this does take one thing off my to-do list. Curious about how I’ll use them?
+As you may know, my field of study includes Pokémon Evolution.
+I’m currently investigating whether feeding a Pokémon various Berries immediately prior to it evolving has any influence on its physiology.
+Speaking of which, the next step of this project is to see a Pokémon evolve. I’ll need to be on my way so I can locate one that’s ready.
+Let’s continue our discussion another time, %PLAYERNAME%.
+Did it occur to you to evolve your Pokémon because of what I said earlier, %PLAYERNAME%? Thank you.
+You’ve saved me quite a bit of time. I now have just about everything I need to get back on track.
+The end goal of my research? To learn more about Pokémon, of course. There’s no end to that endeavor, as Professor Willow might say.
+On a personal level, I’d be satisfied if my research led to more insight on Lapras.
+Lapras are able to understand human speech and are very intelligent. Their intellect and good nature are why I have one as my partner Pokémon.
+Yet to the best of our knowledge, they do not evolve. I’d like to understand why.
+I’ve been working on hypotheses as to why some Pokémon are able to evolve while others are not, but that is a far longer-term project.
+Perhaps I speak from a place of bias, but I think you’d do well to have a Lapras accompany you on your travels too, %PLAYERNAME%.
+I hope you and Lapras make all manner of discoveries together, %PLAYERNAME%—just like the discoveries you’ve helped me make today.
+Thanks to your timely assistance, I can share my report far earlier than I initially anticipated.
+You’ve shown me today why Professor Willow always calls you his hero.
+You’re an observant friend and Trainer who has a knack for sensing when others are in need, even if they don’t see it themselves.
+I suppose that makes you my hero too, %PLAYERNAME%.
 Hello there, %PLAYERNAME%! Look around—have you ever seen so many Bulbasaur?
 Personally, I’ve only witnessed a gathering like this once before. It was some time ago, and there were so many Trainers out and about catching all the little Seed Pokémon they could find.
 In fact, seeing all these Bulbasaur has me feeling quite nostalgic!
@@ -16378,6 +16620,34 @@ Welcome back! Did your friends like their Gifts?
 Welcome back! How was your adventure? Did you see anything new? You’ll have to tell me all about it!
 Welcome back! Let me take a look at the Pokémon you’ve returned with... I bet with some training, you and your Pokémon would be ready to take on Alola’s Pokémon League yourselves!
 Welcome back! I knew you’d have no trouble with Team GO Rocket. You never do!
+... ... ... *sigh* ... ... ...
+Oh. Hey, %PLAYERNAME%.
+... ... ... *sigh*
+Sorry. I’ve just been feeling kinda burnt out lately.
+I hate to say it, but my battling techniques have gotten stale. I need to reignite my inner fire somehow.
+Wait—I’ve got an idea! Professor Willow’s always talking about how great you are at Pokémon battles.
+How about letting me see some of that passion in action? Watching you battle might be just what I need!
+You’ll help me out, yeah? Nice. I knew you’d agree, %PLAYERNAME%.
+Let’s make sure our teams are in top shape, then we’ll get to it.
+I’m all set, %PLAYERNAME%.
+My team’s raring to see you and your Pokémon blaze into the fray!
+So. Where should we start? There’s plenty of options—take on a Gym, battle with friends, go a couple rounds in the GO Battle League...
+You and I could even go head-to-head!
+Oh—I’ve got it! See that Team GO Rocket Grunt over there?
+Let’s take ’em down. We can save whatever Pokémon they’ve got their hands on and flex your battle skills at the same time!
+You’re on fire, %PLAYERNAME%!
+Didja see how fast that Grunt ran off? Hah! You smoked ’em.
+Speaking of Grunts, they’ve been acting weird lately. The last few I battled acted off after I beat ’em. Usually they throw a huffy quip at me before sulking off.
+But lately they just laugh!
+Rrrgh... Think I need to up the intensity? Maybe have Ponyta give ’em a good Stomp at the end?!
+Anyway. Enough analyzing—that’s Blanche’s thing. Let’s get back to battling. Why don’t we find a Gym you can take on.
+That was a blistering battle, %PLAYERNAME%!
+My mind’s ablaze with new ways to train.
+Thanks for helping me find my fire!
+I should probably be the one teaching you stuff, but you know plenty already.
+Does that mean you’re looking to take up the reins of team leader yourself? Hah, I could get behind that! 
+You know, you really gave me the inspiration I needed—I’d say that’s pretty heroic.
+All right. Enough talk. Ponyta and I are off to get in some training. See you later, %PLAYERNAME%! And you better be ready to battle the next time you see me.
 Hey there, %PLAYERNAME%! I think I’ve got an exciting adventure for you. I’ve been working on something...BIG.
 Recently, we observed a large number of Weedle appearing in the wild. I wanted to investigate that phenomenon further.
 After a day of research, I saw something sparkling in the tall grass near where the Weedle were gathering.
@@ -17231,6 +17501,20 @@ Each contains a different toxin. The poison in its right hand is quick acting, w
 What an amazing Pokémon!
 Thanks for all your assistance today, Trainer. Documenting situations like this is essential to learning more about the Pokémon in the world around us.
 Until next time, let’s GO!
+Hello, %PLAYERNAME%! It’s great to see you.
+It’s been a while, hasn’t it? I’m sure your skills are as sharp as ever, but it couldn’t hurt to do a little warm-up anyway.
+Why don’t you start by seeing what Pokémon are in the area?
+I can’t wait to see what you find!
+%PLAYERNAME%! Back already, eh? Let’s take a look at the Pokémon you caught.
+Hmm... Well done! I knew you wouldn’t have any problem getting back into the swing of things.
+This is a great start—so let’s keep going! Why don’t you head out and see what other Pokémon you can discover?
+While you do, I’ll stay here and start researching the ones you caught already.
+I’m counting on you, %PLAYERNAME%!
+Excellent work, %PLAYERNAME%!
+Thanks to your recent efforts, I’ve got plenty of research topics to keep me occupied—for now, anyway.
+I’ll be sure to reach out whenever I need a hand.
+Until then, I hope you have a wonderful time exploring the world around you and meeting all sorts of incredible Pokémon!
+Now, let’s GO!
 Good morning, %PLAYERNAME%! There sure seems to be a surplus of Sandshrew around today, don’t you think?
 I’m especially surprised to see both Sandshrew and Alolan Sandshrew appearing at once!
 These two forms of Sandshrew usually prefer vastly different climates. Sandshrew usually make their homes in deserts and arid zones, where rain doesn’t fall.
@@ -17448,6 +17732,41 @@ I’ve got one more friend to be thankful for, aside from you and Rhi.
 I knew leaving Cosmog with you two was the right choice. With your encouragement and guidance, it’s become something truly Legendary!
 Do me a favor, would you? Keep adventuring together and tell me all about your exploits when you have a chance.
 As for me, well... I think it’s about time I put my old lab coat back on. Don’t you?
+Hey there, %PLAYERNAME%!
+I’m so glad you’re here. Get this—there’ve been sightings of Shaymin in the area!
+Well, it might be more accurate to say “potential sightings,” as I’ve yet to verify the information.
+Shaymin lives in common flower patches but is rarely noticed. It’s often mistaken for a flowering plant when curled up—what unique behavior for a Mythical Pokémon!
+I can’t help but wonder if we’d know more about Shaymin if only we were a little more observant.
+Let’s put that theory to the test and see what we can learn taking a good look around the area, shall we?
+How did it go, %PLAYERNAME%? Any chance you ran into Shaymin while you were out?
+No? Well, that’s OK! I see you got some good snapshots of other Pokémon in the meantime.
+Hmm... That gets me thinking. As you might know, the flowers all over Shaymin burst into bloom if it’s lovingly hugged and senses gratitude.
+I hypothesize that if we take the time to share some thankfulness, we’ll attract Shaymin’s attention.
+Not that we need any excuse to celebrate Pokémon, I say! In fact, how about we appreciate them in photo form with some more snapshots, %PLAYERNAME%?
+Your snapshots look great, %PLAYERNAME%! You’ve got a real knack for catching Pokémon—both in Poké Balls and on camera!
+And y’know what else you’ve got a knack for? Pokémon battles!
+I’m sure you already know that one of the ways you can keep your team in tip-top shape is by powering up your Pokémon. Why don’t you do that and come see me when you’re done?
+Welcome back, %PLAYERNAME%!
+I was just thinking about Shaymin again. One of the many things that makes Shaymin so special is that it has two known forms.
+I refer, of course, to its Land Forme and Sky Forme. Land Forme Shaymin is Grass-type, but when it turns into Sky Forme Shaymin, it becomes Grass- and Flying-type.
+Some say that it transforms when it takes in the scent of a rare flower.
+Perhaps you’re wondering what would happen if a human took a whiff. A researcher from long ago tried just that, but alas, his body remained unchanged.
+Ah well. Not all hypotheses hold water. That’s just part of the scientific process!
+And speaking of learning, why don’t you spend some time with other Grass-type Pokémon and Flying-type Pokémon? Maybe they’ll inspire you to make some hypotheses of your own!
+Excellent work, %PLAYERNAME%. Now you’ve got even more Pokémon to bring along on your journey!
+In the spirit of Shaymin being the Gratitude Pokémon, let’s show some gratitude to our old and newfound friends alike.
+How about taking some snapshots with your Pokémon or feeding them some tasty Berries? I know my beloved Meltan always enjoys a snack—maybe your Pokémon are the same!
+Your Pokémon are positively glowing, %PLAYERNAME%! I’m sure they appreciated that extra quality time with you.
+The more time I spend with Pokémon, the more I appreciate all their unique qualities.
+For example, Torchic is oh-so-cuddly. It has fire burning inside it, so hugging it is lovely and warm. Then there’s Mudkip, who contains amazing power—it can crush rocks bigger than itself.
+I could also wax poetic about Treecko, whose feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.
+And that’s just a scant three Pokémon! I’d love to hear your observations too, %PLAYERNAME%. What unique Pokémon and traits can you observe?
+%PLAYERNAME%! Yay—it’s Shaymin!
+It looks happy—I daresay even grateful—to be in the care of an exemplary Trainer like you!
+And as long as we’re on the subject, I want you to know I’m incredibly thankful you helped me with my research.
+I know it’s not always easy, but I can’t tell you enough how much I appreciate your contributions to my studies.
+Studies that never end, I might add. Haha. So rest up, and I’ll be in contact again soon.
+Let’s GO...with gratitude!
 Hey there %PLAYERNAME%! Hope you’ve been well.
 The strangest thing happened last night: I noticed a veritable bevy of bobbing, blinking lights bouncing around at the far end of a nearby park—but by the time I’d run over, the area was empty and dark.
 I have a feeling those flickering lights may somehow be connected to an Electric-type Pokémon, but I can’t be sure!
@@ -17466,6 +17785,28 @@ Ah, Luxray, the Gleam Eyes Pokémon! When its eyes gleam gold, it can spot hidde
 But seeing through solid objects uses a lot of its electricity, so Luxray sleep for long periods of time to store up energy.
 What an electrifying revelation! We’ve learned a lot about Shinx and its Evolutions, but I bet there’s still much to discover.
 Despite all that hard work, it seems you’ve still got a little spark left in you—so why don’t you head back out and see what other adventures await? Let’s GO!
+%PLAYERNAME%! It is fortunate you are here. Alarming events have transpired.
+As I was observing a slow, pink Pokémon, its tail suddenly fell off. I stooped down to pick up the tail, only to discover that the field was covered in more of these detached appendages.
+The Pokémon in question did not seem perturbed. However, I am. Could a disease be ailing the Pokémon? Are the fallen extremities separate life-forms?
+Please assist me in assessing the situation, %PLAYERNAME%.
+Hey, %PLAYERNAME%! I saw you and Rhi running around earlier. What’ve you been up to?
+There were Pokémon with their tails falling off? That does sound concerning, but I’ve got a hunch there’s nothing to worry about. Let me have a look!
+Hmm... Yep! You’ll both be relieved to know these are just Slowpoke tails. Their tails fall off naturally. The Slowpoke don’t feel any pain when it happens, and their tails grow back, so they aren’t particularly bothered.
+Speaking of their tails, did you know that because Galarian Slowpoke eat the seeds of a plant that grows only in Galar, their tails have developed a spicy flavor?
+So I hear, at least—I’ve never tasted one myself. Ooh, maybe we should have a picnic sometime!
+Ahem. Lunch plans aside, I’ll let Rhi know that there’s no cause for concern. Spend more time with the Slowpoke till I’m back, %PLAYERNAME%!
+Welcome back, %PLAYERNAME%. Whoa! Not only have you spent more time with Slowpoke, but you’ve helped some evolve, too!
+Slowpoke’s pretty special. Not only can it evolve into one of two different Pokémon—Slowbro and Slowking—but each of its Evolutions has regional variants, too.
+Slowpoke become Water- and Psychic-type Slowbro when Shellder latch on to their tails. Though usually dim-witted, they seem to become inspired if those Shellder bite down.
+Galarian Slowbro, unlike their non-Galarian counterparts, are Poison types.
+When a Shellder bites one of them, it sets off a chemical reaction with the spices inside Slowbro’s body, causing Slowbro to become a Poison-type Pokémon. Pretty wild, huh?
+Evolve a couple more Slowpoke, and I’ll have some fun facts about Slowking to share when you’re back!
+Back so soon, %PLAYERNAME%? You’re faster than a Slowpoke, that’s for sure! Now for those Slowking facts I promised you.
+Slowking undertake research every day in an effort to solve the mysteries of the world. They have incredible intellect and intuition. Whatever the situation, they remain calm and collected.
+Galarian Slowking, on the other hand, have something of a spooky bent. While chanting strange spells, these Pokémon combine their internal toxins with what they’ve eaten, creating strange potions.
+What do you think would happen if I drank one of those potions? Maybe I’d turn into a Slowking myself. Who knows what I could accomplish with their level of intellect!
+Ah... You’re right, it might be hard for me to communicate like that. Either way, there’s no end to the discoveries we can make about Pokémon together—even if my noggin remains Shellder-free! Haha.
+The curiosity of friends like you and Rhi will take us far. I hope you two learned something today. Until next time, %PLAYERNAME%!
 Hey there, %PLAYERNAME%! Perfect timing.
 I just got back from a lengthy stroll in the sunshine. It’s incredible how much a bit of fresh air can affect your energy and mood!
 But that’s not the only thing that’s got me feeling chipper. You see, I witnessed something quite interesting while I was out and about.
@@ -17489,6 +17830,29 @@ It has an incredible ability to stop its opponents’ movements with a single gl
 Having a Pokémon like that by your side would be pretty inspiring, I’d say!
 Anyway, thanks again for all your help in this sun-soaked endeavor. I think I’ll take one more walk before the day’s done—can’t let weather like this go to waste!
 Until next time, let’s GO!
+Hey! %PLAYERNAME%! No time to explain—take this Incubator and follow me, quick!
+Phew! Appreciate the hustle, %PLAYERNAME%. Did you use that Incubator I gave you?
+I bet you’re curious why we’re in a hurry.
+It’s because Elekid ran off—right as I took my eyes off it to put an Egg in that Incubator!
+To be fair, this isn’t the first time my Elekid’s gotten a case of the zoomies. I think it just gets restless sometimes. And hey, chasing after it is a great way to get my daily steps in!
+As for that Incubator, I had a feeling you’d be up for helping me track down Elekid and thought, “Why not hatch an Egg along the way?”
+Professor Willow tells me you’re no stranger to hatching Pokémon. I’d love to hear all about your escapades, so c’mon, dish!
+Actually, hold that thought—I think I see Elekid over thataway! After it, %PLAYERNAME%! We can chat on the way!
+Wanna hear more about what I’ve been up to?
+Okay, so, I had this wild idea that exposing Pokémon Eggs to different kinds of music might influence what interests they develop as they grow up.
+No results yet, but I’ve been making a lotta playlists. Ooh, you should share some of your favorite tunes with me later!
+I’m getting excited. Haha. Thinking about Pokémon always amps me up!
+Like, how do they instinctively develop so many unique characteristics? And at the same time, they all have their own personalities!
+For example, Elekid are known to rotate their arms to generate electricity, but they supposedly tire easily. And then there’s my Elekid, who’s always running off.
+That’s what makes my buddy so charming, though! I wouldn’t have it any other way.
+What’s your Buddy Pokémon like, %PLAYERNAME%? You should ask it to join us while we track down Elekid. I’m itching to see if your buddy’s personality is anything like yours!
+A-HA! Elekid spotted dead ahead! And it looks like it’s tuckered itself out.
+Our wild Pokémon chase is finally coming to an end.
+Y’know, I bet things only went as smoothly as they did because you were here.
+I didn’t even have to worry about Team GO Rocket trying to mess with us!
+Come to think of it, they’ve been weirdly preoccupied lately... But hey, I’m not about to look a gift Horsea in the mouth.
+Enough about them, though. Thanks again for being my hero today, %PLAYERNAME%! I dunno how long it would’ve taken me to chase down Elekid without your help.
+Well, I’ve got places to be and Eggs to hatch, but don’t be a stranger! Let’s chat again real soon!
 Hey there, %PLAYERNAME%! It’s great to see you again.
 I wanted to tell you about what I saw on my morning walk today—a herd of Spheal rolling across an icy lake!
 Did you know that a Spheal always travels by rolling around on its ball-like body?
@@ -17605,6 +17969,29 @@ Between Altaria’s song and your remarkable bond, I have to say I’m feeling q
 You truly are an incredible Trainer.
 Thanks for your help on this latest adventure, %PLAYERNAME%. I’ll never get tired of learning more about Pokémon!
 Now, let’s GO!
+Hey there, %PLAYERNAME%!
+Have you noticed all the Swinub out today? I wonder if there’s something they find enticing buried around here.
+After all, Swinub rub their snouts on the ground to find and dig up food. Their favorite food is mushrooms that grow under dead grass.
+In fact, in ancient times, the people of Hisui relied on this skill.
+Best we don’t interrupt any Swinub mid-snuffle, but we can still spend some time observing them.
+You’re right, some mushroom soup does sound good, Meltan—
+Ah, %PLAYERNAME%! Welcome back! Though I should’ve heard you coming with those sniffing Swinub behind you.
+Swinub’s Evolution, Piloswine, also has a sensitive nose. And their thick coat of long hair helps them endure freezing cold.
+Sounds cozy, doesn’t it? Maybe I should take a hint and grow my beard out during the winter months...
+Ahem. You’re right—I’m sure their hair is different from mine. The cold is nothing a good parka can’t fix, anyway!
+Let’s have a look at Piloswine in person.
+Is that a walking coat or a Piloswine, %PLAYERNAME%?
+Aw, not even a chuckle? I didn’t expect my joke to get such a chilly reception! Haha.
+I’ll make it up to you with a cool fact—Piloswine’s Evolution, Mamoswine, has tusks made of ice! As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.
+What do you think Mamoswine’s tusks will look like on a day like this?
+Great work, %PLAYERNAME%! Mamoswine’s tusks really are impressive!
+It’s hard to imagine anything could get the better of a Pokémon this sturdy. In fact, this Pokémon has been around a long, looong time.
+I recently read that a frozen Mamoswine was dug up from soil dating back 10,000 years ago. And it woke up, to my amazement!
+In a way, seeing a Mamoswine today is like looking back in time.
+What other Pokémon that we see today were also around then? How have they changed?
+All fascinating questions that require further research to answer. But what we’ve observed of Swinub, Piloswine, and Mamoswine today is a great start.
+Think on it as you go about the rest of your day, and come back soon to tell me your theories! But until then, thanks for spending the day with me.
+Let’s GO!
 Hi there, %PLAYERNAME%. I can’t help but be impressed by your progress. You’ve done fantastic work in researching Pokémon originally discovered in the Kanto, Johto, Hoenn, and Sinnoh regions.
 Now that we’ve researched Pokémon that were found in those regions...
 let’s take a closer look at Pokémon originally discovered in the Unova region!
@@ -17721,6 +18108,25 @@ Anyway, I should let you get back to exploring. And I should get to that picnic!
 Have a wonderful weekend, and keep up all the hard work. It’s always a joy to see how much you’ve grown as a Trainer each time we meet.
 I’ll be in touch soon with some more research opportunities. Or who knows—maybe even some recipes!
 Now, let’s GO!
+There you are! I had a feeling I’d see you today, %PLAYERNAME%.
+Look at all the Togetic fluttering around. I’ve never seen so many at once!
+Togetic is said to be a Pokémon that brings good fortune, and what better fortune could I have than running into you?
+Let’s see what other good things lie in store for us as we continue observing these Togetic.
+Your Togetic is positively glowing, %PLAYERNAME%! Could that glow be from Togetic’s distinctive joy dust?
+You see, research says that Togetic appear in front of kindly people to scatter a glowing down called “joy dust,” showering them with happiness.
+What practical applications could there be for joy dust? Will Pokémon and humans feel joy upon seeing it?
+We researchers have yet to answer these questions. Just thinking of the possibilities is filling me with happiness!
+But first things first. A kindhearted Trainer—or Professor—doesn’t forget to take care of Pokémon.
+Let’s share some happiness with Togetic by feeding them some Berries, %PLAYERNAME%!
+Nice work, %PLAYERNAME%. Those Togetic look positively jubilant.
+Speaking of being jubilant, let me tell you about Togetic’s Evolution, Togekiss! It’s also known as the Jubilee Pokémon.
+Togekiss share their many blessings with people who respect one another’s rights and avoid needless strife. It sounds like quite the wonderful Pokémon to have around.
+I bet you’d have no trouble evolving Togetic into a Togekiss of your own. Why not give it a try?
+Amazing, %PLAYERNAME%! You’ve evolved Togetic into your very own Togekiss!
+These Pokémon are never seen anywhere near conflict or turmoil. It’s been depicted on good-luck charms since ancient times.
+Speaking of bygone times, a researcher from long ago wrote, “After studying what literature remains, I am certain Togekiss will reveal itself when peace reigns over the land.”
+I know I’m filled with peace and happiness whenever you reveal yourself to help with my research.
+Thanks for spending another day with me, %PLAYERNAME%. Until next time, let’s GO!
 Hey there, %PLAYERNAME%!
 Your timing is excellent. I’ve hit a bit of a roadblock in my research!
 You see, I’m still puzzling over the guardian deities both Spark and Blanche have seen recently. I’ve yet to suss out why they’ve been appearing.
@@ -17854,6 +18260,8 @@ Use a supereffective Charged Attack
 Catch {0} Surskit
 Catch {0} Swablu
 Evolve {0} Swablu
+Evolve {0} Swinub
+Take a snapshot of {0} Swinub
 Catch {0} Teddiursa
 Evolve {0} Teddiursa
 Take a snapshot of {0} Teddiursa
@@ -17872,6 +18280,9 @@ April Fools’ 2-Oh?-22
 April Fools’ 2-Oh?-22 (1/3)
 April Fools’ 2-Oh?-22 (2/3)
 April Fools’ 2-Oh?-22 (3/3)
+Pidgey Pandemonium
+Pidgey Pandemonium (1/2)
+Pidgey Pandemonium (2/2)
 An Akala Adventure
 An Akala Adventure (1/4)
 An Akala Adventure (2/4)
@@ -18139,6 +18550,11 @@ Alola to Alola (1/4)
 Alola to Alola (2/4)
 Alola to Alola (3/4)
 Alola to Alola (4/4)
+A Valorous Hero
+A Valorous Hero (1/4)
+A Valorous Hero (2/4)
+A Valorous Hero (3/4)
+A Valorous Hero (4/4)
 Mega Battle Challenge (1/4)
 Mega Battle Challenge (2/4)
 Mega Battle Challenge (3/4)
@@ -18301,6 +18717,7 @@ Stop and Smell the Roselia (1/4)
 Stop and Smell the Roselia (2/4)
 Stop and Smell the Roselia (3/4)
 Stop and Smell the Roselia (4/4)
+A Little Warm-Up
 Gritty and Glacial
 Gritty and Glacial (1/4)
 Gritty and Glacial (2/4)
@@ -18393,11 +18810,21 @@ Flash, Spark, and Gleam (1/4)
 Flash, Spark, and Gleam (2/4)
 Flash, Spark, and Gleam (3/4)
 Flash, Spark, and Gleam (4/4)
+Field Notes: Slow and Slower
+Field Notes: Slow and Slower (1/4)
+Field Notes: Slow and Slower (2/4)
+Field Notes: Slow and Slower (3/4)
+Field Notes: Slow and Slower (4/4)
 Snivy in the Sunshine
 Snivy in the Sunshine (1/4)
 Snivy in the Sunshine (2/4)
 Snivy in the Sunshine (3/4)
 Snivy in the Sunshine (4/4)
+An Instinctive Hero
+An Instinctive Hero (1/4)
+An Instinctive Hero (2/4)
+An Instinctive Hero (3/4)
+An Instinctive Hero (4/4)
 The Spheal Deal
 The Spheal Deal (1/4)
 The Spheal Deal (2/4)
@@ -18446,6 +18873,11 @@ Cotton-Winged Bird (1/4)
 Cotton-Winged Bird (2/4)
 Cotton-Winged Bird (3/4)
 Cotton-Winged Bird (4/4)
+Swinub Community Day Classic
+Swinub Community Day Classic (1/4)
+Swinub Community Day Classic (2/4)
+Swinub Community Day Classic (3/4)
+Swinub Community Day Classic (4/4)
 Throwback Challenge Champion 2020
 Throwback Challenge Champion 2020 (1/5)
 Throwback Challenge Champion 2020 (2/5)
@@ -18513,6 +18945,11 @@ Throwback Challenge: Sinnoh (6/9)
 Throwback Challenge: Sinnoh (7/9)
 Throwback Challenge: Sinnoh (8/9)
 Throwback Challenge: Sinnoh (9/9)
+Spreading Cheer
+Spreading Cheer (1/4)
+Spreading Cheer (2/4)
+Spreading Cheer (3/4)
+Spreading Cheer (4/4)
 An Ula’ula Adventure
 An Ula’ula Adventure (1/4)
 An Ula’ula Adventure (2/4)
@@ -18552,6 +18989,9 @@ Field Notes: Galarian Zigzagoon (1/4)
 Field Notes: Galarian Zigzagoon (2/4)
 Field Notes: Galarian Zigzagoon (3/4)
 Field Notes: Galarian Zigzagoon (4/4)
+Catch {0} Togetic
+Evolve {0} Togetic
+Take a snapshot of {0} Togetic
 Make {0} trades with Pokémon caught at least 100 km apart
 Make {0} trades with Pokémon caught at least 200 km apart
 Make {0} trades with Pokémon caught at least 300 km apart
@@ -18562,6 +19002,7 @@ Make {0} trades with Pokémon caught at least 50 km apart
 Trade {0} Pikachu
 Trade Pokémon {0} times
 Trade a Pokémon
+Transfer {0} Pidgey
 Transfer {0} Pokémon
 Transfer a Pokémon
 Transfer {0} Rock- or Poison-type Pokémon
@@ -18694,6 +19135,7 @@ FIELD RESEARCH TASK
 You have completed the Field Research task from this PokéStop for today.
 Visit PokéStops to find more Field Research!
 Field
+SEASON
 Special
 Research Progress
 Completed Research: {0}
@@ -19058,6 +19500,7 @@ Raid Day: Kingdra
 Raid Day: Kingler
 Raid Day: Kirlia
 Raid Day: Klang
+Raid Day: Kleavor
 Raid Day: Klefki
 Raid Day: Klink
 Raid Day: Klinklang
@@ -19477,11 +19920,12 @@ This is a reward for a previous victory at {0}!Please visit the Gym at the given
 You're invited to an EX Raid.Here's your EX Raid Pass.
 Invitation
 Finding other players
-Sent you a Friend Request after a [0] raid at [1]!
+Sent you a Friend Request after a {0} raid at {1}!
 This feature only applies to in-person and nearby raids. You can change this later via Settings.
-Allow Trainers to send post-raid Friend Requests?
-Post-raid Friend Requests received: [0]!
-Post-raid Friend Requests enabled.
+Allow Friend Requests from raid members?
+You received {0} Friend Requests from raid members!
+You received a Friend Request from a raid member!
+Friend Requests from raid members enabled.
 Friendship
 Group Code
 You can battle together with friends by entering the group code of that group.
@@ -20456,14 +20900,14 @@ You must wait {0} minutes to play this route.
 You must wait {0} minutes to play this route.
 Pick an image and a color to display as the medal other Trainers get when they complete your Route.
 Route Medal
-Create a Route in three easy steps!1. Plan your Route.2. Travel to each PokéStop or Gym along your Route and verify each one. This ensures your Route is safe for others!3. Add information about your Route, and submit it.
-Routes are interesting journeys that you believe others should experience for themselves! Pick a theme for your Route—such as history, art, or nature—and share it with others.Please avoid adding Pokémon-specific descriptions or splitting your Route into multiple entries. Doing so may delay Route approval.
-Routes must include five or more PokéStops or Gyms. An average Route should be 400–800 meters from start to finish and take 10–15 minutes to explore.
-Once your Route is submitted, it will be reviewed. If your Route is rejected, you can make changes and resubmit it. You can also reset your Route at any time and start over.Let’s create your first Route!
-Creating a Route
-Focus on a Theme
-Rules for Routes
-Submitting Your Route
+Create Routes for your community to enjoy.To create a Route:    1. Select the start point and end point.    2. Walk from your start point to your end point.    3. Name and describe your route.
+Routes must:    1. Be between 0.5km and 20km.    2. Be in safe areas and not cross into private property.    3. Not have an inappropriate description or purpose.
+Place pins along a Route to highlight interesting or important things.Pins must be placed:    1. Less than 15 meters away from the route path.    2. 20 meters away from other pins.
+Routes are reviewed by Niantic once submitted and will be accepted or rejected. If rejected, you may be given a chance to edit and resubmit your Route for review.Now it's time to create your route!
+How to Create a Route
+Rules
+Placing Pins
+Review Process
 Now that you’ve created a Route, it’s time to tell people about it!
 Enter Route Data
 Adding this PokéStop or Gym will cause your Route to exceed the maximum Route length.
@@ -20516,7 +20960,6 @@ Your progress will be saved. You can continue creating your Route by tapping the
 (This route will cancel in less than {0} hour)
 (This route will cancel in {0} hour)
 {0} paused because you moved away from a route area. If you walk close to the next route point "<color=#{1}>{2}</color>”, this route automatically turn on again.
-Route paused
 Route saved as {0}.
 Route Creation Paused
 Plan your Route here
@@ -20562,7 +21005,7 @@ Permanent issue
 Thank you for sharing your report with Niantic. We are sorry for the inconvenience. Your current route has been cancelled.
 Report Submitted
 Temporary issue
-Report this route
+Report this Route
 Resetting your Route will remove all the information you have included. Are you sure you want to reset this Route?
 RESET ROUTE?
 Please look over all the information you’ve entered before submitting your Route.
@@ -20601,7 +21044,7 @@ Your description contains inappropriate or prohibited content
 Route image is not valid
 Your title contains inappropriate or prohibited content
 Medal Creation
-Select an image for your Route’s medal
+Select an image for your Route Badge:
 Please choose an icon for this Route’s medal.
 COLOR
 Description
@@ -20616,9 +21059,9 @@ Route submission unavailable. Please try again later.
 Unknown error in the Route submission process. Please try again later.
 Please visit all PokéStops or Gyms along this Route.
 Can this Route be followed in reverse?
-Select a color for your Route’s header
-Display your Trainer Nickname on this Route? This will be visible to other players.
-Describe Your Route
+Select a header color for your Route Badge:
+Show your Trainer Name in the Route description, visibile to other players?
+Name your Route
 Title
 Write Later
 Write Now
@@ -20652,7 +21095,7 @@ Great job! You’ve visited all the stops along this Route!
 Travel to each PokéStop or Gym, and spin the Photo Disc at each
 Following Your Route
 This is the starting point that you selected. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
-Please go to the first PokéStop or Gym on this Route and spin the Photo Disc.
+Head toward the route start point to begin the route.
 Please go to stop #{0}—{1}—and spin the Photo Disc.
 This is stop #{0}: {1}. Please spin the Photo Disc at this PokéStop or Gym to confirm it.
 Route PokéStop or Gym has been verified.
@@ -20868,7 +21311,7 @@ Pokémon GO Season 9: Mythical Wishes
 s
 SEE DETAILS
 See Less
-See More
+SEE MORE
 See Schedule
 SEE SUMMARY
 Select a Gift to pin its Postcard to your Postcard Book or to remove its Postcard.
@@ -20880,6 +21323,9 @@ Send
 Send a Gift
 Send Gift
 SEND REPORT
+{0} friends have already met their daily limit of Remote Raids. You can invite more friends!
+1 friend has already met their daily limit of Remote Raids. You can invite another friend!
+Trainer has reached their daily limit of Remote Raids.
 You sent a Friend Request.
 You sent a Friend Request to {0}!
 Sent a Gift to {0}.
@@ -20901,12 +21347,13 @@ Adjust Performance
 Optimize your gameplay experience based on your device. Doing so may improve performance or save battery life.
 Refresh Game Data
 Refresh your game data if you are experiencing inconsistent gameplay.
+Haptics
 Items
 Pokémon
 Quality
 Sharing
 Advanced Settings
-Allow friends to send you paid gifts
+Allow Friends to Send You Paid Gifts
 AR
 AR+
 Do you want to leave the game to report an issue?
@@ -20979,7 +21426,7 @@ Buddy Perk
 Once a Pokémon reaches Ultra Buddy level, it will let you know about interesting places nearby and bring you Souvenirs and presents.
 Events, Offers, and Updates
 Push Notifications
-Allow Post-Raid Friend Requests
+Allow Friend Requests from Raid Members
 Only applies to in-person and nearby raids.
 Remember Last-Used Poké Ball
 The type of Poké Ball you last used will be automatically selected at the beginning of your next Pokémon encounter.
@@ -21011,15 +21458,15 @@ Enables Campfire buttons in Pokémon GO.
 Sound
 Sound
 Nintendo Switch
-About
-https://www.nintendo.co.jp/pika_vee/about/country_selecter/index.html
+Linking with Pokémon Scarlet and Pokémon Violet
+https://scarletviolet.pokemon.com/en-us/news/pokemon_go_connect/
 Bluetooth is disabled. Please enable Bluetooth in the device settings menu.
 This device is not supported.
 Connect to Nintendo Switch
 AVAILABLE DEVICES
 Nintendo Switch
 When you connect Pokémon GO with Pokémon: Let's Go, Pikachu! or Pokémon: Let's Go, Eevee!, certain limited data will be shared with Nintendo in the course of the transfer of Pokémon. Please see the Help Article  for more information. Data shared with Nintendo is subject to Nintendo's own privacy policy.
-Quick Start
+Linking with Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!
 https://www.nintendo.co.jp/pika_vee/howto/country_selecter/index.html
 Resume transfer
 Troubleshooting
@@ -21187,9 +21634,11 @@ Sinnoh Collection Challenge
 Sinnoh Cup
 Sinnoh Event
 Spring into Spring 2022 Collection Challenge
+Spring into Spring 2023 Collection Challenge
 Spring into Spring
 Spring into Spring event Eggs
 Spring into Spring event wild Pokémon
+Increased chance of finding XXS and XXL Pidgey during this event!
 A Very Slow Discovery Challenge
 A Very Slow Discovery
 Import friends from Facebook
@@ -21236,6 +21685,7 @@ Whoa—not a signal in sight! I wonder what they’re scared of?
 Just when I was energized to do some battling! Maybe we should check out other locations.
 No signals? Well, it is getting pretty late... and I need to go meet up with Willow.
 We might have better luck catching them during the daytime, when Candela and I usually get most of our research done.
+An Instinctive Hero
 You can activate the Coin Bag once per day by sending Postcards to Pokémon Scarlet or Pokémon Violet.
 The Coin Bag can be used once per day.
 The Coin Bag is available!
@@ -21264,6 +21714,7 @@ More Magmar are appearing in the wild
 More Mudkip are appearing in the wild
 More Noibat are appearing in the wild!
 More Oshawott are appearing in the wild
+More Pidgey are appearing in the wild!
 More Porygon are appearing in the wild
 More Roggenrola are appearing in the wild!
 More Roselia are appearing in the wild
@@ -21271,13 +21722,16 @@ More Sandshrew are appearing in the wild
 More Seedot are appearing in the wild
 More Shinx are appearing in the wild
 Increased chance for Skiploom to appear in parks
+More Slowpoke and Galarian Slowpoke are appearing in the wild!
 More Snivy are appearing in the wild
 More Spheal are appearing in the wild
 More Starly are appearing in the wild!
 More Stufful are appearing in the wild!
 More Swablu are appearing in the wild
+More Swinub are appearing in the wild!
 More Teddiursa are appearing in the wild!
 More Tepig are appearing in the wild
+More Togetic are appearing in the wild!
 More Weedle are appearing in the wild
 More Bug-type Pokémon are appearing in the wild
 More Dark-type Pokémon are appearing in the wild
@@ -21346,6 +21800,9 @@ Spring Event
 Spring Cup: Great League Edition
 Spritzee O’Clock
 Large numbers of Spritzee are appearing in the area!
+You can join {0} more Remote Raids today. A Remote Raid Pass will be used when the battle starts.
+You can join 1 more Remote Raid today. A Remote Raid Pass will be used when the battle starts.
+You’ve reached your daily limit of Remote Raids. Walk closer to interact with this Gym.
 Pokémon GO Tour: Hoenn – Chasing Legends
 Pokémon GO Tour: Hoenn – Chasing Legends (1/6)
 Pokémon GO Tour: Hoenn – Chasing Legends (2/6)
@@ -21781,6 +22238,62 @@ Shadowy Skirmishes (3/5)
 Shadowy Skirmishes (4/5)
 Shadowy Skirmishes (5/5)
 Shadowy Skirmishes
+From the Shadows (1/5)
+%PLAYERNAME%! Perfect timing.
+I was just settling in to read the latest edition of Pokémon Researcher’s Weekly when I saw a couple of Team GO Rocket Grunts run by.
+We should go after them before they get up to anything too dastardly.
+*sigh* It looks like my reading will have to wait. I’ll head this way, and you go that way!
+From the Shadows (2/5)
+Phew! That was a bit of a workout, eh, %PLAYERNAME%?
+But I’ll bet you took on that Grunt without breaking a sweat!
+And, as usual, I’ll bet they abandoned some poor Pokémon in their wake...
+How sad. The least we can do is purify some of these Pokémon.
+They’ll have a much happier future with you, %PLAYERNAME%.
+From the Shadows (3/5)
+Thanks for purifying those Pokémon!
+They’re looking so cheerful—I’m sure they see you as their hero!
+I know I do, but we can’t rest just yet. We need to stop Team GO Rocket at their source—the leaders.
+Let’s get cracking on tracking down those nefarious nuisances!
+From the Shadows (4/5)
+Welcome back, %PLAYERNAME%!
+You made short work of those Team GO Rocket Leaders.
+That’s no easy feat. Well, maybe it is for someone like you!
+If only they could change their ways permanently... But until they do, we’ll be around to prevent them from doing anything too troublesome.
+And that means showing their boss who’s boss.
+Challenge the Team GO Rocket Boss Giovanni, %PLAYERNAME%!
+From the Shadows (5/5)
+Back so soon, %PLAYERNAME%? You’re really not giving Team GO Rocket any time to rest!
+And that’s just the way it should be—all in the name of keeping Pokémon everywhere safe.
+Thanks for your help, %PLAYERNAME%. Until the next time we need to foil their plans!
+From the Shadows
+Let’s GO! (1/6)
+Hey, %PLAYERNAME%!
+Things are pretty calm right now, aren’t they? The Pidove are chirping, the Hoppip are floating...
+It makes me want to take a big stretch and go on a nice walk.
+You’ve got to savor peaceful days like these, especially considering that Pokémon research can be fraught with all sorts of mystery and danger! Just, well, not today.
+But no matter the circumstances, I know you’re looking out for Pokémon everywhere—and for me! In fact, I’ve always thought of you as my hero when I’m in a pinch.
+On a relaxing day like this, you deserve a change of pace from our grand adventures. It’s a perfect time to take a look at what’s going on in our own backyard.
+Could you check out the Pokémon in the area for me, %PLAYERNAME%?
+Let’s GO! (2/6)
+Welcome back, %PLAYERNAME%! Let’s look at those Pokémon...
+You’ve already powered some of them up, I see. Staying prepared in case any dangers arise? Great work, as usual!
+With Trainers like you around, even forces like Team GO Rocket can be defeated. Speaking of which, something seems especially sinister about them lately. Just my Pokémon Professor’s intuition.
+Hmm. Well, I’ll keep noodling on that. Could be my intuition is oversensitive lately. Let’s just enjoy this peace while we can!
+I’m going to review some of my older observations. Why don’t you leave some of those Pokémon with me and see what other Pokémon pals are around?
+Let’s GO! (3/6)
+Thank goodness, %PLAYERNAME%! You came back just in time! You and your new Pokémon are urgently needed!
+Something...something’s happened! Something big!
+You see...
+...I’ve just set up lunch plans with an old friend that I can’t miss.
+Haha, sorry for winding you up there! I know you’d never miss a chance to jump in and save the day.
+I’ve got a feeling my friend will have some valuable insight into my observations, so I need to collect my notes. I’ll tell you all about our discussion when I get back.
+Actually, I could use your help with something—while I look for those notes, could you keep an eye on the team leaders in case they need anything? I bet they could use a hero of their own!
+I’m sure you’ll hear from them soon, %PLAYERNAME%. Until then, let’s...hope I can find my notes!
+Let’s GO! (4/6)
+Hey there, %PLAYERNAME%! I don’t have anything juicy for you right now. Have you checked in on the team leaders lately?
+Let’s GO! (5/6)
+Let’s GO! (6/6)
+Let’s GO!
 (sponsored by {0})
 LEARN MORE
 Submit
@@ -21797,6 +22310,9 @@ Account Suspension NoticeYour account has been suspended for violating the Terms
 Account Suspension Notice Your account has been suspended for violating the Terms of Service. This suspension will last approximately 30 days. Any further transgressions will result in permanent account termination.
 While connecting to the Nintendo Switch, don’t turn off your smartphone or enter sleep mode. 
 Pokémon GO requires your location to find Pokémon and PokéStops near you.
+Bonus Event - Timed Research
+Bonus Event - Timed Research (1/2)
+Bonus Event - Timed Research (2/2)
 All Trainers must work together as a global community to complete this challenge.
 Trainers must work together as a regional community to complete this challenge.
 Nihilego will appear in raids
@@ -21901,13 +22417,16 @@ Tickets for Special Research available in the shop
 Ticket for the Gritty and Glacial Special Research story available in the shop
 Ticket for the Seeing Double Special Research story available in the shop
 Ticket for the Flash, Spark, and Gleam Special Research story available in the shop
+Ticket for the Field Notes: Slow and Slower Special Research story available in the shop
 Ticket for Special Research available in the shop
 Ticket for a Special Research story available in the shop
 Ticket for the Field Notes: Starly Special Research story available in the shop
 Ticket for the Strong Stuff Special Research story available in the shop
 Ticket for the Cotton-Winged Bird Special Research story available in the shop
+Ticket for the Swinub Community Day Classic Special Research story available in the in-game shop
 Ticket for the Sweet Snacks Special Research story available in the shop
 Ticket for the Roasted Berries Special Research story available in the shop
+Ticket for the Spreading Cheer Special Research story available in the shop
 Tickets for the A Hairy Situation Special Research story available in the shop
 Ticket for the Field Notes: Galarian Zigzagoon Special Research story available in the shop
 Ends in {0} days and {1} hours
@@ -21973,7 +22492,7 @@ Give Berries
 Get Items
 Motivation
 Defending Gyms
-Switch out Pokémon during battle to utilize your Battle Party’s different Charged Attacks.
+Switch out Pokémon during battle to utilize your battle party’s different Charged Attacks.
 A Curveball Throw will increase your chances of catching a Pokémon.
 Collect your daily free Raid Pass by spinning the Photo Disc at any Gym.
 Quickly discard your entire stock of any one item in your Item Bag by tapping the − button on the discard screen.
@@ -21981,7 +22500,7 @@ When you evolve a Pokémon that’s been knocked out in battle, that Pokémon wi
 Use a Lucky Egg to double the XP you earn by increasing your Friendship level with other Trainers.
 Feeding a Golden Razz Berry to a Pokémon defending a Gym will fully heal that Pokémon.
 It’s common for Trainers to challenge difficult raids the moment the Raid Egg hatches.
-Prepare a Battle Party in advance to lock in your strategy before challenging a Raid Boss.
+Prepare a battle party in advance to lock in your strategy before challenging a Raid Boss.
 A Lucky Trade turns traded Pokémon into Lucky Pokémon!Lucky Pokémon can be stronger in battle, require less Stardust to power up, and appear with a shimmery effect in the Pokédex and on the Pokémon’s summary page.
 Hey there, {0}! I’ve been developing a Lure Module to attract wild Pokémon.
 Lure Modules will help you on your journey to discover and catch more Pokémon!
@@ -22133,14 +22652,20 @@ Regional Catch Competition
 Citywide AR Mapping task rewards
 AR Mapping task city competition
 Citywide Timed Research
+DAILY ACTIVITIES
+Check News for information on upcoming events!
 Pokémon in Gyms
+HAPPENING NOW
 PokéCoins
+SEE DETAILS
 Streaks
 Today
 基坂｜#日本の坂をGOしよう
 馬籠宿｜#日本の坂をGOしよう
 吹屋ふるさと村｜#日本の坂をGOしよう
 Upcoming
+UPCOMING EVENTS
+TODAY
 EQUIP
 This item is EQUIPPED.
 UNEQUIP
@@ -22179,6 +22704,8 @@ Sapphire: Latias Photo Safari – Las Vegas
 Ruby: Latios Photo Safari
 Ruby: Latios Photo Safari – Global
 Ruby: Latios Photo Safari – Las Vegas
+Timed Research: Rainbow Skies
+Rainbow Skies
 Legends: #378
 Legends: #377
 Legends: #379
@@ -22599,6 +23126,8 @@ It's time to GO!
 For more information, visit the Help Center.
 Volbeat and Illumise are appearing in the wild globally
 Voyager Box
+Let’s start!
+Enable AR to use this feature. Niantic will process geospatial data from your camera during the AR Photo Safari. {0}
 You’ve earned entry into the GO Battle League!
 Ace
 Expert
@@ -22721,6 +23250,12 @@ Weather warning
 Weather
 Weather Week
 Windy
+You did not grant the necessary permissions for a sponsored AR experience.
+NOT NOW
+OPEN SETTINGS
+Allow Camera Access
+Let Pokémon GO access your device’s camera to enjoy this sponsored AR experience. You can get items from sponsored AR experiences!
+Let Pokémon GO access your device’s camera to enjoy this sponsored AR experience. You can get items from sponsored AR experiences! After returning to the game, tap the sponsored balloon to begin.
 As you explore while playing Pokémon GO, you can receive gifts by opening AR experiences from our sponsors. You will need to enable camera access to use this feature.
 Cannot access your device's camera. Check camera permissions.
 Weekly Box
@@ -22731,6 +23266,7 @@ Winter Wonderland Collection Challenge
 1/2 Hatch Distance for the first three Eggs hatched with the Pokémon GO Egg hatching widget
 1/4 Hatch Distance for the first nine Eggs hatched with the Pokémon GO Egg hatching widget
 1/4 Hatch Distance for the first three Eggs hatched with the Pokémon GO Egg hatching widget
+Let’s GO!
 Willpower Cup
 Winter Event
 Pokémon GO Holidays: Catch Challenge
