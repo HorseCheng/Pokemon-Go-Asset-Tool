@@ -68,6 +68,7 @@ Let others send me Friend Requests if I am in their contacts list.
 This can be disabled anytime in the Niantic Social Account Settings menu.
 Pokémon GO Is Better with Friends!
 Find Friends Using Your Contacts List
+Ability already applied.
 About
 ©2016–2017 Niantic, Inc.
 ©2016–2017 Pokémon.
@@ -582,6 +583,7 @@ Red LanternBackpack
 Mimikyu Bag
 WailmerWater Bottle
 NIKE HERITAGE Backpack
+Pawmi Backpack
 Seed Backpack
 Flame Backpack
 Shell Backpack
@@ -590,6 +592,7 @@ GO Snapshot Camera
 Galar Bag
 Paldea Backpack(Scarlet)
 Paldea Backpack(Violet)
+Paldea Backpack(Kitakami)
 Crown Tundra Bag
 Isle of Armor Bag
 Togepi Bag
@@ -646,6 +649,7 @@ Fingerless Gloves
 Delibird Gloves
 No Gloves
 LeafGreen Wristbands
+Geeta-Style Gloves
 Giovanni Gloves
 Guzma-StyleWristbands
 Gym Leader Gloves
@@ -709,6 +713,7 @@ GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
 Festive Hat
+Hisuian GrowlitheWig
 The North Face x Gucci Hat
 Guzma-StyleSunglasses
 Gyarados Hat
@@ -813,6 +818,7 @@ TrendyBlack Pants
 Flabébé Shorts
 LeafGreen Skirt
 Mareanie Shorts
+Geeta-Style Pants
 Wraparound Skirt
 Giovanni Pants
 Gladion Pants
@@ -900,6 +906,7 @@ H.F. Custom Shirt A
 LeafGreen Top
 Mareanie Jacket
 Galarian Farfetch’d T-shirt and Bag
+Geeta-Style Top
 Layered Jacket
 Gengar Shirt
 Gengar Onesie
@@ -1012,6 +1019,7 @@ Venusaur Jacket
 Sustainability T-shirt
 Paldea Set(Scarlet)
 Paldea Set(Violet)
+Paldea Set(Kitakami)
 The Thirty
 Team Instinct Turtleneck
 Team Mystic Turtleneck
@@ -1082,6 +1090,7 @@ No Footwear
 TrendyBlack Sneakers
 LeafGreen Shoes
 Mareanie Shoes
+Geeta-Style Shoes
 Giovanni Shoes
 Gladion Shoes
 Blue-Style Shoes
@@ -1117,6 +1126,7 @@ Steven-Style Shoes
 Steven-Style Shoes(Ruby/Sapphire)
 Paldea Shoes(Scarlet)
 Paldea Shoes(Violet)
+Paldea Sandals(Kitakami)
 Crown Tundra Boots
 Isle of Armor Shoes
 Dark-Type Sport High-Tops
@@ -1160,7 +1170,9 @@ Halloween
 GO Tour Hat
 Hats
 Unlock tier {0} {1} medal
+{0} unlocks with tier {1} {2} medal
 Unlock at Level {0}
+{0} unlocks at Level {1}
 Litten Backpack
 Popplio Backpack
 Rowlet Backpack
@@ -1187,6 +1199,7 @@ Red LanternBackpack
 Mimikyu Bag
 WailmerWater Bottle
 NIKE HERITAGE Backpack
+Pawmi Backpack
 Seed Backpack
 Flame Backpack
 Shell Backpack
@@ -1195,6 +1208,7 @@ GO Snapshot Camera
 Galar Bag
 Paldea Backpack(Scarlet)
 Paldea Backpack(Violet)
+Paldea Backpack(Kitakami)
 Crown Tundra Bag
 Isle of Armor Bag
 Togepi Bag
@@ -1245,6 +1259,7 @@ Fingerless Gloves
 Delibird Gloves
 No Gloves
 FireRed Wristbands
+Geeta-Style Gloves
 Giovanni Gloves
 Guzma-StyleWristbands
 Gym Leader Gloves
@@ -1309,6 +1324,7 @@ GladionCuff Earrings
 Pikachu Visor
 Goomy Hat
 Festive Hat
+Hisuian GrowlitheWig
 The North Face x Gucci Hat
 Guzma-StyleSunglasses
 Gyarados Hat
@@ -1410,6 +1426,7 @@ Fisher Pants
 Flabébé Shorts
 FireRed Pants
 Mareanie Shorts
+Geeta-Style Pants
 Wraparound Skirt
 Giovanni Pants
 Gladion Pants
@@ -1499,6 +1516,7 @@ H.F. Custom Shirt A
 FireRed Top
 Mareanie Jacket
 Galarian Farfetch’d T-shirt and Bag
+Geeta-Style Top
 Layered Jacket
 Gengar Shirt
 Gengar Onesie
@@ -1613,6 +1631,7 @@ Venusaur Jacket
 Sustainability T-shirt
 Paldea Set(Scarlet)
 Paldea Set(Violet)
+Paldea Set(Kitakami)
 Sports Hoodie
 Streak Hoodie
 Crown Tundra Uniform
@@ -1682,6 +1701,7 @@ TrendyBlack Sneakers
 Fisher Boots
 FireRed Shoes
 Mareanie Shoes
+Geeta-Style Shoes
 Giovanni Shoes
 Gladion Shoes
 Blue-Style Shoes
@@ -1717,6 +1737,7 @@ Steven-Style Shoes
 Steven-Style Shoes(Ruby/Sapphire)
 Paldea Shoes(Scarlet)
 Paldea Shoes(Violet)
+Paldea Sandals(Kitakami)
 Crown Tundra Boots
 Isle of Armor Shoes
 Dark-Type Sport High-Tops
@@ -2008,6 +2029,30 @@ Partner Research: Don Quijote
 Great League Greatness
 2023 Pokémon World Championships, Bonus Timed Research
 DancingRob’s Champion
+Partner Research – Adventures Abound: SoftBank
+Partner Research: SoftBank
+Partner Research: SoftBank (1/4)
+Partner Research: SoftBank (2/4)
+Partner Research: SoftBank (3/4)
+Partner Research: SoftBank (4/4)
+Partner Research – Adventures Abound: Nankai Electric Railway
+Partner Research: Nankai Electric Railway
+Partner Research: Nankai Electric Railway (1/4)
+Partner Research: Nankai Electric Railway (2/4)
+Partner Research: Nankai Electric Railway (3/4)
+Partner Research: Nankai Electric Railway (4/4)
+Partner Research – Adventures Abound: Sumitomo Life Insurance Company
+Partner Research: Sumitomo Life Insurance Company
+Partner Research: Sumitomo Life Insurance Company (1/4)
+Partner Research: Sumitomo Life Insurance Company (2/4)
+Partner Research: Sumitomo Life Insurance Company (3/4)
+Partner Research: Sumitomo Life Insurance Company (4/4)
+Partner Research – Adventures Abound: Taiwan FamilyMart
+Partner Research: Taiwan FamilyMart
+Partner Research: Taiwan FamilyMart (1/4)
+Partner Research: Taiwan FamilyMart (2/4)
+Partner Research: Taiwan FamilyMart (3/4)
+Partner Research: Taiwan FamilyMart (4/4)
 May 2021: Yoshinoya
 Evolve {0} Pokémon.
 Scientist
@@ -2481,6 +2526,36 @@ Defeat the Team GO Rocket Boss.
 Ultra Hero
 Defeat {0} Team GO Rocket members.
 Hero
+Pokémon GO City Safari
+City Safari—Egg-thusiast
+Pokémon GO City Safari
+City Safari—Raid Lover
+Barcelona 2023
+Pokémon GO City Safari
+Barcelona, October 13, 2023
+Pokémon GO City Safari
+Barcelona, October 14, 2023
+Pokémon GO City Safari
+Pokémon GO City Safari
+City Safari—Egg-thusiast
+Pokémon GO City Safari
+City Safari—Raid Lover
+Mexico City 2023
+Pokémon GO City Safari
+Mexico City, November 4, 2023
+Pokémon GO City Safari
+Mexico City, November 5, 2023
+Pokémon GO City Safari
+Pokémon GO City Safari
+City Safari—Egg-thusiast
+Pokémon GO City Safari
+City Safari—Raid Lover
+Seoul 2023
+Pokémon GO City Safari
+Seoul, October 7, 2023
+Pokémon GO City Safari
+Seoul, October 8, 2023
+Pokémon GO City Safari
 Europe, September 16, 2017
 Europe, October 7, 2017
 GO Safari Zone - Europe 2017
@@ -2752,6 +2827,7 @@ Your account has been suspended for violating the Terms of Service.<a href="thre
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.<a href="three_strike_policy_url">Visit the Help Center</a> for more information.
 Account Termination Notice Your account has been permanently terminated for violating the Terms of Service.
 Learn more
+Catch Cup: Barcelona
 <size=36><b>Do you want to transfer {0} Pokémon to the professor?</b></size>You cannot undo this action once you transfer.
 <size=36><b>Only {0} of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
 <size=36><b>Only one of the selected Pokémon can be transferred to the professor.</b></size>Any Pokémon that can’t be transferred will remain in your Pokémon storage. You cannot undo a transfer.
@@ -3538,6 +3614,7 @@ Go, {0}!
 Battle {0} Challengers
 Battle a Challenger
 Battle Showdown
+GO Battle Weekend
 Battle Weekend
 Battle Weekend Challenge
 Battle Weekend Challenge (1/3)
@@ -3685,17 +3762,21 @@ Large numbers of Absol are appearing in the area!
 Bonus currently active!
 Beast Balls available in Ultra Beast raids
 Increased chance of buddy Catch Assist if your Buddy Level is Great Buddy or higher
+Three additional Candy from catching Pikachu, Ditto, Eevee, or Snorlax
 Additional Candy for catching Pokémon with Nice, Great, and Excellent Throws
+Additional Candy for catching Pumpkaboo
 Additional Candy and increased chance of receiving Candy XL for catching Pokémon with Nice, Great, and Excellent Throws
 Event Catch Cup available for local Trainers
 Post-event Catch Cup available in the GO Battle League for Pokémon GO Safari Zone: Singapore 2022 attendees
 Evolve Alolan Graveler to get an Alolan Golem that knows the Fast Attack Rollout
 Evolve Fraxure to get a Haxorus that knows the Charged Attack Breaking Swipe!
+Evolve Charmeleon to get a Charizard that knows the Fast Attack Dragon Breath and the Charged Attack Blast Burn!
 Evolve Quilladin (Chespin’s Evolution) to get a Chesnaught that knows the Charged Attack Frenzy Plant!
 Evolve Zweilous to get a Hydreigon that knows the Charged Attack Brutal Swing
 Evolve Dragonair to get a Dragonite that knows the Charged Attack Draco Meteor!
 Evolve Braixen to get a Delphox that knows the Charged Attack Blast Burn!
 Evolve Frogadier to get a Greninja that knows the Charged Attack Hydro Cannon
+Evolve Charjabug to get a Vikavolt that knows the Fast Attack Volt Switch!
 Evolve Pupitar (Larvitar’s Evolution) to get a Tyranitar that knows the Fast Attack Smack Down!
 Evolve Lampent to get a Chandelure that knows the Charged Attack Poltergeist!
 Evolve Noibat to get a Noivern that knows the Charged Attack Boomburst!
@@ -3710,7 +3791,14 @@ Evolve Ursaring to get an Ursaluna that knows the Charged Attack High Horsepower
 Evolve Togetic to get a Togekiss that knows the Charged Attack Aura Sphere!
 Evolve Galarian Linoone to get an Obstagoon that knows the Charged Attack Obstruct!
 Ultra Bonus: 2× Catch XP and 2× Transfer Candy
+Double Incense Duration
+Choose this bonus to enjoy extended Incense duration for the remainder of your ticketed session
+Double Lucky Egg Duration
+Choose this bonus to enjoy extended Lucky Egg duration for the remainder of your ticketed session
+Double Star Piece Duration
+Choose this bonus to enjoy extended Star Piece duration for the remainder of your ticketed session
 2 Guaranteed Candy XL for evolving Pokémon
+Pokémon: Art through the Ages
 Special event sticker available from spinning PokéStops in the area
 Special event stickers available from spinning PokéStops in the area
 An event-exclusive buddy Souvenir is available!
@@ -3744,6 +3832,7 @@ If Trainers work together to win a Zweilous raid, large numbers of Deino will ap
 Community Day Challenge: Raid
 If Trainers work together to win a Braixen raid, large numbers of Fennekin will appear in the area for 30 minutes
 If Trainers work together to win a Frogadier raid, large numbers of Froakie will appear in the area for 30 minutes
+If Trainers work together to win a Charjabug raid, large numbers of Grubbin will appear in the area for 30 minutes.
 If Trainers work together to win a Lampent raid, large numbers of Litwick will appear in the area for 30 minutes.
 If enough Pokémon are caught with help from a single Lure Module, the 3× XP bonus for catching Pokémon near the Lured PokéStop will become a 4× bonus for 30 minutes.
 Community Day Challenge: Catch
@@ -3774,12 +3863,15 @@ One surprise encounter per day with either Pikachu, Pelipper, or Delibird in GO 
 Large numbers of Absol will appear for 5 minutes at noon
 Rayquaza caught from raids will know the Charged Attack Breaking Swipe
 At the top of each hour, Purrloin will appear in large numbers!
+One additional Candy XL from catching Pokémon in five-star and Mega Raids
+Three additional Candy from catching Pokémon in five-star and Mega Raids
 Three additional Candy XL from catching Pokémon in five-star, Mega, and Primal Raids
 Six additional Candy from catching Pokémon in five-star, Mega, and Primal Raids
 Blaziken caught during this event will know the Charged Attack Blast Burn
 Sceptile caught during this event will know the Charged Attack Frenzy Plant
 Swampert caught during this event will know the Charged Attack Hydro Cannon
 If Trainers participate in a raid together, large numbers of Bug-type Pokémon will appear in the area for 15 minutes
+Wild Oddish may be holding a Sun Stone
 +100 Catch Stardust
 +100 Catch XP
 +200 Catch Stardust
@@ -3819,12 +3911,21 @@ Increased Stardust from defeating Team GO Rocket
 Increased Stardust from defeating the Team GO Rocket Boss
 Increased Stardust from defeating Team GO Rocket Grunts
 Increased Stardust from defeating Team GO Rocket Leaders
+3-hour standard Lure Module duration
+Event-exclusive Timed Research now available
+100 additional Stardust per catch
+Event-themed Pokémon attracted to standard Lure Modules
 Six total Special Trades per day
+Everyone Starts Somewhere: Bonus Timed Research
+Everyone Starts Somewhere
+Bonus Timed Research: Lure Up!
+Lure Up!
 Trades made during the event and up to five hours after will require 50% less Stardust.
 Trades made during the event and up to two hours after will require 50% less Stardust
 Trades made during the event and up to five hours after will require 75% less Stardust
 Bonus unlocked!
 Field Research available from PokéStops twice per day—once before noon and again after noon
+Log in each weekend through the end of 2023 to receive Timed Research that awards Berries, Poké Balls, and Incense!
 Greatly increased chance of receiving Candy XL from catching Pokémon
 Increased chance to receive Candy XL for catching Pokémon with Nice, Great, and Excellent Throws
 Increased Hoppip Candy XL from catching Skiploom
@@ -4136,6 +4237,8 @@ A small bouquet that was made with heart and soul for a single Trainer. It made 
 Small Bouquet
 A thin, small spring that’s totally stretched out.
 Stretchy Spring
+Your buddy left you this compass so you can always find your way back to it.
+Tiny Compass
 A ticket, torn from use and with faded text. Your buddy probably just thought it was neat!
 Torn Ticket
 This tropical flower looks similar to those found in the Alola region. Some Pokémon love to collect flowers!
@@ -5004,6 +5107,7 @@ Community Day: Alolan Geodude
 Community Day: Axew
 Bulbasaur Community Day Classic
 Community Day: Charmander
+Community Day Classic: Charmander
 Community Day: Chespin
 December Community Day 2021
 December Community Day 2021 Weekend
@@ -5021,6 +5125,7 @@ Community Day: Fletchling
 Community Day: Froakie
 Community Day: Gastly
 Community Day: Gible
+Community Day: Grubbin
 Community Day: Hoppip
 Larvitar Community Day Classic
 Community Day: Litwick
@@ -5073,6 +5178,7 @@ You can press the main button on your device to try to spin the PokéStop.
 If you see multicolored lights, you successfully retrieved items from the PokéStop.
 If you see a red or white light, the PokéStop was out of range or your Item Bag was full.
 Complete an AR Mapping task
+COMPLETE ROUTE
 Error completing Route
 Please open Pokémon HOME and finish moving your Pokémon.
 {0} was effective.
@@ -5159,6 +5265,9 @@ You’ll be able to receive Stardust if you open this Gift, but you won’t rece
 COPY MY TRAINER CODE
 Your Trainer Code has been copied!
 Your referral code has been copied.
+Detective Pikachu Returns Event
+Detective Pikachu Returns Event: Timed Research (1/2)
+Detective Pikachu Returns Event: Timed Research (2/2)
 Corphish O’Clock
 At the top of each hour, Corphish will appear in large numbers!
 Event Pokémon hatching from Eggs
@@ -5340,6 +5449,12 @@ Eggstravaganza: Hatch {0} Eggs
 Eggstravaganza
 Failed to edit tag.
 EDIT TAG
+Eevee Explorers – Barcelona
+Eevee Explorers – Barcelona (1/1)
+Eevee Explorers – Mexico City
+Eevee Explorers – Mexico City (1/1)
+Eevee Explorers – Seoul
+Eevee Explorers – Seoul (1/1)
 What's inside?!
 Summary
 Walk to hatch this Egg.
@@ -5379,6 +5494,7 @@ This Technical Machine lets you choose a Charged Attack to teach to a Pokémon.
 Elite Charged TM
 This Technical Machine lets you choose a Fast Attack to teach to a Pokémon.
 Elite Fast TM
+Check out the in-game News to see upcoming events!
 Create tags by tapping +
 No Tags
 Enable sharing info on recently caught Pokémon with friends
@@ -5434,6 +5550,7 @@ Great job this season! Collect your rewards from the GO Battle League.
 Trainer! Only one week left to increase your rank in the GO Battle League this season!
 English
 To add someone to your Friend List, enter their Trainer Code.
+Send a Friend Request by entering or scanning your friend’s Trainer Code.
 Enter tag name
 Equinox
 Avatar incorrect.
@@ -5671,8 +5788,10 @@ Evolve Piloswine to get a Mamoswine that knows Ancient Power
 Evolve Metang to get a Metagross that knows Meteor Mash
 Mythic Blade
 Bonus Event
+Ultra Unlock: Paldea
 Blaze New Trails
 New Pokémon Snap Celebration
+A Paldean Adventure
 Ditto disguised as more Pokémon in the wild
 OK, just like we practiced!
 OK, just like we practiced!
@@ -5779,6 +5898,7 @@ New Misunderstood Mischief Special Research tasks
 Carnaval
 Festival of Colors
 You have successfully registered for {0}!
+City Safari
 Season 10: Rising Heroes
 Current Season: Hidden Gems
 Current Season: Adventures Abound
@@ -5859,6 +5979,7 @@ This Pokémon will exceed the CP limit for some Battle Leagues.
 Evolving Stars
 You don't have any {0} yet!
 Select a friend to invite to the EX Raid.
+Incense may attract Pokémon you wouldn’t see otherwise
 EX Raid scheduled for {0}, {1} at {2} has been canceled.
 Received {0} items from EX Raid.
 Sign in with
@@ -5930,6 +6051,8 @@ Clay-Style Pose
 Rising HeroPose
 Surfing Pose
 Treasure MapPose
+Detective PikachuPose
+Geeta-Style Pose
 Idle
 Level 41 Glasses
 Level 41 Glasses
@@ -5975,6 +6098,7 @@ Festival of Lights: Timed Research (2/2)
 Festival of Lights
 More Blitzle and Dedenne are appearing in the wild
 Event-themed Field Research
+Spun PokéStops can give a second Field Research task after the start of the event
 Unique Field Research tasks are now available at certain PokéStops and Gyms
 Unique Field Research tasks are now available
 Thank you for field-testing Pokémon GO!We will be back soon!
@@ -6076,7 +6200,10 @@ They're excited to have you join as a team member.
 Let's GO!
 Move in the real world to move your avatar.
 Time to walk!
-Double Stardust from your first catch each day
+1.5× XP awarded for your first catch each day
+2× XP awarded for your first catch each day
+1.5× Stardust awarded for your first catch each day
+2× Stardust awarded for your first catch each day
 {0:0.#} {1} walked with Adventure Sync since last login!
 Calories
 Candy Found
@@ -6109,6 +6236,7 @@ Flying Cup available in the GO Battle League
 Flying Cup
 Type Surge: Flying
 Festival of Colors
+FOLLOWED ROUTES
 Blade Forme
 Shield Forme
 Altered Forme
@@ -6475,6 +6603,7 @@ Walk around the World
 Galarian Form
 Gardevoir and Gallade encountered after raids will know Synchronoise
 Evolve a Kirlia into a Gardevoir or a Gallade that knows Synchronoise
+Bonus Event: Let’s Battle!
 2× Stardust for completing a battle set in the GO Battle League
 2× Stardust for ranking up in the GO Battle League
 2× Stardust rewards in the GO Battle League
@@ -6536,6 +6665,7 @@ A ticket to access the Just a Nibble Special Research on June 6, 2021, from 11:0
 Just a Nibble Ticket
 A ticket to access the Searching for Gold Timed Research. This ticket includes your choice of additional encounters with either Caterpie, Magikarp, Nosepass, Sableye, or Barboach. Pokémon that appear while this Timed Research is active have the same chance of appearing as Shiny Pokémon as those that can be encountered via Field Research tasks during the event.This Timed Research will be available on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time. Learn more in the in-game News.You must play during the specified time to receive all the special event bonuses!
 Searching for Gold Timed Research
+A ticket to access the Tails of Adventure Timed Research until October 2, 2023, at 8:00 p.m. local time, wherever you are.  Research rewards include: - Six encounters with Hisuian Growlithe - Five encounters with Growlithe - Two Incubators - One Super Incubator  <b>Please note that Timed Research expires.</b> The tasks associated with this Timed Research must be completed and their rewards must be claimed before Monday, October 2, 2023, at 8:00 p.m. local time.
 A ticket to access the Yamask Timed Research from October 20, 2022, at 10:00 a.m. to November 1, 2022, at 10:00 a.m. local time, wherever you are. This Timed Research features encounters with Yamask. Details can be found in the in-game News.Please note that Timed Research will expire. The tasks associated with Timed Research must be completed and their rewards must be claimed before Tuesday, November 1, 2022, at 10:00 a.m. local time.
 Yamask Timed Research Ticket
 A ticket to access the Mischief Unbound Special Research, wherever you are. Please note that you can instead earn this Special Research at no cost by completing the Misunderstood Mischief Special Research by Wednesday, December 1, 2021, at 9:59 a.m. local time. If you have already earned this Special Research at no cost, you can still purchase this ticket to also get an identical set of tasks and rewards. Details can be found in the in-game News and on the blog.To progress through the Mischief Unbound Special Research story, you will need to have obtained Hoopa from the Misunderstood Mischief Special Research.
@@ -6563,6 +6693,8 @@ A ticket to access the Fennekin Community Day Special Research on May 21, 2023, 
 Fur and Flames
 A ticket to access the Mudkip Community Day Classic Special Research on April 10, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Mudkip Community Day Classic Ticket
+A ticket to access the Timburr Community Day Special Research on October 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.  Research rewards include: - Premium in-game items, such as Rare Candies, Ultra Balls, and more. - Extra encounters with Timburr and its Evolutions.  Details can be found in the in-game News.  <b>You must play during the specified time to receive all the special event bonuses.</b>
+Muscle Memories
 A ticket to access the From Scalchops to Seamitars Special Research on September 19, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 From Scalchops to Seamitars Ticket
 A ticket to access the Community Day Classic: Squirtle Special Research on July 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Research rewards include: - Premium in-game items, such as Rare Candies, Ultra Balls, and more. - Extra encounters with Squirtle and its Evolutions. Details can be found in the in-game News. You must play during the specified time to receive all the special event bonuses.
@@ -6570,6 +6702,10 @@ A ticket to access the Stop and Smell the Roselia Special Research on February 7
 Stop and Smell the Roselia Ticket
 A ticket to access the Gritty and Glacial Special Research on March 13, 2022, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Gritty and Glacial
+A ticket to access the Community Day Classic: Charmander Special Research on September 2, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.  Research rewards include: - Premium in-game items, such as Rare Candies, Ultra Balls, and more - Extra encounters with Charmander and its Evolutions  Details can be found in the in-game News.  <b>You must play during the specified time to receive all the special event bonuses.</b>
+Charmander Community Day Classic Ticket
+A ticket to access the Grubbin Community Day Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.Research rewards include:- Premium in-game items, such as Rare Candies, Ultra Balls, and more.- Extra encounters with Grubbin and its Evolutions.Details can be found in the in-game News.<b>You must play during the specified time to receive all the special event bonuses.</b>
+Plugging Along
 A ticket to access the Flash, Spark, and Gleam Special Research on November 21, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Flash, Spark, and Gleam Ticket
 A ticket to access the Field Notes: Slow and Slower Special Research on March 18, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.You must play during the specified timed to receive all the special event bonuses.
@@ -6586,6 +6722,8 @@ A ticket to access the Sweet Snacks Special Research on November 12, 2022, from 
 Sweet Snacks
 A ticket to access the Roasted Berries Special Research on July 3, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Roasted Berries Ticket
+A ticket to access new Timed Research every Thursday of October. You may complete the Timed Research tasks and claim their rewards until October 31, 2023, at 11:59 p.m. local time. In total, this Timed Research will award the following.  - Three Premium Battle Passes - One Mossy Lure - Encounters with Misdreavus, Phantump, and Pumpkaboo - Two Incubators - Three Silver Pinap Berries - Two Super Incubators - Two Rare Candies ...and more!  The following bonuses will also be available from the date of purchase until Tuesday, October 31, 2023, at 11:59 p.m. local time.  - 1.5× additional XP for your first catch of the day  - 1.5× additional Stardust for your first catch of the day  Details can be found in the in-game News.  <b>You must play during the specified time to receive all the special event bonuses.</b>
+Ticket of Treats
 From Scalchops to Seamitars Ticket
 No Match for Magmar Ticket
 A ticket to access the Togetic Community Day–exclusive Special Research story, Spreading Cheer, on April 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are. Details can be found in the in-game News.You must play during the specified time to receive all the special event bonuses.
@@ -6600,13 +6738,16 @@ Pokémon GO Tour: Johto
 Ticket: Pokémon GO Tour: Johto
 A ticket to access Pokémon GO Fest on July 17 and 18, 2021, from 10:00 a.m. to 6:00 p.m. local time each day, wherever you are. Discounted for this year in celebration of the fifth anniversary of Pokémon GO. Details can be found in the in-game News.YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Pokémon GO Fest 2021 Ticket
+Tails of Adventure Ticket
 A ticket to access the 7th Anniversary Party Timed Research, which includes the following rewards.  - 77,777 XP  - 1 Incubator - 1 Super Incubator - 1 Premium Raid Pass - 1 Lucky Egg - 1 Rocket Radar - 1 Star Piece - 1 Incense - An encounter with Pikachu wearing a party hat  The 7th Anniversary Party Timed Research Ticket will only be available in the in-game shop until July 11, 2023, at 8:00 p.m. local time.  <b>Timed research expires.</b> To receive the rewards, the tasks associated with this Timed Research must be completed and the rewards must be claimed before Wednesday, July 12, 2023, at 8:00 p.m. local time.
 7th Anniversary Party Timed Research Ticket
 A ticket to access Timed Research from Tuesday, June 6, 2023, at 10:00 a.m. to Monday, June 12, 2023, at 8:00 p.m. local time, wherever you are. Research rewards include:- Surfing Pose- An encounter with Sandygast- An encounter with Clauncher- XP, Stardust, Poké Balls, and moreIMPORTANT: Timed Research expires. The Timed Research tasks and their rewards will disappear on Monday, June 12, 2023, at 8:00 p.m. local time. Learn more in the in-game News!<b>You must play during the specified time to receive all special event bonuses.</b>
 Water Festival: Beach Week Timed Research Ticket
 A ticket to access the GO Battle Day: Stardust Timed Research. Tasks will include battling in the GO Battle League 50 times and other battle-themed tasks. Research rewards will include the following.  - 30,000 Stardust - 1 Star Piece - 3 Rare Candies - 3 Rare Candy XL for Trainers level 31 and up   This Timed Research ticket will only be available in the in-game shop until Sunday, July 2, 2023, at 11:59 p.m. local time.  <b>Timed research expires.</b> To receive the rewards, the tasks associated with this Timed Research must be completed and the rewards must be claimed before Sunday, July 2, 2023, at 11:59 p.m. local time.
 GO Battle Day: Stardust Timed Research
-A ticket to access Special Research during Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. This Special Research leads to an exclusive encounter with the Mythical Pokémon Diancie! Bonuses and rewards also include:- Increased chance of encountering Shiny Pokémon- Premium in-game items such as an Elite Charged TM, an Elite Fast TM, a Rare Candy XL, and more- An exclusive avatar pose and avatar item- Up to 9 free Raid Passes from spinning Photo Discs at Gyms- A Meteorite that can be used to teach Rayquaza the Charged Attack Dragon Ascent, allowing it to Mega EvolveDetails can be found in the in-game News.<b>You must play during the specified time to receive all the event bonuses.</b>
+GO Battle Day: Stardust Timed Research
+A ticket to access the GO Battle Day: Stardust Timed Research. Tasks will include battling in the GO Battle League 50 times and other battle-themed tasks. Research rewards will include the following.- 30,000 Stardust- 1 Star Piece- 3 Rare Candies- 3 Rare Candy XL for Trainers level 31 and upThis Timed Research ticket will only be available in the in-game shop until Sunday, October 8, at 11:59 p.m. local time.<b>Timed Research expires.</b> To receive the rewards, the tasks associated with this Timed Research must be completed and the rewards must be claimed before Sunday, October 8, at 11:59 p.m. local time.
+A ticket to access Special Research during Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. This Special Research leads to an exclusive encounter with the Mythical Pokémon Diancie! Bonuses and rewards also include: - Increased chance of encountering Shiny Pokémon - Premium in-game items such as an Elite Charged TM, an Elite Fast TM, a Rare Candy XL, and more - An exclusive avatar pose and avatar item - Up to 9 free Raid Passes from spinning Photo Discs at Gyms - A Meteorite that can be used to teach Rayquaza the Charged Attack Dragon Ascent, allowing it to Mega Evolve  Details can be found in the in-game News.  <b>You must play during the specified time to receive all the event bonuses.</b>
 A ticket to access Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. Details can be found in the in-game News.You must play during the specified time to receive all the event bonuses.
 A ticket to access Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. This Special Research leads to an exclusive encounter with the Mythical Pokémon Diancie!If you purchase this ticket by July 5, 2023, at 11:59 pm local time—and play between June 21 and July 5—you will also receive Timed Research that awards an encounter with Carbink. Be one of the first to discover this special Pokémon!Details can be found in the in-game News.<b>You must play during the specified time to receive all the event bonuses.</b>
 A ticket to access Special Research during Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are. This Special Research leads to an exclusive encounter with the Mythical Pokémon Diancie!Details can be found in the in-game News.<b>You must play during the specified time to receive all the event bonuses.</b>
@@ -6621,6 +6762,8 @@ A ticket to access Masterwork Research that leads to an encounter with one of th
 All-in-One #151 Masterwork Research Ticket
 A ticket to access the following bonuses on Saturday, December 3, 2022, from 2:00 p.m. to 10:00 p.m. local time, wherever you are.Six additional Raid Passes from spinning Photo Discs at GymsIncreased chance to receive Rare Candy XL50% more XP for successfully completing raids2× Stardust for successfully completing raidsDetails can be found in the in-game News. YOU MUST PLAY DURING THE SPECIFIED TIME TO RECEIVE ALL THE SPECIAL EVENT BONUSES.
 Heading to Hoenn Mega Raid Day Ticket
+A ticket to access event-themed Timed Research, which includes the following rewards.  - Two encounters with Pawmi - Pawmi Backpack avatar item - Three Rare Candies - One Incubator - 10 Silver Pinap Berries - 921 Stardust - 9210 XP  Please note that Timed Research expires. The tasks associated with this Timed Research must be completed and their rewards must be claimed before Friday, September 15, 2023, at 8:00 p.m. local time.
+I’ve Got Your Back
 A ticket to access the Willow’s Wardrobe Timed Research, wherever you are. Research rewards include: - Professor Willow–inspired avatar items - An encounter with a Melmetal that knows the Charged Attack Double Iron Bash This Timed Research will be available for purchase until June 1, 2023, at 10:00 a.m. local time, and it will expire on June 30, 2023, at 10:00 a.m. local time. Learn more in the in-game News. You must play during the specified time to receive all the event bonuses.
 Willow’s Wardrobe
 A ticket to access the Adventure Week Timed Research. This ticket includes your choice of additional encounters with Tyrunt or Amaura.Pokémon that appear while this Timed Research is active have the same chance of appearing as Shiny Pokémon as those that can be encountered in the wild during the event.This Timed Research will be available from July 27, 2023, at 10:00 a.m. to August 2, 2023, at 8:00 p.m. local time. Learn more in the in-game News.You must play during the specified time to receive all the special event bonuses!
@@ -6648,6 +6791,8 @@ Error
 GO
 GO TO SHOP
 HP
+Image saved.
+The image could not be saved.
 INCLUDE
 kg
 km
@@ -8123,6 +8268,7 @@ Super Premium Bundle
 Type Surge: Grass
 Great League Remix
 Great Raid Box
+Great Storage Box
 Type Surge: Ground
 Holiday
 I’m sure to win—I have the element of surprise on my side!
@@ -8535,10 +8681,13 @@ Halloween
 Halloween Mischief: Part 1
 Halloween Mischief: Part 2
 Halloween Cup: Ultra League Edition
+Harvest Festival
 Hatch Box
 1.5× Hatch Candy
 2× Hatch Candy
+Azurill can hatch from 2 km Eggs
 Riolu can hatch from 2 km Eggs
+Azurill Hatch Day Timed Research
 Riolu Hatch Day Timed Research
 1.5× Hatch Stardust
 2× Hatch Stardust
@@ -8548,6 +8697,8 @@ https://niantic.helpshift.com/a/pokemon-go/?p=all&s=friends-gifting-trading&f=fr
 https://pokemongo.nianticlabs.com/support/contact/en
 https://niantic.helpshift.com/a/pokemon-go/?p=all&s=top-articles&f=sharing-raid-logs
 https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3325-sharing-game-logs/
+Harvest Festival Collection Challenge: Pumpkaboo
+Harvest Festival Collection Challenge: Smoliv
 Hindi
 Hisui Cup
 Raid Day: Hisuian Avalugg
@@ -8625,9 +8776,9 @@ Time left:
 Type Surge: Ice
 Incense Day
 Beldum attracted to Incense
-Carvanha attracted by Incense
+Carvanha attracted to Incense
 Mareep attracted to Incense
-Sentret lured by Incense
+Sentret attracted to Incense
 Swinub attracted to Incense
 Incense Day: Type Shuffle
 8-hour Incense duration
@@ -8662,10 +8813,12 @@ Unknown battle error.
 One person sent you a Friend Request.
 Increased Adventure Sync rewards next week
 Increased chance of earning Candy XL when adventuring with your Buddy Pokémon
+Kecleon appearing more frequently at PokéStops
 Increased chance of hatching Shiny Pokémon from 2 km, 5 km, and 10 km Eggs
 Increased Stardust from defeating Team GO Rocket Grunts
 Increased Transfer Candy and Transfer Candy XL
 Increased XP in seven-day PokéStop spin streak rewards
+Increased XP for completing Routes
 Increased XP and Stardust in seven-day Pokémon catch streak rewards
 Choose an Egg to incubate.
 1/2 Hatch Distance
@@ -8677,6 +8830,8 @@ A device that incubates an Egg as you walk until it is ready to hatch. Breaks af
 Egg Incubator
 A more powerful Egg Incubator that helps Eggs hatch quickly. Breaks after 3 uses.
 Super Incubator
+Bonus Event: Aao Khele Pokémon GO
+Aao Khele Pokémon GO
 Waktu Indonesia Nangkep
 Pokémon Festival: Jakarta 2022
 Bahasa Indonesia
@@ -8785,8 +8940,10 @@ An item in which Zygarde Cells are gathered. You have {0} Zygarde Cells.
 Zygarde Cube
 A scale that can make certain species of Pokémon evolve. It is very tough and inflexible.
 Dragon Scale
+A ticket to access new Timed Research every Thursday of October, wherever you are.
 A ticket to access Pokémon GO Fest 2023: Global, wherever you are.
 Masterwork Research: Wish Granted
+This ticket will automatically activate to give you access to a collection of Timed Research opportunities until Tuesday, October 31, 2023, at 11:59 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Pokémon GO Fest 2023: Global on August 26 and 27, 2023, wherever you are.
 A ticket to access Masterwork Research that leads to an encounter with the elusive Shiny Jirachi.
 Ticket
@@ -8796,30 +8953,38 @@ A ticket to access Timed Research from October 20, 2022, at 10:00 a.m. to Novemb
 This ticket will automatically activate to give you access to Timed Research from October 20, 2022, to November 1, 2022, wherever you are.
 A ticket to access Special Research on January 22, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on January 22, 2022, wherever you are.
-A ticket to access the Froakie Community Day Special Research on August 13, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access the GO Battle Day: Stardust Timed Research, wherever you are.
 A ticket to access Special Research on May 21, 2022, from 11:00 a.m. to 2:00 p.m. local time, wherever you are.
 A ticket to access the Axew Community Day Special Research, wherever you are.
 A ticket to access Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access the Community Day Classic: Charmander Special Research, wherever you are.
 A ticket to access Special Research on November 5, 2022, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access the Fennekin Community Day Special Research, wherever you are.
+A ticket to access the Froakie Community Day Special Research on August 13, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access the GO Battle Day: Stardust Timed Research, wherever you are.
 A ticket to access the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+A ticket to access Grubbin Community Day Special Research on September 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access a special event from December 19, 2020, at 10:00 a.m. to December 20, 2020, 8:00 p.m. local time, wherever you are.
 A ticket to access the Poliwag Community Day Special Research on July 30, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access the Community Day Classic: Squirtle Special Research, wherever you are.
 A ticket to access the Community Day Classic: Swinub Special Research, wherever you are.
+A ticket to access the Timburr Community Day Special Research on October 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 A ticket to access Special Research on April 15, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to the Special Research story A Bubbly Disposition on August 13, 2023, wherever you are.
+This ticket will automatically activate to give you access to the GO Battle Day: Stardust Timed Research until Sunday, October 8, at 11:59 p.m. local time.
 This ticket will automatically activate to give you access to the Axew Community Day Special Research on Saturday, June 10, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 5, 2022, wherever you are.
+This ticket will automatically activate to give you access to the Charmander Community Day Classic Special Research on September 2, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on November 5, 2022, wherever you are.
 This ticket will automatically activate to give you access to the Fennekin Community Day Special Research on May 21, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the Special Research story A Bubbly Disposition on August 13, 2023, wherever you are.
 This ticket will automatically activate to give you access to the GO Battle Day: Stardust Timed Research on May 14, 2023, between 12:00 a.m. and 11:59 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to the Searching for Gold Timed Research on June 3, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the Plugging Along Special Research on September 23, 2023, wherever you are.
 This ticket will automatically activate to give you access to the Galarian Mr. Mime event from December 19, 2020, at 10:00 a.m. to December 20, 2020, at 8:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to the Slippery Swirls Special Research on July 30, 2023, wherever you are.
 This ticket will automatically activate to give you access to the Squirtle Community Day Classic Special Research on July 23, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to the Community Day Classic: Swinub Special Research on April 29, 2023, from 2:00 p.m. to 5:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the Timburr Community Day Special Research on October 15, 2023, wherever you are.
 This ticket will automatically activate to give you access to Special Research on April 15, 2023, wherever you are.
 A ticket to access Special Research on October 9, 2021, from 11:00 a.m. to 5:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Special Research on October 9, 2021, wherever you are.
@@ -8849,10 +9014,12 @@ This ticket will automatically activate to give you access to Special Research o
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
 Extra Ticket
 An extra event ticket from a purchase error. You can send it to a friend or get it refunded.
-A ticket to access the Adventure Week 2023 Timed Research from July 27, 2023, at 10:00 a.m. to August 2, 2023, at 8:00 p.m. local time, wherever you are.
+A ticket to access the Tails of Adventure Timed Research, wherever you are.
 This ticket will automatically activate to give you access to the 7th Anniversary Party Timed Research until Wednesday, July 12, 2023, at 8:00 p.m. local time, wherever you are.
-This ticket will automatically activate to give you access to the Adventure Week 2023 Timed Research from July 27, 2023, at 10:00 a.m. to August 2, 2023, at 8:00 p.m. local time, wherever you are.
+A ticket to access the Adventure Week 2023 Timed Research from July 27, 2023, at 10:00 a.m. to August 2, 2023, at 8:00 p.m. local time, wherever you are.
+This ticket will automatically activate to give you access to the Tails of Adventure Timed Research until Monday, October 2, 2023, at 8:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to the 7th Anniversary Party Timed Research until Wednesday, July 12, 2023, at 8:00 p.m. local time.
+This ticket will automatically activate to give you access to the Adventure Week 2023 Timed Research from July 27, 2023, at 10:00 a.m. to August 2, 2023, at 8:00 p.m. local time, wherever you are.
 Ticket
 Pass to join a Raid Battle. You can get a free pass at Gyms once per day if you don't already have one.
 Raid Pass
@@ -8864,14 +9031,15 @@ A rare stone that originates from the Unova region that can make certain species
 Unova Stone
 You can use this to track down Team GO Rocket Headquarters where their Boss might be!
 Super Rocket Radar
-A ticket to access the Masterwork Research All-in-One #151, wherever you are.
+A ticket to access Timed Research from Sunday, September 10, 2023, at 10:00 a.m. to Friday, September 15, 2023, at 8:00 p.m. local time, wherever you are.
 A ticket to access the Water Festival: Beach Week Timed Research.
 A ticket to access the Special Research Starry Skies, wherever you are.
 A ticket to access the Willow’s Wardrobe Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
-This ticket will automatically activate to give you access to the Masterwork Research All-in-One #151 on Thursday, July 6, 2023, at 10:00 a.m., wherever you are.
+This ticket will automatically activate to give you access to the Timed Research I’ve Got Your Back, wherever you are.
 This ticket will automatically activate to give you access to the Water Festival: Beach Week Timed Research from Tuesday, June 6, 2023, at 10:00 a.m. to Monday, June 12, 2023, at 8:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses.Select a team to participate in Primal Surge hourly challenges!
 This ticket will automatically activate to give you access to Pokémon GO Tour: Hoenn’s special bonuses!
+This ticket will automatically activate to give you access to the Masterwork Research All-in-One #151 on Thursday, July 6, 2023, at 10:00 a.m., wherever you are.
 This ticket will automatically activate to give you access to the Special Research Starry Skies from Friday, June 16, 2023, at 10:00 a.m. to Sunday, June 25, 2023, at 8:00 p.m. local time, wherever you are.
 This ticket will automatically activate to give you access to a special event on February 26, 2022, wherever you are in the world.You can see the event version you chose in your Trainer profile’s Medals section.
 This ticket will automatically activate to give you access to Timed Research from March 1, 2023, to June 30, 2023, wherever you are.
@@ -9931,7 +10099,7 @@ Lunar New Year: Catch Challenge
 Lunar New Year
 Lunar New Year: Friendship Challenge
 4-hour Lure Module duration
-6-Hour Lure Module duration
+6-hour Lure Module duration
 2× Lure Module duration
 Lure Module duration increased
 90-minute Lure Module duration
@@ -10000,6 +10168,8 @@ Clay-Style Pose
 Rising HeroPose
 Surfing Pose
 Treasure MapPose
+Detective PikachuPose
+Geeta-Style Pose
 Idle
 Jogger Sunglasses
 Level 41 Glasses
@@ -10282,7 +10452,7 @@ Speed
 {0}-type attacks are now boosted!
 A Mega Moment
 Walking Progress
-Built at 2023-09-08T08:09:58.647032at SHA abedd456fa33f1749c1b73b689b06e1e22fe245bPipeline 1736915, job 21075377
+Built at 2023-10-17T20:57:13.936757at SHA e295afa3e17f1349b4a1bb2e22a722ecf66ae436Pipeline 1838232, job 22276469
 Timed Research: Choose Your Fighting Type
 Timed Research: Choose Your Fighting Type (1/3)
 Timed Research: Choose Your Fighting Type (2/3)
@@ -10294,6 +10464,7 @@ Middleweight: Choose Machamp
 Choose this path for an encounter with the Superpower Pokémon Machamp, as well as Machop Candy, XP, and Stardust rewards.
 Heavyweight: Choose Hariyama
 Choose this path for an encounter with the Arm Thrust Pokémon Hariyama, as well as Makuhita Candy, XP, and Stardust rewards.
+Catch Cup: Mexico City
 MILESTONE REWARDS
 Spring into Spring 2021 Collection
 Friendship Day Collection Challenge
@@ -10671,6 +10842,9 @@ Magma Storm
 Geomancy
 Spacial Rend
 Oblivion Wing
+Triple Axel
+Trailblaze
+Scorching Sands
 {0} will forget {1}.
 {0} will forget
 {0} learned a new attack!
@@ -10805,6 +10979,8 @@ Nearby
 Check the nearby list for other Pokémon.
 The Pokémon fled!
 View
+{0:0.0} km away
+{0:0} m away
 LOCAL ONLY
 A Raid Egg has appeared at a nearby Gym!
 There's a Raid Battle about to start near you!
@@ -10867,6 +11043,8 @@ Evolving Stars: Eevee Challenge
 Evolving Stars: Trade Challenge
 Evolving Stars: Unova Challenge
 Evolving Stars: Sinnoh Challenge
+Detective Pikachu Returns Collection Challenge
+Oddish Research Day
 Old Friends, New Beginnings Timed Research
 Old Friends, New Beginnings
 Accept
@@ -10905,12 +11083,14 @@ Will you help me with my research?
 That’s great!
 You’ll need to find and collect Pokémon from everywhere.
 Choose your style to start your adventure!
-1 route
+1 Route
 Anniversary Box
 Your online status will let friends know when you are available for Trainer Battles.
 Open
 Open Gifts when Item Bag is full
 Allows you to open Gifts when your Item Bag is full. You may still receive Stardust, but you won’t receive other items.
+LOCATION
+Route Paused Here
 Open Settings
 Enjoy these free items from <b>{0}</b>!
 Open Gift
@@ -10919,6 +11099,8 @@ Watch Video
 You can open a sponsored AR experience to earn some items!
 Open AR
 Other
+Out to Play: Timed Research
+Out to Play
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.To get more passes, visit the shop.
 A Premium Battle Pass can be used to join a Raid Battle or earn premium rewards in the GO Battle League.To get more passes, visit the shop.
 A Premium Battle Pass can be used to join a Raid Battle or enter the premium GO Battle League.
@@ -10932,6 +11114,7 @@ Premium Battle Pass
 {0} and {1} have opened your Gifts!
 {0} and {1} have saved your Postcards!
 {0} and {1} sent you Gifts!
+Paldean Form
 Try again through Settings or the Poké Ball Plus icon.
 Poké Ball Plus not enabled
 Let your Poké Ball Plus count your steps and help you find nearby Pokémon and spin nearby PokéStops!
@@ -10944,6 +11127,146 @@ Limited Partner Research: Amazon Prime Gaming (1/2)
 Limited Partner Research: Amazon Prime Gaming (2/2)
 You have no more room in your party.
 Me, You, and Pikachu!
+Party Power activated
+{0} used {1} with Party Power
+Party Power!
+Activities
+Favorite
+Special
+Pokémon
+General
+Adventure
+Throws
+Battle
+Total Trainer Battles Won: <color=#F2A64B>{0}</color>
+Total Gym Battles Won: <color=#F2A64B>{0}</color>
+Total Pokémon Caught: <color=#F2A64B>{0}</color>
+<color=#F2A64B>{0}</color> Shiny Pokémon Caught
+Normal-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Fighting-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Flying-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Poison-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Ground-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Rock-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Bug-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Ghost-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Steel-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Fire-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Grass-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Water-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Electric-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Psychic-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Ice-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Dragon-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Dark-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+Fairy-Type Pokémon Caught: <color=#F2A64B>{0}</color>
+XXS Pokémon Caught: <color=#F2A64B>{0}</color>
+XXL Pokémon Caught: <color=#F2A64B>{0}</color>
+Unique PokéStops Visited: <color=#F2A64B>{0}</color>
+Field Research Tasks Completed: <color=#F2A64B>{0}</color>
+Total KM Explored: <color=#F2A64B>{0}</color>
+Total Eggs Hatched: <color=#F2A64B>{0}</color>
+Total Candy Earned: <color=#F2A64B>{0}</color>
+Total Throws: <color=#F2A64B>{0}</color>
+Total Excellent Throws: <color=#F2A64B>{0}</color>
+Total Great Throws: <color=#F2A64B>{0}</color>
+Total Nice Throws: <color=#F2A64B>{0}</color>
+Total Raids Won: <color=#F2A64B>{0}</color>
+Total Team GO Rocket Battles Won: <color=#F2A64B>{0}</color>
+Total Trainer Battles Won
+Total Gym Battles Won
+Total Pokémon Caught
+Shiny Pokémon Caught
+Normal-Type Pokémon Caught
+Fighting-Type Pokémon Caught
+Flying-Type Pokémon Caught
+Poison-Type Pokémon Caught
+Ground-Type Pokémon Caught
+Rock-Type Pokémon Caught
+Bug-Type Pokémon Caught
+Ghost-Type Pokémon Caught
+Steel-Type Pokémon Caught
+Fire-Type Pokémon Caught
+Grass-Type Pokémon Caught
+Water-Type Pokémon Caught
+Electric-Type Pokémon Caught
+Psychic-Type Pokémon Caught
+Ice-Type Pokémon Caught
+Dragon-Type Pokémon Caught
+Dark-Type Pokémon Caught
+Fairy-Type Pokémon Caught
+XXS Pokémon Caught
+XXL Pokémon Caught
+PokéStops Visited
+Field Research Tasks Completed
+Total KM Explored
+Total Eggs Hatched
+Total Candy Earned
+Total Throws
+Total Excellent Throws
+Total Great Throws
+Total Nice Throws
+Total Raids Won
+Total Team GO Rocket Battles Won
+Activity Summary
+Bonuses
+Keep track of activities using favorites!
+Favorite Activities
+You cannot explore Routes when you’re in a party.
+Choose a Party Challenge and complete it with your party to earn a reward!
+The party could not be found.
+Copied
+Create
+A Trainer has left the party. Parties require at least two Trainers to continue.
+Party Has Ended
+The party lobby has expired.
+Invite
+Invite another Trainer to join!
+Join Party
+The party is full.
+Error. Please try again.
+You need to be near the host to join.
+You must be friends with the host to join.
+You need to be near the host before scanning or entering the party code.
+Find the Host
+Leave Party
+You can rejoin the party by entering the party code while you’re near the host.
+Are you sure you want to leave the party?
+Party Members
+???
+You cannot follow a Route while you’re in a party. If you choose to join a party, your Route will be paused.
+Do you want to pause your Route to join a party?
+You cannot create a Route while you’re in a party. If you choose to join a party, Route creation will be paused.
+Do you want to pause Route creation to join a party?
+Waiting for {0} to start the party...
+Your party completed the Party Challenge! Claim your reward!
+Start
+{0} is selecting a Party Challenge...
+Select a Party Challenge.
+Party Code
+Enter a party code to join a party. You must be near the host to join.
+{0}’s Party
+Communicate with party members using reactions! Tap on your party member icon on the map to view your available reactions.
+Use Fast Attacks in raids with other party members to get Party Power, which increases the damage of your next Charged Attack.Party Power charges more quickly with more party members.
+Party Power
+PARTY PLAY RAIDS
+Scan the party’s QR code.
+See All Activities
+Show In-Game Notifications During Party Play
+Parties require at least two Trainers.
+{0} has left the party. {1} is now the host.
+{0} has joined the party.
+{0} has left the party.
+Get party bonuses and earn rewards while playing with other Trainers!
+What is a party?
+Earn rewards for completing Party Challenges with your party!
+Party Challenge
+You are too far from the host. To rejoin the party, enter the party code while you’re near the host.
+You have left the party.
+You are now near the host.
+You must be near the host to remain in the party. You’ll be removed if you go too far.
+OK
+Too far from {0}
 Received medal from code {0}.
 Received {0} items from code {1}.
 Code Redeemed
@@ -11000,6 +11323,7 @@ Pokémon GO Plus unpaired.
 Weak signal. Get closer to the device.
 Photo saved
 The photo could not be saved.
+Chance for a surprise encounter with Pikachu in GO Snapshot
 5 surprise encounters with Abra in GO Snapshot
 5 surprise encounters with Alolan Geodude in GO Snapshot
 5 surprise encounters with Axew in GO Snapshot
@@ -11017,6 +11341,7 @@ The photo could not be saved.
 5 surprise encounters with Froakie in GO Snapshot
 5 surprise encounters with Gastly in GO Snapshot
 5 surprise encounters with Gible in GO Snapshot
+5 surprise encounters with Grubbin in GO Snapshot
 5 surprise encounters with Hoppip in GO Snapshot
 5 surprise encounters with Larvitar in GO Snapshot
 5 surprise encounters with Litwick in GO Snapshot
@@ -11049,6 +11374,7 @@ The photo could not be saved.
 Chance for a surprise encounter with Oranguru in GO Snapshot
 5 surprise encounters with Pikachu wearing a safari hat in GO Snapshot
 Event-themed surprise encounters in GO Snapshot
+Chance for a surprise encounter with Torkoal in GO Snapshot
 Welcome to Team Mystic!
 Welcome to Team Valor!
 Welcome to Team Instinct!
@@ -14909,6 +15235,7 @@ PokéStop will close soon.  No modules can be added.
 You're out of range of the PokéStop.
 PokéStop Module
 Your Item Bag is full.
+ITEM BAG IS FULL
 Your Item Bag is full, or you're out of range of the check-in location.
 Try again later.
 Collect more PokéStop modules!
@@ -15096,6 +15423,7 @@ Sign in
 Pokémon Trainer Club
 Trainer Club
 Register
+Pumpkaboo attracted to Mossy Lure Modules
 If you scan a location, its location points will increase. When the location is powered up, it’ll provide bonuses to nearby Trainers depending on its level.
 Location Power-Up
 Get bonuses from powered-up PokéStops and Gyms! Each level has different bonuses.
@@ -15192,6 +15520,7 @@ Evolve {0} Braixen
 Field Research completed!
 Mystery items
 Stardust
+Earn a heart with your buddy on {0} different days
 Earn a heart with your buddy {0} days in a row
 Battle another Trainer with your Buddy Pokémon while it’s adventuring with you {0} times
 Battle another Trainer with your Buddy Pokémon while it’s adventuring with you
@@ -15237,14 +15566,22 @@ Catch a Legendary or Mythical Pokémon
 Catch {0} Lunatone
 Catch {0} Luvdisc
 Catch {0} Normal-, Water-, or Ice-type Pokémon
+Catch {0} Nymble
 Catch {0} Pikachu
 Catch {0} different species of Pokémon
 Use Daily Adventure Incense to help catch {0} Pokémon
+Catch a Pokémon on {0} different days
+Catch {0} Pokémon in Great Balls
+Catch a Pokémon in a Great Ball
 Catch {0} Pokémon
+Catch {0} Pokémon in Poké Balls
+Catch a Pokémon in a Poké Ball
 Catch {0} Pokémon while following Routes
 Catch a Pokémon while following a Route
 Catch a Pokémon
 Catch Pokémon
+Catch {0} Pokémon in Ultra Balls
+Catch a Pokémon in an Ultra Ball
 Catch {0} Psychic- or Steel-type Pokémon
 Catch a Regirock, Regice, or Registeel from a raid
 Catch a Regice from a raid
@@ -15423,6 +15760,7 @@ Catch {0} Whismur
 Change the form of {0} Pokémon
 Change the form of a Pokémon
 Use {0} Charged Attacks
+Evolve {0} Charjabug
 Catch {0} Charmander
 Catch {0} Charmeleon
 Evolve {0} Charmander
@@ -15485,6 +15823,7 @@ Roasted Berries
 Travel to the end of {0} unique Routes
 A Hairy Situation
 From A to Zygarde
+Evolve a Crocalor
 Daily Bonus
 Catch {0} Pokémon featured during 2021’s Community Days
 Catch {0} Pokémon featured during December Community Day 2022
@@ -15675,6 +16014,16 @@ Catch {0} Bulbasaur or Chikorita
 Catch {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
 Evolve {0} Grass-type Pokémon
+Take a snapshot of your Eevee in Barcelona
+Take a snapshot of your Eevee in Mexico City
+Take a snapshot of your Eevee in Seoul
+Spin 10 PokéStops or Gyms you haven’t visited before
+Spin the PokéStop at any Eevee Explorer location
+Spin {0} PokéStops at Eevee Explorers locations that you haven’t visited before
+Spin a PokéStop at an Eevee Explorers location that you haven’t visited before
+Spin a PokéStop or Gym in Barcelona
+Spin a PokéStop or Gym in Mexico City
+Spin a PokéStop or Gym in Seoul
 Evolve one Abra
 Evolve one Aipom
 Evolve one Amaura
@@ -16112,11 +16461,13 @@ First PokéStop of the Day
 Catch {0} Fletchling
 Evolve {0} Fletchling
 Evolve {0} Fletchinder
+Evolve a Floragato
 Evolve {0} Fraxure
 Catch {0} Froakie
 Evolve {0} Froakie
 Take a snapshot of {0} Froakie
 Evolve {0} Frogadier
+Evolve a Fuecoco
 Achieve rank {0} in the GO Battle League
 Achieve rank 15 in the GO Battle League
 Achieve rank 5 in the GO Battle League
@@ -16312,6 +16663,9 @@ Take a photo in the Team Instinct habitat
 Take a photo in the Team Mystic habitat
 Take a photo in the Team Valor habitat
 Take a photo in the Professor Willow habitat
+Catch {0} Grubbin
+Evolve {0} Grubbin
+Take a snapshot of {0} Grubbin
 Catch {0} Gastly
 Evolve {0} Gastly
 Evolve {0} Haunter
@@ -16489,6 +16843,8 @@ Primal Surge: Win a raid
 Catch {0} Abra or Drowzee
 Catch {0} Psychic-type Pokémon
 Evolve {0} Exeggcute or Slowpoke
+Evolve a Quaxly
+Evolve a Quaxwell
 Evolve {0} Quilladin
 Raid with a friend
 Battle in {0} raids with your buddy
@@ -16581,6 +16937,7 @@ Take {0} snapshots of Keldeo
 Take a snapshot of Landorus
 Take a snapshot of your Machamp
 Take a snapshot in Okinawa
+Take a snapshot of a wild Poison-type Pokémon
 Take a snapshot of Regice
 Take a snapshot of Regirock
 Take a snapshot of Registeel
@@ -17318,6 +17675,30 @@ It appears that Celebi has safely returned from the past to stay with you. Looks
 I'll bet by next weekend the park will have returned to its old self! Celebi is truly a wondrous Pokémon!
 Thanks for all your help today! We couldn't have done it without you.
 This weekend will be one to remember!
+Hello, %PLAYERNAME%!
+I take it you’ve noticed the influx of Grubbin in the area today.
+These Pokémon spit sticky threads to stop opponents in their tracks—so you’d be wise to stay on their good side!
+Grubbin generally live underground, though... I wonder what’s lured them to the surface today. Can you catch a few to investigate?
+Perhaps it’s simply strength in numbers. Grubbin’s natural enemies sometimes prefer fleeing over risking a run-in with the Larva Pokémon’s powerful mandibles—or worse, an unexpected shock!
+Welcome back, %PLAYERNAME%! Have you discovered why so many Grubbin have appeared above ground today?
+I’ve also heard Grubbin loves snacking on sweet tree sap. Do you think it tastes anything like Pinap Berry juice?
+Maybe I’d better try some myself... Y-you know, for science!
+Ahem. Grubbin is certainly a fascinating Pokémon, but just wait till you see its Evolution.
+Why don’t you go ahead and evolve a Grubbin yourself, %PLAYERNAME%?
+Nice Charjabug, %PLAYERNAME%!
+Charjabug can store electricity in its body to use later. Apparently it’s a popular companion on camping trips!
+It also like to bury itself in fallen leaves and munch away on the rich topsoil beneath.
+Tread carefully out there, %PLAYERNAME%—you and Charjabug might be equally shocked if you step on one!
+Nobody likes to be interrupted while they’re lost in the feed.
+Anyway, you’re sure to be impressed by Charjabug’s electric power. Its mandibles may be smaller than Grubbin’s, but don’t let that fool you into thinking it’s a pushover!
+You know, Charjabug can evolve too. I’ve never witnessed its Evolution myself, but I’ve heard it’s quite a sight!
+Why don’t you try evolving your Charjabug, %PLAYERNAME%?
+Wow—it’s Vikavolt!
+Who would have thought that a little Grubbin would eventually evolve into this stunning, winged creature?
+Vikavolt builds up electricity in its abdomen, focuses it through its jaws, and then fires the electricity off in concentrated beams.
+They’ve also been known to carry Charjabug to use as spare batteries, allowing Vikavolt to rapidly fire off fully powered attacks.
+It sounds a bit intimidating, but it’s also a lovely example of two Pokémon working in tandem. Inspiring stuff, if you ask me!
+Who knows—maybe your Vikavolt will act as a battery of sorts and keep YOU charged up while adventuring together! I’m looking forward to hearing all about it. Until next time, %PLAYERNAME%!
 Hey there, %PLAYERNAME%! I’m glad you’re here. Something odd is happening, and I need your help investigating it.
 While I was on a walk last night with my Buddy Pokémon, Meltan, I noticed a strange light flickering in my mobile lab. It was so spooky! One might’ve called it...a ghastly sight!
 Apparently, some Gastly were in my mobile lab hiding from the wind. It’s common for them to take shelter when massive gusts are blowing about so their gaseous bodies aren’t blown away.
@@ -19597,7 +19978,9 @@ Spin 151 PokéStops or Gyms
 Visit PokéStops {0} days in a row
 Spin {0} PokéStops in Mexico
 Spin a PokéStop in Mexico
+Visit PokéStops on {0} different days
 Spin the Gym marked “Ultra Wormhole”
+Evolve a Sprigatito
 Catch {0} Squirtle
 Evolve {0} Squirtle
 Take {0} snapshots of Squirtle
@@ -19658,6 +20041,12 @@ Evolve {0} Tepig
 Evolve {0} Pignite
 {0} days left to complete this Special Research
 {0} day left to complete this Special Research
+Hello, %PLAYERNAME%! I see you, too, have been caught up in the detective craze. Those Pikachu are quite cute in their hats, eh?
+In the spirit of detective work, I’ve devised a little deduction game for you. I call it—Pokémon of Interest!
+I’m going to give you a couple clues, and you’ll have to deduce which Pokémon I’m talking about. Here we go!
+This Pokémon is known for its green accents, but it’s a type of Pokémon that hasn’t been appearing around here recently.
+It also peddles in deception. You might say it’s not what it seems!
+What do you think, %PLAYERNAME%? Any ideas? If your deduction is correct, you may just earn some personal congratulations from one of the local Pokémon!
 April Fools’ 2-Oh?-22
 April Fools’ 2-Oh?-22 (1/3)
 April Fools’ 2-Oh?-22 (2/3)
@@ -19705,6 +20094,12 @@ A Ripple in Time (5/8)
 A Ripple in Time (6/8)
 A Ripple in Time (7/8)
 A Ripple in Time (8/8)
+Community Day Classic: Charmander
+Community Day Classic: Charmander (1/5)
+Community Day Classic: Charmander (2/5)
+Community Day Classic: Charmander (3/5)
+Community Day Classic: Charmander (4/5)
+Community Day Classic: Charmander (5/5)
 A Tale of Tails
 A Tale of Tails (1/5)
 A Tale of Tails (2/5)
@@ -19796,6 +20191,11 @@ GO Fest 2018 (2/5)
 GO Fest 2018 (3/5)
 GO Fest 2018 (4/5)
 GO Fest 2018 (5/5)
+Plugging Along
+Plugging Along (1/4)
+Plugging Along (2/4)
+Plugging Along (3/4)
+Plugging Along (4/4)
 The Great Gastly
 The Great Gastly (1/4)
 The Great Gastly (2/4)
@@ -20448,6 +20848,8 @@ Transfer {0} Psychic-type Pokémon
 Transfer {0} Rock-type Pokémon
 Transfer {0} Steel-type Pokémon
 Transfer {0} Water-type Pokémon
+Walk {0} km while traveling Routes
+Walk {0} m while traveling Routes
 Professor Willow is currently performing an investigation regarding this research. Check back for more details soon!
 Research Day: Battle in a Gym
 Research Day: Battle in a raid
@@ -20500,6 +20902,7 @@ Walk 25 km in one week using Adventure Sync {0} times
 Earn {0} Candies walking with your buddy
 Earn a Candy walking with your buddy
 Walk 10 km with Eevee as your buddy to earn Candy
+Tails of Adventure
 Walk {0} km
 Walk {0} km
 Walk {0} km while following Routes
@@ -22357,16 +22760,19 @@ ABOUT THIS ROUTE
 ACTIONS
 If you start a new Route, you will lose your current progress on {0}.
 If you restart this Route, you will lose your current progress.
-Do you want to start a new route?
-Do you want to restart this route?
+Do you want to start a new Route?
+Do you want to restart this Route?
 Error setting end point
 SHOW MORE {0}
 COMMUNITY TRIPS
+Congratulations!
 You explored this Route{0} times!
 You explored this Routeone time!
 Great job!
-You must wait 1 hour to play this route.
-You must wait {0} hours to play this route.
+Verifying Route progress. Please wait and try again.
+Zygarde Cells will no longer appear once you complete this Route.
+Are you sure you want to complete this Route?
+Cannot end path recording because you are not at the end point.
 You must wait {0} hours and {1} minute to follow this Route.
 Available Route Actions:
 You cannot follow a Route while Route creation is in progress.
@@ -22377,42 +22783,48 @@ This action cannot be undone. All progress made on this Route will be lost. To s
 You quit Route creation.
 Quit Route Creation
 Choose New End Point
+OPEN IN MAP
 Pause Route Creation
 Place a Pin
 Resume Route Recording
 Choose End Point
 You have a Route in progress.
-Route creation in progress. 
-If you aren’t ready to record, you can pause your Route creation session and resume it later via the Route section of your Trainer profile.
+Route creation in progress.
+You are near the start point, so the next step is to record your path. If you aren’t ready, you can pause Route creation and resume it later via the Route section of your Trainer profile.
 Pause Route Creation
-You’re near the start point you selected. Are you ready to record the path for your Route?
-You are near the end point you selected. Are you done recording?
+Are you ready to record the path for your Route?
+Are you done recording the path for your Route?
 CONTINUE RECORDING
 YES, I’M DONE
-If you would like to extend your Route, you can continue recording and return to this PokéStop later.
-Route creation has ended. 
-Navigate to this PokéStop to finish recording your Route. You can change the end point while recording.
-Select a PokéStop to be your
+You are near the end point, so you can stop recording your Route path. If you would like to extend your Route, you can continue recording and return to this end point later.
+Route creation has ended.
+Your recorded path must lead from the start point to this end point. You can change the end point at any time.
+Select a PokéStop or Gym to be your
+Select a PokéStop or Gym from the map to be your end point.
 Route end point.
-Navigate to this PokéStop to finish recording your Route. You can change the end point while recording.
-Select a PokéStop to be your new
+Your recorded path must lead from the start point to this new end point. You can change the end point at any time.
+Select a PokéStop or Gym to be your new
+Select a PokéStop or Gym from the map to be your new end point.
 Route end point.
-Navigate to this PokéStop to begin recording your Route.
-Select a PokéStop to be your new
+Path recording will begin after you reach this new start point. You cannot change the start point after path recording begins.
+Select a PokéStop or Gym to be your new
+Select a PokéStop or Gym from the map to be your new start point.
 Route start point.
-Navigate to this PokéStop to begin recording your Route.
-Select a PokéStop to be your
+Path recording will begin after you reach this start point. You cannot change the start point after path recording begins.
+Select a PokéStop or Gym to be your
+Select a PokéStop or Gym from the map to be your start point.
 Route start point.
+You’ve already edited this Route submission. Route submissions can only be edited once.
 Route has invalid start point.
 Failed to start Route creation.
-No more Routes can be submitted at this time. Please wait to try again. 
+No more Routes can be submitted at this time. Please wait to try again.
 Cannot perform requested action.
 Navigate to your Route’s start point to begin recording the path.
 CREATED
 Your Route has exceeded the maximum length, so Route creation has ended.
 Route creation has ended.
 SEE OPTIONS
-Route creation will automatically stop if your Route exceeds the maximum length. 
+Route creation will automatically stop if your Route exceeds the maximum length.
 End your Route soon, or you may lose your current progress.
 Your Route is nearing the maximum length.
 Maximum length: {0} kmCurrent length: <color=#F2A64B>{1} km</color>
@@ -22420,6 +22832,8 @@ You are near the end point you selected, but your path is too short.
 Extend your Route either by resuming recording and returning to this end point later or by selecting a new end point.
 Your Route does not meet the minimum required length.
 Minimum length: {0}Current length: <color=#F2A64B>{1}</color>
+Your path must be at least {0} km to end recording.
+Cannot start path recording because you are not at the start point.
 You have selected the same PokéStop as your start and end point. This will create a loop Route. To finish a loop Route, return to your start point when you’re ready to stop recording your path.
 Loop Route
 Create a Route in three easy steps!1. Select the start point and end point.2. Walk between these points.3. Name and describe your Route!
@@ -22433,13 +22847,24 @@ Review Process
 Pause Route
 Are you sure you want to pause Route creation?
 Your progress will be saved. Return to this location to resume recording the path for your Route.
+SKIP FOR NOW
+END
+PAUSE
+RESUME
+START RECORDING
+Path Recording:
+You are at the Route end point. Open the path recording page to finish recording your Route path.
+You are at the Route start point. Open the path recording page to begin recording your Route path.
+Active
+Not Started
+Paused
 RESUME ROUTE CREATION
-Enable Adventure Sync to resume Route creation. 
+Enable Adventure Sync to resume Route creation.
 RESUME RECORDING
 SELECT NEW END POINT
 Selected start and end points:
+Start Recording
 Cannot begin recording. You are not near your start point.
-DEBUG CREATION SUBMIT
 ROUTE CREATOR
 Creator Statistics
 This Route has been archived.
@@ -22447,6 +22872,7 @@ The Route {0} was archived due to disuse.Archived Routes will remain visible on 
 The Route {0} has been archived.
 DELETE ROUTE
 This Route was rejected.
+DELETE SUBMISSION
 WITHDRAW SUBMISSION
 End point:
 Start point and end point:
@@ -22457,7 +22883,6 @@ New
 Official
 Popular
 Distance Walked on Route
-CONTINUE EDITING
 {0} was deleted.
 SAVE CHANGES
 DON’T SAVE
@@ -22490,6 +22915,7 @@ First Followed
 Preview
 ROUTE
 Routes
+({0} min)
 {0} km
 Last Followed
 https://niantic.helpshift.com/hc/faq/4184-routes-faq/
@@ -22497,17 +22923,17 @@ Route Level {0}
 Route {0}
 This Route took too long to load. Please try again.
 {0} m
-You are too far away from this area
+You are too far away from this area.
 Badge
 ROUTE BADGES
 Name
 Recent
 {0} mins
 Return to the location where you paused to resume recording.
-The route created by NIANTIC partners has this label.
-{0} routes
+Routes created by NIANTIC partners have this label.
+{0} Routes
 SEE NEARBY ROUTES ({0})
-NEARBY ROUTE ({0})
+NEARBY ROUTES ({0})
 This Route is not currently available.
 You can’t travel this Route because it is too far away.
 PAUSE ROUTE
@@ -22516,25 +22942,27 @@ Route Creation Paused
 Pin Title:
 Select Pin to Add
 Edit Pin Title
-Route in progress. 
-You earned a Bronze Route Badge! 
-You earned a Gold Route Badge! 
-You earned a Silver Route Badge! 
-You earned a Route Badge! 
+Route in progress.
+You earned a Bronze Route Badge!
+You earned a Gold Route Badge!
+You earned a Silver Route Badge!
+You earned a Route Badge!
 Route complete!
-You have reached the end point, but you have not traveled far enough to complete the Route. 
+You have reached the end point, but you have not traveled far enough to complete the Route.
 Please resume the Route and return to the end point when you have traveled the complete distance.
 Route Length: {0}Your Travel Distance: <color=#F2A64B>{1}</color>
 Route requirements not yet met
 Route preview map currently unavailable.
 Nearing end point!
 Open Pokémon GO to complete the Route.
+Followed
 FOLLOW ROUTE
 You may encounter issues completing this Route if you decide to follow it at this time.
 You may not be able to access some PokéStops on this Route by the time you arrive.
 FOLLOW
 If you experienced an issue, you can report the Route for Niantic to review.
 Did you experience any issues on this Route?
+There are no Routes nearby. Browse Campfire to find Routes that are further away.
 You must return to this location to resume this Route.
 Are you sure you want to pause the Route?
 Your Route was automatically paused because your location could not be established. Get closer to the path to resume the Route.
@@ -22551,7 +22979,6 @@ Pokémon Caught on Route
 PUBLISHED ROUTES
 PUBLISHED ROUTES
 QUIT ROUTE
-Did you enjoy this route?Can you rate this route?
 {0}%
 Art
 Recording paused.
@@ -22562,13 +22989,13 @@ Are you sure you want to delete this Route?
 This Route will be removed from your Created Routes list.
 This Route was successfully deleted.
 EDIT AND RESUBMIT
-This Route was rejected
-When you report a route to Niantic, we review the report and take appropriate action in line with our policies. Your identity will never be shared with the Route’s creator. By submitting a report, you confirm that the report is truthful.
+This Route was rejected.
+When you report a Route to Niantic, we review the report and take appropriate action in line with our policies. Your identity will never be shared with the Route’s creator. By submitting a report, you confirm that the report is truthful.
 Thank you for submitting a report. We’re sorry for any inconvenience you experienced.
 Thank you for submitting a report. We’re sorry for any inconvenience you experienced. You will receive rewards for the section of the Route you completed.
 Route Reported
 Report this Route
-If you submit this report, your current Route session will end. 
+If you submit this report, your current Route session will end.
 Are you sure you want to report this Route?
 RESUME ROUTE
 Route direction reversed.
@@ -22579,17 +23006,19 @@ Length
 Level
 Nearest
 Rating
-STAMPS
-Failed to start route
+{0} km away
+{0} m away
+Failed to start Route.
 {0} started!
 Archived
 Not submitted yet
 Published
 Rejected
 Under review
-Submitted on {0}
+Submitted {0}
 If you quit this Route, your current progress will be lost. This action cannot be undone.
 If you have experienced an issue on this Route that prevented you from completing it, you can report the issue <color=#{0}>here</color>.
+START NEW ROUTE
 Are you sure you want to quit this Route?
 Route ended.
 BACK
@@ -22600,24 +23029,22 @@ Please describe the journey, history, or background of this Route.
 Add Route Information
 Add up to {0} Route tags (optional)
 Add Route Title
-Your description contains inappropriate or prohibited content
-Route image is not valid
-Your title contains inappropriate or prohibited content
+Route image is not valid.
 Select an image for your Route Badge:
 COLOR
 Description
-It may take more time to review this Route if you choose to make changes now.
+Review time for this Route may be extended if you choose to make changes. Only one resubmission is allowed per Route.
 Are you sure you want to edit this submission?
 Badge Creation
 Badges
-Please enter a valid description to proceed
-Please enter a valid title to proceed
+Please enter a valid description to proceed.
+Please enter a valid title to proceed.
 My Route Title
 The next step is to name and describe your Route.It might take a few minutes for you to write a description, and doing so will help speed up the approval process. Don’t worry—your progress will be saved if you exit!
 Path
 PHOTO
 Submission Preview
-Please modify the title and/or description to resubmit this Route. 
+Please modify the title and/or description to resubmit this Route.
 Route submission error. Please try again later.
 Route matches a previously rejected Route.
 Thank you for your contribution to the Pokémon GO Community!
@@ -22631,19 +23058,20 @@ You can check the status of your submission via the Route section of your Traine
 Your Route was successfully submitted for review!
 Route submission unavailable. Please try again later.
 Unknown error in the Route submission process. Please try again later.
-Can this Route be followed in reverse?
+Allow this Route to be followed in reverse.
 MAKE ADJUSTMENTS
 Please review your Route’s path. If there are any issues with the path, you can make manual adjustments before you continue.
 KEEP CURRENT PATH
 Review Route Path
 Describe your Route
 Select a header color for your Route Badge:
-Do you want to show your Trainer nickname in the Route description? This will be visible to other Trainers.
+Share my Trainer nickname in the public description of this Route.
 Name Your Route
 Archived {0}
 Published {0}
 Rejected {0}
 Submitted {0}
+Select a tag
 Title
 Write Later
 Write Now
@@ -22669,11 +23097,11 @@ Good for a Sunny Day
 Great Views
 Wheelchair Accessible
 TAGS
-{0} times
 TOTAL ACTIVITY
 TOTAL COMMUNITY ACTIVITY
 Total Times Followed
 REVERSE DIRECTION
+Are you sure you want to delete this Route submission?
 This Route is under review.
 This action cannot be undone. This Route will return to an in-progress state if you proceed. You can edit and resubmit this Route for review later.
 Are you sure you want to withdraw this Route from review?
@@ -22684,9 +23112,8 @@ This Route was successfully withdrawn from review
 UNSUBMIT ROUTE
 Route descriptions cannot exceed {0} characters.
 Route titles cannot exceed {0} characters.
-Waiting for data to load
-TRAVEL
-Follow the path to the Route end point to complete this Route. 
+Waiting for data to load.
+Follow the path to the Route end point to complete this Route.
 Navigate to the start point to begin the Route.
 WEEKLY COMMUNITY ACTIVITY
 Times Followed
@@ -22698,6 +23125,7 @@ This is your current end point.
 CURRENT ROUTE LENGTH:
 This is your current start point.
 End at:
+A Route is nearby!
 Routes found nearby!
 No Selection Made
 No Selection Made
@@ -22803,30 +23231,74 @@ Pokémon GO Safari Zone: Taipei 2022 (2/2)
 Safari Zone: Battle another Trainer
 Safari Zone: Use {0} Razz Berries to help catch Pokémon
 Safari Zone: Take a snapshot of your buddy
+City Safari: Barcelona 2023
+City Safari: Barcelona 2023 (1/3)
+City Safari: Barcelona 2023 (2/3)
+City Safari: Barcelona 2023 (3/3)
+City Safari: Mexico City 2023
+City Safari: Mexico City 2023 (1/3)
+City Safari: Mexico City 2023 (2/3)
+City Safari: Mexico City 2023 (3/3)
+City Safari: Seoul 2023
+City Safari: Seoul 2023 (1/3)
+City Safari: Seoul 2023 (2/3)
+City Safari: Seoul 2023 (3/3)
+Hello, %PLAYERNAME%. It’s wonderful to see you here! This is one of my favorite cities, and it’s popular with other Pokémon Trainers, too!
+In fact, there was a large gathering of Trainers here some time ago, just as some species of Pokémon that aren’t commonly found in the area happened to be appearing.
+And wouldn’t you know it, those Pokémon are also appearing now! Let’s see if we can find them.
+All set to explore the city, %PLAYERNAME%?
+That’s the spirit! Let’s get to it.
+We can start by checking out those PokéStops over there.
+Great job, %PLAYERNAME%! That’s a Pokémon that you don’t usually see in these parts.
+Funnily enough, I remember seeing it around here during that previous gathering of Trainers I mentioned.
+What other Pokémon do you think we’ll spot today?
+Wow! Excellent work, %PLAYERNAME%.
+It’s been a while since I’ve seen that Pokémon! You’re really on a roll today.
+Let’s see what other Pokémon are around, shall we?
+Well, well!
+That Pokémon was also spotted during that previous gathering!
+Maybe it had such a good time it stuck around to meet more Trainers...
+Whatever the case, it couldn’t have met a nicer Trainer, %PLAYERNAME%.
+Good work, %PLAYERNAME%! I’m sure that Pokémon will have a great time adventuring with you.
+Phew! We’ve been moving a lot today, huh? Let’s make one more stop before we take a well-earned rest.
+What do you say?
+That’s all for our tour this time, %PLAYERNAME%. Thanks for coming on this little adventure!
+I’m always grateful for the chance to research Pokémon alongside skilled Trainers like yourself.
+Plus, it’s hard not to get fired up in the presence of such passion! So the next time there’s a research opportunity, I’m sure I’ll see you there.
+Till next time, %PLAYERNAME%!
+Let’s GO!
 Barcelona City Safari: The Journey Continues
-Barcelona City Safari: The Journey Continues (1/7)
-Barcelona City Safari: The Journey Continues (2/7)
-Barcelona City Safari: The Journey Continues (3/7)
-Barcelona City Safari: The Journey Continues (4/7)
-Barcelona City Safari: The Journey Continues (5/7)
-Barcelona City Safari: The Journey Continues (6/7)
-Barcelona City Safari: The Journey Continues (7/7)
+Barcelona City Safari: The Journey Continues (1/1)
 Mexico City Safari: The Journey Continues
-Mexico City Safari: The Journey Continues (1/7)
-Mexico City Safari: The Journey Continues (2/7)
-Mexico City Safari: The Journey Continues (3/7)
-Mexico City Safari: The Journey Continues (4/7)
-Mexico City Safari: The Journey Continues (5/7)
-Mexico City Safari: The Journey Continues (6/7)
-Mexico City Safari: The Journey Continues (7/7)
+Mexico City Safari: The Journey Continues (1/1)
 Seoul City Safari: The Journey Continues
-Seoul City Safari: The Journey Continues (1/7)
-Seoul City Safari: The Journey Continues (2/7)
-Seoul City Safari: The Journey Continues (3/7)
-Seoul City Safari: The Journey Continues (4/7)
-Seoul City Safari: The Journey Continues (5/7)
-Seoul City Safari: The Journey Continues (6/7)
-Seoul City Safari: The Journey Continues (7/7)
+Seoul City Safari: The Journey Continues (1/1)
+Hello, %PLAYERNAME%! Ready for an eventful day of research in the city?
+I’m sure you’ll meet all sorts of Pokémon, but first I’d like to introduce you to one in particular—this intrepid Eevee!
+Charming, isn’t it? Something tells me the two of you will make an excellent team. Now, get out there and start your adventure together!
+Excellent choice, %PLAYERNAME%.
+A wise choice, %PLAYERNAME%.
+Strong choice, %PLAYERNAME%.
+Epic choice, %PLAYERNAME%!
+Now, you and Eevee have a great time exploring the city! Don’t forget to stop for snacks now and then—and make sure to take some snapshots to remember your adventure!
+I hope you and Eevee have an educational day exploring the city. Please remember to stay hydrated and to document your findings via snapshots.
+You and Eevee are primed for a fruitful day of exploration. Just don’t forget to stop for snacks and snapshots now and then, yeah?
+I hope you and Eevee have a great time zooming all over town! Remember to grab some snacks, snap some shots, and above all—stay hydrated!
+I’m looking forward to hearing all about your discoveries when you’re back.
+I look forward to hearing your final report.
+I can’t wait to hear all about your adventures later!
+Tell me all about it when you’re back!
+Welcome back, %PLAYERNAME%! Oh, and you too, Eevee!
+Take any good snapshots? Have any tasty food?
+There’s tons to see, so I hope the two of you enjoy exploring together! I have no doubt you and Eevee are bound to share many journeys to come.
+Hello again, %PLAYERNAME%!
+Hello, %PLAYERNAME%. It’s good to see you.
+Hey, %PLAYERNAME%! It’s been a minute.
+‘Sup, %PLAYERNAME%! Great to see you.
+Which of these do you think will help you get the most out of your City Safari experience?
+I would like to offer you something that will assist your research. Please choose whatever you think will be most helpful.
+Why don’t you pick something that gets you fired up?
+Let’s kick it up a notch today. Which one of these gives you a jolt of excitement?
 Pokémon GO Safari Zone
 Safari Zone: Evolve a Pokémon
 Safari Zone: Defeat {0} Team GO Rocket Grunts
@@ -22924,6 +23396,7 @@ Spun 0 PokéStops
 Spun {0} PokéStops
 Spun 1 PokéStop
 friends
+Party
 Gym Badges
 Battle
 EX Raid Passes
@@ -22988,6 +23461,15 @@ You sent a Friend Request.
 You sent a Friend Request to {0}!
 Sent a Gift to {0}.
 {0} sent you a Gift!
+Catch Cup: Seoul
+Sprigatito Collection Challenge
+Fuecoco Collection Challenge
+Quaxly Collection Challenge
+Lechonk Collection Challenge
+Marvelous Minds Challenge: Gardevoir
+Marvelous Minds Challenge: Alakazam
+Marvelous Minds Challenge: Slowbro
+Marvelous Minds Challenge: Medicham
 Pokémon GO is currently down for maintenance.  Please try again later.
 Server maintenance is about to begin! This feature is not available now.
 Pokémon GO will begin server maintenance in {0} minutes. The game will be unavailable at that time.
@@ -23031,6 +23513,10 @@ Allow Battle Challenges with Friends
 Increased Friendship Level
 Friend Request Accepted
 Friend Request Received
+Allow Friend Requests from:
+Party Members
+Raid Members
+Friends
 General
 Your friend received their event ticket!
 Opened Gifts
@@ -23065,6 +23551,10 @@ Quick Start
 https://support.pokemon.com/hc/articles/360001417683
 Troubleshooting
 https://support.pokemon.com/hc/articles/360001435906
+Party Play
+Share your location with the party to see other Trainers on the map.
+Share Location with Party
+See Other Trainers on the Map
 To access your currently paired device, please go to the Pokémon GO Plus screen via the Settings menu.
 To access your currently paired device, please go to the Poké Ball Plus screen via the Settings menu.
 About Nintendo
@@ -23095,6 +23585,7 @@ Are you sure you want to refresh your game data?
 Resources
 Route Guidance
 Get alerted when you are near your current Route’s end point or when mysterious things appear.
+Save AR snapshots to your device.
 Expanded Group Transfer
 Allows you to transfer Legendary Pokémon and certain Mythical Pokémon when selecting multiple Pokémon in your Pokémon storage.
 Pokémon GO Plus
@@ -23235,7 +23726,7 @@ You and one {0} are invited to an EX Raid.
 Invitation declined.
 Your friend {0} has invited you to an EX Raid at {1}.
 クロス新宿ビジョン
-You already have a ticket for this event.
+You already have a ticket for this event or have an active or completed Research that disqualifies you from being able to purchase this ticket.
 You’re out of Premium Battle Passes!
 You’re out of Premium Battle Passes!
 ({0} + {1} Bonus PokéCoins)
@@ -23265,7 +23756,7 @@ Exchange
 Exchange
 
 Your {0} is fully upgraded!
-Some friends may be ineligible to receive paid gifts. Reasons for being ineligible include:  • They already own the ticket  • Someone else sent them a ticket already  • You do not meet the minimum friendship level required to buy this player a gift  • They may have disabled the ability to receive paid gifts
+Some friends may be ineligible to receive paid gifts. Reasons for being ineligible include:  • They already own the ticket or already have the Research active or completed that disqualifies them from receiving this ticket  • Someone else sent them a ticket already  • You do not meet the minimum friendship level required to buy this player a gift  • They may have disabled the ability to receive paid gifts
 Cannot Send Gift
 Hello, <b>{0}</b>! Come join me for this event!Here’s your ticket—it’s on me!Sincerely,—<b>{1}</b>
 INVITATION
@@ -23367,6 +23858,7 @@ Spring into Spring
 Spring into Spring event Eggs
 Spring into Spring event wild Pokémon
 Up to six free Raid Passes per day by spinning Gym Photo Discs
+Increased chance of finding XXS and XXL Oddish during this event
 Increased chance of finding XXS and XXL Pidgey during this event!
 1 hour
 1 hour and 1 minute
@@ -23414,6 +23906,7 @@ A Very Slow Discovery Challenge
 A Very Slow Discovery
 Import friends from Facebook
 QR Code
+SCAN QR CODE
 Add Friend
 Cancel request
 Lucky Pokémon
@@ -23435,6 +23928,7 @@ Remove Friend
 SEARCH
 Send a Friend Request by entering your friend's Trainer Code.
 SHARE MY TRAINER CODE
+SHARE CODE
 Lunatone and Solrock appearing in different regions
 Solstice Box
 Solstice
@@ -23480,6 +23974,7 @@ More Fletchling are appearing in the wild
 More Froakie are appearing in the wild
 More Gastly are appearing in the wild
 More Gible are appearing in the wild
+More Grubbin are appearing in the wild!
 More Hoppip are appearing in the wild
 More Larvitar are appearing in the wild!
 More Litwick are appearing in the wild!
@@ -24328,6 +24823,7 @@ Ticket for the A Rocky Road Research story available in the shop
 Ticket for the Keeping Sharp Special Research story available in the in-game shop
 Ticket for the Bulbasaur Community Day Classic Special Research story available in the shop
 Tickets for the A Tale of Tails Special Research story available in the shop
+Ticket for the Charmander Community Day Classic Special Research story available in the shop
 Ticket for the Quality Quills Special Research story available in the shop
 Ticket for a Special Research story available in the shop
 Ticket for December Community Day 2022 Special Research story available in the shop
@@ -24344,6 +24840,7 @@ Tickets for The Bravest Bird Special Research story available in the shop
 Ticket for the A Bubbly Disposition Special Research story available in the shop
 Tickets for the Special Research story The Great Gastly available in the shop
 Tickets for the Just a Nibble Special Research story available in the shop
+Ticket for the Grubbin Community Day Special Research story available in the shop
 Ticket for a Special Research story available in the shop
 Ticket for the A Hop, Skip, and Jump Away Special Research story available in the shop
 Ticket for the Larvitar Community Day Classic Special Research story available in the shop
@@ -24354,6 +24851,11 @@ Tickets for the No Match for Magmar Special Research story available in the shop
 Ticket for the Alola to Alola Special Research story available in the shop
 Ticket for the Mudkip Community Day Classic Special Research story available in the shop
 Ticket for the Abundant Noise Special Research story available in the shop
+Ticket of Treats
+Ticket of Treats: Part 1
+Ticket of Treats: Part 2
+Ticket of Treats: Part 3
+Ticket of Treats: Part 4
 Ticket for the From Scalchops to Seamitars Special Research story available in the shop
 Ticket for the Slippery Swirls Special Research story available in the shop
 Tickets for the Decoding Porygon Special Research story available in the shop
@@ -24411,6 +24913,15 @@ What sounds better? Taking in the sights and catching all the Pokémon you see? 
 Studious Adventure
 Choose this option to receive tasks focused on catching specific Pokémon and completing Field Research.
 Studious Adventure
+Snivy
+Choose this option if you think the professor is describing Snivy!
+Snivy
+Rowlet
+Choose this option if you think the professor is describing Rowlet!
+Rowlet
+Sudowoodo
+Choose this option if you think the professor is describing Sudowoodo!
+Sudowoodo
 Timed Research available
 Timed Research
 Featured Pokémon in Timed Research
@@ -24422,7 +24933,9 @@ You can claim a Gym controlled by a rival team by defeating the Pokémon in the 
 Battle at Gyms
 Pokémon GO is more fun with friends! Add a friend or invite new Trainers to join.
 Add Friends
-Add friends by getting their Trainer code or scanning their QR Code. You can also add friends by connecting your account to Facebook on the Add Friend screen.
+You can enable online status sharing now or do so later using the Online/Offline toggle on your Friend List.Your online status indicates to your friends when you are playing.
+Online Status
+Add friends by entering their Trainer Code or scanning their QR Code. Adding friends in Pokémon GO will connect you in all Niantic Games you both play.You can also add friends by connecting your account to Facebook on the Add Friend screen.
 Add Friends
 At level 10, you can battle alongside friends in Gyms and raids. You can also challenge them to Trainer Battles! Become Ultra or Best Friends to battle each other from anywhere in the world.
 Battle with Friends
@@ -24600,6 +25113,7 @@ You are not connected to Wi-Fi, so data rates may apply. Continue upload?
 Upload using cellular data
 PokéStop Scan
 Wi-Fi recommended
+Azurill Hatch Day
 Riolu Hatch Day
 This event has ended.
 Connect a Pokémon GO Plus + to claim exclusive Special Research!
@@ -24675,6 +25189,11 @@ Legends: #379
 Safari Zone Goyang – Exploration Challenge
 Pokémon GO Safari Zone: Singapore 2022 – Exploration Challenge
 Pokémon GO Safari Zone: Taipei 2022 – Exploration Challenge
+Weekend Rewards, September 2023
+Weekend Rewards, October 2023
+Weekend Rewards, November 2023
+Weekend Rewards, December 2023
+Weekend Rewards
 Trade
 Traded {0} for {1} with {2}.
 All Pokémon except Shadow and Mythical
@@ -24858,6 +25377,7 @@ When you pin a Postcard you receive from a friend, you’ll make progress on the
 Catch Vivillon from all around the world!
 It looks like you found a Candy XL! I’ve heard you can use these to help your Pokémon become even stronger than what ordinary Candies alone can achieve!
 There’s a chance that you can find Candies XL after you catch Pokémon. The stronger the Pokémon, the more likely you are to find Candies XL.
+Receive up to 12 Raid Passes at no cost by spinning Photo Discs at Gyms
 Up to two free Raid Passes per day by spinning Gym Photo Discs
 2+ days ago
 Supereffective Week: Use a supereffective Charged Attack in a Gym battle
@@ -24917,6 +25437,8 @@ Ultra Beast Arrival (5/8)
 Ultra Beast Arrival (6/8)
 Ultra Beast Arrival (7/8)
 Ultra Beast Arrival (8/8)
+Lechonk’s Adventure
+I’ve Got Your Back
 Ultra Unlock: Anniversary Event
 Ultra Unlock: Battle Weekend
 Ultra Beast cannot be left at Gyms.
