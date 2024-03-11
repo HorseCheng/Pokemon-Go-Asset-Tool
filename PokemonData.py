@@ -132,12 +132,18 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0391"] = "Triple Axel"
-chimovedict["0391"] = "三旋擊"
-engmovedict["0392"] = "Trailblaze"
-chimovedict["0392"] = "起草"
-engmovedict["0393"] = "Scorching Sands"
-chimovedict["0393"] = "熱沙大地"
+engmovedict["0390"] = "Nature's Madness"
+chimovedict["0390"] = "自然之怒"
+engmovedict["0399"] = "Volt Tackle"
+chimovedict["0399"] = "伏特攻擊"
+engmovedict["0400"] = "Darkest Lariat"
+chimovedict["0400"] = "DD金勾臂"
+engmovedict["0401"] = "Psywave"
+chimovedict["0401"] = "精神波"
+engmovedict["0402"] = "Metal Sound"
+chimovedict["0402"] = "金屬音"
+engmovedict["0403"] = "Sand Attack"
+chimovedict["0403"] = "潑沙"
 
 # Pokemon class
 class pokemon():
@@ -405,10 +411,12 @@ for i in pokelist:
 origin = pd.DataFrame([i.__dict__ for i in pokelist])
 
 main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI_CURLY$|ENAMORUS$|_S$') ].reset_index(drop=True)
+main = main[ ~main['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$') ].reset_index(drop=True)
 main = main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 #main with Apex Shadow pokemon
 main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI_CURLY$|ENAMORUS$') ].reset_index(drop=True)
+main_s = main_s[ ~main_s['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$') ].reset_index(drop=True)
 main_s = main_s.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 
