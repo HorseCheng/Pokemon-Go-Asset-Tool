@@ -53,6 +53,48 @@ for value,char in enumerate(chi):
         else:
             if int(key[1])<100: 
                 catdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2981:  # OINKOLOGNE
+                catdict[str(key[0])+"_FEMALE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2982: 
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2983:  # MAUSHOLD
+                catdict[str(key[0])+"_FOUR"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2984: 
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2985:  # SQUAWKABILLY
+                catdict[str(key[0])+"_GREEN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2986: 
+                catdict[str(key[0])+"_BLUE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2987: 
+                catdict[str(key[0])+"_YELLOW"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2988: 
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2989:  # PALAFIN
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2990: 
+                catdict[str(key[0])+"_HERO"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2991:  # TATSUGIRI
+                catdict[str(key[0])+"_CURLY"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2992: 
+                catdict[str(key[0])+"_DROOPY"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2993: 
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2994:  # MAUSHOLD
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2995: 
+                catdict[str(key[0])+"_THREE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2996: # KORAIDON
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2997: # MIRAIDON
+                catdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
             else:
                 catdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
 
@@ -67,6 +109,53 @@ for value,char in enumerate(chi):
         else:
             if int(key[1])<100: 
                 introdict[str(key[0])+"_ALOLA"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2802:  # ENAMORUS
+                introdict[str(key[0])+"_INCARNATE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2803: 
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2981:  # OINKOLOGNE
+                introdict[str(key[0])+"_FEMALE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2982: 
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2983:  # MAUSHOLD
+                introdict[str(key[0])+"_FOUR"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2984: 
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2985:  # SQUAWKABILLY
+                introdict[str(key[0])+"_GREEN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2986: 
+                introdict[str(key[0])+"_BLUE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2987: 
+                introdict[str(key[0])+"_YELLOW"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2988: 
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2989:  # PALAFIN
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2990: 
+                introdict[str(key[0])+"_HERO"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2991:  # TATSUGIRI
+                introdict[str(key[0])+"_CURLY"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2992: 
+                introdict[str(key[0])+"_DROOPY"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2993: 
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2994:  # MAUSHOLD
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2995: 
+                introdict[str(key[0])+"_THREE"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
+            elif int(key[1])==2996: # KORAIDON
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+            elif int(key[1])==2997: # MIRAIDON
+                introdict[str(key[0])]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
+
             else:  
                 introdict[str(key[0])+"_GALARIAN"]=chi[value+1].replace("_x000D_"," ").replace("\n", " ")
 
@@ -132,16 +221,6 @@ chimovedict["0339"] = "高科技光炮 (水流)"
 engmovedict["0340"] = "Techno Blast"
 chimovedict["0340"] = "高科技光炮 (閃電)"
 
-engmovedict["0390"] = "Nature's Madness"
-chimovedict["0390"] = "自然之怒"
-engmovedict["0399"] = "Volt Tackle"
-chimovedict["0399"] = "伏特攻擊"
-engmovedict["0400"] = "Darkest Lariat"
-chimovedict["0400"] = "DD金勾臂"
-engmovedict["0401"] = "Psywave"
-chimovedict["0401"] = "精神波"
-engmovedict["0402"] = "Metal Sound"
-chimovedict["0402"] = "金屬音"
 engmovedict["0403"] = "Sand Attack"
 chimovedict["0403"] = "潑沙"
 
@@ -213,28 +292,131 @@ class pokemon():
             return ""
      
     def descripthandle(self, typee):
-        if(typee=="cat"):
-            if("ALOLA" in self.name):
+        if typee=="cat":
+            if "ALOLA" in self.name:
                 try: return catdict[self.id+"_ALOLA"]
                 except: return catdict[self.id]
             if "GALARIAN" in self.name:
                 try: return catdict[self.id+"_GALARIAN"]
                 except: return catdict[self.id]
+
+            if "OINKOLOGNE_FEMALE" in self.name:
+                try: return catdict[self.id+"_FEMALE"]
+                except: return catdict[self.id]
+            elif "OINKOLOGNE" in self.name:
+                return catdict[self.id]
+
+            if "MAUSHOLD_FAMILY_OF_FOUR" in self.name:
+                try: return catdict[self.id+"_FOUR"]
+                except: return catdict[self.id]
+            elif "MAUSHOLD" in self.name:
+                return catdict[self.id]
+
+            if "SQUAWKABILLY_BLUE" in self.name:
+                try: return catdict[self.id+"_GREEN"]
+                except: return catdict[self.id]
+            elif "SQUAWKABILLY_GREEN" in self.name:
+                try: return catdict[self.id+"_BLUE"]
+                except: return catdict[self.id]
+            elif "SQUAWKABILLY_WHITE" in self.name:
+                try: return catdict[self.id+"_YELLOW"]
+                except: return catdict[self.id]
+            elif "SQUAWKABILLY" in self.name:
+                return catdict[self.id]
+
+            if "PALAFIN_HERO" in self.name:
+                try: return catdict[self.id+"_HERO"]
+                except: return catdict[self.id]
+            elif "PALAFIN" in self.name:
+                return catdict[self.id]
+
+            if "TATSUGIRI_CURLY" in self.name:
+                try: return catdict[self.id+"_CURLY"]
+                except: return catdict[self.id]
+            elif "TATSUGIRI_DROOPY" in self.name:
+                try: return catdict[self.id+"_DROOPY"]
+                except: return catdict[self.id]
+            elif "TATSUGIRI" in self.name:
+                return catdict[self.id]
+
+            if "DUDUNSPARCE_THREE" in self.name:
+                try: return catdict[self.id+"_THREE"]
+                except: return catdict[self.id]
+            elif "DUDUNSPARCE" in self.name:
+                return catdict[self.id]
+
+            if "KORAIDON" in self.name:
+                return catdict[self.id]
+            if "MIRAIDON" in self.name:
+                return catdict[self.id]
+
             try: 
                 return catdict[self.id]
             except: 
                 print(f"category error {self.id}")
                 return ""
 
-        if("ALOLA" in self.name):
+        # introdict
+        if "ALOLA" in self.name:
             return introdict[self.id+"_ALOLA"]
         if "GALARIAN" in self.name:
             try: return introdict[self.id+"_GALARIAN"]
             except: return introdict[self.id]
+
+        if "INCARNATE" in self.name:
+            try: return introdict[self.id+"_INCARNATE"]
+            except: return introdict[self.id]
+        elif "ENAMORUS" in self.name:
+            return introdict[self.id]
+
+        if "OINKOLOGNE_FEMALE" in self.name:
+            try: return introdict[self.id+"_FEMALE"]
+            except: return introdict[self.id]
+        elif "OINKOLOGNE" in self.name:
+            return introdict[self.id]
+
+        if "MAUSHOLD_FAMILY_OF_FOUR" in self.name:
+            try: return introdict[self.id+"_FOUR"]
+            except: return introdict[self.id]
+        elif "MAUSHOLD" in self.name:
+            return introdict[self.id]
+
+        if "SQUAWKABILLY_BLUE" in self.name:
+            try: return introdict[self.id+"_GREEN"]
+            except: return introdict[self.id]
+        elif "SQUAWKABILLY_GREEN" in self.name:
+            try: return introdict[self.id+"_BLUE"]
+            except: return introdict[self.id]
+        elif "SQUAWKABILLY_WHITE" in self.name:
+            try: return introdict[self.id+"_YELLOW"]
+            except: return introdict[self.id]
+        elif "SQUAWKABILLY" in self.name:
+            return introdict[self.id]
+
+        if "PALAFIN_HERO" in self.name:
+            try: return introdict[self.id+"_HERO"]
+            except: return introdict[self.id]
+        elif "PALAFIN" in self.name:
+            return introdict[self.id]
+
+        if "TATSUGIRI_CURLY" in self.name:
+            try: return introdict[self.id+"_CURLY"]
+            except: return introdict[self.id]
+        elif "TATSUGIRI_DROOPY" in self.name:
+            try: return introdict[self.id+"_DROOPY"]
+            except: return introdict[self.id]
+        elif "TATSUGIRI" in self.name:
+            return introdict[self.id]
+
+        if "KORAIDON" in self.name:
+            return introdict[self.id]
+        if "MIRAIDON" in self.name:
+            return introdict[self.id]
+
         try: 
             return introdict[self.id]
         except: 
-            print(f"description error {self.id}")
+            print(f"description error {self.id}: {self.name}")
             return ""
     
     def ratiohandle(self, inn):
@@ -359,7 +541,7 @@ for data in master:
     if(re.search("^V[0-9]+_MOVE_",data["templateId"])):
         movelist.append(move(data))
 
-#Find male/female ratio     
+# Find male/female ratio     
 noww=-1
 for data in master:
     if(re.search("SPAWN_V[0-9]+_POKEMON_", data["templateId"])):
@@ -368,21 +550,21 @@ for data in master:
                 pokelist[i].ratiohandle(data["data"]["genderSettings"]["gender"])
                 noww=i; break
         else:
-            print("ratio error",data["templateId"]) #Didn't found, weird situation
+            print("ratio error",data["templateId"]) # Didn't found, weird situation
 
-#PVP Moves Info
+# PVP Moves Info
 noww=-1
 for data in master:
-    if(re.search("COMBAT_V[0-9]+_MOVE_", data["templateId"])):
+    if(re.search("COMBAT_V[0-9]+_MOVE_", data["templateId"])) and "NON_COMBAT_" not in data["templateId"]:
         for i in range(noww+1, len(movelist)):
             if str(movelist[i].name) in data["templateId"]:
                 movelist[i].pvphandle(data["data"]["combatMove"])
                 noww=i; break
-        else: print("pvp error", data["templateId"]) #Didn't found, weird situation
-
+        else: 
+            print("pvp error", data["templateId"]) # Didn't found, weird situation
 
     
-#Special condition: make DEOXYS's and CASTFORM's moves the same as DEOXYS_NOMARL and CASTFORM_NOMARL have
+# Special condition: make DEOXYS's and CASTFORM's moves the same as DEOXYS_NOMARL and CASTFORM_NOMARL have
 for x in pokelist:
     if x.name == 'CASTFORM':
         for y in pokelist:
@@ -394,7 +576,7 @@ for x in pokelist:
             if y.name == 'DEOXYS_NORMAL':
                 x.quick=y.quick; x.charged=y.charged
     
-#Pokemon Moves Translation
+# Pokemon Moves Translation
 for i in pokelist:
     if i.quick != None:   
         for value,char in enumerate(i.quick):
@@ -410,13 +592,13 @@ for i in pokelist:
 # Output file
 origin = pd.DataFrame([i.__dict__ for i in pokelist])
 
-main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI_CURLY$|ENAMORUS$|_S$') ].reset_index(drop=True)
-main = main[ ~main['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$') ].reset_index(drop=True)
+main = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI$|ENAMORUS$|OINKOLOGNE_NORMAL$|PALAFIN_ZERO$|KORAIDON_APEX$|MIRAIDON_ULTIMATE$|_S$') ].reset_index(drop=True)
+main = main[ ~main['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$|PIKACHU_GOFEST_2024_MTIARA$|PIKACHU_GOFEST_2024_STIARA$|EEVEE_GOFEST_2024_MTIARA$|EEVEE_GOFEST_2024_STIARA$|ESPEON_GOFEST_2024_SSCARF$|UMBREON_GOFEST_2024_MSCARF$') ].reset_index(drop=True)
 main = main.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 #main with Apex Shadow pokemon
-main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI_CURLY$|ENAMORUS$') ].reset_index(drop=True)
-main_s = main_s[ ~main_s['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$') ].reset_index(drop=True)
+main_s = origin[ ~origin['name'].str.contains('NORMAL|PUMPKABOO$|GOURGEIST$|BURMY$|WORMADAM$|CHERRIM$|SHELLOS$|GASTRODON$|GIRATINA$|SHAYMIN$|BASCULIN$|DARMANITAN$|DEERLING$|SAWSBUCK$|TORNADUS$|THUNDURUS$|LANDORUS$|KELDEO$|MELOETTA$|NATURAL$|HOOPA$|TOXTRICITY$|SINISTEA$|POLTEAGEIST$|INDEEDEE_MALE$|MORPEKO$|ZACIAN$|ZAMAZENTA$|FLABEBE$|FLOETTE$|FLORGES$|URSHIFU$|SHADOW$|PURIFIED$|MIDDAY$|SOLO$|METEOR$|DISGUISED$|BAILE$|MEADOW$|ZYGARDE$|COMPLETE_FIFTY_PERCENT$|COMPLETE_TEN_PERCENT$|MAUSHOLD_FAMILY_OF_THREE$|SQUAWKABILLY_GREEN$|DUDUNSPARCE_TWO$|TATSUGIRI$|ENAMORUS$|OINKOLOGNE_NORMAL$|PALAFIN_ZERO$|KORAIDON_APEX$|MIRAIDON_ULTIMATE$') ].reset_index(drop=True)
+main_s = main_s[ ~main_s['name'].str.contains('PIKACHU_COSTUME_2020$|PIKACHU_FLYING_02$|PIKACHU_FLYING_03$|PIKACHU_FLYING_04$|PIKACHU_TSHIRT_03$|PIKACHU_TSHIRT_02$|PIKACHU_GOTOUR_2024_A_02$|PIKACHU_GOTOUR_2024_B$|PIKACHU_GOTOUR_2024_B_02$|PIKACHU_SUMMER_2023_B$|PIKACHU_SUMMER_2023_C$|PIKACHU_SUMMER_2023_D$|PIKACHU_SUMMER_2023_E$|PIKACHU_WCS_2023$|PIKACHU_GOFEST_2024_MTIARA$|PIKACHU_GOFEST_2024_STIARA$|EEVEE_GOFEST_2024_MTIARA$|EEVEE_GOFEST_2024_STIARA$|ESPEON_GOFEST_2024_SSCARF$|UMBREON_GOFEST_2024_MSCARF$') ].reset_index(drop=True)
 main_s = main_s.sort_values(by=['id'],kind='mergesort').reset_index(drop=True)
 
 

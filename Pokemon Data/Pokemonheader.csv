@@ -1251,7 +1251,6 @@
 0963,FINIZEN,波普海豚,Finizen
 0964,PALAFIN,海豚俠,Palafin
 0964,PALAFIN_HERO,海豚俠,Palafin
-0964,PALAFIN_ZERO,海豚俠,Palafin
 0965,VAROOM,噗隆隆,Varoom
 0966,REVAVROOM,普隆隆姆,Revavroom
 0967,CYCLIZAR,摩托蜥,Cyclizar
@@ -1265,7 +1264,7 @@
 0975,CETITAN,浩大鯨,Cetitan
 0976,VELUZA,輕身鱈,Veluza
 0977,DONDOZO,吃吼霸,Dondozo
-0978,TATSUGIRI,米立龍,Tatsugiri
+0978,TATSUGIRI_CURLY,米立龍,Tatsugiri
 0978,TATSUGIRI_DROOPY,米立龍,Tatsugiri
 0978,TATSUGIRI_STRETCHY,米立龍,Tatsugiri
 0979,ANNIHILAPE,棄世猴,Annihilape
@@ -1298,6 +1297,4 @@
 1005,ROARINGMOON,轟鳴月,Roaring Moon
 1006,IRONVALIANT,鐵武者,Iron Valiant
 1007,KORAIDON,故勒頓,Koraidon
-1007,KORAIDON_APEX,故勒頓,Koraidon
 1008,MIRAIDON,密勒頓,Miraidon
-1008,MIRAIDON_ULTIMATE,密勒頓,Miraidon
